@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:39 EST
+"Nutrient data for: 02029, Spices, parsley, dried"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 0.5g","1 tbsp = 1.6g",
+Proximates
+"Water",g,5.89,0.03,0.09
+"Energy",kcal,292,1,5
+"Protein",g,26.63,0.13,0.43
+"Total lipid (fat)",g,5.48,0.03,0.09
+"Carbohydrate, by difference",g,50.64,0.25,0.81
+"Fiber, total dietary",g,26.7,0.1,0.4
+"Sugars, total",g,7.27,0.04,0.12
+Minerals
+"Calcium, Ca",mg,1140,6,18
+"Iron, Fe",mg,22.04,0.11,0.35
+"Magnesium, Mg",mg,400,2,6
+"Phosphorus, P",mg,436,2,7
+"Potassium, K",mg,2683,13,43
+"Sodium, Na",mg,452,2,7
+"Zinc, Zn",mg,5.44,0.03,0.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,125.0,0.6,2.0
+"Thiamin",mg,0.196,0.001,0.003
+"Riboflavin",mg,2.383,0.012,0.038
+"Niacin",mg,9.943,0.050,0.159
+"Vitamin B-6",mg,0.900,0.005,0.014
+"Folate, DFE",µg,180,1,3
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,97,0,2
+"Vitamin A, IU",IU,1939,10,31
+"Vitamin E (alpha-tocopherol)",mg,8.96,0.04,0.14
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1359.5,6.8,21.8
+Lipids
+"Fatty acids, total saturated",g,1.378,0.007,0.022
+"Fatty acids, total monounsaturated",g,0.761,0.004,0.012
+"Fatty acids, total polyunsaturated",g,3.124,0.016,0.050
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

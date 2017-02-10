@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:39 EST
+"Nutrient data for: 02011, Spices, cloves, ground"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 2.1g","1 tbsp = 6.5g",
+Proximates
+"Water",g,9.87,0.21,0.64
+"Energy",kcal,274,6,18
+"Protein",g,5.97,0.13,0.39
+"Total lipid (fat)",g,13.00,0.27,0.84
+"Carbohydrate, by difference",g,65.53,1.38,4.26
+"Fiber, total dietary",g,33.9,0.7,2.2
+"Sugars, total",g,2.38,0.05,0.15
+Minerals
+"Calcium, Ca",mg,632,13,41
+"Iron, Fe",mg,11.83,0.25,0.77
+"Magnesium, Mg",mg,259,5,17
+"Phosphorus, P",mg,104,2,7
+"Potassium, K",mg,1020,21,66
+"Sodium, Na",mg,277,6,18
+"Zinc, Zn",mg,2.32,0.05,0.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.0,0.0
+"Thiamin",mg,0.158,0.003,0.010
+"Riboflavin",mg,0.220,0.005,0.014
+"Niacin",mg,1.560,0.033,0.101
+"Vitamin B-6",mg,0.391,0.008,0.025
+"Folate, DFE",µg,25,1,2
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,8,0,1
+"Vitamin A, IU",IU,160,3,10
+"Vitamin E (alpha-tocopherol)",mg,8.82,0.19,0.57
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,141.8,3.0,9.2
+Lipids
+"Fatty acids, total saturated",g,3.952,0.083,0.257
+"Fatty acids, total monounsaturated",g,1.393,0.029,0.091
+"Fatty acids, total polyunsaturated",g,3.606,0.076,0.234
+"Fatty acids, total trans",g,0.254,0.005,0.017
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

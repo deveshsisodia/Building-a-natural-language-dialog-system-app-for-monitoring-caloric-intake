@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:39 EST
+"Nutrient data for: 02004, Spices, bay leaf"
+Nutrient,Unit,1Value per 100 g,"1 tsp, crumbled = 0.6g","1 tbsp, crumbled = 1.8g",
+Proximates
+"Water",g,5.44,0.03,0.10
+"Energy",kcal,313,2,6
+"Protein",g,7.61,0.05,0.14
+"Total lipid (fat)",g,8.36,0.05,0.15
+"Carbohydrate, by difference",g,74.97,0.45,1.35
+"Fiber, total dietary",g,26.3,0.2,0.5
+Minerals
+"Calcium, Ca",mg,834,5,15
+"Iron, Fe",mg,43.00,0.26,0.77
+"Magnesium, Mg",mg,120,1,2
+"Phosphorus, P",mg,113,1,2
+"Potassium, K",mg,529,3,10
+"Sodium, Na",mg,23,0,0
+"Zinc, Zn",mg,3.70,0.02,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,46.5,0.3,0.8
+"Thiamin",mg,0.009,0.000,0.000
+"Riboflavin",mg,0.421,0.003,0.008
+"Niacin",mg,2.005,0.012,0.036
+"Vitamin B-6",mg,1.740,0.010,0.031
+"Folate, DFE",µg,180,1,3
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,309,2,6
+"Vitamin A, IU",IU,6185,37,111
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,2.280,0.014,0.041
+"Fatty acids, total monounsaturated",g,1.640,0.010,0.030
+"Fatty acids, total polyunsaturated",g,2.290,0.014,0.041
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

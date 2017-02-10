@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:31 EST
+"Nutrient data for: 21111, Fast foods, hamburger; double, regular patty; with condiments"
+Nutrient,Unit,1Value per 100 g,"1 item = 215.0g",
+Proximates
+"Water",g,50.51,108.60
+"Energy",kcal,268,576
+"Protein",g,14.80,31.82
+"Total lipid (fat)",g,15.10,32.47
+"Carbohydrate, by difference",g,18.02,38.74
+Minerals
+"Calcium, Ca",mg,43,92
+"Iron, Fe",mg,2.58,5.55
+"Magnesium, Mg",mg,21,45
+"Phosphorus, P",mg,132,284
+"Potassium, K",mg,245,527
+"Sodium, Na",mg,345,742
+"Zinc, Zn",mg,2.70,5.80
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,1.1
+"Thiamin",mg,0.160,0.344
+"Riboflavin",mg,0.190,0.409
+"Niacin",mg,3.130,6.729
+"Vitamin B-6",mg,0.170,0.366
+"Folate, DFE",µg,52,112
+"Vitamin B-12",µg,1.55,3.33
+"Vitamin A, IU",IU,25,54
+Lipids
+"Fatty acids, total saturated",g,5.582,12.001
+"Fatty acids, total monounsaturated",g,6.571,14.128
+"Fatty acids, total polyunsaturated",g,1.286,2.765
+"Cholesterol",mg,48,103
+Amino Acids
+Other

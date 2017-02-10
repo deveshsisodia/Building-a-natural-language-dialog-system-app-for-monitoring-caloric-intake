@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:31 EST
+"Nutrient data for: 21090, Fast foods, cheeseburger; single, regular patty, with condiments"
+Nutrient,Unit,1Value per 100 g,"1 item = 127.0g",
+Proximates
+"Water",g,45.78,58.14
+"Energy",kcal,270,343
+"Protein",g,13.49,17.13
+"Total lipid (fat)",g,12.90,16.38
+"Carbohydrate, by difference",g,25.46,32.33
+"Fiber, total dietary",g,1.9,2.4
+"Sugars, total",g,5.24,6.65
+Minerals
+"Calcium, Ca",mg,123,156
+"Iron, Fe",mg,2.25,2.86
+"Magnesium, Mg",mg,23,29
+"Phosphorus, P",mg,142,180
+"Potassium, K",mg,184,234
+"Sodium, Na",mg,628,798
+"Zinc, Zn",mg,2.21,2.81
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.5
+"Thiamin",mg,0.320,0.406
+"Riboflavin",mg,0.190,0.241
+"Niacin",mg,3.510,4.458
+"Vitamin B-6",mg,0.374,0.475
+"Folate, DFE",µg,39,50
+"Vitamin B-12",µg,1.31,1.66
+"Vitamin A, RAE",µg,55,70
+"Vitamin A, IU",IU,261,331
+"Vitamin E (alpha-tocopherol)",mg,0.09,0.11
+"Vitamin D (D2 + D3)",µg,0.1,0.1
+"Vitamin D",IU,3,4
+"Vitamin K (phylloquinone)",µg,5.5,7.0
+Lipids
+"Fatty acids, total saturated",g,5.797,7.362
+"Fatty acids, total monounsaturated",g,5.035,6.394
+"Fatty acids, total polyunsaturated",g,1.363,1.731
+"Cholesterol",mg,39,50
+Amino Acids
+Other
+"Caffeine",mg,0,0

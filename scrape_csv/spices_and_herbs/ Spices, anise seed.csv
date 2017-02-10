@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:39 EST
+"Nutrient data for: 02002, Spices, anise seed"
+Nutrient,Unit,1Value per 100 g,"1 tsp, whole = 2.1g","1 tbsp, whole = 6.7g",
+Proximates
+"Water",g,9.54,0.20,0.64
+"Energy",kcal,337,7,23
+"Protein",g,17.60,0.37,1.18
+"Total lipid (fat)",g,15.90,0.33,1.07
+"Carbohydrate, by difference",g,50.02,1.05,3.35
+"Fiber, total dietary",g,14.6,0.3,1.0
+Minerals
+"Calcium, Ca",mg,646,14,43
+"Iron, Fe",mg,36.96,0.78,2.48
+"Magnesium, Mg",mg,170,4,11
+"Phosphorus, P",mg,440,9,29
+"Potassium, K",mg,1441,30,97
+"Sodium, Na",mg,16,0,1
+"Zinc, Zn",mg,5.30,0.11,0.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,21.0,0.4,1.4
+"Thiamin",mg,0.340,0.007,0.023
+"Riboflavin",mg,0.290,0.006,0.019
+"Niacin",mg,3.060,0.064,0.205
+"Vitamin B-6",mg,0.650,0.014,0.044
+"Folate, DFE",µg,10,0,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,16,0,1
+"Vitamin A, IU",IU,311,7,21
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.586,0.012,0.039
+"Fatty acids, total monounsaturated",g,9.780,0.205,0.655
+"Fatty acids, total polyunsaturated",g,3.150,0.066,0.211
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

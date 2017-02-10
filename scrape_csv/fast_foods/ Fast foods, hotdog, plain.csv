@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:31 EST
+"Nutrient data for: 21118, Fast foods, hotdog, plain"
+Nutrient,Unit,1Value per 100 g,"1 sandwich = 98.0g",
+Proximates
+"Water",g,53.96,52.88
+"Energy",kcal,247,242
+"Protein",g,10.60,10.39
+"Total lipid (fat)",g,14.84,14.54
+"Carbohydrate, by difference",g,18.40,18.03
+Minerals
+"Calcium, Ca",mg,24,24
+"Iron, Fe",mg,2.36,2.31
+"Magnesium, Mg",mg,13,13
+"Phosphorus, P",mg,99,97
+"Potassium, K",mg,146,143
+"Sodium, Na",mg,684,670
+"Zinc, Zn",mg,2.02,1.98
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.1
+"Thiamin",mg,0.240,0.235
+"Riboflavin",mg,0.280,0.274
+"Niacin",mg,3.720,3.646
+"Vitamin B-6",mg,0.050,0.049
+"Folate, DFE",µg,62,61
+"Vitamin B-12",µg,0.52,0.51
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,5.213,5.109
+"Fatty acids, total monounsaturated",g,6.993,6.853
+"Fatty acids, total polyunsaturated",g,1.741,1.706
+"Cholesterol",mg,45,44
+Amino Acids
+Other

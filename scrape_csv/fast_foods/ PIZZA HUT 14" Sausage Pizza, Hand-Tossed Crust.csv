@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:33 EST
+"Nutrient data for: 21497, PIZZA HUT 14"" Sausage Pizza, Hand-Tossed Crust"
+Nutrient,Unit,1Value per 100 g,"1 slice = 119.0g","1 pizza = 952.0g",
+Proximates
+"Water",g,42.57,50.66,405.27
+"Energy",kcal,287,342,2732
+"Protein",g,11.92,14.18,113.48
+"Total lipid (fat)",g,13.50,16.07,128.52
+"Carbohydrate, by difference",g,29.39,34.97,279.79
+"Fiber, total dietary",g,2.3,2.7,21.9
+"Sugars, total",g,2.72,3.24,25.89
+Minerals
+"Calcium, Ca",mg,150,178,1428
+"Iron, Fe",mg,2.45,2.92,23.32
+"Magnesium, Mg",mg,23,27,219
+"Phosphorus, P",mg,191,227,1818
+"Potassium, K",mg,211,251,2009
+"Sodium, Na",mg,671,798,6388
+"Zinc, Zn",mg,1.40,1.67,13.33
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.8,3.3,26.7
+"Thiamin",mg,0.360,0.428,3.427
+"Riboflavin",mg,0.220,0.262,2.094
+"Niacin",mg,4.250,5.058,40.460
+"Vitamin B-6",mg,0.090,0.107,0.857
+"Vitamin B-12",µg,0.49,0.58,4.66
+Lipids
+"Fatty acids, total saturated",g,5.459,6.496,51.970
+"Fatty acids, total monounsaturated",g,4.732,5.631,45.049
+"Fatty acids, total polyunsaturated",g,2.318,2.758,22.067
+"Fatty acids, total trans",g,0.220,0.262,2.094
+"Cholesterol",mg,26,31,248
+Amino Acids
+Other

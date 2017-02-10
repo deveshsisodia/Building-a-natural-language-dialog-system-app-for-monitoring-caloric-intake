@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:32 EST
+"Nutrient data for: 21033, Fast foods, sundae, hot fudge"
+Nutrient,Unit,1Value per 100 g,"1 sundae = 158.0g",
+Proximates
+"Water",g,59.70,94.33
+"Energy",kcal,180,284
+"Protein",g,3.57,5.64
+"Total lipid (fat)",g,5.46,8.63
+"Carbohydrate, by difference",g,30.17,47.67
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,131,207
+"Iron, Fe",mg,0.37,0.58
+"Magnesium, Mg",mg,21,33
+"Phosphorus, P",mg,144,228
+"Potassium, K",mg,250,395
+"Sodium, Na",mg,115,182
+"Zinc, Zn",mg,0.60,0.95
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.5,2.4
+"Thiamin",mg,0.040,0.063
+"Riboflavin",mg,0.190,0.300
+"Niacin",mg,0.680,1.074
+"Vitamin B-6",mg,0.080,0.126
+"Folate, DFE",µg,6,9
+"Vitamin B-12",µg,0.41,0.65
+"Vitamin A, RAE",µg,37,58
+"Vitamin A, IU",IU,140,221
+"Vitamin E (alpha-tocopherol)",mg,0.42,0.66
+Lipids
+"Fatty acids, total saturated",g,3.179,5.023
+"Fatty acids, total monounsaturated",g,1.475,2.331
+"Fatty acids, total polyunsaturated",g,0.511,0.807
+"Cholesterol",mg,13,21
+Amino Acids
+Other
+"Caffeine",mg,1,2

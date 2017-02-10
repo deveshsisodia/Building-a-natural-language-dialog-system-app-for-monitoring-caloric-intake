@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:31 EST
+"Nutrient data for: 21120, Fast foods, hotdog, with corn flour coating (corndog)"
+Nutrient,Unit,1Value per 100 g,"1 sandwich = 175.0g",
+Proximates
+"Water",g,46.70,81.73
+"Energy",kcal,263,460
+"Protein",g,9.60,16.80
+"Total lipid (fat)",g,10.80,18.90
+"Carbohydrate, by difference",g,31.88,55.79
+Minerals
+"Calcium, Ca",mg,58,102
+"Iron, Fe",mg,3.53,6.18
+"Magnesium, Mg",mg,10,18
+"Phosphorus, P",mg,95,166
+"Potassium, K",mg,150,262
+"Sodium, Na",mg,556,973
+"Zinc, Zn",mg,0.75,1.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.160,0.280
+"Riboflavin",mg,0.400,0.700
+"Niacin",mg,2.380,4.165
+"Vitamin B-6",mg,0.050,0.087
+"Folate, DFE",µg,77,135
+"Vitamin B-12",µg,0.25,0.44
+"Vitamin A, RAE",µg,34,60
+"Vitamin A, IU",IU,118,206
+Lipids
+"Fatty acids, total saturated",g,2.949,5.161
+"Fatty acids, total monounsaturated",g,5.205,9.109
+"Fatty acids, total polyunsaturated",g,1.998,3.496
+"Cholesterol",mg,45,79
+Amino Acids
+Other

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:31 EST
+"Nutrient data for: 21490, Fast Foods, grilled chicken filet sandwich, with lettuce, tomato and spread"
+Nutrient,Unit,1Value per 100 g,"1 sandwich = 230.0g",
+Proximates
+"Water",g,60.44,139.01
+"Energy",kcal,182,419
+"Protein",g,17.34,39.88
+"Total lipid (fat)",g,4.57,10.51
+"Carbohydrate, by difference",g,16.78,38.59
+"Fiber, total dietary",g,0.9,2.1
+"Sugars, total",g,3.08,7.08
+Minerals
+"Calcium, Ca",mg,62,143
+"Iron, Fe",mg,1.58,3.63
+"Magnesium, Mg",mg,23,53
+"Phosphorus, P",mg,142,327
+"Potassium, K",mg,197,453
+"Sodium, Na",mg,427,982
+"Zinc, Zn",mg,0.75,1.73
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.4,5.5
+"Thiamin",mg,0.234,0.538
+"Riboflavin",mg,0.121,0.278
+"Niacin",mg,7.780,17.894
+"Vitamin B-6",mg,0.309,0.711
+"Folate, DFE",µg,57,131
+"Vitamin B-12",µg,0.22,0.51
+"Vitamin A, RAE",µg,11,25
+"Vitamin A, IU",IU,158,363
+"Vitamin E (alpha-tocopherol)",mg,0.38,0.87
+"Vitamin D (D2 + D3)",µg,0.1,0.2
+"Vitamin D",IU,2,5
+"Vitamin K (phylloquinone)",µg,6.7,15.4
+Lipids
+"Fatty acids, total saturated",g,0.949,2.183
+"Fatty acids, total monounsaturated",g,1.339,3.080
+"Fatty acids, total polyunsaturated",g,1.839,4.230
+"Cholesterol",mg,40,92
+Amino Acids
+Other
+"Caffeine",mg,0,0

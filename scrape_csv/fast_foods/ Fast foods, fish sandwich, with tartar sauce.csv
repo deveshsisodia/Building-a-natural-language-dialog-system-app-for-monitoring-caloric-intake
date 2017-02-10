@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:31 EST
+"Nutrient data for: 21105, Fast foods, fish sandwich, with tartar sauce"
+Nutrient,Unit,1Value per 100 g,"1 sandwich = 220.0g",
+Proximates
+"Water",g,48.44,106.57
+"Energy",kcal,257,565
+"Protein",g,10.29,22.64
+"Total lipid (fat)",g,12.45,27.39
+"Carbohydrate, by difference",g,26.69,58.72
+"Fiber, total dietary",g,1.0,2.2
+"Sugars, total",g,3.53,7.77
+Minerals
+"Calcium, Ca",mg,37,81
+"Iron, Fe",mg,1.50,3.30
+"Magnesium, Mg",mg,25,55
+"Phosphorus, P",mg,116,255
+"Potassium, K",mg,206,453
+"Sodium, Na",mg,602,1324
+"Zinc, Zn",mg,0.49,1.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.8,4.0
+"Thiamin",mg,0.210,0.462
+"Riboflavin",mg,0.140,0.308
+"Niacin",mg,2.150,4.730
+"Vitamin B-6",mg,0.070,0.154
+"Folate, DFE",µg,66,145
+"Vitamin B-12",µg,0.68,1.50
+"Vitamin A, RAE",µg,6,13
+"Vitamin A, IU",IU,87,191
+"Vitamin E (alpha-tocopherol)",mg,0.55,1.21
+"Vitamin D (D2 + D3)",µg,0.2,0.4
+"Vitamin D",IU,9,20
+"Vitamin K (phylloquinone)",µg,13.6,29.9
+Lipids
+"Fatty acids, total saturated",g,1.949,4.288
+"Fatty acids, total monounsaturated",g,2.595,5.709
+"Fatty acids, total polyunsaturated",g,6.257,13.765
+"Fatty acids, total trans",g,0.080,0.176
+"Cholesterol",mg,35,77
+Amino Acids
+Other
+"Caffeine",mg,0,0

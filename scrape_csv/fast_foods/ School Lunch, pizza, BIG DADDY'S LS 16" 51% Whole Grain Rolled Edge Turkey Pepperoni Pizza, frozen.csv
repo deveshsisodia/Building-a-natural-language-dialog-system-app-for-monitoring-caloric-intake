@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:33 EST
+"Nutrient data for: 21146, School Lunch, pizza, BIG DADDY'S LS 16"" 51% Whole Grain Rolled Edge Turkey Pepperoni Pizza, frozen"
+Nutrient,Unit,1Value per 100 g,"1 slice 1/8 per pizza = 156.0g","1 slice 1/10 per pizza = 124.0g",
+Proximates
+"Water",g,47.57,74.21,58.99
+"Energy",kcal,248,387,308
+"Protein",g,13.63,21.26,16.90
+"Total lipid (fat)",g,9.33,14.55,11.57
+"Carbohydrate, by difference",g,27.35,42.67,33.91
+"Fiber, total dietary",g,4.1,6.4,5.1
+"Sugars, total",g,3.83,5.97,4.75
+Minerals
+"Calcium, Ca",mg,147,229,182
+"Iron, Fe",mg,2.40,3.74,2.98
+"Magnesium, Mg",mg,39,61,48
+"Phosphorus, P",mg,290,452,360
+"Potassium, K",mg,293,457,363
+"Sodium, Na",mg,450,702,558
+"Zinc, Zn",mg,1.83,2.85,2.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.3,0.2
+"Thiamin",mg,0.200,0.312,0.248
+"Riboflavin",mg,0.270,0.421,0.335
+"Niacin",mg,2.393,3.733,2.967
+"Vitamin B-6",mg,0.136,0.212,0.169
+"Vitamin B-12",µg,1.13,1.76,1.40
+"Vitamin A, IU",IU,244,381,303
+Lipids
+"Fatty acids, total saturated",g,3.990,6.224,4.948
+"Fatty acids, total monounsaturated",g,2.750,4.290,3.410
+"Fatty acids, total polyunsaturated",g,1.150,1.794,1.426
+"Fatty acids, total trans",g,0.290,0.452,0.360
+Amino Acids
+Other

@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:39 EST
+"Nutrient data for: 02016, Spices, dill seed"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 2.1g","1 tbsp = 6.6g",
+Proximates
+"Water",g,7.70,0.16,0.51
+"Energy",kcal,305,6,20
+"Protein",g,15.98,0.34,1.05
+"Total lipid (fat)",g,14.54,0.31,0.96
+"Carbohydrate, by difference",g,55.17,1.16,3.64
+"Fiber, total dietary",g,21.1,0.4,1.4
+Minerals
+"Calcium, Ca",mg,1516,32,100
+"Iron, Fe",mg,16.33,0.34,1.08
+"Magnesium, Mg",mg,256,5,17
+"Phosphorus, P",mg,277,6,18
+"Potassium, K",mg,1186,25,78
+"Sodium, Na",mg,20,0,1
+"Zinc, Zn",mg,5.20,0.11,0.34
+Vitamins
+"Vitamin C, total ascorbic acid",mg,21.0,0.4,1.4
+"Thiamin",mg,0.418,0.009,0.028
+"Riboflavin",mg,0.284,0.006,0.019
+"Niacin",mg,2.807,0.059,0.185
+"Vitamin B-6",mg,0.250,0.005,0.017
+"Folate, DFE",µg,10,0,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,3,0,0
+"Vitamin A, IU",IU,53,1,3
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.730,0.015,0.048
+"Fatty acids, total monounsaturated",g,9.410,0.198,0.621
+"Fatty acids, total polyunsaturated",g,1.010,0.021,0.067
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:30 EST
+"Nutrient data for: 21526, CHICK-FIL-A, chicken sandwich"
+Nutrient,Unit,1Value per 100 g,"1 sandwich = 187.0g",
+Proximates
+"Water",g,48.94,91.52
+"Energy",kcal,249,466
+"Protein",g,16.28,30.44
+"Total lipid (fat)",g,11.19,20.93
+"Carbohydrate, by difference",g,20.89,39.06
+"Fiber, total dietary",g,1.4,2.6
+"Sugars, total",g,3.64,6.81
+Minerals
+"Calcium, Ca",mg,58,108
+"Iron, Fe",mg,1.77,3.31
+"Magnesium, Mg",mg,24,45
+"Phosphorus, P",mg,185,346
+"Potassium, K",mg,245,458
+"Sodium, Na",mg,753,1408
+"Zinc, Zn",mg,0.61,1.14
+Vitamins
+"Thiamin",mg,0.230,0.430
+"Riboflavin",mg,0.300,0.561
+"Niacin",mg,7.720,14.436
+"Vitamin B-6",mg,0.383,0.716
+"Vitamin B-12",µg,0.13,0.24
+Lipids
+"Fatty acids, total saturated",g,2.123,3.970
+"Fatty acids, total monounsaturated",g,4.481,8.379
+"Fatty acids, total polyunsaturated",g,3.177,5.941
+"Fatty acids, total trans",g,0.030,0.056
+"Cholesterol",mg,35,65
+Amino Acids
+Other

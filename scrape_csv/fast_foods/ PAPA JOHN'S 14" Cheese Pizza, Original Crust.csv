@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:33 EST
+"Nutrient data for: 21283, PAPA JOHN'S 14"" Cheese Pizza, Original Crust"
+Nutrient,Unit,1Value per 100 g,"1 slice = 117.0g","1 pie = 938.0g",
+Proximates
+"Water",g,44.16,51.67,414.22
+"Energy",kcal,260,304,2439
+"Protein",g,11.53,13.49,108.15
+"Total lipid (fat)",g,9.25,10.82,86.77
+"Carbohydrate, by difference",g,32.74,38.31,307.10
+"Fiber, total dietary",g,1.9,2.2,17.8
+"Sugars, total",g,5.32,6.22,49.90
+Minerals
+"Calcium, Ca",mg,166,194,1557
+"Iron, Fe",mg,1.97,2.30,18.48
+"Magnesium, Mg",mg,24,28,225
+"Phosphorus, P",mg,203,238,1904
+"Potassium, K",mg,138,161,1294
+"Sodium, Na",mg,578,676,5422
+"Zinc, Zn",mg,1.24,1.45,11.63
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.453,0.530,4.249
+"Riboflavin",mg,1.225,1.433,11.491
+"Niacin",mg,3.064,3.585,28.740
+"Vitamin B-6",mg,0.122,0.143,1.144
+"Folate, DFE",µg,109,128,1022
+"Vitamin B-12",µg,0.68,0.80,6.38
+"Vitamin A, RAE",µg,60,70,563
+"Vitamin A, IU",IU,295,345,2767
+"Vitamin E (alpha-tocopherol)",mg,1.14,1.33,10.69
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,7.5,8.8,70.3
+Lipids
+"Fatty acids, total saturated",g,3.871,4.529,36.310
+"Fatty acids, total monounsaturated",g,2.476,2.897,23.225
+"Fatty acids, total polyunsaturated",g,1.970,2.305,18.479
+"Cholesterol",mg,19,22,178
+Amino Acids
+Other

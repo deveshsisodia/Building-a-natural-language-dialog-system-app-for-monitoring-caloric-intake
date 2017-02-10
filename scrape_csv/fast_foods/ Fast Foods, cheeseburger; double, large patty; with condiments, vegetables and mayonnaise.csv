@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:31 EST
+"Nutrient data for: 21399, Fast Foods, cheeseburger; double, large patty; with condiments, vegetables and mayonnaise"
+Nutrient,Unit,1Value per 100 g,"1 item = 355.0g",
+Proximates
+"Water",g,54.56,193.69
+"Energy",kcal,253,898
+"Protein",g,15.50,55.02
+"Total lipid (fat)",g,15.63,55.49
+"Carbohydrate, by difference",g,12.62,44.80
+"Fiber, total dietary",g,1.3,4.6
+"Sugars, total",g,3.61,12.82
+Minerals
+"Calcium, Ca",mg,68,241
+"Iron, Fe",mg,4.12,14.63
+"Magnesium, Mg",mg,19,67
+"Phosphorus, P",mg,131,465
+"Potassium, K",mg,202,717
+"Sodium, Na",mg,405,1438
+"Zinc, Zn",mg,3.27,11.61
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,1.8
+"Thiamin",mg,0.254,0.902
+"Riboflavin",mg,0.230,0.817
+"Niacin",mg,3.260,11.573
+"Vitamin B-6",mg,0.150,0.532
+"Folate, DFE",µg,42,149
+"Vitamin B-12",µg,1.92,6.82
+"Vitamin A, RAE",µg,12,43
+"Vitamin A, IU",IU,111,394
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.21
+"Vitamin D (D2 + D3)",µg,0.1,0.4
+"Vitamin D",IU,4,14
+"Vitamin K (phylloquinone)",µg,9.2,32.7
+Lipids
+"Fatty acids, total saturated",g,6.519,23.142
+"Fatty acids, total monounsaturated",g,6.249,22.184
+"Fatty acids, total polyunsaturated",g,2.299,8.161
+"Fatty acids, total trans",g,0.620,2.201
+"Cholesterol",mg,49,174
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:30 EST
+"Nutrient data for: 21252, BURGER KING, WHOPPER, no cheese"
+Nutrient,Unit,1Value per 100 g,"1 item = 291.0g",
+Proximates
+"Water",g,56.43,164.21
+"Energy",kcal,233,678
+"Protein",g,10.74,31.25
+"Total lipid (fat)",g,12.84,37.36
+"Carbohydrate, by difference",g,18.55,53.98
+"Fiber, total dietary",g,1.8,5.2
+"Sugars, total",g,4.22,12.28
+Minerals
+"Calcium, Ca",mg,39,113
+"Iron, Fe",mg,4.37,12.72
+"Magnesium, Mg",mg,18,52
+"Phosphorus, P",mg,90,262
+"Potassium, K",mg,169,492
+"Sodium, Na",mg,313,911
+"Zinc, Zn",mg,2.83,8.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.6
+"Thiamin",mg,0.215,0.626
+"Riboflavin",mg,0.175,0.509
+"Niacin",mg,2.873,8.360
+"Vitamin B-6",mg,0.091,0.265
+"Folate, DFE",µg,70,204
+"Vitamin E (alpha-tocopherol)",mg,0.15,0.44
+"Vitamin K (phylloquinone)",µg,19.5,56.7
+Lipids
+"Fatty acids, total saturated",g,4.250,12.367
+"Fatty acids, total monounsaturated",g,4.685,13.633
+"Fatty acids, total polyunsaturated",g,3.389,9.862
+"Fatty acids, total trans",g,0.507,1.475
+"Cholesterol",mg,30,87
+Amino Acids
+Other

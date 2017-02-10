@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:30 EST
+"Nutrient data for: 21144, CHICK-FIL-A, hash browns"
+Nutrient,Unit,1Value per 100 g,"1 piece = 5.5g","1 serving = 77.0g",
+Proximates
+"Water",g,45.82,2.52,35.28
+"Energy",kcal,301,17,232
+"Protein",g,3.00,0.17,2.31
+"Total lipid (fat)",g,18.50,1.02,14.24
+"Carbohydrate, by difference",g,30.51,1.68,23.49
+"Fiber, total dietary",g,3.2,0.2,2.5
+"Sugars, total",g,0.54,0.03,0.42
+Minerals
+"Calcium, Ca",mg,22,1,17
+"Iron, Fe",mg,0.65,0.04,0.50
+"Magnesium, Mg",mg,25,1,19
+"Phosphorus, P",mg,100,6,77
+"Potassium, K",mg,456,25,351
+"Sodium, Na",mg,454,25,350
+"Zinc, Zn",mg,0.45,0.02,0.35
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.2,0.3,4.8
+"Thiamin",mg,0.163,0.009,0.126
+"Riboflavin",mg,0.060,0.003,0.046
+"Niacin",mg,2.407,0.132,1.853
+"Vitamin B-6",mg,0.230,0.013,0.177
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,5,0,4
+"Vitamin E (alpha-tocopherol)",mg,3.00,0.17,2.31
+Lipids
+"Fatty acids, total saturated",g,2.778,0.153,2.139
+"Fatty acids, total monounsaturated",g,10.700,0.588,8.239
+"Fatty acids, total polyunsaturated",g,3.887,0.214,2.993
+"Fatty acids, total trans",g,0.044,0.002,0.034
+Amino Acids
+Other

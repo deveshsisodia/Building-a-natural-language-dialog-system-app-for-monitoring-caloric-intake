@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:32 EST
+"Nutrient data for: 21233, McDONALD'S, Cheeseburger"
+Nutrient,Unit,1Value per 100 g,"1 item 4 oz = 119.0g",
+Proximates
+"Water",g,45.00,53.55
+"Energy",kcal,263,313
+"Protein",g,12.97,15.43
+"Total lipid (fat)",g,11.79,14.03
+"Carbohydrate, by difference",g,27.81,33.09
+"Fiber, total dietary",g,1.1,1.3
+"Sugars, total",g,6.22,7.40
+Minerals
+"Calcium, Ca",mg,167,199
+"Iron, Fe",mg,2.35,2.80
+"Magnesium, Mg",mg,20,24
+"Phosphorus, P",mg,140,167
+"Potassium, K",mg,200,238
+"Sodium, Na",mg,626,745
+"Zinc, Zn",mg,1.91,2.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.7
+"Thiamin",mg,0.223,0.265
+"Riboflavin",mg,0.260,0.309
+"Niacin",mg,4.026,4.791
+"Vitamin B-12",µg,0.86,1.02
+"Vitamin A, IU",IU,243,289
+Lipids
+"Fatty acids, total saturated",g,4.435,5.278
+"Fatty acids, total monounsaturated",g,3.631,4.321
+"Fatty acids, total polyunsaturated",g,0.355,0.422
+"Fatty acids, total trans",g,0.647,0.770
+"Cholesterol",mg,35,42
+Amino Acids
+Other

@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:32 EST
+"Nutrient data for: 21288, LITTLE CAESARS 14"" Original Round Pepperoni Pizza, Regular Crust"
+Nutrient,Unit,1Value per 100 g,"1 slice = 90.0g","1 pie = 852.0g",
+Proximates
+"Water",g,42.57,38.31,362.70
+"Energy",kcal,273,246,2326
+"Protein",g,13.59,12.23,115.79
+"Total lipid (fat)",g,10.50,9.45,89.46
+"Carbohydrate, by difference",g,31.01,27.91,264.21
+"Fiber, total dietary",g,1.7,1.5,14.5
+"Sugars, total",g,3.76,3.38,32.04
+Minerals
+"Calcium, Ca",mg,210,189,1789
+"Iron, Fe",mg,2.34,2.11,19.94
+"Magnesium, Mg",mg,28,25,239
+"Phosphorus, P",mg,224,202,1908
+"Potassium, K",mg,178,160,1517
+"Sodium, Na",mg,518,466,4413
+"Zinc, Zn",mg,1.66,1.49,14.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.338,0.304,2.880
+"Riboflavin",mg,0.311,0.280,2.650
+"Niacin",mg,3.737,3.363,31.839
+"Vitamin B-12",µg,0.52,0.47,4.43
+"Vitamin A, RAE",µg,71,64,605
+"Vitamin A, IU",IU,331,298,2820
+"Vitamin E (alpha-tocopherol)",mg,0.76,0.68,6.48
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,5.9,5.3,50.3
+Lipids
+"Fatty acids, total saturated",g,4.541,4.087,38.689
+"Fatty acids, total monounsaturated",g,3.108,2.797,26.480
+"Fatty acids, total polyunsaturated",g,1.603,1.443,13.658
+"Cholesterol",mg,28,25,239
+Amino Acids
+Other

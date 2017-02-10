@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:32 EST
+"Nutrient data for: 21422, KFC, Popcorn Chicken"
+Nutrient,Unit,1Value per 100 g,"1 piece = 6.4g","10.0 pieces = 56.0g",
+Proximates
+"Water",g,35.62,2.28,19.95
+"Energy",kcal,351,22,197
+"Protein",g,17.67,1.13,9.90
+"Total lipid (fat)",g,21.74,1.39,12.17
+"Carbohydrate, by difference",g,21.18,1.36,11.86
+"Fiber, total dietary",g,1.0,0.1,0.6
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,32,2,18
+"Iron, Fe",mg,1.42,0.09,0.80
+"Magnesium, Mg",mg,28,2,16
+"Phosphorus, P",mg,299,19,167
+"Potassium, K",mg,288,18,161
+"Sodium, Na",mg,1140,73,638
+"Zinc, Zn",mg,0.98,0.06,0.55
+Vitamins
+"Thiamin",mg,0.177,0.011,0.099
+"Riboflavin",mg,0.130,0.008,0.073
+"Niacin",mg,8.108,0.519,4.540
+"Vitamin B-6",mg,0.502,0.032,0.281
+"Vitamin B-12",µg,0.14,0.01,0.08
+"Vitamin E (alpha-tocopherol)",mg,1.32,0.08,0.74
+"Vitamin K (phylloquinone)",µg,17.4,1.1,9.7
+Lipids
+"Fatty acids, total saturated",g,3.954,0.253,2.214
+"Fatty acids, total monounsaturated",g,5.660,0.362,3.170
+"Fatty acids, total polyunsaturated",g,10.093,0.646,5.652
+"Fatty acids, total trans",g,0.158,0.010,0.088
+"Cholesterol",mg,40,3,22
+Amino Acids
+Other

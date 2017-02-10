@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:31 EST
+"Nutrient data for: 21061, Fast foods, burrito, with beans and cheese"
+Nutrient,Unit,1Value per 100 g,"1 each burrito = 185.0g",
+Proximates
+"Water",g,53.17,98.36
+"Energy",kcal,205,379
+"Protein",g,7.35,13.60
+"Total lipid (fat)",g,6.05,11.19
+"Carbohydrate, by difference",g,31.23,57.78
+"Fiber, total dietary",g,4.2,7.8
+"Sugars, total",g,1.73,3.20
+Minerals
+"Calcium, Ca",mg,124,229
+"Iron, Fe",mg,2.37,4.38
+"Magnesium, Mg",mg,34,63
+"Phosphorus, P",mg,163,302
+"Potassium, K",mg,261,483
+"Sodium, Na",mg,563,1042
+"Zinc, Zn",mg,0.86,1.59
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.7
+"Thiamin",mg,0.190,0.351
+"Riboflavin",mg,0.100,0.185
+"Niacin",mg,2.020,3.737
+"Vitamin B-6",mg,0.100,0.185
+"Folate, DFE",µg,128,237
+"Vitamin B-12",µg,0.16,0.30
+"Vitamin A, RAE",µg,25,46
+"Vitamin A, IU",IU,116,215
+"Vitamin E (alpha-tocopherol)",mg,0.54,1.00
+"Vitamin D (D2 + D3)",µg,0.1,0.2
+"Vitamin D",IU,2,4
+"Vitamin K (phylloquinone)",µg,3.2,5.9
+Lipids
+"Fatty acids, total saturated",g,2.309,4.272
+"Fatty acids, total monounsaturated",g,1.258,2.327
+"Fatty acids, total polyunsaturated",g,2.229,4.124
+"Fatty acids, total trans",g,0.106,0.196
+"Cholesterol",mg,5,9
+Amino Acids
+Other
+"Caffeine",mg,0,0

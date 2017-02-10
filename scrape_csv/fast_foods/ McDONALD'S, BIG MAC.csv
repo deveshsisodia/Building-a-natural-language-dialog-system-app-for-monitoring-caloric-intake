@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:32 EST
+"Nutrient data for: 21237, McDONALD'S, BIG MAC"
+Nutrient,Unit,1Value per 100 g,"1 item 7.6 oz = 219.0g",
+Proximates
+"Water",g,51.30,112.35
+"Energy",kcal,257,563
+"Protein",g,11.82,25.89
+"Total lipid (fat)",g,14.96,32.76
+"Carbohydrate, by difference",g,20.08,43.98
+"Fiber, total dietary",g,1.6,3.5
+"Sugars, total",g,3.97,8.69
+Minerals
+"Calcium, Ca",mg,116,254
+"Iron, Fe",mg,2.00,4.38
+"Magnesium, Mg",mg,20,44
+"Phosphorus, P",mg,122,267
+"Potassium, K",mg,181,396
+"Sodium, Na",mg,460,1007
+"Zinc, Zn",mg,1.91,4.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.9
+"Thiamin",mg,0.176,0.385
+"Riboflavin",mg,0.209,0.458
+"Niacin",mg,3.384,7.411
+"Vitamin B-12",µg,0.88,1.93
+"Vitamin A, IU",IU,188,412
+Lipids
+"Fatty acids, total saturated",g,3.803,8.329
+"Fatty acids, total monounsaturated",g,3.474,7.608
+"Fatty acids, total polyunsaturated",g,0.306,0.670
+"Fatty acids, total trans",g,0.588,1.288
+"Cholesterol",mg,36,79
+Amino Acids
+Other

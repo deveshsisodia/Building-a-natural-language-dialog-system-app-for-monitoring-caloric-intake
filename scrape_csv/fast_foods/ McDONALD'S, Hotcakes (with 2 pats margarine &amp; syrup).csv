@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:32 EST
+"Nutrient data for: 21365, McDONALD'S, Hotcakes (with 2 pats margarine & syrup)"
+Nutrient,Unit,1Value per 100 g,"1 item = 221.0g",
+Proximates
+"Water",g,40.60,89.73
+"Energy",kcal,272,601
+"Protein",g,4.05,8.95
+"Total lipid (fat)",g,8.06,17.81
+"Carbohydrate, by difference",g,46.08,101.84
+"Fiber, total dietary",g,0.9,2.0
+"Sugars, total",g,20.58,45.48
+Minerals
+"Calcium, Ca",mg,57,126
+"Iron, Fe",mg,1.28,2.83
+"Magnesium, Mg",mg,13,29
+"Phosphorus, P",mg,177,391
+"Potassium, K",mg,125,276
+"Sodium, Na",mg,283,625
+"Zinc, Zn",mg,0.29,0.64
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.202,0.446
+"Riboflavin",mg,0.180,0.398
+"Niacin",mg,1.464,3.235
+"Vitamin B-6",mg,0.052,0.115
+"Vitamin B-12",µg,0.01,0.02
+"Vitamin A, IU",IU,241,533
+Lipids
+"Fatty acids, total saturated",g,0.818,1.808
+"Fatty acids, total monounsaturated",g,0.863,1.907
+"Fatty acids, total polyunsaturated",g,2.087,4.612
+"Fatty acids, total trans",g,1.788,3.951
+"Cholesterol",mg,9,20
+Amino Acids
+Other

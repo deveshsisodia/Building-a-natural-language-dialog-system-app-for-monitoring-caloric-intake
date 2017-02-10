@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:39 EST
+"Nutrient data for: 02022, Spices, mace, ground"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 1.7g","1 tbsp = 5.3g",
+Proximates
+"Water",g,8.17,0.14,0.43
+"Energy",kcal,475,8,25
+"Protein",g,6.71,0.11,0.36
+"Total lipid (fat)",g,32.38,0.55,1.72
+"Carbohydrate, by difference",g,50.50,0.86,2.68
+"Fiber, total dietary",g,20.2,0.3,1.1
+Minerals
+"Calcium, Ca",mg,252,4,13
+"Iron, Fe",mg,13.90,0.24,0.74
+"Magnesium, Mg",mg,163,3,9
+"Phosphorus, P",mg,110,2,6
+"Potassium, K",mg,463,8,25
+"Sodium, Na",mg,80,1,4
+"Zinc, Zn",mg,2.30,0.04,0.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,21.0,0.4,1.1
+"Thiamin",mg,0.312,0.005,0.017
+"Riboflavin",mg,0.448,0.008,0.024
+"Niacin",mg,1.350,0.023,0.072
+"Vitamin B-6",mg,0.160,0.003,0.008
+"Folate, DFE",µg,76,1,4
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,40,1,2
+"Vitamin A, IU",IU,800,14,42
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,9.510,0.162,0.504
+"Fatty acids, total monounsaturated",g,11.170,0.190,0.592
+"Fatty acids, total polyunsaturated",g,4.390,0.075,0.233
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

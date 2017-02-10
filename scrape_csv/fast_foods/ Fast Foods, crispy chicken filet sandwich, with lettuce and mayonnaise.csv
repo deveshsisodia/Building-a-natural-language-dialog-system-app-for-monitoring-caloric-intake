@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:31 EST
+"Nutrient data for: 21230, Fast Foods, crispy chicken filet sandwich, with lettuce and mayonnaise"
+Nutrient,Unit,1Value per 100 g,"1 sandwich = 152.0g",
+Proximates
+"Water",g,45.84,69.68
+"Energy",kcal,276,420
+"Protein",g,10.94,16.63
+"Total lipid (fat)",g,13.59,20.66
+"Carbohydrate, by difference",g,27.40,41.65
+"Fiber, total dietary",g,1.4,2.1
+"Sugars, total",g,3.40,5.17
+Minerals
+"Calcium, Ca",mg,72,109
+"Iron, Fe",mg,1.71,2.60
+"Magnesium, Mg",mg,20,30
+"Phosphorus, P",mg,144,219
+"Potassium, K",mg,179,272
+"Sodium, Na",mg,617,938
+"Zinc, Zn",mg,0.62,0.94
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.5
+"Thiamin",mg,0.160,0.243
+"Riboflavin",mg,0.183,0.278
+"Niacin",mg,5.110,7.767
+"Vitamin B-6",mg,0.126,0.192
+"Folate, DFE",µg,43,65
+"Vitamin B-12",µg,0.33,0.50
+"Vitamin A, RAE",µg,5,8
+"Vitamin A, IU",IU,78,119
+"Vitamin E (alpha-tocopherol)",mg,0.69,1.05
+"Vitamin D (D2 + D3)",µg,0.2,0.3
+"Vitamin D",IU,7,11
+"Vitamin K (phylloquinone)",µg,4.6,7.0
+Lipids
+"Fatty acids, total saturated",g,2.461,3.741
+"Fatty acids, total monounsaturated",g,4.077,6.197
+"Fatty acids, total polyunsaturated",g,5.631,8.559
+"Fatty acids, total trans",g,0.078,0.119
+"Cholesterol",mg,29,44
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:30 EST
+"Nutrient data for: 21280, DOMINO'S 14"" Pepperoni Pizza, Classic Hand-Tossed Crust"
+Nutrient,Unit,1Value per 100 g,"1 slice = 113.0g","1 pizza = 907.0g",
+Proximates
+"Water",g,43.40,49.04,393.64
+"Energy",kcal,273,308,2476
+"Protein",g,11.25,12.71,102.04
+"Total lipid (fat)",g,11.18,12.63,101.40
+"Carbohydrate, by difference",g,31.86,36.00,288.97
+"Fiber, total dietary",g,2.1,2.4,19.0
+"Sugars, total",g,3.69,4.17,33.47
+Minerals
+"Calcium, Ca",mg,141,159,1279
+"Iron, Fe",mg,2.33,2.63,21.13
+"Magnesium, Mg",mg,24,27,218
+"Phosphorus, P",mg,191,216,1732
+"Potassium, K",mg,183,207,1660
+"Sodium, Na",mg,611,690,5542
+"Zinc, Zn",mg,1.31,1.48,11.88
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,0.9,7.3
+"Thiamin",mg,0.310,0.350,2.812
+"Riboflavin",mg,0.200,0.226,1.814
+"Niacin",mg,3.460,3.910,31.382
+"Vitamin B-6",mg,0.070,0.079,0.635
+"Vitamin B-12",µg,0.49,0.55,4.44
+"Vitamin E (alpha-tocopherol)",mg,0.97,1.10,8.80
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,5.2,5.9,47.2
+Lipids
+"Fatty acids, total saturated",g,4.779,5.400,43.346
+"Fatty acids, total monounsaturated",g,3.368,3.806,30.548
+"Fatty acids, total polyunsaturated",g,2.106,2.380,19.101
+"Fatty acids, total trans",g,0.313,0.354,2.839
+"Cholesterol",mg,25,28,227
+Amino Acids
+Other

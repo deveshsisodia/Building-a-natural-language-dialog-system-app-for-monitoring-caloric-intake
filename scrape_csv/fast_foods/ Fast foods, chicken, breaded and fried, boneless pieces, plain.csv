@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:31 EST
+"Nutrient data for: 21229, Fast foods, chicken, breaded and fried, boneless pieces, plain"
+Nutrient,Unit,1Value per 100 g,"6.0 pieces = 96.0g","4.0 pieces = 64.0g","10.0 pieces = 160.0g","20.0 pieces = 320.0g",
+Proximates
+"Water",g,46.53,44.67,29.78,74.45,148.90
+"Energy",kcal,307,295,196,491,982
+"Protein",g,15.92,15.28,10.19,25.47,50.94
+"Total lipid (fat)",g,20.36,19.55,13.03,32.58,65.15
+"Carbohydrate, by difference",g,14.93,14.33,9.56,23.89,47.78
+"Fiber, total dietary",g,0.9,0.9,0.6,1.4,2.9
+"Sugars, total",g,0.08,0.08,0.05,0.13,0.26
+Minerals
+"Calcium, Ca",mg,11,11,7,18,35
+"Iron, Fe",mg,0.83,0.80,0.53,1.33,2.66
+"Magnesium, Mg",mg,24,23,15,38,77
+"Phosphorus, P",mg,272,261,174,435,870
+"Potassium, K",mg,251,241,161,402,803
+"Sodium, Na",mg,594,570,380,950,1901
+"Zinc, Zn",mg,0.59,0.57,0.38,0.94,1.89
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.6,0.4,1.0,1.9
+"Thiamin",mg,0.092,0.088,0.059,0.147,0.294
+"Riboflavin",mg,0.204,0.196,0.131,0.326,0.653
+"Niacin",mg,5.985,5.746,3.830,9.576,19.152
+"Vitamin B-6",mg,0.148,0.142,0.095,0.237,0.474
+"Folate, DFE",µg,15,14,10,24,48
+"Vitamin B-12",µg,0.33,0.32,0.21,0.53,1.06
+"Vitamin A, RAE",µg,5,5,3,8,16
+"Vitamin A, IU",IU,16,15,10,26,51
+"Vitamin E (alpha-tocopherol)",mg,1.12,1.08,0.72,1.79,3.58
+"Vitamin D (D2 + D3)",µg,0.2,0.2,0.1,0.3,0.6
+"Vitamin D",IU,7,7,4,11,22
+"Vitamin K (phylloquinone)",µg,7.0,6.7,4.5,11.2,22.4
+Lipids
+"Fatty acids, total saturated",g,3.566,3.423,2.282,5.706,11.411
+"Fatty acids, total monounsaturated",g,7.735,7.426,4.950,12.376,24.752
+"Fatty acids, total polyunsaturated",g,6.511,6.251,4.167,10.418,20.835
+"Fatty acids, total trans",g,0.123,0.118,0.079,0.197,0.394
+"Cholesterol",mg,55,53,35,88,176
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

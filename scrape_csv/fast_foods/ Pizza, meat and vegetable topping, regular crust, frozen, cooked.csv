@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:33 EST
+"Nutrient data for: 21226, Pizza, meat and vegetable topping, regular crust, frozen, cooked"
+Nutrient,Unit,1Value per 100 g,"1 serving 5 servings per 24.2 oz package = 143.0g","1 serving 5 servings per 22.85 oz package = 129.0g","1 serving 2 servings per 10.9 oz package = 177.0g","1 package 24.2 oz pizza = 713.0g","1 package 22.85 oz pizza = 644.0g","1 package 10.9 oz pizza = 354.0g",
+Proximates
+"Water",g,46.71,66.80,60.26,82.68,333.04,300.81,165.35
+"Energy",kcal,276,395,356,489,1968,1777,977
+"Protein",g,11.28,16.13,14.55,19.97,80.43,72.64,39.93
+"Total lipid (fat)",g,14.43,20.63,18.61,25.54,102.89,92.93,51.08
+"Carbohydrate, by difference",g,25.14,35.95,32.43,44.50,179.25,161.90,89.00
+"Fiber, total dietary",g,2.2,3.1,2.8,3.9,15.7,14.2,7.8
+"Sugars, total",g,4.85,6.94,6.26,8.58,34.58,31.23,17.17
+Minerals
+"Calcium, Ca",mg,152,217,196,269,1084,979,538
+"Iron, Fe",mg,1.36,1.94,1.75,2.41,9.70,8.76,4.81
+"Magnesium, Mg",mg,25,36,32,44,178,161,88
+"Phosphorus, P",mg,181,259,233,320,1291,1166,641
+"Potassium, K",mg,209,299,270,370,1490,1346,740
+"Sodium, Na",mg,555,794,716,982,3957,3574,1965
+"Zinc, Zn",mg,1.71,2.45,2.21,3.03,12.19,11.01,6.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.4,4.9,4.4,6.0,24.2,21.9,12.0
+"Thiamin",mg,0.216,0.309,0.279,0.382,1.540,1.391,0.765
+"Riboflavin",mg,0.233,0.333,0.301,0.412,1.661,1.501,0.825
+"Niacin",mg,2.379,3.402,3.069,4.211,16.962,15.321,8.422
+"Vitamin B-6",mg,0.149,0.213,0.192,0.264,1.062,0.960,0.527
+"Folate, DFE",µg,57,82,74,101,406,367,202
+"Vitamin B-12",µg,0.62,0.89,0.80,1.10,4.42,3.99,2.19
+"Vitamin A, RAE",µg,65,93,84,115,463,419,230
+"Vitamin A, IU",IU,339,485,437,600,2417,2183,1200
+"Vitamin E (alpha-tocopherol)",mg,1.13,1.62,1.46,2.00,8.06,7.28,4.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,8.2,11.7,10.6,14.5,58.5,52.8,29.0
+Lipids
+"Fatty acids, total saturated",g,5.083,7.269,6.557,8.997,36.242,32.735,17.994
+"Fatty acids, total monounsaturated",g,5.890,8.423,7.598,10.425,41.996,37.932,20.851
+"Fatty acids, total polyunsaturated",g,2.578,3.687,3.326,4.563,18.381,16.602,9.126
+"Cholesterol",mg,16,23,21,28,114,103,57
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

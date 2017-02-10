@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:32 EST
+"Nutrient data for: 21435, KFC, Fried Chicken, ORIGINAL RECIPE, Drumstick, meat and skin with breading"
+Nutrient,Unit,1Value per 100 g,"1 drumstick, with skin = 75.0g","1 drumstick, without skin = 57.0g","1 drumstick, bone and skin removed = 40.0g",
+Proximates
+"Water",g,55.60,41.70,31.69,22.24
+"Energy",kcal,239,179,136,96
+"Protein",g,22.30,16.73,12.71,8.92
+"Total lipid (fat)",g,14.22,10.66,8.11,5.69
+"Carbohydrate, by difference",g,5.39,4.04,3.07,2.16
+Minerals
+"Calcium, Ca",mg,29,22,17,12
+"Iron, Fe",mg,0.97,0.73,0.55,0.39
+"Magnesium, Mg",mg,23,17,13,9
+"Phosphorus, P",mg,211,158,120,84
+"Potassium, K",mg,250,188,142,100
+"Sodium, Na",mg,625,469,356,250
+"Zinc, Zn",mg,1.96,1.47,1.12,0.78
+Vitamins
+"Thiamin",mg,0.041,0.031,0.023,0.016
+"Riboflavin",mg,0.213,0.160,0.121,0.085
+"Niacin",mg,4.993,3.745,2.846,1.997
+"Vitamin B-6",mg,0.221,0.166,0.126,0.088
+"Vitamin B-12",µg,0.54,0.41,0.31,0.22
+Lipids
+"Fatty acids, total saturated",g,3.240,2.430,1.847,1.296
+"Fatty acids, total monounsaturated",g,5.115,3.836,2.916,2.046
+"Fatty acids, total polyunsaturated",g,4.290,3.217,2.445,1.716
+"Fatty acids, total trans",g,0.081,0.061,0.046,0.032
+"Cholesterol",mg,117,88,67,47
+Amino Acids
+Other

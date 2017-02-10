@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:30 EST
+"Nutrient data for: 21493, DOMINO'S 14"" Sausage Pizza, Crunchy Thin Crust"
+Nutrient,Unit,1Value per 100 g,"1 slice = 78.0g","1 pizza = 597.0g",
+Proximates
+"Water",g,40.38,31.50,241.07
+"Energy",kcal,319,249,1904
+"Protein",g,12.77,9.96,76.24
+"Total lipid (fat)",g,18.52,14.45,110.56
+"Carbohydrate, by difference",g,25.30,19.73,151.04
+"Fiber, total dietary",g,2.6,2.0,15.5
+"Sugars, total",g,3.42,2.67,20.42
+Minerals
+"Calcium, Ca",mg,234,183,1397
+"Iron, Fe",mg,1.07,0.83,6.39
+"Magnesium, Mg",mg,25,20,149
+"Phosphorus, P",mg,270,211,1612
+"Potassium, K",mg,231,180,1379
+"Sodium, Na",mg,725,566,4328
+"Zinc, Zn",mg,1.48,1.15,8.84
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,0.9,6.6
+"Thiamin",mg,0.090,0.070,0.537
+"Riboflavin",mg,0.080,0.062,0.478
+"Niacin",mg,1.620,1.264,9.671
+"Vitamin B-6",mg,0.070,0.055,0.418
+"Vitamin B-12",µg,0.66,0.51,3.94
+Lipids
+"Fatty acids, total saturated",g,7.079,5.522,42.262
+"Fatty acids, total monounsaturated",g,5.602,4.370,33.444
+"Fatty acids, total polyunsaturated",g,4.522,3.527,26.996
+"Fatty acids, total trans",g,0.314,0.245,1.875
+"Cholesterol",mg,35,27,209
+Amino Acids
+Other

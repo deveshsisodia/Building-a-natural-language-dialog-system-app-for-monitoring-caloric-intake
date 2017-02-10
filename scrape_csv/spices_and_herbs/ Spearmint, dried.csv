@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:39 EST
+"Nutrient data for: 02066, Spearmint, dried"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 0.5g","1 tbsp = 1.6g",
+Proximates
+"Water",g,11.30,0.06,0.18
+"Energy",kcal,285,1,5
+"Protein",g,19.93,0.10,0.32
+"Total lipid (fat)",g,6.03,0.03,0.10
+"Carbohydrate, by difference",g,52.04,0.26,0.83
+"Fiber, total dietary",g,29.8,0.1,0.5
+Minerals
+"Calcium, Ca",mg,1488,7,24
+"Iron, Fe",mg,87.47,0.44,1.40
+"Magnesium, Mg",mg,602,3,10
+"Phosphorus, P",mg,276,1,4
+"Potassium, K",mg,1924,10,31
+"Sodium, Na",mg,344,2,6
+"Zinc, Zn",mg,2.41,0.01,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.288,0.001,0.005
+"Riboflavin",mg,1.421,0.007,0.023
+"Niacin",mg,6.561,0.033,0.105
+"Vitamin B-6",mg,2.579,0.013,0.041
+"Folate, DFE",µg,530,3,8
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,529,3,8
+"Vitamin A, IU",IU,10579,53,169
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.577,0.008,0.025
+"Fatty acids, total monounsaturated",g,0.210,0.001,0.003
+"Fatty acids, total polyunsaturated",g,3.257,0.016,0.052
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+Footnotes
+(a)"Leaf"

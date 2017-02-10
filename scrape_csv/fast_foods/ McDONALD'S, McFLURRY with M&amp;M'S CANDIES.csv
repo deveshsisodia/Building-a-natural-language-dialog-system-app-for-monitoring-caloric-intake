@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:33 EST
+"Nutrient data for: 21338, McDONALD'S, McFLURRY with M&M'S CANDIES"
+Nutrient,Unit,1Value per 100 g,"1 regular (12 fl oz) = 348.0g","1 large (16 fl oz) = 504.0g",
+Proximates
+"Water",g,61.74,214.86,311.17
+"Energy",kcal,177,616,892
+"Protein",g,4.02,13.99,20.26
+"Total lipid (fat)",g,6.46,22.48,32.56
+"Carbohydrate, by difference",g,26.82,93.33,135.17
+"Fiber, total dietary",g,0.2,0.7,1.0
+"Sugars, total",g,24.37,84.81,122.82
+Minerals
+"Calcium, Ca",mg,135,470,680
+"Iron, Fe",mg,0.27,0.94,1.36
+"Magnesium, Mg",mg,17,59,86
+"Phosphorus, P",mg,116,404,585
+"Potassium, K",mg,208,724,1048
+"Sodium, Na",mg,54,188,272
+"Zinc, Zn",mg,0.54,1.88,2.72
+Vitamins
+"Thiamin",mg,0.051,0.177,0.257
+"Riboflavin",mg,0.243,0.846,1.225
+"Niacin",mg,0.139,0.484,0.701
+"Vitamin B-6",mg,0.053,0.184,0.267
+"Vitamin B-12",µg,0.60,2.09,3.02
+"Vitamin A, IU",IU,312,1086,1572
+"Vitamin E (alpha-tocopherol)",mg,0.08,0.28,0.40
+Lipids
+"Fatty acids, total saturated",g,3.402,11.839,17.146
+"Fatty acids, total monounsaturated",g,1.670,5.812,8.417
+"Fatty acids, total polyunsaturated",g,0.282,0.981,1.421
+"Fatty acids, total trans",g,0.281,0.978,1.416
+"Cholesterol",mg,16,56,81
+Amino Acids
+Other

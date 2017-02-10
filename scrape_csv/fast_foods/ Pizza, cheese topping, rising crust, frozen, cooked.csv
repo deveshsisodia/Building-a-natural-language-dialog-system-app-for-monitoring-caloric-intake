@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:33 EST
+"Nutrient data for: 21225, Pizza, cheese topping, rising crust, frozen, cooked"
+Nutrient,Unit,1Value per 100 g,"1 serving 6 servings per 29.25 oz package = 139.0g","1 serving 4 servings per 19.7 oz package = 149.0g","1 package 29.25 oz pizza = 834.0g","1 package 19.7 oz pizza = 595.0g",
+Proximates
+"Water",g,43.46,60.41,64.76,362.46,258.59
+"Energy",kcal,260,361,387,2168,1547
+"Protein",g,12.37,17.19,18.43,103.17,73.60
+"Total lipid (fat)",g,8.78,12.20,13.08,73.23,52.24
+"Carbohydrate, by difference",g,32.91,45.74,49.04,274.47,195.81
+"Fiber, total dietary",g,2.5,3.5,3.7,20.9,14.9
+"Sugars, total",g,5.09,7.08,7.58,42.45,30.29
+Minerals
+"Calcium, Ca",mg,177,246,264,1476,1053
+"Iron, Fe",mg,1.77,2.46,2.64,14.76,10.53
+"Magnesium, Mg",mg,26,36,39,217,155
+"Phosphorus, P",mg,238,331,355,1985,1416
+"Potassium, K",mg,175,243,261,1460,1041
+"Sodium, Na",mg,556,773,828,4637,3308
+"Zinc, Zn",mg,1.32,1.83,1.97,11.01,7.85
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.9,2.6,2.8,15.8,11.3
+"Thiamin",mg,0.241,0.335,0.359,2.010,1.434
+"Riboflavin",mg,0.246,0.342,0.367,2.052,1.464
+"Niacin",mg,1.985,2.759,2.958,16.555,11.811
+"Vitamin B-6",mg,0.092,0.128,0.137,0.767,0.547
+"Folate, DFE",µg,63,88,94,525,375
+"Vitamin B-12",µg,0.70,0.97,1.04,5.84,4.17
+"Vitamin A, RAE",µg,69,96,103,575,411
+"Vitamin A, IU",IU,359,499,535,2994,2136
+"Vitamin E (alpha-tocopherol)",mg,0.72,1.00,1.07,6.00,4.28
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,7.5,10.4,11.2,62.5,44.6
+Lipids
+"Fatty acids, total saturated",g,3.825,5.317,5.699,31.901,22.759
+"Fatty acids, total monounsaturated",g,2.198,3.055,3.275,18.331,13.078
+"Fatty acids, total polyunsaturated",g,1.381,1.920,2.058,11.518,8.217
+"Cholesterol",mg,16,22,24,133,95
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

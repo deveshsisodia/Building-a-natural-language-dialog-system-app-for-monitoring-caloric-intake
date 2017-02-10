@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:31 EST
+"Nutrient data for: 21093, Fast foods, cheeseburger; double, regular patty, with condiments and vegetables"
+Nutrient,Unit,1Value per 100 g,"1 sandwich = 166.0g",
+Proximates
+"Water",g,51.20,84.99
+"Energy",kcal,251,417
+"Protein",g,12.80,21.25
+"Total lipid (fat)",g,12.70,21.08
+"Carbohydrate, by difference",g,21.20,35.19
+Minerals
+"Calcium, Ca",mg,103,171
+"Iron, Fe",mg,2.06,3.42
+"Magnesium, Mg",mg,18,30
+"Phosphorus, P",mg,146,242
+"Potassium, K",mg,202,335
+"Sodium, Na",mg,633,1051
+"Zinc, Zn",mg,2.10,3.49
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,1.7
+"Thiamin",mg,0.210,0.349
+"Riboflavin",mg,0.170,0.282
+"Niacin",mg,4.850,8.051
+"Vitamin B-6",mg,0.110,0.183
+"Folate, DFE",µg,53,88
+"Vitamin B-12",µg,1.16,1.93
+"Vitamin A, IU",IU,240,398
+Lipids
+"Fatty acids, total saturated",g,5.251,8.717
+"Fatty acids, total monounsaturated",g,4.704,7.809
+"Fatty acids, total polyunsaturated",g,1.601,2.658
+"Cholesterol",mg,36,60
+Amino Acids
+Other
+Footnotes
+(a)"Condiments include ketchup, mustard, pickles and onions"

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:39 EST
+"Nutrient data for: 02014, Spices, cumin seed"
+Nutrient,Unit,1Value per 100 g,"1 tsp, whole = 2.1g","1 tbsp, whole = 6.0g",
+Proximates
+"Water",g,8.06,0.17,0.48
+"Energy",kcal,375,8,22
+"Protein",g,17.81,0.37,1.07
+"Total lipid (fat)",g,22.27,0.47,1.34
+"Carbohydrate, by difference",g,44.24,0.93,2.65
+"Fiber, total dietary",g,10.5,0.2,0.6
+"Sugars, total",g,2.25,0.05,0.14
+Minerals
+"Calcium, Ca",mg,931,20,56
+"Iron, Fe",mg,66.36,1.39,3.98
+"Magnesium, Mg",mg,366,8,22
+"Phosphorus, P",mg,499,10,30
+"Potassium, K",mg,1788,38,107
+"Sodium, Na",mg,168,4,10
+"Zinc, Zn",mg,4.80,0.10,0.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.7,0.2,0.5
+"Thiamin",mg,0.628,0.013,0.038
+"Riboflavin",mg,0.327,0.007,0.020
+"Niacin",mg,4.579,0.096,0.275
+"Vitamin B-6",mg,0.435,0.009,0.026
+"Folate, DFE",µg,10,0,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,64,1,4
+"Vitamin A, IU",IU,1270,27,76
+"Vitamin E (alpha-tocopherol)",mg,3.33,0.07,0.20
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,5.4,0.1,0.3
+Lipids
+"Fatty acids, total saturated",g,1.535,0.032,0.092
+"Fatty acids, total monounsaturated",g,14.040,0.295,0.842
+"Fatty acids, total polyunsaturated",g,3.279,0.069,0.197
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

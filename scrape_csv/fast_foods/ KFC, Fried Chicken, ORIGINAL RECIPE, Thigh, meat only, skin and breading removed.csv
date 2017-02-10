@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:32 EST
+"Nutrient data for: 21427, KFC, Fried Chicken, ORIGINAL RECIPE, Thigh, meat only, skin and breading removed"
+Nutrient,Unit,1Value per 100 g,"1 thigh without skin = 86.0g","1 thigh bone and skin removed = 60.0g",
+Proximates
+"Water",g,65.65,56.46,39.39
+"Energy",kcal,175,150,105
+"Protein",g,22.78,19.59,13.67
+"Total lipid (fat)",g,9.31,8.01,5.59
+"Carbohydrate, by difference",g,0.01,0.01,0.01
+Minerals
+"Calcium, Ca",mg,20,17,12
+"Iron, Fe",mg,0.87,0.75,0.52
+"Magnesium, Mg",mg,20,17,12
+"Phosphorus, P",mg,213,183,128
+"Potassium, K",mg,230,198,138
+"Sodium, Na",mg,568,488,341
+"Zinc, Zn",mg,1.91,1.64,1.15
+Vitamins
+"Thiamin",mg,0.089,0.077,0.053
+"Riboflavin",mg,0.310,0.267,0.186
+"Niacin",mg,5.610,4.825,3.366
+"Vitamin B-6",mg,0.137,0.118,0.082
+"Vitamin B-12",µg,0.47,0.40,0.28
+"Vitamin A, RAE",µg,11,9,7
+"Vitamin A, IU",IU,37,32,22
+"Vitamin E (alpha-tocopherol)",mg,0.41,0.35,0.25
+Lipids
+"Fatty acids, total saturated",g,2.308,1.985,1.385
+"Fatty acids, total monounsaturated",g,3.830,3.294,2.298
+"Fatty acids, total polyunsaturated",g,1.561,1.342,0.937
+"Fatty acids, total trans",g,0.042,0.036,0.025
+"Cholesterol",mg,122,105,73
+Amino Acids
+Other

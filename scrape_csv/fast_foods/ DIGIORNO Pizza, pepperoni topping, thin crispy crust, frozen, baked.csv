@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:30 EST
+"Nutrient data for: 21478, DIGIORNO Pizza, pepperoni topping, thin crispy crust, frozen, baked"
+Nutrient,Unit,1Value per 100 g,"1 slice 1/4 of pie = 145.0g","1 pie 22.1 oz = 548.0g",
+Proximates
+"Water",g,42.38,61.45,232.24
+"Energy",kcal,283,410,1551
+"Protein",g,13.22,19.17,72.45
+"Total lipid (fat)",g,12.86,18.65,70.47
+"Carbohydrate, by difference",g,28.67,41.57,157.11
+"Fiber, total dietary",g,2.8,4.1,15.3
+Minerals
+"Calcium, Ca",mg,209,303,1145
+"Iron, Fe",mg,0.90,1.30,4.93
+"Magnesium, Mg",mg,28,41,153
+"Phosphorus, P",mg,213,309,1167
+"Potassium, K",mg,268,389,1469
+"Sodium, Na",mg,663,961,3633
+"Zinc, Zn",mg,1.64,2.38,8.99
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,1.3,4.9
+"Thiamin",mg,0.143,0.207,0.784
+"Riboflavin",mg,0.125,0.181,0.685
+"Niacin",mg,2.053,2.977,11.250
+"Vitamin B-6",mg,0.160,0.232,0.877
+"Vitamin B-12",µg,0.55,0.80,3.01
+"Vitamin A, RAE",µg,46,67,252
+"Vitamin A, IU",IU,152,220,833
+"Vitamin E (alpha-tocopherol)",mg,0.77,1.12,4.22
+"Vitamin K (phylloquinone)",µg,5.0,7.2,27.4
+Lipids
+"Fatty acids, total saturated",g,4.973,7.211,27.252
+"Fatty acids, total monounsaturated",g,4.354,6.313,23.860
+"Fatty acids, total polyunsaturated",g,1.827,2.649,10.012
+"Fatty acids, total trans",g,0.508,0.737,2.784
+"Cholesterol",mg,28,41,153
+Amino Acids
+Other

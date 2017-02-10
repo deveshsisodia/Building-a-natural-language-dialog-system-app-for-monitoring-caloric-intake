@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:32 EST
+"Nutrient data for: 21441, KFC, Fried Chicken, EXTRA CRISPY, Wing, meat and skin with breading"
+Nutrient,Unit,1Value per 100 g,"1 wing, with skin = 68.0g","1 wing, without skin = 44.0g","1 wing, bone and skin removed = 29.0g",
+Proximates
+"Water",g,41.91,28.50,18.44,12.15
+"Energy",kcal,337,229,148,98
+"Protein",g,20.80,14.14,9.15,6.03
+"Total lipid (fat)",g,23.00,15.64,10.12,6.67
+"Carbohydrate, by difference",g,11.66,7.93,5.13,3.38
+Minerals
+"Calcium, Ca",mg,35,24,15,10
+"Iron, Fe",mg,0.79,0.54,0.35,0.23
+"Magnesium, Mg",mg,22,15,10,6
+"Phosphorus, P",mg,192,131,84,56
+"Potassium, K",mg,223,152,98,65
+"Sodium, Na",mg,765,520,337,222
+"Zinc, Zn",mg,1.24,0.84,0.55,0.36
+Vitamins
+"Thiamin",mg,0.022,0.015,0.010,0.006
+"Riboflavin",mg,0.115,0.078,0.051,0.033
+"Niacin",mg,5.488,3.732,2.415,1.592
+"Vitamin B-6",mg,0.280,0.190,0.123,0.081
+"Vitamin B-12",µg,0.39,0.27,0.17,0.11
+Lipids
+"Fatty acids, total saturated",g,4.796,3.261,2.110,1.391
+"Fatty acids, total monounsaturated",g,7.424,5.048,3.267,2.153
+"Fatty acids, total polyunsaturated",g,8.570,5.828,3.771,2.485
+"Fatty acids, total trans",g,0.148,0.101,0.065,0.043
+"Cholesterol",mg,107,73,47,31
+Amino Acids
+Other

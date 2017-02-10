@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:39 EST
+"Nutrient data for: 02018, Spices, fennel seed"
+Nutrient,Unit,1Value per 100 g,"1 tsp, whole = 2.0g","1 tbsp, whole = 5.8g",
+Proximates
+"Water",g,8.81,0.18,0.51
+"Energy",kcal,345,7,20
+"Protein",g,15.80,0.32,0.92
+"Total lipid (fat)",g,14.87,0.30,0.86
+"Carbohydrate, by difference",g,52.29,1.05,3.03
+"Fiber, total dietary",g,39.8,0.8,2.3
+Minerals
+"Calcium, Ca",mg,1196,24,69
+"Iron, Fe",mg,18.54,0.37,1.08
+"Magnesium, Mg",mg,385,8,22
+"Phosphorus, P",mg,487,10,28
+"Potassium, K",mg,1694,34,98
+"Sodium, Na",mg,88,2,5
+"Zinc, Zn",mg,3.70,0.07,0.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,21.0,0.4,1.2
+"Thiamin",mg,0.408,0.008,0.024
+"Riboflavin",mg,0.353,0.007,0.020
+"Niacin",mg,6.050,0.121,0.351
+"Vitamin B-6",mg,0.470,0.009,0.027
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,7,0,0
+"Vitamin A, IU",IU,135,3,8
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.480,0.010,0.028
+"Fatty acids, total monounsaturated",g,9.910,0.198,0.575
+"Fatty acids, total polyunsaturated",g,1.690,0.034,0.098
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

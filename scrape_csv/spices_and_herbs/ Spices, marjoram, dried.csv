@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:39 EST
+"Nutrient data for: 02023, Spices, marjoram, dried"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 0.6g","1 tbsp = 1.7g",
+Proximates
+"Water",g,7.64,0.05,0.13
+"Energy",kcal,271,2,5
+"Protein",g,12.66,0.08,0.22
+"Total lipid (fat)",g,7.04,0.04,0.12
+"Carbohydrate, by difference",g,60.56,0.36,1.03
+"Fiber, total dietary",g,40.3,0.2,0.7
+"Sugars, total",g,4.09,0.02,0.07
+Minerals
+"Calcium, Ca",mg,1990,12,34
+"Iron, Fe",mg,82.71,0.50,1.41
+"Magnesium, Mg",mg,346,2,6
+"Phosphorus, P",mg,306,2,5
+"Potassium, K",mg,1522,9,26
+"Sodium, Na",mg,77,0,1
+"Zinc, Zn",mg,3.60,0.02,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,51.4,0.3,0.9
+"Thiamin",mg,0.289,0.002,0.005
+"Riboflavin",mg,0.316,0.002,0.005
+"Niacin",mg,4.120,0.025,0.070
+"Vitamin B-6",mg,1.190,0.007,0.020
+"Folate, DFE",µg,274,2,5
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,403,2,7
+"Vitamin A, IU",IU,8068,48,137
+"Vitamin E (alpha-tocopherol)",mg,1.69,0.01,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,621.7,3.7,10.6
+Lipids
+"Fatty acids, total saturated",g,0.529,0.003,0.009
+"Fatty acids, total monounsaturated",g,0.940,0.006,0.016
+"Fatty acids, total polyunsaturated",g,4.405,0.026,0.075
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

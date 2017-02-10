@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:33 EST
+"Nutrient data for: 21611, School Lunch, chicken nuggets, whole grain breaded"
+Nutrient,Unit,1Value per 100 g,"5.0 pieces = 88.0g",
+Proximates
+"Water",g,46.53,40.95
+"Energy",kcal,270,238
+"Protein",g,15.67,13.79
+"Total lipid (fat)",g,12.90,11.35
+"Carbohydrate, by difference",g,22.86,20.12
+"Fiber, total dietary",g,2.2,1.9
+"Sugars, total",g,0.49,0.43
+Minerals
+"Calcium, Ca",mg,32,28
+"Iron, Fe",mg,1.99,1.75
+"Magnesium, Mg",mg,24,21
+"Phosphorus, P",mg,183,161
+"Potassium, K",mg,231,203
+"Sodium, Na",mg,511,450
+"Zinc, Zn",mg,0.71,0.62
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.5
+"Thiamin",mg,0.092,0.081
+"Riboflavin",mg,0.204,0.180
+"Niacin",mg,5.985,5.267
+"Vitamin B-6",mg,0.309,0.272
+"Folate, DFE",µg,15,13
+"Vitamin B-12",µg,0.24,0.21
+"Vitamin A, RAE",µg,16,14
+"Vitamin A, IU",IU,55,48
+"Vitamin E (alpha-tocopherol)",mg,1.23,1.08
+"Vitamin D (D2 + D3)",µg,0.3,0.3
+"Vitamin D",IU,11,10
+"Vitamin K (phylloquinone)",µg,10.4,9.2
+Lipids
+"Fatty acids, total saturated",g,2.830,2.490
+"Fatty acids, total monounsaturated",g,3.593,3.162
+"Fatty acids, total polyunsaturated",g,4.189,3.686
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,50,44
+Amino Acids
+Other
+"Caffeine",mg,0,0

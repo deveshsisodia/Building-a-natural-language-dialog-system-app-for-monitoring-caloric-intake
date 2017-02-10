@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 03, 2017 17:39 EST
+"Nutrient data for: 02055, Horseradish, prepared"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 5.0g","1 tbsp = 15.0g",
+Proximates
+"Water",g,85.08,4.25,12.76
+"Energy",kcal,48,2,7
+"Protein",g,1.18,0.06,0.18
+"Total lipid (fat)",g,0.69,0.03,0.10
+"Carbohydrate, by difference",g,11.29,0.56,1.69
+"Fiber, total dietary",g,3.3,0.2,0.5
+"Sugars, total",g,7.99,0.40,1.20
+Minerals
+"Calcium, Ca",mg,56,3,8
+"Iron, Fe",mg,0.42,0.02,0.06
+"Magnesium, Mg",mg,27,1,4
+"Phosphorus, P",mg,31,2,5
+"Potassium, K",mg,246,12,37
+"Sodium, Na",mg,420,21,63
+"Zinc, Zn",mg,0.83,0.04,0.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,24.9,1.2,3.7
+"Thiamin",mg,0.008,0.000,0.001
+"Riboflavin",mg,0.024,0.001,0.004
+"Niacin",mg,0.386,0.019,0.058
+"Vitamin B-6",mg,0.073,0.004,0.011
+"Folate, DFE",µg,57,3,9
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,2,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.01,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.3,0.1,0.2
+Lipids
+"Fatty acids, total saturated",g,0.090,0.004,0.013
+"Fatty acids, total monounsaturated",g,0.130,0.007,0.020
+"Fatty acids, total polyunsaturated",g,0.339,0.017,0.051
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
