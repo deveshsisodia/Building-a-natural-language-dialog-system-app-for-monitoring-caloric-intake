@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:02 EST
+"Nutrient data for: 06009, Soup, beef noodle, canned, condensed"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 125.0g","1 can (10.75 oz) = 305.0g",
+Proximates
+"Water",g,84.42,105.53,257.48
+"Energy",kcal,67,84,204
+"Protein",g,3.85,4.81,11.74
+"Total lipid (fat)",g,2.46,3.08,7.50
+"Carbohydrate, by difference",g,7.16,8.95,21.84
+"Fiber, total dietary",g,0.6,0.8,1.8
+"Sugars, total",g,2.06,2.58,6.28
+Minerals
+"Calcium, Ca",mg,12,15,37
+"Iron, Fe",mg,0.88,1.10,2.68
+"Magnesium, Mg",mg,5,6,15
+"Phosphorus, P",mg,37,46,113
+"Potassium, K",mg,79,99,241
+"Sodium, Na",mg,653,816,1992
+"Zinc, Zn",mg,1.23,1.54,3.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.4,0.9
+"Thiamin",mg,0.055,0.069,0.168
+"Riboflavin",mg,0.047,0.059,0.143
+"Niacin",mg,0.849,1.061,2.589
+"Vitamin B-6",mg,0.030,0.037,0.091
+"Folate, DFE",µg,23,29,70
+"Vitamin B-12",µg,0.16,0.20,0.49
+"Vitamin A, RAE",µg,11,14,34
+"Vitamin A, IU",IU,202,252,616
+"Vitamin E (alpha-tocopherol)",mg,1.00,1.25,3.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.6,2.0,4.9
+Lipids
+"Fatty acids, total saturated",g,0.910,1.137,2.776
+"Fatty acids, total monounsaturated",g,0.990,1.238,3.019
+"Fatty acids, total polyunsaturated",g,0.390,0.487,1.190
+"Cholesterol",mg,4,5,12
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

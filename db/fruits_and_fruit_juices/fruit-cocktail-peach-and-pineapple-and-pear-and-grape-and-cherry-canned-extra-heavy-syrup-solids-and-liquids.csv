@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:09 EST
+"Nutrient data for: 09101, Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, extra heavy syrup, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 130.0g","1 cup = 260.0g",
+Proximates
+"Water",g,76.43,99.36,198.72
+"Energy",kcal,88,114,229
+"Protein",g,0.39,0.51,1.01
+"Total lipid (fat)",g,0.07,0.09,0.18
+"Carbohydrate, by difference",g,22.89,29.76,59.51
+"Fiber, total dietary",g,1.1,1.4,2.9
+Minerals
+"Calcium, Ca",mg,6,8,16
+"Iron, Fe",mg,0.28,0.36,0.73
+"Magnesium, Mg",mg,5,6,13
+"Phosphorus, P",mg,11,14,29
+"Potassium, K",mg,86,112,224
+"Sodium, Na",mg,6,8,16
+"Zinc, Zn",mg,0.08,0.10,0.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.9,2.5,4.9
+"Thiamin",mg,0.018,0.023,0.047
+"Riboflavin",mg,0.019,0.025,0.049
+"Niacin",mg,0.368,0.478,0.957
+"Vitamin B-6",mg,0.049,0.064,0.127
+"Folate, DFE",µg,3,4,8
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,10,13,26
+"Vitamin A, IU",IU,201,261,523
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.010,0.013,0.026
+"Fatty acids, total monounsaturated",g,0.013,0.017,0.034
+"Fatty acids, total polyunsaturated",g,0.030,0.039,0.078
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

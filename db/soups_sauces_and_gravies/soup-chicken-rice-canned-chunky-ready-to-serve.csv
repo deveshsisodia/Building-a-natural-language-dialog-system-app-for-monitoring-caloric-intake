@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:02 EST
+"Nutrient data for: 06022, Soup, chicken rice, canned, chunky, ready-to-serve"
+Nutrient,Unit,1Value per 100 g,"1 cup = 240.0g","1 can 19 oz = 539.0g",
+Proximates
+"Water",g,86.78,208.27,467.74
+"Energy",kcal,53,127,286
+"Protein",g,5.11,12.26,27.54
+"Total lipid (fat)",g,1.33,3.19,7.17
+"Carbohydrate, by difference",g,5.41,12.98,29.16
+"Fiber, total dietary",g,0.4,1.0,2.2
+"Sugars, total",g,0.60,1.44,3.23
+Minerals
+"Calcium, Ca",mg,14,34,75
+"Iron, Fe",mg,0.78,1.87,4.20
+"Magnesium, Mg",mg,4,10,22
+"Phosphorus, P",mg,30,72,162
+"Potassium, K",mg,45,108,243
+"Sodium, Na",mg,370,888,1994
+"Zinc, Zn",mg,0.40,0.96,2.16
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.6,3.8,8.6
+"Thiamin",mg,0.010,0.024,0.054
+"Riboflavin",mg,0.041,0.098,0.221
+"Niacin",mg,1.710,4.104,9.217
+"Vitamin B-6",mg,0.020,0.048,0.108
+"Folate, DFE",µg,2,5,11
+"Vitamin B-12",µg,0.13,0.31,0.70
+"Vitamin A, RAE",µg,122,293,658
+"Vitamin A, IU",IU,2418,5803,13033
+"Vitamin E (alpha-tocopherol)",mg,0.24,0.58,1.29
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,7.2,17.3,38.8
+Lipids
+"Fatty acids, total saturated",g,0.400,0.960,2.156
+"Fatty acids, total monounsaturated",g,0.600,1.440,3.234
+"Fatty acids, total polyunsaturated",g,0.280,0.672,1.509
+"Cholesterol",mg,5,12,27
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

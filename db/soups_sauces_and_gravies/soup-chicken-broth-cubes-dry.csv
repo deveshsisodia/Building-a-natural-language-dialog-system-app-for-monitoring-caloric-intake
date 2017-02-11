@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:02 EST
+"Nutrient data for: 06081, Soup, chicken broth cubes, dry"
+Nutrient,Unit,1Value per 100 g,"1 cube = 4.8g",
+Proximates
+"Water",g,2.50,0.12
+"Energy",kcal,198,10
+"Protein",g,14.60,0.70
+"Total lipid (fat)",g,4.70,0.23
+"Carbohydrate, by difference",g,23.50,1.13
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,190,9
+"Iron, Fe",mg,1.87,0.09
+"Magnesium, Mg",mg,56,3
+"Phosphorus, P",mg,191,9
+"Potassium, K",mg,374,18
+"Sodium, Na",mg,24000,1152
+"Zinc, Zn",mg,0.20,0.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.0
+"Thiamin",mg,0.190,0.009
+"Riboflavin",mg,0.380,0.018
+"Niacin",mg,3.900,0.187
+"Vitamin B-6",mg,0.100,0.005
+"Folate, DFE",µg,32,2
+"Vitamin B-12",µg,0.30,0.01
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,2,0
+"Vitamin E (alpha-tocopherol)",mg,0.09,0.00
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.200,0.058
+"Fatty acids, total monounsaturated",g,1.920,0.092
+"Fatty acids, total polyunsaturated",g,1.620,0.078
+"Cholesterol",mg,13,1
+Amino Acids
+Other

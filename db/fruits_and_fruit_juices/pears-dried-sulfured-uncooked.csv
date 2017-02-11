@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:13 EST
+"Nutrient data for: 09259, Pears, dried, sulfured, uncooked"
+Nutrient,Unit,1Value per 100 g,"1 cup, halves = 180.0g","1 half = 18.0g","10.0 halves = 175.0g",
+Proximates
+"Water",g,26.69,48.04,4.80,46.71
+"Energy",kcal,262,472,47,458
+"Protein",g,1.87,3.37,0.34,3.27
+"Total lipid (fat)",g,0.63,1.13,0.11,1.10
+"Carbohydrate, by difference",g,69.70,125.46,12.55,121.97
+"Fiber, total dietary",g,7.5,13.5,1.4,13.1
+"Sugars, total",g,62.20,111.96,11.20,108.85
+Minerals
+"Calcium, Ca",mg,34,61,6,60
+"Iron, Fe",mg,2.10,3.78,0.38,3.67
+"Magnesium, Mg",mg,33,59,6,58
+"Phosphorus, P",mg,59,106,11,103
+"Potassium, K",mg,533,959,96,933
+"Sodium, Na",mg,6,11,1,10
+"Zinc, Zn",mg,0.39,0.70,0.07,0.68
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.0,12.6,1.3,12.2
+"Thiamin",mg,0.008,0.014,0.001,0.014
+"Riboflavin",mg,0.145,0.261,0.026,0.254
+"Niacin",mg,1.372,2.470,0.247,2.401
+"Vitamin B-6",mg,0.072,0.130,0.013,0.126
+"Folate, DFE",µg,0,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,3,5,1,5
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.11,0.01,0.10
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,20.4,36.7,3.7,35.7
+Lipids
+"Fatty acids, total saturated",g,0.035,0.063,0.006,0.061
+"Fatty acids, total monounsaturated",g,0.132,0.238,0.024,0.231
+"Fatty acids, total polyunsaturated",g,0.148,0.266,0.027,0.259
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

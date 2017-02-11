@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:09 EST
+"Nutrient data for: 09105, Fruit salad, (peach and pear and apricot and pineapple and cherry), canned, heavy syrup, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"1 cup = 255.0g",
+Proximates
+"Water",g,80.26,204.66
+"Energy",kcal,73,186
+"Protein",g,0.34,0.87
+"Total lipid (fat)",g,0.07,0.18
+"Carbohydrate, by difference",g,19.11,48.73
+"Fiber, total dietary",g,1.0,2.5
+"Sugars, total",g,18.11,46.18
+Minerals
+"Calcium, Ca",mg,6,15
+"Iron, Fe",mg,0.28,0.71
+"Magnesium, Mg",mg,5,13
+"Phosphorus, P",mg,9,23
+"Potassium, K",mg,80,204
+"Sodium, Na",mg,6,15
+"Zinc, Zn",mg,0.07,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.4,6.1
+"Thiamin",mg,0.015,0.038
+"Riboflavin",mg,0.021,0.054
+"Niacin",mg,0.347,0.885
+"Vitamin B-6",mg,0.032,0.082
+"Folate, DFE",µg,3,8
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,25,64
+"Vitamin A, IU",IU,504,1285
+"Vitamin E (alpha-tocopherol)",mg,0.40,1.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.6,6.6
+Lipids
+"Fatty acids, total saturated",g,0.010,0.026
+"Fatty acids, total monounsaturated",g,0.014,0.036
+"Fatty acids, total polyunsaturated",g,0.031,0.079
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

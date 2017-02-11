@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:07 EST
+"Nutrient data for: 09055, Blueberries, frozen, sweetened"
+Nutrient,Unit,1Value per 100 g,"1 cup, thawed = 230.0g","1 package (10 oz) = 284.0g",
+Proximates
+"Water",g,77.40,178.02,219.82
+"Energy",kcal,85,196,241
+"Protein",g,0.40,0.92,1.14
+"Total lipid (fat)",g,0.13,0.30,0.37
+"Carbohydrate, by difference",g,21.95,50.48,62.34
+"Fiber, total dietary",g,2.2,5.1,6.2
+"Sugars, total",g,19.72,45.36,56.00
+Minerals
+"Calcium, Ca",mg,6,14,17
+"Iron, Fe",mg,0.39,0.90,1.11
+"Magnesium, Mg",mg,2,5,6
+"Phosphorus, P",mg,7,16,20
+"Potassium, K",mg,60,138,170
+"Sodium, Na",mg,1,2,3
+"Zinc, Zn",mg,0.06,0.14,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,2.3,2.8
+"Thiamin",mg,0.020,0.046,0.057
+"Riboflavin",mg,0.052,0.120,0.148
+"Niacin",mg,0.253,0.582,0.719
+"Vitamin B-6",mg,0.059,0.136,0.168
+"Folate, DFE",µg,7,16,20
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,2,5,6
+"Vitamin A, IU",IU,49,113,139
+"Vitamin E (alpha-tocopherol)",mg,0.52,1.20,1.48
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,17.7,40.7,50.3
+Lipids
+"Fatty acids, total saturated",g,0.011,0.025,0.031
+"Fatty acids, total monounsaturated",g,0.018,0.041,0.051
+"Fatty acids, total polyunsaturated",g,0.057,0.131,0.162
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

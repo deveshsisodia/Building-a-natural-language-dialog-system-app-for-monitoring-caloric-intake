@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:09 EST
+"Nutrient data for: 09124, Grapefruit juice, white, canned, sweetened"
+Nutrient,Unit,1Value per 100 g,"1 cup = 250.0g","1 fl oz = 31.2g",
+Proximates
+"Water",g,87.38,218.45,27.26
+"Energy",kcal,46,115,14
+"Protein",g,0.58,1.45,0.18
+"Total lipid (fat)",g,0.09,0.23,0.03
+"Carbohydrate, by difference",g,11.13,27.82,3.47
+"Fiber, total dietary",g,0.1,0.2,0.0
+"Sugars, total",g,11.03,27.57,3.44
+Minerals
+"Calcium, Ca",mg,8,20,2
+"Iron, Fe",mg,0.36,0.90,0.11
+"Magnesium, Mg",mg,10,25,3
+"Phosphorus, P",mg,11,28,3
+"Potassium, K",mg,162,405,51
+"Sodium, Na",mg,2,5,1
+"Zinc, Zn",mg,0.06,0.15,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,26.9,67.2,8.4
+"Thiamin",mg,0.040,0.100,0.012
+"Riboflavin",mg,0.023,0.058,0.007
+"Niacin",mg,0.319,0.797,0.100
+"Vitamin B-6",mg,0.020,0.050,0.006
+"Folate, DFE",µg,10,25,3
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,7,18,2
+"Vitamin E (alpha-tocopherol)",mg,0.04,0.10,0.01
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.012,0.030,0.004
+"Fatty acids, total monounsaturated",g,0.012,0.030,0.004
+"Fatty acids, total polyunsaturated",g,0.021,0.052,0.007
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

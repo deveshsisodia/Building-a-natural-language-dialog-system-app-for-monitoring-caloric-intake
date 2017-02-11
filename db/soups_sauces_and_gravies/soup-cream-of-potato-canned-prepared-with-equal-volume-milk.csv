@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:04 EST
+"Nutrient data for: 06253, Soup, cream of potato, canned, prepared with equal volume milk"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 248.0g","1 can (10.75 oz), prepared = 602.0g",
+Proximates
+"Water",g,86.67,214.94,521.75
+"Energy",kcal,60,149,361
+"Protein",g,2.33,5.78,14.03
+"Total lipid (fat)",g,2.60,6.45,15.65
+"Carbohydrate, by difference",g,6.92,17.16,41.66
+"Fiber, total dietary",g,0.2,0.5,1.2
+Minerals
+"Calcium, Ca",mg,67,166,403
+"Iron, Fe",mg,0.22,0.55,1.32
+"Magnesium, Mg",mg,7,17,42
+"Phosphorus, P",mg,65,161,391
+"Potassium, K",mg,130,322,783
+"Sodium, Na",mg,230,570,1385
+"Zinc, Zn",mg,0.27,0.67,1.63
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,1.2,3.0
+"Thiamin",mg,0.033,0.082,0.199
+"Riboflavin",mg,0.095,0.236,0.572
+"Niacin",mg,0.259,0.642,1.559
+"Vitamin B-6",mg,0.036,0.089,0.217
+"Folate, DFE",µg,4,10,24
+"Vitamin B-12",µg,0.20,0.50,1.20
+"Vitamin A, IU",IU,179,444,1078
+Lipids
+"Fatty acids, total saturated",g,1.520,3.770,9.150
+"Fatty acids, total monounsaturated",g,0.700,1.736,4.214
+"Fatty acids, total polyunsaturated",g,0.230,0.570,1.385
+"Cholesterol",mg,9,22,54
+Amino Acids
+Other

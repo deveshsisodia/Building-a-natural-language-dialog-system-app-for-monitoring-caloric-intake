@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:04 EST
+"Nutrient data for: 06050, Soup, pea, split with ham, canned, chunky, ready-to-serve"
+Nutrient,Unit,1Value per 100 g,"1 cup = 240.0g","1 can (19 oz) = 539.0g",
+Proximates
+"Water",g,80.95,194.28,436.32
+"Energy",kcal,77,185,415
+"Protein",g,4.62,11.09,24.90
+"Total lipid (fat)",g,1.66,3.98,8.95
+"Carbohydrate, by difference",g,11.17,26.81,60.21
+"Fiber, total dietary",g,1.7,4.1,9.2
+"Sugars, total",g,1.91,4.58,10.29
+Minerals
+"Calcium, Ca",mg,14,34,75
+"Iron, Fe",mg,0.89,2.14,4.80
+"Magnesium, Mg",mg,16,38,86
+"Phosphorus, P",mg,74,178,399
+"Potassium, K",mg,127,305,685
+"Sodium, Na",mg,301,722,1622
+"Zinc, Zn",mg,1.30,3.12,7.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.9,7.0,15.6
+"Thiamin",mg,0.048,0.115,0.259
+"Riboflavin",mg,0.039,0.094,0.210
+"Niacin",mg,1.050,2.520,5.660
+"Vitamin B-6",mg,0.090,0.216,0.485
+"Folate, DFE",µg,2,5,11
+"Vitamin B-12",µg,0.10,0.24,0.54
+"Vitamin A, RAE",µg,102,245,550
+"Vitamin A, IU",IU,2030,4872,10942
+"Vitamin E (alpha-tocopherol)",mg,0.20,0.48,1.08
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,7.5,18.0,40.4
+Lipids
+"Fatty acids, total saturated",g,0.660,1.584,3.557
+"Fatty acids, total monounsaturated",g,0.680,1.632,3.665
+"Fatty acids, total polyunsaturated",g,0.240,0.576,1.294
+"Cholesterol",mg,3,7,16
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

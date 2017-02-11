@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:07 EST
+"Nutrient data for: 09062, Cherimoya, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, pieces = 160.0g","1 fruit without skin and seeds = 235.0g",
+Proximates
+"Water",g,79.39,127.02,186.57
+"Energy",kcal,75,120,176
+"Protein",g,1.57,2.51,3.69
+"Total lipid (fat)",g,0.68,1.09,1.60
+"Carbohydrate, by difference",g,17.71,28.34,41.62
+"Fiber, total dietary",g,3.0,4.8,7.0
+"Sugars, total",g,12.87,20.59,30.24
+Minerals
+"Calcium, Ca",mg,10,16,24
+"Iron, Fe",mg,0.27,0.43,0.63
+"Magnesium, Mg",mg,17,27,40
+"Phosphorus, P",mg,26,42,61
+"Potassium, K",mg,287,459,674
+"Sodium, Na",mg,7,11,16
+"Zinc, Zn",mg,0.16,0.26,0.38
+Vitamins
+"Vitamin C, total ascorbic acid",mg,12.6,20.2,29.6
+"Thiamin",mg,0.101,0.162,0.237
+"Riboflavin",mg,0.131,0.210,0.308
+"Niacin",mg,0.644,1.030,1.513
+"Vitamin B-6",mg,0.257,0.411,0.604
+"Folate, DFE",µg,23,37,54
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,5,8,12
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.43,0.63
+Lipids
+"Fatty acids, total saturated",g,0.233,0.373,0.548
+"Fatty acids, total monounsaturated",g,0.055,0.088,0.129
+"Fatty acids, total polyunsaturated",g,0.188,0.301,0.442
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+Footnotes
+(a)"Mean value contains data based on the analysis of 5-methyltetrahydrofolate plus total folate determined microbiologically"

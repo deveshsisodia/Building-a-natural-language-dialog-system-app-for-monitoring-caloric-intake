@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:00 EST
+"Nutrient data for: 06931, Sauce, pasta, spaghetti/marinara, ready-to-serve"
+Nutrient,Unit,1Value per 100 g,"1 serving 1/2 cup = 132.0g",
+Proximates
+"Water",g,87.87,115.99
+"Energy",kcal,50,66
+"Protein",g,1.39,1.83
+"Total lipid (fat)",g,1.61,2.13
+"Carbohydrate, by difference",g,7.43,9.81
+"Fiber, total dietary",g,1.8,2.4
+"Sugars, total",g,4.91,6.48
+Minerals
+"Calcium, Ca",mg,26,34
+"Iron, Fe",mg,0.73,0.96
+"Magnesium, Mg",mg,18,24
+"Phosphorus, P",mg,34,45
+"Potassium, K",mg,320,422
+"Sodium, Na",mg,437,577
+"Zinc, Zn",mg,0.20,0.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.0,2.6
+"Thiamin",mg,0.024,0.032
+"Riboflavin",mg,0.061,0.081
+"Niacin",mg,3.917,5.170
+"Vitamin B-6",mg,0.173,0.228
+"Folate, DFE",µg,13,17
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,31,41
+"Vitamin A, IU",IU,617,814
+"Vitamin E (alpha-tocopherol)",mg,2.40,3.17
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,13.9,18.3
+Lipids
+"Fatty acids, total saturated",g,0.218,0.288
+"Fatty acids, total monounsaturated",g,0.298,0.393
+"Fatty acids, total polyunsaturated",g,0.673,0.888
+"Fatty acids, total trans",g,0.007,0.009
+"Cholesterol",mg,2,3
+Amino Acids
+Other
+"Caffeine",mg,0,0

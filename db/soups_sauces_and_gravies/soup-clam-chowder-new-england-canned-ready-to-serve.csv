@@ -1,0 +1,30 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:03 EST
+"Nutrient data for: 27042, Soup, clam chowder, new england, canned, ready-to-serve"
+Nutrient,Unit,1Value per 100 g,"1 cup = 254.0g","1 can = 521.0g",
+Proximates
+"Water",g,83.85,212.98,436.86
+"Energy",kcal,79,201,412
+"Protein",g,2.61,6.63,13.60
+"Total lipid (fat)",g,3.94,10.01,20.53
+"Carbohydrate, by difference",g,8.28,21.03,43.14
+"Fiber, total dietary",g,1.0,2.5,5.2
+"Sugars, total",g,0.23,0.58,1.20
+Minerals
+"Calcium, Ca",mg,15,38,78
+"Iron, Fe",mg,0.48,1.22,2.50
+"Magnesium, Mg",mg,10,25,52
+"Phosphorus, P",mg,65,165,339
+"Potassium, K",mg,175,444,912
+"Sodium, Na",mg,343,871,1787
+"Zinc, Zn",mg,0.23,0.58,1.20
+Vitamins
+"Thiamin",mg,0.015,0.038,0.078
+"Riboflavin",mg,0.015,0.038,0.078
+"Niacin",mg,0.497,1.262,2.589
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,9,23,47
+Lipids
+Amino Acids
+Other

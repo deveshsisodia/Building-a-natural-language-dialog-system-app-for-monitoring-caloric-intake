@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:07 EST
+"Nutrient data for: 09034, Apricots, dried, sulfured, stewed, with added sugar"
+Nutrient,Unit,1Value per 100 g,"1 cup, halves = 270.0g",
+Proximates
+"Water",g,68.45,184.81
+"Energy",kcal,113,305
+"Protein",g,1.17,3.16
+"Total lipid (fat)",g,0.15,0.41
+"Carbohydrate, by difference",g,29.26,79.00
+"Fiber, total dietary",g,4.1,11.1
+Minerals
+"Calcium, Ca",mg,15,40
+"Iron, Fe",mg,1.52,4.10
+"Magnesium, Mg",mg,15,40
+"Phosphorus, P",mg,38,103
+"Potassium, K",mg,443,1196
+"Sodium, Na",mg,3,8
+"Zinc, Zn",mg,0.24,0.65
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.4,3.8
+"Thiamin",mg,0.005,0.014
+"Riboflavin",mg,0.027,0.073
+"Niacin",mg,0.853,2.303
+"Vitamin B-6",mg,0.103,0.278
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,107,289
+"Vitamin A, IU",IU,2139,5775
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.010,0.027
+"Fatty acids, total monounsaturated",g,0.064,0.173
+"Fatty acids, total polyunsaturated",g,0.029,0.078
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:07 EST
+"Nutrient data for: 09039, Avocados, raw, Florida"
+Nutrient,Unit,1Value per 100 g,"1 cup, pureed = 230.0g","1 fruit without skin and seeds = 304.0g",
+Proximates
+"Water",g,78.81,181.26,239.58
+"Energy",kcal,120,276,365
+"Protein",g,2.23,5.13,6.78
+"Total lipid (fat)",g,10.06,23.14,30.58
+"Carbohydrate, by difference",g,7.82,17.99,23.77
+"Fiber, total dietary",g,5.6,12.9,17.0
+"Sugars, total",g,2.42,5.57,7.36
+Minerals
+"Calcium, Ca",mg,10,23,30
+"Iron, Fe",mg,0.17,0.39,0.52
+"Magnesium, Mg",mg,24,55,73
+"Phosphorus, P",mg,40,92,122
+"Potassium, K",mg,351,807,1067
+"Sodium, Na",mg,2,5,6
+"Zinc, Zn",mg,0.40,0.92,1.22
+Vitamins
+"Vitamin C, total ascorbic acid",mg,17.4,40.0,52.9
+"Thiamin",mg,0.021,0.048,0.064
+"Riboflavin",mg,0.053,0.122,0.161
+"Niacin",mg,0.672,1.546,2.043
+"Vitamin B-6",mg,0.078,0.179,0.237
+"Folate, DFE",µg,35,80,106
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,7,16,21
+"Vitamin A, IU",IU,140,322,426
+"Vitamin E (alpha-tocopherol)",mg,2.66,6.12,8.09
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.960,4.508,5.958
+"Fatty acids, total monounsaturated",g,5.513,12.680,16.760
+"Fatty acids, total polyunsaturated",g,1.676,3.855,5.095
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

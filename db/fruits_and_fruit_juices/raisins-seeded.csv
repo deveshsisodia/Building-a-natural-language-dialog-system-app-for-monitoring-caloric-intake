@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:14 EST
+"Nutrient data for: 09299, Raisins, seeded"
+Nutrient,Unit,1Value per 100 g,"1 cup, packed = 165.0g","1 cup (not packed) = 145.0g",
+Proximates
+"Water",g,16.57,27.34,24.03
+"Energy",kcal,296,488,429
+"Protein",g,2.52,4.16,3.65
+"Total lipid (fat)",g,0.54,0.89,0.78
+"Carbohydrate, by difference",g,78.47,129.48,113.78
+"Fiber, total dietary",g,6.8,11.2,9.9
+Minerals
+"Calcium, Ca",mg,28,46,41
+"Iron, Fe",mg,2.59,4.27,3.76
+"Magnesium, Mg",mg,30,50,44
+"Phosphorus, P",mg,75,124,109
+"Potassium, K",mg,825,1361,1196
+"Sodium, Na",mg,28,46,41
+"Zinc, Zn",mg,0.18,0.30,0.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.4,8.9,7.8
+"Thiamin",mg,0.112,0.185,0.162
+"Riboflavin",mg,0.182,0.300,0.264
+"Niacin",mg,1.114,1.838,1.615
+"Vitamin B-6",mg,0.188,0.310,0.273
+"Folate, DFE",µg,3,5,4
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.178,0.294,0.258
+"Fatty acids, total monounsaturated",g,0.022,0.036,0.032
+"Fatty acids, total polyunsaturated",g,0.159,0.262,0.231
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

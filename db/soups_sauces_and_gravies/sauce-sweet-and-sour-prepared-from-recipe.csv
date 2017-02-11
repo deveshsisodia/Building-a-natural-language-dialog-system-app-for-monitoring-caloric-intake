@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:01 EST
+"Nutrient data for: 06285, Sauce, sweet and sour, prepared-from-recipe"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,78.56,
+"Energy",kcal,79,
+"Protein",g,1.84,
+"Total lipid (fat)",g,0.58,
+"Carbohydrate, by difference",g,16.72,
+"Fiber, total dietary",g,0.4,
+"Sugars, total",g,10.81,
+Minerals
+"Calcium, Ca",mg,16,
+"Iron, Fe",mg,0.67,
+"Magnesium, Mg",mg,13,
+"Phosphorus, P",mg,30,
+"Potassium, K",mg,193,
+"Sodium, Na",mg,347,
+"Zinc, Zn",mg,0.18,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.0,
+"Thiamin",mg,0.042,
+"Riboflavin",mg,0.063,
+"Niacin",mg,1.178,
+"Vitamin B-6",mg,0.087,
+"Folate, DFE",µg,10,
+"Vitamin B-12",µg,0.00,
+"Vitamin A, RAE",µg,6,
+"Vitamin A, IU",IU,110,
+"Vitamin E (alpha-tocopherol)",mg,0.32,
+"Vitamin K (phylloquinone)",µg,1.0,
+Lipids
+"Fatty acids, total saturated",g,0.144,
+"Fatty acids, total monounsaturated",g,0.253,
+"Fatty acids, total polyunsaturated",g,0.117,
+"Fatty acids, total trans",g,0.000,
+"Cholesterol",mg,1,
+Amino Acids
+Other
+"Caffeine",mg,0,
+Footnotes
+(a)"Recipe No. G-05 from NFSMI, Healthy School Meals Resource System, and Team Nutrition"

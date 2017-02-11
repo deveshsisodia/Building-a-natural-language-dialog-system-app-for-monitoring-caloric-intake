@@ -1,0 +1,32 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 02:57 EST
+"Nutrient data for: 06212, CAMPBELL'S, 25% Less Sodium Chicken Noodle Soup, condensed"
+Nutrient,Unit,1Value per 100 g,"0.5 cup condensed = 126.0g",
+Proximates
+"Water",g,87.80,110.63
+"Energy",kcal,49,62
+"Protein",g,2.90,3.65
+"Total lipid (fat)",g,1.29,1.63
+"Carbohydrate, by difference",g,6.30,7.94
+"Fiber, total dietary",g,0.8,1.0
+"Sugars, total",g,0.60,0.76
+Minerals
+"Calcium, Ca",mg,12,15
+"Iron, Fe",mg,0.60,0.76
+"Magnesium, Mg",mg,9,11
+"Phosphorus, P",mg,35,44
+"Potassium, K",mg,66,83
+"Sodium, Na",mg,446,562
+"Zinc, Zn",mg,0.20,0.25
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Vitamin A, IU",IU,176,222
+Lipids
+"Fatty acids, total saturated",g,0.400,0.504
+"Fatty acids, total monounsaturated",g,0.600,0.756
+"Fatty acids, total polyunsaturated",g,0.300,0.378
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,12,15
+Amino Acids
+Other

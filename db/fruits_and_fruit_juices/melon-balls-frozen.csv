@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:11 EST
+"Nutrient data for: 09185, Melon balls, frozen"
+Nutrient,Unit,1Value per 100 g,"1 cup, unthawed = 173.0g",
+Proximates
+"Water",g,90.26,156.15
+"Energy",kcal,33,57
+"Protein",g,0.84,1.45
+"Total lipid (fat)",g,0.25,0.43
+"Carbohydrate, by difference",g,7.94,13.74
+"Fiber, total dietary",g,0.7,1.2
+Minerals
+"Calcium, Ca",mg,10,17
+"Iron, Fe",mg,0.29,0.50
+"Magnesium, Mg",mg,14,24
+"Phosphorus, P",mg,12,21
+"Potassium, K",mg,280,484
+"Sodium, Na",mg,31,54
+"Zinc, Zn",mg,0.17,0.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.2,10.7
+"Thiamin",mg,0.166,0.287
+"Riboflavin",mg,0.022,0.038
+"Niacin",mg,0.640,1.107
+"Vitamin B-6",mg,0.106,0.183
+"Folate, DFE",µg,26,45
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,89,154
+"Vitamin A, IU",IU,1774,3069
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.064,0.111
+"Fatty acids, total monounsaturated",g,0.006,0.010
+"Fatty acids, total polyunsaturated",g,0.098,0.170
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

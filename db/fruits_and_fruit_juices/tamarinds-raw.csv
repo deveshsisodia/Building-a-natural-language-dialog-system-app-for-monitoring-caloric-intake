@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:15 EST
+"Nutrient data for: 09322, Tamarinds, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, pulp = 120.0g","1 fruit (3"" x 1"") = 2.0g",
+Proximates
+"Water",g,31.40,37.68,0.63
+"Energy",kcal,239,287,5
+"Protein",g,2.80,3.36,0.06
+"Total lipid (fat)",g,0.60,0.72,0.01
+"Carbohydrate, by difference",g,62.50,75.00,1.25
+"Fiber, total dietary",g,5.1,6.1,0.1
+"Sugars, total",g,38.80,46.56,0.78
+Minerals
+"Calcium, Ca",mg,74,89,1
+"Iron, Fe",mg,2.80,3.36,0.06
+"Magnesium, Mg",mg,92,110,2
+"Phosphorus, P",mg,113,136,2
+"Potassium, K",mg,628,754,13
+"Sodium, Na",mg,28,34,1
+"Zinc, Zn",mg,0.10,0.12,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.5,4.2,0.1
+"Thiamin",mg,0.428,0.514,0.009
+"Riboflavin",mg,0.152,0.182,0.003
+"Niacin",mg,1.938,2.326,0.039
+"Vitamin B-6",mg,0.066,0.079,0.001
+"Folate, DFE",µg,14,17,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,2,2,0
+"Vitamin A, IU",IU,30,36,1
+"Vitamin E (alpha-tocopherol)",mg,0.10,0.12,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,2.8,3.4,0.1
+Lipids
+"Fatty acids, total saturated",g,0.272,0.326,0.005
+"Fatty acids, total monounsaturated",g,0.181,0.217,0.004
+"Fatty acids, total polyunsaturated",g,0.059,0.071,0.001
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

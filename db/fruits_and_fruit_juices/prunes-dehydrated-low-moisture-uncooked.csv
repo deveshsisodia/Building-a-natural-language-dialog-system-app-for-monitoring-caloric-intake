@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:14 EST
+"Nutrient data for: 09289, Prunes, dehydrated (low-moisture), uncooked"
+Nutrient,Unit,1Value per 100 g,"1 cup = 132.0g",
+Proximates
+"Water",g,4.00,5.28
+"Energy",kcal,339,447
+"Protein",g,3.70,4.88
+"Total lipid (fat)",g,0.73,0.96
+"Carbohydrate, by difference",g,89.07,117.57
+Minerals
+"Calcium, Ca",mg,72,95
+"Iron, Fe",mg,3.52,4.65
+"Magnesium, Mg",mg,64,84
+"Phosphorus, P",mg,112,148
+"Potassium, K",mg,1058,1397
+"Sodium, Na",mg,5,7
+"Zinc, Zn",mg,0.75,0.99
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.118,0.156
+"Riboflavin",mg,0.165,0.218
+"Niacin",mg,2.995,3.953
+"Vitamin B-6",mg,0.745,0.983
+"Folate, DFE",µg,2,3
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,88,116
+"Vitamin A, IU",IU,1762,2326
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.059,0.078
+"Fatty acids, total monounsaturated",g,0.483,0.638
+"Fatty acids, total polyunsaturated",g,0.159,0.210
+"Cholesterol",mg,0,0
+Amino Acids
+Other

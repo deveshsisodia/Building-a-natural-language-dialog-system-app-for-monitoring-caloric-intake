@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:00 EST
+"Nutrient data for: 06307, Sauce, barbecue, KRAFT, original"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 16.0g","0.5 cup = 146.0g","1 cup = 283.0g",
+Proximates
+"Water",g,54.22,8.68,79.16,153.44
+"Energy",kcal,172,28,251,487
+"Protein",g,0.74,0.12,1.08,2.09
+"Total lipid (fat)",g,0.62,0.10,0.91,1.75
+"Carbohydrate, by difference",g,40.77,6.52,59.52,115.38
+"Fiber, total dietary",g,0.4,0.1,0.6,1.1
+"Sugars, total",g,32.26,5.16,47.10,91.30
+Minerals
+"Calcium, Ca",mg,47,8,69,133
+"Iron, Fe",mg,0.79,0.13,1.15,2.24
+"Magnesium, Mg",mg,15,2,22,42
+"Phosphorus, P",mg,19,3,28,54
+"Potassium, K",mg,247,40,361,699
+"Sodium, Na",mg,1242,199,1813,3515
+"Zinc, Zn",mg,0.16,0.03,0.23,0.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.0,0.3,0.6
+"Thiamin",mg,0.023,0.004,0.034,0.065
+"Riboflavin",mg,0.050,0.008,0.073,0.142
+"Niacin",mg,0.520,0.083,0.759,1.472
+"Vitamin B-6",mg,0.083,0.013,0.121,0.235
+"Vitamin A, RAE",µg,10,2,15,28
+"Vitamin A, IU",IU,196,31,286,555
+"Vitamin E (alpha-tocopherol)",mg,0.66,0.11,0.96,1.87
+Lipids
+"Fatty acids, total saturated",g,0.038,0.006,0.055,0.108
+"Fatty acids, total monounsaturated",g,0.092,0.015,0.134,0.260
+"Fatty acids, total polyunsaturated",g,0.082,0.013,0.120,0.232
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+Amino Acids
+Other
+Footnotes
+(a)"Contains other proximate components."

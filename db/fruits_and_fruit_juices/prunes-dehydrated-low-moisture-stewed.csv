@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:14 EST
+"Nutrient data for: 09290, Prunes, dehydrated (low-moisture), stewed"
+Nutrient,Unit,1Value per 100 g,"1 cup = 280.0g",
+Proximates
+"Water",g,67.99,190.37
+"Energy",kcal,113,316
+"Protein",g,1.23,3.44
+"Total lipid (fat)",g,0.24,0.67
+"Carbohydrate, by difference",g,29.70,83.16
+Minerals
+"Calcium, Ca",mg,24,67
+"Iron, Fe",mg,1.17,3.28
+"Magnesium, Mg",mg,21,59
+"Phosphorus, P",mg,37,104
+"Potassium, K",mg,353,988
+"Sodium, Na",mg,2,6
+"Zinc, Zn",mg,0.25,0.70
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.046,0.129
+"Riboflavin",mg,0.030,0.084
+"Niacin",mg,0.985,2.758
+"Vitamin B-6",mg,0.191,0.535
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,26,73
+"Vitamin A, IU",IU,523,1464
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.020,0.056
+"Fatty acids, total monounsaturated",g,0.161,0.451
+"Fatty acids, total polyunsaturated",g,0.053,0.148
+"Cholesterol",mg,0,0
+Amino Acids
+Other

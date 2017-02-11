@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:02 EST
+"Nutrient data for: 06549, Soup, chicken mushroom, canned, prepared with equal volume water"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 244.0g","1 can (10.75 oz), prepared = 593.0g",
+Proximates
+"Water",g,90.00,219.60,533.70
+"Energy",kcal,54,132,320
+"Protein",g,1.80,4.39,10.67
+"Total lipid (fat)",g,3.75,9.15,22.24
+"Carbohydrate, by difference",g,3.80,9.27,22.53
+"Fiber, total dietary",g,0.1,0.2,0.6
+Minerals
+"Calcium, Ca",mg,12,29,71
+"Iron, Fe",mg,0.36,0.88,2.13
+"Magnesium, Mg",mg,4,10,24
+"Phosphorus, P",mg,11,27,65
+"Potassium, K",mg,63,154,374
+"Sodium, Na",mg,327,798,1939
+"Zinc, Zn",mg,0.40,0.98,2.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.010,0.024,0.059
+"Riboflavin",mg,0.046,0.112,0.273
+"Niacin",mg,0.668,1.630,3.961
+"Vitamin B-6",mg,0.020,0.049,0.119
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.02,0.05,0.12
+"Vitamin A, RAE",µg,23,56,136
+"Vitamin A, IU",IU,465,1135,2757
+Lipids
+"Fatty acids, total saturated",g,0.980,2.391,5.811
+"Fatty acids, total monounsaturated",g,1.650,4.026,9.784
+"Fatty acids, total polyunsaturated",g,0.950,2.318,5.634
+"Cholesterol",mg,4,10,24
+Amino Acids
+Other

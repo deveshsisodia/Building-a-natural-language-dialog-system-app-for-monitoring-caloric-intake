@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:01 EST
+"Nutrient data for: 06007, Soup, bean with ham, canned, chunky, ready-to-serve"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 243.0g","1 can (19.25 oz) = 546.0g",
+Proximates
+"Water",g,78.63,191.07,429.32
+"Energy",kcal,95,231,519
+"Protein",g,5.19,12.61,28.34
+"Total lipid (fat)",g,3.50,8.51,19.11
+"Carbohydrate, by difference",g,11.16,27.12,60.93
+"Fiber, total dietary",g,4.6,11.2,25.1
+Minerals
+"Calcium, Ca",mg,32,78,175
+"Iron, Fe",mg,1.33,3.23,7.26
+"Magnesium, Mg",mg,19,46,104
+"Phosphorus, P",mg,59,143,322
+"Potassium, K",mg,175,425,956
+"Sodium, Na",mg,400,972,2184
+"Zinc, Zn",mg,0.44,1.07,2.40
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.8,4.4,9.8
+"Thiamin",mg,0.060,0.146,0.328
+"Riboflavin",mg,0.060,0.146,0.328
+"Niacin",mg,0.700,1.701,3.822
+"Vitamin B-6",mg,0.050,0.121,0.273
+"Folate, DFE",µg,12,29,66
+"Vitamin B-12",µg,0.03,0.07,0.16
+"Vitamin A, RAE",µg,81,197,442
+"Vitamin A, IU",IU,1626,3951,8878
+Lipids
+"Fatty acids, total saturated",g,1.370,3.329,7.480
+"Fatty acids, total monounsaturated",g,1.580,3.839,8.627
+"Fatty acids, total polyunsaturated",g,0.390,0.948,2.129
+"Cholesterol",mg,9,22,49
+Amino Acids
+Other

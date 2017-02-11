@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:08 EST
+"Nutrient data for: 09092, Figs, canned, heavy syrup pack, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"1 cup = 259.0g","1 fig with liquid = 28.0g",
+Proximates
+"Water",g,76.33,197.69,21.37
+"Energy",kcal,88,228,25
+"Protein",g,0.38,0.98,0.11
+"Total lipid (fat)",g,0.10,0.26,0.03
+"Carbohydrate, by difference",g,22.90,59.31,6.41
+"Fiber, total dietary",g,2.2,5.7,0.6
+"Sugars, total",g,20.70,53.61,5.80
+Minerals
+"Calcium, Ca",mg,27,70,8
+"Iron, Fe",mg,0.28,0.73,0.08
+"Magnesium, Mg",mg,10,26,3
+"Phosphorus, P",mg,10,26,3
+"Potassium, K",mg,99,256,28
+"Sodium, Na",mg,1,3,0
+"Zinc, Zn",mg,0.11,0.28,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,2.6,0.3
+"Thiamin",mg,0.022,0.057,0.006
+"Riboflavin",mg,0.037,0.096,0.010
+"Niacin",mg,0.428,1.109,0.120
+"Vitamin B-6",mg,0.070,0.181,0.020
+"Folate, DFE",µg,2,5,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,2,5,1
+"Vitamin A, IU",IU,37,96,10
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.31,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,5.3,13.7,1.5
+Lipids
+"Fatty acids, total saturated",g,0.020,0.052,0.006
+"Fatty acids, total monounsaturated",g,0.022,0.057,0.006
+"Fatty acids, total polyunsaturated",g,0.048,0.124,0.013
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:01 EST
+"Nutrient data for: 06006, Soup, bean with frankfurters, canned, condensed"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 263.0g","1 can (11.25 oz) = 319.0g",
+Proximates
+"Water",g,67.70,178.05,215.96
+"Energy",kcal,142,373,453
+"Protein",g,7.60,19.99,24.24
+"Total lipid (fat)",g,5.31,13.97,16.94
+"Carbohydrate, by difference",g,16.75,44.05,53.43
+"Fiber, total dietary",g,4.6,12.1,14.7
+Minerals
+"Calcium, Ca",mg,66,174,211
+"Iron, Fe",mg,1.78,4.68,5.68
+"Magnesium, Mg",mg,37,97,118
+"Phosphorus, P",mg,126,331,402
+"Potassium, K",mg,363,955,1158
+"Sodium, Na",mg,831,2186,2651
+"Zinc, Zn",mg,0.90,2.37,2.87
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,1.8,2.2
+"Thiamin",mg,0.083,0.218,0.265
+"Riboflavin",mg,0.049,0.129,0.156
+"Niacin",mg,0.780,2.051,2.488
+"Vitamin B-6",mg,0.100,0.263,0.319
+"Folate, DFE",µg,24,63,77
+"Vitamin B-12",µg,0.06,0.16,0.19
+"Vitamin A, RAE",µg,33,87,105
+"Vitamin A, IU",IU,662,1741,2112
+Lipids
+"Fatty acids, total saturated",g,1.610,4.234,5.136
+"Fatty acids, total monounsaturated",g,2.080,5.470,6.635
+"Fatty acids, total polyunsaturated",g,1.250,3.288,3.987
+"Cholesterol",mg,9,24,29
+Amino Acids
+Other

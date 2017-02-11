@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:13 EST
+"Nutrient data for: 09261, Pears, dried, sulfured, stewed, with added sugar"
+Nutrient,Unit,1Value per 100 g,"1 cup, halves = 280.0g",
+Proximates
+"Water",g,61.20,171.36
+"Energy",kcal,140,392
+"Protein",g,0.86,2.41
+"Total lipid (fat)",g,0.29,0.81
+"Carbohydrate, by difference",g,37.14,103.99
+"Fiber, total dietary",g,5.8,16.2
+Minerals
+"Calcium, Ca",mg,15,42
+"Iron, Fe",mg,0.97,2.72
+"Magnesium, Mg",mg,15,42
+"Phosphorus, P",mg,27,76
+"Potassium, K",mg,245,686
+"Sodium, Na",mg,3,8
+"Zinc, Zn",mg,0.18,0.50
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.8,10.6
+"Thiamin",mg,0.004,0.011
+"Riboflavin",mg,0.019,0.053
+"Niacin",mg,0.333,0.932
+"Vitamin B-6",mg,0.033,0.092
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,2,6
+"Vitamin A, IU",IU,40,112
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.016,0.045
+"Fatty acids, total monounsaturated",g,0.061,0.171
+"Fatty acids, total polyunsaturated",g,0.068,0.190
+"Cholesterol",mg,0,0
+Amino Acids
+Other

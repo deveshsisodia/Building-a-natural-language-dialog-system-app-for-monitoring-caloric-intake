@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:12 EST
+"Nutrient data for: 09407, Peach nectar, canned, with added ascorbic acid"
+Nutrient,Unit,1Value per 100 g,"1 cup = 249.0g","1 fl oz = 31.1g",
+Proximates
+"Water",g,85.64,213.24,26.63
+"Energy",kcal,54,134,17
+"Protein",g,0.27,0.67,0.08
+"Total lipid (fat)",g,0.02,0.05,0.01
+"Carbohydrate, by difference",g,13.92,34.66,4.33
+"Fiber, total dietary",g,0.6,1.5,0.2
+"Sugars, total",g,12.35,30.75,3.84
+Minerals
+"Calcium, Ca",mg,5,12,2
+"Iron, Fe",mg,0.19,0.47,0.06
+"Magnesium, Mg",mg,4,10,1
+"Phosphorus, P",mg,6,15,2
+"Potassium, K",mg,40,100,12
+"Sodium, Na",mg,7,17,2
+"Zinc, Zn",mg,0.08,0.20,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,17.6,43.8,5.5
+"Thiamin",mg,0.003,0.007,0.001
+"Riboflavin",mg,0.014,0.035,0.004
+"Niacin",mg,0.288,0.717,0.090
+"Vitamin B-6",mg,0.007,0.017,0.002
+"Folate, DFE",µg,1,2,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,13,32,4
+"Vitamin A, IU",IU,258,642,80
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.002,0.005,0.001
+"Fatty acids, total monounsaturated",g,0.008,0.020,0.002
+"Fatty acids, total polyunsaturated",g,0.011,0.027,0.003
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

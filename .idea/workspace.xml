@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="702246a0-a9b3-4f8d-94e4-2dda3a9a99d0" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/CSV_Extractor.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ ARBY'S, roast beef sandwich, classic.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, CROISSAN'WICH with Egg and Cheese.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, CROISSAN'WICH with Sausage and Cheese.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, CROISSAN'WICH with Sausage, Egg and Cheese.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, Cheeseburger.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, Chicken Strips.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, DOUBLE WHOPPER, no cheese.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, DOUBLE WHOPPER, with cheese.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, Double Cheeseburger.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, Hamburger.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, Hash Brown Rounds.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, Onion Rings.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, Original Chicken Sandwich.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, Premium Fish Sandwich.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, Vanilla Shake.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, WHOPPER, no cheese.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, WHOPPER, with cheese.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, french fries.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ BURGER KING, french toast sticks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ CHICK-FIL-A, Chick-n-Strips.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ CHICK-FIL-A, chicken sandwich.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ CHICK-FIL-A, hash browns.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DIGIORNO Pizza, cheese topping, cheese stuffed crust, frozen, baked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DIGIORNO Pizza, cheese topping, rising crust, frozen, baked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DIGIORNO Pizza, cheese topping, thin crispy crust, frozen, baked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DIGIORNO Pizza, pepperoni topping, cheese stuffed crust, frozen, baked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DIGIORNO Pizza, pepperoni topping, rising crust, frozen, baked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DIGIORNO Pizza, pepperoni topping, thin crispy crust, frozen, baked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DIGIORNO Pizza, supreme topping, rising crust, frozen, baked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DIGIORNO Pizza, supreme topping, thin crispy crust, frozen, baked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DOMINO'S 14&quot; Cheese Pizza, Classic Hand-Tossed Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DOMINO'S 14&quot; Cheese Pizza, Crunchy Thin Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DOMINO'S 14&quot; Cheese Pizza, Ultimate Deep Dish Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DOMINO'S 14&quot; EXTRAVAGANZZA FEAST Pizza, Classic Hand-Tossed Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DOMINO'S 14&quot; Pepperoni Pizza, Classic Hand-Tossed Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DOMINO'S 14&quot; Pepperoni Pizza, Crunchy Thin Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DOMINO'S 14&quot; Pepperoni Pizza, Ultimate Deep Dish Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DOMINO'S 14&quot; Sausage Pizza, Classic Hand-Tossed Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DOMINO'S 14&quot; Sausage Pizza, Crunchy Thin Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ DOMINO'S 14&quot; Sausage Pizza, Ultimate Deep Dish Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Food, Pizza Chain, 14&quot; pizza, cheese topping, regular crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Food, Pizza Chain, 14&quot; pizza, cheese topping, stuffed crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Food, Pizza Chain, 14&quot; pizza, cheese topping, thick crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Food, Pizza Chain, 14&quot; pizza, cheese topping, thin crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Food, Pizza Chain, 14&quot; pizza, meat and vegetable topping, regular crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Food, Pizza Chain, 14&quot; pizza, pepperoni topping, regular crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Food, Pizza Chain, 14&quot; pizza, pepperoni topping, thick crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Food, Pizza Chain, 14&quot; pizza, pepperoni topping, thin crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Food, Pizza Chain, 14&quot; pizza, sausage topping, regular crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Food, Pizza Chain, 14&quot; pizza, sausage topping, thick crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Food, Pizza Chain, 14&quot; pizza, sausage topping, thin crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Foods, Fried Chicken, Breast, meat and skin and breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Foods, Fried Chicken, Breast, meat only, skin and breading removed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Foods, Fried Chicken, Drumstick, meat and skin with breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Foods, Fried Chicken, Drumstick, meat only, skin and breading removed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Foods, Fried Chicken, Skin and breading from all pieces.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Foods, Fried Chicken, Thigh, meat and skin and breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Foods, Fried Chicken, Thigh, meat only, skin and breading removed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Foods, Fried Chicken, Wing, meat and skin and breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Foods, Fried Chicken, Wing, meat only, skin and breading removed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Foods, biscuit, with egg and sausage.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Foods, cheeseburger; double, large patty; with condiments, vegetables and mayonnaise.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Foods, crispy chicken filet sandwich, with lettuce and mayonnaise.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast Foods, grilled chicken filet sandwich, with lettuce, tomato and spread.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast food, biscuit.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, bagel, with breakfast steak, egg, cheese, and condiments.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, bagel, with egg, sausage patty, cheese, and condiments.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, biscuit with egg and steak.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, biscuit, with crispy chicken fillet.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, biscuit, with egg and bacon.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, biscuit, with egg and ham.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, biscuit, with egg, cheese, and bacon.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, biscuit, with egg.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, biscuit, with ham.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, biscuit, with sausage.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, breadstick, soft, prepared with garlic and parmesan cheese.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, breakfast burrito, with egg, cheese, and sausage.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, burrito, with beans and beef.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, burrito, with beans and cheese.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, burrito, with beans, cheese, and beef.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, burrito, with beans.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger, double, regular patty and bun, with condiments.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; double, large patty, with condiments and vegetables.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; double, large patty; with condiments.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; double, regular patty, with condiments and vegetables.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; double, regular patty; double decker bun with condiments and special sauce.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; double, regular patty; plain.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; double, regular patty; with condiments.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; double, regular, patty and bun; with condiments and vegetables.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; single, large patty; plain.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; single, large patty; with condiments and bacon.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; single, large patty; with condiments and vegetables.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; single, large patty; with condiments, vegetables and ham.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; single, large patty; with condiments, vegetables and mayonnaise.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; single, large patty; with condiments.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; single, regular patty, with condiments and vegetables.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; single, regular patty, with condiments.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; single, regular patty; plain.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, cheeseburger; triple, regular patty; plain.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, chicken fillet sandwich, plain with pickles.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, chicken tenders.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, chicken, breaded and fried, boneless pieces, plain.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, coleslaw.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, crispy chicken in tortilla, with lettuce, cheese, and ranch sauce.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, crispy chicken, bacon, and tomato club sandwich, with cheese, lettuce, and mayonnaise.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, croissant, with egg and cheese.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, croissant, with egg, cheese, and bacon.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, croissant, with egg, cheese, and ham.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, croissant, with egg, cheese, and sausage.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, egg, scrambled.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, english muffin, with cheese and sausage.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, english muffin, with egg, cheese, and canadian bacon.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, english muffin, with egg, cheese, and sausage.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, fish sandwich, with tartar sauce and cheese.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, fish sandwich, with tartar sauce.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, french toast sticks.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, french toast with butter.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, griddle cake sandwich, egg, cheese, and bacon.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, griddle cake sandwich, egg, cheese, and sausage.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, griddle cake sandwich, sausage.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, grilled chicken in tortilla, with lettuce, cheese, and ranch sauce.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, grilled chicken, bacon and tomato club sandwich, with cheese, lettuce, and mayonnaise.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hamburger, large, single patty, with condiments.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hamburger, large, triple patty, with condiments.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hamburger; double, large patty; with condiments and vegetables.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hamburger; double, large patty; with condiments, vegetables and mayonnaise.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hamburger; double, regular patty; with condiments.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hamburger; double, regular, patty; plain.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hamburger; single, large patty; plain.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hamburger; single, large patty; with condiments and vegetables.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hamburger; single, large patty; with condiments, vegetables and mayonnaise.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hamburger; single, regular patty; double decker bun with condiments and special sauce.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hamburger; single, regular patty; plain.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hamburger; single, regular patty; with condiments and vegetables.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hamburger; single, regular patty; with condiments.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hotdog, plain.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hotdog, with chili.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hotdog, with corn flour coating (corndog).csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, hush puppies.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, miniature cinnamon rolls.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, nachos, with cheese, beans, ground beef, and tomatoes.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, nachos, with cheese.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, onion rings, breaded and fried.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, potato, french fried in vegetable oil.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, potato, mashed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, potatoes, hash browns, round pieces or patty.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, quesadilla, with chicken.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, roast beef sandwich, plain.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, shrimp, breaded and fried.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, strawberry banana smoothie made with ice and low-fat yogurt.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, submarine sandwich, bacon, lettuce, and tomato on white bread.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, submarine sandwich, cold cut on white bread with lettuce and tomato.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, submarine sandwich, ham on white bread with lettuce and tomato.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, submarine sandwich, meatball marinara on white bread.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, submarine sandwich, oven roasted chicken on white bread with lettuce and tomato.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, submarine sandwich, roast beef on white bread with lettuce and tomato.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, submarine sandwich, steak and cheese on white bread with cheese, lettuce and tomato.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, submarine sandwich, sweet onion chicken teriyaki on white bread with lettuce, tomato and sweet onion sauce.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, submarine sandwich, tuna on white bread with lettuce and tomato.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, submarine sandwich, turkey breast on white bread with lettuce and tomato.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, submarine sandwich, turkey, roast beef and ham on white bread with lettuce and tomato.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, sundae, caramel.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, sundae, hot fudge.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, sundae, strawberry.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, taco salad.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, taco with beef, cheese and lettuce, hard shell.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, taco with beef, cheese and lettuce, soft.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, taco with chicken, lettuce and cheese, soft.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Fast foods, vanilla, light, soft-serve ice cream, with cone.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KASHI Pizza, Greek Tzatziki, single serve, frozen, unprepared.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KASHI Pizza, Margherita, frozen, unprepared.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KASHI Pizza, Mediterranean, frozen, unprepared.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KASHI Pizza, Mushroom Trio &amp;amp; Spinach, frozen, unprepared.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KASHI Pizza, Mushroom and Spinach, single serve, frozen, unprepared.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KASHI Pizza, Roasted Vegetable, frozen, unprepared.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KASHI Pizza, Tikka Masala, single serve, frozen, unprepared.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Coleslaw.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Crispy Chicken Strips.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, EXTRA CRISPY, Breast, meat and skin with breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, EXTRA CRISPY, Breast, meat only, skin and breading removed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, EXTRA CRISPY, Drumstick, meat and skin with breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, EXTRA CRISPY, Drumstick, meat only, skin and breading removed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, EXTRA CRISPY, Skin and Breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, EXTRA CRISPY, Thigh, meat and skin with breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, EXTRA CRISPY, Thigh, meat only, skin and breading removed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, EXTRA CRISPY, Wing, meat and skin with breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, EXTRA CRISPY, Wing, meat only, skin and breading removed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, ORIGINAL RECIPE, Breast, meat and skin with breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, ORIGINAL RECIPE, Breast, meat only, skin and breading removed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, ORIGINAL RECIPE, Drumstick, meat and skin with breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, ORIGINAL RECIPE, Drumstick, meat only, skin and breading removed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, ORIGINAL RECIPE, Skin and Breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, ORIGINAL RECIPE, Thigh, meat and skin with breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, ORIGINAL RECIPE, Thigh, meat only, skin and breading removed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, ORIGINAL RECIPE, Wing, meat and skin with breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Fried Chicken, ORIGINAL RECIPE, Wing, meat only, skin and breading removed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, Popcorn Chicken.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ KFC, biscuit.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ LITTLE CAESARS 14&quot; Cheese Pizza, Large Deep Dish Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ LITTLE CAESARS 14&quot; Cheese Pizza, Thin Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ LITTLE CAESARS 14&quot; Original Round Cheese Pizza, Regular Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ LITTLE CAESARS 14&quot; Original Round Meat and Vegetable Pizza, Regular Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ LITTLE CAESARS 14&quot; Original Round Pepperoni Pizza, Regular Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ LITTLE CAESARS 14&quot; Pepperoni Pizza, Large Deep Dish Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Light Ice Cream, soft serve, blended with cookie pieces.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Light Ice Cream, soft serve, blended with milk chocolate candies.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ MORNINGSTAR FARMS Pizza, Baja Black Bean, single serve, frozen, unprepared.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S Bacon Ranch Salad with Crispy Chicken.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, BIG BREAKFAST.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, BIG MAC (without Big Mac Sauce).csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, BIG MAC.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Bacon Egg &amp;amp; Cheese Biscuit.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Bacon Ranch Salad with Grilled Chicken.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Bacon Ranch Salad without chicken.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Bacon, Egg &amp;amp; Cheese McGRIDDLES.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Baked Apple Pie.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Barbeque Sauce.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Cheeseburger.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Chicken McNUGGETS.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Creamy Ranch Sauce.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, DOUBLE QUARTER POUNDER with Cheese.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Deluxe Breakfast, with syrup and margarine.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Double Cheeseburger.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Egg McMUFFIN.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, FILET-O-FISH (without tartar sauce).csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, FILET-O-FISH.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Fruit 'n Yogurt Parfait (without granola).csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Fruit 'n Yogurt Parfait.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Hamburger.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Hash Brown.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Hot Caramel Sundae.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Hot Fudge Sundae.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Hot Mustard Sauce.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Hotcakes (plain).csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Hotcakes (with 2 pats margarine &amp;amp; syrup).csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Hotcakes and Sausage.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Low Fat Caramel Sauce.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, McCHICKEN Sandwich (without mayonnaise).csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, McCHICKEN Sandwich.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, McFLURRY with M&amp;amp;M'S CANDIES.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, McFLURRY with OREO cookies.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, NEWMAN'S OWN Cobb Dressing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, NEWMAN'S OWN Creamy Caesar Dressing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, NEWMAN'S OWN Low Fat Balsamic Vinaigrette.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, NEWMAN'S OWN Ranch Dressing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Peanuts (for Sundaes).csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Premium Crispy Chicken Classic Sandwich.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Premium Crispy Chicken Club Sandwich.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Premium Crispy Chicken Ranch BLT Sandwich.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Premium Grilled Chicken Classic Sandwich.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Premium Grilled Chicken Club Sandwich.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Premium Grilled Chicken Ranch BLT Sandwich.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, QUARTER POUNDER with Cheese.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, QUARTER POUNDER.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, RANCH SNACK WRAP, Crispy.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, RANCH SNACK WRAP, Grilled.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Sausage Biscuit with Egg.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Sausage Biscuit.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Sausage Burrito.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Sausage McGRIDDLES.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Sausage McMUFFIN with Egg.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Sausage McMUFFIN.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Sausage, Egg &amp;amp; Cheese McGRIDDLES.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Side Salad.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Southern Style Chicken Biscuit.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Spicy Buffalo Sauce.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Strawberry Sundae.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Sweet 'N Sour Sauce.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Tangy Honey Mustard Sauce.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, Vanilla Reduced Fat Ice Cream Cone.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ McDONALD'S, french fries.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PAPA JOHN'S 14&quot; Cheese Pizza, Original Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PAPA JOHN'S 14&quot; Cheese Pizza, Thin Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PAPA JOHN'S 14&quot; Pepperoni Pizza, Original Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PAPA JOHN'S 14&quot; The Works Pizza, Original Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 12&quot; Cheese Pizza, Hand-Tossed Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 12&quot; Cheese Pizza, Pan Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 12&quot; Cheese Pizza, THIN 'N CRISPY Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 12&quot; Pepperoni Pizza, Hand-Tossed Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 12&quot; Pepperoni Pizza, Pan Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 12&quot; Super Supreme Pizza, Hand-Tossed Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 14&quot; Cheese Pizza, Hand-Tossed Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 14&quot; Cheese Pizza, Pan Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 14&quot; Cheese Pizza, Stuffed Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 14&quot; Cheese Pizza, THIN 'N CRISPY Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 14&quot; Pepperoni Pizza, Hand-Tossed Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 14&quot; Pepperoni Pizza, Pan Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 14&quot; Pepperoni Pizza, THIN 'N CRISPY Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 14&quot; Sausage Pizza, Hand-Tossed Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 14&quot; Sausage Pizza, Pan Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 14&quot; Sausage Pizza, THIN 'N CRISPY Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT 14&quot; Super Supreme Pizza, Hand-Tossed Crust.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ PIZZA HUT, breadstick, parmesan garlic.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ POPEYES, Coleslaw.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ POPEYES, Fried Chicken, Mild, Breast, meat and skin with breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ POPEYES, Fried Chicken, Mild, Breast, meat only, skin and breading removed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ POPEYES, Fried Chicken, Mild, Drumstick, meat and skin with breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ POPEYES, Fried Chicken, Mild, Drumstick, meat only, skin and breading removed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ POPEYES, Fried Chicken, Mild, Skin and Breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ POPEYES, Fried Chicken, Mild, Thigh, meat and skin with breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ POPEYES, Fried Chicken, Mild, Thigh, meat only, skin and breading removed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ POPEYES, Fried Chicken, Mild, Wing, meat and skin with breading.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ POPEYES, Fried Chicken, Mild, Wing, meat only, skin and breading removed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ POPEYES, Mild Chicken Strips, analyzed 2006.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ POPEYES, Spicy Chicken Strips, analyzed 2006.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ POPEYES, biscuit.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Pizza, cheese topping, regular crust, frozen, cooked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Pizza, cheese topping, rising crust, frozen, cooked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Pizza, cheese topping, thin crust, frozen, cooked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Pizza, meat and vegetable topping, regular crust, frozen, cooked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Pizza, meat and vegetable topping, rising crust, frozen, cooked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Pizza, meat topping, thick crust, frozen, cooked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ Pizza, pepperoni topping, regular crust, frozen, cooked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ School Lunch, chicken nuggets, whole grain breaded.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ School Lunch, chicken patty, whole grain breaded.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ School Lunch, pizza, BIG DADDY'S LS 16&quot; 51% Whole Grain Rolled Edge Cheese Pizza, frozen.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ School Lunch, pizza, BIG DADDY'S LS 16&quot; 51% Whole Grain Rolled Edge Turkey Pepperoni Pizza, frozen.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ School Lunch, pizza, TONY'S Breakfast Pizza Sausage, frozen.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ School Lunch, pizza, cheese topping, thick crust, whole grain, frozen, cooked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ School Lunch, pizza, cheese topping, thin crust, whole grain, frozen, cooked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ School Lunch, pizza, pepperoni topping, thick crust, whole grain, frozen, cooked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ School Lunch, pizza, pepperoni topping, thin crust, whole grain, frozen, cooked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ School Lunch, pizza, sausage topping, thick crust, whole grain, frozen, cooked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/fast_foods/ School Lunch, pizza, sausage topping, thin crust, whole grain, frozen, cooked.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Basil, fresh.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Capers, canned.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Dill weed, fresh.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Horseradish, prepared.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Mustard, prepared, yellow.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ PACE, Dry Taco Seasoning Mix.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Peppermint, fresh.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Rosemary, fresh.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Salt, table.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Seasoning mix, dry, chili, original.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Seasoning mix, dry, sazon, coriander &amp;amp; annatto.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Seasoning mix, dry, taco, original.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spearmint, dried.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spearmint, fresh.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, allspice, ground.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, anise seed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, basil, dried.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, bay leaf.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, caraway seed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, cardamom.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, celery seed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, chervil, dried.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, chili powder.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, cinnamon, ground.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, cloves, ground.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, coriander leaf, dried.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, coriander seed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, cumin seed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, curry powder.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, dill seed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, dill weed, dried.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, fennel seed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, fenugreek seed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, garlic powder.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, ginger, ground.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, mace, ground.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, marjoram, dried.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, mustard seed, ground.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, nutmeg, ground.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, onion powder.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, oregano, dried.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, paprika.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, parsley, dried.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, pepper, black.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, pepper, red or cayenne.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, pepper, white.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, poppy seed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, poultry seasoning.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, pumpkin pie spice.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Spices, rosemary, dried.csv" afterPath="" />
+    </list>
+    <ignored path="523.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="523" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="db.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="111" column="29" selection-start-line="111" selection-start-column="29" selection-end-line="111" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="category_maps.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/category_maps.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="73" selection-start-line="0" selection-start-column="73" selection-end-line="0" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CSV_Extractor.py" />
+        <option value="$PROJECT_DIR$/scrape_csv/CSV_Extractor.py" />
+        <option value="$PROJECT_DIR$/scrape_csv/getCSV.py" />
+        <option value="$PROJECT_DIR$/db/category_maps.csv" />
+        <option value="$PROJECT_DIR$/db.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="284" />
+    <option name="y" value="115" />
+    <option name="width" value="1280" />
+    <option name="height" value="729" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scrape_csv" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.getCSV">
+    <configuration default="false" name="getCSV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrape_csv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="523" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrape_csv/getCSV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="523" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="523" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="523" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="523" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="523" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="523" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="523" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.getCSV" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.getCSV" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="702246a0-a9b3-4f8d-94e4-2dda3a9a99d0" name="Default" comment="" />
+      <created>1485900076307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1485900076307</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="284" y="115" width="1280" height="729" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrape_csv/CSV_Extractor.py" />
+    <entry file="file://$PROJECT_DIR$/scrape_csv/CSV_Extractor.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="215" column="31" selection-start-line="215" selection-start-column="31" selection-end-line="215" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrape_csv/CSV_Extractor.py" />
+    <entry file="file://$PROJECT_DIR$/scrape_csv/getCSV.py" />
+    <entry file="file://$PROJECT_DIR$/scrape_csv/spices_and_herbs/ Seasoning mix, dry, chili, original.csv" />
+    <entry file="file://$PROJECT_DIR$/scrape_csv/spices_and_herbs/ PACE, Dry Taco Seasoning Mix.csv" />
+    <entry file="file://$PROJECT_DIR$/db/category_maps.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="251" selection-start-line="24" selection-start-column="251" selection-end-line="24" selection-end-column="251" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/category_maps.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="73" selection-start-line="0" selection-start-column="73" selection-end-line="0" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="111" column="29" selection-start-line="111" selection-start-column="29" selection-end-line="111" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

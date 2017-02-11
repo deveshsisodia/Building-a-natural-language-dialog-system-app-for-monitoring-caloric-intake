@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:10 EST
+"Nutrient data for: 09159, Limes, raw"
+Nutrient,Unit,1Value per 100 g,"1 fruit (2"" dia) = 67.0g","1 NLEA serving = 67.0g",
+Proximates
+"Water",g,88.26,59.13,59.13
+"Energy",kcal,30,20,20
+"Protein",g,0.70,0.47,0.47
+"Total lipid (fat)",g,0.20,0.13,0.13
+"Carbohydrate, by difference",g,10.54,7.06,7.06
+"Fiber, total dietary",g,2.8,1.9,1.9
+"Sugars, total",g,1.69,1.13,1.13
+Minerals
+"Calcium, Ca",mg,33,22,22
+"Iron, Fe",mg,0.60,0.40,0.40
+"Magnesium, Mg",mg,6,4,4
+"Phosphorus, P",mg,18,12,12
+"Potassium, K",mg,102,68,68
+"Sodium, Na",mg,2,1,1
+"Zinc, Zn",mg,0.11,0.07,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,29.1,19.5,19.5
+"Thiamin",mg,0.030,0.020,0.020
+"Riboflavin",mg,0.020,0.013,0.013
+"Niacin",mg,0.200,0.134,0.134
+"Vitamin B-6",mg,0.043,0.029,0.029
+"Folate, DFE",µg,8,5,5
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,2,1,1
+"Vitamin A, IU",IU,50,34,34
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.15,0.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.6,0.4,0.4
+Lipids
+"Fatty acids, total saturated",g,0.022,0.015,0.015
+"Fatty acids, total monounsaturated",g,0.019,0.013,0.013
+"Fatty acids, total polyunsaturated",g,0.055,0.037,0.037
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

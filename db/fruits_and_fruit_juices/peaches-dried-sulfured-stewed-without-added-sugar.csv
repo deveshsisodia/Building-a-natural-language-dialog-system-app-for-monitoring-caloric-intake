@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:12 EST
+"Nutrient data for: 09247, Peaches, dried, sulfured, stewed, without added sugar"
+Nutrient,Unit,1Value per 100 g,"1 cup = 258.0g",
+Proximates
+"Water",g,78.10,201.50
+"Energy",kcal,77,199
+"Protein",g,1.16,2.99
+"Total lipid (fat)",g,0.25,0.65
+"Carbohydrate, by difference",g,19.69,50.80
+"Fiber, total dietary",g,2.7,7.0
+"Sugars, total",g,16.99,43.83
+Minerals
+"Calcium, Ca",mg,9,23
+"Iron, Fe",mg,1.31,3.38
+"Magnesium, Mg",mg,13,34
+"Phosphorus, P",mg,38,98
+"Potassium, K",mg,320,826
+"Sodium, Na",mg,2,5
+"Zinc, Zn",mg,0.18,0.46
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.7,9.5
+"Thiamin",mg,0.005,0.013
+"Riboflavin",mg,0.021,0.054
+"Niacin",mg,1.519,3.919
+"Vitamin B-6",mg,0.038,0.098
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,10,26
+"Vitamin A, IU",IU,197,508
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,5.0,12.9
+Lipids
+"Fatty acids, total saturated",g,0.026,0.067
+"Fatty acids, total monounsaturated",g,0.089,0.230
+"Fatty acids, total polyunsaturated",g,0.118,0.304
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

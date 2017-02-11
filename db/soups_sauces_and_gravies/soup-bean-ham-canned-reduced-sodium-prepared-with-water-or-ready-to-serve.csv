@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:01 EST
+"Nutrient data for: 06190, Soup, bean & ham, canned, reduced sodium, prepared with water or ready-to-serve"
+Nutrient,Unit,1Value per 100 g,"1 cup = 245.0g",
+Proximates
+"Water",g,79.91,195.78
+"Energy",kcal,81,198
+"Protein",g,4.19,10.27
+"Total lipid (fat)",g,1.03,2.52
+"Carbohydrate, by difference",g,13.66,33.47
+"Fiber, total dietary",g,4.0,9.8
+"Sugars, total",g,3.17,7.77
+Minerals
+"Calcium, Ca",mg,38,93
+"Iron, Fe",mg,1.02,2.50
+"Magnesium, Mg",mg,19,47
+"Phosphorus, P",mg,13,32
+"Potassium, K",mg,158,387
+"Sodium, Na",mg,187,458
+"Zinc, Zn",mg,0.53,1.30
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,2.7
+"Thiamin",mg,0.056,0.137
+"Riboflavin",mg,0.029,0.071
+"Niacin",mg,0.324,0.794
+"Vitamin B-6",mg,0.046,0.113
+"Folate, DFE",µg,29,71
+"Vitamin B-12",µg,0.03,0.07
+"Vitamin A, RAE",µg,35,86
+"Vitamin A, IU",IU,702,1720
+"Vitamin E (alpha-tocopherol)",mg,0.39,0.96
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,5.1,12.5
+Lipids
+"Fatty acids, total saturated",g,0.252,0.617
+"Fatty acids, total monounsaturated",g,0.415,1.017
+"Fatty acids, total polyunsaturated",g,0.269,0.659
+"Cholesterol",mg,2,5
+Amino Acids
+Other
+"Caffeine",mg,0,0

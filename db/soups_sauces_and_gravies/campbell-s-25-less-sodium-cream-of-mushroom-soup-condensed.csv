@@ -1,0 +1,27 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 02:57 EST
+"Nutrient data for: 06214, CAMPBELL'S, 25% Less Sodium Cream of Mushroom Soup, condensed"
+Nutrient,Unit,1Value per 100 g,"0.5 cup condensed = 124.0g",
+Proximates
+"Water",g,84.20,104.41
+"Energy",kcal,89,110
+"Protein",g,1.61,2.00
+"Total lipid (fat)",g,6.45,8.00
+"Carbohydrate, by difference",g,6.45,8.00
+"Fiber, total dietary",g,1.6,2.0
+"Sugars, total",g,0.81,1.00
+Minerals
+"Calcium, Ca",mg,0,0
+"Iron, Fe",mg,0.00,0.00
+"Potassium, K",mg,105,130
+"Sodium, Na",mg,524,650
+Vitamins
+Lipids
+"Fatty acids, total saturated",g,0.806,0.999
+"Fatty acids, total monounsaturated",g,2.419,3.000
+"Fatty acids, total polyunsaturated",g,3.226,4.000
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,4,5
+Amino Acids
+Other

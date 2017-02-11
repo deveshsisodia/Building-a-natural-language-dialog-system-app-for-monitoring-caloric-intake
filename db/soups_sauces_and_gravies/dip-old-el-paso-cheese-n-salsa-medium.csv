@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 02:58 EST
+"Nutrient data for: 27053, Dip, OLD EL PASO, Cheese 'n Salsa, medium"
+Nutrient,Unit,1Value per 100 g,"2.0 tbsp = 32.0g","0.5 cup = 124.0g",
+Proximates
+"Water",g,76.09,24.35,94.35
+"Energy",kcal,129,41,160
+"Protein",g,2.70,0.86,3.35
+"Total lipid (fat)",g,8.43,2.70,10.45
+"Carbohydrate, by difference",g,10.65,3.41,13.21
+"Fiber, total dietary",g,0.6,0.2,0.7
+"Sugars, total",g,1.30,0.42,1.61
+Minerals
+"Calcium, Ca",mg,81,26,100
+"Iron, Fe",mg,0.12,0.04,0.15
+"Magnesium, Mg",mg,6,2,7
+"Phosphorus, P",mg,143,46,177
+"Potassium, K",mg,83,27,103
+"Sodium, Na",mg,690,221,856
+"Zinc, Zn",mg,0.30,0.10,0.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,0.3,1.0
+"Thiamin",mg,0.010,0.003,0.012
+"Riboflavin",mg,0.070,0.022,0.087
+"Niacin",mg,0.115,0.037,0.143
+"Vitamin B-6",mg,0.033,0.011,0.041
+"Vitamin A, RAE",µg,29,9,36
+"Vitamin A, IU",IU,308,99,382
+"Vitamin E (alpha-tocopherol)",mg,1.95,0.62,2.42
+"Vitamin K (phylloquinone)",µg,8.1,2.6,10.0
+Lipids
+"Fatty acids, total saturated",g,2.313,0.740,2.868
+"Fatty acids, total monounsaturated",g,2.181,0.698,2.704
+"Fatty acids, total polyunsaturated",g,3.709,1.187,4.599
+"Fatty acids, total trans",g,0.101,0.032,0.125
+"Cholesterol",mg,5,2,6
+Amino Acids
+Other

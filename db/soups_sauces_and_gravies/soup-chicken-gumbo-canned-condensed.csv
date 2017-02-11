@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:02 EST
+"Nutrient data for: 06017, Soup, chicken gumbo, canned, condensed"
+Nutrient,Unit,1Value per 100 g,"0.5 cup (4 fl oz) = 126.0g","1 can (10.75 oz) = 305.0g",
+Proximates
+"Water",g,88.02,110.91,268.46
+"Energy",kcal,45,57,137
+"Protein",g,2.10,2.65,6.41
+"Total lipid (fat)",g,1.14,1.44,3.48
+"Carbohydrate, by difference",g,6.67,8.40,20.34
+"Fiber, total dietary",g,1.6,2.0,4.9
+"Sugars, total",g,1.93,2.43,5.89
+Minerals
+"Calcium, Ca",mg,19,24,58
+"Iron, Fe",mg,0.71,0.89,2.17
+"Magnesium, Mg",mg,3,4,9
+"Phosphorus, P",mg,20,25,61
+"Potassium, K",mg,60,76,183
+"Sodium, Na",mg,693,873,2114
+"Zinc, Zn",mg,0.30,0.38,0.92
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.0,5.0,12.2
+"Thiamin",mg,0.200,0.252,0.610
+"Riboflavin",mg,0.300,0.378,0.915
+"Niacin",mg,0.530,0.668,1.617
+"Vitamin B-6",mg,0.050,0.063,0.152
+"Folate, DFE",µg,5,6,15
+"Vitamin B-12",µg,0.02,0.03,0.06
+"Vitamin A, RAE",µg,5,6,15
+"Vitamin A, IU",IU,98,123,299
+"Vitamin E (alpha-tocopherol)",mg,0.36,0.45,1.10
+"Vitamin K (phylloquinone)",µg,5.7,7.2,17.4
+Lipids
+"Fatty acids, total saturated",g,0.260,0.328,0.793
+"Fatty acids, total monounsaturated",g,0.520,0.655,1.586
+"Fatty acids, total polyunsaturated",g,0.280,0.353,0.854
+"Cholesterol",mg,3,4,9
+Amino Acids
+Other

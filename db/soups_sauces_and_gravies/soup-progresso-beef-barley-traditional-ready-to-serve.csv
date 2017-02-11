@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:04 EST
+"Nutrient data for: 06748, Soup, PROGRESSO, beef barley, traditional, ready to serve"
+Nutrient,Unit,1Value per 100 g,"1 cup = 210.0g","1 can = 526.0g",
+Proximates
+"Water",g,88.70,186.27,466.56
+"Energy",kcal,47,99,247
+"Protein",g,2.71,5.69,14.25
+"Total lipid (fat)",g,1.00,2.10,5.26
+"Carbohydrate, by difference",g,6.69,14.05,35.19
+"Fiber, total dietary",g,0.9,1.9,4.7
+"Sugars, total",g,1.27,2.67,6.68
+Minerals
+"Calcium, Ca",mg,12,25,63
+"Iron, Fe",mg,0.39,0.82,2.05
+"Magnesium, Mg",mg,9,19,47
+"Phosphorus, P",mg,44,92,231
+"Potassium, K",mg,110,231,579
+"Sodium, Na",mg,284,596,1494
+"Zinc, Zn",mg,0.45,0.94,2.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.6,1.6
+"Thiamin",mg,0.027,0.057,0.142
+"Riboflavin",mg,0.086,0.181,0.452
+"Niacin",mg,0.820,1.722,4.313
+"Vitamin B-6",mg,0.063,0.132,0.331
+"Vitamin B-12",µg,0.14,0.29,0.74
+"Vitamin A, RAE",µg,20,42,105
+"Vitamin A, IU",IU,401,842,2109
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.27,0.68
+Lipids
+"Fatty acids, total saturated",g,0.304,0.638,1.599
+"Fatty acids, total monounsaturated",g,0.336,0.706,1.767
+"Fatty acids, total polyunsaturated",g,0.312,0.655,1.641
+"Fatty acids, total trans",g,0.030,0.063,0.158
+"Cholesterol",mg,3,6,16
+Amino Acids
+Other

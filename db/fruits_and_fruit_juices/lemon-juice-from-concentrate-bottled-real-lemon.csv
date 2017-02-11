@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:10 EST
+"Nutrient data for: 09524, Lemon juice from concentrate, bottled, REAL LEMON"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 tsp = 5.0g",
+Proximates
+"Water",g,93.57,14.04,4.68
+"Energy",kcal,17,3,1
+"Protein",g,0.47,0.07,0.02
+"Total lipid (fat)",g,0.07,0.01,0.00
+"Carbohydrate, by difference",g,5.66,0.85,0.28
+"Fiber, total dietary",g,0.7,0.1,0.0
+"Sugars, total",g,1.59,0.24,0.08
+Minerals
+"Calcium, Ca",mg,9,1,0
+"Iron, Fe",mg,0.06,0.01,0.00
+"Magnesium, Mg",mg,6,1,0
+"Phosphorus, P",mg,9,1,0
+"Potassium, K",mg,109,16,5
+"Sodium, Na",mg,26,4,1
+"Zinc, Zn",mg,0.23,0.03,0.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,16.6,2.5,0.8
+"Thiamin",mg,0.020,0.003,0.001
+"Riboflavin",mg,0.017,0.003,0.001
+"Niacin",mg,0.180,0.027,0.009
+"Vitamin B-6",mg,0.037,0.006,0.002
+"Vitamin A, RAE",µg,2,0,0
+"Vitamin A, IU",IU,33,5,2
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.03,0.01
+"Vitamin K (phylloquinone)",µg,0.1,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.027,0.004,0.001
+"Fatty acids, total monounsaturated",g,0.006,0.001,0.000
+"Fatty acids, total polyunsaturated",g,0.017,0.003,0.001
+"Fatty acids, total trans",g,0.000,0.000,0.000
+Amino Acids
+Other

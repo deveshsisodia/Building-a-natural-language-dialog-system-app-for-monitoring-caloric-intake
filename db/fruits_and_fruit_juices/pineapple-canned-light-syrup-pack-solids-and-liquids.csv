@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:13 EST
+"Nutrient data for: 09269, Pineapple, canned, light syrup pack, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"1 cup, crushed, sliced, or chunks = 252.0g","1 slice or ring (3"" dia) with liquid = 48.0g",
+Proximates
+"Water",g,85.73,216.04,41.15
+"Energy",kcal,52,131,25
+"Protein",g,0.36,0.91,0.17
+"Total lipid (fat)",g,0.12,0.30,0.06
+"Carbohydrate, by difference",g,13.45,33.89,6.46
+"Fiber, total dietary",g,0.8,2.0,0.4
+"Sugars, total",g,12.65,31.88,6.07
+Minerals
+"Calcium, Ca",mg,14,35,7
+"Iron, Fe",mg,0.39,0.98,0.19
+"Magnesium, Mg",mg,16,40,8
+"Phosphorus, P",mg,7,18,3
+"Potassium, K",mg,105,265,50
+"Sodium, Na",mg,1,3,0
+"Zinc, Zn",mg,0.12,0.30,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.5,18.9,3.6
+"Thiamin",mg,0.091,0.229,0.044
+"Riboflavin",mg,0.025,0.063,0.012
+"Niacin",mg,0.292,0.736,0.140
+"Vitamin B-6",mg,0.074,0.186,0.036
+"Folate, DFE",µg,5,13,2
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,2,5,1
+"Vitamin A, IU",IU,38,96,18
+"Vitamin E (alpha-tocopherol)",mg,0.01,0.03,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.8,0.1
+Lipids
+"Fatty acids, total saturated",g,0.009,0.023,0.004
+"Fatty acids, total monounsaturated",g,0.013,0.033,0.006
+"Fatty acids, total polyunsaturated",g,0.040,0.101,0.019
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

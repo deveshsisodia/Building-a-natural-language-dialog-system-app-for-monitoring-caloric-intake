@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:00 EST
+"Nutrient data for: 06150, Sauce, barbecue"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 17.0g","0.5 cup = 143.0g","1 cup = 279.0g",
+Proximates
+"Water",g,54.71,9.30,78.24,152.64
+"Energy",kcal,172,29,246,480
+"Protein",g,0.82,0.14,1.17,2.29
+"Total lipid (fat)",g,0.63,0.11,0.90,1.76
+"Carbohydrate, by difference",g,40.77,6.93,58.30,113.75
+"Fiber, total dietary",g,0.9,0.2,1.3,2.5
+"Sugars, total",g,33.24,5.65,47.53,92.74
+Minerals
+"Calcium, Ca",mg,33,6,47,92
+"Iron, Fe",mg,0.64,0.11,0.92,1.79
+"Magnesium, Mg",mg,13,2,19,36
+"Phosphorus, P",mg,20,3,29,56
+"Potassium, K",mg,232,39,332,647
+"Sodium, Na",mg,1027,175,1469,2865
+"Zinc, Zn",mg,0.17,0.03,0.24,0.47
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.1,0.9,1.7
+"Thiamin",mg,0.023,0.004,0.033,0.064
+"Riboflavin",mg,0.056,0.010,0.080,0.156
+"Niacin",mg,0.597,0.101,0.854,1.666
+"Vitamin B-6",mg,0.075,0.013,0.107,0.209
+"Folate, DFE",µg,2,0,3,6
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,11,2,16,31
+"Vitamin A, IU",IU,224,38,320,625
+"Vitamin E (alpha-tocopherol)",mg,0.80,0.14,1.14,2.23
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,1.8,0.3,2.6,5.0
+Lipids
+"Fatty acids, total saturated",g,0.045,0.008,0.064,0.126
+"Fatty acids, total monounsaturated",g,0.082,0.014,0.117,0.229
+"Fatty acids, total polyunsaturated",g,0.101,0.017,0.144,0.282
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

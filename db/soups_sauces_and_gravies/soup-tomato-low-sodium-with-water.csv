@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:05 EST
+"Nutrient data for: 06964, Soup, tomato, low sodium, with water"
+Nutrient,Unit,1Value per 100 g,"1 serving 1 cup = 248.0g","1 fl oz = 31.0g",
+Proximates
+"Water",g,91.38,226.62,28.33
+"Energy",kcal,30,74,9
+"Protein",g,0.79,1.96,0.24
+"Total lipid (fat)",g,0.28,0.69,0.09
+"Carbohydrate, by difference",g,6.57,16.29,2.04
+"Fiber, total dietary",g,0.6,1.5,0.2
+"Sugars, total",g,3.97,9.85,1.23
+Minerals
+"Calcium, Ca",mg,8,20,2
+"Iron, Fe",mg,0.54,1.34,0.17
+"Magnesium, Mg",mg,7,17,2
+"Phosphorus, P",mg,14,35,4
+"Potassium, K",mg,112,278,35
+"Sodium, Na",mg,33,82,10
+"Zinc, Zn",mg,0.12,0.30,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.3,15.6,2.0
+"Thiamin",mg,0.019,0.047,0.006
+"Riboflavin",mg,0.031,0.077,0.010
+"Niacin",mg,0.505,1.252,0.157
+"Vitamin B-6",mg,0.042,0.104,0.013
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,10,25,3
+"Vitamin A, IU",IU,192,476,60
+"Vitamin E (alpha-tocopherol)",mg,0.17,0.42,0.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.5,3.7,0.5
+Lipids
+"Fatty acids, total saturated",g,0.076,0.188,0.024
+"Fatty acids, total monounsaturated",g,0.088,0.218,0.027
+"Fatty acids, total polyunsaturated",g,0.093,0.231,0.029
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

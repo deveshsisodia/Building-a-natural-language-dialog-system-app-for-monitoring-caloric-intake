@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:07 EST
+"Nutrient data for: 09043, Blackberry juice, canned"
+Nutrient,Unit,1Value per 100 g,"1 cup = 250.0g",
+Proximates
+"Water",g,90.90,227.25
+"Energy",kcal,38,95
+"Protein",g,0.30,0.75
+"Total lipid (fat)",g,0.60,1.50
+"Carbohydrate, by difference",g,7.80,19.50
+"Fiber, total dietary",g,0.1,0.2
+"Sugars, total",g,7.70,19.25
+Minerals
+"Calcium, Ca",mg,12,30
+"Iron, Fe",mg,0.48,1.20
+"Magnesium, Mg",mg,21,52
+"Phosphorus, P",mg,12,30
+"Potassium, K",mg,135,338
+"Sodium, Na",mg,1,2
+"Zinc, Zn",mg,0.41,1.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,11.3,28.2
+"Thiamin",mg,0.012,0.030
+"Riboflavin",mg,0.018,0.045
+"Niacin",mg,0.446,1.115
+"Vitamin B-6",mg,0.021,0.052
+"Folate, DFE",µg,10,25
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,6,15
+"Vitamin A, IU",IU,123,308
+"Vitamin E (alpha-tocopherol)",mg,0.90,2.25
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,15.2,38.0
+Lipids
+"Fatty acids, total saturated",g,0.018,0.045
+"Fatty acids, total monounsaturated",g,0.058,0.145
+"Fatty acids, total polyunsaturated",g,0.344,0.860
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

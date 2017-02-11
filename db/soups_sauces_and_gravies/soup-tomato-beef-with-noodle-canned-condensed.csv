@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:05 EST
+"Nutrient data for: 06061, Soup, tomato beef with noodle, canned, condensed"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 251.0g","1 can (10.75 oz) = 305.0g",
+Proximates
+"Water",g,74.08,185.94,225.94
+"Energy",kcal,112,281,342
+"Protein",g,3.55,8.91,10.83
+"Total lipid (fat)",g,3.42,8.58,10.43
+"Carbohydrate, by difference",g,16.87,42.34,51.45
+"Fiber, total dietary",g,1.2,3.0,3.7
+Minerals
+"Calcium, Ca",mg,14,35,43
+"Iron, Fe",mg,0.89,2.23,2.71
+"Magnesium, Mg",mg,6,15,18
+"Phosphorus, P",mg,45,113,137
+"Potassium, K",mg,176,442,537
+"Sodium, Na",mg,731,1835,2230
+"Zinc, Zn",mg,0.60,1.51,1.83
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.067,0.168,0.204
+"Riboflavin",mg,0.071,0.178,0.217
+"Niacin",mg,1.490,3.740,4.545
+"Vitamin B-6",mg,0.070,0.176,0.214
+"Folate, DFE",µg,21,53,64
+"Vitamin B-12",µg,0.15,0.38,0.46
+"Vitamin A, RAE",µg,21,53,64
+"Vitamin A, IU",IU,425,1067,1296
+"Vitamin E (alpha-tocopherol)",mg,0.62,1.56,1.89
+Lipids
+"Fatty acids, total saturated",g,1.270,3.188,3.874
+"Fatty acids, total monounsaturated",g,1.380,3.464,4.209
+"Fatty acids, total polyunsaturated",g,0.540,1.355,1.647
+"Cholesterol",mg,3,8,9
+Amino Acids
+Other

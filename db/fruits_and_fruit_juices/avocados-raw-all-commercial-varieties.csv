@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:07 EST
+"Nutrient data for: 09037, Avocados, raw, all commercial varieties"
+Nutrient,Unit,1Value per 100 g,"1 cup, cubes = 150.0g","1 cup, pureed = 230.0g","1 cup, sliced = 146.0g","1 avocado, NS as to Florida or California = 201.0g",
+Proximates
+"Water",g,73.23,109.84,168.43,106.92,147.19
+"Energy",kcal,160,240,368,234,322
+"Protein",g,2.00,3.00,4.60,2.92,4.02
+"Total lipid (fat)",g,14.66,21.99,33.72,21.40,29.47
+"Carbohydrate, by difference",g,8.53,12.79,19.62,12.45,17.15
+"Fiber, total dietary",g,6.7,10.1,15.4,9.8,13.5
+"Sugars, total",g,0.66,0.99,1.52,0.96,1.33
+Minerals
+"Calcium, Ca",mg,12,18,28,18,24
+"Iron, Fe",mg,0.55,0.82,1.27,0.80,1.11
+"Magnesium, Mg",mg,29,44,67,42,58
+"Phosphorus, P",mg,52,78,120,76,105
+"Potassium, K",mg,485,728,1116,708,975
+"Sodium, Na",mg,7,10,16,10,14
+"Zinc, Zn",mg,0.64,0.96,1.47,0.93,1.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,10.0,15.0,23.0,14.6,20.1
+"Thiamin",mg,0.067,0.101,0.154,0.098,0.135
+"Riboflavin",mg,0.130,0.195,0.299,0.190,0.261
+"Niacin",mg,1.738,2.607,3.997,2.537,3.493
+"Vitamin B-6",mg,0.257,0.386,0.591,0.375,0.517
+"Folate, DFE",µg,81,122,186,118,163
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,7,10,16,10,14
+"Vitamin A, IU",IU,146,219,336,213,293
+"Vitamin E (alpha-tocopherol)",mg,2.07,3.10,4.76,3.02,4.16
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,21.0,31.5,48.3,30.7,42.2
+Lipids
+"Fatty acids, total saturated",g,2.126,3.189,4.890,3.104,4.273
+"Fatty acids, total monounsaturated",g,9.799,14.698,22.538,14.307,19.696
+"Fatty acids, total polyunsaturated",g,1.816,2.724,4.177,2.651,3.650
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0
+Footnotes
+(a)"Based on 86% California and 14% Florida varieties."

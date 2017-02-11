@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:02 EST
+"Nutrient data for: 06402, Soup, black bean, canned, prepared with equal volume water"
+Nutrient,Unit,1Value per 100 g,"1 cup = 247.0g","1 can (11 oz), prepared = 600.0g",
+Proximates
+"Water",g,87.62,216.42,525.72
+"Energy",kcal,46,114,276
+"Protein",g,2.42,5.98,14.52
+"Total lipid (fat)",g,0.66,1.63,3.96
+"Carbohydrate, by difference",g,7.71,19.04,46.26
+"Fiber, total dietary",g,3.4,8.4,20.4
+"Sugars, total",g,1.24,3.06,7.44
+Minerals
+"Calcium, Ca",mg,19,47,114
+"Iron, Fe",mg,0.75,1.85,4.50
+"Magnesium, Mg",mg,17,42,102
+"Phosphorus, P",mg,38,94,228
+"Potassium, K",mg,125,309,750
+"Sodium, Na",mg,487,1203,2922
+"Zinc, Zn",mg,0.55,1.36,3.30
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.2,0.6
+"Thiamin",mg,0.021,0.052,0.126
+"Riboflavin",mg,0.020,0.049,0.120
+"Niacin",mg,0.205,0.506,1.230
+"Vitamin B-6",mg,0.035,0.086,0.210
+"Folate, DFE",µg,33,82,198
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,11,27,66
+"Vitamin A, IU",IU,222,548,1332
+"Vitamin E (alpha-tocopherol)",mg,0.18,0.44,1.08
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.9,2.2,5.4
+Lipids
+"Fatty acids, total saturated",g,0.170,0.420,1.020
+"Fatty acids, total monounsaturated",g,0.240,0.593,1.440
+"Fatty acids, total polyunsaturated",g,0.205,0.506,1.230
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

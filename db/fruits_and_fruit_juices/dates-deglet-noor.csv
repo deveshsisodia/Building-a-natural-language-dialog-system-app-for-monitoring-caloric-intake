@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:08 EST
+"Nutrient data for: 09087, Dates, deglet noor"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 147.0g","1 date, pitted = 7.1g",
+Proximates
+"Water",g,20.53,30.18,1.46
+"Energy",kcal,282,415,20
+"Protein",g,2.45,3.60,0.17
+"Total lipid (fat)",g,0.39,0.57,0.03
+"Carbohydrate, by difference",g,75.03,110.29,5.33
+"Fiber, total dietary",g,8.0,11.8,0.6
+"Sugars, total",g,63.35,93.12,4.50
+Minerals
+"Calcium, Ca",mg,39,57,3
+"Iron, Fe",mg,1.02,1.50,0.07
+"Magnesium, Mg",mg,43,63,3
+"Phosphorus, P",mg,62,91,4
+"Potassium, K",mg,656,964,47
+"Sodium, Na",mg,2,3,0
+"Zinc, Zn",mg,0.29,0.43,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.6,0.0
+"Thiamin",mg,0.052,0.076,0.004
+"Riboflavin",mg,0.066,0.097,0.005
+"Niacin",mg,1.274,1.873,0.090
+"Vitamin B-6",mg,0.165,0.243,0.012
+"Folate, DFE",µg,19,28,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,10,15,1
+"Vitamin E (alpha-tocopherol)",mg,0.05,0.07,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,2.7,4.0,0.2
+Lipids
+"Fatty acids, total saturated",g,0.032,0.047,0.002
+"Fatty acids, total monounsaturated",g,0.036,0.053,0.003
+"Fatty acids, total polyunsaturated",g,0.019,0.028,0.001
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Common variety"

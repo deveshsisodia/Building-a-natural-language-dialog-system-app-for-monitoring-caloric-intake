@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:00 EST
+"Nutrient data for: 27051, Sauce, cocktail, ready-to-serve"
+Nutrient,Unit,1Value per 100 g,"0.25 cup = 60.0g",
+Proximates
+"Water",g,65.67,39.40
+"Energy",kcal,124,74
+"Protein",g,1.36,0.82
+"Total lipid (fat)",g,1.05,0.63
+"Carbohydrate, by difference",g,28.22,16.93
+"Fiber, total dietary",g,1.8,1.1
+"Sugars, total",g,11.83,7.10
+Minerals
+"Calcium, Ca",mg,26,16
+"Iron, Fe",mg,0.83,0.50
+"Magnesium, Mg",mg,17,10
+"Phosphorus, P",mg,30,18
+"Potassium, K",mg,309,185
+"Sodium, Na",mg,983,590
+"Zinc, Zn",mg,0.38,0.23
+Vitamins
+"Vitamin C, total ascorbic acid",mg,11.6,7.0
+"Thiamin",mg,0.021,0.013
+"Riboflavin",mg,0.047,0.028
+"Niacin",mg,0.820,0.492
+"Vitamin B-6",mg,0.080,0.048
+"Folate, DFE",µg,17,10
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,18,11
+"Vitamin A, IU",IU,359,215
+"Vitamin E (alpha-tocopherol)",mg,1.08,0.65
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,4.4,2.6
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

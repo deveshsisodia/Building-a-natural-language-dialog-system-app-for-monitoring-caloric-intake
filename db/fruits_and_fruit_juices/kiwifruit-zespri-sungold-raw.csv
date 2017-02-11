@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:10 EST
+"Nutrient data for: 09520, Kiwifruit, ZESPRI SunGold, raw"
+Nutrient,Unit,1Value per 100 g,"1 fruit = 81.0g",
+Proximates
+"Water",g,82.44,66.78
+"Energy",kcal,63,51
+"Protein",g,1.02,0.83
+"Total lipid (fat)",g,0.28,0.23
+"Carbohydrate, by difference",g,15.79,12.79
+"Fiber, total dietary",g,1.4,1.1
+"Sugars, total",g,12.30,9.96
+Minerals
+"Calcium, Ca",mg,17,14
+"Iron, Fe",mg,0.21,0.17
+"Magnesium, Mg",mg,12,10
+"Phosphorus, P",mg,25,20
+"Potassium, K",mg,315,255
+"Sodium, Na",mg,3,2
+"Zinc, Zn",mg,0.08,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,161.3,130.7
+"Thiamin",mg,0.000,0.000
+"Riboflavin",mg,0.074,0.060
+"Niacin",mg,0.231,0.187
+"Vitamin B-6",mg,0.079,0.064
+"Folate, DFE",µg,31,25
+"Vitamin B-12",µg,0.08,0.06
+"Vitamin A, RAE",µg,1,1
+"Vitamin A, IU",IU,23,19
+"Vitamin E (alpha-tocopherol)",mg,1.40,1.13
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,6.1,4.9
+Lipids
+"Fatty acids, total saturated",g,0.065,0.053
+"Fatty acids, total monounsaturated",g,0.023,0.019
+"Fatty acids, total polyunsaturated",g,0.111,0.090
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

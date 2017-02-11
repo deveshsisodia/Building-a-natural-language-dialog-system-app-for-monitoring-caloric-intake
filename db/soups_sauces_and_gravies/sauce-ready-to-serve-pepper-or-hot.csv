@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:01 EST
+"Nutrient data for: 06168, Sauce, ready-to-serve, pepper or hot"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 4.7g","0.25 tsp = 1.2g",
+Proximates
+"Water",g,89.98,4.23,1.08
+"Energy",kcal,11,1,0
+"Protein",g,0.51,0.02,0.01
+"Total lipid (fat)",g,0.37,0.02,0.00
+"Carbohydrate, by difference",g,1.75,0.08,0.02
+"Fiber, total dietary",g,0.3,0.0,0.0
+"Sugars, total",g,1.26,0.06,0.02
+Minerals
+"Calcium, Ca",mg,8,0,0
+"Iron, Fe",mg,0.48,0.02,0.01
+"Magnesium, Mg",mg,5,0,0
+"Phosphorus, P",mg,11,1,0
+"Potassium, K",mg,144,7,2
+"Sodium, Na",mg,2643,124,32
+"Zinc, Zn",mg,0.11,0.01,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,74.8,3.5,0.9
+"Thiamin",mg,0.036,0.002,0.000
+"Riboflavin",mg,0.082,0.004,0.001
+"Niacin",mg,0.254,0.012,0.003
+"Vitamin B-6",mg,0.157,0.007,0.002
+"Folate, DFE",µg,6,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,8,0,0
+"Vitamin A, IU",IU,162,8,2
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.01,0.00
+"Vitamin K (phylloquinone)",µg,2.4,0.1,0.0
+Lipids
+"Fatty acids, total saturated",g,0.052,0.002,0.001
+"Fatty acids, total monounsaturated",g,0.030,0.001,0.000
+"Fatty acids, total polyunsaturated",g,0.196,0.009,0.002
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:11 EST
+"Nutrient data for: 09183, Melons, casaba, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, cubes = 170.0g","1 melon = 1640.0g","0.1 fruit = 164.0g",
+Proximates
+"Water",g,91.85,156.14,1506.34,150.63
+"Energy",kcal,28,48,459,46
+"Protein",g,1.11,1.89,18.20,1.82
+"Total lipid (fat)",g,0.10,0.17,1.64,0.16
+"Carbohydrate, by difference",g,6.58,11.19,107.91,10.79
+"Fiber, total dietary",g,0.9,1.5,14.8,1.5
+"Sugars, total",g,5.69,9.67,93.32,9.33
+Minerals
+"Calcium, Ca",mg,11,19,180,18
+"Iron, Fe",mg,0.34,0.58,5.58,0.56
+"Magnesium, Mg",mg,11,19,180,18
+"Phosphorus, P",mg,5,8,82,8
+"Potassium, K",mg,182,309,2985,298
+"Sodium, Na",mg,9,15,148,15
+"Zinc, Zn",mg,0.07,0.12,1.15,0.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,21.8,37.1,357.5,35.8
+"Thiamin",mg,0.015,0.025,0.246,0.025
+"Riboflavin",mg,0.031,0.053,0.508,0.051
+"Niacin",mg,0.232,0.394,3.805,0.380
+"Vitamin B-6",mg,0.163,0.277,2.673,0.267
+"Folate, DFE",µg,8,14,131,13
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.05,0.09,0.82,0.08
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,2.5,4.2,41.0,4.1
+Lipids
+"Fatty acids, total saturated",g,0.025,0.043,0.410,0.041
+"Fatty acids, total monounsaturated",g,0.002,0.003,0.033,0.003
+"Fatty acids, total polyunsaturated",g,0.039,0.066,0.640,0.064
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

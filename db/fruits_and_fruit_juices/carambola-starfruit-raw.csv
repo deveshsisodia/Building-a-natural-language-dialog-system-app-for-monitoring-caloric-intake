@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:07 EST
+"Nutrient data for: 09060, Carambola, (starfruit), raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, cubes = 132.0g","1 cup, sliced = 108.0g","1 large (4-1/2"" long) = 124.0g","1 medium (3-5/8"" long) = 91.0g","1 small (3-1/8"" long) = 70.0g",
+Proximates
+"Water",g,91.38,120.62,98.69,113.31,83.16,63.97
+"Energy",kcal,31,41,33,38,28,22
+"Protein",g,1.04,1.37,1.12,1.29,0.95,0.73
+"Total lipid (fat)",g,0.33,0.44,0.36,0.41,0.30,0.23
+"Carbohydrate, by difference",g,6.73,8.88,7.27,8.35,6.12,4.71
+"Fiber, total dietary",g,2.8,3.7,3.0,3.5,2.5,2.0
+"Sugars, total",g,3.98,5.25,4.30,4.94,3.62,2.79
+Minerals
+"Calcium, Ca",mg,3,4,3,4,3,2
+"Iron, Fe",mg,0.08,0.11,0.09,0.10,0.07,0.06
+"Magnesium, Mg",mg,10,13,11,12,9,7
+"Phosphorus, P",mg,12,16,13,15,11,8
+"Potassium, K",mg,133,176,144,165,121,93
+"Sodium, Na",mg,2,3,2,2,2,1
+"Zinc, Zn",mg,0.12,0.16,0.13,0.15,0.11,0.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,34.4,45.4,37.2,42.7,31.3,24.1
+"Thiamin",mg,0.014,0.018,0.015,0.017,0.013,0.010
+"Riboflavin",mg,0.016,0.021,0.017,0.020,0.015,0.011
+"Niacin",mg,0.367,0.484,0.396,0.455,0.334,0.257
+"Vitamin B-6",mg,0.017,0.022,0.018,0.021,0.015,0.012
+"Folate, DFE",µg,12,16,13,15,11,8
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,3,4,3,4,3,2
+"Vitamin A, IU",IU,61,81,66,76,56,43
+"Vitamin E (alpha-tocopherol)",mg,0.15,0.20,0.16,0.19,0.14,0.10
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.019,0.025,0.021,0.024,0.017,0.013
+"Fatty acids, total monounsaturated",g,0.030,0.040,0.032,0.037,0.027,0.021
+"Fatty acids, total polyunsaturated",g,0.184,0.243,0.199,0.228,0.167,0.129
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

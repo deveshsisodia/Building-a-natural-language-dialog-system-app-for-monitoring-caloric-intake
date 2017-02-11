@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:10 EST
+"Nutrient data for: 09144, Jackfruit, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, sliced = 165.0g","1 cup 1"" pieces = 151.0g",
+Proximates
+"Water",g,73.46,121.21,110.92
+"Energy",kcal,95,157,143
+"Protein",g,1.72,2.84,2.60
+"Total lipid (fat)",g,0.64,1.06,0.97
+"Carbohydrate, by difference",g,23.25,38.36,35.11
+"Fiber, total dietary",g,1.5,2.5,2.3
+"Sugars, total",g,19.08,31.48,28.81
+Minerals
+"Calcium, Ca",mg,24,40,36
+"Iron, Fe",mg,0.23,0.38,0.35
+"Magnesium, Mg",mg,29,48,44
+"Phosphorus, P",mg,21,35,32
+"Potassium, K",mg,448,739,676
+"Sodium, Na",mg,2,3,3
+"Zinc, Zn",mg,0.13,0.21,0.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,13.7,22.6,20.7
+"Thiamin",mg,0.105,0.173,0.159
+"Riboflavin",mg,0.055,0.091,0.083
+"Niacin",mg,0.920,1.518,1.389
+"Vitamin B-6",mg,0.329,0.543,0.497
+"Folate, DFE",µg,24,40,36
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,5,8,8
+"Vitamin A, IU",IU,110,182,166
+"Vitamin E (alpha-tocopherol)",mg,0.34,0.56,0.51
+Lipids
+"Fatty acids, total saturated",g,0.195,0.322,0.294
+"Fatty acids, total monounsaturated",g,0.155,0.256,0.234
+"Fatty acids, total polyunsaturated",g,0.094,0.155,0.142
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+Footnotes
+(a)"Values based on analysis of cultivars grown in Florida."
+(b)"Folate value based on the analysis of 5-methyltetrahydrofolate"

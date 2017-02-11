@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:14 EST
+"Nutrient data for: 09306, Raspberries, frozen, red, sweetened"
+Nutrient,Unit,1Value per 100 g,"1 cup, thawed = 250.0g","1 package (10 oz) = 284.0g",
+Proximates
+"Water",g,72.75,181.88,206.61
+"Energy",kcal,103,258,293
+"Protein",g,0.70,1.75,1.99
+"Total lipid (fat)",g,0.16,0.40,0.45
+"Carbohydrate, by difference",g,26.16,65.40,74.29
+"Fiber, total dietary",g,4.4,11.0,12.5
+"Sugars, total",g,21.76,54.40,61.80
+Minerals
+"Calcium, Ca",mg,15,38,43
+"Iron, Fe",mg,0.65,1.62,1.85
+"Magnesium, Mg",mg,13,32,37
+"Phosphorus, P",mg,17,42,48
+"Potassium, K",mg,114,285,324
+"Sodium, Na",mg,1,2,3
+"Zinc, Zn",mg,0.18,0.45,0.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,16.5,41.2,46.9
+"Thiamin",mg,0.019,0.048,0.054
+"Riboflavin",mg,0.045,0.113,0.128
+"Niacin",mg,0.230,0.575,0.653
+"Vitamin B-6",mg,0.034,0.085,0.097
+"Folate, DFE",µg,26,65,74
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,3,8,9
+"Vitamin A, IU",IU,60,150,170
+"Vitamin E (alpha-tocopherol)",mg,0.72,1.80,2.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,6.5,16.2,18.5
+Lipids
+"Fatty acids, total saturated",g,0.005,0.013,0.014
+"Fatty acids, total monounsaturated",g,0.015,0.037,0.043
+"Fatty acids, total polyunsaturated",g,0.089,0.223,0.253
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

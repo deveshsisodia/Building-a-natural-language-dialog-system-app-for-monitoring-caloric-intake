@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:01 EST
+"Nutrient data for: 06978, Soup, beef and mushroom, low sodium, chunk style"
+Nutrient,Unit,1Value per 100 g,"1 cup = 251.0g",
+Proximates
+"Water",g,83.30,209.08
+"Energy",kcal,69,173
+"Protein",g,4.30,10.79
+"Total lipid (fat)",g,2.30,5.77
+"Carbohydrate, by difference",g,9.58,24.05
+"Fiber, total dietary",g,0.2,0.5
+"Sugars, total",g,0.84,2.11
+Minerals
+"Calcium, Ca",mg,13,33
+"Iron, Fe",mg,0.97,2.43
+"Magnesium, Mg",mg,2,5
+"Phosphorus, P",mg,50,126
+"Potassium, K",mg,140,351
+"Sodium, Na",mg,25,63
+"Zinc, Zn",mg,1.10,2.76
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.0,7.5
+"Thiamin",mg,0.040,0.100
+"Riboflavin",mg,0.110,0.276
+"Niacin",mg,1.130,2.836
+"Vitamin B-6",mg,0.060,0.151
+"Folate, DFE",µg,5,13
+"Vitamin B-12",µg,0.26,0.65
+"Vitamin A, RAE",µg,98,246
+"Vitamin A, IU",IU,1967,4937
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.55
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,3.5,8.8
+Lipids
+"Fatty acids, total saturated",g,1.621,4.069
+"Fatty acids, total monounsaturated",g,0.394,0.989
+"Fatty acids, total polyunsaturated",g,0.068,0.171
+"Cholesterol",mg,6,15
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:15 EST
+"Nutrient data for: 09218, Tangerines, (mandarin oranges), raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, sections = 195.0g","1 small (2-1/4"" dia) = 76.0g","1 medium (2-1/2"" dia) = 88.0g","1 large (2-3/4"" dia) = 120.0g","1 NLEA serving = 109.0g",
+Proximates
+"Water",g,85.17,166.08,64.73,74.95,102.20,92.84
+"Energy",kcal,53,103,40,47,64,58
+"Protein",g,0.81,1.58,0.62,0.71,0.97,0.88
+"Total lipid (fat)",g,0.31,0.60,0.24,0.27,0.37,0.34
+"Carbohydrate, by difference",g,13.34,26.01,10.14,11.74,16.01,14.54
+"Fiber, total dietary",g,1.8,3.5,1.4,1.6,2.2,2.0
+"Sugars, total",g,10.58,20.63,8.04,9.31,12.70,11.53
+Minerals
+"Calcium, Ca",mg,37,72,28,33,44,40
+"Iron, Fe",mg,0.15,0.29,0.11,0.13,0.18,0.16
+"Magnesium, Mg",mg,12,23,9,11,14,13
+"Phosphorus, P",mg,20,39,15,18,24,22
+"Potassium, K",mg,166,324,126,146,199,181
+"Sodium, Na",mg,2,4,2,2,2,2
+"Zinc, Zn",mg,0.07,0.14,0.05,0.06,0.08,0.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,26.7,52.1,20.3,23.5,32.0,29.1
+"Thiamin",mg,0.058,0.113,0.044,0.051,0.070,0.063
+"Riboflavin",mg,0.036,0.070,0.027,0.032,0.043,0.039
+"Niacin",mg,0.376,0.733,0.286,0.331,0.451,0.410
+"Vitamin B-6",mg,0.078,0.152,0.059,0.069,0.094,0.085
+"Folate, DFE",µg,16,31,12,14,19,17
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,34,66,26,30,41,37
+"Vitamin A, IU",IU,681,1328,518,599,817,742
+"Vitamin E (alpha-tocopherol)",mg,0.20,0.39,0.15,0.18,0.24,0.22
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.039,0.076,0.030,0.034,0.047,0.043
+"Fatty acids, total monounsaturated",g,0.060,0.117,0.046,0.053,0.072,0.065
+"Fatty acids, total polyunsaturated",g,0.065,0.127,0.049,0.057,0.078,0.071
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

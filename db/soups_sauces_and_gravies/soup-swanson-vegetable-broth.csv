@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:05 EST
+"Nutrient data for: 06615, Soup, SWANSON, vegetable broth"
+Nutrient,Unit,1Value per 100 g,"1 cup = 220.0g","1 carton 32 oz = 928.0g",
+Proximates
+"Water",g,97.92,215.42,908.70
+"Energy",kcal,6,13,56
+"Protein",g,0.23,0.51,2.13
+"Total lipid (fat)",g,0.07,0.15,0.65
+"Carbohydrate, by difference",g,1.02,2.24,9.47
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.57,1.25,5.29
+Minerals
+"Calcium, Ca",mg,3,7,28
+"Iron, Fe",mg,0.08,0.18,0.74
+"Magnesium, Mg",mg,1,2,9
+"Phosphorus, P",mg,3,7,28
+"Potassium, K",mg,20,44,186
+"Sodium, Na",mg,303,667,2812
+"Zinc, Zn",mg,0.03,0.07,0.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.9,3.7
+"Thiamin",mg,0.020,0.044,0.186
+"Riboflavin",mg,0.015,0.033,0.139
+"Niacin",mg,0.110,0.242,1.021
+"Vitamin B-6",mg,0.007,0.015,0.065
+"Vitamin A, RAE",µg,14,31,130
+"Vitamin A, IU",IU,289,636,2682
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00
+Lipids
+"Fatty acids, total saturated",g,0.031,0.068,0.288
+"Fatty acids, total monounsaturated",g,0.006,0.013,0.056
+"Fatty acids, total polyunsaturated",g,0.004,0.009,0.037
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

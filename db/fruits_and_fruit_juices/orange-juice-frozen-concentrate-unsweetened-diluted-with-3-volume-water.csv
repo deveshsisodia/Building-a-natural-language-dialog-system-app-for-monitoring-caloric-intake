@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:11 EST
+"Nutrient data for: 09215, Orange juice, frozen concentrate, unsweetened, diluted with 3 volume water"
+Nutrient,Unit,1Value per 100 g,"1 cup = 249.0g","1 fl oz = 31.1g",
+Proximates
+"Water",g,90.07,224.27,28.01
+"Energy",kcal,37,92,12
+"Protein",g,0.60,1.49,0.19
+"Total lipid (fat)",g,0.06,0.15,0.02
+"Carbohydrate, by difference",g,8.80,21.91,2.74
+"Fiber, total dietary",g,0.2,0.5,0.1
+"Sugars, total",g,7.42,18.48,2.31
+Minerals
+"Calcium, Ca",mg,12,30,4
+"Iron, Fe",mg,0.08,0.20,0.02
+"Magnesium, Mg",mg,10,25,3
+"Phosphorus, P",mg,15,37,5
+"Potassium, K",mg,158,393,49
+"Sodium, Na",mg,4,10,1
+"Zinc, Zn",mg,0.04,0.10,0.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,36.2,90.1,11.3
+"Thiamin",mg,0.069,0.172,0.021
+"Riboflavin",mg,0.044,0.110,0.014
+"Niacin",mg,0.273,0.680,0.085
+"Vitamin B-6",mg,0.065,0.162,0.020
+"Folate, DFE",µg,19,47,6
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,3,7,1
+"Vitamin A, IU",IU,66,164,21
+"Vitamin E (alpha-tocopherol)",mg,0.15,0.37,0.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.2,0.0
+Lipids
+"Fatty acids, total saturated",g,0.015,0.037,0.005
+"Fatty acids, total monounsaturated",g,0.012,0.030,0.004
+"Fatty acids, total polyunsaturated",g,0.016,0.040,0.005
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

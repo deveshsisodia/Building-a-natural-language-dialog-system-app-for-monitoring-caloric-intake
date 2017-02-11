@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:10 EST
+"Nutrient data for: 09420, Jackfruit, canned, syrup pack"
+Nutrient,Unit,1Value per 100 g,"1 cup, drained = 178.0g",
+Proximates
+"Water",g,75.28,134.00
+"Energy",kcal,92,164
+"Protein",g,0.36,0.64
+"Total lipid (fat)",g,0.14,0.25
+"Carbohydrate, by difference",g,23.94,42.61
+"Fiber, total dietary",g,0.9,1.6
+Minerals
+"Calcium, Ca",mg,44,78
+"Iron, Fe",mg,0.29,0.52
+"Magnesium, Mg",mg,10,18
+"Phosphorus, P",mg,6,11
+"Potassium, K",mg,96,171
+"Sodium, Na",mg,11,20
+"Zinc, Zn",mg,0.11,0.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.9
+"Thiamin",mg,0.033,0.059
+"Riboflavin",mg,0.036,0.064
+"Niacin",mg,0.677,1.205
+"Vitamin B-6",mg,0.044,0.078
+"Folate, DFE",µg,14,25
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,2,4
+Lipids
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

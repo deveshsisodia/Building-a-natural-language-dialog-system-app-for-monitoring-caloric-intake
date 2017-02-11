@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:05 EST
+"Nutrient data for: 06358, Soup, tomato bisque, canned, prepared with equal volume milk"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 251.0g","1 can (11 oz), prepared = 609.0g",
+Proximates
+"Water",g,81.51,204.59,496.40
+"Energy",kcal,79,198,481
+"Protein",g,2.51,6.30,15.29
+"Total lipid (fat)",g,2.63,6.60,16.02
+"Carbohydrate, by difference",g,11.73,29.44,71.44
+"Fiber, total dietary",g,0.2,0.5,1.2
+Minerals
+"Calcium, Ca",mg,74,186,451
+"Iron, Fe",mg,0.35,0.88,2.13
+"Magnesium, Mg",mg,10,25,61
+"Phosphorus, P",mg,69,173,420
+"Potassium, K",mg,241,605,1468
+"Sodium, Na",mg,442,1109,2692
+"Zinc, Zn",mg,0.25,0.63,1.52
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.8,7.0,17.1
+"Thiamin",mg,0.045,0.113,0.274
+"Riboflavin",mg,0.107,0.269,0.652
+"Niacin",mg,0.499,1.252,3.039
+"Vitamin B-6",mg,0.056,0.141,0.341
+"Folate, DFE",µg,9,23,55
+"Vitamin B-12",µg,0.17,0.43,1.04
+"Vitamin A, RAE",µg,25,63,152
+"Vitamin A, IU",IU,350,878,2132
+Lipids
+"Fatty acids, total saturated",g,1.250,3.138,7.612
+"Fatty acids, total monounsaturated",g,0.750,1.883,4.567
+"Fatty acids, total polyunsaturated",g,0.490,1.230,2.984
+"Cholesterol",mg,9,23,55
+Amino Acids
+Other

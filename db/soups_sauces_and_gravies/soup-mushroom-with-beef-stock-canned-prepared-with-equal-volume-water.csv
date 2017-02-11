@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:04 EST
+"Nutrient data for: 06444, Soup, mushroom with beef stock, canned, prepared with equal volume water"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 244.0g","1 can (10.75 oz), prepared = 593.0g",
+Proximates
+"Water",g,92.08,224.68,546.03
+"Energy",kcal,35,85,208
+"Protein",g,1.29,3.15,7.65
+"Total lipid (fat)",g,1.65,4.03,9.78
+"Carbohydrate, by difference",g,3.81,9.30,22.59
+"Fiber, total dietary",g,0.3,0.7,1.8
+Minerals
+"Calcium, Ca",mg,4,10,24
+"Iron, Fe",mg,0.34,0.83,2.02
+"Magnesium, Mg",mg,4,10,24
+"Phosphorus, P",mg,15,37,89
+"Potassium, K",mg,65,159,385
+"Sodium, Na",mg,397,969,2354
+"Zinc, Zn",mg,0.57,1.39,3.38
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,1.0,2.4
+"Thiamin",mg,0.014,0.034,0.083
+"Riboflavin",mg,0.039,0.095,0.231
+"Niacin",mg,0.494,1.205,2.929
+"Vitamin B-6",mg,0.015,0.037,0.089
+"Folate, DFE",µg,4,10,24
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,26,63,154
+"Vitamin A, IU",IU,514,1254,3048
+Lipids
+"Fatty acids, total saturated",g,0.640,1.562,3.795
+"Fatty acids, total monounsaturated",g,0.580,1.415,3.439
+"Fatty acids, total polyunsaturated",g,0.320,0.781,1.898
+"Cholesterol",mg,3,7,18
+Amino Acids
+Other

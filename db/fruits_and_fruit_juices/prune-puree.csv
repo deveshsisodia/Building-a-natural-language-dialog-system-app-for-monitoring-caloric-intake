@@ -1,0 +1,31 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:14 EST
+"Nutrient data for: 09423, Prune puree"
+Nutrient,Unit,1Value per 100 g,"2.0 tbsp = 36.0g",
+Proximates
+"Water",g,30.00,10.80
+"Energy",kcal,257,93
+"Protein",g,2.10,0.76
+"Total lipid (fat)",g,0.20,0.07
+"Carbohydrate, by difference",g,65.10,23.44
+"Fiber, total dietary",g,3.3,1.2
+"Sugars, total",g,39.00,14.04
+Minerals
+"Calcium, Ca",mg,31,11
+"Iron, Fe",mg,2.80,1.01
+"Phosphorus, P",mg,72,26
+"Potassium, K",mg,852,307
+"Sodium, Na",mg,23,8
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.3,1.5
+"Thiamin",mg,0.040,0.014
+"Niacin",mg,2.500,0.900
+"Vitamin A, RAE",µg,100,36
+"Vitamin A, IU",IU,2000,720
+Lipids
+"Fatty acids, total saturated",g,0.016,0.006
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

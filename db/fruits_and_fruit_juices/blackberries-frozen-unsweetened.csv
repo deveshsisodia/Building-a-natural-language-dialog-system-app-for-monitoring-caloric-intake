@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:07 EST
+"Nutrient data for: 09048, Blackberries, frozen, unsweetened"
+Nutrient,Unit,1Value per 100 g,"1 cup, unthawed = 151.0g","1 package (18 oz) = 510.0g",
+Proximates
+"Water",g,82.21,124.14,419.27
+"Energy",kcal,64,97,326
+"Protein",g,1.18,1.78,6.02
+"Total lipid (fat)",g,0.43,0.65,2.19
+"Carbohydrate, by difference",g,15.67,23.66,79.92
+"Fiber, total dietary",g,5.0,7.5,25.5
+"Sugars, total",g,10.67,16.11,54.42
+Minerals
+"Calcium, Ca",mg,29,44,148
+"Iron, Fe",mg,0.80,1.21,4.08
+"Magnesium, Mg",mg,22,33,112
+"Phosphorus, P",mg,30,45,153
+"Potassium, K",mg,140,211,714
+"Sodium, Na",mg,1,2,5
+"Zinc, Zn",mg,0.25,0.38,1.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.1,4.7,15.8
+"Thiamin",mg,0.029,0.044,0.148
+"Riboflavin",mg,0.046,0.069,0.235
+"Niacin",mg,1.207,1.823,6.156
+"Vitamin B-6",mg,0.061,0.092,0.311
+"Folate, DFE",µg,34,51,173
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,6,9,31
+"Vitamin A, IU",IU,114,172,581
+"Vitamin E (alpha-tocopherol)",mg,1.17,1.77,5.97
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,19.8,29.9,101.0
+Lipids
+"Fatty acids, total saturated",g,0.015,0.023,0.076
+"Fatty acids, total monounsaturated",g,0.041,0.062,0.209
+"Fatty acids, total polyunsaturated",g,0.245,0.370,1.250
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

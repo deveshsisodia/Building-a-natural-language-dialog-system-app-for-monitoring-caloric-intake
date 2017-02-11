@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:07 EST
+"Nutrient data for: 09032, Apricots, dried, sulfured, uncooked"
+Nutrient,Unit,1Value per 100 g,"1 cup, halves = 130.0g","1 half = 3.5g",
+Proximates
+"Water",g,30.89,40.16,1.08
+"Energy",kcal,241,313,8
+"Protein",g,3.39,4.41,0.12
+"Total lipid (fat)",g,0.51,0.66,0.02
+"Carbohydrate, by difference",g,62.64,81.43,2.19
+"Fiber, total dietary",g,7.3,9.5,0.3
+"Sugars, total",g,53.44,69.47,1.87
+Minerals
+"Calcium, Ca",mg,55,72,2
+"Iron, Fe",mg,2.66,3.46,0.09
+"Magnesium, Mg",mg,32,42,1
+"Phosphorus, P",mg,71,92,2
+"Potassium, K",mg,1162,1511,41
+"Sodium, Na",mg,10,13,0
+"Zinc, Zn",mg,0.39,0.51,0.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,1.3,0.0
+"Thiamin",mg,0.015,0.019,0.001
+"Riboflavin",mg,0.074,0.096,0.003
+"Niacin",mg,2.589,3.366,0.091
+"Vitamin B-6",mg,0.143,0.186,0.005
+"Folate, DFE",µg,10,13,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,180,234,6
+"Vitamin A, IU",IU,3604,4685,126
+"Vitamin E (alpha-tocopherol)",mg,4.33,5.63,0.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,3.1,4.0,0.1
+Lipids
+"Fatty acids, total saturated",g,0.017,0.022,0.001
+"Fatty acids, total monounsaturated",g,0.074,0.096,0.003
+"Fatty acids, total polyunsaturated",g,0.074,0.096,0.003
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:02 EST
+"Nutrient data for: 06011, Soup, cheese, canned, condensed"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 124.0g",
+Proximates
+"Water",g,81.69,101.30
+"Energy",kcal,82,102
+"Protein",g,0.80,0.99
+"Total lipid (fat)",g,3.92,4.86
+"Carbohydrate, by difference",g,11.30,14.01
+"Fiber, total dietary",g,2.2,2.7
+"Sugars, total",g,3.73,4.63
+Minerals
+"Calcium, Ca",mg,36,45
+"Iron, Fe",mg,0.15,0.19
+"Magnesium, Mg",mg,12,15
+"Phosphorus, P",mg,33,41
+"Potassium, K",mg,37,46
+"Sodium, Na",mg,692,858
+"Zinc, Zn",mg,0.15,0.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.2
+"Thiamin",mg,0.013,0.016
+"Riboflavin",mg,0.105,0.130
+"Niacin",mg,0.310,0.384
+"Vitamin B-6",mg,0.020,0.025
+"Folate, DFE",µg,3,4
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,69,86
+"Vitamin A, IU",IU,235,291
+"Vitamin E (alpha-tocopherol)",mg,0.56,0.69
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,4.7,5.8
+Lipids
+"Fatty acids, total saturated",g,2.450,3.038
+"Fatty acids, total monounsaturated",g,1.082,1.342
+"Fatty acids, total polyunsaturated",g,0.114,0.141
+"Cholesterol",mg,3,4
+Amino Acids
+Other
+"Caffeine",mg,0,0

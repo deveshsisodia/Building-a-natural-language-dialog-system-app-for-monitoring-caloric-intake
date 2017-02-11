@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:04 EST
+"Nutrient data for: 27001, Soup, hot and sour, Chinese restaurant"
+Nutrient,Unit,1Value per 100 g,"1 cup = 233.0g",
+Proximates
+"Water",g,90.65,211.21
+"Energy",kcal,39,91
+"Protein",g,2.58,6.01
+"Total lipid (fat)",g,1.21,2.82
+"Carbohydrate, by difference",g,4.35,10.14
+"Fiber, total dietary",g,0.5,1.2
+"Sugars, total",g,0.42,0.98
+Minerals
+"Calcium, Ca",mg,19,44
+"Iron, Fe",mg,0.64,1.49
+"Magnesium, Mg",mg,9,21
+"Phosphorus, P",mg,32,75
+"Potassium, K",mg,55,128
+"Sodium, Na",mg,376,876
+"Zinc, Zn",mg,0.22,0.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.026,0.061
+"Riboflavin",mg,0.031,0.072
+"Niacin",mg,0.507,1.181
+"Vitamin B-6",mg,0.064,0.149
+"Folate, DFE",µg,8,19
+"Vitamin B-12",µg,0.10,0.23
+"Vitamin A, RAE",µg,9,21
+"Vitamin A, IU",IU,34,79
+"Vitamin E (alpha-tocopherol)",mg,0.39,0.91
+"Vitamin D (D2 + D3)",µg,0.1,0.2
+"Vitamin D",IU,5,12
+"Vitamin K (phylloquinone)",µg,1.1,2.6
+Lipids
+"Fatty acids, total saturated",g,0.229,0.534
+"Fatty acids, total monounsaturated",g,0.288,0.671
+"Fatty acids, total polyunsaturated",g,0.311,0.725
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,21,49
+Amino Acids
+Other
+"Caffeine",mg,0,0

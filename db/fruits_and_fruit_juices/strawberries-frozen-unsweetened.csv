@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:14 EST
+"Nutrient data for: 09318, Strawberries, frozen, unsweetened"
+Nutrient,Unit,1Value per 100 g,"1 cup, thawed = 221.0g","1 cup, unthawed = 149.0g","1 berry = 10.6g","1 package (20 oz) = 567.0g",
+Proximates
+"Water",g,89.97,198.83,134.06,9.54,510.13
+"Energy",kcal,35,77,52,4,198
+"Protein",g,0.43,0.95,0.64,0.05,2.44
+"Total lipid (fat)",g,0.11,0.24,0.16,0.01,0.62
+"Carbohydrate, by difference",g,9.13,20.18,13.60,0.97,51.77
+"Fiber, total dietary",g,2.1,4.6,3.1,0.2,11.9
+"Sugars, total",g,4.56,10.08,6.79,0.48,25.86
+Minerals
+"Calcium, Ca",mg,16,35,24,2,91
+"Iron, Fe",mg,0.75,1.66,1.12,0.08,4.25
+"Magnesium, Mg",mg,11,24,16,1,62
+"Phosphorus, P",mg,13,29,19,1,74
+"Potassium, K",mg,148,327,221,16,839
+"Sodium, Na",mg,2,4,3,0,11
+"Zinc, Zn",mg,0.13,0.29,0.19,0.01,0.74
+Vitamins
+"Vitamin C, total ascorbic acid",mg,41.2,91.1,61.4,4.4,233.6
+"Thiamin",mg,0.022,0.049,0.033,0.002,0.125
+"Riboflavin",mg,0.037,0.082,0.055,0.004,0.210
+"Niacin",mg,0.462,1.021,0.688,0.049,2.620
+"Vitamin B-6",mg,0.028,0.062,0.042,0.003,0.159
+"Folate, DFE",µg,17,38,25,2,96
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,2,4,3,0,11
+"Vitamin A, IU",IU,45,99,67,5,255
+"Vitamin E (alpha-tocopherol)",mg,0.29,0.64,0.43,0.03,1.64
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,2.2,4.9,3.3,0.2,12.5
+Lipids
+"Fatty acids, total saturated",g,0.006,0.013,0.009,0.001,0.034
+"Fatty acids, total monounsaturated",g,0.015,0.033,0.022,0.002,0.085
+"Fatty acids, total polyunsaturated",g,0.054,0.119,0.080,0.006,0.306
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

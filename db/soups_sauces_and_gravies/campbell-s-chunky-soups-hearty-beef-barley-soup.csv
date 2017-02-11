@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 02:56 EST
+"Nutrient data for: 06415, CAMPBELL'S CHUNKY Soups, Hearty Beef Barley Soup"
+Nutrient,Unit,1Value per 100 g,"1 cup = 206.0g","1 can = 527.0g",
+Proximates
+"Water",g,86.23,177.63,454.43
+"Energy",kcal,56,115,295
+"Protein",g,2.89,5.95,15.23
+"Total lipid (fat)",g,0.92,1.90,4.85
+"Carbohydrate, by difference",g,8.98,18.50,47.32
+"Fiber, total dietary",g,1.0,2.1,5.3
+"Sugars, total",g,1.17,2.41,6.17
+Minerals
+"Calcium, Ca",mg,10,21,53
+"Iron, Fe",mg,0.49,1.01,2.58
+"Magnesium, Mg",mg,10,21,53
+"Phosphorus, P",mg,55,113,290
+"Potassium, K",mg,129,266,680
+"Sodium, Na",mg,308,634,1623
+"Zinc, Zn",mg,0.54,1.11,2.85
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,1.6,4.2
+"Thiamin",mg,0.027,0.056,0.142
+"Riboflavin",mg,0.085,0.175,0.448
+"Niacin",mg,1.047,2.157,5.518
+"Vitamin B-6",mg,0.094,0.194,0.495
+"Vitamin B-12",µg,0.17,0.35,0.90
+"Vitamin A, IU",IU,157,323,827
+"Vitamin E (alpha-tocopherol)",mg,0.08,0.16,0.42
+Lipids
+"Fatty acids, total saturated",g,0.377,0.777,1.987
+"Fatty acids, total monounsaturated",g,0.381,0.785,2.008
+"Fatty acids, total polyunsaturated",g,0.137,0.282,0.722
+"Fatty acids, total trans",g,0.041,0.084,0.216
+"Cholesterol",mg,4,8,21
+Amino Acids
+Other

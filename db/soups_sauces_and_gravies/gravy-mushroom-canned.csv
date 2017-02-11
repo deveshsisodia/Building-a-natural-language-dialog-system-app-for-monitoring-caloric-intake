@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 02:59 EST
+"Nutrient data for: 06121, Gravy, mushroom, canned"
+Nutrient,Unit,1Value per 100 g,"1 cup = 238.0g","1 can = 298.0g",
+Proximates
+"Water",g,89.00,211.82,265.22
+"Energy",kcal,50,119,149
+"Protein",g,1.26,3.00,3.75
+"Total lipid (fat)",g,2.71,6.45,8.08
+"Carbohydrate, by difference",g,5.47,13.02,16.30
+"Fiber, total dietary",g,0.4,1.0,1.2
+Minerals
+"Calcium, Ca",mg,7,17,21
+"Iron, Fe",mg,0.66,1.57,1.97
+"Magnesium, Mg",mg,2,5,6
+"Phosphorus, P",mg,15,36,45
+"Potassium, K",mg,106,252,316
+"Sodium, Na",mg,570,1357,1699
+"Zinc, Zn",mg,0.70,1.67,2.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.033,0.079,0.098
+"Riboflavin",mg,0.063,0.150,0.188
+"Niacin",mg,0.671,1.597,2.000
+"Vitamin B-6",mg,0.020,0.048,0.060
+"Folate, DFE",µg,12,29,36
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.400,0.952,1.192
+"Fatty acids, total monounsaturated",g,1.170,2.785,3.487
+"Fatty acids, total polyunsaturated",g,1.020,2.428,3.040
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

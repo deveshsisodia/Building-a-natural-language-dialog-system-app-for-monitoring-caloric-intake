@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:05 EST
+"Nutrient data for: 06466, Soup, turkey vegetable, canned, prepared with equal volume water"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 241.0g","1 fl oz = 30.1g","1 can (10.5 oz), prepared = 586.0g",
+Proximates
+"Water",g,92.89,223.86,27.96,544.34
+"Energy",kcal,30,72,9,176
+"Protein",g,1.28,3.08,0.39,7.50
+"Total lipid (fat)",g,1.26,3.04,0.38,7.38
+"Carbohydrate, by difference",g,3.58,8.63,1.08,20.98
+"Fiber, total dietary",g,0.2,0.5,0.1,1.2
+Minerals
+"Calcium, Ca",mg,7,17,2,41
+"Iron, Fe",mg,0.32,0.77,0.10,1.88
+"Magnesium, Mg",mg,2,5,1,12
+"Phosphorus, P",mg,17,41,5,100
+"Potassium, K",mg,73,176,22,428
+"Sodium, Na",mg,376,906,113,2203
+"Zinc, Zn",mg,0.25,0.60,0.08,1.47
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.012,0.029,0.004,0.070
+"Riboflavin",mg,0.016,0.039,0.005,0.094
+"Niacin",mg,0.417,1.005,0.126,2.444
+"Vitamin B-6",mg,0.020,0.048,0.006,0.117
+"Folate, DFE",µg,2,5,1,12
+"Vitamin B-12",µg,0.07,0.17,0.02,0.41
+"Vitamin A, RAE",µg,51,123,15,299
+"Vitamin A, IU",IU,1014,2444,305,5942
+Lipids
+"Fatty acids, total saturated",g,0.370,0.892,0.111,2.168
+"Fatty acids, total monounsaturated",g,0.550,1.326,0.166,3.223
+"Fatty acids, total polyunsaturated",g,0.280,0.675,0.084,1.641
+"Cholesterol",mg,1,2,0,6
+Amino Acids
+Other

@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:04 EST
+"Nutrient data for: 06042, Soup, mushroom barley, canned, condensed"
+Nutrient,Unit,1Value per 100 g,"0.5 cup (4 fl oz) = 126.0g","1 can (10.75 oz) = 305.0g",
+Proximates
+"Water",g,84.90,106.97,258.94
+"Energy",kcal,61,77,186
+"Protein",g,1.50,1.89,4.58
+"Total lipid (fat)",g,1.80,2.27,5.49
+"Carbohydrate, by difference",g,9.60,12.10,29.28
+Minerals
+"Calcium, Ca",mg,10,13,30
+"Iron, Fe",mg,0.40,0.50,1.22
+"Magnesium, Mg",mg,7,9,21
+"Phosphorus, P",mg,50,63,152
+"Potassium, K",mg,76,96,232
+"Sodium, Na",mg,573,722,1748
+"Zinc, Zn",mg,0.40,0.50,1.22
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.020,0.025,0.061
+"Riboflavin",mg,0.070,0.088,0.214
+"Niacin",mg,0.700,0.882,2.135
+"Vitamin B-6",mg,0.140,0.176,0.427
+"Folate, DFE",µg,5,6,15
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,8,10,24
+"Vitamin A, IU",IU,158,199,482
+Lipids
+"Fatty acids, total saturated",g,0.350,0.441,1.067
+"Fatty acids, total monounsaturated",g,0.800,1.008,2.440
+"Fatty acids, total polyunsaturated",g,0.570,0.718,1.738
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

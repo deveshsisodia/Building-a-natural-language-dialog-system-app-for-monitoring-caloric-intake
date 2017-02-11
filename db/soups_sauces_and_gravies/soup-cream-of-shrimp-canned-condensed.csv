@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:04 EST
+"Nutrient data for: 06056, Soup, cream of shrimp, canned, condensed"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 126.0g","1 can = 305.0g",
+Proximates
+"Water",g,84.85,106.91,258.79
+"Energy",kcal,72,91,220
+"Protein",g,2.22,2.80,6.77
+"Total lipid (fat)",g,4.14,5.22,12.63
+"Carbohydrate, by difference",g,6.53,8.23,19.92
+"Fiber, total dietary",g,0.2,0.3,0.6
+Minerals
+"Calcium, Ca",mg,14,18,43
+"Iron, Fe",mg,0.42,0.53,1.28
+"Magnesium, Mg",mg,7,9,21
+"Phosphorus, P",mg,26,33,79
+"Potassium, K",mg,47,59,143
+"Sodium, Na",mg,685,863,2089
+"Zinc, Zn",mg,0.60,0.76,1.83
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.015,0.019,0.046
+"Riboflavin",mg,0.022,0.028,0.067
+"Niacin",mg,0.340,0.428,1.037
+"Vitamin B-6",mg,0.030,0.038,0.091
+"Folate, DFE",µg,3,4,9
+"Vitamin B-12",µg,0.47,0.59,1.43
+"Vitamin A, RAE",µg,32,40,98
+"Vitamin A, IU",IU,126,159,384
+Lipids
+"Fatty acids, total saturated",g,2.580,3.251,7.869
+"Fatty acids, total monounsaturated",g,1.190,1.499,3.629
+"Fatty acids, total polyunsaturated",g,0.150,0.189,0.458
+"Cholesterol",mg,13,16,40
+Amino Acids
+Other

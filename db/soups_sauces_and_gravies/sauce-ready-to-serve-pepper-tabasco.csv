@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:01 EST
+"Nutrient data for: 06169, Sauce, ready-to-serve, pepper, TABASCO"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 4.7g","0.25 tsp = 1.2g",
+Proximates
+"Water",g,95.17,4.47,1.14
+"Energy",kcal,12,1,0
+"Protein",g,1.29,0.06,0.02
+"Total lipid (fat)",g,0.76,0.04,0.01
+"Carbohydrate, by difference",g,0.80,0.04,0.01
+"Fiber, total dietary",g,0.6,0.0,0.0
+"Sugars, total",g,0.13,0.01,0.00
+Minerals
+"Calcium, Ca",mg,12,1,0
+"Iron, Fe",mg,1.16,0.05,0.01
+"Magnesium, Mg",mg,12,1,0
+"Phosphorus, P",mg,23,1,0
+"Potassium, K",mg,128,6,2
+"Sodium, Na",mg,633,30,8
+"Zinc, Zn",mg,0.16,0.01,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.5,0.2,0.1
+"Thiamin",mg,0.032,0.002,0.000
+"Riboflavin",mg,0.084,0.004,0.001
+"Niacin",mg,0.178,0.008,0.002
+"Vitamin B-6",mg,0.154,0.007,0.002
+"Folate, DFE",µg,2,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,82,4,1
+"Vitamin A, IU",IU,1640,77,20
+"Vitamin E (alpha-tocopherol)",mg,0.01,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.2,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.106,0.005,0.001
+"Fatty acids, total monounsaturated",g,0.061,0.003,0.001
+"Fatty acids, total polyunsaturated",g,0.401,0.019,0.005
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

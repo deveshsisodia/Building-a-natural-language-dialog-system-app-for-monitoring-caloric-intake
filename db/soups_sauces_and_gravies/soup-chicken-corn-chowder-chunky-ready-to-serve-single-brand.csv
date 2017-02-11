@@ -1,0 +1,24 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:02 EST
+"Nutrient data for: 06725, Soup, chicken corn chowder, chunky, ready-to-serve, single brand"
+Nutrient,Unit,1Value per 100 g,"1 serving = 240.0g","1 package yields = 539.0g",
+Proximates
+"Water",g,82.10,197.04,442.52
+"Energy",kcal,99,238,534
+"Protein",g,3.10,7.44,16.71
+"Total lipid (fat)",g,6.30,15.12,33.96
+"Carbohydrate, by difference",g,7.50,18.00,40.42
+"Fiber, total dietary",g,0.9,2.2,4.9
+Minerals
+"Sodium, Na",mg,299,718,1612
+Vitamins
+"Vitamin A, RAE",µg,58,139,313
+"Vitamin A, IU",IU,1150,2760,6198
+Lipids
+"Fatty acids, total saturated",g,1.750,4.200,9.432
+"Fatty acids, total monounsaturated",g,1.270,3.048,6.845
+"Fatty acids, total polyunsaturated",g,1.900,4.560,10.241
+"Cholesterol",mg,11,26,59
+Amino Acids
+Other

@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:14 EST
+"Nutrient data for: 09295, Pummelo, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, sections = 190.0g","1 fruit without refuse = 609.0g",
+Proximates
+"Water",g,89.10,169.29,542.62
+"Energy",kcal,38,72,231
+"Protein",g,0.76,1.44,4.63
+"Total lipid (fat)",g,0.04,0.08,0.24
+"Carbohydrate, by difference",g,9.62,18.28,58.59
+"Fiber, total dietary",g,1.0,1.9,6.1
+Minerals
+"Calcium, Ca",mg,4,8,24
+"Iron, Fe",mg,0.11,0.21,0.67
+"Magnesium, Mg",mg,6,11,37
+"Phosphorus, P",mg,17,32,104
+"Potassium, K",mg,216,410,1315
+"Sodium, Na",mg,1,2,6
+"Zinc, Zn",mg,0.08,0.15,0.49
+Vitamins
+"Vitamin C, total ascorbic acid",mg,61.0,115.9,371.5
+"Thiamin",mg,0.034,0.065,0.207
+"Riboflavin",mg,0.027,0.051,0.164
+"Niacin",mg,0.220,0.418,1.340
+"Vitamin B-6",mg,0.036,0.068,0.219
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,8,15,49
+Lipids
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+Footnotes
+(a)"Vitamin A and carotenoid values are based on white variety."

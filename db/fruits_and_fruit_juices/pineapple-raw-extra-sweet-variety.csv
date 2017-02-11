@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:13 EST
+"Nutrient data for: 09430, Pineapple, raw, extra sweet variety"
+Nutrient,Unit,1Value per 100 g,"1 cup, chunks = 165.0g","1 slice (4-2/3"" dia x 3/4"" thick) = 166.0g","1 fruit = 905.0g","1 NLEA serving = 112.0g",
+Proximates
+"Water",g,85.66,141.34,142.20,775.22,95.94
+"Energy",kcal,51,84,85,462,57
+"Protein",g,0.53,0.87,0.88,4.80,0.59
+"Total lipid (fat)",g,0.11,0.18,0.18,1.00,0.12
+"Carbohydrate, by difference",g,13.50,22.27,22.41,122.17,15.12
+"Fiber, total dietary",g,1.4,2.3,2.3,12.7,1.6
+"Sugars, total",g,10.32,17.03,17.13,93.40,11.56
+Minerals
+"Calcium, Ca",mg,13,21,22,118,15
+"Iron, Fe",mg,0.28,0.46,0.46,2.53,0.31
+"Magnesium, Mg",mg,12,20,20,109,13
+"Phosphorus, P",mg,8,13,13,72,9
+"Potassium, K",mg,108,178,179,977,121
+"Sodium, Na",mg,1,2,2,9,1
+"Zinc, Zn",mg,0.12,0.20,0.20,1.09,0.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,56.4,93.1,93.6,510.4,63.2
+"Thiamin",mg,0.080,0.132,0.133,0.724,0.090
+"Riboflavin",mg,0.033,0.054,0.055,0.299,0.037
+"Niacin",mg,0.507,0.837,0.842,4.588,0.568
+"Vitamin B-6",mg,0.114,0.188,0.189,1.032,0.128
+"Folate, DFE",µg,19,31,32,172,21
+"Vitamin A, RAE",µg,3,5,5,27,3
+"Vitamin A, IU",IU,57,94,95,516,64
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.03,0.03,0.18,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.7,1.2,1.2,6.3,0.8
+Lipids
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+Amino Acids
+Other
+Footnotes
+(a)"Values based on data for MD2 variety."

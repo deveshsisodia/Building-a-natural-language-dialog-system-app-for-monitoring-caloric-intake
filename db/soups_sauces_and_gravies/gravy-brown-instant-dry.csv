@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 02:59 EST
+"Nutrient data for: 06957, Gravy, brown instant, dry"
+Nutrient,Unit,1Value per 100 g,"1 serving = 6.7g","1 package = 454.0g",
+Proximates
+"Water",g,5.51,0.37,25.02
+"Energy",kcal,380,25,1725
+"Protein",g,8.53,0.57,38.73
+"Total lipid (fat)",g,11.85,0.79,53.80
+"Carbohydrate, by difference",g,59.78,4.01,271.40
+"Fiber, total dietary",g,3.2,0.2,14.5
+"Sugars, total",g,9.23,0.62,41.90
+Minerals
+"Calcium, Ca",mg,116,8,527
+"Iron, Fe",mg,7.40,0.50,33.60
+"Magnesium, Mg",mg,32,2,145
+"Phosphorus, P",mg,212,14,962
+"Potassium, K",mg,367,25,1666
+"Sodium, Na",mg,5053,339,22941
+"Zinc, Zn",mg,0.96,0.06,4.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.9,0.1,8.6
+"Thiamin",mg,0.236,0.016,1.071
+"Riboflavin",mg,0.473,0.032,2.147
+"Niacin",mg,2.261,0.151,10.265
+"Vitamin B-6",mg,0.282,0.019,1.280
+"Folate, DFE",µg,99,7,449
+"Vitamin B-12",µg,0.33,0.02,1.50
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,1,0,5
+"Vitamin E (alpha-tocopherol)",mg,0.38,0.03,1.73
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.0,1.4
+Lipids
+"Fatty acids, total saturated",g,5.866,0.393,26.632
+"Fatty acids, total monounsaturated",g,5.488,0.368,24.916
+"Fatty acids, total polyunsaturated",g,0.499,0.033,2.265
+"Cholesterol",mg,12,1,54
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

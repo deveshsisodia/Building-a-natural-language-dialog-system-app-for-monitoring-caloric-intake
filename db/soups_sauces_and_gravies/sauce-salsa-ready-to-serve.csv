@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:01 EST
+"Nutrient data for: 06164, Sauce, salsa, ready-to-serve"
+Nutrient,Unit,1Value per 100 g,"2.0 tbsp = 36.0g","0.5 cup = 130.0g","1 cup = 259.0g",
+Proximates
+"Water",g,89.28,32.14,116.06,231.24
+"Energy",kcal,29,10,38,75
+"Protein",g,1.52,0.55,1.98,3.94
+"Total lipid (fat)",g,0.17,0.06,0.22,0.44
+"Carbohydrate, by difference",g,6.64,2.39,8.63,17.20
+"Fiber, total dietary",g,1.9,0.7,2.5,4.9
+"Sugars, total",g,4.01,1.44,5.21,10.39
+Minerals
+"Calcium, Ca",mg,30,11,39,78
+"Iron, Fe",mg,0.42,0.15,0.55,1.09
+"Magnesium, Mg",mg,15,5,20,39
+"Phosphorus, P",mg,33,12,43,85
+"Potassium, K",mg,275,99,358,712
+"Sodium, Na",mg,711,256,924,1841
+"Zinc, Zn",mg,0.18,0.06,0.23,0.47
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.9,0.7,2.5,4.9
+"Thiamin",mg,0.033,0.012,0.043,0.085
+"Riboflavin",mg,0.032,0.012,0.042,0.083
+"Niacin",mg,1.091,0.393,1.418,2.826
+"Vitamin B-6",mg,0.172,0.062,0.224,0.445
+"Folate, DFE",µg,4,1,5,10
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,23,8,30,60
+"Vitamin A, IU",IU,461,166,599,1194
+"Vitamin E (alpha-tocopherol)",mg,1.28,0.46,1.66,3.32
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,4.3,1.5,5.6,11.1
+Lipids
+"Fatty acids, total saturated",g,0.021,0.008,0.027,0.054
+"Fatty acids, total monounsaturated",g,0.018,0.006,0.023,0.047
+"Fatty acids, total polyunsaturated",g,0.078,0.028,0.101,0.202
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

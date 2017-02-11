@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:12 EST
+"Nutrient data for: 09248, Peaches, dried, sulfured, stewed, with added sugar"
+Nutrient,Unit,1Value per 100 g,"1 cup = 270.0g",
+Proximates
+"Water",g,71.38,192.73
+"Energy",kcal,103,278
+"Protein",g,1.06,2.86
+"Total lipid (fat)",g,0.22,0.59
+"Carbohydrate, by difference",g,26.60,71.82
+"Fiber, total dietary",g,2.4,6.5
+Minerals
+"Calcium, Ca",mg,8,22
+"Iron, Fe",mg,1.20,3.24
+"Magnesium, Mg",mg,12,32
+"Phosphorus, P",mg,35,94
+"Potassium, K",mg,292,788
+"Sodium, Na",mg,2,5
+"Zinc, Zn",mg,0.17,0.46
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.4,9.2
+"Thiamin",mg,0.005,0.014
+"Riboflavin",mg,0.019,0.051
+"Niacin",mg,1.388,3.748
+"Vitamin B-6",mg,0.035,0.095
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,9,24
+"Vitamin A, IU",IU,180,486
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.024,0.065
+"Fatty acids, total monounsaturated",g,0.082,0.221
+"Fatty acids, total polyunsaturated",g,0.108,0.292
+"Cholesterol",mg,0,0
+Amino Acids
+Other

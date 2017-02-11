@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:08 EST
+"Nutrient data for: 09367, Cherries, sweet, canned, pitted, heavy syrup, drained"
+Nutrient,Unit,1Value per 100 g,"1 cup = 179.0g",
+Proximates
+"Water",g,77.61,138.92
+"Energy",kcal,83,149
+"Protein",g,0.73,1.31
+"Total lipid (fat)",g,0.21,0.38
+"Carbohydrate, by difference",g,21.07,37.72
+"Fiber, total dietary",g,2.3,4.1
+"Sugars, total",g,16.18,28.96
+Minerals
+"Calcium, Ca",mg,10,18
+"Iron, Fe",mg,0.35,0.63
+"Magnesium, Mg",mg,9,16
+"Phosphorus, P",mg,20,36
+"Potassium, K",mg,148,265
+"Sodium, Na",mg,3,5
+"Zinc, Zn",mg,0.10,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.6,6.4
+"Thiamin",mg,0.022,0.039
+"Riboflavin",mg,0.043,0.077
+"Niacin",mg,0.396,0.709
+"Vitamin B-6",mg,0.022,0.039
+"Folate, DFE",µg,5,9
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,12,21
+"Vitamin A, IU",IU,237,424
+"Vitamin E (alpha-tocopherol)",mg,0.17,0.30
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.9,1.6
+Lipids
+"Fatty acids, total saturated",g,0.041,0.073
+"Fatty acids, total monounsaturated",g,0.049,0.088
+"Fatty acids, total polyunsaturated",g,0.055,0.098
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

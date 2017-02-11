@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:14 EST
+"Nutrient data for: 09292, Plums, dried (prunes), stewed, without added sugar"
+Nutrient,Unit,1Value per 100 g,"1 cup, pitted = 248.0g",
+Proximates
+"Water",g,69.73,172.93
+"Energy",kcal,107,265
+"Protein",g,0.96,2.38
+"Total lipid (fat)",g,0.16,0.40
+"Carbohydrate, by difference",g,28.08,69.64
+"Fiber, total dietary",g,3.1,7.7
+"Sugars, total",g,24.98,61.95
+Minerals
+"Calcium, Ca",mg,19,47
+"Iron, Fe",mg,0.41,1.02
+"Magnesium, Mg",mg,18,45
+"Phosphorus, P",mg,30,74
+"Potassium, K",mg,321,796
+"Sodium, Na",mg,1,2
+"Zinc, Zn",mg,0.19,0.47
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.9,7.2
+"Thiamin",mg,0.024,0.060
+"Riboflavin",mg,0.100,0.248
+"Niacin",mg,0.723,1.793
+"Vitamin B-6",mg,0.218,0.541
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,17,42
+"Vitamin A, IU",IU,342,848
+"Vitamin E (alpha-tocopherol)",mg,0.19,0.47
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,26.1,64.7
+Lipids
+"Fatty acids, total saturated",g,0.010,0.025
+"Fatty acids, total monounsaturated",g,0.080,0.198
+"Fatty acids, total polyunsaturated",g,0.026,0.064
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

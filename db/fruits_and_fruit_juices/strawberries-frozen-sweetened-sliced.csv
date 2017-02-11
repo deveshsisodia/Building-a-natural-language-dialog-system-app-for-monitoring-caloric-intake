@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:14 EST
+"Nutrient data for: 09320, Strawberries, frozen, sweetened, sliced"
+Nutrient,Unit,1Value per 100 g,"1 cup, thawed = 255.0g","1 package (10 oz) = 284.0g",
+Proximates
+"Water",g,73.18,186.61,207.83
+"Energy",kcal,96,245,273
+"Protein",g,0.53,1.35,1.51
+"Total lipid (fat)",g,0.13,0.33,0.37
+"Carbohydrate, by difference",g,25.92,66.10,73.61
+"Fiber, total dietary",g,1.9,4.8,5.4
+"Sugars, total",g,24.01,61.23,68.19
+Minerals
+"Calcium, Ca",mg,11,28,31
+"Iron, Fe",mg,0.59,1.50,1.68
+"Magnesium, Mg",mg,7,18,20
+"Phosphorus, P",mg,13,33,37
+"Potassium, K",mg,98,250,278
+"Sodium, Na",mg,3,8,9
+"Zinc, Zn",mg,0.06,0.15,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,41.4,105.6,117.6
+"Thiamin",mg,0.016,0.041,0.045
+"Riboflavin",mg,0.051,0.130,0.145
+"Niacin",mg,0.401,1.023,1.139
+"Vitamin B-6",mg,0.030,0.076,0.085
+"Folate, DFE",µg,15,38,43
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,3,3
+"Vitamin A, IU",IU,24,61,68
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.59,0.65
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.7,4.3,4.8
+Lipids
+"Fatty acids, total saturated",g,0.007,0.018,0.020
+"Fatty acids, total monounsaturated",g,0.018,0.046,0.051
+"Fatty acids, total polyunsaturated",g,0.064,0.163,0.182
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

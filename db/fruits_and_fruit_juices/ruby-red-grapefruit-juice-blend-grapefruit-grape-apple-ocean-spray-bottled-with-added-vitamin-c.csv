@@ -1,0 +1,30 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:14 EST
+"Nutrient data for: 09528, Ruby Red grapefruit juice blend (grapefruit, grape, apple), OCEAN SPRAY, bottled, with added vitamin C"
+Nutrient,Unit,1Value per 100 g,"8.0 fl oz = 248.0g",
+Proximates
+"Water",g,88.60,219.73
+"Energy",kcal,44,109
+"Protein",g,0.50,1.24
+"Total lipid (fat)",g,0.10,0.25
+"Carbohydrate, by difference",g,10.53,26.11
+"Fiber, total dietary",g,0.2,0.5
+"Sugars, total",g,10.30,25.54
+Minerals
+"Calcium, Ca",mg,10,25
+"Iron, Fe",mg,0.14,0.35
+"Potassium, K",mg,94,233
+"Sodium, Na",mg,8,20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,49.2,122.0
+"Vitamin A, RAE",µg,6,15
+"Vitamin A, IU",IU,129,320
+Lipids
+"Fatty acids, total saturated",g,0.008,0.020
+"Fatty acids, total monounsaturated",g,0.008,0.020
+"Fatty acids, total polyunsaturated",g,0.014,0.035
+"Fatty acids, total trans",g,0.002,0.005
+"Cholesterol",mg,0,0
+Amino Acids
+Other

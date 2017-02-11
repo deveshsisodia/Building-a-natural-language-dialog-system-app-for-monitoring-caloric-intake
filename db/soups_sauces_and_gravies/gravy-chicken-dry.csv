@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 02:59 EST
+"Nutrient data for: 06120, Gravy, chicken, dry"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 8.0g","1 serving = 8.0g",
+Proximates
+"Water",g,3.85,0.31,0.31
+"Energy",kcal,381,30,30
+"Protein",g,11.27,0.90,0.90
+"Total lipid (fat)",g,9.73,0.78,0.78
+"Carbohydrate, by difference",g,62.09,4.97,4.97
+Minerals
+"Calcium, Ca",mg,146,12,12
+"Iron, Fe",mg,1.33,0.11,0.11
+"Magnesium, Mg",mg,40,3,3
+"Phosphorus, P",mg,249,20,20
+"Potassium, K",mg,404,32,32
+"Sodium, Na",mg,4152,332,332
+"Zinc, Zn",mg,1.39,0.11,0.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.0,0.0
+"Thiamin",mg,0.249,0.020,0.020
+"Riboflavin",mg,0.634,0.051,0.051
+"Niacin",mg,4.018,0.321,0.321
+"Vitamin B-6",mg,0.202,0.016,0.016
+"Folate, DFE",µg,136,11,11
+"Vitamin B-12",µg,0.48,0.04,0.04
+"Vitamin A, RAE",µg,38,3,3
+"Vitamin A, IU",IU,308,25,25
+Lipids
+"Fatty acids, total saturated",g,2.920,0.234,0.234
+"Fatty acids, total monounsaturated",g,4.648,0.372,0.372
+"Fatty acids, total polyunsaturated",g,1.877,0.150,0.150
+"Cholesterol",mg,19,2,2
+Amino Acids
+Other

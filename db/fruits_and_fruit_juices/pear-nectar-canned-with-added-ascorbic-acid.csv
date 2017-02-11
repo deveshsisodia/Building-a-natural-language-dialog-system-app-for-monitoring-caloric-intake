@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:12 EST
+"Nutrient data for: 09408, Pear nectar, canned, with added ascorbic acid"
+Nutrient,Unit,1Value per 100 g,"1 cup = 250.0g","1 fl oz = 31.2g",
+Proximates
+"Water",g,84.01,210.03,26.21
+"Energy",kcal,60,150,19
+"Protein",g,0.11,0.28,0.03
+"Total lipid (fat)",g,0.01,0.03,0.00
+"Carbohydrate, by difference",g,15.76,39.40,4.92
+"Fiber, total dietary",g,0.6,1.5,0.2
+"Sugars, total",g,15.16,37.90,4.73
+Minerals
+"Calcium, Ca",mg,5,12,2
+"Iron, Fe",mg,0.26,0.65,0.08
+"Magnesium, Mg",mg,3,8,1
+"Phosphorus, P",mg,3,8,1
+"Potassium, K",mg,13,32,4
+"Sodium, Na",mg,4,10,1
+"Zinc, Zn",mg,0.07,0.17,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,27.0,67.5,8.4
+"Thiamin",mg,0.002,0.005,0.001
+"Riboflavin",mg,0.013,0.033,0.004
+"Niacin",mg,0.128,0.320,0.040
+"Vitamin B-6",mg,0.014,0.035,0.004
+"Folate, DFE",µg,1,2,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,1,2,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.001,0.003,0.000
+"Fatty acids, total monounsaturated",g,0.003,0.007,0.001
+"Fatty acids, total polyunsaturated",g,0.003,0.007,0.001
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

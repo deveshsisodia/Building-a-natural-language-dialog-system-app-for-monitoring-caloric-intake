@@ -1,0 +1,22 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:03 EST
+"Nutrient data for: 06736, Soup, cream of chicken, canned, condensed, single brand"
+Nutrient,Unit,1Value per 100 g,"1 serving = 126.0g","1 package yields = 305.0g",
+Proximates
+"Water",g,81.40,102.56,248.27
+"Energy",kcal,99,125,302
+"Protein",g,2.40,3.02,7.32
+"Total lipid (fat)",g,6.50,8.19,19.82
+"Carbohydrate, by difference",g,7.70,9.70,23.48
+Minerals
+"Sodium, Na",mg,788,993,2403
+Vitamins
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.610,2.029,4.910
+"Fatty acids, total monounsaturated",g,1.640,2.066,5.002
+"Fatty acids, total polyunsaturated",g,2.050,2.583,6.253
+"Cholesterol",mg,7,9,21
+Amino Acids
+Other

@@ -1,0 +1,32 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 02:56 EST
+"Nutrient data for: 06038, CAMPBELL'S, Cheddar Cheese Soup, condensed"
+Nutrient,Unit,1Value per 100 g,"0.5 cup condensed = 124.0g",
+Proximates
+"Water",g,81.69,101.30
+"Energy",kcal,84,104
+"Protein",g,0.80,0.99
+"Total lipid (fat)",g,3.92,4.86
+"Carbohydrate, by difference",g,11.44,14.19
+"Fiber, total dietary",g,2.2,2.7
+"Sugars, total",g,3.73,4.63
+Minerals
+"Calcium, Ca",mg,36,45
+"Iron, Fe",mg,0.15,0.19
+"Magnesium, Mg",mg,12,15
+"Phosphorus, P",mg,33,41
+"Potassium, K",mg,37,46
+"Sodium, Na",mg,692,858
+"Zinc, Zn",mg,0.15,0.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.2
+"Vitamin A, IU",IU,1024,1270
+Lipids
+"Fatty acids, total saturated",g,1.130,1.401
+"Fatty acids, total monounsaturated",g,0.680,0.843
+"Fatty acids, total polyunsaturated",g,1.690,2.096
+"Fatty acids, total trans",g,0.050,0.062
+"Cholesterol",mg,3,4
+Amino Acids
+Other

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:01 EST
+"Nutrient data for: 06749, Soup, beef and vegetables, canned, ready-to-serve"
+Nutrient,Unit,1Value per 100 g,"1 cup = 250.0g","1 can = 528.0g",
+Proximates
+"Water",g,88.22,220.55,465.80
+"Energy",kcal,48,120,253
+"Protein",g,3.18,7.95,16.79
+"Total lipid (fat)",g,1.16,2.90,6.12
+"Carbohydrate, by difference",g,6.16,15.40,32.52
+"Fiber, total dietary",g,1.2,3.0,6.3
+"Sugars, total",g,1.25,3.12,6.60
+Minerals
+"Calcium, Ca",mg,18,45,95
+"Iron, Fe",mg,0.51,1.27,2.69
+"Magnesium, Mg",mg,10,25,53
+"Phosphorus, P",mg,48,120,253
+"Potassium, K",mg,174,435,919
+"Sodium, Na",mg,326,815,1721
+"Zinc, Zn",mg,0.56,1.40,2.96
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.6,9.0,19.0
+"Thiamin",mg,0.015,0.037,0.079
+"Riboflavin",mg,0.016,0.040,0.084
+"Niacin",mg,0.978,2.445,5.164
+"Vitamin B-6",mg,0.126,0.315,0.665
+"Folate, DFE",µg,9,22,48
+"Vitamin B-12",µg,0.17,0.42,0.90
+"Vitamin A, RAE",µg,115,288,607
+"Vitamin A, IU",IU,2290,5725,12091
+"Vitamin E (alpha-tocopherol)",mg,0.45,1.12,2.38
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,1,2,5
+"Vitamin K (phylloquinone)",µg,6.0,15.0,31.7
+Lipids
+"Fatty acids, total saturated",g,0.407,1.018,2.149
+"Fatty acids, total monounsaturated",g,0.296,0.740,1.563
+"Fatty acids, total polyunsaturated",g,0.342,0.855,1.806
+"Cholesterol",mg,7,18,37
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

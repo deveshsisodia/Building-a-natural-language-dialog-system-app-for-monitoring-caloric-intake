@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:06 EST
+"Nutrient data for: 09001, Acerola, (west indian cherry), raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 98.0g","1 fruit without refuse = 4.8g",
+Proximates
+"Water",g,91.41,89.58,4.39
+"Energy",kcal,32,31,2
+"Protein",g,0.40,0.39,0.02
+"Total lipid (fat)",g,0.30,0.29,0.01
+"Carbohydrate, by difference",g,7.69,7.54,0.37
+"Fiber, total dietary",g,1.1,1.1,0.1
+Minerals
+"Calcium, Ca",mg,12,12,1
+"Iron, Fe",mg,0.20,0.20,0.01
+"Magnesium, Mg",mg,18,18,1
+"Phosphorus, P",mg,11,11,1
+"Potassium, K",mg,146,143,7
+"Sodium, Na",mg,7,7,0
+"Zinc, Zn",mg,0.10,0.10,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1677.6,1644.0,80.5
+"Thiamin",mg,0.020,0.020,0.001
+"Riboflavin",mg,0.060,0.059,0.003
+"Niacin",mg,0.400,0.392,0.019
+"Vitamin B-6",mg,0.009,0.009,0.000
+"Folate, DFE",µg,14,14,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,38,37,2
+"Vitamin A, IU",IU,767,752,37
+Lipids
+"Fatty acids, total saturated",g,0.068,0.067,0.003
+"Fatty acids, total monounsaturated",g,0.082,0.080,0.004
+"Fatty acids, total polyunsaturated",g,0.090,0.088,0.004
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

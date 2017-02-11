@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 02:58 EST
+"Nutrient data for: 06114, Gravy, au jus, canned"
+Nutrient,Unit,1Value per 100 g,"0.25 cup = 59.0g","1 can = 298.0g",
+Proximates
+"Water",g,94.50,55.76,281.61
+"Energy",kcal,16,9,48
+"Protein",g,1.20,0.71,3.58
+"Total lipid (fat)",g,0.20,0.12,0.60
+"Carbohydrate, by difference",g,2.50,1.48,7.45
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,4,2,12
+"Iron, Fe",mg,0.60,0.35,1.79
+"Magnesium, Mg",mg,2,1,6
+"Phosphorus, P",mg,30,18,89
+"Potassium, K",mg,81,48,241
+"Sodium, Na",mg,478,282,1424
+"Zinc, Zn",mg,1.00,0.59,2.98
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.6,3.0
+"Thiamin",mg,0.020,0.012,0.060
+"Riboflavin",mg,0.060,0.035,0.179
+"Niacin",mg,0.900,0.531,2.682
+"Vitamin B-6",mg,0.010,0.006,0.030
+"Folate, DFE",µg,2,1,6
+"Vitamin B-12",µg,0.10,0.06,0.30
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.100,0.059,0.298
+"Fatty acids, total monounsaturated",g,0.080,0.047,0.238
+"Fatty acids, total polyunsaturated",g,0.010,0.006,0.030
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

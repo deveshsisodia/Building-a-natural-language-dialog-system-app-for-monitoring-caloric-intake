@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:08 EST
+"Nutrient data for: 09525, Cranberry sauce, whole, canned, OCEAN SPRAY"
+Nutrient,Unit,1Value per 100 g,"0.25 cup = 70.0g",
+Proximates
+"Water",g,58.70,41.09
+"Energy",kcal,158,111
+"Protein",g,0.75,0.53
+"Total lipid (fat)",g,0.05,0.04
+"Carbohydrate, by difference",g,40.40,28.28
+"Fiber, total dietary",g,1.2,0.8
+"Sugars, total",g,31.30,21.91
+Minerals
+"Calcium, Ca",mg,3,2
+"Iron, Fe",mg,0.20,0.14
+"Magnesium, Mg",mg,2,1
+"Phosphorus, P",mg,4,3
+"Potassium, K",mg,21,15
+"Sodium, Na",mg,5,4
+"Zinc, Zn",mg,0.02,0.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.7
+"Vitamin A, RAE",µg,2,1
+"Vitamin A, IU",IU,33,23
+Lipids
+"Fatty acids, total saturated",g,0.007,0.005
+"Fatty acids, total monounsaturated",g,0.007,0.005
+"Fatty acids, total polyunsaturated",g,0.034,0.024
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

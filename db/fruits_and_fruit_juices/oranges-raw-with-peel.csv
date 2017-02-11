@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:12 EST
+"Nutrient data for: 09205, Oranges, raw, with peel"
+Nutrient,Unit,1Value per 100 g,"1 cup = 170.0g","1 fruit without seeds = 159.0g",
+Proximates
+"Water",g,82.30,139.91,130.86
+"Energy",kcal,63,107,100
+"Protein",g,1.30,2.21,2.07
+"Total lipid (fat)",g,0.30,0.51,0.48
+"Carbohydrate, by difference",g,15.50,26.35,24.64
+"Fiber, total dietary",g,4.5,7.7,7.2
+Minerals
+"Calcium, Ca",mg,70,119,111
+"Iron, Fe",mg,0.80,1.36,1.27
+"Magnesium, Mg",mg,14,24,22
+"Phosphorus, P",mg,22,37,35
+"Potassium, K",mg,196,333,312
+"Sodium, Na",mg,2,3,3
+"Zinc, Zn",mg,0.11,0.19,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,71.0,120.7,112.9
+"Thiamin",mg,0.100,0.170,0.159
+"Riboflavin",mg,0.050,0.085,0.080
+"Niacin",mg,0.500,0.850,0.795
+"Vitamin B-6",mg,0.093,0.158,0.148
+"Folate, DFE",µg,30,51,48
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,13,22,21
+"Vitamin A, IU",IU,250,425,398
+Lipids
+"Fatty acids, total saturated",g,0.035,0.060,0.056
+"Fatty acids, total monounsaturated",g,0.055,0.093,0.087
+"Fatty acids, total polyunsaturated",g,0.060,0.102,0.095
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"The Atwater factors for fruit were used to calculate energy; however, the digestibility of peel is unknown."

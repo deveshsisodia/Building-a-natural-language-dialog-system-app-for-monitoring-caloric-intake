@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:00 EST
+"Nutrient data for: 27056, Sauce, barbecue, BULL'S-EYE, original"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 16.0g","0.5 cup = 148.0g","1 cup = 291.0g",
+Proximates
+"Water",g,55.28,8.84,81.81,160.86
+"Energy",kcal,170,27,252,495
+"Protein",g,0.91,0.15,1.35,2.65
+"Total lipid (fat)",g,0.67,0.11,0.99,1.95
+"Carbohydrate, by difference",g,39.95,6.39,59.13,116.25
+"Fiber, total dietary",g,1.0,0.2,1.5,2.9
+"Sugars, total",g,35.29,5.65,52.23,102.69
+Minerals
+"Calcium, Ca",mg,43,7,64,125
+"Iron, Fe",mg,0.69,0.11,1.02,2.01
+"Magnesium, Mg",mg,16,3,24,47
+"Phosphorus, P",mg,22,4,33,64
+"Potassium, K",mg,263,42,389,765
+"Sodium, Na",mg,1012,162,1498,2945
+"Zinc, Zn",mg,0.17,0.03,0.25,0.49
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.0,0.4,0.9
+"Thiamin",mg,0.030,0.005,0.044,0.087
+"Riboflavin",mg,0.063,0.010,0.093,0.183
+"Niacin",mg,0.637,0.102,0.943,1.854
+"Vitamin B-6",mg,0.090,0.014,0.133,0.262
+"Vitamin A, RAE",µg,16,3,24,47
+"Vitamin A, IU",IU,320,51,474,931
+"Vitamin E (alpha-tocopherol)",mg,0.91,0.15,1.35,2.65
+Lipids
+"Fatty acids, total saturated",g,0.101,0.016,0.149,0.294
+"Fatty acids, total monounsaturated",g,0.216,0.035,0.320,0.629
+"Fatty acids, total polyunsaturated",g,0.349,0.056,0.517,1.016
+"Fatty acids, total trans",g,0.001,0.000,0.001,0.003
+Amino Acids
+Other

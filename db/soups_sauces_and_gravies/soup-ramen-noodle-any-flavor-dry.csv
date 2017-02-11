@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:04 EST
+"Nutrient data for: 06583, Soup, ramen noodle, any flavor, dry"
+Nutrient,Unit,1Value per 100 g,"1 package without flavor packet = 81.0g","1 packet = 5.8g",
+Proximates
+"Water",g,6.52,5.28,0.38
+"Energy",kcal,440,356,26
+"Protein",g,10.17,8.24,0.59
+"Total lipid (fat)",g,17.59,14.25,1.02
+"Carbohydrate, by difference",g,60.26,48.81,3.50
+"Fiber, total dietary",g,2.9,2.3,0.2
+"Sugars, total",g,1.98,1.60,0.11
+Minerals
+"Calcium, Ca",mg,21,17,1
+"Iron, Fe",mg,4.11,3.33,0.24
+"Magnesium, Mg",mg,25,20,1
+"Phosphorus, P",mg,115,93,7
+"Potassium, K",mg,181,147,10
+"Sodium, Na",mg,1855,1503,108
+"Zinc, Zn",mg,0.60,0.49,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.2,0.0
+"Thiamin",mg,0.448,0.363,0.026
+"Riboflavin",mg,0.255,0.207,0.015
+"Niacin",mg,5.401,4.375,0.313
+"Vitamin B-6",mg,0.038,0.031,0.002
+"Folate, DFE",µg,165,134,10
+"Vitamin B-12",µg,0.25,0.20,0.01
+"Vitamin A, RAE",µg,1,1,0
+"Vitamin A, IU",IU,12,10,1
+"Vitamin E (alpha-tocopherol)",mg,2.44,1.98,0.14
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,8.9,7.2,0.5
+Lipids
+"Fatty acids, total saturated",g,8.117,6.575,0.471
+"Fatty acids, total monounsaturated",g,6.156,4.986,0.357
+"Fatty acids, total polyunsaturated",g,2.198,1.780,0.127
+"Fatty acids, total trans",g,0.065,0.053,0.004
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

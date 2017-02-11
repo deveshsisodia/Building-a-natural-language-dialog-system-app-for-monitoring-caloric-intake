@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:02 EST
+"Nutrient data for: 06480, Soup, chicken broth or bouillon, dry, prepared with water"
+Nutrient,Unit,1Value per 100 g,"1 cup 8 fl oz = 241.0g","1 fl oz = 30.1g",
+Proximates
+"Water",g,98.28,236.85,29.58
+"Energy",kcal,4,10,1
+"Protein",g,0.28,0.67,0.08
+"Total lipid (fat)",g,0.23,0.55,0.07
+"Carbohydrate, by difference",g,0.30,0.72,0.09
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.29,0.70,0.09
+Minerals
+"Calcium, Ca",mg,6,14,2
+"Iron, Fe",mg,0.02,0.05,0.01
+"Magnesium, Mg",mg,2,5,1
+"Phosphorus, P",mg,3,7,1
+"Potassium, K",mg,6,14,2
+"Sodium, Na",mg,401,966,121
+"Zinc, Zn",mg,0.01,0.02,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.002,0.005,0.001
+"Riboflavin",mg,0.007,0.017,0.002
+"Niacin",mg,0.041,0.099,0.012
+"Vitamin B-6",mg,0.002,0.005,0.001
+"Folate, DFE",µg,1,2,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.01,0.02,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.057,0.137,0.017
+"Fatty acids, total monounsaturated",g,0.089,0.214,0.027
+"Fatty acids, total polyunsaturated",g,0.074,0.178,0.022
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

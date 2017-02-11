@@ -1,0 +1,25 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:05 EST
+"Nutrient data for: 06730, Soup, split pea with ham, chunky, reduced fat, reduced sodium, ready-to-serve, single brand"
+Nutrient,Unit,1Value per 100 g,"1 serving = 243.0g","1 package yields = 539.0g",
+Proximates
+"Water",g,81.00,196.83,436.59
+"Energy",kcal,76,185,410
+"Protein",g,5.20,12.64,28.03
+"Total lipid (fat)",g,1.10,2.67,5.93
+"Carbohydrate, by difference",g,11.30,27.46,60.91
+Minerals
+"Iron, Fe",mg,0.92,2.24,4.96
+"Sodium, Na",mg,343,833,1849
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.2,10.2,22.6
+"Vitamin A, RAE",µg,131,318,706
+"Vitamin A, IU",IU,2625,6379,14149
+Lipids
+"Fatty acids, total saturated",g,0.300,0.729,1.617
+"Fatty acids, total monounsaturated",g,0.404,0.982,2.178
+"Fatty acids, total polyunsaturated",g,0.198,0.481,1.067
+"Cholesterol",mg,6,15,32
+Amino Acids
+Other

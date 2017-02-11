@@ -1,0 +1,27 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:00 EST
+"Nutrient data for: 06233, PREGO Pasta, Organic Tomato and Basil Italian Sauce, ready-to-serve"
+Nutrient,Unit,1Value per 100 g,"1 serving 1/2 cup = 125.0g",
+Proximates
+"Water",g,83.00,103.75
+"Energy",kcal,72,90
+"Protein",g,1.60,2.00
+"Total lipid (fat)",g,2.40,3.00
+"Carbohydrate, by difference",g,10.40,13.00
+"Fiber, total dietary",g,3.2,4.0
+"Sugars, total",g,7.20,9.00
+Minerals
+"Calcium, Ca",mg,32,40
+"Iron, Fe",mg,0.58,0.72
+"Potassium, K",mg,320,400
+"Sodium, Na",mg,376,470
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.8,6.0
+"Vitamin A, IU",IU,600,750
+Lipids
+"Fatty acids, total saturated",g,0.385,0.481
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

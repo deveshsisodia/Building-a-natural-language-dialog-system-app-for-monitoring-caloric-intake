@@ -1,0 +1,32 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 02:57 EST
+"Nutrient data for: 06195, CAMPBELL'S, HEALTHY REQUEST, cream of chicken soup, condensed"
+Nutrient,Unit,1Value per 100 g,"0.5 cup condensed = 124.0g",
+Proximates
+"Water",g,87.30,108.25
+"Energy",kcal,50,62
+"Protein",g,3.00,3.72
+"Total lipid (fat)",g,1.50,1.86
+"Carbohydrate, by difference",g,7.50,9.30
+"Fiber, total dietary",g,0.4,0.5
+"Sugars, total",g,0.80,0.99
+Minerals
+"Calcium, Ca",mg,8,10
+"Iron, Fe",mg,0.20,0.25
+"Magnesium, Mg",mg,6,7
+"Phosphorus, P",mg,31,38
+"Potassium, K",mg,590,732
+"Sodium, Na",mg,347,430
+"Zinc, Zn",mg,0.07,0.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.2
+"Vitamin A, IU",IU,571,708
+Lipids
+"Fatty acids, total saturated",g,0.400,0.496
+"Fatty acids, total monounsaturated",g,0.400,0.496
+"Fatty acids, total polyunsaturated",g,0.600,0.744
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,4,5
+Amino Acids
+Other

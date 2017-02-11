@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:02 EST
+"Nutrient data for: 06980, Soup, beef stroganoff, canned, chunky style, ready-to-serve"
+Nutrient,Unit,1Value per 100 g,"1 cup = 240.0g",
+Proximates
+"Water",g,79.90,191.76
+"Energy",kcal,98,235
+"Protein",g,5.10,12.24
+"Total lipid (fat)",g,4.60,11.04
+"Carbohydrate, by difference",g,9.00,21.60
+"Fiber, total dietary",g,0.6,1.4
+"Sugars, total",g,1.68,4.03
+Minerals
+"Calcium, Ca",mg,20,48
+"Iron, Fe",mg,0.88,2.11
+"Magnesium, Mg",mg,2,5
+"Phosphorus, P",mg,50,120
+"Potassium, K",mg,140,336
+"Sodium, Na",mg,435,1044
+"Zinc, Zn",mg,1.10,2.64
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.040,0.096
+"Riboflavin",mg,0.090,0.216
+"Niacin",mg,0.100,0.240
+"Vitamin B-6",mg,0.060,0.144
+"Folate, DFE",µg,74,178
+"Vitamin B-12",µg,0.26,0.62
+"Vitamin A, RAE",µg,84,202
+"Vitamin A, IU",IU,820,1968
+"Vitamin E (alpha-tocopherol)",mg,0.41,0.98
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,102.8,246.7
+Lipids
+"Fatty acids, total saturated",g,2.324,5.578
+"Fatty acids, total monounsaturated",g,1.556,3.734
+"Fatty acids, total polyunsaturated",g,0.246,0.590
+"Cholesterol",mg,21,50
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:07 EST
+"Nutrient data for: 09025, Apricots, canned, extra light syrup pack, with skin, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"1 cup, halves = 247.0g",
+Proximates
+"Water",g,86.30,213.16
+"Energy",kcal,49,121
+"Protein",g,0.60,1.48
+"Total lipid (fat)",g,0.10,0.25
+"Carbohydrate, by difference",g,12.50,30.88
+"Fiber, total dietary",g,1.6,4.0
+Minerals
+"Calcium, Ca",mg,10,25
+"Iron, Fe",mg,0.30,0.74
+"Magnesium, Mg",mg,6,15
+"Phosphorus, P",mg,12,30
+"Potassium, K",mg,140,346
+"Sodium, Na",mg,2,5
+"Zinc, Zn",mg,0.08,0.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.0,9.9
+"Thiamin",mg,0.020,0.049
+"Riboflavin",mg,0.020,0.049
+"Niacin",mg,0.600,1.482
+"Vitamin B-6",mg,0.054,0.133
+"Folate, DFE",µg,2,5
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,64,158
+"Vitamin A, IU",IU,1271,3139
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.007,0.017
+"Fatty acids, total monounsaturated",g,0.043,0.106
+"Fatty acids, total polyunsaturated",g,0.020,0.049
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

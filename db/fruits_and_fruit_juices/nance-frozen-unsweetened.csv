@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:11 EST
+"Nutrient data for: 09449, Nance, frozen, unsweetened"
+Nutrient,Unit,1Value per 100 g,"1 cup without pits, thawed = 112.0g","3.0 fruit without pits, thawed = 9.8g",
+Proximates
+"Water",g,80.64,90.32,7.90
+"Energy",kcal,73,82,7
+"Protein",g,0.66,0.74,0.06
+"Total lipid (fat)",g,1.16,1.30,0.11
+"Carbohydrate, by difference",g,16.97,19.01,1.66
+"Fiber, total dietary",g,7.5,8.4,0.7
+"Sugars, total",g,8.31,9.31,0.81
+Minerals
+"Calcium, Ca",mg,46,52,5
+"Iron, Fe",mg,0.38,0.43,0.04
+"Magnesium, Mg",mg,20,22,2
+"Phosphorus, P",mg,10,11,1
+"Potassium, K",mg,244,273,24
+"Sodium, Na",mg,3,3,0
+"Zinc, Zn",mg,0.09,0.10,0.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,92.5,103.6,9.1
+"Thiamin",mg,0.015,0.017,0.001
+"Riboflavin",mg,0.018,0.020,0.002
+"Niacin",mg,0.290,0.325,0.028
+"Vitamin B-6",mg,0.021,0.024,0.002
+"Folate, DFE",µg,8,9,1
+"Vitamin A, RAE",µg,4,4,0
+"Vitamin A, IU",IU,74,83,7
+"Vitamin E (alpha-tocopherol)",mg,1.25,1.40,0.12
+"Vitamin K (phylloquinone)",µg,11.9,13.3,1.2
+Lipids
+"Fatty acids, total trans",g,0.000,0.000,0.000
+Amino Acids
+Other
+Footnotes
+(a)"Mean value contains data based on the analysis of 5-methyltetrahydrofolate, 10-Formyl folic acid, and 5-Formyltetrahydrofolic acid."

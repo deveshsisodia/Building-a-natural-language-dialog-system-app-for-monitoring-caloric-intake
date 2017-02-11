@@ -1,0 +1,47 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:06 EST
+"Nutrient data for: 09003, Apples, raw, with skin"
+Nutrient,Unit,1Value per 100 g,"1 cup, quartered or chopped = 125.0g","1 cup slices = 109.0g","1 large (3-1/4"" dia) = 223.0g","1 medium (3"" dia) = 182.0g","1 small (2-3/4"" dia) = 149.0g","1 extra small (2-1/2"" dia) = 101.0g","1 NLEA serving = 242.0g",
+Proximates
+"Water",g,85.56,106.95,93.26,190.80,155.72,127.48,86.42,207.06
+"Energy",kcal,52,65,57,116,95,77,53,126
+"Protein",g,0.26,0.33,0.28,0.58,0.47,0.39,0.26,0.63
+"Total lipid (fat)",g,0.17,0.21,0.19,0.38,0.31,0.25,0.17,0.41
+"Carbohydrate, by difference",g,13.81,17.26,15.05,30.80,25.13,20.58,13.95,33.42
+"Fiber, total dietary",g,2.4,3.0,2.6,5.4,4.4,3.6,2.4,5.8
+"Sugars, total",g,10.39,12.99,11.33,23.17,18.91,15.48,10.49,25.14
+Minerals
+"Calcium, Ca",mg,6,8,7,13,11,9,6,15
+"Iron, Fe",mg,0.12,0.15,0.13,0.27,0.22,0.18,0.12,0.29
+"Magnesium, Mg",mg,5,6,5,11,9,7,5,12
+"Phosphorus, P",mg,11,14,12,25,20,16,11,27
+"Potassium, K",mg,107,134,117,239,195,159,108,259
+"Sodium, Na",mg,1,1,1,2,2,1,1,2
+"Zinc, Zn",mg,0.04,0.05,0.04,0.09,0.07,0.06,0.04,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.6,5.8,5.0,10.3,8.4,6.9,4.6,11.1
+"Thiamin",mg,0.017,0.021,0.019,0.038,0.031,0.025,0.017,0.041
+"Riboflavin",mg,0.026,0.033,0.028,0.058,0.047,0.039,0.026,0.063
+"Niacin",mg,0.091,0.114,0.099,0.203,0.166,0.136,0.092,0.220
+"Vitamin B-6",mg,0.041,0.051,0.045,0.091,0.075,0.061,0.041,0.099
+"Folate, DFE",µg,3,4,3,7,5,4,3,7
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,3,4,3,7,5,4,3,7
+"Vitamin A, IU",IU,54,68,59,120,98,80,55,131
+"Vitamin E (alpha-tocopherol)",mg,0.18,0.23,0.20,0.40,0.33,0.27,0.18,0.44
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,2.2,2.8,2.4,4.9,4.0,3.3,2.2,5.3
+Lipids
+"Fatty acids, total saturated",g,0.028,0.035,0.031,0.062,0.051,0.042,0.028,0.068
+"Fatty acids, total monounsaturated",g,0.007,0.009,0.008,0.016,0.013,0.010,0.007,0.017
+"Fatty acids, total polyunsaturated",g,0.051,0.064,0.056,0.114,0.093,0.076,0.052,0.123
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0,0
+Footnotes
+(b)"3 and 5 pound bags of apples typically contain small and extra small sizes."
+(a)"Based on analytical data for red delicious, golden delicious, gala, granny smith, and fuji varieties."

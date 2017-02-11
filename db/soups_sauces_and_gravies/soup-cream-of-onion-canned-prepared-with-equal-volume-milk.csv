@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:03 EST
+"Nutrient data for: 06246, Soup, cream of onion, canned, prepared with equal volume milk"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 248.0g","1 can (10.75 oz), prepared = 602.0g",
+Proximates
+"Water",g,84.50,209.56,508.69
+"Energy",kcal,75,186,452
+"Protein",g,2.74,6.80,16.49
+"Total lipid (fat)",g,3.78,9.37,22.76
+"Carbohydrate, by difference",g,7.40,18.35,44.55
+"Fiber, total dietary",g,0.3,0.7,1.8
+Minerals
+"Calcium, Ca",mg,72,179,433
+"Iron, Fe",mg,0.28,0.69,1.69
+"Magnesium, Mg",mg,9,22,54
+"Phosphorus, P",mg,62,154,373
+"Potassium, K",mg,125,310,752
+"Sodium, Na",mg,405,1004,2438
+"Zinc, Zn",mg,0.25,0.62,1.50
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,2.5,6.0
+"Thiamin",mg,0.039,0.097,0.235
+"Riboflavin",mg,0.110,0.273,0.662
+"Niacin",mg,0.244,0.605,1.469
+"Vitamin B-6",mg,0.030,0.074,0.181
+"Folate, DFE",µg,9,22,54
+"Vitamin B-12",µg,0.20,0.50,1.20
+"Vitamin A, RAE",µg,21,52,126
+"Vitamin A, IU",IU,182,451,1096
+Lipids
+"Fatty acids, total saturated",g,1.630,4.042,9.813
+"Fatty acids, total monounsaturated",g,1.320,3.274,7.946
+"Fatty acids, total polyunsaturated",g,0.640,1.587,3.853
+"Cholesterol",mg,13,32,78
+Amino Acids
+Other

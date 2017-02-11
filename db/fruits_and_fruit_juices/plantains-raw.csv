@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:13 EST
+"Nutrient data for: 09277, Plantains, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, sliced = 148.0g","1 medium = 179.0g",
+Proximates
+"Water",g,65.28,96.61,116.85
+"Energy",kcal,122,181,218
+"Protein",g,1.30,1.92,2.33
+"Total lipid (fat)",g,0.37,0.55,0.66
+"Carbohydrate, by difference",g,31.89,47.20,57.08
+"Fiber, total dietary",g,2.3,3.4,4.1
+"Sugars, total",g,15.00,22.20,26.85
+Minerals
+"Calcium, Ca",mg,3,4,5
+"Iron, Fe",mg,0.60,0.89,1.07
+"Magnesium, Mg",mg,37,55,66
+"Phosphorus, P",mg,34,50,61
+"Potassium, K",mg,499,739,893
+"Sodium, Na",mg,4,6,7
+"Zinc, Zn",mg,0.14,0.21,0.25
+Vitamins
+"Vitamin C, total ascorbic acid",mg,18.4,27.2,32.9
+"Thiamin",mg,0.052,0.077,0.093
+"Riboflavin",mg,0.054,0.080,0.097
+"Niacin",mg,0.686,1.015,1.228
+"Vitamin B-6",mg,0.299,0.443,0.535
+"Folate, DFE",µg,22,33,39
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,56,83,100
+"Vitamin A, IU",IU,1127,1668,2017
+"Vitamin E (alpha-tocopherol)",mg,0.14,0.21,0.25
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.7,1.0,1.3
+Lipids
+"Fatty acids, total saturated",g,0.143,0.212,0.256
+"Fatty acids, total monounsaturated",g,0.032,0.047,0.057
+"Fatty acids, total polyunsaturated",g,0.069,0.102,0.124
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

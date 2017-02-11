@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:01 EST
+"Nutrient data for: 27049, Sauce, tartar, ready-to-serve"
+Nutrient,Unit,1Value per 100 g,"2.0 tablespoons = 30.0g",
+Proximates
+"Water",g,67.00,20.10
+"Energy",kcal,211,63
+"Protein",g,1.00,0.30
+"Total lipid (fat)",g,16.70,5.01
+"Carbohydrate, by difference",g,13.30,3.99
+"Fiber, total dietary",g,0.5,0.1
+"Sugars, total",g,4.25,1.27
+Minerals
+"Calcium, Ca",mg,26,8
+"Iron, Fe",mg,0.25,0.07
+"Magnesium, Mg",mg,6,2
+"Phosphorus, P",mg,17,5
+"Potassium, K",mg,68,20
+"Sodium, Na",mg,667,200
+"Zinc, Zn",mg,0.12,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.3,0.7
+"Thiamin",mg,0.016,0.005
+"Riboflavin",mg,0.029,0.009
+"Niacin",mg,0.093,0.028
+"Vitamin B-6",mg,0.044,0.013
+"Folate, DFE",µg,5,2
+"Vitamin B-12",µg,0.02,0.01
+"Vitamin A, RAE",µg,11,3
+"Vitamin A, IU",IU,165,50
+"Vitamin E (alpha-tocopherol)",mg,1.68,0.50
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,2,1
+"Vitamin K (phylloquinone)",µg,50.4,15.1
+Lipids
+"Fatty acids, total saturated",g,3.333,1.000
+"Fatty acids, total monounsaturated",g,3.605,1.082
+"Fatty acids, total polyunsaturated",g,9.044,2.713
+"Cholesterol",mg,7,2
+Amino Acids
+Other
+"Caffeine",mg,0,0

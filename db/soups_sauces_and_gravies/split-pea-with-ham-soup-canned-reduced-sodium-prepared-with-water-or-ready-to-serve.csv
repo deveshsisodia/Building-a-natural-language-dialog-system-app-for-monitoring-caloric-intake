@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:06 EST
+"Nutrient data for: 06193, Split pea with ham soup, canned, reduced sodium, prepared with water or ready-to-serve"
+Nutrient,Unit,1Value per 100 g,"1 cup = 245.0g",
+Proximates
+"Water",g,82.80,202.86
+"Energy",kcal,68,167
+"Protein",g,4.00,9.80
+"Total lipid (fat)",g,0.70,1.72
+"Carbohydrate, by difference",g,11.40,27.93
+"Fiber, total dietary",g,1.9,4.7
+"Sugars, total",g,1.57,3.85
+Minerals
+"Calcium, Ca",mg,16,39
+"Iron, Fe",mg,0.70,1.72
+"Magnesium, Mg",mg,14,34
+"Phosphorus, P",mg,54,132
+"Potassium, K",mg,204,500
+"Sodium, Na",mg,196,480
+"Zinc, Zn",mg,0.49,1.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,2.5
+"Thiamin",mg,0.083,0.203
+"Riboflavin",mg,0.038,0.093
+"Niacin",mg,0.695,1.703
+"Vitamin B-6",mg,0.048,0.118
+"Folate, DFE",µg,29,71
+"Vitamin B-12",µg,0.03,0.07
+"Vitamin A, RAE",µg,21,51
+"Vitamin A, IU",IU,415,1017
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.6,6.4
+Lipids
+"Fatty acids, total saturated",g,0.294,0.720
+"Fatty acids, total monounsaturated",g,0.282,0.691
+"Fatty acids, total polyunsaturated",g,0.135,0.331
+"Cholesterol",mg,3,7
+Amino Acids
+Other
+"Caffeine",mg,0,0

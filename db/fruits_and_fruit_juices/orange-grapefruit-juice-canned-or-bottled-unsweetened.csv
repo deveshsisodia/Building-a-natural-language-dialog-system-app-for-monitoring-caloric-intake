@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:11 EST
+"Nutrient data for: 09217, Orange-grapefruit juice, canned or bottled, unsweetened"
+Nutrient,Unit,1Value per 100 g,"1 cup = 247.0g","1 fl oz = 30.9g",
+Proximates
+"Water",g,88.64,218.94,27.39
+"Energy",kcal,43,106,13
+"Protein",g,0.60,1.48,0.19
+"Total lipid (fat)",g,0.10,0.25,0.03
+"Carbohydrate, by difference",g,10.28,25.39,3.18
+"Fiber, total dietary",g,0.1,0.2,0.0
+"Sugars, total",g,10.18,25.14,3.15
+Minerals
+"Calcium, Ca",mg,8,20,2
+"Iron, Fe",mg,0.46,1.14,0.14
+"Magnesium, Mg",mg,10,25,3
+"Phosphorus, P",mg,14,35,4
+"Potassium, K",mg,158,390,49
+"Sodium, Na",mg,3,7,1
+"Zinc, Zn",mg,0.07,0.17,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,29.1,71.9,9.0
+"Thiamin",mg,0.056,0.138,0.017
+"Riboflavin",mg,0.030,0.074,0.009
+"Niacin",mg,0.336,0.830,0.104
+"Vitamin B-6",mg,0.023,0.057,0.007
+"Folate, DFE",µg,14,35,4
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,6,15,2
+"Vitamin A, IU",IU,119,294,37
+"Vitamin E (alpha-tocopherol)",mg,0.14,0.35,0.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.2,0.0
+Lipids
+"Fatty acids, total saturated",g,0.011,0.027,0.003
+"Fatty acids, total monounsaturated",g,0.017,0.042,0.005
+"Fatty acids, total polyunsaturated",g,0.019,0.047,0.006
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

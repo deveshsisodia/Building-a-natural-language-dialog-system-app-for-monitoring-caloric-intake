@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:05 EST
+"Nutrient data for: 06180, Soup, shark fin, restaurant-prepared"
+Nutrient,Unit,1Value per 100 g,"1 cup = 216.0g",
+Proximates
+"Water",g,90.13,194.68
+"Energy",kcal,46,99
+"Protein",g,3.20,6.91
+"Total lipid (fat)",g,2.00,4.32
+"Carbohydrate, by difference",g,3.80,8.21
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,10,22
+"Iron, Fe",mg,0.94,2.03
+"Magnesium, Mg",mg,7,15
+"Phosphorus, P",mg,21,45
+"Potassium, K",mg,53,114
+"Sodium, Na",mg,501,1082
+"Zinc, Zn",mg,0.82,1.77
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.2
+"Thiamin",mg,0.027,0.058
+"Riboflavin",mg,0.039,0.084
+"Niacin",mg,0.493,1.065
+"Vitamin B-6",mg,0.026,0.056
+"Folate, DFE",µg,9,19
+"Vitamin B-12",µg,0.19,0.41
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.501,1.082
+"Fatty acids, total monounsaturated",g,0.583,1.259
+"Fatty acids, total polyunsaturated",g,0.341,0.737
+"Cholesterol",mg,2,4
+Amino Acids
+Other

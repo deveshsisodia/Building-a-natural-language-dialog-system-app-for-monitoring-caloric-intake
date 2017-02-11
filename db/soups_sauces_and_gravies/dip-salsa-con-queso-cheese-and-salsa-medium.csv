@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 02:58 EST
+"Nutrient data for: 27052, Dip, salsa con queso, cheese and salsa- medium"
+Nutrient,Unit,1Value per 100 g,"2.0 tbsp = 30.0g","0.5 cup = 125.0g",
+Proximates
+"Water",g,73.72,22.12,92.15
+"Energy",kcal,143,43,179
+"Protein",g,3.14,0.94,3.92
+"Total lipid (fat)",g,9.51,2.85,11.89
+"Carbohydrate, by difference",g,11.14,3.34,13.93
+"Fiber, total dietary",g,0.7,0.2,0.9
+"Sugars, total",g,1.95,0.58,2.44
+Minerals
+"Calcium, Ca",mg,98,29,122
+"Iron, Fe",mg,0.14,0.04,0.17
+"Magnesium, Mg",mg,8,2,10
+"Phosphorus, P",mg,200,60,250
+"Potassium, K",mg,105,32,131
+"Sodium, Na",mg,796,239,995
+"Zinc, Zn",mg,0.41,0.12,0.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.1,0.5
+"Thiamin",mg,0.012,0.004,0.015
+"Riboflavin",mg,0.065,0.020,0.081
+"Niacin",mg,0.136,0.041,0.170
+"Vitamin B-6",mg,0.043,0.013,0.054
+"Folate, DFE",µg,6,2,8
+"Vitamin B-12",µg,0.25,0.07,0.31
+"Vitamin A, RAE",µg,33,10,41
+"Vitamin A, IU",IU,287,86,359
+"Vitamin E (alpha-tocopherol)",mg,1.86,0.56,2.33
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,17.6,5.3,22.0
+Lipids
+"Fatty acids, total saturated",g,2.491,0.747,3.114
+"Fatty acids, total monounsaturated",g,2.762,0.829,3.453
+"Fatty acids, total polyunsaturated",g,3.643,1.093,4.554
+"Fatty acids, total trans",g,0.097,0.029,0.121
+"Cholesterol",mg,9,3,11
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

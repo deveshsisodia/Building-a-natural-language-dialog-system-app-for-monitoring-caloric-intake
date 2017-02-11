@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 02:57 EST
+"Nutrient data for: 06338, CAMPBELL'S, Cream of Mushroom Soup, condensed"
+Nutrient,Unit,1Value per 100 g,"0.5 cup condensed = 129.0g",
+Proximates
+"Water",g,84.76,109.34
+"Energy",kcal,81,104
+"Protein",g,1.29,1.66
+"Total lipid (fat)",g,5.50,7.09
+"Carbohydrate, by difference",g,6.59,8.50
+"Fiber, total dietary",g,0.6,0.8
+"Sugars, total",g,0.40,0.52
+Minerals
+"Calcium, Ca",mg,8,10
+"Iron, Fe",mg,0.16,0.21
+"Magnesium, Mg",mg,3,4
+"Phosphorus, P",mg,19,25
+"Potassium, K",mg,67,86
+"Sodium, Na",mg,697,899
+"Zinc, Zn",mg,0.11,0.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.6
+"Thiamin",mg,0.010,0.013
+"Riboflavin",mg,0.017,0.022
+"Niacin",mg,0.363,0.468
+"Vitamin B-6",mg,0.018,0.023
+"Vitamin A, IU",IU,8,10
+"Vitamin E (alpha-tocopherol)",mg,0.58,0.75
+"Vitamin D (D2 + D3)",µg,0.2,0.3
+"Vitamin D",IU,9,12
+"Vitamin K (phylloquinone)",µg,22.5,29.0
+Lipids
+"Fatty acids, total saturated",g,0.951,1.227
+"Fatty acids, total monounsaturated",g,1.284,1.656
+"Fatty acids, total polyunsaturated",g,3.155,4.070
+"Fatty acids, total trans",g,0.020,0.026
+"Cholesterol",mg,0,0
+Amino Acids
+Other

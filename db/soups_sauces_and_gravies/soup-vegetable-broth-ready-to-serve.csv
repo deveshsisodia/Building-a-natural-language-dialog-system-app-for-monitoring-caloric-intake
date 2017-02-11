@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:05 EST
+"Nutrient data for: 06700, Soup, vegetable broth, ready to serve"
+Nutrient,Unit,1Value per 100 g,"1 cup = 221.0g","1 can = 390.0g","1 carton (32 oz) = 926.0g",
+Proximates
+"Water",g,98.05,216.69,382.39,907.94
+"Energy",kcal,5,11,20,46
+"Protein",g,0.24,0.53,0.94,2.22
+"Total lipid (fat)",g,0.07,0.15,0.27,0.65
+"Carbohydrate, by difference",g,0.93,2.06,3.63,8.61
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.55,1.22,2.15,5.09
+Minerals
+"Calcium, Ca",mg,3,7,12,28
+"Iron, Fe",mg,0.06,0.13,0.23,0.56
+"Magnesium, Mg",mg,1,2,4,9
+"Phosphorus, P",mg,3,7,12,28
+"Potassium, K",mg,19,42,74,176
+"Sodium, Na",mg,296,654,1154,2741
+"Zinc, Zn",mg,0.03,0.07,0.12,0.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.9,1.6,3.7
+"Thiamin",mg,0.023,0.051,0.090,0.213
+"Riboflavin",mg,0.022,0.049,0.086,0.204
+"Niacin",mg,0.110,0.243,0.429,1.019
+"Vitamin B-6",mg,0.007,0.015,0.027,0.065
+"Folate, DFE",µg,0,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,12,27,47,111
+"Vitamin A, IU",IU,238,526,928,2204
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.7,1.5,2.7,6.5
+Lipids
+"Fatty acids, total saturated",g,0.028,0.062,0.109,0.259
+"Fatty acids, total monounsaturated",g,0.005,0.011,0.019,0.046
+"Fatty acids, total polyunsaturated",g,0.004,0.009,0.016,0.037
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

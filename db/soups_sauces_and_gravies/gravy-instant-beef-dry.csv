@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 02:59 EST
+"Nutrient data for: 06958, Gravy, instant beef, dry"
+Nutrient,Unit,1Value per 100 g,"1 serving = 6.7g","1 package (16 oz) = 454.0g",
+Proximates
+"Water",g,4.65,0.31,21.11
+"Energy",kcal,369,25,1675
+"Protein",g,9.80,0.66,44.49
+"Total lipid (fat)",g,9.48,0.64,43.04
+"Carbohydrate, by difference",g,61.10,4.09,277.39
+"Fiber, total dietary",g,4.3,0.3,19.5
+"Sugars, total",g,23.90,1.60,108.51
+Minerals
+"Calcium, Ca",mg,141,9,640
+"Iron, Fe",mg,6.27,0.42,28.47
+"Magnesium, Mg",mg,41,3,186
+"Phosphorus, P",mg,239,16,1085
+"Potassium, K",mg,450,30,2043
+"Sodium, Na",mg,5203,349,23622
+"Zinc, Zn",mg,0.76,0.05,3.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,0.1,4.1
+"Thiamin",mg,0.187,0.013,0.849
+"Riboflavin",mg,0.514,0.034,2.334
+"Niacin",mg,1.075,0.072,4.880
+"Vitamin B-6",mg,0.138,0.009,0.627
+"Folate, DFE",µg,48,3,218
+"Vitamin B-12",µg,0.62,0.04,2.81
+"Vitamin A, RAE",µg,2,0,9
+"Vitamin A, IU",IU,8,1,36
+"Vitamin E (alpha-tocopherol)",mg,0.01,0.00,0.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.4,0.0,1.8
+Lipids
+"Fatty acids, total saturated",g,4.880,0.327,22.155
+"Fatty acids, total monounsaturated",g,3.659,0.245,16.612
+"Fatty acids, total polyunsaturated",g,0.938,0.063,4.259
+"Cholesterol",mg,11,1,50
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

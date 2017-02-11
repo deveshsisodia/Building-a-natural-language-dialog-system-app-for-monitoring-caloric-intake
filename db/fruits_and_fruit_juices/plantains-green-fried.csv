@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:13 EST
+"Nutrient data for: 09446, Plantains, green, fried"
+Nutrient,Unit,1Value per 100 g,"1 cup = 118.0g","10.0 slices (1/4"" thick) = 53.0g",
+Proximates
+"Water",g,36.08,42.57,19.12
+"Energy",kcal,309,365,164
+"Protein",g,1.50,1.77,0.80
+"Total lipid (fat)",g,11.81,13.94,6.26
+"Carbohydrate, by difference",g,49.17,58.02,26.06
+"Fiber, total dietary",g,3.5,4.1,1.9
+"Sugars, total",g,3.63,4.28,1.92
+Minerals
+"Calcium, Ca",mg,4,5,2
+"Iron, Fe",mg,0.67,0.79,0.36
+"Magnesium, Mg",mg,58,68,31
+"Phosphorus, P",mg,44,52,23
+"Potassium, K",mg,482,569,255
+"Sodium, Na",mg,2,2,1
+"Zinc, Zn",mg,0.23,0.27,0.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.4,4.0,1.8
+"Thiamin",mg,0.047,0.055,0.025
+"Riboflavin",mg,0.102,0.120,0.054
+"Niacin",mg,0.818,0.965,0.434
+"Vitamin B-6",mg,0.264,0.312,0.140
+"Vitamin A, RAE",µg,60,71,32
+"Vitamin A, IU",IU,1192,1407,632
+Lipids
+"Fatty acids, total saturated",g,3.690,4.354,1.956
+"Fatty acids, total monounsaturated",g,4.353,5.137,2.307
+"Fatty acids, total polyunsaturated",g,2.697,3.182,1.429
+"Fatty acids, total trans",g,0.159,0.188,0.084
+Amino Acids
+Other
+Footnotes
+(a)"Fatty acid values reflect plantains fried in corn oil."

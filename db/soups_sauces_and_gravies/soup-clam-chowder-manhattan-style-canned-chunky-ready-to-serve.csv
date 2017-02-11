@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:03 EST
+"Nutrient data for: 06027, Soup, clam chowder, manhattan style, canned, chunky, ready-to-serve"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 240.0g","1 can (19 oz) = 539.0g",
+Proximates
+"Water",g,86.04,206.50,463.76
+"Energy",kcal,56,134,302
+"Protein",g,3.02,7.25,16.28
+"Total lipid (fat)",g,1.41,3.38,7.60
+"Carbohydrate, by difference",g,7.84,18.82,42.26
+"Fiber, total dietary",g,1.2,2.9,6.5
+"Sugars, total",g,1.67,4.01,9.00
+Minerals
+"Calcium, Ca",mg,28,67,151
+"Iron, Fe",mg,1.10,2.64,5.93
+"Magnesium, Mg",mg,8,19,43
+"Phosphorus, P",mg,35,84,189
+"Potassium, K",mg,160,384,862
+"Sodium, Na",mg,417,1001,2248
+"Zinc, Zn",mg,0.70,1.68,3.77
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.1,12.2,27.5
+"Thiamin",mg,0.024,0.058,0.129
+"Riboflavin",mg,0.026,0.062,0.140
+"Niacin",mg,0.770,1.848,4.150
+"Vitamin B-6",mg,0.110,0.264,0.593
+"Folate, DFE",µg,4,10,22
+"Vitamin B-12",µg,3.30,7.92,17.79
+"Vitamin A, RAE",µg,70,168,377
+"Vitamin A, IU",IU,1340,3216,7223
+"Vitamin E (alpha-tocopherol)",mg,0.67,1.61,3.61
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,3.3,7.9,17.8
+Lipids
+"Fatty acids, total saturated",g,0.880,2.112,4.743
+"Fatty acids, total monounsaturated",g,0.410,0.984,2.210
+"Fatty acids, total polyunsaturated",g,0.050,0.120,0.270
+"Cholesterol",mg,6,14,32
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

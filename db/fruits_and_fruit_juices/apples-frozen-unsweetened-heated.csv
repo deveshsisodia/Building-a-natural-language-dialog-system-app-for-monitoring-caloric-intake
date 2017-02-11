@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:06 EST
+"Nutrient data for: 09015, Apples, frozen, unsweetened, heated"
+Nutrient,Unit,1Value per 100 g,"1 cup slices = 206.0g",
+Proximates
+"Water",g,87.16,179.55
+"Energy",kcal,47,97
+"Protein",g,0.29,0.60
+"Total lipid (fat)",g,0.33,0.68
+"Carbohydrate, by difference",g,12.00,24.72
+"Fiber, total dietary",g,1.3,2.7
+Minerals
+"Calcium, Ca",mg,5,10
+"Iron, Fe",mg,0.19,0.39
+"Magnesium, Mg",mg,3,6
+"Phosphorus, P",mg,8,16
+"Potassium, K",mg,76,157
+"Sodium, Na",mg,3,6
+"Zinc, Zn",mg,0.05,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.8
+"Thiamin",mg,0.014,0.029
+"Riboflavin",mg,0.011,0.023
+"Niacin",mg,0.043,0.089
+"Vitamin B-6",mg,0.032,0.066
+"Folate, DFE",µg,1,2
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,20,41
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.053,0.109
+"Fatty acids, total monounsaturated",g,0.013,0.027
+"Fatty acids, total polyunsaturated",g,0.095,0.196
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:05 EST
+"Nutrient data for: 06983, Soup, ramen noodle, chicken flavor, dry"
+Nutrient,Unit,1Value per 100 g,"1 package without flavor packet = 81.0g","1 packet = 6.0g",
+Proximates
+"Water",g,6.50,5.26,0.39
+"Energy",kcal,439,356,26
+"Protein",g,10.22,8.28,0.61
+"Total lipid (fat)",g,17.52,14.19,1.05
+"Carbohydrate, by difference",g,60.23,48.79,3.61
+"Fiber, total dietary",g,2.9,2.3,0.2
+"Sugars, total",g,1.96,1.59,0.12
+Minerals
+"Calcium, Ca",mg,22,18,1
+"Iron, Fe",mg,4.21,3.41,0.25
+"Magnesium, Mg",mg,25,20,2
+"Phosphorus, P",mg,115,93,7
+"Potassium, K",mg,183,148,11
+"Sodium, Na",mg,1923,1558,115
+"Zinc, Zn",mg,0.59,0.48,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.433,0.351,0.026
+"Riboflavin",mg,0.254,0.206,0.015
+"Niacin",mg,5.536,4.484,0.332
+"Vitamin B-6",mg,0.039,0.032,0.002
+"Vitamin E (alpha-tocopherol)",mg,2.41,1.95,0.14
+Lipids
+"Fatty acids, total saturated",g,8.095,6.557,0.486
+"Fatty acids, total monounsaturated",g,6.138,4.972,0.368
+"Fatty acids, total polyunsaturated",g,2.201,1.783,0.132
+"Fatty acids, total trans",g,0.063,0.051,0.004
+Amino Acids
+Other

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:02 EST
+"Nutrient data for: 06015, Soup, chicken, canned, chunky, ready-to-serve"
+Nutrient,Unit,1Value per 100 g,"1 cup = 245.0g",
+Proximates
+"Water",g,84.12,206.09
+"Energy",kcal,71,174
+"Protein",g,5.06,12.40
+"Total lipid (fat)",g,2.64,6.47
+"Carbohydrate, by difference",g,6.88,16.86
+"Fiber, total dietary",g,0.6,1.5
+"Sugars, total",g,0.87,2.13
+Minerals
+"Calcium, Ca",mg,10,24
+"Iron, Fe",mg,0.69,1.69
+"Magnesium, Mg",mg,3,7
+"Phosphorus, P",mg,45,110
+"Potassium, K",mg,70,172
+"Sodium, Na",mg,354,867
+"Zinc, Zn",mg,0.40,0.98
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,1.2
+"Thiamin",mg,0.034,0.083
+"Riboflavin",mg,0.069,0.169
+"Niacin",mg,1.760,4.312
+"Vitamin B-6",mg,0.020,0.049
+"Folate, DFE",µg,2,5
+"Vitamin B-12",µg,0.10,0.24
+"Vitamin A, RAE",µg,27,66
+"Vitamin A, IU",IU,511,1252
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.32
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.5,6.1
+Lipids
+"Fatty acids, total saturated",g,0.790,1.936
+"Fatty acids, total monounsaturated",g,1.180,2.891
+"Fatty acids, total polyunsaturated",g,0.550,1.347
+"Cholesterol",mg,12,29
+Amino Acids
+Other
+"Caffeine",mg,0,0

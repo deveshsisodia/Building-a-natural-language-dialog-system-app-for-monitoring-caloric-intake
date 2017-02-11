@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:12 EST
+"Nutrient data for: 09200, Oranges, raw, all commercial varieties"
+Nutrient,Unit,1Value per 100 g,"1 cup, sections = 180.0g","1 large (3-1/16"" dia) = 184.0g","1 small (2-3/8"" dia) = 96.0g","1 fruit (2-5/8"" dia) = 131.0g",
+Proximates
+"Water",g,86.75,156.15,159.62,83.28,113.64
+"Energy",kcal,47,85,86,45,62
+"Protein",g,0.94,1.69,1.73,0.90,1.23
+"Total lipid (fat)",g,0.12,0.22,0.22,0.12,0.16
+"Carbohydrate, by difference",g,11.75,21.15,21.62,11.28,15.39
+"Fiber, total dietary",g,2.4,4.3,4.4,2.3,3.1
+"Sugars, total",g,9.35,16.83,17.20,8.98,12.25
+Minerals
+"Calcium, Ca",mg,40,72,74,38,52
+"Iron, Fe",mg,0.10,0.18,0.18,0.10,0.13
+"Magnesium, Mg",mg,10,18,18,10,13
+"Phosphorus, P",mg,14,25,26,13,18
+"Potassium, K",mg,181,326,333,174,237
+"Sodium, Na",mg,0,0,0,0,0
+"Zinc, Zn",mg,0.07,0.13,0.13,0.07,0.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,53.2,95.8,97.9,51.1,69.7
+"Thiamin",mg,0.087,0.157,0.160,0.084,0.114
+"Riboflavin",mg,0.040,0.072,0.074,0.038,0.052
+"Niacin",mg,0.282,0.508,0.519,0.271,0.369
+"Vitamin B-6",mg,0.060,0.108,0.110,0.058,0.079
+"Folate, DFE",µg,30,54,55,29,39
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,11,20,20,11,14
+"Vitamin A, IU",IU,225,405,414,216,295
+"Vitamin E (alpha-tocopherol)",mg,0.18,0.32,0.33,0.17,0.24
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.015,0.027,0.028,0.014,0.020
+"Fatty acids, total monounsaturated",g,0.023,0.041,0.042,0.022,0.030
+"Fatty acids, total polyunsaturated",g,0.025,0.045,0.046,0.024,0.033
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

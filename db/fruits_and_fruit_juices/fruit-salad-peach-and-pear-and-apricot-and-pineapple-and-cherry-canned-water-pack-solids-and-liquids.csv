@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:09 EST
+"Nutrient data for: 09102, Fruit salad, (peach and pear and apricot and pineapple and cherry), canned, water pack, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"1 cup = 245.0g",
+Proximates
+"Water",g,91.50,224.18
+"Energy",kcal,30,74
+"Protein",g,0.35,0.86
+"Total lipid (fat)",g,0.07,0.17
+"Carbohydrate, by difference",g,7.87,19.28
+"Fiber, total dietary",g,1.0,2.5
+Minerals
+"Calcium, Ca",mg,7,17
+"Iron, Fe",mg,0.30,0.73
+"Magnesium, Mg",mg,5,12
+"Phosphorus, P",mg,9,22
+"Potassium, K",mg,78,191
+"Sodium, Na",mg,3,7
+"Zinc, Zn",mg,0.08,0.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.9,4.7
+"Thiamin",mg,0.015,0.037
+"Riboflavin",mg,0.021,0.051
+"Niacin",mg,0.374,0.916
+"Vitamin B-6",mg,0.032,0.078
+"Folate, DFE",µg,3,7
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,22,54
+"Vitamin A, IU",IU,440,1078
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.009,0.022
+"Fatty acids, total monounsaturated",g,0.013,0.032
+"Fatty acids, total polyunsaturated",g,0.028,0.069
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

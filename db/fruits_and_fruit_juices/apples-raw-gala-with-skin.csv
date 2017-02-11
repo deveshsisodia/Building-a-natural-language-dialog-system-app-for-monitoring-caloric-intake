@@ -1,0 +1,34 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:06 EST
+"Nutrient data for: 09503, Apples, raw, gala, with skin"
+Nutrient,Unit,1Value per 100 g,"1 cup, sliced = 109.0g","1 large = 200.0g","1 medium = 172.0g","1 small = 157.0g",
+Proximates
+"Water",g,85.76,93.48,171.52,147.51,134.64
+"Energy",kcal,57,62,114,98,89
+"Protein",g,0.25,0.27,0.50,0.43,0.39
+"Total lipid (fat)",g,0.12,0.13,0.24,0.21,0.19
+"Carbohydrate, by difference",g,13.68,14.91,27.36,23.53,21.48
+"Fiber, total dietary",g,2.3,2.5,4.6,4.0,3.6
+"Sugars, total",g,10.37,11.30,20.74,17.84,16.28
+Minerals
+"Calcium, Ca",mg,7,8,14,12,11
+"Iron, Fe",mg,0.12,0.13,0.24,0.21,0.19
+"Magnesium, Mg",mg,5,5,10,9,8
+"Phosphorus, P",mg,11,12,22,19,17
+"Potassium, K",mg,108,118,216,186,170
+"Sodium, Na",mg,1,1,2,2,2
+"Zinc, Zn",mg,0.05,0.05,0.10,0.09,0.08
+Vitamins
+"Thiamin",mg,0.017,0.019,0.034,0.029,0.027
+"Riboflavin",mg,0.029,0.032,0.058,0.050,0.046
+"Niacin",mg,0.075,0.082,0.150,0.129,0.118
+"Vitamin B-6",mg,0.049,0.053,0.098,0.084,0.077
+"Vitamin A, RAE",µg,1,1,2,2,2
+"Vitamin A, IU",IU,28,31,56,48,44
+"Vitamin E (alpha-tocopherol)",mg,0.18,0.20,0.36,0.31,0.28
+"Vitamin K (phylloquinone)",µg,1.3,1.4,2.6,2.2,2.0
+Lipids
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+Amino Acids
+Other

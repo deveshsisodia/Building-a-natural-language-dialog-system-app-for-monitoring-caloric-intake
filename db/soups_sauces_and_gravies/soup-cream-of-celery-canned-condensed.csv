@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:03 EST
+"Nutrient data for: 06010, Soup, cream of celery, canned, condensed"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 126.0g","1 can (10.75 oz) = 305.0g",
+Proximates
+"Water",g,84.96,107.05,259.13
+"Energy",kcal,72,91,220
+"Protein",g,1.32,1.66,4.03
+"Total lipid (fat)",g,4.46,5.62,13.60
+"Carbohydrate, by difference",g,7.03,8.86,21.44
+"Fiber, total dietary",g,0.6,0.8,1.8
+"Sugars, total",g,1.35,1.70,4.12
+Minerals
+"Calcium, Ca",mg,32,40,98
+"Iron, Fe",mg,0.50,0.63,1.52
+"Magnesium, Mg",mg,5,6,15
+"Phosphorus, P",mg,30,38,92
+"Potassium, K",mg,98,123,299
+"Sodium, Na",mg,516,650,1574
+"Zinc, Zn",mg,0.12,0.15,0.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.3,0.6
+"Thiamin",mg,0.023,0.029,0.070
+"Riboflavin",mg,0.039,0.049,0.119
+"Niacin",mg,0.265,0.334,0.808
+"Vitamin B-6",mg,0.010,0.013,0.031
+"Folate, DFE",µg,2,3,6
+"Vitamin B-12",µg,0.04,0.05,0.12
+"Vitamin A, RAE",µg,22,28,67
+"Vitamin A, IU",IU,282,355,860
+"Vitamin E (alpha-tocopherol)",mg,1.39,1.75,4.24
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,17.2,21.7,52.5
+Lipids
+"Fatty acids, total saturated",g,1.120,1.411,3.416
+"Fatty acids, total monounsaturated",g,1.030,1.298,3.142
+"Fatty acids, total polyunsaturated",g,2.000,2.520,6.100
+"Cholesterol",mg,11,14,34
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:12 EST
+"Nutrient data for: 09246, Peaches, dried, sulfured, uncooked"
+Nutrient,Unit,1Value per 100 g,"1 cup, halves = 160.0g","1 half = 13.0g",
+Proximates
+"Water",g,31.80,50.88,4.13
+"Energy",kcal,239,382,31
+"Protein",g,3.61,5.78,0.47
+"Total lipid (fat)",g,0.76,1.22,0.10
+"Carbohydrate, by difference",g,61.33,98.13,7.97
+"Fiber, total dietary",g,8.2,13.1,1.1
+"Sugars, total",g,41.74,66.78,5.43
+Minerals
+"Calcium, Ca",mg,28,45,4
+"Iron, Fe",mg,4.06,6.50,0.53
+"Magnesium, Mg",mg,42,67,5
+"Phosphorus, P",mg,119,190,15
+"Potassium, K",mg,996,1594,129
+"Sodium, Na",mg,7,11,1
+"Zinc, Zn",mg,0.57,0.91,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.8,7.7,0.6
+"Thiamin",mg,0.002,0.003,0.000
+"Riboflavin",mg,0.212,0.339,0.028
+"Niacin",mg,4.375,7.000,0.569
+"Vitamin B-6",mg,0.067,0.107,0.009
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,108,173,14
+"Vitamin A, IU",IU,2163,3461,281
+"Vitamin E (alpha-tocopherol)",mg,0.19,0.30,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,15.7,25.1,2.0
+Lipids
+"Fatty acids, total saturated",g,0.082,0.131,0.011
+"Fatty acids, total monounsaturated",g,0.278,0.445,0.036
+"Fatty acids, total polyunsaturated",g,0.367,0.587,0.048
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

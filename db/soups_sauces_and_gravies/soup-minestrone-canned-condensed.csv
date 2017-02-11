@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:04 EST
+"Nutrient data for: 06040, Soup, minestrone, canned, condensed"
+Nutrient,Unit,1Value per 100 g,"0.5 cup (4 fl oz) = 123.0g","1 can (10.5 oz) = 298.0g",
+Proximates
+"Water",g,82.95,102.03,247.19
+"Energy",kcal,68,84,203
+"Protein",g,3.48,4.28,10.37
+"Total lipid (fat)",g,2.05,2.52,6.11
+"Carbohydrate, by difference",g,9.17,11.28,27.33
+"Fiber, total dietary",g,0.8,1.0,2.4
+"Sugars, total",g,1.50,1.84,4.47
+Minerals
+"Calcium, Ca",mg,28,34,83
+"Iron, Fe",mg,0.75,0.92,2.23
+"Magnesium, Mg",mg,6,7,18
+"Phosphorus, P",mg,46,57,137
+"Potassium, K",mg,255,314,760
+"Sodium, Na",mg,516,635,1538
+"Zinc, Zn",mg,0.60,0.74,1.79
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,1.1,2.7
+"Thiamin",mg,0.044,0.054,0.131
+"Riboflavin",mg,0.036,0.044,0.107
+"Niacin",mg,0.770,0.947,2.295
+"Vitamin B-6",mg,0.080,0.098,0.238
+"Folate, DFE",µg,40,49,119
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,85,105,253
+"Vitamin A, IU",IU,1708,2101,5090
+"Vitamin E (alpha-tocopherol)",mg,0.46,0.57,1.37
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,7.8,9.6,23.2
+Lipids
+"Fatty acids, total saturated",g,0.440,0.541,1.311
+"Fatty acids, total monounsaturated",g,0.560,0.689,1.669
+"Fatty acids, total polyunsaturated",g,0.910,1.119,2.712
+"Cholesterol",mg,1,1,3
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

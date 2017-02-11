@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:10 EST
+"Nutrient data for: 09150, Lemons, raw, without peel"
+Nutrient,Unit,1Value per 100 g,"1 cup, sections = 212.0g","1 fruit (2-1/8"" dia) = 58.0g","1 fruit (2-3/8"" dia) = 84.0g","1 wedge or slice (1/8 of one 2-1/8"" dia lemon) = 7.0g","1 NLEA serving = 58.0g",
+Proximates
+"Water",g,88.98,188.64,51.61,74.74,6.23,51.61
+"Energy",kcal,29,61,17,24,2,17
+"Protein",g,1.10,2.33,0.64,0.92,0.08,0.64
+"Total lipid (fat)",g,0.30,0.64,0.17,0.25,0.02,0.17
+"Carbohydrate, by difference",g,9.32,19.76,5.41,7.83,0.65,5.41
+"Fiber, total dietary",g,2.8,5.9,1.6,2.4,0.2,1.6
+"Sugars, total",g,2.50,5.30,1.45,2.10,0.17,1.45
+Minerals
+"Calcium, Ca",mg,26,55,15,22,2,15
+"Iron, Fe",mg,0.60,1.27,0.35,0.50,0.04,0.35
+"Magnesium, Mg",mg,8,17,5,7,1,5
+"Phosphorus, P",mg,16,34,9,13,1,9
+"Potassium, K",mg,138,293,80,116,10,80
+"Sodium, Na",mg,2,4,1,2,0,1
+"Zinc, Zn",mg,0.06,0.13,0.03,0.05,0.00,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,53.0,112.4,30.7,44.5,3.7,30.7
+"Thiamin",mg,0.040,0.085,0.023,0.034,0.003,0.023
+"Riboflavin",mg,0.020,0.042,0.012,0.017,0.001,0.012
+"Niacin",mg,0.100,0.212,0.058,0.084,0.007,0.058
+"Vitamin B-6",mg,0.080,0.170,0.046,0.067,0.006,0.046
+"Folate, DFE",µg,11,23,6,9,1,6
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,2,1,1,0,1
+"Vitamin A, IU",IU,22,47,13,18,2,13
+"Vitamin E (alpha-tocopherol)",mg,0.15,0.32,0.09,0.13,0.01,0.09
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.039,0.083,0.023,0.033,0.003,0.023
+"Fatty acids, total monounsaturated",g,0.011,0.023,0.006,0.009,0.001,0.006
+"Fatty acids, total polyunsaturated",g,0.089,0.189,0.052,0.075,0.006,0.052
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

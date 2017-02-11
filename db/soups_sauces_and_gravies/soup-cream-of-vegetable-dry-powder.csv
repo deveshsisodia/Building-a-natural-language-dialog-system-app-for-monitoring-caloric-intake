@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:04 EST
+"Nutrient data for: 06101, Soup, cream of vegetable, dry, powder"
+Nutrient,Unit,1Value per 100 g,"1 packet = 18.0g",
+Proximates
+"Water",g,2.90,0.52
+"Energy",kcal,446,80
+"Protein",g,8.00,1.44
+"Total lipid (fat)",g,24.10,4.34
+"Carbohydrate, by difference",g,52.10,9.38
+"Fiber, total dietary",g,3.0,0.5
+"Sugars, total",g,17.51,3.15
+Minerals
+"Calcium, Ca",mg,134,24
+"Iron, Fe",mg,2.60,0.47
+"Magnesium, Mg",mg,48,9
+"Phosphorus, P",mg,228,41
+"Potassium, K",mg,408,73
+"Sodium, Na",mg,4957,892
+"Zinc, Zn",mg,1.60,0.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,16.6,3.0
+"Thiamin",mg,5.180,0.932
+"Riboflavin",mg,0.450,0.081
+"Niacin",mg,2.200,0.396
+"Vitamin B-6",mg,0.100,0.018
+"Folate, DFE",µg,30,5
+"Vitamin B-12",µg,0.50,0.09
+"Vitamin A, RAE",µg,600,108
+"Vitamin A, IU",IU,11996,2159
+"Vitamin E (alpha-tocopherol)",mg,2.41,0.43
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,32.9,5.9
+Lipids
+"Fatty acids, total saturated",g,6.030,1.085
+"Fatty acids, total monounsaturated",g,10.730,1.931
+"Fatty acids, total polyunsaturated",g,6.290,1.132
+"Cholesterol",mg,2,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

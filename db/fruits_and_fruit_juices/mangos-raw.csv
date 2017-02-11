@@ -1,0 +1,47 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:11 EST
+"Nutrient data for: 09176, Mangos, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup pieces = 165.0g","1 fruit without refuse = 336.0g",
+Proximates
+"Water",g,83.46,137.71,280.43
+"Energy",kcal,60,99,202
+"Protein",g,0.82,1.35,2.76
+"Total lipid (fat)",g,0.38,0.63,1.28
+"Carbohydrate, by difference",g,14.98,24.72,50.33
+"Fiber, total dietary",g,1.6,2.6,5.4
+"Sugars, total",g,13.66,22.54,45.90
+Minerals
+"Calcium, Ca",mg,11,18,37
+"Iron, Fe",mg,0.16,0.26,0.54
+"Magnesium, Mg",mg,10,16,34
+"Phosphorus, P",mg,14,23,47
+"Potassium, K",mg,168,277,564
+"Sodium, Na",mg,1,2,3
+"Zinc, Zn",mg,0.09,0.15,0.30
+Vitamins
+"Vitamin C, total ascorbic acid",mg,36.4,60.1,122.3
+"Thiamin",mg,0.028,0.046,0.094
+"Riboflavin",mg,0.038,0.063,0.128
+"Niacin",mg,0.669,1.104,2.248
+"Vitamin B-6",mg,0.119,0.196,0.400
+"Folate, DFE",µg,43,71,144
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,54,89,181
+"Vitamin A, IU",IU,1082,1785,3636
+"Vitamin E (alpha-tocopherol)",mg,0.90,1.49,3.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,4.2,6.9,14.1
+Lipids
+"Fatty acids, total saturated",g,0.092,0.152,0.309
+"Fatty acids, total monounsaturated",g,0.140,0.231,0.470
+"Fatty acids, total polyunsaturated",g,0.071,0.117,0.239
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(b)"Mean value contains data based on the analysis of 5-methyltetrahydrofolate plus total folate determined microbiologically."
+(a)"Values based on analyses of Tommy Atkins, Keitt, Kent, and/or Haden cultivars."

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:07 EST
+"Nutrient data for: 09041, Bananas, dehydrated, or banana powder"
+Nutrient,Unit,1Value per 100 g,"1 cup = 100.0g","1 tbsp = 6.2g",
+Proximates
+"Water",g,3.00,3.00,0.19
+"Energy",kcal,346,346,21
+"Protein",g,3.89,3.89,0.24
+"Total lipid (fat)",g,1.81,1.81,0.11
+"Carbohydrate, by difference",g,88.28,88.28,5.47
+"Fiber, total dietary",g,9.9,9.9,0.6
+"Sugars, total",g,47.30,47.30,2.93
+Minerals
+"Calcium, Ca",mg,22,22,1
+"Iron, Fe",mg,1.15,1.15,0.07
+"Magnesium, Mg",mg,108,108,7
+"Phosphorus, P",mg,74,74,5
+"Potassium, K",mg,1491,1491,92
+"Sodium, Na",mg,3,3,0
+"Zinc, Zn",mg,0.61,0.61,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.0,7.0,0.4
+"Thiamin",mg,0.180,0.180,0.011
+"Riboflavin",mg,0.240,0.240,0.015
+"Niacin",mg,2.800,2.800,0.174
+"Vitamin B-6",mg,0.440,0.440,0.027
+"Folate, DFE",µg,14,14,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,12,12,1
+"Vitamin A, IU",IU,248,248,15
+"Vitamin E (alpha-tocopherol)",mg,0.39,0.39,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,2.0,2.0,0.1
+Lipids
+"Fatty acids, total saturated",g,0.698,0.698,0.043
+"Fatty acids, total monounsaturated",g,0.153,0.153,0.009
+"Fatty acids, total polyunsaturated",g,0.337,0.337,0.021
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

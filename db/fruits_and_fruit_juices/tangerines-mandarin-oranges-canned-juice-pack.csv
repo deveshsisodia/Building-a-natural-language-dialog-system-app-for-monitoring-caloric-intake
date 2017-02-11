@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:15 EST
+"Nutrient data for: 09219, Tangerines, (mandarin oranges), canned, juice pack"
+Nutrient,Unit,1Value per 100 g,"1 cup = 249.0g",
+Proximates
+"Water",g,89.51,222.88
+"Energy",kcal,37,92
+"Protein",g,0.62,1.54
+"Total lipid (fat)",g,0.03,0.07
+"Carbohydrate, by difference",g,9.57,23.83
+"Fiber, total dietary",g,0.7,1.7
+"Sugars, total",g,8.87,22.09
+Minerals
+"Calcium, Ca",mg,11,27
+"Iron, Fe",mg,0.27,0.67
+"Magnesium, Mg",mg,11,27
+"Phosphorus, P",mg,10,25
+"Potassium, K",mg,133,331
+"Sodium, Na",mg,5,12
+"Zinc, Zn",mg,0.51,1.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,34.2,85.2
+"Thiamin",mg,0.082,0.204
+"Riboflavin",mg,0.029,0.072
+"Niacin",mg,0.445,1.108
+"Vitamin B-6",mg,0.042,0.105
+"Folate, DFE",µg,5,12
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,43,107
+"Vitamin A, IU",IU,852,2121
+"Vitamin E (alpha-tocopherol)",mg,0.10,0.25
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.003,0.007
+"Fatty acids, total monounsaturated",g,0.005,0.012
+"Fatty acids, total polyunsaturated",g,0.005,0.012
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

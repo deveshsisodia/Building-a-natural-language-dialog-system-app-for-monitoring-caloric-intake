@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:07 EST
+"Nutrient data for: 09050, Blueberries, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 148.0g","50.0 berries = 68.0g",
+Proximates
+"Water",g,84.21,124.63,57.26
+"Energy",kcal,57,84,39
+"Protein",g,0.74,1.10,0.50
+"Total lipid (fat)",g,0.33,0.49,0.22
+"Carbohydrate, by difference",g,14.49,21.45,9.85
+"Fiber, total dietary",g,2.4,3.6,1.6
+"Sugars, total",g,9.96,14.74,6.77
+Minerals
+"Calcium, Ca",mg,6,9,4
+"Iron, Fe",mg,0.28,0.41,0.19
+"Magnesium, Mg",mg,6,9,4
+"Phosphorus, P",mg,12,18,8
+"Potassium, K",mg,77,114,52
+"Sodium, Na",mg,1,1,1
+"Zinc, Zn",mg,0.16,0.24,0.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,9.7,14.4,6.6
+"Thiamin",mg,0.037,0.055,0.025
+"Riboflavin",mg,0.041,0.061,0.028
+"Niacin",mg,0.418,0.619,0.284
+"Vitamin B-6",mg,0.052,0.077,0.035
+"Folate, DFE",µg,6,9,4
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,3,4,2
+"Vitamin A, IU",IU,54,80,37
+"Vitamin E (alpha-tocopherol)",mg,0.57,0.84,0.39
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,19.3,28.6,13.1
+Lipids
+"Fatty acids, total saturated",g,0.028,0.041,0.019
+"Fatty acids, total monounsaturated",g,0.047,0.070,0.032
+"Fatty acids, total polyunsaturated",g,0.146,0.216,0.099
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

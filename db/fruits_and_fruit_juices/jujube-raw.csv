@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:10 EST
+"Nutrient data for: 09146, Jujube, raw"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,77.86,
+"Energy",kcal,79,
+"Protein",g,1.20,
+"Total lipid (fat)",g,0.20,
+"Carbohydrate, by difference",g,20.23,
+Minerals
+"Calcium, Ca",mg,21,
+"Iron, Fe",mg,0.48,
+"Magnesium, Mg",mg,10,
+"Phosphorus, P",mg,23,
+"Potassium, K",mg,250,
+"Sodium, Na",mg,3,
+"Zinc, Zn",mg,0.05,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,69.0,
+"Thiamin",mg,0.020,
+"Riboflavin",mg,0.040,
+"Niacin",mg,0.900,
+"Vitamin B-6",mg,0.081,
+"Vitamin B-12",µg,0.00,
+"Vitamin A, RAE",µg,2,
+"Vitamin A, IU",IU,40,
+Lipids
+"Fatty acids, total trans",g,0.000,
+"Cholesterol",mg,0,
+Amino Acids
+Other

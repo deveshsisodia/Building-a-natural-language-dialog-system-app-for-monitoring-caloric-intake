@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:04 EST
+"Nutrient data for: 06982, Soup, ramen noodle, beef flavor, dry"
+Nutrient,Unit,1Value per 100 g,"1 package without flavor packet = 82.0g","1 packet = 5.6g",
+Proximates
+"Water",g,6.56,5.38,0.37
+"Energy",kcal,441,362,25
+"Protein",g,10.06,8.25,0.56
+"Total lipid (fat)",g,17.73,14.54,0.99
+"Carbohydrate, by difference",g,60.34,49.48,3.38
+"Fiber, total dietary",g,3.0,2.5,0.2
+"Sugars, total",g,1.99,1.63,0.11
+Minerals
+"Calcium, Ca",mg,21,17,1
+"Iron, Fe",mg,3.93,3.22,0.22
+"Magnesium, Mg",mg,25,20,1
+"Phosphorus, P",mg,115,94,6
+"Potassium, K",mg,177,145,10
+"Sodium, Na",mg,1727,1416,97
+"Zinc, Zn",mg,0.61,0.50,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.5,0.0
+"Thiamin",mg,0.479,0.393,0.027
+"Riboflavin",mg,0.258,0.212,0.014
+"Niacin",mg,5.139,4.214,0.288
+"Vitamin B-6",mg,0.037,0.030,0.002
+"Vitamin E (alpha-tocopherol)",mg,2.49,2.04,0.14
+"Vitamin K (phylloquinone)",µg,9.0,7.4,0.5
+Lipids
+"Fatty acids, total saturated",g,8.158,6.690,0.457
+"Fatty acids, total monounsaturated",g,6.189,5.075,0.347
+"Fatty acids, total polyunsaturated",g,2.191,1.797,0.123
+"Fatty acids, total trans",g,0.069,0.057,0.004
+Amino Acids
+Other

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:00 EST
+"Nutrient data for: 06165, Sauce, homemade, white, thin"
+Nutrient,Unit,1Value per 100 g,"1 cup = 250.0g","0.5 cup = 125.0g",
+Proximates
+"Water",g,80.66,201.65,100.83
+"Energy",kcal,105,262,131
+"Protein",g,3.77,9.43,4.71
+"Total lipid (fat)",g,6.73,16.82,8.41
+"Carbohydrate, by difference",g,7.40,18.50,9.25
+"Fiber, total dietary",g,0.1,0.2,0.1
+"Sugars, total",g,4.78,11.95,5.97
+Minerals
+"Calcium, Ca",mg,126,315,158
+"Iron, Fe",mg,0.21,0.53,0.26
+"Magnesium, Mg",mg,15,38,19
+"Phosphorus, P",mg,101,252,126
+"Potassium, K",mg,163,408,204
+"Sodium, Na",mg,328,820,410
+"Zinc, Zn",mg,0.42,1.05,0.53
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,2.0,1.0
+"Thiamin",mg,0.055,0.138,0.069
+"Riboflavin",mg,0.184,0.460,0.230
+"Niacin",mg,0.261,0.652,0.326
+"Vitamin B-6",mg,0.041,0.102,0.051
+"Folate, DFE",µg,12,30,15
+"Vitamin B-12",µg,0.30,0.75,0.38
+"Vitamin A, RAE",µg,73,182,91
+"Vitamin A, IU",IU,262,655,328
+"Vitamin E (alpha-tocopherol)",mg,0.17,0.42,0.21
+"Vitamin D (D2 + D3)",µg,1.2,3.0,1.5
+"Vitamin D",IU,49,122,61
+"Vitamin K (phylloquinone)",µg,0.6,1.5,0.8
+Lipids
+"Fatty acids, total saturated",g,2.152,5.380,2.690
+"Fatty acids, total monounsaturated",g,2.670,6.675,3.337
+"Fatty acids, total polyunsaturated",g,1.586,3.965,1.982
+"Cholesterol",mg,8,20,10
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:07 EST
+"Nutrient data for: 09035, Apricots, frozen, sweetened"
+Nutrient,Unit,1Value per 100 g,"1 cup = 242.0g",
+Proximates
+"Water",g,73.30,177.39
+"Energy",kcal,98,237
+"Protein",g,0.70,1.69
+"Total lipid (fat)",g,0.10,0.24
+"Carbohydrate, by difference",g,25.10,60.74
+"Fiber, total dietary",g,2.2,5.3
+Minerals
+"Calcium, Ca",mg,10,24
+"Iron, Fe",mg,0.90,2.18
+"Magnesium, Mg",mg,9,22
+"Phosphorus, P",mg,19,46
+"Potassium, K",mg,229,554
+"Sodium, Na",mg,4,10
+"Zinc, Zn",mg,0.10,0.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,9.0,21.8
+"Thiamin",mg,0.020,0.048
+"Riboflavin",mg,0.040,0.097
+"Niacin",mg,0.800,1.936
+"Vitamin B-6",mg,0.060,0.145
+"Folate, DFE",µg,2,5
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,84,203
+"Vitamin A, IU",IU,1680,4066
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.007,0.017
+"Fatty acids, total monounsaturated",g,0.044,0.106
+"Fatty acids, total polyunsaturated",g,0.020,0.048
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

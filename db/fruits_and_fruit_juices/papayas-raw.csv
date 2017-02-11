@@ -1,0 +1,48 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:12 EST
+"Nutrient data for: 09226, Papayas, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup 1"" pieces = 145.0g","1 cup, mashed = 230.0g","1 fruit, small = 157.0g","1 fruit, large = 781.0g",
+Proximates
+"Water",g,88.06,127.69,202.54,138.25,687.75
+"Energy",kcal,43,62,99,68,336
+"Protein",g,0.47,0.68,1.08,0.74,3.67
+"Total lipid (fat)",g,0.26,0.38,0.60,0.41,2.03
+"Carbohydrate, by difference",g,10.82,15.69,24.89,16.99,84.50
+"Fiber, total dietary",g,1.7,2.5,3.9,2.7,13.3
+"Sugars, total",g,7.82,11.34,17.99,12.28,61.07
+Minerals
+"Calcium, Ca",mg,20,29,46,31,156
+"Iron, Fe",mg,0.25,0.36,0.57,0.39,1.95
+"Magnesium, Mg",mg,21,30,48,33,164
+"Phosphorus, P",mg,10,14,23,16,78
+"Potassium, K",mg,182,264,419,286,1421
+"Sodium, Na",mg,8,12,18,13,62
+"Zinc, Zn",mg,0.08,0.12,0.18,0.13,0.62
+Vitamins
+"Vitamin C, total ascorbic acid",mg,60.9,88.3,140.1,95.6,475.6
+"Thiamin",mg,0.023,0.033,0.053,0.036,0.180
+"Riboflavin",mg,0.027,0.039,0.062,0.042,0.211
+"Niacin",mg,0.357,0.518,0.821,0.560,2.788
+"Vitamin B-6",mg,0.038,0.055,0.087,0.060,0.297
+"Folate, DFE",µg,37,54,85,58,289
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,47,68,108,74,367
+"Vitamin A, IU",IU,950,1378,2185,1492,7420
+"Vitamin E (alpha-tocopherol)",mg,0.30,0.43,0.69,0.47,2.34
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,2.6,3.8,6.0,4.1,20.3
+Lipids
+"Fatty acids, total saturated",g,0.081,0.117,0.186,0.127,0.633
+"Fatty acids, total monounsaturated",g,0.072,0.104,0.166,0.113,0.562
+"Fatty acids, total polyunsaturated",g,0.058,0.084,0.133,0.091,0.453
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0
+Footnotes
+(c)"Large variability in weight of whole fruit, especially between different cultivars."
+(b)"Based on red-fleshed papaya; yellow-orange-fleshed papayas have 0 mcg lycopene/100 g."
+(a)"Mean value contains data based on the analysis of 5-methyltetrahydrofolate plus total folate determined microbiologically"

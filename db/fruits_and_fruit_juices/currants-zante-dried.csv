@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:08 EST
+"Nutrient data for: 09085, Currants, zante, dried"
+Nutrient,Unit,1Value per 100 g,"1 cup = 144.0g",
+Proximates
+"Water",g,19.21,27.66
+"Energy",kcal,283,408
+"Protein",g,4.08,5.88
+"Total lipid (fat)",g,0.27,0.39
+"Carbohydrate, by difference",g,74.08,106.68
+"Fiber, total dietary",g,6.8,9.8
+"Sugars, total",g,67.28,96.88
+Minerals
+"Calcium, Ca",mg,86,124
+"Iron, Fe",mg,3.26,4.69
+"Magnesium, Mg",mg,41,59
+"Phosphorus, P",mg,125,180
+"Potassium, K",mg,892,1284
+"Sodium, Na",mg,8,12
+"Zinc, Zn",mg,0.66,0.95
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.7,6.8
+"Thiamin",mg,0.160,0.230
+"Riboflavin",mg,0.142,0.204
+"Niacin",mg,1.615,2.326
+"Vitamin B-6",mg,0.296,0.426
+"Folate, DFE",µg,10,14
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,4,6
+"Vitamin A, IU",IU,73,105
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.16
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,3.3,4.8
+Lipids
+"Fatty acids, total saturated",g,0.028,0.040
+"Fatty acids, total monounsaturated",g,0.047,0.068
+"Fatty acids, total polyunsaturated",g,0.180,0.259
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

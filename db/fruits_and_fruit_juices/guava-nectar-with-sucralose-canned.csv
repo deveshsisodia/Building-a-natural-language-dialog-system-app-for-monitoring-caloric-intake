@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:10 EST
+"Nutrient data for: 09519, Guava nectar, with sucralose, canned"
+Nutrient,Unit,1Value per 100 g,"11.3 fl oz = 335.0g",
+Proximates
+"Water",g,86.23,288.87
+"Energy",kcal,48,161
+"Protein",g,0.30,1.00
+"Total lipid (fat)",g,0.07,0.23
+"Carbohydrate, by difference",g,13.30,44.55
+"Fiber, total dietary",g,1.2,4.0
+"Sugars, total",g,10.15,34.00
+Minerals
+"Calcium, Ca",mg,8,27
+"Iron, Fe",mg,0.54,1.81
+"Magnesium, Mg",mg,2,7
+"Phosphorus, P",mg,3,10
+"Potassium, K",mg,33,111
+"Sodium, Na",mg,6,20
+"Zinc, Zn",mg,0.02,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,21.3,71.4
+"Thiamin",mg,0.005,0.017
+"Riboflavin",mg,0.005,0.017
+"Niacin",mg,0.170,0.570
+"Vitamin B-6",mg,0.009,0.030
+"Folate, DFE",µg,4,13
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,2,7
+"Vitamin A, IU",IU,49,164
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.20
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.0,3.4
+Lipids
+"Fatty acids, total saturated",g,0.023,0.077
+"Fatty acids, total monounsaturated",g,0.020,0.067
+"Fatty acids, total polyunsaturated",g,0.017,0.057
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

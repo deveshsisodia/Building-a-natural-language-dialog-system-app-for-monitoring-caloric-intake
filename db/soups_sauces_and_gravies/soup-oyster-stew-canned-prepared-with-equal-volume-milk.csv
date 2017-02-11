@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:04 EST
+"Nutrient data for: 06248, Soup, oyster stew, canned, prepared with equal volume milk"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 245.0g","1 can (10.5 oz), prepared = 595.0g",
+Proximates
+"Water",g,88.94,217.90,529.19
+"Energy",kcal,55,135,327
+"Protein",g,2.51,6.15,14.93
+"Total lipid (fat)",g,3.24,7.94,19.28
+"Carbohydrate, by difference",g,3.99,9.78,23.74
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,68,167,405
+"Iron, Fe",mg,0.43,1.05,2.56
+"Magnesium, Mg",mg,8,20,48
+"Phosphorus, P",mg,66,162,393
+"Potassium, K",mg,96,235,571
+"Sodium, Na",mg,425,1041,2529
+"Zinc, Zn",mg,4.22,10.34,25.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.8,4.4,10.7
+"Thiamin",mg,0.027,0.066,0.161
+"Riboflavin",mg,0.095,0.233,0.565
+"Niacin",mg,0.137,0.336,0.815
+"Vitamin B-6",mg,0.026,0.064,0.155
+"Folate, DFE",µg,4,10,24
+"Vitamin B-12",µg,1.07,2.62,6.37
+"Vitamin A, RAE",µg,23,56,137
+"Vitamin A, IU",IU,92,225,547
+Lipids
+"Fatty acids, total saturated",g,2.060,5.047,12.257
+"Fatty acids, total monounsaturated",g,0.850,2.083,5.058
+"Fatty acids, total polyunsaturated",g,0.130,0.319,0.774
+"Cholesterol",mg,13,32,77
+Amino Acids
+Other

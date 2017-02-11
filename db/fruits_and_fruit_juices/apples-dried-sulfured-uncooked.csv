@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:06 EST
+"Nutrient data for: 09011, Apples, dried, sulfured, uncooked"
+Nutrient,Unit,1Value per 100 g,"1 cup = 86.0g","1 ring = 6.4g",
+Proximates
+"Water",g,31.76,27.31,2.03
+"Energy",kcal,243,209,16
+"Protein",g,0.93,0.80,0.06
+"Total lipid (fat)",g,0.32,0.28,0.02
+"Carbohydrate, by difference",g,65.89,56.67,4.22
+"Fiber, total dietary",g,8.7,7.5,0.6
+"Sugars, total",g,57.19,49.18,3.66
+Minerals
+"Calcium, Ca",mg,14,12,1
+"Iron, Fe",mg,1.40,1.20,0.09
+"Magnesium, Mg",mg,16,14,1
+"Phosphorus, P",mg,38,33,2
+"Potassium, K",mg,450,387,29
+"Sodium, Na",mg,87,75,6
+"Zinc, Zn",mg,0.20,0.17,0.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.9,3.4,0.2
+"Thiamin",mg,0.000,0.000,0.000
+"Riboflavin",mg,0.159,0.137,0.010
+"Niacin",mg,0.927,0.797,0.059
+"Vitamin B-6",mg,0.125,0.107,0.008
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.53,0.46,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,3.0,2.6,0.2
+Lipids
+"Fatty acids, total saturated",g,0.052,0.045,0.003
+"Fatty acids, total monounsaturated",g,0.013,0.011,0.001
+"Fatty acids, total polyunsaturated",g,0.093,0.080,0.006
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

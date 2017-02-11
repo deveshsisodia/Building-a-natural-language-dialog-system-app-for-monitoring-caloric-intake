@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:10 EST
+"Nutrient data for: 09140, Guavas, strawberry, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 244.0g","1 fruit without refuse = 6.0g",
+Proximates
+"Water",g,80.66,196.81,4.84
+"Energy",kcal,69,168,4
+"Protein",g,0.58,1.42,0.03
+"Total lipid (fat)",g,0.60,1.46,0.04
+"Carbohydrate, by difference",g,17.36,42.36,1.04
+"Fiber, total dietary",g,5.4,13.2,0.3
+Minerals
+"Calcium, Ca",mg,21,51,1
+"Iron, Fe",mg,0.22,0.54,0.01
+"Magnesium, Mg",mg,17,41,1
+"Phosphorus, P",mg,27,66,2
+"Potassium, K",mg,292,712,18
+"Sodium, Na",mg,37,90,2
+Vitamins
+"Vitamin C, total ascorbic acid",mg,37.0,90.3,2.2
+"Thiamin",mg,0.030,0.073,0.002
+"Riboflavin",mg,0.030,0.073,0.002
+"Niacin",mg,0.600,1.464,0.036
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,5,12,0
+"Vitamin A, IU",IU,90,220,5
+Lipids
+"Fatty acids, total saturated",g,0.172,0.420,0.010
+"Fatty acids, total monounsaturated",g,0.055,0.134,0.003
+"Fatty acids, total polyunsaturated",g,0.253,0.617,0.015
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

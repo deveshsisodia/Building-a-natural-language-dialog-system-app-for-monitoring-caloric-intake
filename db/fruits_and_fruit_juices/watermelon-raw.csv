@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:15 EST
+"Nutrient data for: 09326, Watermelon, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, balls = 154.0g","1 cup, diced = 152.0g","1 melon (15"" long x 7-1/2"" dia) = 4518.0g","1 wedge (approx 1/16 of melon) = 286.0g","10.0 watermelon balls = 122.0g","1 NLEA serving = 280.0g",
+Proximates
+"Water",g,91.45,140.83,139.00,4131.71,261.55,111.57,256.06
+"Energy",kcal,30,46,46,1355,86,37,84
+"Protein",g,0.61,0.94,0.93,27.56,1.74,0.74,1.71
+"Total lipid (fat)",g,0.15,0.23,0.23,6.78,0.43,0.18,0.42
+"Carbohydrate, by difference",g,7.55,11.63,11.48,341.11,21.59,9.21,21.14
+"Fiber, total dietary",g,0.4,0.6,0.6,18.1,1.1,0.5,1.1
+"Sugars, total",g,6.20,9.55,9.42,280.12,17.73,7.56,17.36
+Minerals
+"Calcium, Ca",mg,7,11,11,316,20,9,20
+"Iron, Fe",mg,0.24,0.37,0.36,10.84,0.69,0.29,0.67
+"Magnesium, Mg",mg,10,15,15,452,29,12,28
+"Phosphorus, P",mg,11,17,17,497,31,13,31
+"Potassium, K",mg,112,172,170,5060,320,137,314
+"Sodium, Na",mg,1,2,2,45,3,1,3
+"Zinc, Zn",mg,0.10,0.15,0.15,4.52,0.29,0.12,0.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.1,12.5,12.3,366.0,23.2,9.9,22.7
+"Thiamin",mg,0.033,0.051,0.050,1.491,0.094,0.040,0.092
+"Riboflavin",mg,0.021,0.032,0.032,0.949,0.060,0.026,0.059
+"Niacin",mg,0.178,0.274,0.271,8.042,0.509,0.217,0.498
+"Vitamin B-6",mg,0.045,0.069,0.068,2.033,0.129,0.055,0.126
+"Folate, DFE",µg,3,5,5,136,9,4,8
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,28,43,43,1265,80,34,78
+"Vitamin A, IU",IU,569,876,865,25707,1627,694,1593
+"Vitamin E (alpha-tocopherol)",mg,0.05,0.08,0.08,2.26,0.14,0.06,0.14
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.2,0.2,4.5,0.3,0.1,0.3
+Lipids
+"Fatty acids, total saturated",g,0.016,0.025,0.024,0.723,0.046,0.020,0.045
+"Fatty acids, total monounsaturated",g,0.037,0.057,0.056,1.672,0.106,0.045,0.104
+"Fatty acids, total polyunsaturated",g,0.050,0.077,0.076,2.259,0.143,0.061,0.140
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

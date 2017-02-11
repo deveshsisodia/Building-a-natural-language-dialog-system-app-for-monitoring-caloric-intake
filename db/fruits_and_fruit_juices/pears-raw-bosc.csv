@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:13 EST
+"Nutrient data for: 09414, Pears, raw, bosc"
+Nutrient,Unit,1Value per 100 g,"1 cup, sliced = 140.0g","1 small = 159.0g","1 medium = 179.0g","1 large = 219.0g",
+Proximates
+"Water",g,83.18,116.45,132.26,148.89,182.16
+"Energy",kcal,67,94,107,120,147
+"Protein",g,0.36,0.50,0.57,0.64,0.79
+"Total lipid (fat)",g,0.09,0.13,0.14,0.16,0.20
+"Carbohydrate, by difference",g,16.10,22.54,25.60,28.82,35.26
+"Fiber, total dietary",g,3.1,4.3,4.9,5.5,6.8
+"Sugars, total",g,10.23,14.32,16.27,18.31,22.40
+Minerals
+"Calcium, Ca",mg,10,14,16,18,22
+"Iron, Fe",mg,0.15,0.21,0.24,0.27,0.33
+"Magnesium, Mg",mg,7,10,11,13,15
+"Phosphorus, P",mg,14,20,22,25,31
+"Potassium, K",mg,122,171,194,218,267
+"Sodium, Na",mg,1,1,2,2,2
+"Zinc, Zn",mg,0.13,0.18,0.21,0.23,0.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.8,3.9,4.5,5.0,6.1
+"Thiamin",mg,0.012,0.017,0.019,0.021,0.026
+"Riboflavin",mg,0.023,0.032,0.037,0.041,0.050
+"Niacin",mg,0.152,0.213,0.242,0.272,0.333
+"Vitamin B-6",mg,0.021,0.029,0.033,0.038,0.046
+"Vitamin A, RAE",µg,1,1,2,2,2
+"Vitamin A, IU",IU,19,27,30,34,42
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.17,0.19,0.21,0.26
+"Vitamin K (phylloquinone)",µg,5.2,7.3,8.3,9.3,11.4
+Lipids
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+Amino Acids
+Other

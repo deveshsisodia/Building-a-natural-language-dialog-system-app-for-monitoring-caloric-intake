@@ -1,0 +1,24 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:05 EST
+"Nutrient data for: 06729, Soup, sirloin burger with vegetables, ready-to-serve, single brand"
+Nutrient,Unit,1Value per 100 g,"1 serving = 240.0g","1 package yields = 539.0g",
+Proximates
+"Water",g,84.10,201.84,453.30
+"Energy",kcal,77,185,415
+"Protein",g,4.20,10.08,22.64
+"Total lipid (fat)",g,3.70,8.88,19.94
+"Carbohydrate, by difference",g,6.80,16.32,36.65
+"Fiber, total dietary",g,2.3,5.5,12.4
+Minerals
+"Iron, Fe",mg,0.87,2.09,4.69
+"Sodium, Na",mg,361,866,1946
+Vitamins
+"Vitamin A, IU",IU,1250,3000,6738
+Lipids
+"Fatty acids, total saturated",g,1.330,3.192,7.169
+"Fatty acids, total monounsaturated",g,1.320,3.168,7.115
+"Fatty acids, total polyunsaturated",g,0.523,1.255,2.819
+"Cholesterol",mg,11,26,59
+Amino Acids
+Other

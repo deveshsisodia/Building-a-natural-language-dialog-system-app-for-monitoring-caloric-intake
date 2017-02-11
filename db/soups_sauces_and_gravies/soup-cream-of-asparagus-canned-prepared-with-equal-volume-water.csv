@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:03 EST
+"Nutrient data for: 06401, Soup, cream of asparagus, canned, prepared with equal volume water"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 244.0g","1 can (10.75 oz), prepared = 593.0g",
+Proximates
+"Water",g,91.80,223.99,544.37
+"Energy",kcal,35,85,208
+"Protein",g,0.94,2.29,5.57
+"Total lipid (fat)",g,1.68,4.10,9.96
+"Carbohydrate, by difference",g,4.38,10.69,25.97
+"Fiber, total dietary",g,0.2,0.5,1.2
+Minerals
+"Calcium, Ca",mg,12,29,71
+"Iron, Fe",mg,0.33,0.81,1.96
+"Magnesium, Mg",mg,2,5,12
+"Phosphorus, P",mg,16,39,95
+"Potassium, K",mg,71,173,421
+"Sodium, Na",mg,402,981,2384
+"Zinc, Zn",mg,0.36,0.88,2.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,2.7,6.5
+"Thiamin",mg,0.022,0.054,0.130
+"Riboflavin",mg,0.032,0.078,0.190
+"Niacin",mg,0.319,0.778,1.892
+"Vitamin B-6",mg,0.005,0.012,0.030
+"Folate, DFE",µg,9,22,53
+"Vitamin B-12",µg,0.02,0.05,0.12
+"Vitamin A, RAE",µg,15,37,89
+"Vitamin A, IU",IU,182,444,1079
+Lipids
+"Fatty acids, total saturated",g,0.430,1.049,2.550
+"Fatty acids, total monounsaturated",g,0.390,0.952,2.313
+"Fatty acids, total polyunsaturated",g,0.760,1.854,4.507
+"Cholesterol",mg,2,5,12
+Amino Acids
+Other

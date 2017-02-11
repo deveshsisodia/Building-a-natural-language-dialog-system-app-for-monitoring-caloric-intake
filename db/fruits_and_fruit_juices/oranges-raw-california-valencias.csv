@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:12 EST
+"Nutrient data for: 09201, Oranges, raw, California, valencias"
+Nutrient,Unit,1Value per 100 g,"1 cup sections, without membranes = 180.0g","1 fruit (2-5/8"" dia) = 121.0g",
+Proximates
+"Water",g,86.34,155.41,104.47
+"Energy",kcal,49,88,59
+"Protein",g,1.04,1.87,1.26
+"Total lipid (fat)",g,0.30,0.54,0.36
+"Carbohydrate, by difference",g,11.89,21.40,14.39
+"Fiber, total dietary",g,2.5,4.5,3.0
+Minerals
+"Calcium, Ca",mg,40,72,48
+"Iron, Fe",mg,0.09,0.16,0.11
+"Magnesium, Mg",mg,10,18,12
+"Phosphorus, P",mg,17,31,21
+"Potassium, K",mg,179,322,217
+"Sodium, Na",mg,0,0,0
+"Zinc, Zn",mg,0.06,0.11,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,48.5,87.3,58.7
+"Thiamin",mg,0.087,0.157,0.105
+"Riboflavin",mg,0.040,0.072,0.048
+"Niacin",mg,0.274,0.493,0.332
+"Vitamin B-6",mg,0.063,0.113,0.076
+"Folate, DFE",µg,39,70,47
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,12,22,15
+"Vitamin A, IU",IU,230,414,278
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.035,0.063,0.042
+"Fatty acids, total monounsaturated",g,0.055,0.099,0.067
+"Fatty acids, total polyunsaturated",g,0.060,0.108,0.073
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:02 EST
+"Nutrient data for: 06966, Soup, chicken noodle, low sodium, canned, prepared with equal volume water"
+Nutrient,Unit,1Value per 100 g,"1 serving 1 cup = 248.0g","1 fl oz = 31.0g",
+Proximates
+"Water",g,93.82,232.67,29.08
+"Energy",kcal,25,62,8
+"Protein",g,1.27,3.15,0.39
+"Total lipid (fat)",g,0.95,2.36,0.29
+"Carbohydrate, by difference",g,2.95,7.32,0.91
+"Fiber, total dietary",g,0.2,0.5,0.1
+"Sugars, total",g,0.27,0.67,0.08
+Minerals
+"Calcium, Ca",mg,6,15,2
+"Iron, Fe",mg,0.66,1.64,0.20
+"Magnesium, Mg",mg,4,10,1
+"Phosphorus, P",mg,17,42,5
+"Potassium, K",mg,22,55,7
+"Sodium, Na",mg,173,429,54
+"Zinc, Zn",mg,0.16,0.40,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.055,0.136,0.017
+"Riboflavin",mg,0.045,0.112,0.014
+"Niacin",mg,0.540,1.339,0.167
+"Vitamin B-6",mg,0.020,0.050,0.006
+"Folate, DFE",µg,12,30,4
+"Vitamin B-12",µg,0.02,0.05,0.01
+"Vitamin A, RAE",µg,11,27,3
+"Vitamin A, IU",IU,201,498,62
+"Vitamin E (alpha-tocopherol)",mg,0.03,0.07,0.01
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.262,0.650,0.081
+"Fatty acids, total monounsaturated",g,0.418,1.037,0.130
+"Fatty acids, total polyunsaturated",g,0.264,0.655,0.082
+"Fatty acids, total trans",g,0.003,0.007,0.001
+"Cholesterol",mg,5,12,2
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

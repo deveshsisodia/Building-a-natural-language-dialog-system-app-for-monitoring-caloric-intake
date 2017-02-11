@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:00 EST
+"Nutrient data for: 06969, Potato soup, instant, dry mix"
+Nutrient,Unit,1Value per 100 g,"1 serving 1/3 cup = 39.0g",
+Proximates
+"Water",g,5.80,2.26
+"Energy",kcal,343,134
+"Protein",g,9.20,3.59
+"Total lipid (fat)",g,3.10,1.21
+"Carbohydrate, by difference",g,76.14,29.69
+"Fiber, total dietary",g,7.6,3.0
+"Sugars, total",g,10.00,3.90
+Minerals
+"Calcium, Ca",mg,172,67
+"Iron, Fe",mg,2.38,0.93
+"Magnesium, Mg",mg,62,24
+"Phosphorus, P",mg,279,109
+"Potassium, K",mg,1248,487
+"Sodium, Na",mg,2400,936
+"Zinc, Zn",mg,0.91,0.35
+Vitamins
+"Vitamin C, total ascorbic acid",mg,16.0,6.2
+"Thiamin",mg,0.110,0.043
+"Riboflavin",mg,0.220,0.086
+"Niacin",mg,4.270,1.665
+"Vitamin B-6",mg,0.160,0.062
+"Folate, DFE",µg,64,25
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,3,1
+"Vitamin A, IU",IU,60,23
+"Vitamin E (alpha-tocopherol)",mg,0.54,0.21
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,13.9,5.4
+Lipids
+"Fatty acids, total saturated",g,0.613,0.239
+"Fatty acids, total monounsaturated",g,1.185,0.462
+"Fatty acids, total polyunsaturated",g,1.025,0.400
+"Cholesterol",mg,12,5
+Amino Acids
+Other
+"Caffeine",mg,0,0

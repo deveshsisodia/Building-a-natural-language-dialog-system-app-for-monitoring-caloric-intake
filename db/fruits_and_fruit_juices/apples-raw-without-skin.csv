@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:06 EST
+"Nutrient data for: 09004, Apples, raw, without skin"
+Nutrient,Unit,1Value per 100 g,"1 cup slices = 110.0g","1 large (3-1/4"" dia) = 216.0g","1 medium (3"" dia) = 161.0g","1 small (2-3/4"" dia) = 132.0g",
+Proximates
+"Water",g,86.67,95.34,187.21,139.54,114.40
+"Energy",kcal,48,53,104,77,63
+"Protein",g,0.27,0.30,0.58,0.43,0.36
+"Total lipid (fat)",g,0.13,0.14,0.28,0.21,0.17
+"Carbohydrate, by difference",g,12.76,14.04,27.56,20.54,16.84
+"Fiber, total dietary",g,1.3,1.4,2.8,2.1,1.7
+"Sugars, total",g,10.10,11.11,21.82,16.26,13.33
+Minerals
+"Calcium, Ca",mg,5,6,11,8,7
+"Iron, Fe",mg,0.07,0.08,0.15,0.11,0.09
+"Magnesium, Mg",mg,4,4,9,6,5
+"Phosphorus, P",mg,11,12,24,18,15
+"Potassium, K",mg,90,99,194,145,119
+"Sodium, Na",mg,0,0,0,0,0
+"Zinc, Zn",mg,0.05,0.06,0.11,0.08,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.0,4.4,8.6,6.4,5.3
+"Thiamin",mg,0.019,0.021,0.041,0.031,0.025
+"Riboflavin",mg,0.028,0.031,0.060,0.045,0.037
+"Niacin",mg,0.091,0.100,0.197,0.147,0.120
+"Vitamin B-6",mg,0.037,0.041,0.080,0.060,0.049
+"Folate, DFE",µg,0,0,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,2,2,4,3,3
+"Vitamin A, IU",IU,38,42,82,61,50
+"Vitamin E (alpha-tocopherol)",mg,0.05,0.06,0.11,0.08,0.07
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.6,0.7,1.3,1.0,0.8
+Lipids
+"Fatty acids, total saturated",g,0.021,0.023,0.045,0.034,0.028
+"Fatty acids, total monounsaturated",g,0.005,0.006,0.011,0.008,0.007
+"Fatty acids, total polyunsaturated",g,0.037,0.041,0.080,0.060,0.049
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

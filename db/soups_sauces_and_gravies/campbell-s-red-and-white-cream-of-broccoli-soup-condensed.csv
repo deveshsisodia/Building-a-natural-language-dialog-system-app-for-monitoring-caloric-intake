@@ -1,0 +1,29 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 02:58 EST
+"Nutrient data for: 06333, CAMPBELL'S Red and White, Cream of Broccoli Soup, condensed"
+Nutrient,Unit,1Value per 100 g,"1 serving 1/2 cup = 124.0g",
+Proximates
+"Water",g,84.80,105.15
+"Energy",kcal,73,91
+"Protein",g,1.61,2.00
+"Total lipid (fat)",g,4.03,5.00
+"Carbohydrate, by difference",g,9.68,12.00
+"Fiber, total dietary",g,0.8,1.0
+"Sugars, total",g,2.42,3.00
+Minerals
+"Calcium, Ca",mg,16,20
+"Iron, Fe",mg,0.29,0.36
+"Potassium, K",mg,77,95
+"Sodium, Na",mg,605,750
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,1.2
+"Vitamin A, IU",IU,242,300
+Lipids
+"Fatty acids, total saturated",g,1.210,1.500
+"Fatty acids, total monounsaturated",g,0.806,0.999
+"Fatty acids, total polyunsaturated",g,2.016,2.500
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,4,5
+Amino Acids
+Other

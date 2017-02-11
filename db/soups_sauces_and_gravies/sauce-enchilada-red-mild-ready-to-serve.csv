@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:00 EST
+"Nutrient data for: 27063, Sauce, enchilada, red, mild, ready to serve"
+Nutrient,Unit,1Value per 100 g,"0.25 cup = 56.0g","1 cup = 224.0g","1 can = 283.0g",
+Proximates
+"Water",g,91.78,51.40,205.59,259.74
+"Energy",kcal,30,17,67,85
+"Protein",g,0.62,0.35,1.39,1.75
+"Total lipid (fat)",g,0.91,0.51,2.04,2.58
+"Carbohydrate, by difference",g,4.87,2.73,10.91,13.78
+"Fiber, total dietary",g,0.5,0.3,1.1,1.4
+"Sugars, total",g,1.83,1.02,4.10,5.18
+Minerals
+"Calcium, Ca",mg,7,4,16,20
+"Iron, Fe",mg,0.67,0.38,1.50,1.90
+"Magnesium, Mg",mg,6,3,13,17
+"Phosphorus, P",mg,11,6,25,31
+"Potassium, K",mg,101,57,226,286
+"Sodium, Na",mg,547,306,1225,1548
+"Zinc, Zn",mg,0.09,0.05,0.20,0.25
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.2,0.7,0.8
+"Thiamin",mg,0.040,0.022,0.090,0.113
+"Riboflavin",mg,0.055,0.031,0.123,0.156
+"Niacin",mg,0.388,0.217,0.869,1.098
+"Vitamin B-6",mg,0.059,0.033,0.132,0.167
+"Folate, DFE",µg,5,3,11,14
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,36,20,81,102
+"Vitamin A, IU",IU,717,402,1606,2029
+"Vitamin E (alpha-tocopherol)",mg,0.70,0.39,1.57,1.98
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,2.8,1.6,6.3,7.9
+Lipids
+"Fatty acids, total saturated",g,0.111,0.062,0.249,0.314
+"Fatty acids, total monounsaturated",g,0.068,0.038,0.152,0.192
+"Fatty acids, total polyunsaturated",g,0.276,0.155,0.618,0.781
+"Fatty acids, total trans",g,0.003,0.002,0.007,0.008
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

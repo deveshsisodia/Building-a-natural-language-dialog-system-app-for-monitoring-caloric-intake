@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:08 EST
+"Nutrient data for: 09063, Cherries, sour, red, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, without pits = 155.0g","1 cup, with pits, yields = 103.0g",
+Proximates
+"Water",g,86.13,133.50,88.71
+"Energy",kcal,50,78,52
+"Protein",g,1.00,1.55,1.03
+"Total lipid (fat)",g,0.30,0.47,0.31
+"Carbohydrate, by difference",g,12.18,18.88,12.55
+"Fiber, total dietary",g,1.6,2.5,1.6
+"Sugars, total",g,8.49,13.16,8.74
+Minerals
+"Calcium, Ca",mg,16,25,16
+"Iron, Fe",mg,0.32,0.50,0.33
+"Magnesium, Mg",mg,9,14,9
+"Phosphorus, P",mg,15,23,15
+"Potassium, K",mg,173,268,178
+"Sodium, Na",mg,3,5,3
+"Zinc, Zn",mg,0.10,0.15,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,10.0,15.5,10.3
+"Thiamin",mg,0.030,0.046,0.031
+"Riboflavin",mg,0.040,0.062,0.041
+"Niacin",mg,0.400,0.620,0.412
+"Vitamin B-6",mg,0.044,0.068,0.045
+"Folate, DFE",µg,8,12,8
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,64,99,66
+"Vitamin A, IU",IU,1283,1989,1321
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.11,0.07
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,2.1,3.3,2.2
+Lipids
+"Fatty acids, total saturated",g,0.068,0.105,0.070
+"Fatty acids, total monounsaturated",g,0.082,0.127,0.084
+"Fatty acids, total polyunsaturated",g,0.090,0.139,0.093
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

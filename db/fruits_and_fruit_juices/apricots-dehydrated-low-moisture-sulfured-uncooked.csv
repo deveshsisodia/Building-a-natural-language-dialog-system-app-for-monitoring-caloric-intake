@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:07 EST
+"Nutrient data for: 09030, Apricots, dehydrated (low-moisture), sulfured, uncooked"
+Nutrient,Unit,1Value per 100 g,"1 cup = 119.0g",
+Proximates
+"Water",g,7.50,8.93
+"Energy",kcal,320,381
+"Protein",g,4.90,5.83
+"Total lipid (fat)",g,0.62,0.74
+"Carbohydrate, by difference",g,82.89,98.64
+Minerals
+"Calcium, Ca",mg,61,73
+"Iron, Fe",mg,6.31,7.51
+"Magnesium, Mg",mg,63,75
+"Phosphorus, P",mg,157,187
+"Potassium, K",mg,1850,2202
+"Sodium, Na",mg,13,15
+"Zinc, Zn",mg,1.00,1.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,9.5,11.3
+"Thiamin",mg,0.043,0.051
+"Riboflavin",mg,0.148,0.176
+"Niacin",mg,3.580,4.260
+"Vitamin B-6",mg,0.520,0.619
+"Folate, DFE",µg,4,5
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,633,753
+"Vitamin A, IU",IU,12669,15076
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.043,0.051
+"Fatty acids, total monounsaturated",g,0.268,0.319
+"Fatty acids, total polyunsaturated",g,0.121,0.144
+"Cholesterol",mg,0,0
+Amino Acids
+Other

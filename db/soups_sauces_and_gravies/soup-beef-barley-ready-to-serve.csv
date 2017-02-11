@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:01 EST
+"Nutrient data for: 27062, Soup, beef barley, ready to serve"
+Nutrient,Unit,1Value per 100 g,"1 cup = 208.0g","1 can = 527.0g",
+Proximates
+"Water",g,87.35,181.69,460.33
+"Energy",kcal,52,108,274
+"Protein",g,2.81,5.84,14.81
+"Total lipid (fat)",g,0.96,2.00,5.06
+"Carbohydrate, by difference",g,7.94,16.52,41.84
+"Fiber, total dietary",g,0.9,1.9,4.7
+"Sugars, total",g,1.22,2.54,6.43
+Minerals
+"Calcium, Ca",mg,11,23,58
+"Iron, Fe",mg,0.45,0.94,2.37
+"Magnesium, Mg",mg,9,19,47
+"Phosphorus, P",mg,50,104,264
+"Potassium, K",mg,121,252,638
+"Sodium, Na",mg,297,618,1565
+"Zinc, Zn",mg,0.50,1.04,2.63
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,1.0,2.6
+"Thiamin",mg,0.027,0.056,0.142
+"Riboflavin",mg,0.085,0.177,0.448
+"Niacin",mg,0.933,1.941,4.917
+"Vitamin B-6",mg,0.078,0.162,0.411
+"Folate, DFE",µg,11,23,58
+"Vitamin B-12",µg,0.15,0.31,0.79
+"Vitamin A, RAE",µg,14,29,74
+"Vitamin A, IU",IU,279,580,1470
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.25,0.63
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.4,0.8,2.1
+Lipids
+"Fatty acids, total saturated",g,0.329,0.684,1.734
+"Fatty acids, total monounsaturated",g,0.349,0.726,1.839
+"Fatty acids, total polyunsaturated",g,0.232,0.483,1.223
+"Fatty acids, total trans",g,0.034,0.071,0.179
+"Cholesterol",mg,4,8,21
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

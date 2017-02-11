@@ -1,0 +1,32 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:00 EST
+"Nutrient data for: 27058, Sauce, barbecue, OPEN PIT, original"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 17.0g","0.5 cup = 137.0g","1 cup = 270.0g",
+Proximates
+"Water",g,64.96,11.04,89.00,175.39
+"Energy",kcal,132,22,181,356
+"Protein",g,0.44,0.07,0.60,1.19
+"Total lipid (fat)",g,1.41,0.24,1.93,3.81
+"Carbohydrate, by difference",g,29.45,5.01,40.35,79.52
+"Fiber, total dietary",g,0.5,0.1,0.7,1.4
+"Sugars, total",g,23.49,3.99,32.18,63.42
+Minerals
+"Calcium, Ca",mg,20,3,27,54
+"Iron, Fe",mg,0.15,0.03,0.21,0.41
+"Magnesium, Mg",mg,5,1,7,14
+"Phosphorus, P",mg,17,3,23,46
+"Potassium, K",mg,56,10,77,151
+"Sodium, Na",mg,1517,258,2078,4096
+"Zinc, Zn",mg,0.12,0.02,0.16,0.32
+Vitamins
+"Thiamin",mg,0.015,0.003,0.021,0.041
+"Riboflavin",mg,0.022,0.004,0.030,0.059
+"Niacin",mg,0.160,0.027,0.219,0.432
+"Vitamin B-6",mg,0.015,0.003,0.021,0.041
+"Vitamin A, RAE",µg,1,0,1,3
+"Vitamin A, IU",IU,28,5,38,76
+"Vitamin E (alpha-tocopherol)",mg,0.21,0.04,0.29,0.57
+Lipids
+Amino Acids
+Other

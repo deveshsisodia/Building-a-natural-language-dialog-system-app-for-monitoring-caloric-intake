@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:06 EST
+"Nutrient data for: 09401, Applesauce, canned, unsweetened, with added ascorbic acid"
+Nutrient,Unit,1Value per 100 g,"1 cup = 244.0g",
+Proximates
+"Water",g,88.22,215.26
+"Energy",kcal,42,102
+"Protein",g,0.17,0.41
+"Total lipid (fat)",g,0.10,0.24
+"Carbohydrate, by difference",g,11.27,27.50
+"Fiber, total dietary",g,1.1,2.7
+"Sugars, total",g,9.39,22.91
+Minerals
+"Calcium, Ca",mg,4,10
+"Iron, Fe",mg,0.23,0.56
+"Magnesium, Mg",mg,3,7
+"Phosphorus, P",mg,5,12
+"Potassium, K",mg,74,181
+"Sodium, Na",mg,2,5
+"Zinc, Zn",mg,0.03,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,21.2,51.7
+"Thiamin",mg,0.026,0.063
+"Riboflavin",mg,0.030,0.073
+"Niacin",mg,0.084,0.205
+"Vitamin B-6",mg,0.027,0.066
+"Folate, DFE",µg,3,7
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1,2
+"Vitamin A, IU",IU,29,71
+"Vitamin E (alpha-tocopherol)",mg,0.16,0.39
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.5,1.2
+Lipids
+"Fatty acids, total saturated",g,0.008,0.020
+"Fatty acids, total monounsaturated",g,0.002,0.005
+"Fatty acids, total polyunsaturated",g,0.014,0.034
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

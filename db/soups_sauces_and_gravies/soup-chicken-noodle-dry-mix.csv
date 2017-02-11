@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:02 EST
+"Nutrient data for: 06128, Soup, chicken noodle, dry, mix"
+Nutrient,Unit,1Value per 100 g,"1 packet = 74.0g","1 packet (6 fl oz) = 11.1g",
+Proximates
+"Water",g,4.94,3.66,0.55
+"Energy",kcal,377,279,42
+"Protein",g,15.42,11.41,1.71
+"Total lipid (fat)",g,6.51,4.82,0.72
+"Carbohydrate, by difference",g,62.32,46.12,6.92
+"Fiber, total dietary",g,3.2,2.4,0.4
+"Sugars, total",g,1.90,1.41,0.21
+Minerals
+"Calcium, Ca",mg,55,41,6
+"Iron, Fe",mg,2.44,1.81,0.27
+"Magnesium, Mg",mg,38,28,4
+"Phosphorus, P",mg,195,144,22
+"Potassium, K",mg,306,226,34
+"Sodium, Na",mg,3643,2696,404
+"Zinc, Zn",mg,1.65,1.22,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.575,0.425,0.064
+"Riboflavin",mg,0.381,0.282,0.042
+"Niacin",mg,4.880,3.611,0.542
+"Vitamin B-6",mg,0.236,0.175,0.026
+"Folate, DFE",µg,115,85,13
+"Vitamin B-12",µg,0.75,0.56,0.08
+"Vitamin A, RAE",µg,8,6,1
+"Vitamin A, IU",IU,44,33,5
+"Vitamin E (alpha-tocopherol)",mg,0.33,0.24,0.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.0
+Lipids
+"Fatty acids, total saturated",g,1.969,1.457,0.219
+"Fatty acids, total monounsaturated",g,2.268,1.678,0.252
+"Fatty acids, total polyunsaturated",g,1.398,1.035,0.155
+"Cholesterol",mg,74,55,8
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

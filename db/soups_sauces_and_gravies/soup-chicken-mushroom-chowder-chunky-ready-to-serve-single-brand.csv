@@ -1,0 +1,25 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:02 EST
+"Nutrient data for: 06726, Soup, chicken mushroom chowder, chunky, ready-to-serve, single brand"
+Nutrient,Unit,1Value per 100 g,"1 serving = 240.0g","1 package yields = 539.0g",
+Proximates
+"Water",g,84.20,202.08,453.84
+"Energy",kcal,80,192,431
+"Protein",g,3.00,7.20,16.17
+"Total lipid (fat)",g,4.40,10.56,23.72
+"Carbohydrate, by difference",g,7.10,17.04,38.27
+"Fiber, total dietary",g,1.4,3.4,7.5
+Minerals
+"Iron, Fe",mg,0.48,1.15,2.59
+"Sodium, Na",mg,339,814,1827
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.0,4.8,10.8
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.150,2.760,6.198
+"Fatty acids, total monounsaturated",g,0.837,2.009,4.511
+"Fatty acids, total polyunsaturated",g,1.740,4.176,9.379
+"Cholesterol",mg,6,14,32
+Amino Acids
+Other

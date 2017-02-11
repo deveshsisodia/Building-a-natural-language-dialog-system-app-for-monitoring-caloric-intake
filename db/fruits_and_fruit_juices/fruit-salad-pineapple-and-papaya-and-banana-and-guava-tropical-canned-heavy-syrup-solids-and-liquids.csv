@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:09 EST
+"Nutrient data for: 09325, Fruit salad, (pineapple and papaya and banana and guava), tropical, canned, heavy syrup, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"1 cup = 257.0g",
+Proximates
+"Water",g,76.78,197.32
+"Energy",kcal,86,221
+"Protein",g,0.41,1.05
+"Total lipid (fat)",g,0.10,0.26
+"Carbohydrate, by difference",g,22.36,57.47
+"Fiber, total dietary",g,1.3,3.3
+Minerals
+"Calcium, Ca",mg,13,33
+"Iron, Fe",mg,0.52,1.34
+"Magnesium, Mg",mg,13,33
+"Phosphorus, P",mg,7,18
+"Potassium, K",mg,131,337
+"Sodium, Na",mg,2,5
+"Zinc, Zn",mg,0.11,0.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,17.5,45.0
+"Thiamin",mg,0.054,0.139
+"Riboflavin",mg,0.045,0.116
+"Niacin",mg,0.562,1.444
+"Vitamin B-6",mg,0.120,0.308
+"Folate, DFE",µg,9,23
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,6,15
+"Vitamin A, IU",IU,127,326
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.019,0.049
+"Fatty acids, total monounsaturated",g,0.018,0.046
+"Fatty acids, total polyunsaturated",g,0.032,0.082
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

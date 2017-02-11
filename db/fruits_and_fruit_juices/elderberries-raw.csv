@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:08 EST
+"Nutrient data for: 09088, Elderberries, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 145.0g",
+Proximates
+"Water",g,79.80,115.71
+"Energy",kcal,73,106
+"Protein",g,0.66,0.96
+"Total lipid (fat)",g,0.50,0.72
+"Carbohydrate, by difference",g,18.40,26.68
+"Fiber, total dietary",g,7.0,10.2
+Minerals
+"Calcium, Ca",mg,38,55
+"Iron, Fe",mg,1.60,2.32
+"Magnesium, Mg",mg,5,7
+"Phosphorus, P",mg,39,57
+"Potassium, K",mg,280,406
+"Sodium, Na",mg,6,9
+"Zinc, Zn",mg,0.11,0.16
+Vitamins
+"Vitamin C, total ascorbic acid",mg,36.0,52.2
+"Thiamin",mg,0.070,0.102
+"Riboflavin",mg,0.060,0.087
+"Niacin",mg,0.500,0.725
+"Vitamin B-6",mg,0.230,0.334
+"Folate, DFE",µg,6,9
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,30,44
+"Vitamin A, IU",IU,600,870
+Lipids
+"Fatty acids, total saturated",g,0.023,0.033
+"Fatty acids, total monounsaturated",g,0.080,0.116
+"Fatty acids, total polyunsaturated",g,0.247,0.358
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

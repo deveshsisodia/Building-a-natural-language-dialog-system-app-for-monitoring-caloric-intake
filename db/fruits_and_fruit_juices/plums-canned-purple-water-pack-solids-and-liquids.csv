@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:14 EST
+"Nutrient data for: 09281, Plums, canned, purple, water pack, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"1 cup, pitted = 249.0g","1 plum with liquid = 46.0g",
+Proximates
+"Water",g,88.35,219.99,40.64
+"Energy",kcal,41,102,19
+"Protein",g,0.39,0.97,0.18
+"Total lipid (fat)",g,0.01,0.02,0.00
+"Carbohydrate, by difference",g,11.03,27.46,5.07
+"Fiber, total dietary",g,0.9,2.2,0.4
+"Sugars, total",g,10.10,25.15,4.65
+Minerals
+"Calcium, Ca",mg,7,17,3
+"Iron, Fe",mg,0.16,0.40,0.07
+"Magnesium, Mg",mg,5,12,2
+"Phosphorus, P",mg,13,32,6
+"Potassium, K",mg,126,314,58
+"Sodium, Na",mg,1,2,0
+"Zinc, Zn",mg,0.08,0.20,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.7,6.7,1.2
+"Thiamin",mg,0.021,0.052,0.010
+"Riboflavin",mg,0.041,0.102,0.019
+"Niacin",mg,0.370,0.921,0.170
+"Vitamin B-6",mg,0.027,0.067,0.012
+"Folate, DFE",µg,3,7,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,46,115,21
+"Vitamin A, IU",IU,914,2276,420
+"Vitamin E (alpha-tocopherol)",mg,0.18,0.45,0.08
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,4.3,10.7,2.0
+Lipids
+"Fatty acids, total saturated",g,0.001,0.002,0.000
+"Fatty acids, total monounsaturated",g,0.005,0.012,0.002
+"Fatty acids, total polyunsaturated",g,0.002,0.005,0.001
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

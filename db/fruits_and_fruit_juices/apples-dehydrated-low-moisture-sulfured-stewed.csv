@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:06 EST
+"Nutrient data for: 09010, Apples, dehydrated (low moisture), sulfured, stewed"
+Nutrient,Unit,1Value per 100 g,"1 cup = 193.0g",
+Proximates
+"Water",g,79.36,153.16
+"Energy",kcal,74,143
+"Protein",g,0.28,0.54
+"Total lipid (fat)",g,0.12,0.23
+"Carbohydrate, by difference",g,19.91,38.43
+"Fiber, total dietary",g,2.6,5.0
+Minerals
+"Calcium, Ca",mg,4,8
+"Iron, Fe",mg,0.43,0.83
+"Magnesium, Mg",mg,5,10
+"Phosphorus, P",mg,12,23
+"Potassium, K",mg,136,262
+"Sodium, Na",mg,26,50
+"Zinc, Zn",mg,0.06,0.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,1.2
+"Thiamin",mg,0.008,0.015
+"Riboflavin",mg,0.029,0.056
+"Niacin",mg,0.140,0.270
+"Vitamin B-6",mg,0.054,0.104
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1,2
+"Vitamin A, IU",IU,19,37
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.020,0.039
+"Fatty acids, total monounsaturated",g,0.005,0.010
+"Fatty acids, total polyunsaturated",g,0.036,0.069
+"Cholesterol",mg,0,0
+Amino Acids
+Other

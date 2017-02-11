@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:10 EST
+"Nutrient data for: 09139, Guavas, common, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 165.0g","1 fruit, without refuse = 55.0g",
+Proximates
+"Water",g,80.80,133.32,44.44
+"Energy",kcal,68,112,37
+"Protein",g,2.55,4.21,1.40
+"Total lipid (fat)",g,0.95,1.57,0.52
+"Carbohydrate, by difference",g,14.32,23.63,7.88
+"Fiber, total dietary",g,5.4,8.9,3.0
+"Sugars, total",g,8.92,14.72,4.91
+Minerals
+"Calcium, Ca",mg,18,30,10
+"Iron, Fe",mg,0.26,0.43,0.14
+"Magnesium, Mg",mg,22,36,12
+"Phosphorus, P",mg,40,66,22
+"Potassium, K",mg,417,688,229
+"Sodium, Na",mg,2,3,1
+"Zinc, Zn",mg,0.23,0.38,0.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,228.3,376.7,125.6
+"Thiamin",mg,0.067,0.111,0.037
+"Riboflavin",mg,0.040,0.066,0.022
+"Niacin",mg,1.084,1.789,0.596
+"Vitamin B-6",mg,0.110,0.181,0.060
+"Folate, DFE",µg,49,81,27
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,31,51,17
+"Vitamin A, IU",IU,624,1030,343
+"Vitamin E (alpha-tocopherol)",mg,0.73,1.20,0.40
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,2.6,4.3,1.4
+Lipids
+"Fatty acids, total saturated",g,0.272,0.449,0.150
+"Fatty acids, total monounsaturated",g,0.087,0.144,0.048
+"Fatty acids, total polyunsaturated",g,0.401,0.662,0.221
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Pink fleshed"

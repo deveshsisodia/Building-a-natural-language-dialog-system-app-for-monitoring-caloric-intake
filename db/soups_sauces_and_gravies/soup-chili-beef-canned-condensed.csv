@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:03 EST
+"Nutrient data for: 06026, Soup, chili beef, canned, condensed"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 263.0g","1 can (11.25 oz) = 319.0g",
+Proximates
+"Water",g,70.86,186.36,226.04
+"Energy",kcal,117,308,373
+"Protein",g,5.09,13.39,16.24
+"Total lipid (fat)",g,2.53,6.65,8.07
+"Carbohydrate, by difference",g,18.86,49.60,60.16
+"Fiber, total dietary",g,2.5,6.6,8.0
+"Sugars, total",g,5.09,13.39,16.24
+Minerals
+"Calcium, Ca",mg,33,87,105
+"Iron, Fe",mg,1.62,4.26,5.17
+"Magnesium, Mg",mg,19,50,61
+"Phosphorus, P",mg,113,297,360
+"Potassium, K",mg,400,1052,1276
+"Sodium, Na",mg,788,2072,2514
+"Zinc, Zn",mg,1.56,4.10,4.98
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.1,8.2,9.9
+"Thiamin",mg,0.045,0.118,0.144
+"Riboflavin",mg,0.058,0.153,0.185
+"Niacin",mg,0.813,2.138,2.593
+"Vitamin B-6",mg,0.120,0.316,0.383
+"Folate, DFE",µg,9,24,29
+"Vitamin B-12",µg,0.30,0.79,0.96
+"Vitamin A, RAE",µg,57,150,182
+"Vitamin A, IU",IU,1149,3022,3665
+"Vitamin E (alpha-tocopherol)",mg,1.08,2.84,3.45
+"Vitamin K (phylloquinone)",µg,3.2,8.4,10.2
+Lipids
+"Fatty acids, total saturated",g,1.242,3.266,3.962
+"Fatty acids, total monounsaturated",g,1.013,2.664,3.231
+"Fatty acids, total polyunsaturated",g,0.095,0.250,0.303
+"Fatty acids, total trans",g,0.069,0.181,0.220
+"Cholesterol",mg,10,26,32
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

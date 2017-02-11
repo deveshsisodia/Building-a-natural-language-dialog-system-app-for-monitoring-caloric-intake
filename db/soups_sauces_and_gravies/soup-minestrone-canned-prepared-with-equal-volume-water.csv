@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:04 EST
+"Nutrient data for: 06440, Soup, minestrone, canned, prepared with equal volume water"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 241.0g","1 can (10.5 oz), prepared = 586.0g",
+Proximates
+"Water",g,91.33,220.11,535.19
+"Energy",kcal,34,82,199
+"Protein",g,1.77,4.27,10.37
+"Total lipid (fat)",g,1.04,2.51,6.09
+"Carbohydrate, by difference",g,4.66,11.23,27.31
+"Fiber, total dietary",g,0.4,1.0,2.3
+Minerals
+"Calcium, Ca",mg,14,34,82
+"Iron, Fe",mg,0.38,0.92,2.23
+"Magnesium, Mg",mg,3,7,18
+"Phosphorus, P",mg,23,55,135
+"Potassium, K",mg,130,313,762
+"Sodium, Na",mg,254,612,1488
+"Zinc, Zn",mg,0.31,0.75,1.82
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,1.2,2.9
+"Thiamin",mg,0.022,0.053,0.129
+"Riboflavin",mg,0.018,0.043,0.105
+"Niacin",mg,0.391,0.942,2.291
+"Vitamin B-6",mg,0.041,0.099,0.240
+"Folate, DFE",µg,21,51,123
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,49,118,287
+"Vitamin A, IU",IU,970,2338,5684
+Lipids
+"Fatty acids, total saturated",g,0.230,0.554,1.348
+"Fatty acids, total monounsaturated",g,0.290,0.699,1.699
+"Fatty acids, total polyunsaturated",g,0.460,1.109,2.696
+"Cholesterol",mg,1,2,6
+Amino Acids
+Other

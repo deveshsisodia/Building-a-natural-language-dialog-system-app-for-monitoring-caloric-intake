@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:13 EST
+"Nutrient data for: 09285, Plums, canned, purple, extra heavy syrup pack, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"1 cup, pitted = 261.0g",
+Proximates
+"Water",g,73.00,190.53
+"Energy",kcal,101,264
+"Protein",g,0.36,0.94
+"Total lipid (fat)",g,0.10,0.26
+"Carbohydrate, by difference",g,26.31,68.67
+"Fiber, total dietary",g,1.0,2.6
+Minerals
+"Calcium, Ca",mg,9,23
+"Iron, Fe",mg,0.82,2.14
+"Magnesium, Mg",mg,5,13
+"Phosphorus, P",mg,12,31
+"Potassium, K",mg,89,232
+"Sodium, Na",mg,19,50
+"Zinc, Zn",mg,0.07,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,1.0
+"Thiamin",mg,0.016,0.042
+"Riboflavin",mg,0.037,0.097
+"Niacin",mg,0.285,0.744
+"Vitamin B-6",mg,0.027,0.070
+"Folate, DFE",µg,3,8
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,13,34
+"Vitamin A, IU",IU,254,663
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.008,0.021
+"Fatty acids, total monounsaturated",g,0.065,0.170
+"Fatty acids, total polyunsaturated",g,0.021,0.055
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

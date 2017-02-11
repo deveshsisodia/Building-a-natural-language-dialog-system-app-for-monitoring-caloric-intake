@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:13 EST
+"Nutrient data for: 09252, Pears, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, slices = 140.0g","1 cup, cubes = 161.0g","1 small = 148.0g","1 medium = 178.0g","1 large = 230.0g","1 NLEA serving = 166.0g",
+Proximates
+"Water",g,83.96,117.54,135.18,124.26,149.45,193.11,139.37
+"Energy",kcal,57,80,92,84,101,131,95
+"Protein",g,0.36,0.50,0.58,0.53,0.64,0.83,0.60
+"Total lipid (fat)",g,0.14,0.20,0.23,0.21,0.25,0.32,0.23
+"Carbohydrate, by difference",g,15.23,21.32,24.52,22.54,27.11,35.03,25.28
+"Fiber, total dietary",g,3.1,4.3,5.0,4.6,5.5,7.1,5.1
+"Sugars, total",g,9.75,13.65,15.70,14.43,17.36,22.43,16.18
+Minerals
+"Calcium, Ca",mg,9,13,14,13,16,21,15
+"Iron, Fe",mg,0.18,0.25,0.29,0.27,0.32,0.41,0.30
+"Magnesium, Mg",mg,7,10,11,10,12,16,12
+"Phosphorus, P",mg,12,17,19,18,21,28,20
+"Potassium, K",mg,116,162,187,172,206,267,193
+"Sodium, Na",mg,1,1,2,1,2,2,2
+"Zinc, Zn",mg,0.10,0.14,0.16,0.15,0.18,0.23,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.3,6.0,6.9,6.4,7.7,9.9,7.1
+"Thiamin",mg,0.012,0.017,0.019,0.018,0.021,0.028,0.020
+"Riboflavin",mg,0.026,0.036,0.042,0.038,0.046,0.060,0.043
+"Niacin",mg,0.161,0.225,0.259,0.238,0.287,0.370,0.267
+"Vitamin B-6",mg,0.029,0.041,0.047,0.043,0.052,0.067,0.048
+"Folate, DFE",µg,7,10,11,10,12,16,12
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,1,2,1,2,2,2
+"Vitamin A, IU",IU,25,35,40,37,44,58,42
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.17,0.19,0.18,0.21,0.28,0.20
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,4.4,6.2,7.1,6.5,7.8,10.1,7.3
+Lipids
+"Fatty acids, total saturated",g,0.022,0.031,0.035,0.033,0.039,0.051,0.037
+"Fatty acids, total monounsaturated",g,0.084,0.118,0.135,0.124,0.150,0.193,0.139
+"Fatty acids, total polyunsaturated",g,0.094,0.132,0.151,0.139,0.167,0.216,0.156
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

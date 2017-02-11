@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 03:01 EST
+"Nutrient data for: 06004, Soup, bean with pork, canned, condensed"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 130.0g","1 can 11.5 oz = 326.0g",
+Proximates
+"Water",g,70.17,91.22,228.75
+"Energy",kcal,129,168,421
+"Protein",g,5.88,7.64,19.17
+"Total lipid (fat)",g,4.42,5.75,14.41
+"Carbohydrate, by difference",g,16.97,22.06,55.32
+"Fiber, total dietary",g,5.9,7.7,19.2
+"Sugars, total",g,3.00,3.90,9.78
+Minerals
+"Calcium, Ca",mg,60,78,196
+"Iron, Fe",mg,1.53,1.99,4.99
+"Magnesium, Mg",mg,33,43,108
+"Phosphorus, P",mg,98,127,319
+"Potassium, K",mg,375,488,1222
+"Sodium, Na",mg,672,874,2191
+"Zinc, Zn",mg,0.77,1.00,2.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.2,1.6,3.9
+"Thiamin",mg,0.065,0.085,0.212
+"Riboflavin",mg,0.025,0.033,0.082
+"Niacin",mg,0.421,0.547,1.372
+"Vitamin B-6",mg,0.031,0.040,0.101
+"Folate, DFE",µg,24,31,78
+"Vitamin B-12",µg,0.03,0.04,0.10
+"Vitamin A, RAE",µg,34,44,111
+"Vitamin A, IU",IU,662,861,2158
+"Vitamin E (alpha-tocopherol)",mg,0.87,1.13,2.84
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,2.4,3.1,7.8
+Lipids
+"Fatty acids, total saturated",g,1.140,1.482,3.716
+"Fatty acids, total monounsaturated",g,1.620,2.106,5.281
+"Fatty acids, total polyunsaturated",g,1.360,1.768,4.434
+"Cholesterol",mg,2,3,7
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
