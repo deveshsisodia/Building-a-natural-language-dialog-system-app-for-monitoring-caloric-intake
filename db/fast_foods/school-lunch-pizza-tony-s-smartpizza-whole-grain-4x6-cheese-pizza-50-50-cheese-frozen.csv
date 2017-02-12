@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:38 EST
+"Nutrient data for: 21147, School Lunch, pizza, TONY'S SMARTPIZZA Whole Grain 4x6 Cheese Pizza 50/50 Cheese, frozen"
+Nutrient,Unit,1Value per 100 g,"1 piece 4"" x 6"" = 130.0g",
+Proximates
+"Water",g,48.83,63.48
+"Energy",kcal,233,303
+"Protein",g,12.08,15.70
+"Total lipid (fat)",g,7.51,9.76
+"Carbohydrate, by difference",g,29.27,38.05
+"Fiber, total dietary",g,3.8,4.9
+"Sugars, total",g,6.76,8.79
+Minerals
+"Calcium, Ca",mg,207,269
+"Iron, Fe",mg,2.40,3.12
+"Magnesium, Mg",mg,48,62
+"Phosphorus, P",mg,300,390
+"Potassium, K",mg,331,430
+"Sodium, Na",mg,400,520
+"Zinc, Zn",mg,1.87,2.43
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.270,0.351
+"Riboflavin",mg,0.330,0.429
+"Niacin",mg,2.846,3.700
+"Vitamin B-6",mg,0.155,0.201
+"Vitamin B-12",µg,1.42,1.85
+"Vitamin A, IU",IU,324,421
+Lipids
+"Fatty acids, total saturated",g,2.790,3.627
+"Fatty acids, total monounsaturated",g,1.700,2.210
+"Fatty acids, total polyunsaturated",g,2.300,2.990
+"Fatty acids, total trans",g,0.200,0.260
+"Cholesterol",mg,12,16
+Amino Acids
+Other

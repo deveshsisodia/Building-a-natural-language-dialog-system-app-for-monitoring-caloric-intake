@@ -1,0 +1,30 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:06 EST
+"Nutrient data for: 17155, Veal, Australian, rib, rib roast, separable lean and fat, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 roast with bone = 325.0g",
+Proximates
+"Water",g,65.35,55.55,212.39
+"Energy",kcal,201,171,653
+"Protein",g,19.60,16.66,63.70
+"Total lipid (fat)",g,13.10,11.13,42.58
+"Carbohydrate, by difference",g,1.15,0.98,3.74
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,9,8,29
+"Iron, Fe",mg,1.46,1.24,4.75
+"Sodium, Na",mg,76,65,247
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Vitamin A, RAE",µg,8,7,26
+"Vitamin A, IU",IU,25,21,81
+Lipids
+"Fatty acids, total saturated",g,5.886,5.003,19.130
+"Fatty acids, total monounsaturated",g,5.192,4.413,16.874
+"Fatty acids, total polyunsaturated",g,0.588,0.500,1.911
+"Fatty acids, total trans",g,0.773,0.657,2.512
+"Cholesterol",mg,60,51,195
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

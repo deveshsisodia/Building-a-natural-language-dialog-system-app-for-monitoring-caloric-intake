@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:38 EST
+"Nutrient data for: 19154, Candies, sesame crunch"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece = 1.8g","20.0 pieces = 35.0g",
+Proximates
+"Water",g,2.20,0.62,0.04,0.77
+"Energy",kcal,516,146,9,181
+"Protein",g,11.60,3.29,0.21,4.06
+"Total lipid (fat)",g,33.30,9.44,0.60,11.65
+"Carbohydrate, by difference",g,50.30,14.26,0.91,17.61
+"Fiber, total dietary",g,7.7,2.2,0.1,2.7
+"Sugars, total",g,31.17,8.84,0.56,10.91
+Minerals
+"Calcium, Ca",mg,639,181,12,224
+"Iron, Fe",mg,4.27,1.21,0.08,1.49
+"Magnesium, Mg",mg,251,71,5,88
+"Phosphorus, P",mg,412,117,7,144
+"Potassium, K",mg,307,87,6,107
+"Sodium, Na",mg,167,47,3,58
+"Zinc, Zn",mg,3.76,1.07,0.07,1.32
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.444,0.126,0.008,0.155
+"Riboflavin",mg,0.159,0.045,0.003,0.056
+"Niacin",mg,3.703,1.050,0.067,1.296
+"Vitamin B-6",mg,0.491,0.139,0.009,0.172
+"Folate, DFE",µg,51,14,1,18
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,6,2,0,2
+"Vitamin E (alpha-tocopherol)",mg,0.16,0.05,0.00,0.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,4.662,1.322,0.084,1.632
+"Fatty acids, total monounsaturated",g,12.571,3.564,0.226,4.400
+"Fatty acids, total polyunsaturated",g,14.591,4.137,0.263,5.107
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:08 EST
+"Nutrient data for: 12135, Nuts, mixed nuts, dry roasted, with peanuts, without salt added"
+Nutrient,Unit,1Value per 100 g,"1 cup = 131.0g","1 oz = 28.35g",
+Proximates
+"Water",g,2.13,2.79,0.60
+"Energy",kcal,607,795,172
+"Protein",g,19.50,25.55,5.53
+"Total lipid (fat)",g,53.50,70.08,15.17
+"Carbohydrate, by difference",g,22.42,29.37,6.36
+"Fiber, total dietary",g,6.4,8.4,1.8
+"Sugars, total",g,5.00,6.55,1.42
+Minerals
+"Calcium, Ca",mg,87,114,25
+"Iron, Fe",mg,3.73,4.89,1.06
+"Magnesium, Mg",mg,227,297,64
+"Phosphorus, P",mg,438,574,124
+"Potassium, K",mg,643,842,182
+"Sodium, Na",mg,4,5,1
+"Zinc, Zn",mg,4.06,5.32,1.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,1.0,0.2
+"Thiamin",mg,0.300,0.393,0.085
+"Riboflavin",mg,0.400,0.524,0.113
+"Niacin",mg,6.220,8.148,1.763
+"Vitamin B-6",mg,0.360,0.472,0.102
+"Folate, DFE",µg,60,79,17
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,4,5,1
+"Vitamin E (alpha-tocopherol)",mg,6.13,8.03,1.74
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,12.0,15.7,3.4
+Lipids
+"Fatty acids, total saturated",g,8.010,10.493,2.271
+"Fatty acids, total monounsaturated",g,34.532,45.237,9.790
+"Fatty acids, total polyunsaturated",g,9.858,12.914,2.795
+"Fatty acids, total trans",g,0.033,0.043,0.009
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

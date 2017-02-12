@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:15 EST
+"Nutrient data for: 11001, Alfalfa seeds, sprouted, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 33.0g","1 tbsp = 3.0g",
+Proximates
+"Water",g,92.82,30.63,2.78
+"Energy",kcal,23,8,1
+"Protein",g,3.99,1.32,0.12
+"Total lipid (fat)",g,0.69,0.23,0.02
+"Carbohydrate, by difference",g,2.10,0.69,0.06
+"Fiber, total dietary",g,1.9,0.6,0.1
+"Sugars, total",g,0.20,0.07,0.01
+Minerals
+"Calcium, Ca",mg,32,11,1
+"Iron, Fe",mg,0.96,0.32,0.03
+"Magnesium, Mg",mg,27,9,1
+"Phosphorus, P",mg,70,23,2
+"Potassium, K",mg,79,26,2
+"Sodium, Na",mg,6,2,0
+"Zinc, Zn",mg,0.92,0.30,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.2,2.7,0.2
+"Thiamin",mg,0.076,0.025,0.002
+"Riboflavin",mg,0.126,0.042,0.004
+"Niacin",mg,0.481,0.159,0.014
+"Vitamin B-6",mg,0.034,0.011,0.001
+"Folate, DFE",µg,36,12,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,8,3,0
+"Vitamin A, IU",IU,155,51,5
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.01,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,30.5,10.1,0.9
+Lipids
+"Fatty acids, total saturated",g,0.069,0.023,0.002
+"Fatty acids, total monounsaturated",g,0.056,0.018,0.002
+"Fatty acids, total polyunsaturated",g,0.409,0.135,0.012
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

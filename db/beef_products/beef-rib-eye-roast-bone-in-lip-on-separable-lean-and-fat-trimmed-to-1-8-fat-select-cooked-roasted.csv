@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:47 EST
+"Nutrient data for: 23190, Beef, rib eye roast, bone-in, lip-on, separable lean and fat, trimmed to 1/8"" fat, select, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 roast = 2259.0g",
+Proximates
+"Water",g,54.66,46.46,1234.77
+"Energy",kcal,290,246,6551
+"Protein",g,23.36,19.86,527.70
+"Total lipid (fat)",g,21.85,18.57,493.59
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,14,12,316
+"Iron, Fe",mg,2.13,1.81,48.12
+"Magnesium, Mg",mg,21,18,474
+"Phosphorus, P",mg,149,127,3366
+"Potassium, K",mg,262,223,5919
+"Sodium, Na",mg,64,54,1446
+"Zinc, Zn",mg,5.39,4.58,121.76
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.071,0.060,1.604
+"Riboflavin",mg,0.296,0.252,6.687
+"Niacin",mg,4.897,4.162,110.623
+"Vitamin B-6",mg,0.507,0.431,11.453
+"Folate, DFE",µg,6,5,136
+"Vitamin B-12",µg,2.11,1.79,47.66
+"Vitamin A, RAE",µg,8,7,181
+"Vitamin A, IU",IU,27,23,610
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.06,1.58
+"Vitamin K (phylloquinone)",µg,1.6,1.4,36.1
+Lipids
+"Fatty acids, total saturated",g,9.562,8.128,216.006
+"Fatty acids, total monounsaturated",g,10.284,8.741,232.316
+"Fatty acids, total polyunsaturated",g,1.003,0.853,22.658
+"Fatty acids, total trans",g,1.462,1.243,33.027
+"Cholesterol",mg,79,67,1785
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

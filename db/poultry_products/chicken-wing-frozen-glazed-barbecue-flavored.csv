@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:36 EST
+"Nutrient data for: 05312, Chicken, wing, frozen, glazed, barbecue flavored"
+Nutrient,Unit,1Value per 100 g,"1 piece = 29.0g","1 serving = 86.0g",
+Proximates
+"Water",g,61.79,17.92,53.14
+"Energy",kcal,211,61,181
+"Protein",g,19.67,5.70,16.92
+"Total lipid (fat)",g,12.67,3.67,10.90
+"Carbohydrate, by difference",g,3.34,0.97,2.87
+"Fiber, total dietary",g,0.6,0.2,0.5
+"Sugars, total",g,2.04,0.59,1.75
+Minerals
+"Calcium, Ca",mg,28,8,24
+"Iron, Fe",mg,2.41,0.70,2.07
+"Magnesium, Mg",mg,20,6,17
+"Phosphorus, P",mg,205,59,176
+"Potassium, K",mg,190,55,163
+"Sodium, Na",mg,615,178,529
+"Zinc, Zn",mg,1.14,0.33,0.98
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.074,0.021,0.064
+"Riboflavin",mg,0.242,0.070,0.208
+"Niacin",mg,5.500,1.595,4.730
+"Vitamin B-6",mg,0.142,0.041,0.122
+"Folate, DFE",µg,10,3,9
+"Vitamin B-12",µg,0.40,0.12,0.34
+"Vitamin A, RAE",µg,17,5,15
+"Vitamin A, IU",IU,58,17,50
+"Vitamin E (alpha-tocopherol)",mg,0.36,0.10,0.31
+Lipids
+"Fatty acids, total saturated",g,3.321,0.963,2.856
+"Fatty acids, total monounsaturated",g,5.766,1.672,4.959
+"Fatty acids, total polyunsaturated",g,2.359,0.684,2.029
+"Cholesterol",mg,126,37,108
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

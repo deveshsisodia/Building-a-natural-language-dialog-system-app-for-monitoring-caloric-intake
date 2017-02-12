@@ -1,0 +1,31 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:29 EST
+"Nutrient data for: 35170, Seal, bearded (Oogruk), meat, low quadrant, raw (Alaska Native)"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,63.35,
+"Energy",kcal,186,
+"Protein",g,23.63,
+"Total lipid (fat)",g,10.17,
+"Carbohydrate, by difference",g,0.00,
+"Fiber, total dietary",g,0.0,
+"Sugars, total",g,0.00,
+Minerals
+"Calcium, Ca",mg,4,
+"Iron, Fe",mg,17.00,
+"Magnesium, Mg",mg,17,
+"Phosphorus, P",mg,140,
+"Potassium, K",mg,210,
+"Sodium, Na",mg,57,
+"Zinc, Zn",mg,2.60,
+Vitamins
+"Vitamin A, RAE",µg,195,
+"Vitamin A, IU",IU,648,
+"Vitamin E (alpha-tocopherol)",mg,0.27,
+"Vitamin K (phylloquinone)",µg,0.0,
+Lipids
+"Cholesterol",mg,121,
+Amino Acids
+Other
+"Caffeine",mg,0,

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:43 EST
+"Nutrient data for: 03068, Babyfood, dinner, chicken noodle, strained"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 16.0g","1 oz = 28.35g","1 jar = 113.0g","1 jar Gerber Second Food (4 oz) = 113.0g","1 jar Beech-Nut Stage 2 (4 oz) = 113.0g","1 jar Heinz Strained-2 (4 oz) = 113.0g",
+Proximates
+"Water",g,85.64,13.70,24.28,96.77,96.77,96.77,96.77
+"Energy",kcal,66,11,19,75,75,75,75
+"Protein",g,2.69,0.43,0.76,3.04,3.04,3.04,3.04
+"Total lipid (fat)",g,2.06,0.33,0.58,2.33,2.33,2.33,2.33
+"Carbohydrate, by difference",g,9.08,1.45,2.57,10.26,10.26,10.26,10.26
+"Fiber, total dietary",g,2.1,0.3,0.6,2.4,2.4,2.4,2.4
+"Sugars, total",g,2.50,0.40,0.71,2.83,2.83,2.83,2.83
+Minerals
+"Calcium, Ca",mg,27,4,8,31,31,31,31
+"Iron, Fe",mg,0.64,0.10,0.18,0.72,0.72,0.72,0.72
+"Magnesium, Mg",mg,14,2,4,16,16,16,16
+"Phosphorus, P",mg,46,7,13,52,52,52,52
+"Potassium, K",mg,139,22,39,157,157,157,157
+"Sodium, Na",mg,38,6,11,43,43,43,43
+"Zinc, Zn",mg,0.55,0.09,0.16,0.62,0.62,0.62,0.62
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0,0.0,0.1,0.1,0.1,0.1
+"Thiamin",mg,0.044,0.007,0.012,0.050,0.050,0.050,0.050
+"Riboflavin",mg,0.061,0.010,0.017,0.069,0.069,0.069,0.069
+"Niacin",mg,0.723,0.116,0.205,0.817,0.817,0.817,0.817
+"Vitamin B-6",mg,0.064,0.010,0.018,0.072,0.072,0.072,0.072
+"Folate, DFE",µg,13,2,4,15,15,15,15
+"Vitamin B-12",µg,0.02,0.00,0.01,0.02,0.02,0.02,0.02
+"Vitamin A, RAE",µg,110,18,31,124,124,124,124
+"Vitamin A, IU",IU,2182,349,619,2466,2466,2466,2466
+"Vitamin E (alpha-tocopherol)",mg,0.21,0.03,0.06,0.24,0.24,0.24,0.24
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.0,0.1,0.1,0.1,0.1
+"Vitamin D",IU,3,0,1,3,3,3,3
+"Vitamin K (phylloquinone)",µg,1.9,0.3,0.5,2.1,2.1,2.1,2.1
+Lipids
+"Fatty acids, total saturated",g,0.595,0.095,0.169,0.672,0.672,0.672,0.672
+"Fatty acids, total monounsaturated",g,0.854,0.137,0.242,0.965,0.965,0.965,0.965
+"Fatty acids, total polyunsaturated",g,0.461,0.074,0.131,0.521,0.521,0.521,0.521
+"Cholesterol",mg,16,3,5,18,18,18,18
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:31 EST
+"Nutrient data for: 11531, Tomatoes, red, ripe, canned, packed in tomato juice"
+Nutrient,Unit,1Value per 100 g,"1 cup = 240.0g","1 tbsp = 15.0g","1 can = 190.0g","1 large = 164.0g","1 medium = 111.0g","1 small = 82.0g",
+Proximates
+"Water",g,94.75,227.40,14.21,180.03,155.39,105.17,77.69
+"Energy",kcal,16,38,2,30,26,18,13
+"Protein",g,0.79,1.90,0.12,1.50,1.30,0.88,0.65
+"Total lipid (fat)",g,0.25,0.60,0.04,0.47,0.41,0.28,0.20
+"Carbohydrate, by difference",g,3.47,8.33,0.52,6.59,5.69,3.85,2.85
+"Fiber, total dietary",g,1.9,4.6,0.3,3.6,3.1,2.1,1.6
+"Sugars, total",g,2.55,6.12,0.38,4.84,4.18,2.83,2.09
+Minerals
+"Calcium, Ca",mg,33,79,5,63,54,37,27
+"Iron, Fe",mg,0.57,1.37,0.09,1.08,0.93,0.63,0.47
+"Magnesium, Mg",mg,10,24,2,19,16,11,8
+"Phosphorus, P",mg,17,41,3,32,28,19,14
+"Potassium, K",mg,191,458,29,363,313,212,157
+"Sodium, Na",mg,115,276,17,218,189,128,94
+"Zinc, Zn",mg,0.12,0.29,0.02,0.23,0.20,0.13,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,12.6,30.2,1.9,23.9,20.7,14.0,10.3
+"Thiamin",mg,0.575,1.380,0.086,1.092,0.943,0.638,0.471
+"Riboflavin",mg,0.055,0.132,0.008,0.104,0.090,0.061,0.045
+"Niacin",mg,0.712,1.709,0.107,1.353,1.168,0.790,0.584
+"Vitamin B-6",mg,0.111,0.266,0.017,0.211,0.182,0.123,0.091
+"Folate, DFE",µg,8,19,1,15,13,9,7
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,20,48,3,38,33,22,16
+"Vitamin A, IU",IU,408,979,61,775,669,453,335
+"Vitamin E (alpha-tocopherol)",mg,0.59,1.42,0.09,1.12,0.97,0.65,0.48
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,2.6,6.2,0.4,4.9,4.3,2.9,2.1
+Lipids
+"Fatty acids, total saturated",g,0.034,0.082,0.005,0.065,0.056,0.038,0.028
+"Fatty acids, total monounsaturated",g,0.040,0.096,0.006,0.076,0.066,0.044,0.033
+"Fatty acids, total polyunsaturated",g,0.101,0.242,0.015,0.192,0.166,0.112,0.083
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

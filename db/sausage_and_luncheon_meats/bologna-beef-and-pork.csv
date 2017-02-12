@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:13 EST
+"Nutrient data for: 07008, Bologna, beef and pork"
+Nutrient,Unit,1Value per 100 g,"3.527 oz = 100.0g",
+Proximates
+"Water",g,51.87,51.87
+"Energy",kcal,308,308
+"Protein",g,15.20,15.20
+"Total lipid (fat)",g,24.59,24.59
+"Carbohydrate, by difference",g,5.49,5.49
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,4.42,4.42
+Minerals
+"Calcium, Ca",mg,85,85
+"Iron, Fe",mg,1.21,1.21
+"Magnesium, Mg",mg,17,17
+"Phosphorus, P",mg,163,163
+"Potassium, K",mg,315,315
+"Sodium, Na",mg,960,960
+"Zinc, Zn",mg,2.30,2.30
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,0.8
+"Thiamin",mg,0.217,0.217
+"Riboflavin",mg,0.185,0.185
+"Niacin",mg,2.521,2.521
+"Vitamin B-6",mg,0.297,0.297
+"Folate, DFE",µg,6,6
+"Vitamin B-12",µg,1.82,1.82
+"Vitamin A, RAE",µg,25,25
+"Vitamin A, IU",IU,84,84
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.8,0.8
+"Vitamin D",IU,32,32
+"Vitamin K (phylloquinone)",µg,0.3,0.3
+Lipids
+"Fatty acids, total saturated",g,9.301,9.301
+"Fatty acids, total monounsaturated",g,10.526,10.526
+"Fatty acids, total polyunsaturated",g,1.120,1.120
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,60,60
+Amino Acids
+Other
+"Caffeine",mg,0,0

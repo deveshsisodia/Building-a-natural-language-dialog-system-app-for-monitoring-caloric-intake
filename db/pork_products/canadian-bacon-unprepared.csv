@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:36 EST
+"Nutrient data for: 10130, Canadian bacon, unprepared"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","2.0 slices (6 per 6-oz pkg.) = 57.0g","1 package (6 oz) = 170.0g",
+Proximates
+"Water",g,72.34,61.49,41.23,122.98
+"Energy",kcal,110,94,63,187
+"Protein",g,20.31,17.26,11.58,34.53
+"Total lipid (fat)",g,2.62,2.23,1.49,4.45
+"Carbohydrate, by difference",g,1.34,1.14,0.76,2.28
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.90,0.77,0.51,1.53
+Minerals
+"Calcium, Ca",mg,6,5,3,10
+"Iron, Fe",mg,0.44,0.37,0.25,0.75
+"Magnesium, Mg",mg,20,17,11,34
+"Phosphorus, P",mg,240,204,137,408
+"Potassium, K",mg,683,581,389,1161
+"Sodium, Na",mg,751,638,428,1277
+"Zinc, Zn",mg,1.23,1.05,0.70,2.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.511,0.434,0.291,0.869
+"Riboflavin",mg,0.141,0.120,0.080,0.240
+"Niacin",mg,7.227,6.143,4.119,12.286
+"Vitamin B-6",mg,0.241,0.205,0.137,0.410
+"Folate, DFE",µg,4,3,2,7
+"Vitamin B-12",µg,0.37,0.31,0.21,0.63
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.19,0.13,0.37
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.1,0.2
+"Vitamin D",IU,6,5,3,10
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.900,0.765,0.513,1.530
+"Fatty acids, total monounsaturated",g,1.090,0.927,0.621,1.853
+"Fatty acids, total polyunsaturated",g,0.467,0.397,0.266,0.794
+"Fatty acids, total trans",g,0.007,0.006,0.004,0.012
+"Cholesterol",mg,48,41,27,82
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

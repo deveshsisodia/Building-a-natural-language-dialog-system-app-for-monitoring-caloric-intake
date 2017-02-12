@@ -1,0 +1,45 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:10 EST
+"Nutrient data for: 12536, Seeds, sunflower seed kernels from shell, dry roasted, with salt added"
+Nutrient,Unit,1Value per 100 g,"1 cup = 128.0g","1 oz = 28.35g","1 package (1.875 oz) yields = 27.0g",
+Proximates
+"Water",g,1.20,1.54,0.34,0.32
+"Energy",kcal,546,699,155,147
+"Protein",g,19.33,24.74,5.48,5.22
+"Total lipid (fat)",g,49.80,63.74,14.12,13.45
+"Carbohydrate, by difference",g,15.31,19.60,4.34,4.13
+"Fiber, total dietary",g,9.0,11.5,2.6,2.4
+"Sugars, total",g,2.73,3.49,0.77,0.74
+Minerals
+"Calcium, Ca",mg,70,90,20,19
+"Iron, Fe",mg,3.80,4.86,1.08,1.03
+"Magnesium, Mg",mg,129,165,37,35
+"Phosphorus, P",mg,1155,1478,327,312
+"Potassium, K",mg,850,1088,241,230
+"Sodium, Na",mg,6008,7690,1703,1622
+"Zinc, Zn",mg,5.29,6.77,1.50,1.43
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.4,1.8,0.4,0.4
+"Thiamin",mg,0.106,0.136,0.030,0.029
+"Riboflavin",mg,0.246,0.315,0.070,0.066
+"Niacin",mg,7.042,9.014,1.996,1.901
+"Vitamin B-6",mg,0.804,1.029,0.228,0.217
+"Folate, DFE",µg,237,303,67,64
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,9,12,3,2
+"Vitamin E (alpha-tocopherol)",mg,26.10,33.41,7.40,7.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,2.7,3.5,0.8,0.7
+Lipids
+"Fatty acids, total saturated",g,5.219,6.680,1.480,1.409
+"Fatty acids, total monounsaturated",g,9.505,12.166,2.695,2.566
+"Fatty acids, total polyunsaturated",g,32.884,42.092,9.323,8.879
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0
+Footnotes
+(a)"Sodium includes salt on shells. Sodium from kernels only is 372 mg/100 g."

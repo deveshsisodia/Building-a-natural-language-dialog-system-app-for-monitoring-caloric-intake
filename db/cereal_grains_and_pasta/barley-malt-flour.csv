@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:11 EST
+"Nutrient data for: 20131, Barley malt flour"
+Nutrient,Unit,1Value per 100 g,"1 cup = 162.0g",
+Proximates
+"Water",g,8.21,13.30
+"Energy",kcal,361,585
+"Protein",g,10.28,16.65
+"Total lipid (fat)",g,1.84,2.98
+"Carbohydrate, by difference",g,78.30,126.85
+"Fiber, total dietary",g,7.1,11.5
+"Sugars, total",g,0.80,1.30
+Minerals
+"Calcium, Ca",mg,37,60
+"Iron, Fe",mg,4.71,7.63
+"Magnesium, Mg",mg,97,157
+"Phosphorus, P",mg,303,491
+"Potassium, K",mg,224,363
+"Sodium, Na",mg,11,18
+"Zinc, Zn",mg,2.06,3.34
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,1.0
+"Thiamin",mg,0.309,0.501
+"Riboflavin",mg,0.308,0.499
+"Niacin",mg,5.636,9.130
+"Vitamin B-6",mg,0.655,1.061
+"Folate, DFE",µg,38,62
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1,2
+"Vitamin A, IU",IU,19,31
+"Vitamin E (alpha-tocopherol)",mg,0.57,0.92
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.2,3.6
+Lipids
+"Fatty acids, total saturated",g,0.386,0.625
+"Fatty acids, total monounsaturated",g,0.254,0.411
+"Fatty acids, total polyunsaturated",g,0.953,1.544
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

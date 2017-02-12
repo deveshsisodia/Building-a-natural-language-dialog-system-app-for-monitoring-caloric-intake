@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:30 EST
+"Nutrient data for: 11860, Squash, summer, scallop, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"0.5 cup slices = 90.0g","0.5 cup, mashed = 120.0g",
+Proximates
+"Water",g,95.00,85.50,114.00
+"Energy",kcal,16,14,19
+"Protein",g,1.03,0.93,1.24
+"Total lipid (fat)",g,0.17,0.15,0.20
+"Carbohydrate, by difference",g,3.30,2.97,3.96
+"Fiber, total dietary",g,1.9,1.7,2.3
+"Sugars, total",g,1.50,1.35,1.80
+Minerals
+"Calcium, Ca",mg,15,14,18
+"Iron, Fe",mg,0.33,0.30,0.40
+"Magnesium, Mg",mg,19,17,23
+"Phosphorus, P",mg,28,25,34
+"Potassium, K",mg,140,126,168
+"Sodium, Na",mg,237,213,284
+"Zinc, Zn",mg,0.24,0.22,0.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,10.8,9.7,13.0
+"Thiamin",mg,0.051,0.046,0.061
+"Riboflavin",mg,0.025,0.022,0.030
+"Niacin",mg,0.464,0.418,0.557
+"Vitamin B-6",mg,0.085,0.076,0.102
+"Folate, DFE",µg,21,19,25
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,4,4,5
+"Vitamin A, IU",IU,85,76,102
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.11,0.14
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,3.5,3.1,4.2
+Lipids
+"Fatty acids, total saturated",g,0.035,0.032,0.042
+"Fatty acids, total monounsaturated",g,0.013,0.012,0.016
+"Fatty acids, total polyunsaturated",g,0.072,0.065,0.086
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

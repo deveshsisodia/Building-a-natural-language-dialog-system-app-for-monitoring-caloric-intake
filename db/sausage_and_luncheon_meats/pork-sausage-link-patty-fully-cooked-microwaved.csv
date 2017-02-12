@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:17 EST
+"Nutrient data for: 07953, Pork sausage, link/patty, fully cooked, microwaved"
+Nutrient,Unit,1Value per 100 g,"1 patty = 30.0g","1 link = 21.0g","1 serving = 48.0g",
+Proximates
+"Water",g,39.64,11.89,8.32,19.03
+"Energy",kcal,438,131,92,210
+"Protein",g,15.12,4.54,3.18,7.26
+"Total lipid (fat)",g,41.66,12.50,8.75,20.00
+"Carbohydrate, by difference",g,0.62,0.19,0.13,0.30
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.62,0.19,0.13,0.30
+Minerals
+"Calcium, Ca",mg,17,5,4,8
+"Iron, Fe",mg,0.95,0.28,0.20,0.46
+"Magnesium, Mg",mg,15,4,3,7
+"Phosphorus, P",mg,193,58,41,93
+"Potassium, K",mg,225,68,47,108
+"Sodium, Na",mg,990,297,208,475
+"Zinc, Zn",mg,1.59,0.48,0.33,0.76
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.243,0.073,0.051,0.117
+"Riboflavin",mg,0.180,0.054,0.038,0.086
+"Niacin",mg,4.328,1.298,0.909,2.077
+"Vitamin B-6",mg,0.137,0.041,0.029,0.066
+"Folate, DFE",µg,1,0,0,0
+"Vitamin B-12",µg,0.76,0.23,0.16,0.36
+"Vitamin A, RAE",µg,22,7,5,11
+"Vitamin A, IU",IU,75,22,16,36
+"Vitamin E (alpha-tocopherol)",mg,0.88,0.26,0.18,0.42
+"Vitamin D (D2 + D3)",µg,1.0,0.3,0.2,0.5
+"Vitamin D",IU,41,12,9,20
+"Vitamin K (phylloquinone)",µg,2.9,0.9,0.6,1.4
+Lipids
+"Fatty acids, total saturated",g,13.557,4.067,2.847,6.507
+"Fatty acids, total monounsaturated",g,16.448,4.934,3.454,7.895
+"Fatty acids, total polyunsaturated",g,8.041,2.412,1.689,3.860
+"Fatty acids, total trans",g,0.209,0.063,0.044,0.100
+"Cholesterol",mg,79,24,17,38
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:46 EST
+"Nutrient data for: 03016, Babyfood, meat, turkey, junior"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 19.0g","1 container = 68.0g",
+Proximates
+"Water",g,80.32,15.26,54.62
+"Energy",kcal,111,21,75
+"Protein",g,11.50,2.19,7.82
+"Total lipid (fat)",g,6.20,1.18,4.22
+"Carbohydrate, by difference",g,1.40,0.27,0.95
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,41,8,28
+"Iron, Fe",mg,0.70,0.13,0.48
+"Magnesium, Mg",mg,12,2,8
+"Phosphorus, P",mg,117,22,80
+"Potassium, K",mg,135,26,92
+"Sodium, Na",mg,49,9,33
+"Zinc, Zn",mg,1.77,0.34,1.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.008,0.002,0.005
+"Riboflavin",mg,0.163,0.031,0.111
+"Niacin",mg,2.610,0.496,1.775
+"Vitamin B-6",mg,0.029,0.006,0.020
+"Folate, DFE",µg,8,2,5
+"Vitamin B-12",µg,1.11,0.21,0.75
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.08,0.02,0.05
+"Vitamin D (D2 + D3)",µg,0.8,0.2,0.5
+"Vitamin D",IU,34,6,23
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.641,0.312,1.116
+"Fatty acids, total monounsaturated",g,2.384,0.453,1.621
+"Fatty acids, total polyunsaturated",g,1.741,0.331,1.184
+"Cholesterol",mg,58,11,39
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

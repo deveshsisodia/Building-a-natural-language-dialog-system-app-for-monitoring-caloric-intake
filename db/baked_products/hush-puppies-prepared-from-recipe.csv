@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:38 EST
+"Nutrient data for: 18270, Hush puppies, prepared from recipe"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cup = 152.0g","1 hush puppy = 22.0g",
+Proximates
+"Water",g,29.00,8.22,44.08,6.38
+"Energy",kcal,337,96,512,74
+"Protein",g,7.70,2.18,11.70,1.69
+"Total lipid (fat)",g,13.50,3.83,20.52,2.97
+"Carbohydrate, by difference",g,46.00,13.04,69.92,10.12
+"Fiber, total dietary",g,2.8,0.8,4.3,0.6
+"Sugars, total",g,2.03,0.58,3.09,0.45
+Minerals
+"Calcium, Ca",mg,278,79,423,61
+"Iron, Fe",mg,3.04,0.86,4.62,0.67
+"Magnesium, Mg",mg,24,7,36,5
+"Phosphorus, P",mg,189,54,287,42
+"Potassium, K",mg,144,41,219,32
+"Sodium, Na",mg,668,189,1015,147
+"Zinc, Zn",mg,0.66,0.19,1.00,0.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1,0.3,0.0
+"Thiamin",mg,0.352,0.100,0.535,0.077
+"Riboflavin",mg,0.332,0.094,0.505,0.073
+"Niacin",mg,2.782,0.789,4.229,0.612
+"Vitamin B-6",mg,0.102,0.029,0.155,0.022
+"Folate, DFE",µg,137,39,208,30
+"Vitamin B-12",µg,0.19,0.05,0.29,0.04
+"Vitamin A, RAE",µg,41,12,62,9
+"Vitamin A, IU",IU,186,53,283,41
+"Vitamin E (alpha-tocopherol)",mg,1.26,0.36,1.92,0.28
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,23.6,6.7,35.9,5.2
+Lipids
+"Fatty acids, total saturated",g,2.108,0.598,3.204,0.464
+"Fatty acids, total monounsaturated",g,3.263,0.925,4.960,0.718
+"Fatty acids, total polyunsaturated",g,7.219,2.047,10.973,1.588
+"Cholesterol",mg,45,13,68,10
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

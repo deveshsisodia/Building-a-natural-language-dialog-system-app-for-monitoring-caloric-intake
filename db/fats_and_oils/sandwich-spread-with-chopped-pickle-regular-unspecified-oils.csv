@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:21 EST
+"Nutrient data for: 04030, Sandwich spread, with chopped pickle, regular, unspecified oils"
+Nutrient,Unit,1Value per 100 g,"1 tablespoon = 15.0g","1 cup = 245.0g",
+Proximates
+"Water",g,40.80,6.12,99.96
+"Energy",kcal,389,58,953
+"Protein",g,0.90,0.14,2.21
+"Total lipid (fat)",g,34.00,5.10,83.30
+"Carbohydrate, by difference",g,22.40,3.36,54.88
+"Fiber, total dietary",g,0.4,0.1,1.0
+"Sugars, total",g,15.18,2.28,37.19
+Minerals
+"Calcium, Ca",mg,14,2,34
+"Iron, Fe",mg,0.20,0.03,0.49
+"Magnesium, Mg",mg,2,0,5
+"Phosphorus, P",mg,26,4,64
+"Potassium, K",mg,35,5,86
+"Sodium, Na",mg,1000,150,2450
+"Zinc, Zn",mg,0.81,0.12,1.98
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.010,0.002,0.025
+"Riboflavin",mg,0.020,0.003,0.049
+"Niacin",mg,0.010,0.002,0.025
+"Vitamin B-6",mg,0.020,0.003,0.049
+"Folate, DFE",µg,6,1,15
+"Vitamin B-12",µg,0.21,0.03,0.51
+"Vitamin A, RAE",µg,22,3,54
+"Vitamin A, IU",IU,220,33,539
+"Vitamin E (alpha-tocopherol)",mg,4.00,0.60,9.80
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.2
+"Vitamin D",IU,4,1,10
+"Vitamin K (phylloquinone)",µg,24.7,3.7,60.5
+Lipids
+"Fatty acids, total saturated",g,5.100,0.765,12.495
+"Fatty acids, total monounsaturated",g,7.400,1.110,18.130
+"Fatty acids, total polyunsaturated",g,20.000,3.000,49.000
+"Cholesterol",mg,76,11,186
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

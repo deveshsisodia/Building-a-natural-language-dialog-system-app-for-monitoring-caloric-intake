@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:37 EST
+"Nutrient data for: 19917, Candies, M&M MARS Pretzel Chocolate Candies"
+Nutrient,Unit,1Value per 100 g,"0.25 cup = 40.0g",
+Proximates
+"Water",g,4.84,1.94
+"Energy",kcal,447,179
+"Protein",g,5.00,2.00
+"Total lipid (fat)",g,15.00,6.00
+"Carbohydrate, by difference",g,72.94,29.18
+"Fiber, total dietary",g,2.5,1.0
+"Sugars, total",g,50.00,20.00
+Minerals
+"Calcium, Ca",mg,50,20
+"Iron, Fe",mg,0.90,0.36
+"Magnesium, Mg",mg,39,16
+"Phosphorus, P",mg,135,54
+"Potassium, K",mg,253,101
+"Sodium, Na",mg,475,190
+"Zinc, Zn",mg,1.25,0.50
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.082,0.033
+"Riboflavin",mg,0.203,0.081
+"Niacin",mg,0.433,0.173
+"Vitamin B-6",mg,0.032,0.013
+"Folate, DFE",µg,19,8
+"Vitamin B-12",µg,0.45,0.18
+"Vitamin A, RAE",µg,34,14
+"Vitamin A, IU",IU,116,46
+"Vitamin E (alpha-tocopherol)",mg,0.37,0.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,4.7,1.9
+Lipids
+"Fatty acids, total saturated",g,8.986,3.594
+"Fatty acids, total monounsaturated",g,3.302,1.321
+"Fatty acids, total polyunsaturated",g,1.014,0.406
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,13,5
+Amino Acids
+Other
+"Caffeine",mg,11,4

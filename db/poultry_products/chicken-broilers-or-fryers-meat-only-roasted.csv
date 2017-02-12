@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:30 EST
+"Nutrient data for: 05013, Chicken, broilers or fryers, meat only, roasted"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped or diced = 140.0g","1 tbsp = 8.7g","1 unit (yield from 1 lb ready-to-cook chicken) = 146.0g",
+Proximates
+"Water",g,63.79,89.31,5.55,93.13
+"Energy",kcal,190,266,17,277
+"Protein",g,28.93,40.50,2.52,42.24
+"Total lipid (fat)",g,7.41,10.37,0.64,10.82
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,15,21,1,22
+"Iron, Fe",mg,1.21,1.69,0.11,1.77
+"Magnesium, Mg",mg,25,35,2,36
+"Phosphorus, P",mg,195,273,17,285
+"Potassium, K",mg,243,340,21,355
+"Sodium, Na",mg,86,120,7,126
+"Zinc, Zn",mg,2.10,2.94,0.18,3.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.069,0.097,0.006,0.101
+"Riboflavin",mg,0.178,0.249,0.015,0.260
+"Niacin",mg,9.173,12.842,0.798,13.393
+"Vitamin B-6",mg,0.470,0.658,0.041,0.686
+"Folate, DFE",µg,6,8,1,9
+"Vitamin B-12",µg,0.33,0.46,0.03,0.48
+"Vitamin A, RAE",µg,16,22,1,23
+"Vitamin A, IU",IU,53,74,5,77
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.38,0.02,0.39
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.0,0.1
+"Vitamin D",IU,5,7,0,7
+"Vitamin K (phylloquinone)",µg,2.4,3.4,0.2,3.5
+Lipids
+"Fatty acids, total saturated",g,2.040,2.856,0.177,2.978
+"Fatty acids, total monounsaturated",g,2.660,3.724,0.231,3.884
+"Fatty acids, total polyunsaturated",g,1.690,2.366,0.147,2.467
+"Cholesterol",mg,89,125,8,130
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

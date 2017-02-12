@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:19 EST
+"Nutrient data for: 07919, Sausage, turkey, breakfast links, mild"
+Nutrient,Unit,1Value per 100 g,"2.0 oz, 2 links = 56.0g",
+Proximates
+"Water",g,63.12,35.35
+"Energy",kcal,235,132
+"Protein",g,15.42,8.64
+"Total lipid (fat)",g,18.09,10.13
+"Carbohydrate, by difference",g,1.56,0.87
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,32,18
+"Iron, Fe",mg,1.07,0.60
+"Magnesium, Mg",mg,16,9
+"Phosphorus, P",mg,155,87
+"Potassium, K",mg,229,128
+"Sodium, Na",mg,639,358
+"Zinc, Zn",mg,2.98,1.67
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.3
+"Thiamin",mg,0.054,0.030
+"Riboflavin",mg,0.165,0.092
+"Niacin",mg,3.692,2.068
+"Vitamin B-6",mg,0.208,0.116
+"Folate, DFE",µg,4,2
+"Vitamin B-12",µg,0.79,0.44
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.19,0.11
+"Vitamin D (D2 + D3)",µg,0.4,0.2
+"Vitamin D",IU,17,10
+"Vitamin K (phylloquinone)",µg,1.6,0.9
+Lipids
+"Fatty acids, total saturated",g,3.839,2.150
+"Fatty acids, total monounsaturated",g,5.158,2.888
+"Fatty acids, total polyunsaturated",g,4.657,2.608
+"Cholesterol",mg,160,90
+Amino Acids
+Other
+"Caffeine",mg,0,0

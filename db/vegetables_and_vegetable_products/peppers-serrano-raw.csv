@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:25 EST
+"Nutrient data for: 11977, Peppers, serrano, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 105.0g","1 pepper = 6.1g",
+Proximates
+"Water",g,90.25,94.76,5.51
+"Energy",kcal,32,34,2
+"Protein",g,1.74,1.83,0.11
+"Total lipid (fat)",g,0.44,0.46,0.03
+"Carbohydrate, by difference",g,6.70,7.04,0.41
+"Fiber, total dietary",g,3.7,3.9,0.2
+"Sugars, total",g,3.83,4.02,0.23
+Minerals
+"Calcium, Ca",mg,11,12,1
+"Iron, Fe",mg,0.86,0.90,0.05
+"Magnesium, Mg",mg,22,23,1
+"Phosphorus, P",mg,40,42,2
+"Potassium, K",mg,305,320,19
+"Sodium, Na",mg,10,10,1
+"Zinc, Zn",mg,0.26,0.27,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,44.9,47.1,2.7
+"Thiamin",mg,0.054,0.057,0.003
+"Riboflavin",mg,0.081,0.085,0.005
+"Niacin",mg,1.537,1.614,0.094
+"Vitamin B-6",mg,0.505,0.530,0.031
+"Folate, DFE",µg,23,24,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,47,49,3
+"Vitamin A, IU",IU,937,984,57
+"Vitamin E (alpha-tocopherol)",mg,0.69,0.72,0.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,11.8,12.4,0.7
+Lipids
+"Fatty acids, total saturated",g,0.059,0.062,0.004
+"Fatty acids, total monounsaturated",g,0.023,0.024,0.001
+"Fatty acids, total polyunsaturated",g,0.222,0.233,0.014
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

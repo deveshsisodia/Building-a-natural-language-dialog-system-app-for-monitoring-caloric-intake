@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:52 EST
+"Nutrient data for: 25071, Rice crackers"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,0.11,
+"Energy",kcal,416,
+"Protein",g,10.00,
+"Total lipid (fat)",g,5.00,
+"Carbohydrate, by difference",g,82.64,
+"Fiber, total dietary",g,0.0,
+"Sugars, total",g,0.00,
+Minerals
+"Calcium, Ca",mg,0,
+"Iron, Fe",mg,0.00,
+"Magnesium, Mg",mg,156,
+"Phosphorus, P",mg,362,
+"Potassium, K",mg,243,
+"Sodium, Na",mg,233,
+"Zinc, Zn",mg,2.20,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,
+"Thiamin",mg,0.436,
+"Riboflavin",mg,0.101,
+"Niacin",mg,5.537,
+"Vitamin B-6",mg,0.554,
+"Folate, DFE",µg,22,
+"Vitamin B-12",µg,0.00,
+"Vitamin A, RAE",µg,0,
+"Vitamin A, IU",IU,0,
+"Vitamin E (alpha-tocopherol)",mg,1.26,
+"Vitamin D (D2 + D3)",µg,0.0,
+"Vitamin D",IU,0,
+"Vitamin K (phylloquinone)",µg,2.1,
+Lipids
+"Fatty acids, total saturated",g,0.000,
+"Fatty acids, total monounsaturated",g,3.021,
+"Fatty acids, total polyunsaturated",g,1.641,
+"Fatty acids, total trans",g,0.002,
+"Cholesterol",mg,0,
+Amino Acids
+Other
+"Caffeine",mg,0,

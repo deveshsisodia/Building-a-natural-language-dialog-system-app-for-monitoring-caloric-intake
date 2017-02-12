@@ -1,0 +1,45 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:48 EST
+"Nutrient data for: 03841, Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, with iron, ready-to-feed"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 30.5g",
+Proximates
+"Water",g,87.54,26.70
+"Energy",kcal,66,20
+"Protein",g,1.61,0.49
+"Total lipid (fat)",g,3.59,1.09
+"Carbohydrate, by difference",g,6.70,2.04
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,6.70,2.04
+Minerals
+"Calcium, Ca",mg,69,21
+"Iron, Fe",mg,1.18,0.36
+"Magnesium, Mg",mg,5,2
+"Phosphorus, P",mg,49,15
+"Potassium, K",mg,71,22
+"Sodium, Na",mg,29,9
+"Zinc, Zn",mg,0.49,0.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.9,1.8
+"Thiamin",mg,0.039,0.012
+"Riboflavin",mg,0.059,0.018
+"Niacin",mg,0.887,0.271
+"Vitamin B-6",mg,0.039,0.012
+"Folate, DFE",µg,17,5
+"Vitamin B-12",µg,0.30,0.09
+"Vitamin A, RAE",µg,59,18
+"Vitamin A, IU",IU,197,60
+"Vitamin E (alpha-tocopherol)",mg,1.32,0.40
+"Vitamin D (D2 + D3)",µg,1.0,0.3
+"Vitamin D",IU,39,12
+"Vitamin K (phylloquinone)",µg,7.2,2.2
+Lipids
+"Fatty acids, total saturated",g,1.166,0.356
+"Fatty acids, total monounsaturated",g,1.371,0.418
+"Fatty acids, total polyunsaturated",g,0.838,0.256
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(a)"Added vitamin E is RRR alpha tocopherol"

@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:31 EST
+"Nutrient data for: 05344, Chicken, broilers or fryers, skin only, cooked, rotisserie, original seasoning"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,43.76,12.41
+"Energy",kcal,406,115
+"Protein",g,17.66,5.01
+"Total lipid (fat)",g,37.24,10.56
+"Carbohydrate, by difference",g,0.11,0.03
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.11,0.03
+Minerals
+"Calcium, Ca",mg,25,7
+"Iron, Fe",mg,0.98,0.28
+"Magnesium, Mg",mg,26,7
+"Phosphorus, P",mg,248,70
+"Potassium, K",mg,245,69
+"Sodium, Na",mg,381,108
+"Zinc, Zn",mg,1.03,0.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.036,0.010
+"Riboflavin",mg,0.121,0.034
+"Niacin",mg,5.737,1.626
+"Vitamin B-6",mg,0.138,0.039
+"Folate, DFE",µg,11,3
+"Vitamin B-12",µg,0.59,0.17
+"Vitamin A, RAE",µg,56,16
+"Vitamin A, IU",IU,186,53
+"Vitamin E (alpha-tocopherol)",mg,0.36,0.10
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,9.994,2.833
+"Fatty acids, total monounsaturated",g,16.793,4.761
+"Fatty acids, total polyunsaturated",g,5.423,1.537
+"Fatty acids, total trans",g,0.456,0.129
+"Cholesterol",mg,141,40
+Amino Acids
+Other
+"Caffeine",mg,0,0

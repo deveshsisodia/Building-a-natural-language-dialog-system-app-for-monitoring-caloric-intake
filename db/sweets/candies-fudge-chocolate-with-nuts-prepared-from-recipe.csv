@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:33 EST
+"Nutrient data for: 19101, Candies, fudge, chocolate, with nuts, prepared-from-recipe"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,7.66,2.17
+"Energy",kcal,461,131
+"Protein",g,4.38,1.24
+"Total lipid (fat)",g,18.93,5.37
+"Carbohydrate, by difference",g,67.93,19.26
+"Fiber, total dietary",g,2.5,0.7
+"Sugars, total",g,63.37,17.97
+Minerals
+"Calcium, Ca",mg,57,16
+"Iron, Fe",mg,1.97,0.56
+"Magnesium, Mg",mg,55,16
+"Phosphorus, P",mg,114,32
+"Potassium, K",mg,183,52
+"Sodium, Na",mg,39,11
+"Zinc, Zn",mg,1.43,0.41
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1
+"Thiamin",mg,0.067,0.019
+"Riboflavin",mg,0.095,0.027
+"Niacin",mg,0.315,0.089
+"Vitamin B-6",mg,0.088,0.025
+"Folate, DFE",µg,16,5
+"Vitamin B-12",µg,0.07,0.02
+"Vitamin A, RAE",µg,38,11
+"Vitamin A, IU",IU,140,40
+"Vitamin E (alpha-tocopherol)",mg,0.26,0.07
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.6,0.5
+Lipids
+"Fatty acids, total saturated",g,6.489,1.840
+"Fatty acids, total monounsaturated",g,3.900,1.106
+"Fatty acids, total polyunsaturated",g,7.529,2.134
+"Fatty acids, total trans",g,0.142,0.040
+"Cholesterol",mg,12,3
+Amino Acids
+Other
+"Caffeine",mg,7,2

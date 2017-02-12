@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:29 EST
+"Nutrient data for: 11426, Pumpkin pie mix, canned"
+Nutrient,Unit,1Value per 100 g,"1 cup = 270.0g",
+Proximates
+"Water",g,71.49,193.02
+"Energy",kcal,104,281
+"Protein",g,1.09,2.94
+"Total lipid (fat)",g,0.13,0.35
+"Carbohydrate, by difference",g,26.39,71.25
+"Fiber, total dietary",g,8.3,22.4
+Minerals
+"Calcium, Ca",mg,37,100
+"Iron, Fe",mg,1.06,2.86
+"Magnesium, Mg",mg,16,43
+"Phosphorus, P",mg,45,122
+"Potassium, K",mg,138,373
+"Sodium, Na",mg,208,562
+"Zinc, Zn",mg,0.27,0.73
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.5,9.4
+"Thiamin",mg,0.016,0.043
+"Riboflavin",mg,0.118,0.319
+"Niacin",mg,0.374,1.010
+"Vitamin B-6",mg,0.159,0.429
+"Folate, DFE",µg,35,94
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,415,1120
+"Vitamin A, IU",IU,8298,22405
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.065,0.176
+"Fatty acids, total monounsaturated",g,0.016,0.043
+"Fatty acids, total polyunsaturated",g,0.007,0.019
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

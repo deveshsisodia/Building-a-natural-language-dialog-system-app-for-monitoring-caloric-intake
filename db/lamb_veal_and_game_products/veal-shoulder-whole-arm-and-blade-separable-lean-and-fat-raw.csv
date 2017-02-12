@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:09 EST
+"Nutrient data for: 17116, Veal, shoulder, whole (arm and blade), separable lean and fat, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g",
+Proximates
+"Water",g,74.78,21.20,339.20
+"Energy",kcal,130,37,590
+"Protein",g,19.27,5.46,87.41
+"Total lipid (fat)",g,5.28,1.50,23.95
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,22,6,100
+"Iron, Fe",mg,0.91,0.26,4.13
+"Magnesium, Mg",mg,23,7,104
+"Phosphorus, P",mg,203,58,921
+"Potassium, K",mg,302,86,1370
+"Sodium, Na",mg,91,26,413
+"Zinc, Zn",mg,3.93,1.11,17.83
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.090,0.026,0.408
+"Riboflavin",mg,0.290,0.082,1.315
+"Niacin",mg,6.190,1.755,28.078
+"Vitamin B-6",mg,0.390,0.111,1.769
+"Folate, DFE",µg,12,3,54
+"Vitamin B-12",µg,1.67,0.47,7.58
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.08,1.22
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,4.6,1.3,20.9
+Lipids
+"Fatty acids, total saturated",g,2.050,0.581,9.299
+"Fatty acids, total monounsaturated",g,1.940,0.550,8.800
+"Fatty acids, total polyunsaturated",g,0.410,0.116,1.860
+"Cholesterol",mg,87,25,395
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

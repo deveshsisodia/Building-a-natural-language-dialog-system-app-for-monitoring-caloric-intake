@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:39 EST
+"Nutrient data for: 21240, WENDY'S, CLASSIC SINGLE Hamburger, with cheese"
+Nutrient,Unit,1Value per 100 g,"1 item = 236.0g",
+Proximates
+"Water",g,57.50,135.70
+"Energy",kcal,221,522
+"Protein",g,14.87,35.09
+"Total lipid (fat)",g,11.60,27.38
+"Carbohydrate, by difference",g,14.20,33.51
+"Fiber, total dietary",g,1.4,3.3
+Minerals
+"Calcium, Ca",mg,75,177
+"Iron, Fe",mg,2.34,5.52
+"Magnesium, Mg",mg,19,45
+"Phosphorus, P",mg,126,297
+"Potassium, K",mg,187,441
+"Sodium, Na",mg,476,1123
+"Zinc, Zn",mg,2.58,6.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,1.2
+"Thiamin",mg,0.260,0.614
+"Riboflavin",mg,0.256,0.604
+"Niacin",mg,3.190,7.528
+"Vitamin B-6",mg,0.106,0.250
+"Vitamin B-12",µg,1.54,3.63
+"Vitamin K (phylloquinone)",µg,9.3,21.9
+Lipids
+"Fatty acids, total saturated",g,5.191,12.251
+"Fatty acids, total monounsaturated",g,4.407,10.401
+"Fatty acids, total polyunsaturated",g,1.405,3.316
+"Fatty acids, total trans",g,0.394,0.930
+"Cholesterol",mg,38,90
+Amino Acids
+Other

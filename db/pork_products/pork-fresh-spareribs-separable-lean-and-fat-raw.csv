@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:49 EST
+"Nutrient data for: 10088, Pork, fresh, spareribs, separable lean and fat, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,59.75,50.79
+"Energy",kcal,277,235
+"Protein",g,15.47,13.15
+"Total lipid (fat)",g,23.40,19.89
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,15,13
+"Iron, Fe",mg,0.91,0.77
+"Magnesium, Mg",mg,16,14
+"Phosphorus, P",mg,141,120
+"Potassium, K",mg,242,206
+"Sodium, Na",mg,81,69
+"Zinc, Zn",mg,2.50,2.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.319,0.271
+"Riboflavin",mg,0.251,0.213
+"Niacin",mg,4.662,3.963
+"Vitamin B-6",mg,0.574,0.488
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,0.38,0.32
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.37,0.31
+"Vitamin D (D2 + D3)",µg,2.3,2.0
+"Vitamin D",IU,91,77
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,7.529,6.400
+"Fatty acids, total monounsaturated",g,8.542,7.261
+"Fatty acids, total polyunsaturated",g,3.953,3.360
+"Fatty acids, total trans",g,0.222,0.189
+"Cholesterol",mg,80,68
+Amino Acids
+Other
+"Caffeine",mg,0,0

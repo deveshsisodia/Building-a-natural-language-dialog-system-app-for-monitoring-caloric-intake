@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08037, Cereals ready-to-eat, granola, homemade"
+Nutrient,Unit,1Value per 100 g,"1 cup = 122.0g","1 oz = 28.35g",
+Proximates
+"Water",g,5.84,7.12,1.66
+"Energy",kcal,489,597,139
+"Protein",g,13.67,16.68,3.88
+"Total lipid (fat)",g,24.31,29.66,6.89
+"Carbohydrate, by difference",g,53.88,65.73,15.27
+"Fiber, total dietary",g,8.9,10.9,2.5
+"Sugars, total",g,19.80,24.16,5.61
+Minerals
+"Calcium, Ca",mg,76,93,22
+"Iron, Fe",mg,3.95,4.82,1.12
+"Magnesium, Mg",mg,168,205,48
+"Phosphorus, P",mg,431,526,122
+"Potassium, K",mg,539,658,153
+"Sodium, Na",mg,26,32,7
+"Zinc, Zn",mg,4.17,5.09,1.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.2,1.5,0.3
+"Thiamin",mg,0.548,0.669,0.155
+"Riboflavin",mg,0.354,0.432,0.100
+"Niacin",mg,2.739,3.342,0.777
+"Vitamin B-6",mg,0.370,0.451,0.105
+"Folate, DFE",µg,84,102,24
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,1,0
+"Vitamin A, IU",IU,19,23,5
+"Vitamin E (alpha-tocopherol)",mg,11.10,13.54,3.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,5.3,6.5,1.5
+Lipids
+"Fatty acids, total saturated",g,3.957,4.828,1.122
+"Fatty acids, total monounsaturated",g,10.951,13.360,3.105
+"Fatty acids, total polyunsaturated",g,7.809,9.527,2.214
+"Fatty acids, total trans",g,0.023,0.028,0.007
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Made with oats, raisins, sunflower seeds, almonds, wheat germ, honey, coconut and canola oil."

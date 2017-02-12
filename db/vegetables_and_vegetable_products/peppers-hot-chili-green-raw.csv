@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:25 EST
+"Nutrient data for: 11670, Peppers, hot chili, green, raw"
+Nutrient,Unit,1Value per 100 g,"1 pepper = 45.0g","0.5 cup, chopped or diced = 75.0g",
+Proximates
+"Water",g,87.74,39.48,65.81
+"Energy",kcal,40,18,30
+"Protein",g,2.00,0.90,1.50
+"Total lipid (fat)",g,0.20,0.09,0.15
+"Carbohydrate, by difference",g,9.46,4.26,7.10
+"Fiber, total dietary",g,1.5,0.7,1.1
+"Sugars, total",g,5.10,2.29,3.83
+Minerals
+"Calcium, Ca",mg,18,8,14
+"Iron, Fe",mg,1.20,0.54,0.90
+"Magnesium, Mg",mg,25,11,19
+"Phosphorus, P",mg,46,21,34
+"Potassium, K",mg,340,153,255
+"Sodium, Na",mg,7,3,5
+"Zinc, Zn",mg,0.30,0.14,0.23
+Vitamins
+"Vitamin C, total ascorbic acid",mg,242.5,109.1,181.9
+"Thiamin",mg,0.090,0.041,0.068
+"Riboflavin",mg,0.090,0.041,0.068
+"Niacin",mg,0.950,0.427,0.713
+"Vitamin B-6",mg,0.278,0.125,0.209
+"Folate, DFE",µg,23,10,17
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,59,27,44
+"Vitamin A, IU",IU,1179,531,884
+"Vitamin E (alpha-tocopherol)",mg,0.69,0.31,0.52
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,14.3,6.4,10.7
+Lipids
+"Fatty acids, total saturated",g,0.021,0.009,0.016
+"Fatty acids, total monounsaturated",g,0.011,0.005,0.008
+"Fatty acids, total polyunsaturated",g,0.109,0.049,0.082
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

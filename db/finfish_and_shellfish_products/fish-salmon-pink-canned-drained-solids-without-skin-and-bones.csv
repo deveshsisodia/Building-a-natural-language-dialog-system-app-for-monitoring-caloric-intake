@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:03 EST
+"Nutrient data for: 15265, Fish, Salmon, pink, canned, drained solids, without skin and bones"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 can drained solids, bone and skin removed = 242.0g",
+Proximates
+"Water",g,70.63,60.04,170.92
+"Energy",kcal,136,116,329
+"Protein",g,24.62,20.93,59.58
+"Total lipid (fat)",g,4.21,3.58,10.19
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,60,51,145
+"Iron, Fe",mg,0.57,0.48,1.38
+"Magnesium, Mg",mg,24,20,58
+"Phosphorus, P",mg,253,215,612
+"Potassium, K",mg,326,277,789
+"Sodium, Na",mg,378,321,915
+"Zinc, Zn",mg,0.65,0.55,1.57
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.027,0.023,0.065
+"Riboflavin",mg,0.203,0.173,0.491
+"Niacin",mg,7.430,6.315,17.981
+"Vitamin B-6",mg,0.105,0.089,0.254
+"Folate, DFE",µg,4,3,10
+"Vitamin B-12",µg,4.96,4.22,12.00
+"Vitamin A, RAE",µg,20,17,48
+"Vitamin A, IU",IU,66,56,160
+"Vitamin E (alpha-tocopherol)",mg,1.28,1.09,3.10
+"Vitamin D (D2 + D3)",µg,14.1,12.0,34.1
+"Vitamin D",IU,563,479,1362
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.2
+Lipids
+"Fatty acids, total saturated",g,0.749,0.637,1.813
+"Fatty acids, total monounsaturated",g,0.971,0.825,2.350
+"Fatty acids, total polyunsaturated",g,1.298,1.103,3.141
+"Fatty acids, total trans",g,0.022,0.019,0.053
+"Cholesterol",mg,83,71,201
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

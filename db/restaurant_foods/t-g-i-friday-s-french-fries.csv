@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:28 EST
+"Nutrient data for: 36007, T.G.I. FRIDAY'S, french fries"
+Nutrient,Unit,1Value per 100 g,"1 serving = 184.0g",
+Proximates
+"Water",g,42.23,77.70
+"Energy",kcal,296,545
+"Protein",g,3.74,6.88
+"Total lipid (fat)",g,14.82,27.27
+"Carbohydrate, by difference",g,36.90,67.90
+"Fiber, total dietary",g,4.1,7.5
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,19,35
+"Iron, Fe",mg,0.98,1.80
+"Magnesium, Mg",mg,31,57
+"Phosphorus, P",mg,121,223
+"Potassium, K",mg,604,1111
+"Sodium, Na",mg,409,753
+"Zinc, Zn",mg,0.57,1.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,2.0
+"Thiamin",mg,0.107,0.197
+"Riboflavin",mg,0.064,0.118
+"Niacin",mg,2.797,5.146
+"Vitamin B-6",mg,0.282,0.519
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.09,2.01
+"Vitamin K (phylloquinone)",µg,43.1,79.3
+Lipids
+"Fatty acids, total saturated",g,2.600,4.784
+"Fatty acids, total monounsaturated",g,3.356,6.175
+"Fatty acids, total polyunsaturated",g,7.473,13.750
+"Fatty acids, total trans",g,0.102,0.188
+"Cholesterol",mg,1,2
+Amino Acids
+Other

@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:17 EST
+"Nutrient data for: 11100, Brussels sprouts, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"0.33 package (10 oz) = 95.0g","1 package (10 oz) = 284.0g","1 package (2 lb) = 907.0g",
+Proximates
+"Water",g,87.07,82.72,247.28,789.72
+"Energy",kcal,41,39,116,372
+"Protein",g,3.78,3.59,10.74,34.28
+"Total lipid (fat)",g,0.41,0.39,1.16,3.72
+"Carbohydrate, by difference",g,7.86,7.47,22.32,71.29
+"Fiber, total dietary",g,3.8,3.6,10.8,34.5
+Minerals
+"Calcium, Ca",mg,26,25,74,236
+"Iron, Fe",mg,0.93,0.88,2.64,8.44
+"Magnesium, Mg",mg,20,19,57,181
+"Phosphorus, P",mg,62,59,176,562
+"Potassium, K",mg,370,352,1051,3356
+"Sodium, Na",mg,10,10,28,91
+"Zinc, Zn",mg,0.31,0.29,0.88,2.81
+Vitamins
+"Vitamin C, total ascorbic acid",mg,74.1,70.4,210.4,672.1
+"Thiamin",mg,0.105,0.100,0.298,0.952
+"Riboflavin",mg,0.122,0.116,0.346,1.107
+"Niacin",mg,0.638,0.606,1.812,5.787
+"Vitamin B-6",mg,0.202,0.192,0.574,1.832
+"Folate, DFE",µg,123,117,349,1116
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,31,29,88,281
+"Vitamin A, IU",IU,617,586,1752,5596
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.084,0.080,0.239,0.762
+"Fatty acids, total monounsaturated",g,0.031,0.029,0.088,0.281
+"Fatty acids, total polyunsaturated",g,0.207,0.197,0.588,1.877
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other

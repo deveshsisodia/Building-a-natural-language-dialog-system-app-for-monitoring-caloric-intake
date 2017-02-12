@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:21 EST
+"Nutrient data for: 14450, Beverages, drink mix, QUAKER OATS, GATORADE, orange flavor, powder"
+Nutrient,Unit,1Value per 100 g,"1 scoop powder = 23.0g","1 cup powder = 207.0g",
+Proximates
+"Water",g,2.51,0.58,5.20
+"Energy",kcal,388,89,803
+"Protein",g,0.00,0.00,0.00
+"Total lipid (fat)",g,1.23,0.28,2.55
+"Carbohydrate, by difference",g,94.11,21.65,194.81
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,80.50,18.52,166.63
+Minerals
+"Calcium, Ca",mg,40,9,83
+"Iron, Fe",mg,0.34,0.08,0.70
+"Magnesium, Mg",mg,1,0,2
+"Phosphorus, P",mg,120,28,248
+"Potassium, K",mg,30,7,62
+"Sodium, Na",mg,63,14,130
+"Zinc, Zn",mg,0.06,0.01,0.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.1,0.8
+"Thiamin",mg,0.011,0.003,0.023
+"Riboflavin",mg,0.802,0.184,1.660
+"Niacin",mg,0.220,0.051,0.455
+"Vitamin B-6",mg,0.022,0.005,0.046
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

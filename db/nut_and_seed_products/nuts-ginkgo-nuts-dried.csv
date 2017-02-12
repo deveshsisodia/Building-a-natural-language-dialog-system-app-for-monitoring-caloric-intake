@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:08 EST
+"Nutrient data for: 12128, Nuts, ginkgo nuts, dried"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,12.40,3.52
+"Energy",kcal,348,99
+"Protein",g,10.35,2.93
+"Total lipid (fat)",g,2.00,0.57
+"Carbohydrate, by difference",g,72.45,20.54
+Minerals
+"Calcium, Ca",mg,20,6
+"Iron, Fe",mg,1.60,0.45
+"Magnesium, Mg",mg,53,15
+"Phosphorus, P",mg,269,76
+"Potassium, K",mg,998,283
+"Sodium, Na",mg,13,4
+"Zinc, Zn",mg,0.67,0.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,29.3,8.3
+"Thiamin",mg,0.430,0.122
+"Riboflavin",mg,0.176,0.050
+"Niacin",mg,11.732,3.326
+"Vitamin B-6",mg,0.641,0.182
+"Folate, DFE",µg,106,30
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,55,16
+"Vitamin A, IU",IU,1091,309
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.381,0.108
+"Fatty acids, total monounsaturated",g,0.739,0.210
+"Fatty acids, total polyunsaturated",g,0.737,0.209
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:17 EST
+"Nutrient data for: 07062, Picnic loaf, pork, beef"
+Nutrient,Unit,1Value per 100 g,"1 slice (1 oz) (4"" x 4"" x 3/32"" thick) = 28.0g","2.0 slices = 57.0g",
+Proximates
+"Water",g,60.20,16.86,34.31
+"Energy",kcal,232,65,132
+"Protein",g,14.92,4.18,8.50
+"Total lipid (fat)",g,16.64,4.66,9.48
+"Carbohydrate, by difference",g,4.76,1.33,2.71
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,47,13,27
+"Iron, Fe",mg,1.02,0.29,0.58
+"Magnesium, Mg",mg,15,4,9
+"Phosphorus, P",mg,125,35,71
+"Potassium, K",mg,267,75,152
+"Sodium, Na",mg,1164,326,663
+"Zinc, Zn",mg,2.18,0.61,1.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.374,0.105,0.213
+"Riboflavin",mg,0.242,0.068,0.138
+"Niacin",mg,2.306,0.646,1.314
+"Vitamin B-6",mg,0.300,0.084,0.171
+"Folate, DFE",µg,2,1,1
+"Vitamin B-12",µg,1.50,0.42,0.85
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin D (D2 + D3)",µg,1.2,0.3,0.7
+"Vitamin D",IU,48,13,27
+Lipids
+"Fatty acids, total saturated",g,6.070,1.700,3.460
+"Fatty acids, total monounsaturated",g,7.680,2.150,4.378
+"Fatty acids, total polyunsaturated",g,1.890,0.529,1.077
+"Cholesterol",mg,38,11,22
+Amino Acids
+Other

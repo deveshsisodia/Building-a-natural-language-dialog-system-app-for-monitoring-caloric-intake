@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:39 EST
+"Nutrient data for: 05700, Turkey, dark meat from whole, meat and skin, with added solution, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 114.0g","1 lb = 453.0g",
+Proximates
+"Water",g,70.55,80.43,319.59
+"Energy",kcal,169,193,766
+"Protein",g,17.84,20.34,80.82
+"Total lipid (fat)",g,10.83,12.35,49.06
+"Carbohydrate, by difference",g,0.15,0.17,0.68
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.10,0.11,0.45
+Minerals
+"Calcium, Ca",mg,14,16,63
+"Iron, Fe",mg,0.83,0.95,3.76
+"Magnesium, Mg",mg,18,21,82
+"Phosphorus, P",mg,172,196,779
+"Potassium, K",mg,202,230,915
+"Sodium, Na",mg,161,184,729
+"Zinc, Zn",mg,2.30,2.62,10.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.051,0.058,0.231
+"Riboflavin",mg,0.216,0.246,0.978
+"Niacin",mg,5.235,5.968,23.715
+"Vitamin B-6",mg,0.370,0.422,1.676
+"Vitamin B-12",µg,1.81,2.06,8.20
+"Vitamin A, RAE",µg,28,32,127
+"Vitamin A, IU",IU,93,106,421
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.13,0.50
+"Vitamin D (D2 + D3)",µg,0.5,0.6,2.3
+"Vitamin D",IU,20,23,91
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,2.600,2.964,11.778
+"Fatty acids, total monounsaturated",g,4.400,5.016,19.932
+"Fatty acids, total polyunsaturated",g,3.810,4.343,17.259
+"Fatty acids, total trans",g,0.156,0.178,0.707
+"Cholesterol",mg,82,93,371
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

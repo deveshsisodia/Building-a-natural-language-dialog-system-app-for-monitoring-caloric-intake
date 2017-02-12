@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:34 EST
+"Nutrient data for: 28351, Cookies, Marie biscuit"
+Nutrient,Unit,1Value per 100 g,"5.0 cookie = 28.0g",
+Proximates
+"Water",g,9.79,2.74
+"Energy",kcal,406,114
+"Protein",g,7.05,1.97
+"Total lipid (fat)",g,10.58,2.96
+"Carbohydrate, by difference",g,70.54,19.75
+"Fiber, total dietary",g,3.5,1.0
+"Sugars, total",g,21.16,5.92
+Minerals
+"Calcium, Ca",mg,0,0
+"Iron, Fe",mg,0.00,0.00
+"Magnesium, Mg",mg,28,8
+"Phosphorus, P",mg,193,54
+"Potassium, K",mg,307,86
+"Sodium, Na",mg,370,104
+"Zinc, Zn",mg,0.61,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.541,0.151
+"Riboflavin",mg,0.493,0.138
+"Niacin",mg,3.861,1.081
+"Vitamin B-6",mg,0.074,0.021
+"Folate, DFE",µg,186,52
+"Vitamin B-12",µg,0.19,0.05
+"Vitamin A, RAE",µg,1,0
+"Vitamin A, IU",IU,3,1
+"Vitamin E (alpha-tocopherol)",mg,0.45,0.13
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,3.8,1.1
+Lipids
+"Fatty acids, total saturated",g,5.291,1.481
+"Fatty acids, total monounsaturated",g,2.694,0.754
+"Fatty acids, total polyunsaturated",g,1.670,0.468
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:55 EST
+"Nutrient data for: 13468, Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 steak = 526.0g",
+Proximates
+"Water",g,71.46,60.74,375.88
+"Energy",kcal,145,123,763
+"Protein",g,22.61,19.22,118.93
+"Total lipid (fat)",g,5.41,4.60,28.46
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,19,16,100
+"Iron, Fe",mg,2.26,1.92,11.89
+"Magnesium, Mg",mg,11,9,58
+"Phosphorus, P",mg,200,170,1052
+"Potassium, K",mg,266,226,1399
+"Sodium, Na",mg,43,37,226
+"Zinc, Zn",mg,3.52,2.99,18.52
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Riboflavin",mg,0.230,0.196,1.210
+"Niacin",mg,5.325,4.526,28.010
+"Vitamin B-6",mg,0.751,0.638,3.950
+"Folate, DFE",µg,4,3,21
+"Vitamin B-12",µg,1.98,1.68,10.41
+"Vitamin A, RAE",µg,4,3,21
+"Vitamin A, IU",IU,12,10,63
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.11,0.68
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,2,2,11
+"Vitamin K (phylloquinone)",µg,1.2,1.0,6.3
+Lipids
+"Fatty acids, total saturated",g,2.051,1.743,10.788
+"Fatty acids, total monounsaturated",g,2.150,1.827,11.309
+"Fatty acids, total polyunsaturated",g,0.285,0.242,1.499
+"Fatty acids, total trans",g,0.278,0.236,1.462
+"Cholesterol",mg,57,48,300
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

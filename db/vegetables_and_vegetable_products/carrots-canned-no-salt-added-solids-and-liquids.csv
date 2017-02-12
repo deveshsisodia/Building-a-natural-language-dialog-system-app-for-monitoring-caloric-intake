@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:19 EST
+"Nutrient data for: 11758, Carrots, canned, no salt added, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"0.5 cup slices = 123.0g","1 can (303 x 406) = 454.0g",
+Proximates
+"Water",g,92.99,114.38,422.17
+"Energy",kcal,23,28,104
+"Protein",g,0.59,0.73,2.68
+"Total lipid (fat)",g,0.14,0.17,0.64
+"Carbohydrate, by difference",g,5.36,6.59,24.33
+"Fiber, total dietary",g,1.8,2.2,8.2
+"Sugars, total",g,2.46,3.03,11.17
+Minerals
+"Calcium, Ca",mg,31,38,141
+"Iron, Fe",mg,0.52,0.64,2.36
+"Magnesium, Mg",mg,9,11,41
+"Phosphorus, P",mg,20,25,91
+"Potassium, K",mg,158,194,717
+"Sodium, Na",mg,34,42,154
+"Zinc, Zn",mg,0.29,0.36,1.32
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.0,2.5,9.1
+"Thiamin",mg,0.019,0.023,0.086
+"Riboflavin",mg,0.027,0.033,0.123
+"Niacin",mg,0.421,0.518,1.911
+"Vitamin B-6",mg,0.112,0.138,0.508
+"Folate, DFE",µg,8,10,36
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,558,686,2533
+"Vitamin A, IU",IU,11170,13739,50712
+"Vitamin E (alpha-tocopherol)",mg,0.73,0.90,3.31
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,9.8,12.1,44.5
+Lipids
+"Fatty acids, total saturated",g,0.024,0.030,0.109
+"Fatty acids, total monounsaturated",g,0.007,0.009,0.032
+"Fatty acids, total polyunsaturated",g,0.068,0.084,0.309
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

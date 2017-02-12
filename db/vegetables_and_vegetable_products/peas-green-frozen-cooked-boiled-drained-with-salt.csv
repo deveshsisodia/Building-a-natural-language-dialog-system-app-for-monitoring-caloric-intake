@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:25 EST
+"Nutrient data for: 11814, Peas, green, frozen, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 80.0g","1 package (10 oz) yields = 253.0g",
+Proximates
+"Water",g,79.52,63.62,201.19
+"Energy",kcal,78,62,197
+"Protein",g,5.15,4.12,13.03
+"Total lipid (fat)",g,0.27,0.22,0.68
+"Carbohydrate, by difference",g,14.26,11.41,36.08
+"Fiber, total dietary",g,4.5,3.6,11.4
+"Sugars, total",g,4.40,3.52,11.13
+Minerals
+"Calcium, Ca",mg,24,19,61
+"Iron, Fe",mg,1.52,1.22,3.85
+"Magnesium, Mg",mg,22,18,56
+"Phosphorus, P",mg,77,62,195
+"Potassium, K",mg,110,88,278
+"Sodium, Na",mg,323,258,817
+"Zinc, Zn",mg,0.67,0.54,1.70
+Vitamins
+"Vitamin C, total ascorbic acid",mg,9.9,7.9,25.0
+"Thiamin",mg,0.283,0.226,0.716
+"Riboflavin",mg,0.100,0.080,0.253
+"Niacin",mg,1.480,1.184,3.744
+"Vitamin B-6",mg,0.113,0.090,0.286
+"Folate, DFE",µg,59,47,149
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,105,84,266
+"Vitamin A, IU",IU,2100,1680,5313
+"Vitamin E (alpha-tocopherol)",mg,0.03,0.02,0.08
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,24.0,19.2,60.7
+Lipids
+"Fatty acids, total saturated",g,0.049,0.039,0.124
+"Fatty acids, total monounsaturated",g,0.024,0.019,0.061
+"Fatty acids, total polyunsaturated",g,0.129,0.103,0.326
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

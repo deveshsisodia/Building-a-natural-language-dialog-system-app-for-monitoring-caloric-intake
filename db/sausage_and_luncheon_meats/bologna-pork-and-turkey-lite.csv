@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:14 EST
+"Nutrient data for: 07936, Bologna, pork and turkey, lite"
+Nutrient,Unit,1Value per 100 g,"1 serving 2 oz = 56.0g",
+Proximates
+"Water",g,64.87,36.33
+"Energy",kcal,211,118
+"Protein",g,13.06,7.31
+"Total lipid (fat)",g,16.06,8.99
+"Carbohydrate, by difference",g,3.45,1.93
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,48,27
+"Iron, Fe",mg,1.15,0.64
+"Magnesium, Mg",mg,17,10
+"Phosphorus, P",mg,94,53
+"Potassium, K",mg,138,77
+"Sodium, Na",mg,716,401
+"Zinc, Zn",mg,0.73,0.41
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.159,0.089
+"Riboflavin",mg,0.097,0.054
+"Niacin",mg,3.072,1.720
+"Vitamin B-6",mg,0.163,0.091
+"Folate, DFE",µg,18,10
+"Vitamin B-12",µg,0.29,0.16
+"Vitamin A, RAE",µg,1,1
+"Vitamin A, IU",IU,2,1
+Lipids
+"Fatty acids, total saturated",g,5.460,3.058
+"Fatty acids, total monounsaturated",g,7.548,4.227
+"Fatty acids, total polyunsaturated",g,3.051,1.709
+"Cholesterol",mg,79,44
+Amino Acids
+Other
+"Caffeine",mg,0,0

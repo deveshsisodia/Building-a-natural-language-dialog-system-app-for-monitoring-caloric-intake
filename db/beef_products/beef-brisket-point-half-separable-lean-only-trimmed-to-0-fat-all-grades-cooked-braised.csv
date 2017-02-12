@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:33 EST
+"Nutrient data for: 13372, Beef, brisket, point half, separable lean only, trimmed to 0"" fat, all grades, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) = 232.0g",
+Proximates
+"Water",g,55.70,47.34,129.22
+"Energy",kcal,244,207,566
+"Protein",g,28.05,23.84,65.08
+"Total lipid (fat)",g,13.80,11.73,32.02
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,6,5,14
+"Iron, Fe",mg,2.79,2.37,6.47
+"Magnesium, Mg",mg,22,19,51
+"Phosphorus, P",mg,226,192,524
+"Potassium, K",mg,273,232,633
+"Sodium, Na",mg,77,65,179
+"Zinc, Zn",mg,7.39,6.28,17.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.070,0.060,0.162
+"Riboflavin",mg,0.230,0.196,0.534
+"Niacin",mg,3.570,3.034,8.282
+"Vitamin B-6",mg,0.280,0.238,0.650
+"Folate, DFE",µg,8,7,19
+"Vitamin B-12",µg,2.58,2.19,5.99
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,5.180,4.403,12.018
+"Fatty acids, total monounsaturated",g,6.460,5.491,14.987
+"Fatty acids, total polyunsaturated",g,0.360,0.306,0.835
+"Cholesterol",mg,91,77,211
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:41 EST
+"Nutrient data for: 28187, KELLOGG'S, SPECIAL K, Cracker Chips, Sea Salt"
+Nutrient,Unit,1Value per 100 g,"30.0 chips = 30.0g",
+Proximates
+"Water",g,2.80,0.84
+"Energy",kcal,361,108
+"Protein",g,6.80,2.04
+"Total lipid (fat)",g,7.60,2.28
+"Carbohydrate, by difference",g,75.40,22.62
+"Fiber, total dietary",g,10.8,3.2
+"Sugars, total",g,0.60,0.18
+Minerals
+"Iron, Fe",mg,1.80,0.54
+"Magnesium, Mg",mg,72,22
+"Phosphorus, P",mg,190,57
+"Potassium, K",mg,870,261
+"Sodium, Na",mg,760,228
+"Zinc, Zn",mg,1.00,0.30
+Vitamins
+"Thiamin",mg,0.610,0.183
+"Riboflavin",mg,0.080,0.024
+"Niacin",mg,4.400,1.320
+"Vitamin B-6",mg,0.390,0.117
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.400,0.420
+"Fatty acids, total monounsaturated",g,2.100,0.630
+"Fatty acids, total polyunsaturated",g,4.000,1.200
+"Fatty acids, total trans",g,0.100,0.030
+"Cholesterol",mg,0,0
+Amino Acids
+Other

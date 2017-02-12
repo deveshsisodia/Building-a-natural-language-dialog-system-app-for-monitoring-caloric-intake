@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:58 EST
+"Nutrient data for: 15035, Fish, haddock, smoked"
+Nutrient,Unit,1Value per 100 g,"1 oz, boneless = 28.35g","1 cubic inch, boneless = 17.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,71.48,20.26,12.15,60.76
+"Energy",kcal,116,33,20,99
+"Protein",g,25.23,7.15,4.29,21.45
+"Total lipid (fat)",g,0.96,0.27,0.16,0.82
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,49,14,8,42
+"Iron, Fe",mg,1.40,0.40,0.24,1.19
+"Magnesium, Mg",mg,54,15,9,46
+"Phosphorus, P",mg,251,71,43,213
+"Potassium, K",mg,415,118,71,353
+"Sodium, Na",mg,763,216,130,649
+"Zinc, Zn",mg,0.50,0.14,0.09,0.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.047,0.013,0.008,0.040
+"Riboflavin",mg,0.049,0.014,0.008,0.042
+"Niacin",mg,5.073,1.438,0.862,4.312
+"Vitamin B-6",mg,0.400,0.113,0.068,0.340
+"Folate, DFE",µg,15,4,3,13
+"Vitamin B-12",µg,1.60,0.45,0.27,1.36
+"Vitamin A, RAE",µg,24,7,4,20
+"Vitamin A, IU",IU,80,23,14,68
+"Vitamin E (alpha-tocopherol)",mg,0.55,0.16,0.09,0.47
+"Vitamin D (D2 + D3)",µg,0.8,0.2,0.1,0.7
+"Vitamin D",IU,34,10,6,29
+"Vitamin K (phylloquinone)",µg,0.1,0.0,0.0,0.1
+Lipids
+"Fatty acids, total saturated",g,0.173,0.049,0.029,0.147
+"Fatty acids, total monounsaturated",g,0.157,0.045,0.027,0.133
+"Fatty acids, total polyunsaturated",g,0.321,0.091,0.055,0.273
+"Cholesterol",mg,77,22,13,65
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

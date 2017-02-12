@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:26 EST
+"Nutrient data for: 36040, CRACKER BARREL, macaroni n' cheese"
+Nutrient,Unit,1Value per 100 g,"1 serving = 175.0g","1 cup = 149.0g",
+Proximates
+"Water",g,64.53,112.93,96.15
+"Energy",kcal,194,340,289
+"Protein",g,6.49,11.36,9.67
+"Total lipid (fat)",g,11.75,20.56,17.51
+"Carbohydrate, by difference",g,15.61,27.32,23.26
+"Fiber, total dietary",g,1.1,1.9,1.6
+"Sugars, total",g,2.83,4.95,4.22
+Minerals
+"Calcium, Ca",mg,145,254,216
+"Iron, Fe",mg,0.57,1.00,0.85
+"Magnesium, Mg",mg,17,30,25
+"Phosphorus, P",mg,202,354,301
+"Potassium, K",mg,127,222,189
+"Sodium, Na",mg,375,656,559
+"Zinc, Zn",mg,0.83,1.45,1.24
+Vitamins
+"Thiamin",mg,0.097,0.170,0.145
+"Riboflavin",mg,0.247,0.432,0.368
+"Niacin",mg,0.710,1.242,1.058
+"Vitamin B-6",mg,0.060,0.105,0.089
+"Vitamin B-12",µg,0.19,0.33,0.28
+"Vitamin A, RAE",µg,61,107,91
+"Vitamin A, IU",IU,230,402,343
+"Vitamin E (alpha-tocopherol)",mg,0.73,1.28,1.09
+Lipids
+"Fatty acids, total saturated",g,4.178,7.311,6.225
+"Fatty acids, total monounsaturated",g,2.813,4.923,4.191
+"Fatty acids, total polyunsaturated",g,3.941,6.897,5.872
+"Fatty acids, total trans",g,0.222,0.389,0.331
+"Cholesterol",mg,18,32,27
+Amino Acids
+Other

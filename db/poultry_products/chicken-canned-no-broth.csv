@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:33 EST
+"Nutrient data for: 05311, Chicken, canned, no broth"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.0g","1 cup = 205.0g","1 can (5 oz) yields = 125.0g",
+Proximates
+"Water",g,64.90,18.17,133.05,81.13
+"Energy",kcal,185,52,379,231
+"Protein",g,25.30,7.08,51.87,31.62
+"Total lipid (fat)",g,8.10,2.27,16.61,10.12
+"Carbohydrate, by difference",g,0.90,0.25,1.84,1.12
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,14,4,29,18
+"Iron, Fe",mg,1.30,0.36,2.67,1.62
+"Magnesium, Mg",mg,19,5,39,24
+"Phosphorus, P",mg,153,43,314,191
+"Potassium, K",mg,153,43,314,191
+"Sodium, Na",mg,482,135,988,602
+"Zinc, Zn",mg,2.50,0.70,5.12,3.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000,0.000
+"Riboflavin",mg,0.100,0.028,0.205,0.125
+"Niacin",mg,2.400,0.672,4.920,3.000
+"Vitamin B-6",mg,0.190,0.053,0.390,0.237
+"Folate, DFE",µg,2,1,4,2
+"Vitamin B-12",µg,1.00,0.28,2.05,1.25
+"Vitamin A, RAE",µg,53,15,109,66
+"Vitamin A, IU",IU,177,50,363,221
+"Vitamin E (alpha-tocopherol)",mg,0.32,0.09,0.66,0.40
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.2,0.1
+"Vitamin D",IU,5,1,10,6
+"Vitamin K (phylloquinone)",µg,2.3,0.6,4.7,2.9
+Lipids
+"Fatty acids, total saturated",g,2.250,0.630,4.612,2.812
+"Fatty acids, total monounsaturated",g,3.279,0.918,6.722,4.099
+"Fatty acids, total polyunsaturated",g,1.978,0.554,4.055,2.473
+"Cholesterol",mg,50,14,102,62
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

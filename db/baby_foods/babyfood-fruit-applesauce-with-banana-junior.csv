@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:44 EST
+"Nutrient data for: 03147, Babyfood, fruit, applesauce with banana, junior"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 16.0g","1 jar NFS = 170.0g","1 jar Beech-Nut Stage 3 (6 oz) = 170.0g",
+Proximates
+"Water",g,83.14,13.30,141.34,141.34
+"Energy",kcal,66,11,112,112
+"Protein",g,0.37,0.06,0.63,0.63
+"Total lipid (fat)",g,0.10,0.02,0.17,0.17
+"Carbohydrate, by difference",g,16.16,2.59,27.47,27.47
+"Fiber, total dietary",g,1.6,0.3,2.7,2.7
+"Sugars, total",g,4.35,0.70,7.39,7.39
+Minerals
+"Calcium, Ca",mg,5,1,8,8
+"Iron, Fe",mg,0.24,0.04,0.41,0.41
+"Magnesium, Mg",mg,9,1,15,15
+"Phosphorus, P",mg,12,2,20,20
+"Potassium, K",mg,131,21,223,223
+"Sodium, Na",mg,3,0,5,5
+"Zinc, Zn",mg,0.05,0.01,0.09,0.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,17.3,2.8,29.4,29.4
+"Thiamin",mg,0.010,0.002,0.017,0.017
+"Riboflavin",mg,0.031,0.005,0.053,0.053
+"Niacin",mg,0.163,0.026,0.277,0.277
+"Vitamin B-6",mg,0.100,0.016,0.170,0.170
+"Folate, DFE",µg,3,0,5,5
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,6,1,10,10
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.00,0.03,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.0,0.5,0.5
+Lipids
+"Fatty acids, total saturated",g,0.040,0.006,0.068,0.068
+"Fatty acids, total monounsaturated",g,0.010,0.002,0.017,0.017
+"Fatty acids, total polyunsaturated",g,0.050,0.008,0.085,0.085
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

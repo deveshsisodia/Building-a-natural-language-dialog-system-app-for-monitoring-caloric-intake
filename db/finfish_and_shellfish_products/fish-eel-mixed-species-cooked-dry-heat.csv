@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:57 EST
+"Nutrient data for: 15026, Fish, eel, mixed species, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"1 oz, boneless = 28.35g","1 oz with bone (yield after bone removed) = 22.0g","1 cubic inch, boneless = 17.0g","1 fillet = 159.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,59.31,16.81,13.05,10.08,94.30,50.41
+"Energy",kcal,236,67,52,40,375,201
+"Protein",g,23.65,6.70,5.20,4.02,37.60,20.10
+"Total lipid (fat)",g,14.95,4.24,3.29,2.54,23.77,12.71
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,26,7,6,4,41,22
+"Iron, Fe",mg,0.64,0.18,0.14,0.11,1.02,0.54
+"Magnesium, Mg",mg,26,7,6,4,41,22
+"Phosphorus, P",mg,277,79,61,47,440,235
+"Potassium, K",mg,349,99,77,59,555,297
+"Sodium, Na",mg,65,18,14,11,103,55
+"Zinc, Zn",mg,2.08,0.59,0.46,0.35,3.31,1.77
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.8,0.5,0.4,0.3,2.9,1.5
+"Thiamin",mg,0.183,0.052,0.040,0.031,0.291,0.156
+"Riboflavin",mg,0.051,0.014,0.011,0.009,0.081,0.043
+"Niacin",mg,4.487,1.272,0.987,0.763,7.134,3.814
+"Vitamin B-6",mg,0.077,0.022,0.017,0.013,0.122,0.065
+"Folate, DFE",µg,17,5,4,3,27,14
+"Vitamin B-12",µg,2.89,0.82,0.64,0.49,4.60,2.46
+"Vitamin A, RAE",µg,1137,322,250,193,1808,966
+"Vitamin A, IU",IU,3787,1074,833,644,6021,3219
+Lipids
+"Fatty acids, total saturated",g,3.023,0.857,0.665,0.514,4.807,2.570
+"Fatty acids, total monounsaturated",g,9.218,2.613,2.028,1.567,14.657,7.835
+"Fatty acids, total polyunsaturated",g,1.214,0.344,0.267,0.206,1.930,1.032
+"Cholesterol",mg,161,46,35,27,256,137
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:32 EST
+"Nutrient data for: 11588, Waterchestnuts, chinese, (matai), raw"
+Nutrient,Unit,1Value per 100 g,"0.5 cup slices = 62.0g","4.0 waterchestnuts = 36.0g",
+Proximates
+"Water",g,73.46,45.55,26.45
+"Energy",kcal,97,60,35
+"Protein",g,1.40,0.87,0.50
+"Total lipid (fat)",g,0.10,0.06,0.04
+"Carbohydrate, by difference",g,23.94,14.84,8.62
+"Fiber, total dietary",g,3.0,1.9,1.1
+"Sugars, total",g,4.80,2.98,1.73
+Minerals
+"Calcium, Ca",mg,11,7,4
+"Iron, Fe",mg,0.06,0.04,0.02
+"Magnesium, Mg",mg,22,14,8
+"Phosphorus, P",mg,63,39,23
+"Potassium, K",mg,584,362,210
+"Sodium, Na",mg,14,9,5
+"Zinc, Zn",mg,0.50,0.31,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.0,2.5,1.4
+"Thiamin",mg,0.140,0.087,0.050
+"Riboflavin",mg,0.200,0.124,0.072
+"Niacin",mg,1.000,0.620,0.360
+"Vitamin B-6",mg,0.328,0.203,0.118
+"Folate, DFE",µg,16,10,6
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.20,0.74,0.43
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.2,0.1
+Lipids
+"Fatty acids, total saturated",g,0.026,0.016,0.009
+"Fatty acids, total monounsaturated",g,0.002,0.001,0.001
+"Fatty acids, total polyunsaturated",g,0.043,0.027,0.015
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

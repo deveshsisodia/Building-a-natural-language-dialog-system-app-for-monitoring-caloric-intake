@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:06 EST
+"Nutrient data for: 15223, Fish, whitefish, mixed species, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 fillet = 154.0g",
+Proximates
+"Water",g,65.09,55.33,100.24
+"Energy",kcal,172,146,265
+"Protein",g,24.47,20.80,37.68
+"Total lipid (fat)",g,7.51,6.38,11.57
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,33,28,51
+"Iron, Fe",mg,0.47,0.40,0.72
+"Magnesium, Mg",mg,42,36,65
+"Phosphorus, P",mg,346,294,533
+"Potassium, K",mg,406,345,625
+"Sodium, Na",mg,65,55,100
+"Zinc, Zn",mg,1.27,1.08,1.96
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.171,0.145,0.263
+"Riboflavin",mg,0.154,0.131,0.237
+"Niacin",mg,3.846,3.269,5.923
+"Vitamin B-6",mg,0.346,0.294,0.533
+"Folate, DFE",µg,17,14,26
+"Vitamin B-12",µg,0.96,0.82,1.48
+"Vitamin A, RAE",µg,39,33,60
+"Vitamin A, IU",IU,131,111,202
+Lipids
+"Fatty acids, total saturated",g,1.162,0.988,1.789
+"Fatty acids, total monounsaturated",g,2.559,2.175,3.941
+"Fatty acids, total polyunsaturated",g,2.755,2.342,4.243
+"Cholesterol",mg,77,65,119
+Amino Acids
+Other

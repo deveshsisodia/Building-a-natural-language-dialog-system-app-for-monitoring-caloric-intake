@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:44 EST
+"Nutrient data for: 18324, Pie, pecan, commercially prepared"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice = 133.0g","1 pie = 833.0g",
+Proximates
+"Water",g,18.25,5.17,24.27,152.02
+"Energy",kcal,407,115,541,3390
+"Protein",g,4.50,1.28,5.99,37.48
+"Total lipid (fat)",g,16.69,4.73,22.20,139.03
+"Carbohydrate, by difference",g,59.61,16.90,79.28,496.55
+"Fiber, total dietary",g,2.1,0.6,2.8,17.5
+"Sugars, total",g,25.18,7.14,33.49,209.75
+Minerals
+"Calcium, Ca",mg,22,6,29,183
+"Iron, Fe",mg,0.93,0.26,1.24,7.75
+"Magnesium, Mg",mg,22,6,29,183
+"Phosphorus, P",mg,83,24,110,691
+"Potassium, K",mg,99,28,132,825
+"Sodium, Na",mg,275,78,366,2291
+"Zinc, Zn",mg,0.87,0.25,1.16,7.25
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.204,0.058,0.271,1.699
+"Riboflavin",mg,0.078,0.022,0.104,0.650
+"Niacin",mg,1.310,0.371,1.742,10.912
+"Vitamin B-6",mg,0.038,0.011,0.051,0.317
+"Folate, DFE",µg,43,12,57,358
+"Vitamin B-12",µg,0.12,0.03,0.16,1.00
+"Vitamin A, RAE",µg,51,14,68,425
+"Vitamin A, IU",IU,175,50,233,1458
+"Vitamin E (alpha-tocopherol)",mg,0.80,0.23,1.06,6.66
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.1,0.8
+"Vitamin D",IU,3,1,4,25
+"Vitamin K (phylloquinone)",µg,15.5,4.4,20.6,129.1
+Lipids
+"Fatty acids, total saturated",g,2.654,0.752,3.530,22.108
+"Fatty acids, total monounsaturated",g,8.317,2.358,11.062,69.281
+"Fatty acids, total polyunsaturated",g,3.554,1.008,4.727,29.605
+"Cholesterol",mg,42,12,56,350
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:42 EST
+"Nutrient data for: 18283, Muffins, oat bran"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 mini = 17.0g","1 small = 66.0g","1 medium = 113.0g","1 large = 139.0g","1 extra large = 168.0g",
+Proximates
+"Water",g,35.00,9.92,5.95,23.10,39.55,48.65,58.80
+"Energy",kcal,270,77,46,178,305,375,454
+"Protein",g,7.00,1.98,1.19,4.62,7.91,9.73,11.76
+"Total lipid (fat)",g,7.40,2.10,1.26,4.88,8.36,10.29,12.43
+"Carbohydrate, by difference",g,48.30,13.69,8.21,31.88,54.58,67.14,81.14
+"Fiber, total dietary",g,4.6,1.3,0.8,3.0,5.2,6.4,7.7
+"Sugars, total",g,8.22,2.33,1.40,5.43,9.29,11.43,13.81
+Minerals
+"Calcium, Ca",mg,63,18,11,42,71,88,106
+"Iron, Fe",mg,4.20,1.19,0.71,2.77,4.75,5.84,7.06
+"Magnesium, Mg",mg,157,45,27,104,177,218,264
+"Phosphorus, P",mg,376,107,64,248,425,523,632
+"Potassium, K",mg,507,144,86,335,573,705,852
+"Sodium, Na",mg,393,111,67,259,444,546,660
+"Zinc, Zn",mg,1.84,0.52,0.31,1.21,2.08,2.56,3.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.262,0.074,0.045,0.173,0.296,0.364,0.440
+"Riboflavin",mg,0.095,0.027,0.016,0.063,0.107,0.132,0.160
+"Niacin",mg,0.420,0.119,0.071,0.277,0.475,0.584,0.706
+"Vitamin B-6",mg,0.161,0.046,0.027,0.106,0.182,0.224,0.270
+"Folate, DFE",µg,139,39,24,92,157,193,234
+"Vitamin B-12",µg,0.01,0.00,0.00,0.01,0.01,0.01,0.02
+"Vitamin A, RAE",µg,0,0,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.66,0.19,0.11,0.44,0.75,0.92,1.11
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,13.0,3.7,2.2,8.6,14.7,18.1,21.8
+Lipids
+"Fatty acids, total saturated",g,1.087,0.308,0.185,0.717,1.228,1.511,1.826
+"Fatty acids, total monounsaturated",g,1.695,0.481,0.288,1.119,1.915,2.356,2.848
+"Fatty acids, total polyunsaturated",g,4.129,1.171,0.702,2.725,4.666,5.739,6.937
+"Cholesterol",mg,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

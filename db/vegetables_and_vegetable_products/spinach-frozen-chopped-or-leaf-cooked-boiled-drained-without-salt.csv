@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:29 EST
+"Nutrient data for: 11464, Spinach, frozen, chopped or leaf, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 95.0g","1 package (10 oz) yields = 220.0g",
+Proximates
+"Water",g,88.94,84.49,195.67
+"Energy",kcal,34,32,75
+"Protein",g,4.01,3.81,8.82
+"Total lipid (fat)",g,0.87,0.83,1.91
+"Carbohydrate, by difference",g,4.80,4.56,10.56
+"Fiber, total dietary",g,3.7,3.5,8.1
+"Sugars, total",g,0.51,0.48,1.12
+Minerals
+"Calcium, Ca",mg,153,145,337
+"Iron, Fe",mg,1.96,1.86,4.31
+"Magnesium, Mg",mg,82,78,180
+"Phosphorus, P",mg,50,48,110
+"Potassium, K",mg,302,287,664
+"Sodium, Na",mg,97,92,213
+"Zinc, Zn",mg,0.49,0.47,1.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.2,2.1,4.8
+"Thiamin",mg,0.078,0.074,0.172
+"Riboflavin",mg,0.176,0.167,0.387
+"Niacin",mg,0.439,0.417,0.966
+"Vitamin B-6",mg,0.136,0.129,0.299
+"Folate, DFE",µg,121,115,266
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,603,573,1327
+"Vitamin A, IU",IU,12061,11458,26534
+"Vitamin E (alpha-tocopherol)",mg,3.54,3.36,7.79
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,540.7,513.7,1189.5
+Lipids
+"Fatty acids, total saturated",g,0.157,0.149,0.345
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.371,0.352,0.816
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

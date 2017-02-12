@@ -1,0 +1,48 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:01 EST
+"Nutrient data for: 16126, Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 126.0g","0.25 block = 81.0g","0.2 block = 91.0g",
+Proximates
+"Water",g,82.93,104.49,67.17,75.47
+"Energy",kcal,78,98,63,71
+"Protein",g,9.04,11.39,7.32,8.23
+"Total lipid (fat)",g,4.17,5.25,3.38,3.79
+"Carbohydrate, by difference",g,2.85,3.59,2.31,2.59
+"Fiber, total dietary",g,0.9,1.1,0.7,0.8
+"Sugars, total",g,0.60,0.76,0.49,0.55
+Minerals
+"Calcium, Ca",mg,201,253,163,183
+"Iron, Fe",mg,1.61,2.03,1.30,1.47
+"Magnesium, Mg",mg,37,47,30,34
+"Phosphorus, P",mg,121,152,98,110
+"Potassium, K",mg,148,186,120,135
+"Sodium, Na",mg,12,15,10,11
+"Zinc, Zn",mg,0.83,1.05,0.67,0.76
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.3,0.2,0.2
+"Thiamin",mg,0.060,0.076,0.049,0.055
+"Riboflavin",mg,0.063,0.079,0.051,0.057
+"Niacin",mg,0.101,0.127,0.082,0.092
+"Vitamin B-6",mg,0.071,0.089,0.058,0.065
+"Folate, DFE",µg,19,24,15,17
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.01,0.01,0.01,0.01
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,2.4,3.0,1.9,2.2
+Lipids
+"Fatty acids, total saturated",g,0.793,0.999,0.642,0.722
+"Fatty acids, total monounsaturated",g,1.127,1.420,0.913,1.026
+"Fatty acids, total polyunsaturated",g,1.649,2.078,1.336,1.501
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0
+Footnotes
+(b)"Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly."
+(a)"Descriptive terms (soft, firm, extra firm) vary in usage between manufacturers as there are no standards for the various types of tofu."
+(b)"Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly."

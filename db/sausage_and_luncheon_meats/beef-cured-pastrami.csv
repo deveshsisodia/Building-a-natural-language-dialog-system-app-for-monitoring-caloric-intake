@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:13 EST
+"Nutrient data for: 13355, Beef, cured, pastrami"
+Nutrient,Unit,1Value per 100 g,"1 package, 2.5 oz = 71.0g","1 slice (1 oz) = 28.0g",
+Proximates
+"Water",g,69.53,49.37,19.47
+"Energy",kcal,147,104,41
+"Protein",g,21.80,15.48,6.10
+"Total lipid (fat)",g,5.82,4.13,1.63
+"Carbohydrate, by difference",g,0.36,0.26,0.10
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.10,0.07,0.03
+Minerals
+"Calcium, Ca",mg,10,7,3
+"Iron, Fe",mg,2.22,1.58,0.62
+"Magnesium, Mg",mg,17,12,5
+"Phosphorus, P",mg,175,124,49
+"Potassium, K",mg,210,149,59
+"Sodium, Na",mg,1078,765,302
+"Zinc, Zn",mg,4.98,3.54,1.39
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.2,0.1
+"Thiamin",mg,0.052,0.037,0.015
+"Riboflavin",mg,0.161,0.114,0.045
+"Niacin",mg,4.260,3.025,1.193
+"Vitamin B-6",mg,0.221,0.157,0.062
+"Folate, DFE",µg,6,4,2
+"Vitamin B-12",µg,1.87,1.33,0.52
+"Vitamin A, RAE",µg,2,1,1
+"Vitamin A, IU",IU,42,30,12
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.09,0.03
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.0
+"Vitamin D",IU,4,3,1
+"Vitamin K (phylloquinone)",µg,0.7,0.5,0.2
+Lipids
+"Fatty acids, total saturated",g,2.681,1.904,0.751
+"Fatty acids, total monounsaturated",g,2.118,1.504,0.593
+"Fatty acids, total polyunsaturated",g,0.145,0.103,0.041
+"Cholesterol",mg,68,48,19
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

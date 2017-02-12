@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:29 EST
+"Nutrient data for: 18407, Bagels, plain, unenriched, with calcium propionate (includes onion, poppy, sesame)"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 mini bagel (2-1/2"" dia) = 26.0g","1 small bagel (3"" dia) = 69.0g","1 medium bagel (3-1/2"" to 4"") = 105.0g","1 large bagel (4-1/2"" dia) = 131.0g",
+Proximates
+"Water",g,32.60,9.24,8.48,22.49,34.23,42.71
+"Energy",kcal,275,78,72,190,289,360
+"Protein",g,10.50,2.98,2.73,7.25,11.03,13.76
+"Total lipid (fat)",g,1.60,0.45,0.42,1.10,1.68,2.10
+"Carbohydrate, by difference",g,53.40,15.14,13.88,36.85,56.07,69.95
+"Fiber, total dietary",g,2.3,0.7,0.6,1.6,2.4,3.0
+Minerals
+"Calcium, Ca",mg,74,21,19,51,78,97
+"Iron, Fe",mg,1.36,0.39,0.35,0.94,1.43,1.78
+"Magnesium, Mg",mg,29,8,8,20,30,38
+"Phosphorus, P",mg,96,27,25,66,101,126
+"Potassium, K",mg,101,29,26,70,106,132
+"Sodium, Na",mg,534,151,139,368,561,700
+"Zinc, Zn",mg,0.88,0.25,0.23,0.61,0.92,1.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.163,0.046,0.042,0.112,0.171,0.214
+"Riboflavin",mg,0.052,0.015,0.014,0.036,0.055,0.068
+"Niacin",mg,1.758,0.498,0.457,1.213,1.846,2.303
+"Vitamin B-6",mg,0.051,0.014,0.013,0.035,0.054,0.067
+"Folate, DFE",µg,22,6,6,15,23,29
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.220,0.062,0.057,0.152,0.231,0.288
+"Fatty acids, total monounsaturated",g,0.131,0.037,0.034,0.090,0.138,0.172
+"Fatty acids, total polyunsaturated",g,0.696,0.197,0.181,0.480,0.731,0.912
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other

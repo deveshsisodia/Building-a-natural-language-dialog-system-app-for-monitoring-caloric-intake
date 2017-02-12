@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08130, Cereals, QUAKER, Instant Oatmeal, maple and brown sugar, dry"
+Nutrient,Unit,1Value per 100 g,"1 packet = 43.0g",
+Proximates
+"Water",g,6.28,2.70
+"Energy",kcal,368,158
+"Protein",g,9.20,3.96
+"Total lipid (fat)",g,4.63,1.99
+"Carbohydrate, by difference",g,76.91,33.07
+"Fiber, total dietary",g,7.2,3.1
+"Sugars, total",g,30.02,12.91
+Minerals
+"Calcium, Ca",mg,226,97
+"Iron, Fe",mg,8.22,3.53
+"Magnesium, Mg",mg,88,38
+"Phosphorus, P",mg,297,128
+"Potassium, K",mg,424,182
+"Sodium, Na",mg,506,218
+"Zinc, Zn",mg,1.70,0.73
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.523,0.225
+"Riboflavin",mg,0.907,0.390
+"Niacin",mg,10.667,4.587
+"Vitamin B-6",mg,1.200,0.516
+"Folate, DFE",µg,208,89
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,520,224
+"Vitamin A, IU",IU,1735,746
+"Vitamin E (alpha-tocopherol)",mg,0.44,0.19
+Lipids
+"Fatty acids, total saturated",g,0.793,0.341
+"Fatty acids, total monounsaturated",g,1.454,0.625
+"Fatty acids, total polyunsaturated",g,1.622,0.697
+"Fatty acids, total trans",g,0.002,0.001
+"Cholesterol",mg,0,0
+Amino Acids
+Other

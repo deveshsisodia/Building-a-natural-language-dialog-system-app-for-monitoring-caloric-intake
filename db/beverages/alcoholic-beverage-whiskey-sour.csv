@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:18 EST
+"Nutrient data for: 14531, Alcoholic beverage, whiskey sour"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 30.4g","1 portion (2 oz mix + 1.5 oz whiskey) = 106.0g","2.0 fl oz = 65.0g",
+Proximates
+"Water",g,72.60,22.07,76.96,47.19
+"Energy",kcal,149,45,158,97
+"Protein",g,0.00,0.00,0.00,0.00
+"Total lipid (fat)",g,0.03,0.01,0.03,0.02
+"Carbohydrate, by difference",g,13.17,4.00,13.96,8.56
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,1,0,1,1
+"Iron, Fe",mg,0.08,0.02,0.08,0.05
+"Magnesium, Mg",mg,1,0,1,1
+"Phosphorus, P",mg,6,2,6,4
+"Potassium, K",mg,5,2,5,3
+"Sodium, Na",mg,20,6,21,13
+"Zinc, Zn",mg,0.06,0.02,0.06,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.6,0.5,1.7,1.0
+"Thiamin",mg,0.011,0.003,0.012,0.007
+"Riboflavin",mg,0.006,0.002,0.006,0.004
+"Niacin",mg,0.020,0.006,0.021,0.013
+"Vitamin B-6",mg,0.000,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, IU",IU,13,4,14,8
+Lipids
+"Fatty acids, total saturated",g,0.005,0.002,0.005,0.003
+"Fatty acids, total monounsaturated",g,0.001,0.000,0.001,0.001
+"Fatty acids, total polyunsaturated",g,0.012,0.004,0.013,0.008
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other

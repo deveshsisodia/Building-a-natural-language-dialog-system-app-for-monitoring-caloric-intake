@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:52 EST
+"Nutrient data for: 17163, Game meat, caribou, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked (yield from 1 lb raw meat, boneless) = 340.0g",
+Proximates
+"Water",g,62.43,53.07,212.26
+"Energy",kcal,167,142,568
+"Protein",g,29.77,25.30,101.22
+"Total lipid (fat)",g,4.42,3.76,15.03
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,22,19,75
+"Iron, Fe",mg,6.17,5.24,20.98
+"Magnesium, Mg",mg,27,23,92
+"Phosphorus, P",mg,233,198,792
+"Potassium, K",mg,310,264,1054
+"Sodium, Na",mg,60,51,204
+"Zinc, Zn",mg,5.26,4.47,17.88
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.0,2.5,10.2
+"Thiamin",mg,0.250,0.212,0.850
+"Riboflavin",mg,0.900,0.765,3.060
+"Niacin",mg,5.790,4.921,19.686
+"Vitamin B-6",mg,0.320,0.272,1.088
+"Folate, DFE",µg,5,4,17
+"Vitamin B-12",µg,6.64,5.64,22.58
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.40,0.34,1.36
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.4,1.2,4.8
+Lipids
+"Fatty acids, total saturated",g,1.700,1.445,5.780
+"Fatty acids, total monounsaturated",g,1.330,1.131,4.522
+"Fatty acids, total polyunsaturated",g,0.620,0.527,2.108
+"Cholesterol",mg,109,93,371
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

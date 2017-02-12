@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:20 EST
+"Nutrient data for: 04539, Salad dressing, blue or roquefort cheese dressing, commercial, regular"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 cup = 245.0g",
+Proximates
+"Water",g,39.71,5.96,97.29
+"Energy",kcal,484,73,1186
+"Protein",g,1.37,0.21,3.36
+"Total lipid (fat)",g,51.10,7.67,125.19
+"Carbohydrate, by difference",g,4.77,0.72,11.69
+"Fiber, total dietary",g,0.4,0.1,1.0
+"Sugars, total",g,3.48,0.52,8.53
+Minerals
+"Calcium, Ca",mg,37,6,91
+"Iron, Fe",mg,0.09,0.01,0.22
+"Magnesium, Mg",mg,8,1,20
+"Phosphorus, P",mg,74,11,181
+"Potassium, K",mg,88,13,216
+"Sodium, Na",mg,642,96,1573
+"Zinc, Zn",mg,0.21,0.03,0.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.1,1.7
+"Thiamin",mg,0.010,0.002,0.025
+"Riboflavin",mg,0.100,0.015,0.245
+"Niacin",mg,0.100,0.015,0.245
+"Vitamin B-6",mg,0.037,0.006,0.091
+"Folate, DFE",µg,5,1,12
+"Vitamin B-12",µg,0.27,0.04,0.66
+"Vitamin A, RAE",µg,14,2,34
+"Vitamin A, IU",IU,73,11,179
+"Vitamin E (alpha-tocopherol)",mg,4.28,0.64,10.49
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.2
+"Vitamin D",IU,3,0,7
+"Vitamin K (phylloquinone)",µg,85.9,12.9,210.5
+Lipids
+"Fatty acids, total saturated",g,8.275,1.241,20.274
+"Fatty acids, total monounsaturated",g,13.279,1.992,32.534
+"Fatty acids, total polyunsaturated",g,27.545,4.132,67.485
+"Fatty acids, total trans",g,1.340,0.201,3.283
+"Cholesterol",mg,31,5,76
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

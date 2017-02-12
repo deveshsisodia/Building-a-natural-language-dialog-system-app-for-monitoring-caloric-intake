@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08678, Cereals ready-to-eat, GENERAL MILLS, Apple Cinnamon CHEX"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 31.0g",
+Proximates
+"Water",g,2.20,0.68
+"Energy",kcal,408,126
+"Protein",g,4.69,1.45
+"Total lipid (fat)",g,6.45,2.00
+"Carbohydrate, by difference",g,82.80,25.67
+"Fiber, total dietary",g,2.0,0.6
+"Sugars, total",g,26.00,8.06
+Minerals
+"Calcium, Ca",mg,323,100
+"Iron, Fe",mg,29.00,8.99
+"Magnesium, Mg",mg,26,8
+"Phosphorus, P",mg,129,40
+"Potassium, K",mg,162,50
+"Sodium, Na",mg,614,190
+"Zinc, Zn",mg,12.10,3.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,19.4,6.0
+"Thiamin",mg,1.200,0.372
+"Riboflavin",mg,1.390,0.431
+"Niacin",mg,16.100,4.991
+"Vitamin B-6",mg,1.610,0.499
+"Vitamin B-12",µg,4.80,1.49
+"Vitamin A, IU",IU,1613,500
+"Vitamin D (D2 + D3)",µg,3.2,1.0
+"Vitamin D",IU,129,40
+Lipids
+"Fatty acids, total monounsaturated",g,4.590,1.423
+"Fatty acids, total polyunsaturated",g,1.500,0.465
+"Fatty acids, total trans",g,0.100,0.031
+"Cholesterol",mg,0,0
+Amino Acids
+Other

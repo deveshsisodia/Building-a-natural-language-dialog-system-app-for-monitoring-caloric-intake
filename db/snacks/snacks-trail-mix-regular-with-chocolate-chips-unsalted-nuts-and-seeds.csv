@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 19822, Snacks, trail mix, regular, with chocolate chips, unsalted nuts and seeds"
+Nutrient,Unit,1Value per 100 g,"1 cup = 146.0g","1 oz = 28.35g","1.5 oz = 42.0g",
+Proximates
+"Water",g,6.60,9.64,1.87,2.77
+"Energy",kcal,484,707,137,203
+"Protein",g,14.20,20.73,4.03,5.96
+"Total lipid (fat)",g,31.90,46.57,9.04,13.40
+"Carbohydrate, by difference",g,44.90,65.55,12.73,18.86
+Minerals
+"Calcium, Ca",mg,109,159,31,46
+"Iron, Fe",mg,3.39,4.95,0.96,1.42
+"Magnesium, Mg",mg,161,235,46,68
+"Phosphorus, P",mg,387,565,110,163
+"Potassium, K",mg,648,946,184,272
+"Sodium, Na",mg,27,39,8,11
+"Zinc, Zn",mg,3.14,4.58,0.89,1.32
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.3,1.9,0.4,0.5
+"Thiamin",mg,0.413,0.603,0.117,0.173
+"Riboflavin",mg,0.224,0.327,0.064,0.094
+"Niacin",mg,4.405,6.431,1.249,1.850
+"Vitamin B-6",mg,0.259,0.378,0.073,0.109
+"Folate, DFE",µg,65,95,18,27
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,13,19,4,5
+"Vitamin A, IU",IU,44,64,12,18
+Lipids
+"Fatty acids, total saturated",g,6.100,8.906,1.729,2.562
+"Fatty acids, total monounsaturated",g,13.540,19.768,3.839,5.687
+"Fatty acids, total polyunsaturated",g,11.290,16.483,3.201,4.742
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other

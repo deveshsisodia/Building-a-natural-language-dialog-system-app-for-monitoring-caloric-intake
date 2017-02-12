@@ -1,0 +1,34 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:30 EST
+"Nutrient data for: 28338, Bread, gluten-free, white, made with tapioca starch and brown rice flour"
+Nutrient,Unit,1Value per 100 g,"1 slice = 28.0g",
+Proximates
+"Water",g,33.69,9.43
+"Energy",kcal,298,83
+"Protein",g,5.40,1.51
+"Total lipid (fat)",g,8.02,2.25
+"Carbohydrate, by difference",g,51.15,14.32
+"Fiber, total dietary",g,5.5,1.5
+"Sugars, total",g,11.30,3.16
+Minerals
+"Calcium, Ca",mg,59,17
+"Iron, Fe",mg,0.53,0.15
+"Magnesium, Mg",mg,25,7
+"Phosphorus, P",mg,70,20
+"Potassium, K",mg,107,30
+"Sodium, Na",mg,515,144
+"Zinc, Zn",mg,0.51,0.14
+Vitamins
+"Thiamin",mg,0.135,0.038
+"Riboflavin",mg,0.270,0.076
+"Niacin",mg,1.405,0.393
+"Vitamin B-6",mg,0.095,0.027
+"Vitamin E (alpha-tocopherol)",mg,1.61,0.45
+Lipids
+"Fatty acids, total saturated",g,0.629,0.176
+"Fatty acids, total monounsaturated",g,4.721,1.322
+"Fatty acids, total polyunsaturated",g,1.957,0.548
+"Fatty acids, total trans",g,0.023,0.006
+Amino Acids
+Other

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:11 EST
+"Nutrient data for: 43261, Yogurt, fruit variety, nonfat"
+Nutrient,Unit,1Value per 100 g,"1 container (6 oz) = 170.0g","1 container (4.4 oz) = 125.0g","1 cup (8 fl oz) = 245.0g","1 container (8 oz) = 227.0g",
+Proximates
+"Water",g,75.40,128.18,94.25,184.73,171.16
+"Energy",kcal,95,162,119,233,216
+"Protein",g,4.40,7.48,5.50,10.78,9.99
+"Total lipid (fat)",g,0.20,0.34,0.25,0.49,0.45
+"Carbohydrate, by difference",g,19.00,32.30,23.75,46.55,43.13
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,19.00,32.30,23.75,46.55,43.13
+Minerals
+"Calcium, Ca",mg,152,258,190,372,345
+"Iron, Fe",mg,0.07,0.12,0.09,0.17,0.16
+"Magnesium, Mg",mg,15,26,19,37,34
+"Phosphorus, P",mg,119,202,149,292,270
+"Potassium, K",mg,194,330,242,475,440
+"Sodium, Na",mg,58,99,72,142,132
+"Zinc, Zn",mg,0.74,1.26,0.93,1.81,1.68
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,1.2,0.9,1.7,1.6
+"Thiamin",mg,0.040,0.068,0.050,0.098,0.091
+"Riboflavin",mg,0.180,0.306,0.225,0.441,0.409
+"Niacin",mg,0.100,0.170,0.125,0.245,0.227
+"Vitamin B-6",mg,0.040,0.068,0.050,0.098,0.091
+"Folate, DFE",µg,9,15,11,22,20
+"Vitamin B-12",µg,0.47,0.80,0.59,1.15,1.07
+"Vitamin A, RAE",µg,2,3,2,5,5
+"Vitamin A, IU",IU,12,20,15,29,27
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.10,0.07,0.15,0.14
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,1.1,1.9,1.4,2.7,2.5
+Lipids
+"Fatty acids, total saturated",g,0.119,0.202,0.149,0.292,0.270
+"Fatty acids, total monounsaturated",g,0.050,0.085,0.062,0.122,0.114
+"Fatty acids, total polyunsaturated",g,0.016,0.027,0.020,0.039,0.036
+"Cholesterol",mg,2,3,2,5,5
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

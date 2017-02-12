@@ -1,0 +1,48 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:25 EST
+"Nutrient data for: 22914, Pasta with tomato sauce, no meat, canned"
+Nutrient,Unit,1Value per 100 g,"1 serving (1 NLEA serving) = 252.0g","1 cup = 238.0g",
+Proximates
+"Water",g,82.15,207.02,195.52
+"Energy",kcal,70,176,167
+"Protein",g,2.22,5.59,5.28
+"Total lipid (fat)",g,0.44,1.11,1.05
+"Carbohydrate, by difference",g,14.22,35.83,33.84
+"Fiber, total dietary",g,0.9,2.3,2.1
+"Sugars, total",g,4.00,10.08,9.52
+Minerals
+"Calcium, Ca",mg,13,33,31
+"Iron, Fe",mg,0.91,2.29,2.17
+"Magnesium, Mg",mg,14,35,33
+"Phosphorus, P",mg,39,98,93
+"Potassium, K",mg,192,484,457
+"Sodium, Na",mg,272,685,647
+"Zinc, Zn",mg,0.38,0.96,0.90
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.058,0.146,0.138
+"Riboflavin",mg,0.052,0.131,0.124
+"Niacin",mg,1.302,3.281,3.099
+"Vitamin B-6",mg,0.058,0.146,0.138
+"Folate, DFE",µg,50,126,119
+"Vitamin B-12",µg,0.01,0.03,0.02
+"Vitamin A, RAE",µg,36,91,86
+"Vitamin A, IU",IU,696,1754,1656
+"Vitamin E (alpha-tocopherol)",mg,0.62,1.56,1.48
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.2,3.0,2.9
+Lipids
+"Fatty acids, total saturated",g,0.136,0.343,0.324
+"Fatty acids, total monounsaturated",g,0.088,0.222,0.209
+"Fatty acids, total polyunsaturated",g,0.171,0.431,0.407
+"Fatty acids, total trans",g,0.006,0.015,0.014
+"Cholesterol",mg,1,3,2
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(c)"Mean of fortified and unfortified products.  Values range from 0 IU (unfortified) to 40 IU (fortified at 25% DV per serving)"
+(b)"Mean of fortified and unfortified products.  Values range from 0.0 mcg (unfortified) to 1 mcg (fortified)"
+(a)"Mean of fortified and unfortified products.  Values range from 12.8 mg (unfortified) to 119 mg (fortified at 30% DV per serving)"

@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:36 EST
+"Nutrient data for: 21238, McDONALD'S, french fries"
+Nutrient,Unit,1Value per 100 g,"1 small serving = 71.0g","1 medium serving = 117.0g","1 large serving = 154.0g","1 kids serving = 31.0g",
+Proximates
+"Water",g,36.63,26.01,42.86,56.41,11.36
+"Energy",kcal,323,229,378,497,100
+"Protein",g,3.41,2.42,3.99,5.25,1.06
+"Total lipid (fat)",g,15.47,10.98,18.10,23.82,4.80
+"Carbohydrate, by difference",g,42.58,30.23,49.82,65.57,13.20
+"Fiber, total dietary",g,3.9,2.8,4.6,6.0,1.2
+"Sugars, total",g,0.21,0.15,0.25,0.32,0.07
+Minerals
+"Calcium, Ca",mg,19,13,22,29,6
+"Iron, Fe",mg,0.80,0.57,0.94,1.23,0.25
+"Magnesium, Mg",mg,37,26,43,57,11
+"Phosphorus, P",mg,127,90,149,196,39
+"Potassium, K",mg,596,423,697,918,185
+"Sodium, Na",mg,189,134,221,291,59
+"Zinc, Zn",mg,0.51,0.36,0.60,0.79,0.16
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.6,4.0,6.6,8.6,1.7
+"Thiamin",mg,0.180,0.128,0.211,0.277,0.056
+"Riboflavin",mg,0.037,0.026,0.043,0.057,0.011
+"Niacin",mg,3.220,2.286,3.767,4.959,0.998
+"Vitamin B-6",mg,0.380,0.270,0.445,0.585,0.118
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.38,0.98,1.61,2.13,0.43
+"Vitamin K (phylloquinone)",µg,16.0,11.4,18.7,24.6,5.0
+Lipids
+"Fatty acids, total saturated",g,2.271,1.612,2.657,3.497,0.704
+"Fatty acids, total monounsaturated",g,7.379,5.239,8.633,11.364,2.287
+"Fatty acids, total polyunsaturated",g,4.727,3.356,5.531,7.280,1.465
+"Fatty acids, total trans",g,0.064,0.045,0.075,0.099,0.020
+Amino Acids
+Other

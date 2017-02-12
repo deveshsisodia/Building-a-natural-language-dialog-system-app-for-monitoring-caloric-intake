@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:20 EST
+"Nutrient data for: 44203, Beverages, Cocktail mix, non-alcoholic, concentrated, frozen"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 36.0g","1 serving 2 fl oz = 71.0g","1 can 10 fl oz = 355.0g",
+Proximates
+"Water",g,28.24,10.17,20.05,100.25
+"Energy",kcal,287,103,204,1019
+"Protein",g,0.08,0.03,0.06,0.28
+"Total lipid (fat)",g,0.01,0.00,0.01,0.04
+"Carbohydrate, by difference",g,71.60,25.78,50.84,254.18
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,24.53,8.83,17.42,87.08
+Minerals
+"Calcium, Ca",mg,2,1,1,7
+"Iron, Fe",mg,0.04,0.01,0.03,0.14
+"Magnesium, Mg",mg,1,0,1,4
+"Phosphorus, P",mg,2,1,1,7
+"Potassium, K",mg,23,8,16,82
+"Sodium, Na",mg,0,0,0,0
+"Zinc, Zn",mg,0.02,0.01,0.01,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.2,1.5,3.0,14.9
+"Thiamin",mg,0.009,0.003,0.006,0.032
+"Riboflavin",mg,0.017,0.006,0.012,0.060
+"Niacin",mg,0.026,0.009,0.018,0.092
+"Vitamin B-6",mg,0.005,0.002,0.004,0.018
+"Folate, DFE",µg,5,2,4,18
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,0,1,4
+"Vitamin A, IU",IU,12,4,9,43
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.01,0.01,0.07
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.003,0.001,0.002,0.011
+"Fatty acids, total monounsaturated",g,0.001,0.000,0.001,0.004
+"Fatty acids, total polyunsaturated",g,0.009,0.003,0.006,0.032
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

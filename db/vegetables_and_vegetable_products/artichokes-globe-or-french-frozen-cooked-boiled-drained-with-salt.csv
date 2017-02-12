@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:15 EST
+"Nutrient data for: 11703, Artichokes, (globe or french), frozen, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 168.0g","1 package (9 oz), yields = 240.0g","0.333 package (9 oz) yields = 80.0g",
+Proximates
+"Water",g,86.50,145.32,207.60,69.20
+"Energy",kcal,45,76,108,36
+"Protein",g,3.11,5.22,7.46,2.49
+"Total lipid (fat)",g,0.50,0.84,1.20,0.40
+"Carbohydrate, by difference",g,9.18,15.42,22.03,7.34
+"Fiber, total dietary",g,4.6,7.7,11.0,3.7
+"Sugars, total",g,0.84,1.41,2.02,0.67
+Minerals
+"Calcium, Ca",mg,21,35,50,17
+"Iron, Fe",mg,0.56,0.94,1.34,0.45
+"Magnesium, Mg",mg,31,52,74,25
+"Phosphorus, P",mg,61,102,146,49
+"Potassium, K",mg,264,444,634,211
+"Sodium, Na",mg,289,486,694,231
+"Zinc, Zn",mg,0.36,0.60,0.86,0.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.0,8.4,12.0,4.0
+"Thiamin",mg,0.062,0.104,0.149,0.050
+"Riboflavin",mg,0.158,0.265,0.379,0.126
+"Niacin",mg,0.915,1.537,2.196,0.732
+"Vitamin B-6",mg,0.087,0.146,0.209,0.070
+"Folate, DFE",µg,119,200,286,95
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,2,2,1
+"Vitamin A, IU",IU,11,18,26,9
+"Vitamin E (alpha-tocopherol)",mg,0.16,0.27,0.38,0.13
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,12.6,21.2,30.2,10.1
+Lipids
+"Fatty acids, total saturated",g,0.119,0.200,0.286,0.095
+"Fatty acids, total monounsaturated",g,0.015,0.025,0.036,0.012
+"Fatty acids, total polyunsaturated",g,0.216,0.363,0.518,0.173
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

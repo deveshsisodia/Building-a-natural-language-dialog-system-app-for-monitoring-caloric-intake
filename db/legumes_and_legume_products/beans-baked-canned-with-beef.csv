@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:56 EST
+"Nutrient data for: 16007, Beans, baked, canned, with beef"
+Nutrient,Unit,1Value per 100 g,"1 cup = 266.0g",
+Proximates
+"Water",g,71.33,189.74
+"Energy",kcal,121,322
+"Protein",g,6.38,16.97
+"Total lipid (fat)",g,3.45,9.18
+"Carbohydrate, by difference",g,16.91,44.98
+Minerals
+"Calcium, Ca",mg,45,120
+"Iron, Fe",mg,1.60,4.26
+"Magnesium, Mg",mg,25,66
+"Phosphorus, P",mg,81,215
+"Potassium, K",mg,320,851
+"Sodium, Na",mg,475,1264
+"Zinc, Zn",mg,1.20,3.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.8,4.8
+"Thiamin",mg,0.052,0.138
+"Riboflavin",mg,0.045,0.120
+"Niacin",mg,0.940,2.500
+"Vitamin B-6",mg,0.090,0.239
+"Folate, DFE",µg,43,114
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,11,29
+"Vitamin A, IU",IU,213,567
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.677,4.461
+"Fatty acids, total monounsaturated",g,1.385,3.684
+"Fatty acids, total polyunsaturated",g,0.205,0.545
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,22,59
+Amino Acids
+Other

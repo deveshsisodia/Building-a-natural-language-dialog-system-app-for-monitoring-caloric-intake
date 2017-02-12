@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:12 EST
+"Nutrient data for: 20028, Couscous, dry"
+Nutrient,Unit,1Value per 100 g,"1 cup = 173.0g",
+Proximates
+"Water",g,8.56,14.81
+"Energy",kcal,376,650
+"Protein",g,12.76,22.07
+"Total lipid (fat)",g,0.64,1.11
+"Carbohydrate, by difference",g,77.43,133.95
+"Fiber, total dietary",g,5.0,8.7
+Minerals
+"Calcium, Ca",mg,24,42
+"Iron, Fe",mg,1.08,1.87
+"Magnesium, Mg",mg,44,76
+"Phosphorus, P",mg,170,294
+"Potassium, K",mg,166,287
+"Sodium, Na",mg,10,17
+"Zinc, Zn",mg,0.83,1.44
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.163,0.282
+"Riboflavin",mg,0.078,0.135
+"Niacin",mg,3.490,6.038
+"Vitamin B-6",mg,0.110,0.190
+"Folate, DFE",µg,20,35
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.117,0.202
+"Fatty acids, total monounsaturated",g,0.089,0.154
+"Fatty acids, total polyunsaturated",g,0.252,0.436
+"Cholesterol",mg,0,0
+Amino Acids
+Other

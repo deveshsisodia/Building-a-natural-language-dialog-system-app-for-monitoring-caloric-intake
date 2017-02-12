@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:41 EST
+"Nutrient data for: 28011, KELLOGG'S, EGGO, Waffles, Cinnamon Toast"
+Nutrient,Unit,1Value per 100 g,"3.0 sets = 92.0g",
+Proximates
+"Water",g,29.60,27.23
+"Energy",kcal,325,299
+"Protein",g,5.50,5.06
+"Total lipid (fat)",g,11.90,10.95
+"Carbohydrate, by difference",g,49.50,45.54
+"Fiber, total dietary",g,1.4,1.3
+"Sugars, total",g,18.20,16.74
+Minerals
+"Calcium, Ca",mg,272,250
+"Iron, Fe",mg,6.80,6.26
+"Magnesium, Mg",mg,15,14
+"Phosphorus, P",mg,277,255
+"Potassium, K",mg,76,70
+"Sodium, Na",mg,524,482
+"Zinc, Zn",mg,0.40,0.37
+Vitamins
+"Thiamin",mg,0.490,0.451
+"Riboflavin",mg,0.550,0.506
+"Niacin",mg,6.500,5.980
+"Vitamin B-6",mg,0.650,0.598
+"Vitamin B-12",µg,2.30,2.12
+"Vitamin A, RAE",µg,489,450
+"Vitamin A, IU",IU,1630,1500
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.1,0.1
+"Vitamin D",IU,2,2
+Lipids
+"Fatty acids, total saturated",g,3.400,3.128
+"Fatty acids, total monounsaturated",g,3.100,2.852
+"Fatty acids, total polyunsaturated",g,4.600,4.232
+"Fatty acids, total trans",g,0.200,0.184
+"Cholesterol",mg,22,20
+Amino Acids
+Other

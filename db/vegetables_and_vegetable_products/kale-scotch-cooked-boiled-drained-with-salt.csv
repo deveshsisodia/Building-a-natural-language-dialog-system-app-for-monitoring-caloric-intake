@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:22 EST
+"Nutrient data for: 11792, Kale, scotch, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 130.0g",
+Proximates
+"Water",g,91.20,118.56
+"Energy",kcal,28,36
+"Protein",g,1.90,2.47
+"Total lipid (fat)",g,0.41,0.53
+"Carbohydrate, by difference",g,5.62,7.31
+Minerals
+"Calcium, Ca",mg,132,172
+"Iron, Fe",mg,1.93,2.51
+"Magnesium, Mg",mg,57,74
+"Phosphorus, P",mg,38,49
+"Potassium, K",mg,274,356
+"Sodium, Na",mg,281,365
+"Zinc, Zn",mg,0.24,0.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,52.8,68.6
+"Thiamin",mg,0.040,0.052
+"Riboflavin",mg,0.039,0.051
+"Niacin",mg,0.792,1.030
+"Vitamin B-6",mg,0.139,0.181
+"Folate, DFE",µg,13,17
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,100,130
+"Vitamin A, IU",IU,1994,2592
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.053,0.069
+"Fatty acids, total monounsaturated",g,0.030,0.039
+"Fatty acids, total polyunsaturated",g,0.196,0.255
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

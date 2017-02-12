@@ -1,0 +1,30 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:29 EST
+"Nutrient data for: 35073, Soup, fish, homemade (Alaska Native)"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,84.00,
+"Energy",kcal,72,
+"Protein",g,7.40,
+"Total lipid (fat)",g,2.20,
+"Carbohydrate, by difference",g,5.60,
+Minerals
+"Calcium, Ca",mg,35,
+"Iron, Fe",mg,0.50,
+"Magnesium, Mg",mg,1,
+"Phosphorus, P",mg,112,
+"Potassium, K",mg,128,
+"Sodium, Na",mg,30,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,
+"Thiamin",mg,0.070,
+"Riboflavin",mg,0.020,
+"Niacin",mg,2.640,
+"Vitamin B-6",mg,0.010,
+"Vitamin A, IU",IU,40,
+Lipids
+"Fatty acids, total saturated",g,0.500,
+"Cholesterol",mg,12,
+Amino Acids
+Other

@@ -1,0 +1,45 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:09 EST
+"Nutrient data for: 12154, Nuts, walnuts, black, dried"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 125.0g","1 tbsp = 7.8g","1 oz = 28.35g",
+Proximates
+"Water",g,4.56,5.70,0.36,1.29
+"Energy",kcal,619,774,48,175
+"Protein",g,24.06,30.07,1.88,6.82
+"Total lipid (fat)",g,59.33,74.16,4.63,16.82
+"Carbohydrate, by difference",g,9.58,11.97,0.75,2.72
+"Fiber, total dietary",g,6.8,8.5,0.5,1.9
+"Sugars, total",g,1.10,1.38,0.09,0.31
+Minerals
+"Calcium, Ca",mg,61,76,5,17
+"Iron, Fe",mg,3.12,3.90,0.24,0.88
+"Magnesium, Mg",mg,201,251,16,57
+"Phosphorus, P",mg,513,641,40,145
+"Potassium, K",mg,523,654,41,148
+"Sodium, Na",mg,2,2,0,1
+"Zinc, Zn",mg,3.37,4.21,0.26,0.96
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.7,2.1,0.1,0.5
+"Thiamin",mg,0.057,0.071,0.004,0.016
+"Riboflavin",mg,0.130,0.163,0.010,0.037
+"Niacin",mg,0.470,0.588,0.037,0.133
+"Vitamin B-6",mg,0.583,0.729,0.045,0.165
+"Folate, DFE",µg,31,39,2,9
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,2,2,0,1
+"Vitamin A, IU",IU,40,50,3,11
+"Vitamin E (alpha-tocopherol)",mg,2.08,2.60,0.16,0.59
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,2.7,3.4,0.2,0.8
+Lipids
+"Fatty acids, total saturated",g,3.483,4.354,0.272,0.987
+"Fatty acids, total monounsaturated",g,15.442,19.302,1.204,4.378
+"Fatty acids, total polyunsaturated",g,36.437,45.546,2.842,10.330
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0
+Footnotes
+(a)"Additional phytosterols total 57 mg/100 g; these include delta 5-avenasterol + sitostanol (28.7) and other minor sterols (28.3)."

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:12 EST
+"Nutrient data for: 20030, Hominy, canned, white"
+Nutrient,Unit,1Value per 100 g,"1 cup = 165.0g",
+Proximates
+"Water",g,82.53,136.17
+"Energy",kcal,72,119
+"Protein",g,1.48,2.44
+"Total lipid (fat)",g,0.88,1.45
+"Carbohydrate, by difference",g,14.26,23.53
+"Fiber, total dietary",g,2.5,4.1
+"Sugars, total",g,1.82,3.00
+Minerals
+"Calcium, Ca",mg,10,16
+"Iron, Fe",mg,0.62,1.02
+"Magnesium, Mg",mg,16,26
+"Phosphorus, P",mg,35,58
+"Potassium, K",mg,9,15
+"Sodium, Na",mg,345,569
+"Zinc, Zn",mg,1.05,1.73
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.003,0.005
+"Riboflavin",mg,0.006,0.010
+"Niacin",mg,0.033,0.054
+"Vitamin B-6",mg,0.005,0.008
+"Folate, DFE",µg,1,2
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,1,2
+"Vitamin E (alpha-tocopherol)",mg,0.05,0.08
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.2,0.3
+Lipids
+"Fatty acids, total saturated",g,0.123,0.203
+"Fatty acids, total monounsaturated",g,0.231,0.381
+"Fatty acids, total polyunsaturated",g,0.399,0.658
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

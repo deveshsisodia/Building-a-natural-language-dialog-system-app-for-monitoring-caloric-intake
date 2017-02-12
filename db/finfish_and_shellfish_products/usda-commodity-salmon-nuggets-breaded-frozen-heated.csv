@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:08 EST
+"Nutrient data for: 15251, USDA Commodity, salmon nuggets, breaded, frozen, heated"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,60.38,17.12
+"Energy",kcal,212,60
+"Protein",g,12.69,3.60
+"Total lipid (fat)",g,11.72,3.32
+"Carbohydrate, by difference",g,13.96,3.96
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,8,2
+"Iron, Fe",mg,1.24,0.35
+"Magnesium, Mg",mg,20,6
+"Phosphorus, P",mg,176,50
+"Potassium, K",mg,165,47
+"Sodium, Na",mg,173,49
+"Zinc, Zn",mg,0.52,0.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.207,0.059
+"Riboflavin",mg,0.156,0.044
+"Niacin",mg,4.527,1.283
+"Vitamin B-6",mg,0.222,0.063
+"Folate, DFE",µg,11,3
+"Vitamin B-12",µg,2.07,0.59
+Lipids
+"Fatty acids, total saturated",g,1.570,0.445
+"Fatty acids, total monounsaturated",g,4.625,1.311
+"Fatty acids, total polyunsaturated",g,3.028,0.858
+"Cholesterol",mg,26,7
+Amino Acids
+Other

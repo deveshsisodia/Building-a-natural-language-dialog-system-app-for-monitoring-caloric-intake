@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:00 EST
+"Nutrient data for: 16239, SILK Light Vanilla, soymilk"
+Nutrient,Unit,1Value per 100 g,"1 cup = 243.0g",
+Proximates
+"Water",g,91.95,223.44
+"Energy",kcal,33,80
+"Protein",g,2.47,6.00
+"Total lipid (fat)",g,0.82,1.99
+"Carbohydrate, by difference",g,4.12,10.01
+"Fiber, total dietary",g,0.4,1.0
+"Sugars, total",g,2.88,7.00
+Minerals
+"Calcium, Ca",mg,123,299
+"Iron, Fe",mg,0.44,1.07
+"Magnesium, Mg",mg,16,39
+"Potassium, K",mg,123,299
+"Sodium, Na",mg,39,95
+"Zinc, Zn",mg,0.25,0.61
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Riboflavin",mg,0.210,0.510
+"Vitamin B-12",µg,1.23,2.99
+"Vitamin A, IU",IU,206,501
+"Vitamin D (D2 + D3)",µg,1.2,2.9
+"Vitamin D",IU,49,119
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

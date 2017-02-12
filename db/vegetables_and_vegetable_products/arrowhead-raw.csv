@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:15 EST
+"Nutrient data for: 11005, Arrowhead, raw"
+Nutrient,Unit,1Value per 100 g,"1 large = 25.0g","1 medium = 12.0g",
+Proximates
+"Water",g,72.48,18.12,8.70
+"Energy",kcal,99,25,12
+"Protein",g,5.33,1.33,0.64
+"Total lipid (fat)",g,0.29,0.07,0.03
+"Carbohydrate, by difference",g,20.23,5.06,2.43
+Minerals
+"Calcium, Ca",mg,10,2,1
+"Iron, Fe",mg,2.57,0.64,0.31
+"Magnesium, Mg",mg,51,13,6
+"Phosphorus, P",mg,174,44,21
+"Potassium, K",mg,922,230,111
+"Sodium, Na",mg,22,6,3
+"Zinc, Zn",mg,0.28,0.07,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,0.3,0.1
+"Thiamin",mg,0.170,0.043,0.020
+"Riboflavin",mg,0.073,0.018,0.009
+"Niacin",mg,1.650,0.412,0.198
+"Vitamin B-6",mg,0.260,0.065,0.031
+"Folate, DFE",µg,14,4,2
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:37 EST
+"Nutrient data for: 10889, Pork, cured, ham and water product, shank, bone-in, unheated, separable lean only"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,73.97,62.87
+"Energy",kcal,113,96
+"Protein",g,17.53,14.90
+"Total lipid (fat)",g,4.18,3.55
+"Carbohydrate, by difference",g,1.20,1.02
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,1.06,0.90
+Minerals
+"Calcium, Ca",mg,8,7
+"Iron, Fe",mg,0.97,0.82
+"Magnesium, Mg",mg,15,13
+"Phosphorus, P",mg,209,178
+"Potassium, K",mg,234,199
+"Sodium, Na",mg,1090,926
+"Zinc, Zn",mg,2.19,1.86
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.696,0.592
+"Riboflavin",mg,0.225,0.191
+"Niacin",mg,3.580,3.043
+"Vitamin B-6",mg,0.267,0.227
+"Folate, DFE",µg,1,1
+"Vitamin B-12",µg,0.55,0.47
+"Vitamin A, RAE",µg,9,8
+"Vitamin A, IU",IU,32,27
+"Vitamin E (alpha-tocopherol)",mg,0.25,0.21
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.384,1.176
+"Fatty acids, total monounsaturated",g,1.849,1.572
+"Fatty acids, total polyunsaturated",g,0.671,0.570
+"Fatty acids, total trans",g,0.041,0.035
+"Cholesterol",mg,52,44
+Amino Acids
+Other
+"Caffeine",mg,0,0

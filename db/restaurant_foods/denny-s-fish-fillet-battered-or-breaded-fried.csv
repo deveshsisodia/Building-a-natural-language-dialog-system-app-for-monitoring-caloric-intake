@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:26 EST
+"Nutrient data for: 36029, DENNY'S, fish fillet, battered or breaded, fried"
+Nutrient,Unit,1Value per 100 g,"1 serving = 201.0g",
+Proximates
+"Water",g,54.66,109.87
+"Energy",kcal,234,470
+"Protein",g,13.75,27.64
+"Total lipid (fat)",g,12.16,24.44
+"Carbohydrate, by difference",g,17.41,34.99
+"Fiber, total dietary",g,1.0,2.0
+"Sugars, total",g,0.40,0.80
+Minerals
+"Calcium, Ca",mg,14,28
+"Iron, Fe",mg,0.41,0.82
+"Magnesium, Mg",mg,25,50
+"Phosphorus, P",mg,181,364
+"Potassium, K",mg,261,525
+"Sodium, Na",mg,516,1037
+"Zinc, Zn",mg,0.44,0.88
+Vitamins
+"Thiamin",mg,0.067,0.135
+"Riboflavin",mg,0.100,0.201
+"Niacin",mg,2.660,5.347
+"Vitamin B-6",mg,0.260,0.523
+"Vitamin B-12",µg,1.12,2.25
+"Vitamin A, RAE",µg,2,4
+"Vitamin A, IU",IU,11,22
+"Vitamin E (alpha-tocopherol)",mg,1.00,2.01
+Lipids
+"Fatty acids, total saturated",g,2.139,4.299
+"Fatty acids, total monounsaturated",g,2.608,5.242
+"Fatty acids, total polyunsaturated",g,6.110,12.281
+"Fatty acids, total trans",g,0.112,0.225
+"Cholesterol",mg,37,74
+Amino Acids
+Other

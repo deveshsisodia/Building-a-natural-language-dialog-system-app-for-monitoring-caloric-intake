@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:27 EST
+"Nutrient data for: 32028, Turnover, filled with egg, meat and cheese, frozen"
+Nutrient,Unit,1Value per 100 g,"1 piece turnover 1 serving = 127.0g",
+Proximates
+"Water",g,57.21,72.66
+"Energy",kcal,228,290
+"Protein",g,7.87,9.99
+"Total lipid (fat)",g,12.60,16.00
+"Carbohydrate, by difference",g,20.67,26.25
+"Fiber, total dietary",g,0.8,1.0
+"Sugars, total",g,7.87,9.99
+Minerals
+"Calcium, Ca",mg,79,100
+"Iron, Fe",mg,2.13,2.71
+"Magnesium, Mg",mg,16,20
+"Phosphorus, P",mg,111,141
+"Potassium, K",mg,177,225
+"Sodium, Na",mg,378,480
+"Zinc, Zn",mg,0.99,1.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.261,0.331
+"Riboflavin",mg,0.224,0.284
+"Niacin",mg,2.726,3.462
+"Vitamin B-6",mg,0.084,0.107
+"Folate, DFE",µg,70,89
+"Vitamin B-12",µg,0.33,0.42
+"Vitamin A, RAE",µg,39,50
+"Vitamin A, IU",IU,157,199
+"Vitamin E (alpha-tocopherol)",mg,0.65,0.83
+"Vitamin D (D2 + D3)",µg,0.4,0.5
+"Vitamin D",IU,15,19
+"Vitamin K (phylloquinone)",µg,3.8,4.8
+Lipids
+"Fatty acids, total saturated",g,5.512,7.000
+"Fatty acids, total monounsaturated",g,4.298,5.458
+"Fatty acids, total polyunsaturated",g,2.019,2.564
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,31,39
+Amino Acids
+Other
+"Caffeine",mg,0,0

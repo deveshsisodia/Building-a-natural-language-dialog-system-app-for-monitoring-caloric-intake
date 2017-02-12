@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:52 EST
+"Nutrient data for: 25016, Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Energy Bar, all flavors"
+Nutrient,Unit,1Value per 100 g,"1 bar = 55.0g","1 bar = 44.0g",
+Proximates
+"Water",g,14.00,7.70,6.16
+"Energy",kcal,386,212,170
+"Protein",g,21.91,12.05,9.64
+"Total lipid (fat)",g,10.79,5.93,4.75
+"Carbohydrate, by difference",g,50.30,27.66,22.13
+"Fiber, total dietary",g,6.7,3.7,2.9
+"Sugars, total",g,28.71,15.79,12.63
+Minerals
+"Calcium, Ca",mg,754,415,332
+"Iron, Fe",mg,16.31,8.97,7.18
+"Magnesium, Mg",mg,317,174,139
+"Phosphorus, P",mg,455,250,200
+"Potassium, K",mg,351,193,154
+"Sodium, Na",mg,383,211,169
+"Zinc, Zn",mg,11.88,6.53,5.23
+Vitamins
+"Vitamin C, total ascorbic acid",mg,489.9,269.4,215.6
+"Thiamin",mg,2.949,1.622,1.298
+"Riboflavin",mg,3.343,1.839,1.471
+"Niacin",mg,45.249,24.887,19.910
+"Vitamin B-6",mg,4.525,2.489,1.991
+"Folate, DFE",µg,1102,606,485
+"Vitamin B-12",µg,12.24,6.73,5.39
+"Vitamin A, RAE",µg,62,34,27
+"Vitamin A, IU",IU,209,115,92
+"Vitamin E (alpha-tocopherol)",mg,27.53,15.14,12.11
+"Vitamin D (D2 + D3)",µg,4.5,2.5,2.0
+"Vitamin D",IU,181,100,80
+"Vitamin K (phylloquinone)",µg,1.8,1.0,0.8
+Lipids
+"Fatty acids, total saturated",g,4.753,2.614,2.091
+"Fatty acids, total monounsaturated",g,3.920,2.156,1.725
+"Fatty acids, total polyunsaturated",g,1.917,1.054,0.843
+"Fatty acids, total trans",g,0.151,0.083,0.066
+"Cholesterol",mg,4,2,2
+Amino Acids
+Other
+"Caffeine",mg,6,3,3

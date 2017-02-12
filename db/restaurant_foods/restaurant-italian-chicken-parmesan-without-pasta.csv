@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:27 EST
+"Nutrient data for: 36059, Restaurant, Italian, chicken parmesan without pasta"
+Nutrient,Unit,1Value per 100 g,"1 serving = 301.0g",
+Proximates
+"Water",g,59.88,180.24
+"Energy",kcal,204,614
+"Protein",g,16.17,48.67
+"Total lipid (fat)",g,10.64,32.03
+"Carbohydrate, by difference",g,10.92,32.87
+"Fiber, total dietary",g,0.9,2.7
+"Sugars, total",g,2.79,8.40
+Minerals
+"Calcium, Ca",mg,106,319
+"Iron, Fe",mg,0.68,2.05
+"Magnesium, Mg",mg,26,78
+"Phosphorus, P",mg,227,683
+"Potassium, K",mg,293,882
+"Sodium, Na",mg,536,1613
+"Zinc, Zn",mg,0.95,2.86
+Vitamins
+"Thiamin",mg,0.080,0.241
+"Riboflavin",mg,0.193,0.581
+"Niacin",mg,6.013,18.099
+"Vitamin B-6",mg,0.205,0.617
+"Vitamin B-12",µg,0.40,1.20
+"Vitamin A, RAE",µg,45,135
+"Vitamin A, IU",IU,307,924
+"Vitamin E (alpha-tocopherol)",mg,1.74,5.24
+Lipids
+"Fatty acids, total saturated",g,2.550,7.675
+"Fatty acids, total monounsaturated",g,4.870,14.659
+"Fatty acids, total polyunsaturated",g,1.951,5.873
+"Fatty acids, total trans",g,0.108,0.325
+"Cholesterol",mg,54,163
+Amino Acids
+Other

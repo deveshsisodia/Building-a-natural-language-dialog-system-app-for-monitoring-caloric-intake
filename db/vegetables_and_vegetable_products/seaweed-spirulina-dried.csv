@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:29 EST
+"Nutrient data for: 11667, Seaweed, spirulina, dried"
+Nutrient,Unit,1Value per 100 g,"1 cup = 112.0g","1 tablespoon = 7.0g",
+Proximates
+"Water",g,4.68,5.24,0.33
+"Energy",kcal,290,325,20
+"Protein",g,57.47,64.37,4.02
+"Total lipid (fat)",g,7.72,8.65,0.54
+"Carbohydrate, by difference",g,23.90,26.77,1.67
+"Fiber, total dietary",g,3.6,4.0,0.3
+"Sugars, total",g,3.10,3.47,0.22
+Minerals
+"Calcium, Ca",mg,120,134,8
+"Iron, Fe",mg,28.50,31.92,2.00
+"Magnesium, Mg",mg,195,218,14
+"Phosphorus, P",mg,118,132,8
+"Potassium, K",mg,1363,1527,95
+"Sodium, Na",mg,1048,1174,73
+"Zinc, Zn",mg,2.00,2.24,0.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,10.1,11.3,0.7
+"Thiamin",mg,2.380,2.666,0.167
+"Riboflavin",mg,3.670,4.110,0.257
+"Niacin",mg,12.820,14.358,0.897
+"Vitamin B-6",mg,0.364,0.408,0.025
+"Folate, DFE",µg,94,105,7
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,29,32,2
+"Vitamin A, IU",IU,570,638,40
+"Vitamin E (alpha-tocopherol)",mg,5.00,5.60,0.35
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,25.5,28.6,1.8
+Lipids
+"Fatty acids, total saturated",g,2.650,2.968,0.185
+"Fatty acids, total monounsaturated",g,0.675,0.756,0.047
+"Fatty acids, total polyunsaturated",g,2.080,2.330,0.146
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

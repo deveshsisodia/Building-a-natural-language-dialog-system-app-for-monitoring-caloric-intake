@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:29 EST
+"Nutrient data for: 02008, Spices, chervil, dried"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 0.6g","1 tbsp = 1.9g",
+Proximates
+"Water",g,7.20,0.04,0.14
+"Energy",kcal,237,1,5
+"Protein",g,23.20,0.14,0.44
+"Total lipid (fat)",g,3.90,0.02,0.07
+"Carbohydrate, by difference",g,49.10,0.29,0.93
+"Fiber, total dietary",g,11.3,0.1,0.2
+Minerals
+"Calcium, Ca",mg,1346,8,26
+"Iron, Fe",mg,31.95,0.19,0.61
+"Magnesium, Mg",mg,130,1,2
+"Phosphorus, P",mg,450,3,9
+"Potassium, K",mg,4740,28,90
+"Sodium, Na",mg,83,0,2
+"Zinc, Zn",mg,8.80,0.05,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,50.0,0.3,0.9
+"Thiamin",mg,0.380,0.002,0.007
+"Riboflavin",mg,0.680,0.004,0.013
+"Niacin",mg,5.400,0.032,0.103
+"Vitamin B-6",mg,0.930,0.006,0.018
+"Folate, DFE",µg,274,2,5
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,293,2,6
+"Vitamin A, IU",IU,5850,35,111
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.169,0.001,0.003
+"Fatty acids, total monounsaturated",g,1.399,0.008,0.027
+"Fatty acids, total polyunsaturated",g,1.800,0.011,0.034
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

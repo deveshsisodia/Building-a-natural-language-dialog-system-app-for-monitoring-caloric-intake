@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:45 EST
+"Nutrient data for: 43006, Babyfood, fruit, tutti frutti, strained"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 jar NFS = 113.0g","1 jar Heinz Strained-2 (4 oz) = 113.0g",
+Proximates
+"Water",g,83.50,12.53,94.36,94.36
+"Energy",kcal,66,10,75,75
+"Protein",g,0.40,0.06,0.45,0.45
+"Total lipid (fat)",g,0.30,0.04,0.34,0.34
+"Carbohydrate, by difference",g,15.48,2.32,17.49,17.49
+"Fiber, total dietary",g,0.6,0.1,0.7,0.7
+"Sugars, total",g,9.29,1.39,10.50,10.50
+Minerals
+"Calcium, Ca",mg,15,2,17,17
+"Iron, Fe",mg,0.20,0.03,0.23,0.23
+"Magnesium, Mg",mg,4,1,5,5
+"Phosphorus, P",mg,17,3,19,19
+"Potassium, K",mg,46,7,52,52
+"Sodium, Na",mg,25,4,28,28
+"Zinc, Zn",mg,0.80,0.12,0.90,0.90
+Vitamins
+"Vitamin C, total ascorbic acid",mg,12.4,1.9,14.0,14.0
+"Thiamin",mg,0.020,0.003,0.023,0.023
+"Riboflavin",mg,0.020,0.003,0.023,0.023
+"Niacin",mg,0.100,0.015,0.113,0.113
+"Vitamin B-6",mg,0.020,0.003,0.023,0.023
+"Folate, DFE",µg,3,0,3,3
+"Vitamin B-12",µg,0.01,0.00,0.01,0.01
+"Vitamin A, RAE",µg,7,1,8,8
+"Vitamin A, IU",IU,133,20,150,150
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.02,0.12,0.12
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.4,0.1,0.5,0.5
+Lipids
+"Fatty acids, total saturated",g,0.087,0.013,0.098,0.098
+"Fatty acids, total monounsaturated",g,0.113,0.017,0.128,0.128
+"Fatty acids, total polyunsaturated",g,0.043,0.006,0.049,0.049
+"Cholesterol",mg,15,2,17,17
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

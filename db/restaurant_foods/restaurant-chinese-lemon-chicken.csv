@@ -1,0 +1,47 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:27 EST
+"Nutrient data for: 36617, Restaurant, Chinese, lemon chicken"
+Nutrient,Unit,1Value per 100 g,"1 order = 623.0g","3.0 pieces = 73.0g",
+Proximates
+"Water",g,52.69,328.26,38.46
+"Energy",kcal,252,1570,184
+"Protein",g,11.87,73.95,8.67
+"Total lipid (fat)",g,13.55,84.42,9.89
+"Carbohydrate, by difference",g,20.61,128.40,15.05
+"Fiber, total dietary",g,1.0,6.2,0.7
+"Sugars, total",g,8.18,50.96,5.97
+Minerals
+"Calcium, Ca",mg,40,249,29
+"Iron, Fe",mg,1.22,7.60,0.89
+"Magnesium, Mg",mg,16,100,12
+"Phosphorus, P",mg,136,847,99
+"Potassium, K",mg,161,1003,118
+"Sodium, Na",mg,252,1570,184
+"Zinc, Zn",mg,0.51,3.18,0.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.3,14.3,1.7
+"Thiamin",mg,0.053,0.330,0.039
+"Riboflavin",mg,0.070,0.436,0.051
+"Niacin",mg,3.776,23.524,2.756
+"Vitamin B-6",mg,0.250,1.558,0.182
+"Folate, DFE",µg,9,56,7
+"Vitamin B-12",µg,0.11,0.69,0.08
+"Vitamin A, RAE",µg,3,19,2
+"Vitamin A, IU",IU,11,69,8
+"Vitamin E (alpha-tocopherol)",mg,1.28,7.97,0.93
+"Vitamin D (D2 + D3)",µg,0.1,0.6,0.1
+"Vitamin D",IU,5,31,4
+"Vitamin K (phylloquinone)",µg,24.4,152.0,17.8
+Lipids
+"Fatty acids, total saturated",g,2.033,12.666,1.484
+"Fatty acids, total monounsaturated",g,2.749,17.126,2.007
+"Fatty acids, total polyunsaturated",g,6.086,37.916,4.443
+"Fatty acids, total trans",g,0.068,0.424,0.050
+"Cholesterol",mg,32,199,23
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Rice was not included in analyses."
+(b)"Ingredients and amount of breading and sauce vary by restaurant.  Most dishes analyzed only had breaded chicken and sauce.  A few had broccoli, celery and/or hot red pepper."

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:39 EST
+"Nutrient data for: 19859, Cocoa, dry powder, hi-fat or breakfast, plain"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 5.4g",
+Proximates
+"Water",g,3.00,0.16
+"Energy",kcal,486,26
+"Protein",g,16.80,0.91
+"Total lipid (fat)",g,23.71,1.28
+"Carbohydrate, by difference",g,51.39,2.78
+"Fiber, total dietary",g,29.8,1.6
+"Sugars, total",g,1.55,0.08
+Minerals
+"Calcium, Ca",mg,122,7
+"Iron, Fe",mg,14.50,0.78
+"Magnesium, Mg",mg,519,28
+"Phosphorus, P",mg,758,41
+"Potassium, K",mg,1574,85
+"Sodium, Na",mg,20,1
+"Zinc, Zn",mg,6.70,0.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.080,0.004
+"Riboflavin",mg,0.370,0.020
+"Niacin",mg,1.800,0.097
+"Vitamin B-6",mg,0.190,0.010
+"Folate, DFE",µg,38,2
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.09,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.3,0.1
+Lipids
+"Fatty acids, total saturated",g,12.640,0.683
+"Fatty acids, total monounsaturated",g,7.380,0.399
+"Fatty acids, total polyunsaturated",g,0.769,0.042
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,197,11

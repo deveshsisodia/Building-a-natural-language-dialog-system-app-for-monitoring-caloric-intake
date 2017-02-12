@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:13 EST
+"Nutrient data for: 20035, Quinoa, uncooked"
+Nutrient,Unit,1Value per 100 g,"1 cup = 170.0g",
+Proximates
+"Water",g,13.28,22.58
+"Energy",kcal,368,626
+"Protein",g,14.12,24.00
+"Total lipid (fat)",g,6.07,10.32
+"Carbohydrate, by difference",g,64.16,109.07
+"Fiber, total dietary",g,7.0,11.9
+Minerals
+"Calcium, Ca",mg,47,80
+"Iron, Fe",mg,4.57,7.77
+"Magnesium, Mg",mg,197,335
+"Phosphorus, P",mg,457,777
+"Potassium, K",mg,563,957
+"Sodium, Na",mg,5,8
+"Zinc, Zn",mg,3.10,5.27
+Vitamins
+"Thiamin",mg,0.360,0.612
+"Riboflavin",mg,0.318,0.541
+"Niacin",mg,1.520,2.584
+"Vitamin B-6",mg,0.487,0.828
+"Folate, DFE",µg,184,313
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1,2
+"Vitamin A, IU",IU,14,24
+"Vitamin E (alpha-tocopherol)",mg,2.44,4.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.706,1.200
+"Fatty acids, total monounsaturated",g,1.613,2.742
+"Fatty acids, total polyunsaturated",g,3.292,5.596
+"Cholesterol",mg,0,0
+Amino Acids
+Other

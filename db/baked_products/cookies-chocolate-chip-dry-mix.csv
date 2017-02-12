@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:33 EST
+"Nutrient data for: 18161, Cookies, chocolate chip, dry mix"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 package (17.5 oz) = 496.0g",
+Proximates
+"Water",g,3.00,0.85,14.88
+"Energy",kcal,497,141,2465
+"Protein",g,4.60,1.30,22.82
+"Total lipid (fat)",g,25.20,7.14,124.99
+"Carbohydrate, by difference",g,66.10,18.74,327.86
+Minerals
+"Calcium, Ca",mg,43,12,213
+"Iron, Fe",mg,2.07,0.59,10.27
+"Magnesium, Mg",mg,36,10,179
+"Phosphorus, P",mg,80,23,397
+"Potassium, K",mg,208,59,1032
+"Sodium, Na",mg,290,82,1438
+"Zinc, Zn",mg,0.60,0.17,2.98
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.195,0.055,0.967
+"Riboflavin",mg,0.205,0.058,1.017
+"Niacin",mg,1.990,0.564,9.870
+"Vitamin B-6",mg,0.017,0.005,0.084
+"Folate, DFE",µg,83,24,412
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,4,1,20
+Lipids
+"Fatty acids, total saturated",g,8.316,2.358,41.247
+"Fatty acids, total monounsaturated",g,13.077,3.707,64.862
+"Fatty acids, total polyunsaturated",g,2.620,0.743,12.995
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,12,3,60

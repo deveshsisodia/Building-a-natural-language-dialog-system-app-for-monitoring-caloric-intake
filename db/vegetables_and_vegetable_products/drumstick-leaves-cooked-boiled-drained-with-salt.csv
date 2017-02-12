@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:21 EST
+"Nutrient data for: 11786, Drumstick leaves, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 42.0g",
+Proximates
+"Water",g,81.65,34.29
+"Energy",kcal,60,25
+"Protein",g,5.27,2.21
+"Total lipid (fat)",g,0.93,0.39
+"Carbohydrate, by difference",g,11.15,4.68
+"Fiber, total dietary",g,2.0,0.8
+"Sugars, total",g,1.00,0.42
+Minerals
+"Calcium, Ca",mg,151,63
+"Iron, Fe",mg,2.32,0.97
+"Magnesium, Mg",mg,34,14
+"Phosphorus, P",mg,67,28
+"Potassium, K",mg,344,144
+"Sodium, Na",mg,245,103
+"Zinc, Zn",mg,0.49,0.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,31.0,13.0
+"Thiamin",mg,0.222,0.093
+"Riboflavin",mg,0.509,0.214
+"Niacin",mg,1.995,0.838
+"Vitamin B-6",mg,0.929,0.390
+"Folate, DFE",µg,23,10
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,351,147
+"Vitamin A, IU",IU,7013,2945
+"Vitamin E (alpha-tocopherol)",mg,0.10,0.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,108.0,45.4
+Lipids
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

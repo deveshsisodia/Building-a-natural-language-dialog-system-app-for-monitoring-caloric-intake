@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:29 EST
+"Nutrient data for: 11461, Spinach, canned, regular pack, drained solids"
+Nutrient,Unit,1Value per 100 g,"1 cup = 214.0g",
+Proximates
+"Water",g,91.78,196.41
+"Energy",kcal,23,49
+"Protein",g,2.81,6.01
+"Total lipid (fat)",g,0.50,1.07
+"Carbohydrate, by difference",g,3.40,7.28
+"Fiber, total dietary",g,2.4,5.1
+"Sugars, total",g,0.40,0.86
+Minerals
+"Calcium, Ca",mg,127,272
+"Iron, Fe",mg,2.30,4.92
+"Magnesium, Mg",mg,76,163
+"Phosphorus, P",mg,44,94
+"Potassium, K",mg,346,740
+"Sodium, Na",mg,322,689
+"Zinc, Zn",mg,0.46,0.98
+Vitamins
+"Vitamin C, total ascorbic acid",mg,14.3,30.6
+"Thiamin",mg,0.016,0.034
+"Riboflavin",mg,0.138,0.295
+"Niacin",mg,0.388,0.830
+"Vitamin B-6",mg,0.100,0.214
+"Folate, DFE",µg,98,210
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,490,1049
+"Vitamin A, IU",IU,9801,20974
+"Vitamin E (alpha-tocopherol)",mg,1.94,4.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,461.6,987.8
+Lipids
+"Fatty acids, total saturated",g,0.081,0.173
+"Fatty acids, total monounsaturated",g,0.013,0.028
+"Fatty acids, total polyunsaturated",g,0.211,0.452
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:26 EST
+"Nutrient data for: 11634, Peppers, sweet, green, freeze-dried"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 0.4g","0.25 cup = 1.6g",
+Proximates
+"Water",g,2.00,0.01,0.03
+"Energy",kcal,314,1,5
+"Protein",g,17.90,0.07,0.29
+"Total lipid (fat)",g,3.00,0.01,0.05
+"Carbohydrate, by difference",g,68.70,0.27,1.10
+"Fiber, total dietary",g,21.3,0.1,0.3
+"Sugars, total",g,38.48,0.15,0.62
+Minerals
+"Calcium, Ca",mg,134,1,2
+"Iron, Fe",mg,10.40,0.04,0.17
+"Magnesium, Mg",mg,188,1,3
+"Phosphorus, P",mg,327,1,5
+"Potassium, K",mg,3170,13,51
+"Sodium, Na",mg,193,1,3
+"Zinc, Zn",mg,2.41,0.01,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1900.0,7.6,30.4
+"Thiamin",mg,1.200,0.005,0.019
+"Riboflavin",mg,1.200,0.005,0.019
+"Niacin",mg,7.400,0.030,0.118
+"Vitamin B-6",mg,2.223,0.009,0.036
+"Folate, DFE",µg,229,1,4
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,282,1,5
+"Vitamin A, IU",IU,5640,23,90
+"Vitamin E (alpha-tocopherol)",mg,4.00,0.02,0.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,118.6,0.5,1.9
+Lipids
+"Fatty acids, total saturated",g,0.447,0.002,0.007
+"Fatty acids, total monounsaturated",g,0.202,0.001,0.003
+"Fatty acids, total polyunsaturated",g,1.607,0.006,0.026
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

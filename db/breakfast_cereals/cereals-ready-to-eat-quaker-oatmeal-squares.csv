@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:03 EST
+"Nutrient data for: 08214, Cereals ready-to-eat, QUAKER, Oatmeal Squares"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 56.0g",
+Proximates
+"Water",g,2.75,1.54
+"Energy",kcal,379,212
+"Protein",g,11.38,6.37
+"Total lipid (fat)",g,4.83,2.70
+"Carbohydrate, by difference",g,77.77,43.55
+"Fiber, total dietary",g,8.3,4.6
+"Sugars, total",g,16.69,9.35
+Minerals
+"Calcium, Ca",mg,201,113
+"Iron, Fe",mg,29.30,16.41
+"Magnesium, Mg",mg,115,64
+"Phosphorus, P",mg,371,208
+"Potassium, K",mg,357,200
+"Sodium, Na",mg,347,194
+"Zinc, Zn",mg,7.18,4.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,11.5,6.4
+"Thiamin",mg,0.683,0.382
+"Riboflavin",mg,0.850,0.476
+"Niacin",mg,9.570,5.359
+"Vitamin B-6",mg,0.880,0.493
+"Folate, DFE",µg,1214,680
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,356,199
+"Vitamin A, IU",IU,1188,665
+"Vitamin E (alpha-tocopherol)",mg,4.86,2.72
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.6,0.9
+Lipids
+"Fatty acids, total saturated",g,0.873,0.489
+"Fatty acids, total monounsaturated",g,1.594,0.893
+"Fatty acids, total polyunsaturated",g,1.523,0.853
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

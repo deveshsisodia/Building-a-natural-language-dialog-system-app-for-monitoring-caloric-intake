@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:45 EST
+"Nutrient data for: 44074, Babyfood, grape juice, no sugar, canned"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,84.40,
+"Energy",kcal,62,
+"Protein",g,0.00,
+"Total lipid (fat)",g,0.00,
+"Carbohydrate, by difference",g,15.38,
+"Fiber, total dietary",g,0.0,
+"Sugars, total",g,15.30,
+Minerals
+"Calcium, Ca",mg,12,
+"Iron, Fe",mg,0.30,
+"Magnesium, Mg",mg,10,
+"Phosphorus, P",mg,11,
+"Potassium, K",mg,90,
+"Sodium, Na",mg,10,
+"Zinc, Zn",mg,0.05,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,33.8,
+"Thiamin",mg,0.010,
+"Riboflavin",mg,0.020,
+"Niacin",mg,0.200,
+"Vitamin B-6",mg,0.060,
+"Folate, DFE",µg,4,
+"Vitamin B-12",µg,0.00,
+"Vitamin A, RAE",µg,4,
+"Vitamin A, IU",IU,77,
+"Vitamin E (alpha-tocopherol)",mg,0.00,
+"Vitamin D (D2 + D3)",µg,0.0,
+"Vitamin D",IU,0,
+"Vitamin K (phylloquinone)",µg,16.9,
+Lipids
+"Fatty acids, total saturated",g,0.000,
+"Fatty acids, total monounsaturated",g,0.000,
+"Fatty acids, total polyunsaturated",g,0.000,
+"Cholesterol",mg,0,
+Amino Acids
+Other
+"Caffeine",mg,0,

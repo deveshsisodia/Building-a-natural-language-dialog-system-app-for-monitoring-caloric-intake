@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 19061, Snacks, trail mix, tropical"
+Nutrient,Unit,1Value per 100 g,"1 cup = 140.0g","1 oz = 28.35g","1.5 oz = 42.0g",
+Proximates
+"Water",g,9.00,12.60,2.55,3.78
+"Energy",kcal,442,619,125,186
+"Protein",g,6.30,8.82,1.79,2.65
+"Total lipid (fat)",g,17.10,23.94,4.85,7.18
+"Carbohydrate, by difference",g,65.60,91.84,18.60,27.55
+Minerals
+"Calcium, Ca",mg,57,80,16,24
+"Iron, Fe",mg,2.64,3.70,0.75,1.11
+"Magnesium, Mg",mg,96,134,27,40
+"Phosphorus, P",mg,186,260,53,78
+"Potassium, K",mg,709,993,201,298
+"Sodium, Na",mg,95,133,27,40
+"Zinc, Zn",mg,1.17,1.64,0.33,0.49
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.6,10.6,2.2,3.2
+"Thiamin",mg,0.450,0.630,0.128,0.189
+"Riboflavin",mg,0.115,0.161,0.033,0.048
+"Niacin",mg,1.482,2.075,0.420,0.622
+"Vitamin B-6",mg,0.327,0.458,0.093,0.137
+"Folate, DFE",µg,42,59,12,18
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,2,3,1,1
+"Vitamin A, IU",IU,49,69,14,21
+Lipids
+"Fatty acids, total saturated",g,8.480,11.872,2.404,3.562
+"Fatty acids, total monounsaturated",g,2.490,3.486,0.706,1.046
+"Fatty acids, total polyunsaturated",g,5.160,7.224,1.463,2.167
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other

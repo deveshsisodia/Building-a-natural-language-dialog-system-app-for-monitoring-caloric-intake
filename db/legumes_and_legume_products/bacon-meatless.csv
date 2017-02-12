@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:56 EST
+"Nutrient data for: 16104, Bacon, meatless"
+Nutrient,Unit,1Value per 100 g,"1 cup = 144.0g","1 oz cooked, yield = 16.0g","1 strip = 5.0g",
+Proximates
+"Water",g,48.98,70.53,7.84,2.45
+"Energy",kcal,309,445,49,15
+"Protein",g,11.69,16.83,1.87,0.58
+"Total lipid (fat)",g,29.52,42.51,4.72,1.48
+"Carbohydrate, by difference",g,5.31,7.65,0.85,0.27
+"Fiber, total dietary",g,2.6,3.7,0.4,0.1
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,23,33,4,1
+"Iron, Fe",mg,2.41,3.47,0.39,0.12
+"Magnesium, Mg",mg,19,27,3,1
+"Phosphorus, P",mg,70,101,11,4
+"Potassium, K",mg,170,245,27,8
+"Sodium, Na",mg,1465,2110,234,73
+"Zinc, Zn",mg,0.42,0.60,0.07,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,4.400,6.336,0.704,0.220
+"Riboflavin",mg,0.481,0.693,0.077,0.024
+"Niacin",mg,7.560,10.886,1.210,0.378
+"Vitamin B-6",mg,0.479,0.690,0.077,0.024
+"Folate, DFE",µg,42,60,7,2
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,4,6,1,0
+"Vitamin A, IU",IU,88,127,14,4
+"Vitamin E (alpha-tocopherol)",mg,6.90,9.94,1.10,0.34
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,4.622,6.656,0.740,0.231
+"Fatty acids, total monounsaturated",g,7.095,10.217,1.135,0.355
+"Fatty acids, total polyunsaturated",g,15.441,22.235,2.471,0.772
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

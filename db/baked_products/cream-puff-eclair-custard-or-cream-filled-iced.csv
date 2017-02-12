@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:36 EST
+"Nutrient data for: 18969, Cream puff, eclair, custard or cream filled, iced"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 113.0g",
+Proximates
+"Water",g,38.64,43.66
+"Energy",kcal,334,377
+"Protein",g,4.41,4.98
+"Total lipid (fat)",g,18.52,20.93
+"Carbohydrate, by difference",g,37.43,42.30
+"Fiber, total dietary",g,0.9,1.0
+"Sugars, total",g,22.05,24.92
+Minerals
+"Calcium, Ca",mg,35,40
+"Iron, Fe",mg,0.95,1.07
+"Magnesium, Mg",mg,10,11
+"Phosphorus, P",mg,71,80
+"Potassium, K",mg,68,77
+"Sodium, Na",mg,265,299
+"Zinc, Zn",mg,0.45,0.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.263,0.297
+"Riboflavin",mg,0.241,0.272
+"Niacin",mg,1.908,2.156
+"Vitamin B-6",mg,0.041,0.046
+"Folate, DFE",µg,100,113
+"Vitamin B-12",µg,0.17,0.19
+"Vitamin A, RAE",µg,23,26
+"Vitamin A, IU",IU,88,99
+"Vitamin E (alpha-tocopherol)",mg,0.95,1.07
+"Vitamin D (D2 + D3)",µg,0.3,0.3
+"Vitamin D",IU,11,12
+"Vitamin K (phylloquinone)",µg,6.7,7.6
+Lipids
+"Fatty acids, total saturated",g,7.055,7.972
+"Fatty acids, total monounsaturated",g,6.070,6.859
+"Fatty acids, total polyunsaturated",g,4.173,4.715
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,66,75
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:19 EST
+"Nutrient data for: 11152, Chicory greens, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 29.0g",
+Proximates
+"Water",g,92.00,26.68
+"Energy",kcal,23,7
+"Protein",g,1.70,0.49
+"Total lipid (fat)",g,0.30,0.09
+"Carbohydrate, by difference",g,4.70,1.36
+"Fiber, total dietary",g,4.0,1.2
+"Sugars, total",g,0.70,0.20
+Minerals
+"Calcium, Ca",mg,100,29
+"Iron, Fe",mg,0.90,0.26
+"Magnesium, Mg",mg,30,9
+"Phosphorus, P",mg,47,14
+"Potassium, K",mg,420,122
+"Sodium, Na",mg,45,13
+"Zinc, Zn",mg,0.42,0.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,24.0,7.0
+"Thiamin",mg,0.060,0.017
+"Riboflavin",mg,0.100,0.029
+"Niacin",mg,0.500,0.145
+"Vitamin B-6",mg,0.105,0.030
+"Folate, DFE",µg,110,32
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,286,83
+"Vitamin A, IU",IU,5717,1658
+"Vitamin E (alpha-tocopherol)",mg,2.26,0.66
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,297.6,86.3
+Lipids
+"Fatty acids, total saturated",g,0.073,0.021
+"Fatty acids, total monounsaturated",g,0.006,0.002
+"Fatty acids, total polyunsaturated",g,0.131,0.038
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

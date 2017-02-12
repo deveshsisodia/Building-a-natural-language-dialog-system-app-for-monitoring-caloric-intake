@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:24 EST
+"Nutrient data for: 32016, Macaroni or noodles with cheese, microwaveable, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 serving 1 pouch = 61.0g",
+Proximates
+"Water",g,8.07,4.92
+"Energy",kcal,388,237
+"Protein",g,11.48,7.00
+"Total lipid (fat)",g,6.56,4.00
+"Carbohydrate, by difference",g,70.75,43.16
+"Fiber, total dietary",g,1.6,1.0
+"Sugars, total",g,8.20,5.00
+Minerals
+"Calcium, Ca",mg,328,200
+"Iron, Fe",mg,2.36,1.44
+"Magnesium, Mg",mg,49,30
+"Phosphorus, P",mg,328,200
+"Potassium, K",mg,348,212
+"Sodium, Na",mg,902,550
+"Zinc, Zn",mg,1.23,0.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,1.040,0.634
+"Riboflavin",mg,0.626,0.382
+"Niacin",mg,3.882,2.368
+"Vitamin B-6",mg,0.142,0.087
+"Folate, DFE",µg,334,204
+"Vitamin B-12",µg,0.77,0.47
+"Vitamin A, RAE",µg,99,60
+"Vitamin A, IU",IU,336,205
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.08
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.2,0.1
+Lipids
+"Fatty acids, total saturated",g,2.814,1.717
+"Fatty acids, total monounsaturated",g,1.625,0.991
+"Fatty acids, total polyunsaturated",g,1.987,1.212
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,8,5
+Amino Acids
+Other
+"Caffeine",mg,0,0

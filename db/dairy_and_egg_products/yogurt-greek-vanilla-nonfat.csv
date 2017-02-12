@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:11 EST
+"Nutrient data for: 01286, Yogurt, Greek, vanilla, nonfat"
+Nutrient,Unit,1Value per 100 g,"1 container (5.3 oz) = 150.0g",
+Proximates
+"Water",g,80.26,120.39
+"Energy",kcal,78,117
+"Protein",g,8.64,12.96
+"Total lipid (fat)",g,0.18,0.27
+"Carbohydrate, by difference",g,10.37,15.55
+"Fiber, total dietary",g,0.5,0.8
+"Sugars, total",g,9.54,14.31
+Minerals
+"Calcium, Ca",mg,99,148
+"Iron, Fe",mg,0.04,0.06
+"Magnesium, Mg",mg,10,15
+"Phosphorus, P",mg,119,178
+"Potassium, K",mg,123,184
+"Sodium, Na",mg,34,51
+"Zinc, Zn",mg,0.46,0.69
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.042,0.063
+"Riboflavin",mg,0.240,0.360
+"Niacin",mg,0.201,0.302
+"Vitamin B-6",mg,0.050,0.075
+"Folate, DFE",µg,11,16
+"Vitamin B-12",µg,0.64,0.96
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.03
+"Vitamin D (D2 + D3)",µg,0.9,1.4
+"Vitamin D",IU,35,52
+"Vitamin K (phylloquinone)",µg,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,0.133,0.200
+"Fatty acids, total monounsaturated",g,0.039,0.058
+"Fatty acids, total polyunsaturated",g,0.009,0.013
+"Fatty acids, total trans",g,0.004,0.006
+"Cholesterol",mg,3,4
+Amino Acids
+Other
+"Caffeine",mg,0,0

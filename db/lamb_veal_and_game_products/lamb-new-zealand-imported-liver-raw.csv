@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:02 EST
+"Nutrient data for: 17369, Lamb, New Zealand, imported, liver, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 113.0g",
+Proximates
+"Water",g,70.80,80.00
+"Energy",kcal,136,154
+"Protein",g,20.70,23.39
+"Total lipid (fat)",g,4.92,5.56
+"Carbohydrate, by difference",g,2.22,2.51
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,4,5
+"Iron, Fe",mg,4.60,5.20
+"Magnesium, Mg",mg,18,20
+"Phosphorus, P",mg,381,431
+"Potassium, K",mg,285,322
+"Sodium, Na",mg,59,67
+"Zinc, Zn",mg,3.40,3.84
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,1.210,1.367
+"Riboflavin",mg,4.210,4.757
+"Niacin",mg,13.700,15.481
+"Vitamin B-6",mg,0.218,0.246
+"Vitamin B-12",µg,59.00,66.67
+"Vitamin A, RAE",µg,15434,17440
+"Vitamin A, IU",IU,51447,58135
+"Vitamin E (alpha-tocopherol)",mg,0.86,0.97
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.514,1.711
+"Fatty acids, total monounsaturated",g,0.817,0.923
+"Fatty acids, total polyunsaturated",g,0.920,1.040
+"Fatty acids, total trans",g,0.146,0.165
+"Cholesterol",mg,386,436
+Amino Acids
+Other
+"Caffeine",mg,0,0

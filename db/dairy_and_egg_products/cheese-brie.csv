@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:05 EST
+"Nutrient data for: 01006, Cheese, brie"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cup, sliced = 144.0g","1 cup, melted = 240.0g","1 cubic inch = 17.0g","1 package (4.5 oz) = 128.0g",
+Proximates
+"Water",g,48.42,13.73,69.72,116.21,8.23,61.98
+"Energy",kcal,334,95,481,802,57,428
+"Protein",g,20.75,5.88,29.88,49.80,3.53,26.56
+"Total lipid (fat)",g,27.68,7.85,39.86,66.43,4.71,35.43
+"Carbohydrate, by difference",g,0.45,0.13,0.65,1.08,0.08,0.58
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.45,0.13,0.65,1.08,0.08,0.58
+Minerals
+"Calcium, Ca",mg,184,52,265,442,31,236
+"Iron, Fe",mg,0.50,0.14,0.72,1.20,0.09,0.64
+"Magnesium, Mg",mg,20,6,29,48,3,26
+"Phosphorus, P",mg,188,53,271,451,32,241
+"Potassium, K",mg,152,43,219,365,26,195
+"Sodium, Na",mg,629,178,906,1510,107,805
+"Zinc, Zn",mg,2.38,0.67,3.43,5.71,0.40,3.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.070,0.020,0.101,0.168,0.012,0.090
+"Riboflavin",mg,0.520,0.147,0.749,1.248,0.088,0.666
+"Niacin",mg,0.380,0.108,0.547,0.912,0.065,0.486
+"Vitamin B-6",mg,0.235,0.067,0.338,0.564,0.040,0.301
+"Folate, DFE",µg,65,18,94,156,11,83
+"Vitamin B-12",µg,1.65,0.47,2.38,3.96,0.28,2.11
+"Vitamin A, RAE",µg,174,49,251,418,30,223
+"Vitamin A, IU",IU,592,168,852,1421,101,758
+"Vitamin E (alpha-tocopherol)",mg,0.24,0.07,0.35,0.58,0.04,0.31
+"Vitamin D (D2 + D3)",µg,0.5,0.1,0.7,1.2,0.1,0.6
+"Vitamin D",IU,20,6,29,48,3,26
+"Vitamin K (phylloquinone)",µg,2.3,0.7,3.3,5.5,0.4,2.9
+Lipids
+"Fatty acids, total saturated",g,17.410,4.936,25.070,41.784,2.960,22.285
+"Fatty acids, total monounsaturated",g,8.013,2.272,11.539,19.231,1.362,10.257
+"Fatty acids, total polyunsaturated",g,0.826,0.234,1.189,1.982,0.140,1.057
+"Cholesterol",mg,100,28,144,240,17,128
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

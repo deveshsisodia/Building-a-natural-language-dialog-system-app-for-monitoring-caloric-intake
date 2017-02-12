@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:03 EST
+"Nutrient data for: 15181, Fish, salmon, pink, canned, without salt, solids with bone and liquid"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 can = 454.0g",
+Proximates
+"Water",g,70.03,59.53,317.94
+"Energy",kcal,139,118,631
+"Protein",g,19.78,16.81,89.80
+"Total lipid (fat)",g,6.05,5.14,27.47
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,213,181,967
+"Iron, Fe",mg,0.84,0.71,3.81
+"Magnesium, Mg",mg,34,29,154
+"Phosphorus, P",mg,329,280,1494
+"Potassium, K",mg,326,277,1480
+"Sodium, Na",mg,75,64,340
+"Zinc, Zn",mg,0.92,0.78,4.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.023,0.020,0.104
+"Riboflavin",mg,0.186,0.158,0.844
+"Niacin",mg,6.536,5.556,29.673
+"Vitamin B-6",mg,0.300,0.255,1.362
+"Folate, DFE",µg,15,13,68
+"Vitamin B-12",µg,4.40,3.74,19.98
+"Vitamin A, RAE",µg,17,14,77
+"Vitamin A, IU",IU,55,47,250
+Lipids
+"Fatty acids, total saturated",g,1.535,1.305,6.969
+"Fatty acids, total monounsaturated",g,1.825,1.551,8.285
+"Fatty acids, total polyunsaturated",g,2.049,1.742,9.302
+"Cholesterol",mg,55,47,250
+Amino Acids
+Other

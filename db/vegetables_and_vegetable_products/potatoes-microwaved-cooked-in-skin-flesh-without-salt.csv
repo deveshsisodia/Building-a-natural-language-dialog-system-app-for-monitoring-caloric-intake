@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:28 EST
+"Nutrient data for: 11368, Potatoes, microwaved, cooked in skin, flesh, without salt"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 78.0g","1 potato (2-1/3"" x 4-3/4"") = 156.0g",
+Proximates
+"Water",g,73.55,57.37,114.74
+"Energy",kcal,100,78,156
+"Protein",g,2.10,1.64,3.28
+"Total lipid (fat)",g,0.10,0.08,0.16
+"Carbohydrate, by difference",g,23.28,18.16,36.32
+"Fiber, total dietary",g,1.6,1.2,2.5
+Minerals
+"Calcium, Ca",mg,5,4,8
+"Iron, Fe",mg,0.41,0.32,0.64
+"Magnesium, Mg",mg,25,20,39
+"Phosphorus, P",mg,109,85,170
+"Potassium, K",mg,411,321,641
+"Sodium, Na",mg,7,5,11
+"Zinc, Zn",mg,0.33,0.26,0.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,15.1,11.8,23.6
+"Thiamin",mg,0.129,0.101,0.201
+"Riboflavin",mg,0.025,0.020,0.039
+"Niacin",mg,1.625,1.268,2.535
+"Vitamin B-6",mg,0.319,0.249,0.498
+"Folate, DFE",µg,12,9,19
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.026,0.020,0.041
+"Fatty acids, total monounsaturated",g,0.002,0.002,0.003
+"Fatty acids, total polyunsaturated",g,0.043,0.034,0.067
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

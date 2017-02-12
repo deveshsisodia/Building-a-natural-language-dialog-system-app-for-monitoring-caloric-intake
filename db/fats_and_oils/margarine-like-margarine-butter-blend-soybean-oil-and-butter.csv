@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:16 EST
+"Nutrient data for: 04585, Margarine-like, margarine-butter blend, soybean oil and butter"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 14.1g","1 cup = 227.0g","1 tsp = 4.7g","1 stick = 111.0g",
+Proximates
+"Water",g,17.07,2.41,38.75,0.80,18.95
+"Energy",kcal,727,103,1650,34,807
+"Protein",g,0.31,0.04,0.70,0.01,0.34
+"Total lipid (fat)",g,80.32,11.33,182.33,3.78,89.16
+"Carbohydrate, by difference",g,0.77,0.11,1.75,0.04,0.85
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,10,1,23,0,11
+"Iron, Fe",mg,0.04,0.01,0.09,0.00,0.04
+"Magnesium, Mg",mg,1,0,2,0,1
+"Phosphorus, P",mg,10,1,23,0,11
+"Potassium, K",mg,22,3,50,1,24
+"Sodium, Na",mg,719,101,1632,34,798
+"Zinc, Zn",mg,0.03,0.00,0.07,0.00,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0,0.2,0.0,0.1
+"Thiamin",mg,0.009,0.001,0.020,0.000,0.010
+"Riboflavin",mg,0.023,0.003,0.052,0.001,0.026
+"Niacin",mg,0.022,0.003,0.050,0.001,0.024
+"Vitamin B-6",mg,0.009,0.001,0.020,0.000,0.010
+"Folate, DFE",µg,2,0,5,0,2
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,819,115,1859,38,909
+"Vitamin A, IU",IU,3571,504,8106,168,3964
+"Vitamin E (alpha-tocopherol)",mg,3.88,0.55,8.81,0.18,4.31
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,1,0,2,0,1
+"Vitamin K (phylloquinone)",µg,86.5,12.2,196.4,4.1,96.0
+Lipids
+"Fatty acids, total saturated",g,14.198,2.002,32.229,0.667,15.760
+"Fatty acids, total monounsaturated",g,30.292,4.271,68.763,1.424,33.624
+"Fatty acids, total polyunsaturated",g,24.170,3.408,54.866,1.136,26.829
+"Fatty acids, total trans",g,14.950,2.108,33.936,0.703,16.594
+"Cholesterol",mg,12,2,27,1,13
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

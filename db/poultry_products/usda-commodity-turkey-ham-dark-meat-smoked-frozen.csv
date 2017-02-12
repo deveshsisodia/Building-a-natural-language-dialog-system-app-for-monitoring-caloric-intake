@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:40 EST
+"Nutrient data for: 05600, USDA Commodity, turkey ham, dark meat, smoked, frozen"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 serving = 28.0g",
+Proximates
+"Water",g,73.50,20.84,20.58
+"Energy",kcal,118,33,33
+"Protein",g,16.30,4.62,4.56
+"Total lipid (fat)",g,4.00,1.13,1.12
+"Carbohydrate, by difference",g,3.10,0.88,0.87
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,1.20,0.34,0.34
+Minerals
+"Calcium, Ca",mg,7,2,2
+"Iron, Fe",mg,1.00,0.28,0.28
+"Magnesium, Mg",mg,16,5,4
+"Phosphorus, P",mg,289,82,81
+"Potassium, K",mg,253,72,71
+"Sodium, Na",mg,909,258,255
+"Zinc, Zn",mg,2.10,0.60,0.59
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.230,0.065,0.064
+"Riboflavin",mg,0.270,0.077,0.076
+"Niacin",mg,4.120,1.168,1.154
+"Vitamin B-6",mg,0.060,0.017,0.017
+"Vitamin B-12",µg,0.80,0.23,0.22
+"Vitamin A, RAE",µg,16,5,4
+"Vitamin A, IU",IU,53,15,15
+Lipids
+"Fatty acids, total saturated",g,1.200,0.340,0.336
+"Fatty acids, total monounsaturated",g,1.337,0.379,0.374
+"Fatty acids, total polyunsaturated",g,0.873,0.247,0.244
+"Cholesterol",mg,64,18,18
+Amino Acids
+Other

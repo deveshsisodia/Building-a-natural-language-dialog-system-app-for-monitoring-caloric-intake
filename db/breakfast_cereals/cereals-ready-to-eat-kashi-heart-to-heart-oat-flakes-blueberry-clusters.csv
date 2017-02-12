@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08538, Cereals ready-to-eat, KASHI, HEART TO HEART, Oat Flakes & Blueberry Clusters"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 55.0g",
+Proximates
+"Water",g,3.00,1.65
+"Energy",kcal,376,207
+"Protein",g,10.39,5.71
+"Total lipid (fat)",g,3.79,2.08
+"Carbohydrate, by difference",g,80.30,44.16
+"Fiber, total dietary",g,7.4,4.1
+"Sugars, total",g,22.70,12.48
+Minerals
+"Calcium, Ca",mg,43,24
+"Iron, Fe",mg,3.20,1.76
+"Magnesium, Mg",mg,2,1
+"Phosphorus, P",mg,279,153
+"Potassium, K",mg,213,117
+"Sodium, Na",mg,244,134
+"Zinc, Zn",mg,2.32,1.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,55.0,30.2
+"Thiamin",mg,0.400,0.220
+"Riboflavin",mg,0.090,0.050
+"Niacin",mg,1.790,0.985
+"Vitamin B-6",mg,3.640,2.002
+"Folate, DFE",µg,1206,663
+"Vitamin B-12",µg,10.89,5.99
+"Vitamin A, RAE",µg,114,63
+"Vitamin A, IU",IU,2273,1250
+"Vitamin E (alpha-tocopherol)",mg,36.50,20.07
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.9,1.0
+Lipids
+"Fatty acids, total saturated",g,0.800,0.440
+"Fatty acids, total monounsaturated",g,1.100,0.605
+"Fatty acids, total polyunsaturated",g,1.200,0.660
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(a)"Added vitamin E is natural RRR alpha tocopherol."

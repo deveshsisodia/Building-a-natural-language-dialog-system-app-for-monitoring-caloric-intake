@@ -1,0 +1,45 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:07 EST
+"Nutrient data for: 12065, Nuts, almonds, oil roasted, without salt added"
+Nutrient,Unit,1Value per 100 g,"1 cup whole kernels = 157.0g","1 oz (22 whole kernels) = 28.35g",
+Proximates
+"Water",g,2.80,4.40,0.79
+"Energy",kcal,607,953,172
+"Protein",g,21.23,33.33,6.02
+"Total lipid (fat)",g,55.17,86.62,15.64
+"Carbohydrate, by difference",g,17.68,27.76,5.01
+"Fiber, total dietary",g,10.5,16.5,3.0
+"Sugars, total",g,4.55,7.14,1.29
+Minerals
+"Calcium, Ca",mg,291,457,82
+"Iron, Fe",mg,3.68,5.78,1.04
+"Magnesium, Mg",mg,274,430,78
+"Phosphorus, P",mg,466,732,132
+"Potassium, K",mg,699,1097,198
+"Sodium, Na",mg,1,2,0
+"Zinc, Zn",mg,3.07,4.82,0.87
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.092,0.144,0.026
+"Riboflavin",mg,0.781,1.226,0.221
+"Niacin",mg,3.665,5.754,1.039
+"Vitamin B-6",mg,0.118,0.185,0.033
+"Folate, DFE",µg,27,42,8
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,1,2,0
+"Vitamin E (alpha-tocopherol)",mg,25.97,40.77,7.36
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,4.208,6.607,1.193
+"Fatty acids, total monounsaturated",g,34.793,54.625,9.864
+"Fatty acids, total polyunsaturated",g,13.519,21.225,3.833
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Roasted in high oleic safflower oil"

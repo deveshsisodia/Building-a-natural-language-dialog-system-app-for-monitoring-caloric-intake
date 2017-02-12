@@ -1,0 +1,29 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:09 EST
+"Nutrient data for: 12156, Nuts, walnuts, glazed"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.0g",
+Proximates
+"Water",g,6.28,1.76
+"Energy",kcal,500,140
+"Protein",g,8.28,2.32
+"Total lipid (fat)",g,35.71,10.00
+"Carbohydrate, by difference",g,47.59,13.33
+"Fiber, total dietary",g,3.6,1.0
+"Sugars, total",g,32.14,9.00
+Minerals
+"Calcium, Ca",mg,71,20
+"Iron, Fe",mg,1.29,0.36
+"Potassium, K",mg,232,65
+"Sodium, Na",mg,446,125
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Vitamin A, IU",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,3.571,1.000
+"Fatty acids, total monounsaturated",g,5.357,1.500
+"Fatty acids, total polyunsaturated",g,25.000,7.000
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

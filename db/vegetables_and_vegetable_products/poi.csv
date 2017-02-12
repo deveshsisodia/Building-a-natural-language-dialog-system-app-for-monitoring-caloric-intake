@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:27 EST
+"Nutrient data for: 11349, Poi"
+Nutrient,Unit,1Value per 100 g,"1 cup = 240.0g",
+Proximates
+"Water",g,71.64,171.94
+"Energy",kcal,112,269
+"Protein",g,0.38,0.91
+"Total lipid (fat)",g,0.14,0.34
+"Carbohydrate, by difference",g,27.23,65.35
+"Fiber, total dietary",g,0.4,1.0
+"Sugars, total",g,0.39,0.94
+Minerals
+"Calcium, Ca",mg,16,38
+"Iron, Fe",mg,0.88,2.11
+"Magnesium, Mg",mg,24,58
+"Phosphorus, P",mg,39,94
+"Potassium, K",mg,183,439
+"Sodium, Na",mg,12,29
+"Zinc, Zn",mg,0.22,0.53
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.0,9.6
+"Thiamin",mg,0.130,0.312
+"Riboflavin",mg,0.040,0.096
+"Niacin",mg,1.100,2.640
+"Vitamin B-6",mg,0.273,0.655
+"Folate, DFE",µg,21,50
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,3,7
+"Vitamin A, IU",IU,66,158
+"Vitamin E (alpha-tocopherol)",mg,2.30,5.52
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.0,2.4
+Lipids
+"Fatty acids, total saturated",g,0.029,0.070
+"Fatty acids, total monounsaturated",g,0.011,0.026
+"Fatty acids, total polyunsaturated",g,0.058,0.139
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

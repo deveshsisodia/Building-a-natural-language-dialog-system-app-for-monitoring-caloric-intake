@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:52 EST
+"Nutrient data for: 25015, Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Protein Performance Bar, Caramel Nut Rush"
+Nutrient,Unit,1Value per 100 g,"1 bar = 80.0g",
+Proximates
+"Water",g,9.00,7.20
+"Energy",kcal,415,332
+"Protein",g,25.00,20.00
+"Total lipid (fat)",g,12.50,10.00
+"Carbohydrate, by difference",g,50.50,40.40
+"Fiber, total dietary",g,12.5,10.0
+"Sugars, total",g,28.75,23.00
+Minerals
+"Calcium, Ca",mg,625,500
+"Iron, Fe",mg,10.13,8.10
+"Magnesium, Mg",mg,175,140
+"Phosphorus, P",mg,375,300
+"Potassium, K",mg,188,150
+"Sodium, Na",mg,238,190
+"Zinc, Zn",mg,6.56,5.25
+Vitamins
+"Vitamin C, total ascorbic acid",mg,75.0,60.0
+"Thiamin",mg,1.875,1.500
+"Riboflavin",mg,2.125,1.700
+"Niacin",mg,25.000,20.000
+"Vitamin B-6",mg,2.500,2.000
+"Folate, DFE",µg,850,680
+"Vitamin B-12",µg,7.50,6.00
+"Vitamin A, RAE",µg,652,522
+"Vitamin A, IU",IU,2188,1750
+"Vitamin E (alpha-tocopherol)",mg,16.88,13.50
+"Vitamin D (D2 + D3)",µg,3.8,3.0
+"Vitamin D",IU,150,120
+"Vitamin K (phylloquinone)",µg,10.4,8.3
+Lipids
+"Fatty acids, total saturated",g,6.250,5.000
+"Fatty acids, total monounsaturated",g,2.645,2.116
+"Fatty acids, total polyunsaturated",g,2.892,2.314
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,6,5
+Amino Acids
+Other
+"Caffeine",mg,3,2

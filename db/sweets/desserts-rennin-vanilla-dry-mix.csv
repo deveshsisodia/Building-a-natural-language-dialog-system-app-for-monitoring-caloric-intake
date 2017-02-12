@@ -1,0 +1,34 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:40 EST
+"Nutrient data for: 19222, Desserts, rennin, vanilla, dry mix"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 10.8g","1 package (1.5 oz) = 43.0g",
+Proximates
+"Water",g,0.40,0.04,0.17
+"Energy",kcal,383,41,165
+"Protein",g,0.00,0.00,0.00
+"Total lipid (fat)",g,0.00,0.00,0.00
+"Carbohydrate, by difference",g,99.00,10.69,42.57
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,117,13,50
+"Iron, Fe",mg,0.07,0.01,0.03
+"Magnesium, Mg",mg,1,0,0
+"Phosphorus, P",mg,91,10,39
+"Potassium, K",mg,3,0,1
+"Sodium, Na",mg,6,1,3
+"Zinc, Zn",mg,0.04,0.00,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000
+"Riboflavin",mg,0.021,0.002,0.009
+"Niacin",mg,0.001,0.000,0.000
+"Vitamin B-6",mg,0.001,0.000,0.000
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

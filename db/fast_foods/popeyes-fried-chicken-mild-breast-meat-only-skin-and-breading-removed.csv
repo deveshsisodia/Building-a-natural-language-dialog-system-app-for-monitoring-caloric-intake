@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:38 EST
+"Nutrient data for: 21442, POPEYES, Fried Chicken, Mild, Breast, meat only, skin and breading removed"
+Nutrient,Unit,1Value per 100 g,"1 breast without skin = 132.0g","1 breast bone and skin removed = 99.0g",
+Proximates
+"Water",g,64.77,85.50,64.12
+"Energy",kcal,157,207,155
+"Protein",g,28.98,38.25,28.69
+"Total lipid (fat)",g,4.52,5.97,4.47
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,20,26,20
+"Iron, Fe",mg,0.55,0.73,0.54
+"Magnesium, Mg",mg,29,38,29
+"Phosphorus, P",mg,219,289,217
+"Potassium, K",mg,327,432,324
+"Sodium, Na",mg,526,694,521
+"Zinc, Zn",mg,0.97,1.28,0.96
+Vitamins
+"Thiamin",mg,0.107,0.141,0.106
+"Riboflavin",mg,0.240,0.317,0.238
+"Niacin",mg,9.393,12.399,9.299
+"Vitamin B-6",mg,0.370,0.488,0.366
+"Vitamin B-12",µg,0.33,0.44,0.33
+"Vitamin A, RAE",µg,4,5,4
+"Vitamin A, IU",IU,12,16,12
+"Vitamin E (alpha-tocopherol)",mg,0.21,0.28,0.21
+Lipids
+"Fatty acids, total saturated",g,1.368,1.806,1.354
+"Fatty acids, total monounsaturated",g,1.789,2.361,1.771
+"Fatty acids, total polyunsaturated",g,0.596,0.787,0.590
+"Fatty acids, total trans",g,0.083,0.110,0.082
+"Cholesterol",mg,97,128,96
+Amino Acids
+Other

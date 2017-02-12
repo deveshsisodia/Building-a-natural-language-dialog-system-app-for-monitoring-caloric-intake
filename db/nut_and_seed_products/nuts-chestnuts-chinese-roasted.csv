@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:07 EST
+"Nutrient data for: 12096, Nuts, chestnuts, chinese, roasted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,40.20,11.40
+"Energy",kcal,239,68
+"Protein",g,4.48,1.27
+"Total lipid (fat)",g,1.19,0.34
+"Carbohydrate, by difference",g,52.36,14.84
+Minerals
+"Calcium, Ca",mg,19,5
+"Iron, Fe",mg,1.50,0.43
+"Magnesium, Mg",mg,90,26
+"Phosphorus, P",mg,102,29
+"Potassium, K",mg,477,135
+"Sodium, Na",mg,4,1
+"Zinc, Zn",mg,0.93,0.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,38.4,10.9
+"Thiamin",mg,0.150,0.043
+"Riboflavin",mg,0.090,0.026
+"Niacin",mg,1.500,0.425
+"Vitamin B-6",mg,0.437,0.124
+"Folate, DFE",µg,72,20
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,5,1
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.175,0.050
+"Fatty acids, total monounsaturated",g,0.620,0.176
+"Fatty acids, total polyunsaturated",g,0.307,0.087
+"Cholesterol",mg,0,0
+Amino Acids
+Other

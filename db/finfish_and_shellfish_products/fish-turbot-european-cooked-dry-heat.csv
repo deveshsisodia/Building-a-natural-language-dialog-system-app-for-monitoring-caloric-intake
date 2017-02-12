@@ -1,0 +1,34 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:06 EST
+"Nutrient data for: 15222, Fish, turbot, european, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","0.5 fillet = 159.0g",
+Proximates
+"Water",g,70.45,59.88,112.02
+"Energy",kcal,122,104,194
+"Protein",g,20.58,17.49,32.72
+"Total lipid (fat)",g,3.78,3.21,6.01
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,23,20,37
+"Iron, Fe",mg,0.46,0.39,0.73
+"Magnesium, Mg",mg,65,55,103
+"Phosphorus, P",mg,165,140,262
+"Potassium, K",mg,305,259,485
+"Sodium, Na",mg,192,163,305
+"Zinc, Zn",mg,0.28,0.24,0.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.7,1.4,2.7
+"Thiamin",mg,0.076,0.065,0.121
+"Riboflavin",mg,0.097,0.082,0.154
+"Niacin",mg,2.679,2.277,4.260
+"Vitamin B-6",mg,0.242,0.206,0.385
+"Folate, DFE",µg,9,8,14
+"Vitamin B-12",µg,2.54,2.16,4.04
+"Vitamin A, RAE",µg,12,10,19
+"Vitamin A, IU",IU,40,34,64
+Lipids
+"Cholesterol",mg,62,53,99
+Amino Acids
+Other

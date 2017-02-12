@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:20 EST
+"Nutrient data for: 11161, Collards, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 36.0g",
+Proximates
+"Water",g,89.62,32.26
+"Energy",kcal,32,12
+"Protein",g,3.02,1.09
+"Total lipid (fat)",g,0.61,0.22
+"Carbohydrate, by difference",g,5.42,1.95
+"Fiber, total dietary",g,4.0,1.4
+"Sugars, total",g,0.46,0.17
+Minerals
+"Calcium, Ca",mg,232,84
+"Iron, Fe",mg,0.47,0.17
+"Magnesium, Mg",mg,27,10
+"Phosphorus, P",mg,25,9
+"Potassium, K",mg,213,77
+"Sodium, Na",mg,17,6
+"Zinc, Zn",mg,0.21,0.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,35.3,12.7
+"Thiamin",mg,0.054,0.019
+"Riboflavin",mg,0.130,0.047
+"Niacin",mg,0.742,0.267
+"Vitamin B-6",mg,0.165,0.059
+"Folate, DFE",µg,129,46
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,251,90
+"Vitamin A, IU",IU,5019,1807
+"Vitamin E (alpha-tocopherol)",mg,2.26,0.81
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,437.1,157.4
+Lipids
+"Fatty acids, total saturated",g,0.055,0.020
+"Fatty acids, total monounsaturated",g,0.030,0.011
+"Fatty acids, total polyunsaturated",g,0.201,0.072
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

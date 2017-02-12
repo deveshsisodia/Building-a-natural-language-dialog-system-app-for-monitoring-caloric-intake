@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:56 EST
+"Nutrient data for: 23285, Beef, top loin filet, boneless, separable lean and fat, trimmed to 1/8"" fat, choice, cooked, grilled"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 135.0g",
+Proximates
+"Water",g,55.60,75.06
+"Energy",kcal,253,342
+"Protein",g,26.80,36.18
+"Total lipid (fat)",g,15.90,21.46
+"Carbohydrate, by difference",g,0.60,0.81
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,7,9
+"Iron, Fe",mg,3.23,4.36
+"Magnesium, Mg",mg,26,35
+"Phosphorus, P",mg,231,312
+"Potassium, K",mg,368,497
+"Sodium, Na",mg,91,123
+"Zinc, Zn",mg,10.21,13.78
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.076,0.103
+"Riboflavin",mg,0.267,0.360
+"Niacin",mg,4.037,5.450
+"Vitamin B-6",mg,0.408,0.551
+"Folate, DFE",µg,7,9
+"Vitamin B-12",µg,3.63,4.90
+"Vitamin A, RAE",µg,7,9
+"Vitamin A, IU",IU,24,32
+"Vitamin D (D2 + D3)",µg,0.2,0.3
+"Vitamin D",IU,7,9
+"Vitamin K (phylloquinone)",µg,1.6,2.2
+Lipids
+"Fatty acids, total saturated",g,5.454,7.363
+"Fatty acids, total monounsaturated",g,7.142,9.642
+"Fatty acids, total polyunsaturated",g,0.527,0.711
+"Fatty acids, total trans",g,0.776,1.048
+"Cholesterol",mg,85,115
+Amino Acids
+Other
+"Caffeine",mg,0,0

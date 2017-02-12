@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:22 EST
+"Nutrient data for: 22955, Egg rolls, vegetable, frozen, prepared"
+Nutrient,Unit,1Value per 100 g,"1 egg roll = 68.0g","1 oz = 28.35g",
+Proximates
+"Water",g,53.37,36.29,15.13
+"Energy",kcal,214,146,61
+"Protein",g,5.95,4.05,1.69
+"Total lipid (fat)",g,6.97,4.74,1.98
+"Carbohydrate, by difference",g,31.77,21.60,9.01
+"Fiber, total dietary",g,2.4,1.6,0.7
+"Sugars, total",g,5.96,4.05,1.69
+Minerals
+"Calcium, Ca",mg,50,34,14
+"Iron, Fe",mg,1.95,1.33,0.55
+"Magnesium, Mg",mg,23,16,7
+"Phosphorus, P",mg,72,49,20
+"Potassium, K",mg,222,151,63
+"Sodium, Na",mg,490,333,139
+"Zinc, Zn",mg,0.45,0.31,0.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.7,4.6,1.9
+"Thiamin",mg,0.279,0.190,0.079
+"Riboflavin",mg,0.245,0.167,0.069
+"Niacin",mg,2.519,1.713,0.714
+"Vitamin B-6",mg,0.095,0.065,0.027
+"Folate, DFE",µg,75,51,21
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,49,33,14
+"Vitamin A, IU",IU,972,661,276
+"Vitamin E (alpha-tocopherol)",mg,0.75,0.51,0.21
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,39.4,26.8,11.2
+Lipids
+"Fatty acids, total saturated",g,1.138,0.774,0.323
+"Fatty acids, total monounsaturated",g,1.811,1.231,0.513
+"Fatty acids, total polyunsaturated",g,3.406,2.316,0.966
+"Fatty acids, total trans",g,0.050,0.034,0.014
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

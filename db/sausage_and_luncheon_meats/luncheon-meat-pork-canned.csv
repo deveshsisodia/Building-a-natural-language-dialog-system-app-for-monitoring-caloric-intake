@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:16 EST
+"Nutrient data for: 07045, Luncheon meat, pork, canned"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice (4-1/4"" x 4-1/4"" x 1/16"") = 21.0g",
+Proximates
+"Water",g,51.50,14.60,10.81
+"Energy",kcal,334,95,70
+"Protein",g,12.50,3.54,2.62
+"Total lipid (fat)",g,30.30,8.59,6.36
+"Carbohydrate, by difference",g,2.10,0.60,0.44
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,6,2,1
+"Iron, Fe",mg,0.72,0.20,0.15
+"Magnesium, Mg",mg,10,3,2
+"Phosphorus, P",mg,82,23,17
+"Potassium, K",mg,215,61,45
+"Sodium, Na",mg,1289,365,271
+"Zinc, Zn",mg,1.48,0.42,0.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.3,0.2
+"Thiamin",mg,0.367,0.104,0.077
+"Riboflavin",mg,0.194,0.055,0.041
+"Niacin",mg,3.126,0.886,0.656
+"Vitamin B-6",mg,0.210,0.060,0.044
+"Folate, DFE",µg,6,2,1
+"Vitamin B-12",µg,0.90,0.26,0.19
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.26,0.07,0.05
+"Vitamin D (D2 + D3)",µg,0.5,0.1,0.1
+"Vitamin D",IU,22,6,5
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,10.790,3.059,2.266
+"Fatty acids, total monounsaturated",g,14.290,4.051,3.001
+"Fatty acids, total polyunsaturated",g,3.560,1.009,0.748
+"Cholesterol",mg,62,18,13
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

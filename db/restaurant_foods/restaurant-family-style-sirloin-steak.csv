@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:27 EST
+"Nutrient data for: 36013, Restaurant, family style, sirloin steak"
+Nutrient,Unit,1Value per 100 g,"1 serving = 166.0g",
+Proximates
+"Water",g,60.18,99.90
+"Energy",kcal,195,324
+"Protein",g,29.80,49.47
+"Total lipid (fat)",g,8.48,14.08
+"Carbohydrate, by difference",g,0.00,0.00
+"Sugars, total",g,0.55,0.91
+Minerals
+"Calcium, Ca",mg,10,17
+"Iron, Fe",mg,2.57,4.27
+"Magnesium, Mg",mg,27,45
+"Phosphorus, P",mg,230,382
+"Potassium, K",mg,379,629
+"Sodium, Na",mg,339,563
+"Zinc, Zn",mg,5.44,9.03
+Vitamins
+"Thiamin",mg,0.077,0.128
+"Riboflavin",mg,0.347,0.576
+"Niacin",mg,5.683,9.434
+"Vitamin B-6",mg,0.668,1.109
+"Vitamin B-12",µg,2.54,4.22
+"Vitamin A, RAE",µg,8,13
+"Vitamin A, IU",IU,27,45
+"Vitamin E (alpha-tocopherol)",mg,0.53,0.88
+Lipids
+"Fatty acids, total saturated",g,3.143,5.217
+"Fatty acids, total monounsaturated",g,3.654,6.066
+"Fatty acids, total polyunsaturated",g,0.673,1.117
+"Fatty acids, total trans",g,0.354,0.588
+"Cholesterol",mg,87,144
+Amino Acids
+Other

@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:02 EST
+"Nutrient data for: 17370, Lamb, New Zealand, imported, ground lamb, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,66.59,56.60
+"Energy",kcal,192,163
+"Protein",g,22.60,19.21
+"Total lipid (fat)",g,11.34,9.64
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,4,3
+"Iron, Fe",mg,1.27,1.08
+"Magnesium, Mg",mg,15,13
+"Phosphorus, P",mg,122,104
+"Potassium, K",mg,162,138
+"Sodium, Na",mg,34,29
+"Zinc, Zn",mg,3.38,2.87
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.020,0.017
+"Riboflavin",mg,0.153,0.130
+"Niacin",mg,3.308,2.812
+"Vitamin B-6",mg,0.134,0.114
+"Vitamin B-12",µg,0.96,0.82
+"Vitamin A, RAE",µg,8,7
+"Vitamin A, IU",IU,27,23
+"Vitamin E (alpha-tocopherol)",mg,0.40,0.34
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,2,2
+Lipids
+"Fatty acids, total saturated",g,4.378,3.721
+"Fatty acids, total monounsaturated",g,2.769,2.354
+"Fatty acids, total polyunsaturated",g,0.489,0.416
+"Fatty acids, total trans",g,0.380,0.323
+"Cholesterol",mg,71,60
+Amino Acids
+Other
+"Caffeine",mg,0,0

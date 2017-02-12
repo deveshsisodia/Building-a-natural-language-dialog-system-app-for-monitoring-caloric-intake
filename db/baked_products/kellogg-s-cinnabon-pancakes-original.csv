@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:40 EST
+"Nutrient data for: 28006, KELLOGG'S, CINNABON, Pancakes, Original"
+Nutrient,Unit,1Value per 100 g,"3.0 pancakes = 105.0g",
+Proximates
+"Water",g,41.60,43.68
+"Energy",kcal,258,271
+"Protein",g,5.00,5.25
+"Total lipid (fat)",g,7.70,8.09
+"Carbohydrate, by difference",g,43.10,45.26
+"Fiber, total dietary",g,1.1,1.2
+"Sugars, total",g,14.90,15.64
+Minerals
+"Calcium, Ca",mg,76,80
+"Iron, Fe",mg,4.30,4.51
+"Magnesium, Mg",mg,0,0
+"Phosphorus, P",mg,190,200
+"Potassium, K",mg,50,52
+"Sodium, Na",mg,456,479
+"Zinc, Zn",mg,0.00,0.00
+Vitamins
+"Thiamin",mg,0.290,0.304
+"Riboflavin",mg,0.320,0.336
+"Niacin",mg,3.800,3.990
+"Vitamin B-6",mg,0.400,0.420
+"Vitamin B-12",µg,1.10,1.16
+"Vitamin A, RAE",µg,286,300
+"Vitamin A, IU",IU,952,1000
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.600,1.680
+"Fatty acids, total monounsaturated",g,1.700,1.785
+"Fatty acids, total polyunsaturated",g,3.600,3.780
+"Fatty acids, total trans",g,0.100,0.105
+"Cholesterol",mg,14,15
+Amino Acids
+Other

@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:23 EST
+"Nutrient data for: 14427, Beverages, Orange drink, breakfast type, with juice and pulp, frozen concentrate, prepared with water"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 31.3g","8.0 fl oz = 250.0g",
+Proximates
+"Water",g,88.08,27.57,220.20
+"Energy",kcal,45,14,112
+"Protein",g,0.12,0.04,0.30
+"Total lipid (fat)",g,0.00,0.00,0.00
+"Carbohydrate, by difference",g,11.32,3.54,28.30
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,11.05,3.46,27.62
+Minerals
+"Calcium, Ca",mg,118,37,295
+"Iron, Fe",mg,0.08,0.03,0.20
+"Magnesium, Mg",mg,11,3,28
+"Phosphorus, P",mg,33,10,82
+"Potassium, K",mg,167,52,418
+"Sodium, Na",mg,10,3,25
+"Zinc, Zn",mg,0.04,0.01,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,55.1,17.2,137.8
+"Thiamin",mg,0.105,0.033,0.263
+"Riboflavin",mg,1.042,0.326,2.605
+"Niacin",mg,0.253,0.079,0.632
+"Vitamin B-6",mg,0.071,0.022,0.177
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,6,2,15
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.01,0.05
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.001,0.000,0.003
+"Fatty acids, total monounsaturated",g,0.001,0.000,0.003
+"Fatty acids, total polyunsaturated",g,0.001,0.000,0.003
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

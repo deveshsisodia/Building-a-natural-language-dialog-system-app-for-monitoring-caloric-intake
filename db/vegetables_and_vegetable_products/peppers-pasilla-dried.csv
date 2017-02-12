@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:25 EST
+"Nutrient data for: 11982, Peppers, pasilla, dried"
+Nutrient,Unit,1Value per 100 g,"1 pepper = 7.0g",
+Proximates
+"Water",g,14.84,1.04
+"Energy",kcal,345,24
+"Protein",g,12.35,0.86
+"Total lipid (fat)",g,15.85,1.11
+"Carbohydrate, by difference",g,51.13,3.58
+"Fiber, total dietary",g,26.8,1.9
+Minerals
+"Calcium, Ca",mg,97,7
+"Iron, Fe",mg,9.83,0.69
+"Magnesium, Mg",mg,130,9
+"Phosphorus, P",mg,267,19
+"Potassium, K",mg,2222,156
+"Sodium, Na",mg,89,6
+"Zinc, Zn",mg,1.40,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.4,0.4
+"Thiamin",mg,0.172,0.012
+"Riboflavin",mg,3.197,0.224
+"Niacin",mg,7.175,0.502
+"Vitamin B-6",mg,4.228,0.296
+"Folate, DFE",µg,170,12
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1788,125
+"Vitamin A, IU",IU,35760,2503
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

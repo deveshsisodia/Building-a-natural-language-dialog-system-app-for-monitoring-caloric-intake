@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08639, Cereals, QUAKER, Instant Oatmeal, Cinnamon Spice, reduced sugar"
+Nutrient,Unit,1Value per 100 g,"1 packet (1 NLEA serving) = 34.0g",
+Proximates
+"Water",g,8.45,2.87
+"Energy",kcal,358,122
+"Protein",g,11.26,3.83
+"Total lipid (fat)",g,6.11,2.08
+"Carbohydrate, by difference",g,69.45,23.61
+"Fiber, total dietary",g,8.8,3.0
+"Sugars, total",g,11.91,4.05
+Minerals
+"Calcium, Ca",mg,313,106
+"Iron, Fe",mg,12.00,4.08
+"Magnesium, Mg",mg,116,39
+"Phosphorus, P",mg,391,133
+"Potassium, K",mg,329,112
+"Sodium, Na",mg,760,258
+"Zinc, Zn",mg,2.62,0.89
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.1
+"Thiamin",mg,0.900,0.306
+"Riboflavin",mg,1.170,0.398
+"Niacin",mg,13.630,4.634
+"Vitamin B-6",mg,1.370,0.466
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,3409,1159
+"Vitamin E (alpha-tocopherol)",mg,0.56,0.19
+Lipids
+"Fatty acids, total saturated",g,1.160,0.394
+"Fatty acids, total monounsaturated",g,2.190,0.745
+"Fatty acids, total polyunsaturated",g,1.830,0.622
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

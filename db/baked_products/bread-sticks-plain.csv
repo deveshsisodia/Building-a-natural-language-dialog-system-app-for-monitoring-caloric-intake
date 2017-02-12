@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:31 EST
+"Nutrient data for: 18080, Bread sticks, plain"
+Nutrient,Unit,1Value per 100 g,"1 cup, small pieces = 46.0g","1 stick, small (approx 4-1/4"" long) = 5.0g","1 stick (7-5/8"" x 5/8"") = 10.0g","1 stick (9-1/4"" x 3/8"") = 6.0g",
+Proximates
+"Water",g,6.10,2.81,0.30,0.61,0.37
+"Energy",kcal,412,190,21,41,25
+"Protein",g,12.00,5.52,0.60,1.20,0.72
+"Total lipid (fat)",g,9.50,4.37,0.47,0.95,0.57
+"Carbohydrate, by difference",g,68.40,31.46,3.42,6.84,4.10
+"Fiber, total dietary",g,3.0,1.4,0.1,0.3,0.2
+"Sugars, total",g,1.26,0.58,0.06,0.13,0.08
+Minerals
+"Calcium, Ca",mg,22,10,1,2,1
+"Iron, Fe",mg,4.28,1.97,0.21,0.43,0.26
+"Magnesium, Mg",mg,32,15,2,3,2
+"Phosphorus, P",mg,121,56,6,12,7
+"Potassium, K",mg,124,57,6,12,7
+"Sodium, Na",mg,713,328,36,71,43
+"Zinc, Zn",mg,0.88,0.40,0.04,0.09,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.589,0.271,0.029,0.059,0.035
+"Riboflavin",mg,0.553,0.254,0.028,0.055,0.033
+"Niacin",mg,5.281,2.429,0.264,0.528,0.317
+"Vitamin B-6",mg,0.073,0.034,0.004,0.007,0.004
+"Folate, DFE",µg,255,117,13,26,15
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.01,0.46,0.05,0.10,0.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,2.2,1.0,0.1,0.2,0.1
+Lipids
+"Fatty acids, total saturated",g,1.410,0.649,0.070,0.141,0.085
+"Fatty acids, total monounsaturated",g,3.568,1.641,0.178,0.357,0.214
+"Fatty acids, total polyunsaturated",g,3.628,1.669,0.181,0.363,0.218
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:28 EST
+"Nutrient data for: 35051, Moose, liver, braised (Alaska Native)"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,66.00,
+"Energy",kcal,155,
+"Protein",g,24.38,
+"Total lipid (fat)",g,4.89,
+"Carbohydrate, by difference",g,3.43,
+Minerals
+"Calcium, Ca",mg,7,
+"Iron, Fe",mg,6.77,
+"Magnesium, Mg",mg,20,
+"Phosphorus, P",mg,429,
+"Potassium, K",mg,235,
+"Sodium, Na",mg,70,
+"Zinc, Zn",mg,6.07,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,22.6,
+"Thiamin",mg,0.196,
+"Riboflavin",mg,4.100,
+"Niacin",mg,10.720,
+"Vitamin B-6",mg,0.910,
+"Vitamin B-12",µg,71.00,
+"Vitamin A, IU",IU,96000,
+Lipids
+"Fatty acids, total monounsaturated",g,0.650,
+"Fatty acids, total polyunsaturated",g,1.070,
+"Cholesterol",mg,389,
+Amino Acids
+Other

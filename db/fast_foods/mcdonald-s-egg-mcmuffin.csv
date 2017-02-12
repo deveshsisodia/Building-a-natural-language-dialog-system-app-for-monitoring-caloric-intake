@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:35 EST
+"Nutrient data for: 21357, McDONALD'S, Egg McMUFFIN"
+Nutrient,Unit,1Value per 100 g,"1 sandwich = 126.0g",
+Proximates
+"Water",g,52.58,66.25
+"Energy",kcal,228,287
+"Protein",g,13.64,17.19
+"Total lipid (fat)",g,9.66,12.17
+"Carbohydrate, by difference",g,21.67,27.30
+"Fiber, total dietary",g,1.1,1.4
+"Sugars, total",g,2.13,2.68
+Minerals
+"Calcium, Ca",mg,192,242
+"Iron, Fe",mg,2.30,2.90
+"Magnesium, Mg",mg,20,25
+"Phosphorus, P",mg,200,252
+"Potassium, K",mg,173,218
+"Sodium, Na",mg,617,777
+"Zinc, Zn",mg,1.29,1.63
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.2,1.5
+"Thiamin",mg,0.262,0.330
+"Riboflavin",mg,0.368,0.464
+"Niacin",mg,3.102,3.909
+"Vitamin B-6",mg,0.145,0.183
+"Vitamin E (alpha-tocopherol)",mg,0.59,0.74
+Lipids
+"Fatty acids, total saturated",g,3.592,4.526
+"Fatty acids, total monounsaturated",g,2.721,3.428
+"Fatty acids, total polyunsaturated",g,1.735,2.186
+"Fatty acids, total trans",g,0.109,0.137
+"Cholesterol",mg,165,208
+Amino Acids
+Other

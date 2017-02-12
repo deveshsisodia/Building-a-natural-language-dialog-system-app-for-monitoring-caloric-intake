@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:20 EST
+"Nutrient data for: 14157, Beverages, carbonated, root beer"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 30.8g","1 can or bottle (16 fl oz) = 493.0g","1 can or bottle (12 fl oz) = 370.0g",
+Proximates
+"Water",g,89.30,27.50,440.25,330.41
+"Energy",kcal,41,13,202,152
+"Protein",g,0.00,0.00,0.00,0.00
+"Total lipid (fat)",g,0.00,0.00,0.00,0.00
+"Carbohydrate, by difference",g,10.60,3.26,52.26,39.22
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,10.60,3.26,52.26,39.22
+Minerals
+"Calcium, Ca",mg,5,2,25,18
+"Iron, Fe",mg,0.05,0.02,0.25,0.18
+"Magnesium, Mg",mg,1,0,5,4
+"Phosphorus, P",mg,0,0,0,0
+"Potassium, K",mg,1,0,5,4
+"Sodium, Na",mg,13,4,64,48
+"Zinc, Zn",mg,0.07,0.02,0.35,0.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000,0.000
+"Riboflavin",mg,0.000,0.000,0.000,0.000
+"Niacin",mg,0.000,0.000,0.000,0.000
+"Vitamin B-6",mg,0.000,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

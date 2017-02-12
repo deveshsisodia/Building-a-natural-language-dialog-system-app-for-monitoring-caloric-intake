@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:39 EST
+"Nutrient data for: 05178, Turkey, liver, all classes, cooked, simmered"
+Nutrient,Unit,1Value per 100 g,"1 liver cooked = 53.0g",
+Proximates
+"Water",g,63.99,33.91
+"Energy",kcal,189,100
+"Protein",g,27.00,14.31
+"Total lipid (fat)",g,8.18,4.34
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,19,10
+"Iron, Fe",mg,1.79,0.95
+"Magnesium, Mg",mg,26,14
+"Phosphorus, P",mg,312,165
+"Potassium, K",mg,153,81
+"Sodium, Na",mg,98,52
+"Zinc, Zn",mg,4.53,2.40
+Vitamins
+"Vitamin C, total ascorbic acid",mg,22.6,12.0
+"Thiamin",mg,0.256,0.136
+"Riboflavin",mg,2.687,1.424
+"Niacin",mg,11.090,5.878
+"Vitamin B-6",mg,0.882,0.467
+"Folate, DFE",µg,691,366
+"Vitamin B-12",µg,28.17,14.93
+"Vitamin A, RAE",µg,10751,5698
+"Vitamin A, IU",IU,35836,18993
+"Vitamin E (alpha-tocopherol)",mg,0.15,0.08
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,2.304,1.221
+"Fatty acids, total monounsaturated",g,1.038,0.550
+"Fatty acids, total polyunsaturated",g,2.167,1.149
+"Fatty acids, total trans",g,0.058,0.031
+"Cholesterol",mg,648,343
+Amino Acids
+Other
+"Caffeine",mg,0,0

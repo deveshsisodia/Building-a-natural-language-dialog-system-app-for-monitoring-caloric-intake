@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:29 EST
+"Nutrient data for: 35206, Plums, wild (Northern Plains Indians)"
+Nutrient,Unit,1Value per 100 g,"1 cup = 161.0g",
+Proximates
+"Water",g,76.68,123.45
+"Energy",kcal,91,147
+"Protein",g,0.43,0.69
+"Total lipid (fat)",g,0.17,0.27
+"Carbohydrate, by difference",g,21.95,35.34
+"Fiber, total dietary",g,6.0,9.7
+"Sugars, total",g,10.61,17.08
+Minerals
+"Calcium, Ca",mg,11,18
+"Iron, Fe",mg,0.17,0.27
+"Magnesium, Mg",mg,8,13
+"Phosphorus, P",mg,30,48
+"Potassium, K",mg,364,586
+"Sodium, Na",mg,4,6
+"Zinc, Zn",mg,0.09,0.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,10.3,16.6
+"Thiamin",mg,0.005,0.008
+"Riboflavin",mg,0.042,0.068
+"Niacin",mg,0.367,0.591
+"Vitamin B-6",mg,0.093,0.150
+"Vitamin A, RAE",µg,173,279
+"Vitamin A, IU",IU,3464,5577
+"Vitamin E (alpha-tocopherol)",mg,0.53,0.85
+"Vitamin K (phylloquinone)",µg,11.2,18.0
+Lipids
+Amino Acids
+Other
+Footnotes
+(a)"Includes only 5-methyltetrahydrofolate."

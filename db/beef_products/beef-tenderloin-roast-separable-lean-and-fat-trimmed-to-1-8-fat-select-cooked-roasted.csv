@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:56 EST
+"Nutrient data for: 13925, Beef, tenderloin, roast, separable lean and fat, trimmed to 1/8"" fat, select, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) = 329.0g",
+Proximates
+"Water",g,48.86,41.53,160.75
+"Energy",kcal,316,269,1040
+"Protein",g,23.90,20.31,78.63
+"Total lipid (fat)",g,23.70,20.14,77.97
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,9,8,30
+"Iron, Fe",mg,3.11,2.64,10.23
+"Magnesium, Mg",mg,22,19,72
+"Phosphorus, P",mg,203,173,668
+"Potassium, K",mg,331,281,1089
+"Sodium, Na",mg,57,48,188
+"Zinc, Zn",mg,4.03,3.43,13.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.090,0.076,0.296
+"Riboflavin",mg,0.260,0.221,0.855
+"Niacin",mg,3.000,2.550,9.870
+"Vitamin B-6",mg,0.250,0.212,0.823
+"Folate, DFE",µg,8,7,26
+"Vitamin B-12",µg,2.46,2.09,8.09
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,9.380,7.973,30.860
+"Fatty acids, total monounsaturated",g,9.920,8.432,32.637
+"Fatty acids, total polyunsaturated",g,0.960,0.816,3.158
+"Cholesterol",mg,85,72,280
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

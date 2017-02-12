@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:47 EST
+"Nutrient data for: 10083, Pork, fresh, shoulder, blade, boston (roasts), separable lean and fat, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) = 262.0g",
+Proximates
+"Water",g,57.47,48.85,150.57
+"Energy",kcal,269,229,705
+"Protein",g,23.11,19.64,60.55
+"Total lipid (fat)",g,18.86,16.03,49.41
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,28,24,73
+"Iron, Fe",mg,1.45,1.23,3.80
+"Magnesium, Mg",mg,18,15,47
+"Phosphorus, P",mg,197,167,516
+"Potassium, K",mg,332,282,870
+"Sodium, Na",mg,67,57,176
+"Zinc, Zn",mg,3.96,3.37,10.38
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.6,1.8
+"Thiamin",mg,0.638,0.542,1.672
+"Riboflavin",mg,0.355,0.302,0.930
+"Niacin",mg,4.061,3.452,10.640
+"Vitamin B-6",mg,0.230,0.196,0.603
+"Folate, DFE",µg,5,4,13
+"Vitamin B-12",µg,0.88,0.75,2.31
+"Vitamin A, RAE",µg,2,2,5
+"Vitamin A, IU",IU,7,6,18
+"Vitamin E (alpha-tocopherol)",mg,0.19,0.16,0.50
+"Vitamin D (D2 + D3)",µg,1.3,1.1,3.4
+"Vitamin D",IU,54,46,141
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,6.970,5.924,18.261
+"Fatty acids, total monounsaturated",g,8.270,7.029,21.667
+"Fatty acids, total polyunsaturated",g,1.760,1.496,4.611
+"Cholesterol",mg,86,73,225
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:22 EST
+"Nutrient data for: 14317, Beverages, malted drink mix, chocolate, powder"
+Nutrient,Unit,1Value per 100 g,"1 serving (3 heaping tsp or 1 envelope) = 21.0g",
+Proximates
+"Water",g,1.30,0.27
+"Energy",kcal,411,86
+"Protein",g,5.10,1.07
+"Total lipid (fat)",g,4.76,1.00
+"Carbohydrate, by difference",g,86.94,18.26
+"Fiber, total dietary",g,4.8,1.0
+"Sugars, total",g,66.67,14.00
+Minerals
+"Calcium, Ca",mg,60,13
+"Iron, Fe",mg,2.28,0.48
+"Magnesium, Mg",mg,70,15
+"Phosphorus, P",mg,175,37
+"Potassium, K",mg,618,130
+"Sodium, Na",mg,190,40
+"Zinc, Zn",mg,0.80,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.5,0.3
+"Thiamin",mg,0.173,0.036
+"Riboflavin",mg,0.200,0.042
+"Niacin",mg,2.003,0.421
+"Vitamin B-6",mg,0.156,0.033
+"Folate, DFE",µg,50,10
+"Vitamin B-12",µg,0.42,0.09
+"Vitamin A, RAE",µg,33,7
+"Vitamin A, IU",IU,117,25
+"Vitamin E (alpha-tocopherol)",mg,0.17,0.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.5,0.5
+Lipids
+"Fatty acids, total saturated",g,2.381,0.500
+"Fatty acids, total monounsaturated",g,1.167,0.245
+"Fatty acids, total polyunsaturated",g,0.669,0.140
+"Cholesterol",mg,1,0
+Amino Acids
+Other
+"Caffeine",mg,37,8

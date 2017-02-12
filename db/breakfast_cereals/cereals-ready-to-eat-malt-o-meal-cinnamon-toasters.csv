@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:02 EST
+"Nutrient data for: 08494, Cereals ready-to-eat, MALT-O-MEAL, CINNAMON TOASTERS"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,3.00,0.90
+"Energy",kcal,425,128
+"Protein",g,3.32,1.00
+"Total lipid (fat)",g,12.06,3.62
+"Carbohydrate, by difference",g,78.33,23.50
+"Fiber, total dietary",g,5.0,1.5
+"Sugars, total",g,32.86,9.86
+Minerals
+"Calcium, Ca",mg,333,100
+"Iron, Fe",mg,30.00,9.00
+"Magnesium, Mg",mg,27,8
+"Phosphorus, P",mg,250,75
+"Potassium, K",mg,157,47
+"Sodium, Na",mg,473,142
+"Zinc, Zn",mg,12.50,3.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,20.0,6.0
+"Thiamin",mg,1.250,0.375
+"Riboflavin",mg,1.410,0.423
+"Niacin",mg,16.670,5.001
+"Vitamin B-6",mg,1.660,0.498
+"Folate, DFE",µg,1121,336
+"Vitamin B-12",µg,5.00,1.50
+"Vitamin A, RAE",µg,498,149
+"Vitamin A, IU",IU,1667,500
+"Vitamin E (alpha-tocopherol)",mg,0.43,0.13
+"Vitamin D (D2 + D3)",µg,3.3,1.0
+"Vitamin D",IU,133,40
+"Vitamin K (phylloquinone)",µg,1.6,0.5
+Lipids
+"Fatty acids, total saturated",g,1.850,0.555
+"Fatty acids, total monounsaturated",g,3.920,1.176
+"Fatty acids, total polyunsaturated",g,4.130,1.239
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,26 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:18 EST
+"Nutrient data for: 14004, Alcoholic beverage, beer, regular, BUDWEISER"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 29.8g","12.0 fl oz = 357.0g",
+Proximates
+"Water",g,92.77,27.65,331.19
+"Energy",kcal,41,12,146
+"Protein",g,0.36,0.11,1.29
+"Total lipid (fat)",g,0.00,0.00,0.00
+"Carbohydrate, by difference",g,2.97,0.89,10.60
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,4,1,14
+"Iron, Fe",mg,0.00,0.00,0.00
+"Magnesium, Mg",mg,7,2,25
+"Phosphorus, P",mg,13,4,46
+"Potassium, K",mg,33,10,118
+"Sodium, Na",mg,3,1,11
+"Zinc, Zn",mg,0.00,0.00,0.00
+Vitamins
+Lipids
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

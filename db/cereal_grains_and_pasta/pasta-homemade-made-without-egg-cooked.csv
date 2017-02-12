@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:13 EST
+"Nutrient data for: 20098, Pasta, homemade, made without egg, cooked"
+Nutrient,Unit,1Value per 100 g,"2.0 oz = 57.0g",
+Proximates
+"Water",g,68.86,39.25
+"Energy",kcal,124,71
+"Protein",g,4.37,2.49
+"Total lipid (fat)",g,0.98,0.56
+"Carbohydrate, by difference",g,25.12,14.32
+Minerals
+"Calcium, Ca",mg,6,3
+"Iron, Fe",mg,1.13,0.64
+"Magnesium, Mg",mg,14,8
+"Phosphorus, P",mg,40,23
+"Potassium, K",mg,19,11
+"Sodium, Na",mg,74,42
+"Zinc, Zn",mg,0.37,0.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.182,0.104
+"Riboflavin",mg,0.148,0.084
+"Niacin",mg,1.343,0.766
+"Vitamin B-6",mg,0.028,0.016
+"Folate, DFE",µg,61,35
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.140,0.080
+"Fatty acids, total monounsaturated",g,0.187,0.107
+"Fatty acids, total polyunsaturated",g,0.508,0.290
+"Cholesterol",mg,0,0
+Amino Acids
+Other

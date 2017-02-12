@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:46 EST
+"Nutrient data for: 03014, Babyfood, meat, chicken sticks, junior"
+Nutrient,Unit,1Value per 100 g,"1 stick = 10.0g","1 jar = 71.0g","1 jar Gerber Graduate (2.5 oz) = 71.0g",
+Proximates
+"Water",g,68.30,6.83,48.49,48.49
+"Energy",kcal,188,19,133,133
+"Protein",g,14.60,1.46,10.37,10.37
+"Total lipid (fat)",g,14.40,1.44,10.22,10.22
+"Carbohydrate, by difference",g,1.50,0.15,1.06,1.06
+"Fiber, total dietary",g,0.2,0.0,0.1,0.1
+"Sugars, total",g,1.40,0.14,0.99,0.99
+Minerals
+"Calcium, Ca",mg,73,7,52,52
+"Iron, Fe",mg,1.56,0.16,1.11,1.11
+"Magnesium, Mg",mg,14,1,10,10
+"Phosphorus, P",mg,121,12,86,86
+"Potassium, K",mg,106,11,75,75
+"Sodium, Na",mg,267,27,190,190
+"Zinc, Zn",mg,1.01,0.10,0.72,0.72
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.7,0.2,1.2,1.2
+"Thiamin",mg,0.017,0.002,0.012,0.012
+"Riboflavin",mg,0.197,0.020,0.140,0.140
+"Niacin",mg,2.005,0.200,1.424,1.424
+"Vitamin B-6",mg,0.103,0.010,0.073,0.073
+"Folate, DFE",µg,11,1,8,8
+"Vitamin B-12",µg,0.40,0.04,0.28,0.28
+"Vitamin A, RAE",µg,3,0,2,2
+"Vitamin A, IU",IU,11,1,8,8
+"Vitamin E (alpha-tocopherol)",mg,0.37,0.04,0.26,0.26
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.1,0.1
+"Vitamin D",IU,4,0,3,3
+"Vitamin K (phylloquinone)",µg,0.4,0.0,0.3,0.3
+Lipids
+"Fatty acids, total saturated",g,4.094,0.409,2.907,2.907
+"Fatty acids, total monounsaturated",g,6.267,0.627,4.450,4.450
+"Fatty acids, total polyunsaturated",g,2.986,0.299,2.120,2.120
+"Cholesterol",mg,78,8,55,55
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:21 EST
+"Nutrient data for: 04689, Salad Dressing, mayonnaise, light, SMART BALANCE, Omega Plus light"
+Nutrient,Unit,1Value per 100 g,"1 tbsp (1 NLEA serving) = 14.0g",
+Proximates
+"Water",g,52.44,7.34
+"Energy",kcal,333,47
+"Protein",g,1.53,0.21
+"Total lipid (fat)",g,34.18,4.79
+"Carbohydrate, by difference",g,9.39,1.31
+"Fiber, total dietary",g,0.2,0.0
+"Sugars, total",g,5.38,0.75
+Minerals
+"Calcium, Ca",mg,13,2
+"Iron, Fe",mg,0.31,0.04
+"Magnesium, Mg",mg,2,0
+"Phosphorus, P",mg,27,4
+"Potassium, K",mg,63,9
+"Sodium, Na",mg,848,119
+"Zinc, Zn",mg,0.20,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.015,0.002
+"Riboflavin",mg,0.030,0.004
+"Niacin",mg,0.028,0.004
+"Vitamin B-6",mg,0.015,0.002
+"Vitamin B-12",µg,0.17,0.02
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,10.41,1.46
+"Vitamin K (phylloquinone)",µg,65.8,9.2
+Lipids
+"Fatty acids, total saturated",g,3.288,0.460
+"Fatty acids, total monounsaturated",g,16.662,2.333
+"Fatty acids, total polyunsaturated",g,11.776,1.649
+"Fatty acids, total trans",g,0.149,0.021
+"Cholesterol",mg,33,5
+Amino Acids
+Other

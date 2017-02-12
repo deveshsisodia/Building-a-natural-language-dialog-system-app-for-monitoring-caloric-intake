@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:46 EST
+"Nutrient data for: 18934, Waffle, buttermilk, frozen, ready-to-heat, microwaved"
+Nutrient,Unit,1Value per 100 g,"1 waffle = 35.0g",
+Proximates
+"Water",g,36.48,12.77
+"Energy",kcal,289,101
+"Protein",g,6.92,2.42
+"Total lipid (fat)",g,9.40,3.29
+"Carbohydrate, by difference",g,44.16,15.46
+"Fiber, total dietary",g,2.4,0.8
+"Sugars, total",g,4.50,1.57
+Minerals
+"Calcium, Ca",mg,125,44
+"Iron, Fe",mg,6.53,2.29
+"Magnesium, Mg",mg,20,7
+"Phosphorus, P",mg,410,144
+"Potassium, K",mg,110,38
+"Sodium, Na",mg,663,232
+"Zinc, Zn",mg,0.58,0.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.576,0.202
+"Riboflavin",mg,0.695,0.243
+"Niacin",mg,6.730,2.356
+"Vitamin B-6",mg,1.105,0.387
+"Folate, DFE",µg,99,35
+"Vitamin B-12",µg,2.44,0.85
+"Vitamin A, RAE",µg,429,150
+"Vitamin A, IU",IU,1430,500
+"Vitamin E (alpha-tocopherol)",mg,0.63,0.22
+"Vitamin K (phylloquinone)",µg,10.8,3.8
+Lipids
+"Fatty acids, total saturated",g,2.057,0.720
+"Fatty acids, total monounsaturated",g,4.864,1.702
+"Fatty acids, total polyunsaturated",g,1.615,0.565
+"Cholesterol",mg,16,6
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:07 EST
+"Nutrient data for: 17429, Veal, foreshank, osso buco, separable lean only, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 shank cross cut = 187.0g",
+Proximates
+"Water",g,63.28,53.79,118.33
+"Energy",kcal,157,133,294
+"Protein",g,29.12,24.75,54.45
+"Total lipid (fat)",g,4.51,3.83,8.43
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,21,18,39
+"Iron, Fe",mg,2.06,1.75,3.85
+"Magnesium, Mg",mg,34,29,64
+"Phosphorus, P",mg,218,185,408
+"Potassium, K",mg,205,174,383
+"Sodium, Na",mg,90,76,168
+"Zinc, Zn",mg,5.32,4.52,9.95
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.083,0.071,0.155
+"Riboflavin",mg,0.350,0.297,0.655
+"Niacin",mg,3.770,3.204,7.050
+"Vitamin B-6",mg,0.177,0.150,0.331
+"Folate, DFE",µg,5,4,9
+"Vitamin B-12",µg,1.88,1.60,3.52
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.38,0.32,0.71
+"Vitamin D (D2 + D3)",µg,0.8,0.7,1.5
+"Vitamin D",IU,33,28,62
+"Vitamin K (phylloquinone)",µg,1.4,1.2,2.6
+Lipids
+"Fatty acids, total saturated",g,1.658,1.409,3.100
+"Fatty acids, total monounsaturated",g,2.194,1.865,4.103
+"Fatty acids, total polyunsaturated",g,0.292,0.248,0.546
+"Fatty acids, total trans",g,0.163,0.139,0.305
+"Cholesterol",mg,92,78,172
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:02 EST
+"Nutrient data for: 08710, Cereals ready-to-eat, KELLOGG'S, SPECIAL K gluten free, touch of brown sugar"
+Nutrient,Unit,1Value per 100 g,"1 Cup (1 NLEA serving) = 49.0g",
+Proximates
+"Water",g,3.00,1.47
+"Energy",kcal,369,181
+"Protein",g,6.09,2.98
+"Total lipid (fat)",g,2.50,1.23
+"Carbohydrate, by difference",g,86.50,42.38
+"Fiber, total dietary",g,9.3,4.6
+"Sugars, total",g,19.10,9.36
+Minerals
+"Calcium, Ca",mg,163,80
+"Iron, Fe",mg,18.39,9.01
+"Magnesium, Mg",mg,109,53
+"Phosphorus, P",mg,248,122
+"Potassium, K",mg,212,104
+"Sodium, Na",mg,376,184
+"Zinc, Zn",mg,1.39,0.68
+Vitamins
+"Vitamin C, total ascorbic acid",mg,37.0,18.1
+"Thiamin",mg,1.070,0.524
+"Riboflavin",mg,0.680,0.333
+"Niacin",mg,14.300,7.007
+"Vitamin B-6",mg,1.420,0.696
+"Vitamin B-12",µg,4.30,2.11
+"Vitamin A, IU",IU,1531,750
+"Vitamin D (D2 + D3)",µg,2.0,1.0
+"Vitamin D",IU,82,40
+Lipids
+"Fatty acids, total saturated",g,0.800,0.392
+"Fatty acids, total monounsaturated",g,0.690,0.338
+"Fatty acids, total polyunsaturated",g,0.800,0.392
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

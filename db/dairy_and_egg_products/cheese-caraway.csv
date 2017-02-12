@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:05 EST
+"Nutrient data for: 01008, Cheese, caraway"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,39.28,11.14
+"Energy",kcal,376,107
+"Protein",g,25.18,7.14
+"Total lipid (fat)",g,29.20,8.28
+"Carbohydrate, by difference",g,3.06,0.87
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,673,191
+"Iron, Fe",mg,0.64,0.18
+"Magnesium, Mg",mg,22,6
+"Phosphorus, P",mg,490,139
+"Potassium, K",mg,93,26
+"Sodium, Na",mg,690,196
+"Zinc, Zn",mg,2.94,0.83
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.031,0.009
+"Riboflavin",mg,0.450,0.128
+"Niacin",mg,0.180,0.051
+"Vitamin B-6",mg,0.074,0.021
+"Folate, DFE",µg,18,5
+"Vitamin B-12",µg,0.27,0.08
+"Vitamin A, RAE",µg,271,77
+"Vitamin A, IU",IU,1054,299
+Lipids
+"Fatty acids, total saturated",g,18.584,5.269
+"Fatty acids, total monounsaturated",g,8.275,2.346
+"Fatty acids, total polyunsaturated",g,0.830,0.235
+"Cholesterol",mg,93,26
+Amino Acids
+Other

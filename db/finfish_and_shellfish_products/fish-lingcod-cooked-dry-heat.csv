@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:58 EST
+"Nutrient data for: 15199, Fish, lingcod, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","0.5 fillet = 151.0g",
+Proximates
+"Water",g,75.68,64.33,114.28
+"Energy",kcal,109,93,165
+"Protein",g,22.64,19.24,34.19
+"Total lipid (fat)",g,1.36,1.16,2.05
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,18,15,27
+"Iron, Fe",mg,0.41,0.35,0.62
+"Magnesium, Mg",mg,33,28,50
+"Phosphorus, P",mg,258,219,390
+"Potassium, K",mg,560,476,846
+"Sodium, Na",mg,76,65,115
+"Zinc, Zn",mg,0.58,0.49,0.88
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.035,0.030,0.053
+"Riboflavin",mg,0.139,0.118,0.210
+"Niacin",mg,2.314,1.967,3.494
+"Vitamin B-6",mg,0.346,0.294,0.522
+"Folate, DFE",µg,10,8,15
+"Vitamin B-12",µg,4.15,3.53,6.27
+"Vitamin A, RAE",µg,17,14,26
+"Vitamin A, IU",IU,58,49,88
+Lipids
+"Fatty acids, total saturated",g,0.255,0.217,0.385
+"Fatty acids, total monounsaturated",g,0.447,0.380,0.675
+"Fatty acids, total polyunsaturated",g,0.383,0.326,0.578
+"Cholesterol",mg,67,57,101
+Amino Acids
+Other

@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:52 EST
+"Nutrient data for: 25005, Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON MULTIGRAIN CRUNCH BAR"
+Nutrient,Unit,1Value per 100 g,"1 bar = 55.0g",
+Proximates
+"Water",g,7.99,4.39
+"Energy",kcal,422,232
+"Protein",g,18.49,10.17
+"Total lipid (fat)",g,13.18,7.25
+"Carbohydrate, by difference",g,57.27,31.50
+"Fiber, total dietary",g,2.8,1.5
+"Sugars, total",g,33.04,18.17
+Minerals
+"Calcium, Ca",mg,953,524
+"Iron, Fe",mg,14.67,8.07
+"Magnesium, Mg",mg,255,140
+"Phosphorus, P",mg,455,250
+"Sodium, Na",mg,418,230
+"Zinc, Zn",mg,9.55,5.25
+Vitamins
+"Vitamin C, total ascorbic acid",mg,144.3,79.4
+"Thiamin",mg,2.727,1.500
+"Riboflavin",mg,3.091,1.700
+"Niacin",mg,36.364,20.000
+"Vitamin B-6",mg,3.636,2.000
+"Folate, DFE",µg,1236,680
+"Vitamin B-12",µg,10.91,6.00
+"Vitamin A, IU",IU,3182,1750
+"Vitamin E (alpha-tocopherol)",mg,24.57,13.51
+Lipids
+"Fatty acids, total saturated",g,4.794,2.637
+"Fatty acids, total trans",g,0.197,0.108
+"Cholesterol",mg,3,2
+Amino Acids
+Other

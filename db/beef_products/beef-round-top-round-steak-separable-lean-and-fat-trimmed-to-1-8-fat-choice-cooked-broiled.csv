@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:54 EST
+"Nutrient data for: 13896, Beef, round, top round, steak, separable lean and fat, trimmed to 1/8"" fat, choice, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 steak (yield from raw steak weighing 492 g) = 347.0g","1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) = 326.0g",
+Proximates
+"Water",g,58.46,49.69,202.86,190.58
+"Energy",kcal,224,190,777,730
+"Protein",g,30.70,26.09,106.53,100.08
+"Total lipid (fat)",g,10.27,8.73,35.64,33.48
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,7,6,24,23
+"Iron, Fe",mg,2.54,2.16,8.81,8.28
+"Magnesium, Mg",mg,20,17,69,65
+"Phosphorus, P",mg,187,159,649,610
+"Potassium, K",mg,248,211,861,808
+"Sodium, Na",mg,40,34,139,130
+"Zinc, Zn",mg,5.09,4.33,17.66,16.59
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.064,0.054,0.222,0.209
+"Riboflavin",mg,0.173,0.147,0.600,0.564
+"Niacin",mg,5.550,4.718,19.258,18.093
+"Vitamin B-6",mg,0.403,0.343,1.398,1.314
+"Folate, DFE",µg,10,8,35,33
+"Vitamin B-12",µg,1.84,1.56,6.38,6.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.44,0.37,1.53,1.43
+"Vitamin K (phylloquinone)",µg,1.6,1.4,5.6,5.2
+Lipids
+"Fatty acids, total saturated",g,3.898,3.313,13.526,12.707
+"Fatty acids, total monounsaturated",g,4.379,3.722,15.195,14.276
+"Fatty acids, total polyunsaturated",g,0.396,0.337,1.374,1.291
+"Cholesterol",mg,92,78,319,300
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

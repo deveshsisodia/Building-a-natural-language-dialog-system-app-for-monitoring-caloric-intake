@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08608, Cereals ready-to-eat, KASHI Berry Blossom"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,2.50,0.75
+"Energy",kcal,322,97
+"Protein",g,7.50,2.25
+"Total lipid (fat)",g,3.00,0.90
+"Carbohydrate, by difference",g,83.09,24.93
+"Fiber, total dietary",g,18.9,5.7
+"Sugars, total",g,23.39,7.02
+Minerals
+"Calcium, Ca",mg,35,10
+"Iron, Fe",mg,3.20,0.96
+"Magnesium, Mg",mg,87,26
+"Phosphorus, P",mg,188,56
+"Potassium, K",mg,250,75
+"Sodium, Na",mg,419,126
+"Zinc, Zn",mg,1.60,0.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.0,1.8
+"Thiamin",mg,0.280,0.084
+"Riboflavin",mg,0.150,0.045
+"Niacin",mg,3.200,0.960
+"Vitamin B-6",mg,0.070,0.021
+"Folate, DFE",µg,11,3
+"Vitamin A, IU",IU,85,26
+Lipids
+"Fatty acids, total saturated",g,0.400,0.120
+"Fatty acids, total monounsaturated",g,0.890,0.267
+"Fatty acids, total polyunsaturated",g,1.390,0.417
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

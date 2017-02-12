@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:56 EST
+"Nutrient data for: 16021, Beans, cranberry (roman), mature seeds, canned"
+Nutrient,Unit,1Value per 100 g,"1 cup = 260.0g",
+Proximates
+"Water",g,77.56,201.66
+"Energy",kcal,83,216
+"Protein",g,5.54,14.40
+"Total lipid (fat)",g,0.28,0.73
+"Carbohydrate, by difference",g,15.12,39.31
+"Fiber, total dietary",g,6.3,16.4
+Minerals
+"Calcium, Ca",mg,34,88
+"Iron, Fe",mg,1.55,4.03
+"Magnesium, Mg",mg,32,83
+"Phosphorus, P",mg,86,224
+"Potassium, K",mg,260,676
+"Sodium, Na",mg,332,863
+"Zinc, Zn",mg,0.84,2.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,2.1
+"Thiamin",mg,0.039,0.101
+"Riboflavin",mg,0.039,0.101
+"Niacin",mg,0.504,1.310
+"Vitamin B-6",mg,0.055,0.143
+"Folate, DFE",µg,77,200
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.072,0.187
+"Fatty acids, total monounsaturated",g,0.024,0.062
+"Fatty acids, total polyunsaturated",g,0.120,0.312
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:58 EST
+"Nutrient data for: 16144, Lentils, pink or red, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 192.0g",
+Proximates
+"Water",g,7.82,15.01
+"Energy",kcal,358,687
+"Protein",g,23.91,45.91
+"Total lipid (fat)",g,2.17,4.17
+"Carbohydrate, by difference",g,63.10,121.15
+"Fiber, total dietary",g,10.8,20.7
+Minerals
+"Calcium, Ca",mg,48,92
+"Iron, Fe",mg,7.39,14.19
+"Magnesium, Mg",mg,59,113
+"Phosphorus, P",mg,294,564
+"Potassium, K",mg,668,1283
+"Sodium, Na",mg,7,13
+"Zinc, Zn",mg,3.60,6.91
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.7,3.3
+"Thiamin",mg,0.510,0.979
+"Riboflavin",mg,0.106,0.204
+"Niacin",mg,1.495,2.870
+"Vitamin B-6",mg,0.403,0.774
+"Folate, DFE",µg,204,392
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,3,6
+"Vitamin A, IU",IU,58,111
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.379,0.728
+"Fatty acids, total monounsaturated",g,0.500,0.960
+"Fatty acids, total polyunsaturated",g,1.137,2.183
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

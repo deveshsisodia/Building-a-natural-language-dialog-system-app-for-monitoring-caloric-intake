@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:34 EST
+"Nutrient data for: 21499, KASHI Pizza, Roasted Vegetable, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"0.33 pizza = 116.0g",
+Proximates
+"Water",g,51.60,59.86
+"Energy",kcal,224,260
+"Protein",g,12.50,14.50
+"Total lipid (fat)",g,8.40,9.74
+"Carbohydrate, by difference",g,24.50,28.42
+"Fiber, total dietary",g,3.7,4.3
+"Sugars, total",g,2.90,3.36
+Minerals
+"Calcium, Ca",mg,176,204
+"Iron, Fe",mg,1.30,1.51
+"Phosphorus, P",mg,114,132
+"Potassium, K",mg,181,210
+"Sodium, Na",mg,546,633
+Vitamins
+"Vitamin C, total ascorbic acid",mg,12.0,13.9
+"Thiamin",mg,0.100,0.116
+"Riboflavin",mg,0.100,0.116
+"Niacin",mg,0.200,0.232
+"Vitamin B-6",mg,0.040,0.046
+"Vitamin B-12",µg,0.40,0.46
+"Vitamin A, IU",IU,1288,1494
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,3.300,3.828
+"Fatty acids, total monounsaturated",g,3.100,3.596
+"Fatty acids, total polyunsaturated",g,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,16,19
+Amino Acids
+Other

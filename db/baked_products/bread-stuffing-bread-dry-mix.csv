@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:31 EST
+"Nutrient data for: 18081, Bread stuffing, bread, dry mix"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 package (6 oz) = 170.0g",
+Proximates
+"Water",g,4.20,1.19,7.14
+"Energy",kcal,386,109,656
+"Protein",g,11.00,3.12,18.70
+"Total lipid (fat)",g,3.40,0.96,5.78
+"Carbohydrate, by difference",g,76.20,21.60,129.54
+"Fiber, total dietary",g,3.2,0.9,5.4
+"Sugars, total",g,8.27,2.34,14.06
+Minerals
+"Calcium, Ca",mg,97,27,165
+"Iron, Fe",mg,3.81,1.08,6.48
+"Magnesium, Mg",mg,40,11,68
+"Phosphorus, P",mg,141,40,240
+"Potassium, K",mg,246,70,418
+"Sodium, Na",mg,1405,398,2388
+"Zinc, Zn",mg,0.93,0.26,1.58
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.596,0.169,1.013
+"Riboflavin",mg,0.404,0.115,0.687
+"Niacin",mg,5.766,1.635,9.802
+"Vitamin B-6",mg,0.152,0.043,0.258
+"Folate, DFE",µg,225,64,382
+"Vitamin B-12",µg,0.02,0.01,0.03
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,2,1,3
+"Vitamin E (alpha-tocopherol)",mg,0.38,0.11,0.65
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.1,0.3,1.9
+Lipids
+"Fatty acids, total saturated",g,0.845,0.240,1.437
+"Fatty acids, total monounsaturated",g,1.493,0.423,2.538
+"Fatty acids, total polyunsaturated",g,0.713,0.202,1.212
+"Cholesterol",mg,1,0,2
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

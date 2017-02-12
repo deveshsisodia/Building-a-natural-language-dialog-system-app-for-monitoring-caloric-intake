@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:25 EST
+"Nutrient data for: 32001, Rice and vermicelli mix, beef flavor, prepared with 80% margarine"
+Nutrient,Unit,1Value per 100 g,"1 cup = 247.0g",
+Proximates
+"Water",g,70.93,175.20
+"Energy",kcal,129,319
+"Protein",g,2.82,6.97
+"Total lipid (fat)",g,3.20,7.90
+"Carbohydrate, by difference",g,22.03,54.41
+"Fiber, total dietary",g,0.6,1.5
+Minerals
+"Calcium, Ca",mg,10,25
+"Iron, Fe",mg,0.88,2.17
+"Magnesium, Mg",mg,10,25
+"Phosphorus, P",mg,33,82
+"Potassium, K",mg,48,119
+"Sodium, Na",mg,364,899
+"Zinc, Zn",mg,0.42,1.04
+Vitamins
+"Thiamin",mg,0.163,0.403
+"Riboflavin",mg,0.018,0.044
+"Niacin",mg,1.353,3.342
+"Vitamin B-6",mg,0.015,0.037
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.67
+Lipids
+"Fatty acids, total saturated",g,0.682,1.685
+"Fatty acids, total monounsaturated",g,1.126,2.781
+"Fatty acids, total polyunsaturated",g,0.915,2.260
+"Fatty acids, total trans",g,0.384,0.948
+Amino Acids
+Other

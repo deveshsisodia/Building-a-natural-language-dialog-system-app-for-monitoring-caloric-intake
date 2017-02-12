@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:05 EST
+"Nutrient data for: 15113, Fish, tilefish, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"0.5 fillet = 150.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,70.24,105.36,59.70
+"Energy",kcal,147,220,125
+"Protein",g,24.49,36.73,20.82
+"Total lipid (fat)",g,4.69,7.04,3.99
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,26,39,22
+"Iron, Fe",mg,0.31,0.47,0.26
+"Magnesium, Mg",mg,33,50,28
+"Phosphorus, P",mg,236,354,201
+"Potassium, K",mg,512,768,435
+"Sodium, Na",mg,59,88,50
+"Zinc, Zn",mg,0.53,0.80,0.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.140,0.210,0.119
+"Riboflavin",mg,0.190,0.285,0.161
+"Niacin",mg,3.500,5.250,2.975
+"Vitamin B-6",mg,0.300,0.450,0.255
+"Folate, DFE",µg,17,26,14
+"Vitamin B-12",µg,2.50,3.75,2.12
+"Vitamin A, RAE",µg,21,32,18
+"Vitamin A, IU",IU,69,104,59
+Lipids
+"Fatty acids, total saturated",g,0.868,1.302,0.738
+"Fatty acids, total monounsaturated",g,1.332,1.998,1.132
+"Fatty acids, total polyunsaturated",g,1.246,1.869,1.059
+"Cholesterol",mg,64,96,54
+Amino Acids
+Other

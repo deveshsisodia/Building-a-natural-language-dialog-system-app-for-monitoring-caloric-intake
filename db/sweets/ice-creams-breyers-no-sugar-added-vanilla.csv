@@ -1,0 +1,25 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:42 EST
+"Nutrient data for: 19882, Ice creams, BREYERS, No Sugar Added, Vanilla"
+Nutrient,Unit,1Value per 100 g,"1 serving 1/2 cup = 69.0g",
+Proximates
+"Water",g,67.86,46.82
+"Energy",kcal,143,99
+"Protein",g,3.68,2.54
+"Total lipid (fat)",g,6.20,4.28
+"Carbohydrate, by difference",g,21.92,15.12
+"Fiber, total dietary",g,0.5,0.3
+"Sugars, total",g,6.09,4.20
+Minerals
+"Calcium, Ca",mg,133,92
+"Iron, Fe",mg,0.09,0.06
+"Sodium, Na",mg,66,46
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,0.6
+"Vitamin A, IU",IU,291,201
+Lipids
+"Fatty acids, total saturated",g,3.900,2.691
+"Cholesterol",mg,18,12
+Amino Acids
+Other

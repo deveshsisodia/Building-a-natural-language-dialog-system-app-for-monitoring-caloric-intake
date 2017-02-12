@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:39 EST
+"Nutrient data for: 19382, Candies, taffy, prepared-from-recipe"
+Nutrient,Unit,1Value per 100 g,"1 piece = 15.0g",
+Proximates
+"Water",g,4.85,0.73
+"Energy",kcal,397,60
+"Protein",g,0.03,0.00
+"Total lipid (fat)",g,3.33,0.50
+"Carbohydrate, by difference",g,91.56,13.73
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,68.48,10.27
+Minerals
+"Calcium, Ca",mg,8,1
+"Iron, Fe",mg,0.01,0.00
+"Magnesium, Mg",mg,0,0
+"Phosphorus, P",mg,1,0
+"Potassium, K",mg,3,0
+"Sodium, Na",mg,52,8
+"Zinc, Zn",mg,0.21,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.028,0.004
+"Riboflavin",mg,0.012,0.002
+"Niacin",mg,0.002,0.000
+"Vitamin B-6",mg,0.000,0.000
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,0.01,0.00
+"Vitamin A, RAE",µg,27,4
+"Vitamin A, IU",IU,100,15
+"Vitamin E (alpha-tocopherol)",mg,0.09,0.01
+"Vitamin K (phylloquinone)",µg,0.3,0.0
+Lipids
+"Fatty acids, total saturated",g,2.049,0.307
+"Fatty acids, total monounsaturated",g,0.838,0.126
+"Fatty acids, total polyunsaturated",g,0.121,0.018
+"Fatty acids, total trans",g,0.131,0.020
+"Cholesterol",mg,9,1
+Amino Acids
+Other
+"Caffeine",mg,0,0

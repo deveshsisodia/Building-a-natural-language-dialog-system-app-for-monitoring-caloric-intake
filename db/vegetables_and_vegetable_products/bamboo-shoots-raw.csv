@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:16 EST
+"Nutrient data for: 11026, Bamboo shoots, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup (1/2"" slices) = 151.0g","0.5 cup (1/2"" pieces) = 76.0g",
+Proximates
+"Water",g,91.00,137.41,69.16
+"Energy",kcal,27,41,21
+"Protein",g,2.60,3.93,1.98
+"Total lipid (fat)",g,0.30,0.45,0.23
+"Carbohydrate, by difference",g,5.20,7.85,3.95
+"Fiber, total dietary",g,2.2,3.3,1.7
+"Sugars, total",g,3.00,4.53,2.28
+Minerals
+"Calcium, Ca",mg,13,20,10
+"Iron, Fe",mg,0.50,0.76,0.38
+"Magnesium, Mg",mg,3,5,2
+"Phosphorus, P",mg,59,89,45
+"Potassium, K",mg,533,805,405
+"Sodium, Na",mg,4,6,3
+"Zinc, Zn",mg,1.10,1.66,0.84
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.0,6.0,3.0
+"Thiamin",mg,0.150,0.226,0.114
+"Riboflavin",mg,0.070,0.106,0.053
+"Niacin",mg,0.600,0.906,0.456
+"Vitamin B-6",mg,0.240,0.362,0.182
+"Folate, DFE",µg,7,11,5
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,2,1
+"Vitamin A, IU",IU,20,30,15
+"Vitamin E (alpha-tocopherol)",mg,1.00,1.51,0.76
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.069,0.104,0.052
+"Fatty acids, total monounsaturated",g,0.007,0.011,0.005
+"Fatty acids, total polyunsaturated",g,0.134,0.202,0.102
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

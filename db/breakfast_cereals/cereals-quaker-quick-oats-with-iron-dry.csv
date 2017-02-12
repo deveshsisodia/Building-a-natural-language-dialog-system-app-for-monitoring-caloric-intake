@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08451, Cereals, QUAKER, Quick Oats with Iron, Dry"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 40.0g",
+Proximates
+"Water",g,9.38,3.75
+"Energy",kcal,371,148
+"Protein",g,13.70,5.48
+"Total lipid (fat)",g,6.87,2.75
+"Carbohydrate, by difference",g,68.18,27.27
+"Fiber, total dietary",g,9.4,3.8
+"Sugars, total",g,1.42,0.57
+Minerals
+"Calcium, Ca",mg,47,19
+"Iron, Fe",mg,49.45,19.78
+"Magnesium, Mg",mg,270,108
+"Phosphorus, P",mg,458,183
+"Potassium, K",mg,358,143
+"Sodium, Na",mg,3,1
+"Zinc, Zn",mg,3.20,1.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.540,0.216
+"Riboflavin",mg,0.123,0.049
+"Niacin",mg,0.823,0.329
+"Vitamin B-6",mg,0.100,0.040
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.66,0.26
+Lipids
+"Fatty acids, total saturated",g,0.960,0.384
+"Fatty acids, total monounsaturated",g,1.980,0.792
+"Fatty acids, total polyunsaturated",g,2.140,0.856
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

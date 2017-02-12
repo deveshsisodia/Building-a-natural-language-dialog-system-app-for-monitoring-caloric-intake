@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:42 EST
+"Nutrient data for: 03233, Babyfood, dessert, fruit pudding, pineapple, strained"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 oz = 28.35g","1 jar = 113.0g","1 jar Gerber Second Food (4 oz) = 113.0g",
+Proximates
+"Water",g,77.60,11.64,22.00,87.69,87.69
+"Energy",kcal,81,12,23,92,92
+"Protein",g,1.30,0.20,0.37,1.47,1.47
+"Total lipid (fat)",g,0.30,0.04,0.09,0.34,0.34
+"Carbohydrate, by difference",g,20.30,3.04,5.76,22.94,22.94
+"Fiber, total dietary",g,0.7,0.1,0.2,0.8,0.8
+"Sugars, total",g,10.28,1.54,2.91,11.62,11.62
+Minerals
+"Calcium, Ca",mg,31,5,9,35,35
+"Iron, Fe",mg,0.18,0.03,0.05,0.20,0.20
+"Magnesium, Mg",mg,9,1,3,10,10
+"Phosphorus, P",mg,31,5,9,35,35
+"Potassium, K",mg,81,12,23,92,92
+"Sodium, Na",mg,0,0,0,0,0
+"Zinc, Zn",mg,0.20,0.03,0.06,0.23,0.23
+Vitamins
+"Vitamin C, total ascorbic acid",mg,27.2,4.1,7.7,30.7,30.7
+"Thiamin",mg,0.038,0.006,0.011,0.043,0.043
+"Riboflavin",mg,0.046,0.007,0.013,0.052,0.052
+"Niacin",mg,0.107,0.016,0.030,0.121,0.121
+"Vitamin B-6",mg,0.040,0.006,0.011,0.045,0.045
+"Folate, DFE",µg,5,1,1,6,6
+"Vitamin B-12",µg,0.06,0.01,0.02,0.07,0.07
+"Vitamin A, RAE",µg,11,2,3,12,12
+"Vitamin A, IU",IU,37,6,10,42,42
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.099,0.015,0.028,0.112,0.112
+"Fatty acids, total monounsaturated",g,0.109,0.016,0.031,0.123,0.123
+"Fatty acids, total polyunsaturated",g,0.041,0.006,0.012,0.046,0.046
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

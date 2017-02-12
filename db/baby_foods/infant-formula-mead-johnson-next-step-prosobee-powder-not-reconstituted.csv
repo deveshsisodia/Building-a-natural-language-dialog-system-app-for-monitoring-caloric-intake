@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:49 EST
+"Nutrient data for: 03929, Infant formula, MEAD JOHNSON, NEXT STEP PROSOBEE, powder, not reconstituted"
+Nutrient,Unit,1Value per 100 g,"1 scoop = 9.3g",
+Proximates
+"Water",g,3.00,0.28
+"Energy",kcal,480,45
+"Protein",g,15.60,1.45
+"Total lipid (fat)",g,21.00,1.95
+"Carbohydrate, by difference",g,57.10,5.31
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,56.00,5.21
+Minerals
+"Calcium, Ca",mg,920,86
+"Iron, Fe",mg,9.50,0.88
+"Magnesium, Mg",mg,52,5
+"Phosphorus, P",mg,620,58
+"Potassium, K",mg,570,53
+"Sodium, Na",mg,171,16
+"Zinc, Zn",mg,5.70,0.53
+Vitamins
+"Vitamin C, total ascorbic acid",mg,57.0,5.3
+"Thiamin",mg,0.380,0.035
+"Riboflavin",mg,0.430,0.040
+"Niacin",mg,4.700,0.437
+"Vitamin B-6",mg,0.280,0.026
+"Folate, DFE",µg,129,12
+"Vitamin B-12",µg,1.42,0.13
+"Vitamin A, RAE",µg,430,40
+"Vitamin A, IU",IU,1420,132
+"Vitamin E (alpha-tocopherol)",mg,4.28,0.40
+"Vitamin D (D2 + D3)",µg,7.1,0.7
+"Vitamin D",IU,284,26
+"Vitamin K (phylloquinone)",µg,38.0,3.5
+Lipids
+"Fatty acids, total saturated",g,8.905,0.828
+"Fatty acids, total monounsaturated",g,7.800,0.725
+"Fatty acids, total polyunsaturated",g,4.200,0.391
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

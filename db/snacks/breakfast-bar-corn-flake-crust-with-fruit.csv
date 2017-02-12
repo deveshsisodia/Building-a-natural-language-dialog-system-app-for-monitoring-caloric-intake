@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:52 EST
+"Nutrient data for: 43595, Breakfast bar, corn flake crust with fruit"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 bar = 37.0g",
+Proximates
+"Water",g,14.50,4.11,5.37
+"Energy",kcal,377,107,139
+"Protein",g,4.40,1.25,1.63
+"Total lipid (fat)",g,7.50,2.13,2.77
+"Carbohydrate, by difference",g,72.90,20.67,26.97
+"Fiber, total dietary",g,2.1,0.6,0.8
+"Sugars, total",g,35.10,9.95,12.99
+Minerals
+"Calcium, Ca",mg,41,12,15
+"Iron, Fe",mg,4.86,1.38,1.80
+"Magnesium, Mg",mg,27,8,10
+"Phosphorus, P",mg,103,29,38
+"Potassium, K",mg,197,56,73
+"Sodium, Na",mg,297,84,110
+"Zinc, Zn",mg,4.10,1.16,1.52
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,1.000,0.284,0.370
+"Riboflavin",mg,1.100,0.312,0.407
+"Niacin",mg,13.500,3.827,4.995
+"Vitamin B-6",mg,1.400,0.397,0.518
+"Folate, DFE",µg,174,49,64
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,608,172,225
+"Vitamin A, IU",IU,2027,575,750
+"Vitamin E (alpha-tocopherol)",mg,0.76,0.22,0.28
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,13.8,3.9,5.1
+Lipids
+"Fatty acids, total saturated",g,1.500,0.425,0.555
+"Fatty acids, total monounsaturated",g,5.000,1.417,1.850
+"Fatty acids, total polyunsaturated",g,0.900,0.255,0.333
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

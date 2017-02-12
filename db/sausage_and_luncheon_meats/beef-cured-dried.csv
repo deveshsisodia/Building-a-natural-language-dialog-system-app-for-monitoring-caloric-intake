@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:13 EST
+"Nutrient data for: 13350, Beef, cured, dried"
+Nutrient,Unit,1Value per 100 g,"10.0 slices = 28.0g",
+Proximates
+"Water",g,53.80,15.06
+"Energy",kcal,153,43
+"Protein",g,31.10,8.71
+"Total lipid (fat)",g,1.94,0.54
+"Carbohydrate, by difference",g,2.76,0.77
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,2.70,0.76
+Minerals
+"Calcium, Ca",mg,8,2
+"Iron, Fe",mg,2.42,0.68
+"Magnesium, Mg",mg,19,5
+"Phosphorus, P",mg,181,51
+"Potassium, K",mg,235,66
+"Sodium, Na",mg,2790,781
+"Zinc, Zn",mg,4.93,1.38
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.065,0.018
+"Riboflavin",mg,0.163,0.046
+"Niacin",mg,5.164,1.446
+"Vitamin B-6",mg,0.386,0.108
+"Folate, DFE",µg,10,3
+"Vitamin B-12",µg,1.59,0.45
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.38,0.11
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,1,0
+"Vitamin K (phylloquinone)",µg,1.3,0.4
+Lipids
+"Fatty acids, total saturated",g,0.950,0.266
+"Fatty acids, total monounsaturated",g,0.840,0.235
+"Fatty acids, total polyunsaturated",g,0.070,0.020
+"Cholesterol",mg,79,22
+Amino Acids
+Other
+"Caffeine",mg,0,0

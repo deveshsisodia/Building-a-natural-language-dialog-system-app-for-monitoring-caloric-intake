@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08684, Cereals ready-to-eat, CASCADIAN FARM, Honey Nut O's"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,2.50,0.75
+"Energy",kcal,371,111
+"Protein",g,8.30,2.49
+"Total lipid (fat)",g,3.29,0.99
+"Carbohydrate, by difference",g,83.09,24.93
+"Fiber, total dietary",g,8.5,2.5
+"Sugars, total",g,24.79,7.44
+Minerals
+"Calcium, Ca",mg,67,20
+"Iron, Fe",mg,2.40,0.72
+"Magnesium, Mg",mg,53,16
+"Phosphorus, P",mg,200,60
+"Potassium, K",mg,250,75
+"Sodium, Na",mg,572,172
+"Zinc, Zn",mg,1.00,0.30
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.200,0.060
+"Riboflavin",mg,0.000,0.000
+"Niacin",mg,1.290,0.387
+"Vitamin B-6",mg,0.000,0.000
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.600,0.180
+"Fatty acids, total monounsaturated",g,1.300,0.390
+"Fatty acids, total polyunsaturated",g,1.000,0.300
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

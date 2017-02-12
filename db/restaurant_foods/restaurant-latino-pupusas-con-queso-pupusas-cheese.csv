@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:27 EST
+"Nutrient data for: 36409, Restaurant, Latino, pupusas con queso (pupusas, cheese)"
+Nutrient,Unit,1Value per 100 g,"1 piece = 117.0g",
+Proximates
+"Water",g,50.36,58.92
+"Energy",kcal,256,300
+"Protein",g,11.72,13.71
+"Total lipid (fat)",g,13.25,15.50
+"Carbohydrate, by difference",g,22.39,26.20
+"Fiber, total dietary",g,2.9,3.4
+"Sugars, total",g,1.20,1.40
+Minerals
+"Calcium, Ca",mg,325,380
+"Iron, Fe",mg,0.56,0.66
+"Magnesium, Mg",mg,36,42
+"Phosphorus, P",mg,271,317
+"Potassium, K",mg,120,140
+"Sodium, Na",mg,400,468
+"Zinc, Zn",mg,1.87,2.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.042,0.049
+"Riboflavin",mg,0.127,0.149
+"Niacin",mg,0.483,0.565
+"Vitamin B-6",mg,0.149,0.174
+"Folate, DFE",µg,3,4
+"Vitamin B-12",µg,0.45,0.53
+"Vitamin A, RAE",µg,89,104
+"Vitamin A, IU",IU,321,376
+"Vitamin E (alpha-tocopherol)",mg,0.44,0.51
+"Vitamin D (D2 + D3)",µg,1.2,1.4
+"Vitamin D",IU,48,56
+"Vitamin K (phylloquinone)",µg,1.7,2.0
+Lipids
+"Fatty acids, total saturated",g,6.479,7.580
+"Fatty acids, total monounsaturated",g,3.411,3.991
+"Fatty acids, total polyunsaturated",g,1.555,1.819
+"Fatty acids, total trans",g,0.359,0.420
+"Cholesterol",mg,32,37
+Amino Acids
+Other
+"Caffeine",mg,0,0

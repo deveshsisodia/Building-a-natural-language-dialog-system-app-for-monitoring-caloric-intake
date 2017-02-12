@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:19 EST
+"Nutrient data for: 11148, Chard, swiss, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 175.0g",
+Proximates
+"Water",g,92.65,162.14
+"Energy",kcal,20,35
+"Protein",g,1.88,3.29
+"Total lipid (fat)",g,0.08,0.14
+"Carbohydrate, by difference",g,4.13,7.23
+"Fiber, total dietary",g,2.1,3.7
+"Sugars, total",g,1.10,1.93
+Minerals
+"Calcium, Ca",mg,58,102
+"Iron, Fe",mg,2.26,3.95
+"Magnesium, Mg",mg,86,150
+"Phosphorus, P",mg,33,58
+"Potassium, K",mg,549,961
+"Sodium, Na",mg,179,313
+"Zinc, Zn",mg,0.33,0.58
+Vitamins
+"Vitamin C, total ascorbic acid",mg,18.0,31.5
+"Thiamin",mg,0.034,0.060
+"Riboflavin",mg,0.086,0.150
+"Niacin",mg,0.360,0.630
+"Vitamin B-6",mg,0.085,0.149
+"Folate, DFE",µg,9,16
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,306,536
+"Vitamin A, IU",IU,6124,10717
+"Vitamin E (alpha-tocopherol)",mg,1.89,3.31
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,327.3,572.8
+Lipids
+"Fatty acids, total saturated",g,0.012,0.021
+"Fatty acids, total monounsaturated",g,0.016,0.028
+"Fatty acids, total polyunsaturated",g,0.028,0.049
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

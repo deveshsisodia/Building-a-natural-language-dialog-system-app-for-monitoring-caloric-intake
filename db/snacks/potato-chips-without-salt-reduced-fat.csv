@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:52 EST
+"Nutrient data for: 19823, Potato chips, without salt, reduced fat"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,1.00,0.28
+"Energy",kcal,487,138
+"Protein",g,7.10,2.01
+"Total lipid (fat)",g,20.80,5.90
+"Carbohydrate, by difference",g,67.80,19.22
+"Fiber, total dietary",g,6.1,1.7
+"Sugars, total",g,0.22,0.06
+Minerals
+"Calcium, Ca",mg,21,6
+"Iron, Fe",mg,1.35,0.38
+"Magnesium, Mg",mg,89,25
+"Phosphorus, P",mg,193,55
+"Potassium, K",mg,1744,494
+"Sodium, Na",mg,8,2
+"Zinc, Zn",mg,1.01,0.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,25.7,7.3
+"Thiamin",mg,0.210,0.060
+"Riboflavin",mg,0.270,0.077
+"Niacin",mg,7.000,1.985
+"Vitamin B-6",mg,0.670,0.190
+"Folate, DFE",µg,10,3
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,5.47,1.55
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,13.3,3.8
+Lipids
+"Fatty acids, total saturated",g,4.160,1.179
+"Fatty acids, total monounsaturated",g,4.800,1.361
+"Fatty acids, total polyunsaturated",g,10.940,3.101
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

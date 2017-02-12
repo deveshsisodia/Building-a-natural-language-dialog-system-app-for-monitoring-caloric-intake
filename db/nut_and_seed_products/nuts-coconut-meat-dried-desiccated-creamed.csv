@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:08 EST
+"Nutrient data for: 12177, Nuts, coconut meat, dried (desiccated), creamed"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,1.67,0.47
+"Energy",kcal,684,194
+"Protein",g,5.30,1.50
+"Total lipid (fat)",g,69.08,19.58
+"Carbohydrate, by difference",g,21.52,6.10
+Minerals
+"Calcium, Ca",mg,26,7
+"Iron, Fe",mg,3.36,0.95
+"Magnesium, Mg",mg,92,26
+"Phosphorus, P",mg,209,59
+"Potassium, K",mg,551,156
+"Sodium, Na",mg,37,10
+"Zinc, Zn",mg,2.04,0.58
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.5,0.4
+"Thiamin",mg,0.061,0.017
+"Riboflavin",mg,0.101,0.029
+"Niacin",mg,0.611,0.173
+"Vitamin B-6",mg,0.304,0.086
+"Folate, DFE",µg,9,3
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,61.257,17.366
+"Fatty acids, total monounsaturated",g,2.939,0.833
+"Fatty acids, total polyunsaturated",g,0.756,0.214
+"Cholesterol",mg,0,0
+Amino Acids
+Other

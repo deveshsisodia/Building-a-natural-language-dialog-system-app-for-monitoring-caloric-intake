@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:14 EST
+"Nutrient data for: 07959, Bologna, chicken, pork, beef"
+Nutrient,Unit,1Value per 100 g,"1 serving = 28.0g","1 slice = 28.0g",
+Proximates
+"Water",g,56.42,15.80,15.80
+"Energy",kcal,272,76,76
+"Protein",g,11.33,3.17,3.17
+"Total lipid (fat)",g,22.73,6.36,6.36
+"Carbohydrate, by difference",g,5.61,1.57,1.57
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,92,26,26
+"Iron, Fe",mg,1.25,0.35,0.35
+"Magnesium, Mg",mg,15,4,4
+"Phosphorus, P",mg,227,64,64
+"Potassium, K",mg,313,88,88
+"Sodium, Na",mg,1120,314,314
+"Zinc, Zn",mg,1.22,0.34,0.34
+Vitamins
+"Vitamin C, total ascorbic acid",mg,15.8,4.4,4.4
+"Thiamin",mg,0.074,0.021,0.021
+"Riboflavin",mg,0.135,0.038,0.038
+"Niacin",mg,3.463,0.970,0.970
+"Vitamin B-6",mg,0.227,0.064,0.064
+"Folate, DFE",µg,7,2,2
+"Vitamin B-12",µg,0.59,0.17,0.17
+"Vitamin A, RAE",µg,13,4,4
+"Vitamin A, IU",IU,75,21,21
+"Vitamin E (alpha-tocopherol)",mg,0.25,0.07,0.07
+"Vitamin K (phylloquinone)",µg,0.1,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,6.997,1.959,1.959
+"Fatty acids, total monounsaturated",g,9.698,2.715,2.715
+"Fatty acids, total polyunsaturated",g,3.475,0.973,0.973
+"Fatty acids, total trans",g,0.237,0.066,0.066
+"Cholesterol",mg,83,23,23
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

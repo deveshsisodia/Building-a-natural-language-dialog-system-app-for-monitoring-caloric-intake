@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:23 EST
+"Nutrient data for: 14327, Beverages, orange and apricot juice drink, canned"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 31.2g","1 cup (8 fl oz) = 250.0g",
+Proximates
+"Water",g,86.70,27.05,216.75
+"Energy",kcal,51,16,128
+"Protein",g,0.30,0.09,0.75
+"Total lipid (fat)",g,0.10,0.03,0.25
+"Carbohydrate, by difference",g,12.70,3.96,31.75
+"Fiber, total dietary",g,0.1,0.0,0.2
+"Sugars, total",g,12.06,3.76,30.15
+Minerals
+"Calcium, Ca",mg,5,2,12
+"Iron, Fe",mg,0.10,0.03,0.25
+"Magnesium, Mg",mg,5,2,12
+"Phosphorus, P",mg,8,2,20
+"Potassium, K",mg,80,25,200
+"Sodium, Na",mg,2,1,5
+"Zinc, Zn",mg,0.04,0.01,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,20.0,6.2,50.0
+"Thiamin",mg,0.020,0.006,0.050
+"Riboflavin",mg,0.010,0.003,0.025
+"Niacin",mg,0.200,0.062,0.500
+"Vitamin B-6",mg,0.037,0.012,0.092
+"Folate, DFE",µg,7,2,18
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,9,3,22
+"Vitamin A, IU",IU,183,57,458
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.03,0.28
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.0,0.2
+Lipids
+"Fatty acids, total saturated",g,0.010,0.003,0.025
+"Fatty acids, total monounsaturated",g,0.031,0.010,0.077
+"Fatty acids, total polyunsaturated",g,0.022,0.007,0.055
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

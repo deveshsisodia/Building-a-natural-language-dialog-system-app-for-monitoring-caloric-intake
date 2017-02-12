@@ -1,0 +1,34 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:42 EST
+"Nutrient data for: 28197, MOTHER'S, Coconut Cocadas Cookies"
+Nutrient,Unit,1Value per 100 g,"5.0 cookies = 32.0g",
+Proximates
+"Water",g,2.60,0.83
+"Energy",kcal,500,160
+"Protein",g,5.70,1.82
+"Total lipid (fat)",g,25.10,8.03
+"Carbohydrate, by difference",g,65.10,20.83
+"Fiber, total dietary",g,3.0,1.0
+"Sugars, total",g,27.80,8.90
+Minerals
+"Iron, Fe",mg,2.80,0.90
+"Magnesium, Mg",mg,21,7
+"Phosphorus, P",mg,81,26
+"Potassium, K",mg,138,44
+"Sodium, Na",mg,430,138
+"Zinc, Zn",mg,0.60,0.19
+Vitamins
+"Thiamin",mg,0.330,0.106
+"Riboflavin",mg,0.250,0.080
+"Niacin",mg,2.800,0.896
+"Vitamin B-6",mg,0.060,0.019
+"Vitamin E (alpha-tocopherol)",mg,0.45,0.14
+Lipids
+"Fatty acids, total saturated",g,12.800,4.096
+"Fatty acids, total monounsaturated",g,4.100,1.312
+"Fatty acids, total polyunsaturated",g,6.200,1.984
+"Fatty acids, total trans",g,0.200,0.064
+"Cholesterol",mg,11,4
+Amino Acids
+Other

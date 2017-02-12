@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08236, Cereals, QUAKER, Oat Bran, QUAKER/MOTHER'S Oat Bran, prepared with water, no salt"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,89.07,
+"Energy",kcal,43,
+"Protein",g,2.03,
+"Total lipid (fat)",g,0.95,
+"Carbohydrate, by difference",g,7.49,
+"Fiber, total dietary",g,1.7,
+Minerals
+"Calcium, Ca",mg,11,
+"Iron, Fe",mg,0.97,
+"Magnesium, Mg",mg,30,
+"Phosphorus, P",mg,83,
+"Potassium, K",mg,69,
+"Sodium, Na",mg,3,
+"Zinc, Zn",mg,0.53,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,
+"Thiamin",mg,0.115,
+"Riboflavin",mg,0.036,
+"Niacin",mg,0.096,
+"Vitamin B-6",mg,0.013,
+"Folate, DFE",µg,5,
+"Vitamin B-12",µg,0.00,
+"Vitamin A, RAE",µg,1,
+"Vitamin A, IU",IU,12,
+Lipids
+"Fatty acids, total saturated",g,0.170,
+"Fatty acids, total monounsaturated",g,0.310,
+"Fatty acids, total polyunsaturated",g,0.360,
+"Cholesterol",mg,0,
+Amino Acids
+Other

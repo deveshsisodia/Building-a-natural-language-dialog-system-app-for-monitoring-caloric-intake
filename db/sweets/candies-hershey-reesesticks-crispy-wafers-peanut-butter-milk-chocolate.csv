@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:34 EST
+"Nutrient data for: 19249, Candies, HERSHEY, REESESTICKS crispy wafers, peanut butter, milk chocolate"
+Nutrient,Unit,1Value per 100 g,"1 serving 1.5 oz = 42.0g",
+Proximates
+"Water",g,1.60,0.67
+"Energy",kcal,521,219
+"Protein",g,9.53,4.00
+"Total lipid (fat)",g,31.34,13.16
+"Carbohydrate, by difference",g,55.38,23.26
+"Fiber, total dietary",g,3.3,1.4
+"Sugars, total",g,40.33,16.94
+Minerals
+"Calcium, Ca",mg,70,29
+"Iron, Fe",mg,1.30,0.55
+"Magnesium, Mg",mg,49,21
+"Phosphorus, P",mg,144,60
+"Potassium, K",mg,295,124
+"Sodium, Na",mg,264,111
+"Zinc, Zn",mg,0.99,0.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.3
+"Thiamin",mg,0.130,0.055
+"Riboflavin",mg,0.100,0.042
+"Niacin",mg,3.640,1.529
+"Vitamin B-6",mg,0.080,0.034
+"Folate, DFE",µg,40,17
+"Vitamin B-12",µg,0.15,0.06
+"Vitamin A, RAE",µg,14,6
+"Vitamin A, IU",IU,58,24
+"Vitamin E (alpha-tocopherol)",mg,2.77,1.16
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,5.9,2.5
+Lipids
+"Fatty acids, total saturated",g,13.210,5.548
+"Fatty acids, total monounsaturated",g,10.820,4.544
+"Fatty acids, total polyunsaturated",g,4.680,1.966
+"Cholesterol",mg,6,3
+Amino Acids
+Other
+"Caffeine",mg,0,0

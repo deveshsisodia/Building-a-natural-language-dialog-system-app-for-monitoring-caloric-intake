@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:22 EST
+"Nutrient data for: 14405, Beverages, fruit punch juice drink, frozen concentrate"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 35.2g","1 can (12 fl oz) = 423.0g",
+Proximates
+"Water",g,55.50,19.54,234.76
+"Energy",kcal,175,62,740
+"Protein",g,0.30,0.11,1.27
+"Total lipid (fat)",g,0.70,0.25,2.96
+"Carbohydrate, by difference",g,43.10,15.17,182.31
+"Fiber, total dietary",g,0.2,0.1,0.8
+Minerals
+"Calcium, Ca",mg,20,7,85
+"Iron, Fe",mg,0.80,0.28,3.38
+"Magnesium, Mg",mg,11,4,47
+"Phosphorus, P",mg,12,4,51
+"Potassium, K",mg,270,95,1142
+"Sodium, Na",mg,10,4,42
+"Zinc, Zn",mg,0.70,0.25,2.96
+Vitamins
+"Vitamin C, total ascorbic acid",mg,19.7,6.9,83.3
+"Thiamin",mg,0.004,0.001,0.017
+"Riboflavin",mg,0.230,0.081,0.973
+"Niacin",mg,0.208,0.073,0.880
+"Vitamin B-6",mg,0.045,0.016,0.190
+"Folate, DFE",µg,7,2,30
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,0,4
+"Vitamin A, IU",IU,21,7,89
+Lipids
+"Fatty acids, total saturated",g,0.087,0.031,0.368
+"Fatty acids, total monounsaturated",g,0.086,0.030,0.364
+"Fatty acids, total polyunsaturated",g,0.173,0.061,0.732
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

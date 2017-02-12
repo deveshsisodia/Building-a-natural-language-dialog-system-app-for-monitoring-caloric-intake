@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:26 EST
+"Nutrient data for: 11983, Pickles, chowchow, with cauliflower onion mustard, sweet"
+Nutrient,Unit,1Value per 100 g,"1 cup = 245.0g",
+Proximates
+"Water",g,68.90,168.81
+"Energy",kcal,121,296
+"Protein",g,1.50,3.67
+"Total lipid (fat)",g,0.90,2.21
+"Carbohydrate, by difference",g,26.64,65.27
+"Fiber, total dietary",g,1.5,3.7
+"Sugars, total",g,23.88,58.51
+Minerals
+"Calcium, Ca",mg,23,56
+"Iron, Fe",mg,1.40,3.43
+"Magnesium, Mg",mg,21,51
+"Phosphorus, P",mg,22,54
+"Potassium, K",mg,200,490
+"Sodium, Na",mg,527,1291
+"Zinc, Zn",mg,0.23,0.56
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.0,14.7
+"Thiamin",mg,0.000,0.000
+"Riboflavin",mg,0.020,0.049
+"Niacin",mg,0.000,0.000
+"Vitamin B-6",mg,0.010,0.025
+"Folate, DFE",µg,5,12
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,5,12
+"Vitamin A, IU",IU,90,220
+"Vitamin E (alpha-tocopherol)",mg,0.16,0.39
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,61.6,150.9
+Lipids
+"Fatty acids, total saturated",g,0.149,0.365
+"Fatty acids, total monounsaturated",g,0.170,0.417
+"Fatty acids, total polyunsaturated",g,0.397,0.973
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

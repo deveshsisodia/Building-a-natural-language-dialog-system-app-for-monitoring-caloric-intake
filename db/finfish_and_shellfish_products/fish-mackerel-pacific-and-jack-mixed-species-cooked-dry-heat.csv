@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:59 EST
+"Nutrient data for: 15201, Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"1 oz, boneless = 28.35g","1 cubic inch, boneless = 17.0g","1 fillet = 176.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,61.73,17.50,10.49,108.64,52.47
+"Energy",kcal,201,57,34,354,171
+"Protein",g,25.73,7.29,4.37,45.28,21.87
+"Total lipid (fat)",g,10.12,2.87,1.72,17.81,8.60
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,29,8,5,51,25
+"Iron, Fe",mg,1.49,0.42,0.25,2.62,1.27
+"Magnesium, Mg",mg,36,10,6,63,31
+"Phosphorus, P",mg,160,45,27,282,136
+"Potassium, K",mg,521,148,89,917,443
+"Sodium, Na",mg,110,31,19,194,94
+"Zinc, Zn",mg,0.86,0.24,0.15,1.51,0.73
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.1,0.6,0.4,3.7,1.8
+"Thiamin",mg,0.135,0.038,0.023,0.238,0.115
+"Riboflavin",mg,0.540,0.153,0.092,0.950,0.459
+"Niacin",mg,10.667,3.024,1.813,18.774,9.067
+"Vitamin B-6",mg,0.381,0.108,0.065,0.671,0.324
+"Folate, DFE",µg,2,1,0,4,2
+"Vitamin B-12",µg,4.23,1.20,0.72,7.44,3.60
+"Vitamin A, RAE",µg,23,7,4,40,20
+"Vitamin A, IU",IU,77,22,13,136,65
+"Vitamin E (alpha-tocopherol)",mg,1.25,0.35,0.21,2.20,1.06
+"Vitamin D (D2 + D3)",µg,11.4,3.2,1.9,20.1,9.7
+"Vitamin D",IU,457,130,78,804,388
+"Vitamin K (phylloquinone)",µg,0.1,0.0,0.0,0.2,0.1
+Lipids
+"Fatty acids, total saturated",g,2.881,0.817,0.490,5.071,2.449
+"Fatty acids, total monounsaturated",g,3.371,0.956,0.573,5.933,2.865
+"Fatty acids, total polyunsaturated",g,2.488,0.705,0.423,4.379,2.115
+"Cholesterol",mg,60,17,10,106,51
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

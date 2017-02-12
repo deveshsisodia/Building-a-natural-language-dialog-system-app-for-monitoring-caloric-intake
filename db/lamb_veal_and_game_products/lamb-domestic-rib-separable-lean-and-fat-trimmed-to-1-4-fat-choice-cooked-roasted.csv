@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:58 EST
+"Nutrient data for: 17031, Lamb, domestic, rib, separable lean and fat, trimmed to 1/4"" fat, choice, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) = 255.0g",
+Proximates
+"Water",g,47.89,40.71,122.12
+"Energy",kcal,359,305,915
+"Protein",g,21.12,17.95,53.86
+"Total lipid (fat)",g,29.82,25.35,76.04
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,22,19,56
+"Iron, Fe",mg,1.60,1.36,4.08
+"Magnesium, Mg",mg,20,17,51
+"Phosphorus, P",mg,166,141,423
+"Potassium, K",mg,271,230,691
+"Sodium, Na",mg,73,62,186
+"Zinc, Zn",mg,3.49,2.97,8.90
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.090,0.076,0.229
+"Riboflavin",mg,0.210,0.178,0.535
+"Niacin",mg,6.750,5.737,17.212
+"Vitamin B-6",mg,0.110,0.093,0.281
+"Folate, DFE",µg,15,13,38
+"Vitamin B-12",µg,2.23,1.90,5.69
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.10,0.09,0.26
+Lipids
+"Fatty acids, total saturated",g,12.770,10.854,32.563
+"Fatty acids, total monounsaturated",g,12.520,10.642,31.926
+"Fatty acids, total polyunsaturated",g,2.170,1.844,5.534
+"Cholesterol",mg,97,82,247
+Amino Acids
+Other

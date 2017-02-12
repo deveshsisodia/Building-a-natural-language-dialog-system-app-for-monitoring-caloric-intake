@@ -125,5 +125,5 @@ class DB:
 if __name__ == '__main__':
     db_obj = DB()
     db_obj.get_available_categories_list()
-    db_obj.update_db_category('fast_foods')
+    db_obj.update_db_full()
 

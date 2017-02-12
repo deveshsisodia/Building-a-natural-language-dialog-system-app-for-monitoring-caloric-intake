@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:00 EST
+"Nutrient data for: 17042, Lamb, domestic, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4"" fat, choice, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) = 217.0g",
+Proximates
+"Water",g,63.32,53.82,137.40
+"Energy",kcal,204,173,443
+"Protein",g,24.94,21.20,54.12
+"Total lipid (fat)",g,10.77,9.15,23.37
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,19,16,41
+"Iron, Fe",mg,2.13,1.81,4.62
+"Magnesium, Mg",mg,25,21,54
+"Phosphorus, P",mg,200,170,434
+"Potassium, K",mg,265,225,575
+"Sodium, Na",mg,68,58,148
+"Zinc, Zn",mg,6.04,5.13,13.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.090,0.076,0.195
+"Riboflavin",mg,0.260,0.221,0.564
+"Niacin",mg,5.760,4.896,12.499
+"Vitamin B-6",mg,0.150,0.128,0.325
+"Folate, DFE",µg,25,21,54
+"Vitamin B-12",µg,2.70,2.30,5.86
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.18,0.15,0.39
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.2
+"Vitamin D",IU,2,2,4
+"Vitamin K (phylloquinone)",µg,4.5,3.8,9.8
+Lipids
+"Fatty acids, total saturated",g,4.080,3.468,8.854
+"Fatty acids, total monounsaturated",g,4.360,3.706,9.461
+"Fatty acids, total polyunsaturated",g,0.950,0.807,2.061
+"Cholesterol",mg,87,74,189
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

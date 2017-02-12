@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:35 EST
+"Nutrient data for: 21437, KFC, Fried Chicken, ORIGINAL RECIPE, Wing, meat and skin with breading"
+Nutrient,Unit,1Value per 100 g,"1 wing, with skin = 60.0g","1 wing, without skin = 39.0g","1 wing, bone and skin removed = 23.0g",
+Proximates
+"Water",g,46.40,27.84,18.10,10.67
+"Energy",kcal,297,178,116,68
+"Protein",g,21.70,13.02,8.46,4.99
+"Total lipid (fat)",g,18.90,11.34,7.37,4.35
+"Carbohydrate, by difference",g,9.93,5.96,3.87,2.28
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,77,46,30,18
+"Iron, Fe",mg,0.93,0.56,0.36,0.21
+"Magnesium, Mg",mg,24,14,9,6
+"Phosphorus, P",mg,250,150,98,58
+"Potassium, K",mg,266,160,104,61
+"Sodium, Na",mg,884,530,345,203
+"Zinc, Zn",mg,1.36,0.82,0.53,0.31
+Vitamins
+"Thiamin",mg,0.072,0.043,0.028,0.017
+"Riboflavin",mg,0.221,0.133,0.086,0.051
+"Niacin",mg,6.335,3.801,2.471,1.457
+"Vitamin B-6",mg,0.188,0.113,0.073,0.043
+"Vitamin B-12",µg,0.39,0.23,0.15,0.09
+"Vitamin A, RAE",µg,14,8,5,3
+"Vitamin A, IU",IU,48,29,19,11
+"Vitamin E (alpha-tocopherol)",mg,0.92,0.55,0.36,0.21
+Lipids
+"Fatty acids, total saturated",g,4.251,2.551,1.658,0.978
+"Fatty acids, total monounsaturated",g,9.595,5.757,3.742,2.207
+"Fatty acids, total polyunsaturated",g,3.669,2.201,1.431,0.844
+"Fatty acids, total trans",g,0.127,0.076,0.050,0.029
+"Cholesterol",mg,113,68,44,26
+Amino Acids
+Other

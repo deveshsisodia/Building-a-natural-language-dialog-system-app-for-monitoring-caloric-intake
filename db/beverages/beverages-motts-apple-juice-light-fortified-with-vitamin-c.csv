@@ -1,0 +1,27 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:22 EST
+"Nutrient data for: 14286, Beverages, MOTTS, Apple juice light, fortified with vitamin C"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,94.80,
+"Energy",kcal,22,
+"Protein",g,0.00,
+"Total lipid (fat)",g,0.10,
+"Carbohydrate, by difference",g,5.10,
+"Fiber, total dietary",g,0.0,
+"Sugars, total",g,4.80,
+Minerals
+"Calcium, Ca",mg,3,
+"Iron, Fe",mg,0.20,
+"Potassium, K",mg,51,
+"Sodium, Na",mg,13,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,24.0,
+"Vitamin A, IU",IU,0,
+Lipids
+"Fatty acids, total saturated",g,0.000,
+"Fatty acids, total trans",g,0.000,
+"Cholesterol",mg,0,
+Amino Acids
+Other

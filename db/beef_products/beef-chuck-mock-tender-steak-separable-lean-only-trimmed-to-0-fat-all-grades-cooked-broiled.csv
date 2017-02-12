@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:36 EST
+"Nutrient data for: 23509, Beef, chuck, mock tender steak, separable lean only, trimmed to 0"" fat, all grades, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 lb = 453.6g",
+Proximates
+"Water",g,66.27,56.33,300.60
+"Energy",kcal,159,135,721
+"Protein",g,25.90,22.02,117.48
+"Total lipid (fat)",g,5.42,4.61,24.59
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,8,7,36
+"Iron, Fe",mg,2.93,2.49,13.29
+"Magnesium, Mg",mg,23,20,104
+"Phosphorus, P",mg,227,193,1030
+"Potassium, K",mg,293,249,1329
+"Sodium, Na",mg,71,60,322
+"Zinc, Zn",mg,7.83,6.66,35.52
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.111,0.094,0.503
+"Riboflavin",mg,0.230,0.196,1.043
+"Niacin",mg,3.635,3.090,16.488
+"Vitamin B-6",mg,0.322,0.274,1.461
+"Folate, DFE",µg,8,7,36
+"Vitamin B-12",µg,3.39,2.88,15.38
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.16,0.14,0.73
+Lipids
+"Fatty acids, total saturated",g,1.828,1.554,8.292
+"Fatty acids, total monounsaturated",g,2.608,2.217,11.830
+"Fatty acids, total polyunsaturated",g,0.384,0.326,1.742
+"Cholesterol",mg,63,54,286
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

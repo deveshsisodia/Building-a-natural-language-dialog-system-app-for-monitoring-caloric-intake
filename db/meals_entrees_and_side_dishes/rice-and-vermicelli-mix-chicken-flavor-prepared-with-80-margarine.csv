@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:25 EST
+"Nutrient data for: 22999, Rice and vermicelli mix, chicken flavor, prepared with 80% margarine"
+Nutrient,Unit,1Value per 100 g,"1 cup = 233.0g",
+Proximates
+"Water",g,69.33,161.54
+"Energy",kcal,136,317
+"Protein",g,2.65,6.17
+"Total lipid (fat)",g,3.45,8.04
+"Carbohydrate, by difference",g,23.54,54.85
+"Fiber, total dietary",g,0.7,1.6
+"Sugars, total",g,0.64,1.49
+Minerals
+"Calcium, Ca",mg,7,16
+"Iron, Fe",mg,0.95,2.21
+"Magnesium, Mg",mg,10,23
+"Phosphorus, P",mg,36,84
+"Potassium, K",mg,58,135
+"Sodium, Na",mg,377,878
+"Zinc, Zn",mg,0.46,1.07
+Vitamins
+"Thiamin",mg,0.150,0.349
+"Riboflavin",mg,0.027,0.063
+"Niacin",mg,1.423,3.316
+"Vitamin B-6",mg,0.050,0.117
+"Vitamin A, RAE",µg,42,98
+"Vitamin A, IU",IU,139,324
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.63
+Lipids
+"Fatty acids, total saturated",g,0.746,1.738
+"Fatty acids, total monounsaturated",g,1.421,3.311
+"Fatty acids, total polyunsaturated",g,1.161,2.705
+"Fatty acids, total trans",g,0.485,1.130
+Amino Acids
+Other

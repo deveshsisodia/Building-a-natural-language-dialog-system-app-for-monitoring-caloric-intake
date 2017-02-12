@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:23 EST
+"Nutrient data for: 14409, Beverages, Orange-flavor drink, breakfast type, low calorie, powder"
+Nutrient,Unit,1Value per 100 g,"1 portion, amount of dry mix to make 8 fl oz prepared = 2.5g",
+Proximates
+"Water",g,1.80,0.04
+"Energy",kcal,217,5
+"Protein",g,3.60,0.09
+"Total lipid (fat)",g,0.00,0.00
+"Carbohydrate, by difference",g,85.90,2.15
+"Fiber, total dietary",g,3.8,0.1
+"Sugars, total",g,2.60,0.07
+Minerals
+"Calcium, Ca",mg,1378,34
+"Iron, Fe",mg,0.07,0.00
+"Magnesium, Mg",mg,275,7
+"Phosphorus, P",mg,629,16
+"Potassium, K",mg,3132,78
+"Sodium, Na",mg,81,2
+"Zinc, Zn",mg,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2400.0,60.0
+"Thiamin",mg,0.000,0.000
+"Riboflavin",mg,6.800,0.170
+"Niacin",mg,80.000,2.000
+"Vitamin B-6",mg,8.000,0.200
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,6006,150
+"Vitamin A, IU",IU,20000,500
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:42 EST
+"Nutrient data for: 43544, Babyfood, cereal, rice with pears and apple, dry, instant fortified"
+Nutrient,Unit,1Value per 100 g,"1 serving = 15.0g",
+Proximates
+"Water",g,2.00,0.30
+"Energy",kcal,389,58
+"Protein",g,6.60,0.99
+"Total lipid (fat)",g,0.90,0.14
+"Carbohydrate, by difference",g,88.50,13.28
+"Fiber, total dietary",g,2.6,0.4
+"Sugars, total",g,1.35,0.20
+Minerals
+"Calcium, Ca",mg,38,6
+"Iron, Fe",mg,9.00,1.35
+"Magnesium, Mg",mg,37,6
+"Phosphorus, P",mg,253,38
+"Potassium, K",mg,414,62
+"Sodium, Na",mg,2,0
+"Zinc, Zn",mg,3.30,0.49
+Vitamins
+"Vitamin C, total ascorbic acid",mg,250.0,37.5
+"Thiamin",mg,1.600,0.240
+"Riboflavin",mg,1.880,0.282
+"Niacin",mg,25.240,3.786
+"Vitamin B-6",mg,0.090,0.013
+"Folate, DFE",µg,5,1
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.0
+Lipids
+"Fatty acids, total saturated",g,0.185,0.028
+"Fatty acids, total monounsaturated",g,0.252,0.038
+"Fatty acids, total polyunsaturated",g,0.231,0.035
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

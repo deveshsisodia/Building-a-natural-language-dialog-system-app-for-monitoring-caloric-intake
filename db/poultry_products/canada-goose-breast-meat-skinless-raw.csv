@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:19 EST
+"Nutrient data for: 05111, Canada Goose, breast meat, skinless, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 breast = 635.0g","1 bird = 4405.0g",
+Proximates
+"Water",g,70.78,60.16,449.45,3117.86
+"Energy",kcal,133,113,845,5859
+"Protein",g,24.31,20.66,154.37,1070.86
+"Total lipid (fat)",g,4.02,3.42,25.53,177.08
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,4,3,25,176
+"Iron, Fe",mg,5.91,5.02,37.53,260.34
+"Magnesium, Mg",mg,29,25,184,1277
+"Phosphorus, P",mg,256,218,1626,11277
+"Potassium, K",mg,336,286,2134,14801
+"Sodium, Na",mg,50,42,318,2202
+"Zinc, Zn",mg,1.68,1.43,10.67,74.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.284,0.241,1.803,12.510
+"Riboflavin",mg,1.523,1.295,9.671,67.088
+"Niacin",mg,6.560,5.576,41.656,288.968
+"Vitamin B-6",mg,1.077,0.915,6.839,47.442
+"Vitamin B-12",µg,4.10,3.48,26.04,180.60
+"Vitamin A, RAE",µg,11,9,70,485
+"Vitamin A, IU",IU,38,32,241,1674
+"Vitamin E (alpha-tocopherol)",mg,0.57,0.48,3.62,25.11
+Lipids
+"Fatty acids, total saturated",g,0.609,0.518,3.867,26.826
+"Fatty acids, total monounsaturated",g,0.817,0.694,5.188,35.989
+"Fatty acids, total polyunsaturated",g,0.347,0.295,2.203,15.285
+"Fatty acids, total trans",g,0.008,0.007,0.051,0.352
+"Cholesterol",mg,80,68,508,3524
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

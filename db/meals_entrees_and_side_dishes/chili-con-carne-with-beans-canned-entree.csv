@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:21 EST
+"Nutrient data for: 22904, Chili con carne with beans, canned entree"
+Nutrient,Unit,1Value per 100 g,"1 cup = 242.0g",
+Proximates
+"Water",g,75.69,183.17
+"Energy",kcal,107,259
+"Protein",g,5.80,14.04
+"Total lipid (fat)",g,3.47,8.40
+"Carbohydrate, by difference",g,13.10,31.70
+"Fiber, total dietary",g,3.3,8.0
+"Sugars, total",g,1.87,4.53
+Minerals
+"Calcium, Ca",mg,33,80
+"Iron, Fe",mg,1.34,3.24
+"Magnesium, Mg",mg,28,68
+"Phosphorus, P",mg,87,211
+"Potassium, K",mg,264,639
+"Sodium, Na",mg,449,1087
+"Zinc, Zn",mg,0.89,2.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.5
+"Thiamin",mg,0.019,0.046
+"Riboflavin",mg,0.029,0.070
+"Niacin",mg,0.782,1.892
+"Vitamin B-6",mg,0.105,0.254
+"Folate, DFE",µg,21,51
+"Vitamin B-12",µg,0.28,0.68
+"Vitamin A, RAE",µg,23,56
+"Vitamin A, IU",IU,467,1130
+"Vitamin E (alpha-tocopherol)",mg,0.50,1.21
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,1,2
+"Vitamin K (phylloquinone)",µg,4.6,11.1
+Lipids
+"Fatty acids, total saturated",g,1.253,3.032
+"Fatty acids, total monounsaturated",g,1.412,3.417
+"Fatty acids, total polyunsaturated",g,0.400,0.968
+"Fatty acids, total trans",g,0.166,0.402
+"Cholesterol",mg,9,22
+Amino Acids
+Other
+"Caffeine",mg,0,0

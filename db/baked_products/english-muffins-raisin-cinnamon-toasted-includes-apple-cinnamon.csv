@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:38 EST
+"Nutrient data for: 18263, English muffins, raisin-cinnamon, toasted (includes apple-cinnamon)"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 muffin = 52.0g",
+Proximates
+"Water",g,32.07,9.09,16.68
+"Energy",kcal,276,78,144
+"Protein",g,8.87,2.51,4.61
+"Total lipid (fat)",g,2.21,0.63,1.15
+"Carbohydrate, by difference",g,55.04,15.60,28.62
+"Fiber, total dietary",g,3.0,0.9,1.6
+"Sugars, total",g,13.34,3.78,6.94
+Minerals
+"Calcium, Ca",mg,139,39,72
+"Iron, Fe",mg,4.90,1.39,2.55
+"Magnesium, Mg",mg,28,8,15
+"Phosphorus, P",mg,108,31,56
+"Potassium, K",mg,194,55,101
+"Sodium, Na",mg,342,97,178
+"Zinc, Zn",mg,1.00,0.28,0.52
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.4,0.4,0.7
+"Thiamin",mg,0.518,0.147,0.269
+"Riboflavin",mg,0.245,0.069,0.127
+"Niacin",mg,4.285,1.215,2.228
+"Vitamin B-6",mg,0.062,0.018,0.032
+"Folate, DFE",µg,131,37,68
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,1,0,1
+"Vitamin E (alpha-tocopherol)",mg,0.36,0.10,0.19
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,2.5,0.7,1.3
+Lipids
+"Fatty acids, total saturated",g,0.579,0.164,0.301
+"Fatty acids, total monounsaturated",g,1.065,0.302,0.554
+"Fatty acids, total polyunsaturated",g,0.469,0.133,0.244
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

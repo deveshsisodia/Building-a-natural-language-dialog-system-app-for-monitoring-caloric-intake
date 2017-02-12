@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:28 EST
+"Nutrient data for: 02046, Mustard, prepared, yellow"
+Nutrient,Unit,1Value per 100 g,"1 tsp or 1 packet = 5.0g","1 cup = 249.0g",
+Proximates
+"Water",g,83.72,4.19,208.46
+"Energy",kcal,60,3,149
+"Protein",g,3.74,0.19,9.31
+"Total lipid (fat)",g,3.34,0.17,8.32
+"Carbohydrate, by difference",g,5.83,0.29,14.52
+"Fiber, total dietary",g,4.0,0.2,10.0
+"Sugars, total",g,0.92,0.05,2.29
+Minerals
+"Calcium, Ca",mg,63,3,157
+"Iron, Fe",mg,1.61,0.08,4.01
+"Magnesium, Mg",mg,48,2,120
+"Phosphorus, P",mg,108,5,269
+"Potassium, K",mg,152,8,378
+"Sodium, Na",mg,1104,55,2749
+"Zinc, Zn",mg,0.64,0.03,1.59
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.0,0.7
+"Thiamin",mg,0.177,0.009,0.441
+"Riboflavin",mg,0.070,0.004,0.174
+"Niacin",mg,0.565,0.028,1.407
+"Vitamin B-6",mg,0.070,0.004,0.174
+"Folate, DFE",µg,7,0,17
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,5,0,12
+"Vitamin A, IU",IU,109,5,271
+"Vitamin E (alpha-tocopherol)",mg,0.36,0.02,0.90
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.4,0.1,3.5
+Lipids
+"Fatty acids, total saturated",g,0.214,0.011,0.533
+"Fatty acids, total monounsaturated",g,2.182,0.109,5.433
+"Fatty acids, total polyunsaturated",g,0.774,0.039,1.927
+"Fatty acids, total trans",g,0.009,0.000,0.022
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

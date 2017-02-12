@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:00 EST
+"Nutrient data for: 43135, Sandwich spread, meatless"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g",
+Proximates
+"Water",g,70.00,10.50
+"Energy",kcal,149,22
+"Protein",g,8.00,1.20
+"Total lipid (fat)",g,9.00,1.35
+"Carbohydrate, by difference",g,9.00,1.35
+"Fiber, total dietary",g,3.3,0.5
+"Sugars, total",g,1.90,0.28
+Minerals
+"Calcium, Ca",mg,44,7
+"Iron, Fe",mg,1.50,0.23
+"Magnesium, Mg",mg,20,3
+"Phosphorus, P",mg,220,33
+"Potassium, K",mg,340,51
+"Sodium, Na",mg,630,94
+"Zinc, Zn",mg,1.30,0.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.600,0.090
+"Riboflavin",mg,0.700,0.105
+"Niacin",mg,13.000,1.950
+"Vitamin B-6",mg,1.100,0.165
+"Folate, DFE",µg,103,15
+"Vitamin B-12",µg,3.10,0.47
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.73,0.26
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.425,0.214
+"Fatty acids, total monounsaturated",g,2.188,0.328
+"Fatty acids, total polyunsaturated",g,4.666,0.700
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

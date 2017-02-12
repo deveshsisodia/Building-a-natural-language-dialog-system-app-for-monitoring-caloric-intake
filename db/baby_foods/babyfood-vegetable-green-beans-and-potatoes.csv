@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:47 EST
+"Nutrient data for: 03096, Babyfood, vegetable, green beans and potatoes"
+Nutrient,Unit,1Value per 100 g,"1 jar, Gerber (4 oz) = 113.0g",
+Proximates
+"Water",g,86.20,97.41
+"Energy",kcal,62,70
+"Protein",g,2.20,2.49
+"Total lipid (fat)",g,1.90,2.15
+"Carbohydrate, by difference",g,9.00,10.17
+"Fiber, total dietary",g,1.4,1.6
+"Sugars, total",g,2.35,2.66
+Minerals
+"Calcium, Ca",mg,60,68
+"Iron, Fe",mg,0.50,0.56
+"Magnesium, Mg",mg,20,23
+"Phosphorus, P",mg,61,69
+"Potassium, K",mg,148,167
+"Sodium, Na",mg,18,20
+"Zinc, Zn",mg,0.30,0.34
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,1.2
+"Thiamin",mg,0.040,0.045
+"Riboflavin",mg,0.110,0.124
+"Niacin",mg,0.460,0.520
+"Vitamin B-6",mg,0.080,0.090
+"Folate, DFE",µg,10,11
+"Vitamin B-12",µg,0.15,0.17
+"Vitamin A, RAE",µg,14,16
+"Vitamin A, IU",IU,85,96
+"Vitamin E (alpha-tocopherol)",mg,0.08,0.09
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.4,1.6
+Lipids
+"Fatty acids, total saturated",g,1.117,1.262
+"Fatty acids, total monounsaturated",g,0.539,0.609
+"Fatty acids, total polyunsaturated",g,0.132,0.149
+"Cholesterol",mg,5,6
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,34 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:21 EST
+"Nutrient data for: 11995, Fiddlehead ferns, raw"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,88.68,
+"Energy",kcal,34,
+"Protein",g,4.55,
+"Total lipid (fat)",g,0.40,
+"Carbohydrate, by difference",g,5.54,
+Minerals
+"Calcium, Ca",mg,32,
+"Iron, Fe",mg,1.31,
+"Magnesium, Mg",mg,34,
+"Phosphorus, P",mg,101,
+"Potassium, K",mg,370,
+"Sodium, Na",mg,1,
+"Zinc, Zn",mg,0.83,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,26.6,
+"Thiamin",mg,0.020,
+"Riboflavin",mg,0.210,
+"Niacin",mg,4.980,
+"Vitamin B-12",µg,0.00,
+"Vitamin A, RAE",µg,181,
+"Vitamin A, IU",IU,3617,
+"Vitamin D (D2 + D3)",µg,0.0,
+"Vitamin D",IU,0,
+Lipids
+"Fatty acids, total trans",g,0.000,
+"Cholesterol",mg,0,
+Amino Acids
+Other

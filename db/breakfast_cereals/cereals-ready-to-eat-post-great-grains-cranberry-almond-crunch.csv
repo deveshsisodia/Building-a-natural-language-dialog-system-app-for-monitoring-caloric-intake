@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:02 EST
+"Nutrient data for: 08544, Cereals ready-to-eat, POST GREAT GRAINS Cranberry Almond Crunch"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 48.0g",
+Proximates
+"Water",g,6.20,2.98
+"Energy",kcal,384,184
+"Protein",g,8.90,4.27
+"Total lipid (fat)",g,5.90,2.83
+"Carbohydrate, by difference",g,76.60,36.77
+"Fiber, total dietary",g,11.1,5.3
+"Sugars, total",g,25.50,12.24
+Minerals
+"Calcium, Ca",mg,40,19
+"Iron, Fe",mg,3.80,1.82
+"Magnesium, Mg",mg,89,43
+"Phosphorus, P",mg,255,122
+"Potassium, K",mg,308,148
+"Sodium, Na",mg,214,103
+"Zinc, Zn",mg,3.10,1.49
+Vitamins
+"Vitamin C, total ascorbic acid",mg,25.0,12.0
+"Thiamin",mg,0.800,0.384
+"Riboflavin",mg,0.900,0.432
+"Niacin",mg,10.400,4.992
+"Vitamin B-6",mg,1.000,0.480
+"Folate, DFE",µg,341,164
+"Vitamin B-12",µg,3.10,1.49
+"Vitamin A, RAE",µg,467,224
+"Vitamin A, IU",IU,1563,750
+"Vitamin E (alpha-tocopherol)",mg,5.63,2.70
+"Vitamin D (D2 + D3)",µg,2.1,1.0
+"Vitamin D",IU,83,40
+"Vitamin K (phylloquinone)",µg,2.0,1.0
+Lipids
+"Fatty acids, total saturated",g,0.800,0.384
+"Fatty acids, total monounsaturated",g,3.000,1.440
+"Fatty acids, total polyunsaturated",g,1.700,0.816
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

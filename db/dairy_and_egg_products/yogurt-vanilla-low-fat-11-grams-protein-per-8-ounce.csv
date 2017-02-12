@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:11 EST
+"Nutrient data for: 01119, Yogurt, vanilla, low fat, 11 grams protein per 8 ounce"
+Nutrient,Unit,1Value per 100 g,"1 container (6 oz) = 170.0g","1 container (8 oz) = 227.0g","1 cup (8 fl oz) = 245.0g",
+Proximates
+"Water",g,79.00,134.30,179.33,193.55
+"Energy",kcal,85,144,193,208
+"Protein",g,4.93,8.38,11.19,12.08
+"Total lipid (fat)",g,1.25,2.12,2.84,3.06
+"Carbohydrate, by difference",g,13.80,23.46,31.33,33.81
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,13.80,23.46,31.33,33.81
+Minerals
+"Calcium, Ca",mg,171,291,388,419
+"Iron, Fe",mg,0.07,0.12,0.16,0.17
+"Magnesium, Mg",mg,16,27,36,39
+"Phosphorus, P",mg,135,230,306,331
+"Potassium, K",mg,219,372,497,537
+"Sodium, Na",mg,66,112,150,162
+"Zinc, Zn",mg,0.83,1.41,1.88,2.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,1.4,1.8,2.0
+"Thiamin",mg,0.042,0.071,0.095,0.103
+"Riboflavin",mg,0.201,0.342,0.456,0.492
+"Niacin",mg,0.107,0.182,0.243,0.262
+"Vitamin B-6",mg,0.045,0.076,0.102,0.110
+"Folate, DFE",µg,11,19,25,27
+"Vitamin B-12",µg,0.53,0.90,1.20,1.30
+"Vitamin A, RAE",µg,12,20,27,29
+"Vitamin A, IU",IU,43,73,98,105
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.03,0.05,0.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,1,2,2,2
+"Vitamin K (phylloquinone)",µg,0.1,0.2,0.2,0.2
+Lipids
+"Fatty acids, total saturated",g,0.806,1.370,1.830,1.975
+"Fatty acids, total monounsaturated",g,0.343,0.583,0.779,0.840
+"Fatty acids, total polyunsaturated",g,0.036,0.061,0.082,0.088
+"Cholesterol",mg,5,8,11,12
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

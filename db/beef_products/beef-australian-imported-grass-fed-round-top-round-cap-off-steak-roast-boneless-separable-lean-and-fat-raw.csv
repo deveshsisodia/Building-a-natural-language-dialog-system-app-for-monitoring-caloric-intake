@@ -1,0 +1,30 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:32 EST
+"Nutrient data for: 23318, Beef, Australian, imported, grass-fed, round, top round cap-off steak/roast, boneless, separable lean and fat, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 114.0g","1 roast = 763.0g",
+Proximates
+"Water",g,72.52,82.67,553.33
+"Energy",kcal,129,147,984
+"Protein",g,22.24,25.35,169.69
+"Total lipid (fat)",g,4.40,5.02,33.57
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,5,6,38
+"Iron, Fe",mg,2.28,2.60,17.40
+"Sodium, Na",mg,59,67,450
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.770,2.018,13.505
+"Fatty acids, total monounsaturated",g,1.846,2.104,14.085
+"Fatty acids, total polyunsaturated",g,0.291,0.332,2.220
+"Fatty acids, total trans",g,0.140,0.160,1.068
+"Cholesterol",mg,47,54,359
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

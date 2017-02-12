@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:39 EST
+"Nutrient data for: 05184, Turkey, dark meat from whole, meat and skin, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"1 serving = 85.0g",
+Proximates
+"Water",g,61.66,52.41
+"Energy",kcal,206,175
+"Protein",g,27.27,23.18
+"Total lipid (fat)",g,9.95,8.46
+"Carbohydrate, by difference",g,0.07,0.06
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,17,14
+"Iron, Fe",mg,1.45,1.23
+"Magnesium, Mg",mg,27,23
+"Phosphorus, P",mg,215,183
+"Potassium, K",mg,228,194
+"Sodium, Na",mg,105,89
+"Zinc, Zn",mg,3.35,2.85
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.057,0.048
+"Riboflavin",mg,0.365,0.310
+"Niacin",mg,7.103,6.038
+"Vitamin B-6",mg,0.430,0.365
+"Folate, DFE",µg,9,8
+"Vitamin B-12",µg,1.66,1.41
+"Vitamin A, RAE",µg,14,12
+"Vitamin A, IU",IU,47,40
+"Vitamin E (alpha-tocopherol)",mg,0.08,0.07
+"Vitamin D (D2 + D3)",µg,0.4,0.3
+"Vitamin D",IU,15,13
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,2.930,2.490
+"Fatty acids, total monounsaturated",g,3.594,3.055
+"Fatty acids, total polyunsaturated",g,2.867,2.437
+"Fatty acids, total trans",g,0.137,0.116
+"Cholesterol",mg,134,114
+Amino Acids
+Other
+"Caffeine",mg,0,0

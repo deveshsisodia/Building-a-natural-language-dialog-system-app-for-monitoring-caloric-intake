@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:57 EST
+"Nutrient data for: 43130, Frankfurter, meatless"
+Nutrient,Unit,1Value per 100 g,"1 cup, sliced = 140.0g","1 frankfurter = 70.0g",
+Proximates
+"Water",g,58.00,81.20,40.60
+"Energy",kcal,233,326,163
+"Protein",g,19.61,27.45,13.73
+"Total lipid (fat)",g,13.73,19.22,9.61
+"Carbohydrate, by difference",g,7.70,10.78,5.39
+"Fiber, total dietary",g,3.9,5.5,2.7
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,33,46,23
+"Iron, Fe",mg,1.41,1.97,0.99
+"Magnesium, Mg",mg,18,25,13
+"Phosphorus, P",mg,344,482,241
+"Potassium, K",mg,98,137,69
+"Sodium, Na",mg,471,659,330
+"Zinc, Zn",mg,1.20,1.68,0.84
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.441,0.617,0.309
+"Riboflavin",mg,0.833,1.166,0.583
+"Niacin",mg,3.137,4.392,2.196
+"Vitamin B-6",mg,0.078,0.109,0.055
+"Folate, DFE",µg,78,109,55
+"Vitamin B-12",µg,2.35,3.29,1.65
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.92,2.69,1.34
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.653,2.314,1.157
+"Fatty acids, total monounsaturated",g,2.540,3.556,1.778
+"Fatty acids, total polyunsaturated",g,5.415,7.581,3.791
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:21 EST
+"Nutrient data for: 05319, Chicken, broiler, rotisserie, BBQ, drumstick, meat only"
+Nutrient,Unit,1Value per 100 g,"1 drumstick = 71.0g",
+Proximates
+"Water",g,64.11,45.52
+"Energy",kcal,172,122
+"Protein",g,27.71,19.67
+"Total lipid (fat)",g,6.76,4.80
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,20,14
+"Iron, Fe",mg,1.05,0.75
+"Magnesium, Mg",mg,23,16
+"Phosphorus, P",mg,248,176
+"Potassium, K",mg,291,207
+"Sodium, Na",mg,403,286
+"Zinc, Zn",mg,2.86,2.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.065,0.046
+"Riboflavin",mg,0.229,0.163
+"Niacin",mg,5.745,4.079
+"Vitamin B-6",mg,0.184,0.131
+"Folate, DFE",µg,9,6
+"Vitamin B-12",µg,0.47,0.33
+"Vitamin A, RAE",µg,10,7
+"Vitamin A, IU",IU,33,23
+"Vitamin E (alpha-tocopherol)",mg,0.54,0.38
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.573,1.117
+"Fatty acids, total monounsaturated",g,2.827,2.007
+"Fatty acids, total polyunsaturated",g,1.029,0.731
+"Cholesterol",mg,155,110
+Amino Acids
+Other
+"Caffeine",mg,0,0

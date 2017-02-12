@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:20 EST
+"Nutrient data for: 14416, Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 29.6g","1 can can 12 fl oz = 355.0g","1 bottle bottle 16 fl oz = 473.0g","1 serving child 12 fl oz = 258.0g","1 serving small 16 fl oz = 347.0g","1 serving medium 21 fl oz = 486.0g","1 serving large 32 fl oz = 722.0g",
+Proximates
+"Water",g,99.54,29.46,353.37,470.82,256.81,345.40,483.76,718.68
+"Energy",kcal,2,1,7,9,5,7,10,14
+"Protein",g,0.11,0.03,0.39,0.52,0.28,0.38,0.53,0.79
+"Total lipid (fat)",g,0.03,0.01,0.11,0.14,0.08,0.10,0.15,0.22
+"Carbohydrate, by difference",g,0.29,0.09,1.03,1.37,0.75,1.01,1.41,2.09
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,3,1,11,14,8,10,15,22
+"Iron, Fe",mg,0.11,0.03,0.39,0.52,0.28,0.38,0.53,0.79
+"Magnesium, Mg",mg,1,0,4,5,3,3,5,7
+"Phosphorus, P",mg,9,3,32,43,23,31,44,65
+"Potassium, K",mg,8,2,28,38,21,28,39,58
+"Sodium, Na",mg,8,2,28,38,21,28,39,58
+"Zinc, Zn",mg,0.01,0.00,0.04,0.05,0.03,0.03,0.05,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.005,0.001,0.018,0.024,0.013,0.017,0.024,0.036
+"Riboflavin",mg,0.023,0.007,0.082,0.109,0.059,0.080,0.112,0.166
+"Niacin",mg,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Vitamin B-6",mg,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0,0,0,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,12,4,43,57,31,42,58,87
+Footnotes
+(a)"Includes retail and fast food, without ice products."

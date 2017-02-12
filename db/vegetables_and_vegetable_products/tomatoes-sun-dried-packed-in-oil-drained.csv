@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:31 EST
+"Nutrient data for: 11956, Tomatoes, sun-dried, packed in oil, drained"
+Nutrient,Unit,1Value per 100 g,"1 cup = 110.0g","1 piece = 3.0g",
+Proximates
+"Water",g,53.83,59.21,1.61
+"Energy",kcal,213,234,6
+"Protein",g,5.06,5.57,0.15
+"Total lipid (fat)",g,14.08,15.49,0.42
+"Carbohydrate, by difference",g,23.33,25.66,0.70
+"Fiber, total dietary",g,5.8,6.4,0.2
+Minerals
+"Calcium, Ca",mg,47,52,1
+"Iron, Fe",mg,2.68,2.95,0.08
+"Magnesium, Mg",mg,81,89,2
+"Phosphorus, P",mg,139,153,4
+"Potassium, K",mg,1565,1722,47
+"Sodium, Na",mg,266,293,8
+"Zinc, Zn",mg,0.78,0.86,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,101.8,112.0,3.1
+"Thiamin",mg,0.193,0.212,0.006
+"Riboflavin",mg,0.383,0.421,0.011
+"Niacin",mg,3.630,3.993,0.109
+"Vitamin B-6",mg,0.319,0.351,0.010
+"Folate, DFE",µg,23,25,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,64,70,2
+"Vitamin A, IU",IU,1286,1415,39
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.893,2.082,0.057
+"Fatty acids, total monounsaturated",g,8.663,9.529,0.260
+"Fatty acids, total polyunsaturated",g,2.060,2.266,0.062
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

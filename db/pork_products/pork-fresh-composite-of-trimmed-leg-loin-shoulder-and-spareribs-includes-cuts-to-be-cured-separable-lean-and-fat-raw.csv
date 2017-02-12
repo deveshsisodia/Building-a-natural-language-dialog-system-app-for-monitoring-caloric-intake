@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:41 EST
+"Nutrient data for: 10003, Pork, fresh, composite of trimmed leg, loin, shoulder, and spareribs, (includes cuts to be cured), separable lean and fat, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g",
+Proximates
+"Water",g,65.99,18.71,299.33
+"Energy",kcal,211,60,957
+"Protein",g,18.22,5.17,82.65
+"Total lipid (fat)",g,14.79,4.19,67.09
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,11,3,50
+"Iron, Fe",mg,0.89,0.25,4.04
+"Magnesium, Mg",mg,21,6,95
+"Phosphorus, P",mg,195,55,885
+"Potassium, K",mg,319,90,1447
+"Sodium, Na",mg,57,16,259
+"Zinc, Zn",mg,2.27,0.64,10.30
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.1,1.4
+"Thiamin",mg,0.622,0.176,2.821
+"Riboflavin",mg,0.255,0.072,1.157
+"Niacin",mg,4.730,1.341,21.455
+"Vitamin B-6",mg,0.504,0.143,2.286
+"Folate, DFE",µg,3,1,14
+"Vitamin B-12",µg,0.67,0.19,3.04
+"Vitamin A, RAE",µg,1,0,5
+"Vitamin A, IU",IU,6,2,27
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.03,0.54
+"Vitamin D (D2 + D3)",µg,0.7,0.2,3.2
+"Vitamin D",IU,29,8,132
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,4.918,1.394,22.308
+"Fatty acids, total monounsaturated",g,6.102,1.730,27.679
+"Fatty acids, total polyunsaturated",g,1.726,0.489,7.829
+"Fatty acids, total trans",g,0.034,0.010,0.154
+"Cholesterol",mg,69,20,313
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

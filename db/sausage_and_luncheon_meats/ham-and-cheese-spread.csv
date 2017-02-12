@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:15 EST
+"Nutrient data for: 07033, Ham and cheese spread"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 oz = 28.35g",
+Proximates
+"Water",g,59.13,8.87,16.76
+"Energy",kcal,245,37,69
+"Protein",g,16.18,2.43,4.59
+"Total lipid (fat)",g,18.53,2.78,5.25
+"Carbohydrate, by difference",g,2.28,0.34,0.65
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,217,33,62
+"Iron, Fe",mg,0.76,0.11,0.22
+"Magnesium, Mg",mg,18,3,5
+"Phosphorus, P",mg,495,74,140
+"Potassium, K",mg,162,24,46
+"Sodium, Na",mg,1197,180,339
+"Zinc, Zn",mg,2.25,0.34,0.64
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.318,0.048,0.090
+"Riboflavin",mg,0.220,0.033,0.062
+"Niacin",mg,2.153,0.323,0.610
+"Vitamin B-6",mg,0.130,0.020,0.037
+"Folate, DFE",µg,3,0,1
+"Vitamin B-12",µg,0.73,0.11,0.21
+"Vitamin A, RAE",µg,91,14,26
+"Vitamin A, IU",IU,304,46,86
+Lipids
+"Fatty acids, total saturated",g,8.620,1.293,2.444
+"Fatty acids, total monounsaturated",g,7.080,1.062,2.007
+"Fatty acids, total polyunsaturated",g,1.380,0.207,0.391
+"Cholesterol",mg,61,9,17
+Amino Acids
+Other

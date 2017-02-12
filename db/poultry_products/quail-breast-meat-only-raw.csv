@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:38 EST
+"Nutrient data for: 05159, Quail, breast, meat only, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 unit (yield from 1 lb ready-to cook quail) = 208.0g","1 breast = 56.0g",
+Proximates
+"Water",g,71.67,60.92,149.07,40.14
+"Energy",kcal,123,105,256,69
+"Protein",g,22.59,19.20,46.99,12.65
+"Total lipid (fat)",g,2.99,2.54,6.22,1.67
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,10,8,21,6
+"Iron, Fe",mg,2.31,1.96,4.80,1.29
+"Magnesium, Mg",mg,28,24,58,16
+"Phosphorus, P",mg,228,194,474,128
+"Potassium, K",mg,260,221,541,146
+"Sodium, Na",mg,55,47,114,31
+"Zinc, Zn",mg,2.70,2.30,5.62,1.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.1,4.3,10.6,2.9
+"Thiamin",mg,0.240,0.204,0.499,0.134
+"Riboflavin",mg,0.243,0.207,0.505,0.136
+"Niacin",mg,8.200,6.970,17.056,4.592
+"Vitamin B-6",mg,0.530,0.451,1.102,0.297
+"Folate, DFE",µg,4,3,8,2
+"Vitamin B-12",µg,0.47,0.40,0.98,0.26
+"Vitamin A, RAE",µg,11,9,23,6
+"Vitamin A, IU",IU,37,31,77,21
+Lipids
+"Fatty acids, total saturated",g,0.870,0.740,1.810,0.487
+"Fatty acids, total monounsaturated",g,0.840,0.714,1.747,0.470
+"Fatty acids, total polyunsaturated",g,0.770,0.655,1.602,0.431
+"Cholesterol",mg,58,49,121,32
+Amino Acids
+Other

@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:39 EST
+"Nutrient data for: 21152, SUBWAY, SUBWAY CLUB sub on white bread with lettuce and tomato"
+Nutrient,Unit,1Value per 100 g,"6.0 inch sub = 207.0g","12.0 inch sub = 413.0g",
+Proximates
+"Water",g,64.70,133.93,267.21
+"Energy",kcal,146,302,603
+"Protein",g,10.66,22.07,44.03
+"Total lipid (fat)",g,2.42,5.01,9.99
+"Carbohydrate, by difference",g,20.36,42.15,84.09
+"Fiber, total dietary",g,1.4,2.9,5.8
+"Sugars, total",g,3.19,6.60,13.17
+Minerals
+"Calcium, Ca",mg,153,317,632
+"Iron, Fe",mg,1.93,4.00,7.97
+"Magnesium, Mg",mg,22,46,91
+"Phosphorus, P",mg,131,271,541
+"Potassium, K",mg,265,549,1094
+"Sodium, Na",mg,348,720,1437
+"Zinc, Zn",mg,1.18,2.44,4.87
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,1.7,3.3
+"Thiamin",mg,0.277,0.573,1.144
+"Riboflavin",mg,0.240,0.497,0.991
+"Niacin",mg,4.507,9.329,18.614
+"Vitamin B-6",mg,0.222,0.460,0.917
+"Vitamin B-12",µg,0.20,0.41,0.83
+"Vitamin A, RAE",µg,2,4,8
+"Vitamin A, IU",IU,49,101,202
+"Vitamin E (alpha-tocopherol)",mg,0.24,0.50,0.99
+Lipids
+"Fatty acids, total saturated",g,0.570,1.180,2.354
+"Fatty acids, total monounsaturated",g,0.615,1.273,2.540
+"Fatty acids, total polyunsaturated",g,0.844,1.747,3.486
+"Fatty acids, total trans",g,0.031,0.064,0.128
+"Cholesterol",mg,16,33,66
+Amino Acids
+Other

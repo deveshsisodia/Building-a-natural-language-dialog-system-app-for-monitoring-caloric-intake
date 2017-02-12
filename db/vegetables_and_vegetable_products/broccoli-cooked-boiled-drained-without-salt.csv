@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:17 EST
+"Nutrient data for: 11091, Broccoli, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"0.5 cup, chopped = 78.0g","1 stalk, large (11""-12"" long) = 280.0g","1 stalk, medium (7-1/2"" - 8"" long) = 180.0g","1 stalk, small (5"" long) = 140.0g","1 spear (about 5"" long) = 37.0g",
+Proximates
+"Water",g,89.25,69.61,249.90,160.65,124.95,33.02
+"Energy",kcal,35,27,98,63,49,13
+"Protein",g,2.38,1.86,6.66,4.28,3.33,0.88
+"Total lipid (fat)",g,0.41,0.32,1.15,0.74,0.57,0.15
+"Carbohydrate, by difference",g,7.18,5.60,20.10,12.92,10.05,2.66
+"Fiber, total dietary",g,3.3,2.6,9.2,5.9,4.6,1.2
+"Sugars, total",g,1.39,1.08,3.89,2.50,1.95,0.51
+Minerals
+"Calcium, Ca",mg,40,31,112,72,56,15
+"Iron, Fe",mg,0.67,0.52,1.88,1.21,0.94,0.25
+"Magnesium, Mg",mg,21,16,59,38,29,8
+"Phosphorus, P",mg,67,52,188,121,94,25
+"Potassium, K",mg,293,229,820,527,410,108
+"Sodium, Na",mg,41,32,115,74,57,15
+"Zinc, Zn",mg,0.45,0.35,1.26,0.81,0.63,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,64.9,50.6,181.7,116.8,90.9,24.0
+"Thiamin",mg,0.063,0.049,0.176,0.113,0.088,0.023
+"Riboflavin",mg,0.123,0.096,0.344,0.221,0.172,0.046
+"Niacin",mg,0.553,0.431,1.548,0.995,0.774,0.205
+"Vitamin B-6",mg,0.200,0.156,0.560,0.360,0.280,0.074
+"Folate, DFE",µg,108,84,302,194,151,40
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,77,60,216,139,108,28
+"Vitamin A, IU",IU,1548,1207,4334,2786,2167,573
+"Vitamin E (alpha-tocopherol)",mg,1.45,1.13,4.06,2.61,2.03,0.54
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,141.1,110.1,395.1,254.0,197.5,52.2
+Lipids
+"Fatty acids, total saturated",g,0.079,0.062,0.221,0.142,0.111,0.029
+"Fatty acids, total monounsaturated",g,0.040,0.031,0.112,0.072,0.056,0.015
+"Fatty acids, total polyunsaturated",g,0.170,0.133,0.476,0.306,0.238,0.063
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

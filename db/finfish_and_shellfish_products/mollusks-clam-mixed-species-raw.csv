@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:06 EST
+"Nutrient data for: 15157, Mollusks, clam, mixed species, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 large = 20.0g","1 lb (with shell), yield after shell removed = 68.0g","1 medium = 14.5g","1 small = 9.0g","1 cup (with liquid and clams) = 227.0g",
+Proximates
+"Water",g,78.98,67.13,15.80,53.71,11.45,7.11,179.28
+"Energy",kcal,86,73,17,58,12,8,195
+"Protein",g,14.67,12.47,2.93,9.98,2.13,1.32,33.30
+"Total lipid (fat)",g,0.96,0.82,0.19,0.65,0.14,0.09,2.18
+"Carbohydrate, by difference",g,3.57,3.03,0.71,2.43,0.52,0.32,8.10
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,39,33,8,27,6,4,89
+"Iron, Fe",mg,1.62,1.38,0.32,1.10,0.23,0.15,3.68
+"Magnesium, Mg",mg,19,16,4,13,3,2,43
+"Phosphorus, P",mg,198,168,40,135,29,18,449
+"Potassium, K",mg,46,39,9,31,7,4,104
+"Sodium, Na",mg,601,511,120,409,87,54,1364
+"Zinc, Zn",mg,0.51,0.43,0.10,0.35,0.07,0.05,1.16
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.015,0.013,0.003,0.010,0.002,0.001,0.034
+"Riboflavin",mg,0.040,0.034,0.008,0.027,0.006,0.004,0.091
+"Niacin",mg,0.350,0.297,0.070,0.238,0.051,0.032,0.794
+"Vitamin B-6",mg,0.010,0.009,0.002,0.007,0.001,0.001,0.023
+"Folate, DFE",µg,5,4,1,3,1,0,11
+"Vitamin B-12",µg,11.28,9.59,2.26,7.67,1.64,1.02,25.61
+"Vitamin A, RAE",µg,90,76,18,61,13,8,204
+"Vitamin A, IU",IU,300,255,60,204,44,27,681
+"Vitamin E (alpha-tocopherol)",mg,0.68,0.58,0.14,0.46,0.10,0.06,1.54
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,1,1,0,1,0,0,2
+"Vitamin K (phylloquinone)",µg,0.2,0.2,0.0,0.1,0.0,0.0,0.5
+Lipids
+"Fatty acids, total saturated",g,0.187,0.159,0.037,0.127,0.027,0.017,0.424
+"Fatty acids, total monounsaturated",g,0.120,0.102,0.024,0.082,0.017,0.011,0.272
+"Fatty acids, total polyunsaturated",g,0.192,0.163,0.038,0.131,0.028,0.017,0.436
+"Fatty acids, total trans",g,0.015,0.013,0.003,0.010,0.002,0.001,0.034
+"Cholesterol",mg,30,26,6,20,4,3,68
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0
+Footnotes
+(a)"Samples were obtained from 12 retail stores using a probability-based sampling plan.  Some fish had been treated during processing to retain moisture on thawing.  Untreated fish = 56 mg sodium/100g."

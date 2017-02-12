@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:20 EST
+"Nutrient data for: 42128, Turkey ham, sliced, extra lean, prepackaged or deli-sliced"
+Nutrient,Unit,1Value per 100 g,"1 cup pieces = 138.0g","1 cubic inch = 20.0g",
+Proximates
+"Water",g,72.00,99.36,14.40
+"Energy",kcal,124,171,25
+"Protein",g,19.60,27.05,3.92
+"Total lipid (fat)",g,3.80,5.24,0.76
+"Carbohydrate, by difference",g,2.93,4.04,0.59
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,5,7,1
+"Iron, Fe",mg,1.35,1.86,0.27
+"Magnesium, Mg",mg,20,28,4
+"Phosphorus, P",mg,304,420,61
+"Potassium, K",mg,299,413,60
+"Sodium, Na",mg,1038,1432,208
+"Zinc, Zn",mg,2.36,3.26,0.47
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.050,0.069,0.010
+"Riboflavin",mg,0.250,0.345,0.050
+"Niacin",mg,3.530,4.871,0.706
+"Vitamin B-6",mg,0.230,0.317,0.046
+"Folate, DFE",µg,6,8,1
+"Vitamin B-12",µg,0.26,0.36,0.05
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.39,0.54,0.08
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,2,3,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.090,1.504,0.218
+"Fatty acids, total monounsaturated",g,0.864,1.192,0.173
+"Fatty acids, total polyunsaturated",g,1.148,1.584,0.230
+"Cholesterol",mg,67,92,13
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

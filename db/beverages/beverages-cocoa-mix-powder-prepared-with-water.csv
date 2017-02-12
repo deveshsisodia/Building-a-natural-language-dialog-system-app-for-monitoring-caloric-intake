@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:20 EST
+"Nutrient data for: 14194, Beverages, Cocoa mix, powder, prepared with water"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 34.3g","1 serving 6 fl oz = 206.0g",
+Proximates
+"Water",g,86.34,29.61,177.86
+"Energy",kcal,55,19,113
+"Protein",g,0.92,0.32,1.90
+"Total lipid (fat)",g,0.55,0.19,1.13
+"Carbohydrate, by difference",g,11.54,3.96,23.77
+"Fiber, total dietary",g,0.5,0.2,1.0
+"Sugars, total",g,9.03,3.10,18.60
+Minerals
+"Calcium, Ca",mg,21,7,43
+"Iron, Fe",mg,0.17,0.06,0.35
+"Magnesium, Mg",mg,12,4,25
+"Phosphorus, P",mg,43,15,89
+"Potassium, K",mg,99,34,204
+"Sodium, Na",mg,73,25,150
+"Zinc, Zn",mg,0.21,0.07,0.43
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.013,0.004,0.027
+"Riboflavin",mg,0.078,0.027,0.161
+"Niacin",mg,0.081,0.028,0.167
+"Vitamin B-6",mg,0.016,0.005,0.033
+"Folate, DFE",µg,1,0,2
+"Vitamin B-12",µg,0.05,0.02,0.10
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,1,0,2
+"Vitamin E (alpha-tocopherol)",mg,0.03,0.01,0.06
+"Vitamin K (phylloquinone)",µg,0.1,0.0,0.2
+Lipids
+"Fatty acids, total saturated",g,0.328,0.113,0.676
+"Fatty acids, total monounsaturated",g,0.183,0.063,0.377
+"Fatty acids, total polyunsaturated",g,0.016,0.005,0.033
+"Fatty acids, total trans",g,0.104,0.036,0.214
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,2,1,4

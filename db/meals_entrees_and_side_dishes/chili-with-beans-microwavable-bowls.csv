@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:21 EST
+"Nutrient data for: 22969, Chili with beans, microwavable bowls"
+Nutrient,Unit,1Value per 100 g,"1 cup = 244.0g","1 container = 422.0g",
+Proximates
+"Water",g,77.89,190.05,328.70
+"Energy",kcal,100,244,422
+"Protein",g,5.85,14.27,24.69
+"Total lipid (fat)",g,3.68,8.98,15.53
+"Carbohydrate, by difference",g,10.88,26.55,45.91
+"Fiber, total dietary",g,2.9,7.1,12.2
+"Sugars, total",g,1.84,4.49,7.76
+Minerals
+"Calcium, Ca",mg,34,83,143
+"Iron, Fe",mg,1.13,2.76,4.77
+"Magnesium, Mg",mg,25,61,106
+"Phosphorus, P",mg,80,195,338
+"Potassium, K",mg,245,598,1034
+"Sodium, Na",mg,385,939,1625
+"Zinc, Zn",mg,0.95,2.32,4.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,2.0,3.4
+"Thiamin",mg,0.019,0.046,0.080
+"Riboflavin",mg,0.029,0.071,0.122
+"Niacin",mg,0.941,2.296,3.971
+"Vitamin B-6",mg,0.109,0.266,0.460
+"Folate, DFE",µg,24,59,101
+"Vitamin B-12",µg,0.32,0.78,1.35
+"Vitamin A, RAE",µg,23,56,97
+"Vitamin A, IU",IU,452,1103,1907
+"Vitamin E (alpha-tocopherol)",mg,0.64,1.56,2.70
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,3.9,9.5,16.5
+Lipids
+"Fatty acids, total saturated",g,1.372,3.348,5.790
+"Fatty acids, total monounsaturated",g,1.595,3.892,6.731
+"Fatty acids, total polyunsaturated",g,0.401,0.978,1.692
+"Fatty acids, total trans",g,0.195,0.476,0.823
+"Cholesterol",mg,10,24,42
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

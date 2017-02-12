@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:38 EST
+"Nutrient data for: 21276, PIZZA HUT 12"" Super Supreme Pizza, Hand-Tossed Crust"
+Nutrient,Unit,1Value per 100 g,"1 slice = 127.0g","1 pizza = 1107.0g","0.5 pizza = 541.0g",
+Proximates
+"Water",g,50.20,63.75,555.71,271.58
+"Energy",kcal,243,309,2690,1315
+"Protein",g,10.90,13.84,120.66,58.97
+"Total lipid (fat)",g,10.72,13.61,118.67,58.00
+"Carbohydrate, by difference",g,25.62,32.54,283.61,138.60
+"Fiber, total dietary",g,2.0,2.5,22.1,10.8
+"Sugars, total",g,3.71,4.71,41.07,20.07
+Minerals
+"Calcium, Ca",mg,129,164,1428,698
+"Iron, Fe",mg,2.00,2.54,22.14,10.82
+"Magnesium, Mg",mg,23,29,255,124
+"Phosphorus, P",mg,200,254,2214,1082
+"Potassium, K",mg,233,296,2579,1261
+"Sodium, Na",mg,689,875,7627,3727
+"Zinc, Zn",mg,1.45,1.84,16.05,7.84
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.266,0.338,2.945,1.439
+"Riboflavin",mg,0.242,0.307,2.679,1.309
+"Niacin",mg,3.582,4.549,39.653,19.379
+"Vitamin B-6",mg,0.146,0.185,1.616,0.790
+"Vitamin B-12",µg,0.62,0.79,6.86,3.35
+"Vitamin A, RAE",µg,36,46,399,195
+"Vitamin A, IU",IU,137,174,1517,741
+"Vitamin E (alpha-tocopherol)",mg,0.77,0.98,8.52,4.17
+"Vitamin K (phylloquinone)",µg,7.3,9.3,80.8,39.5
+Lipids
+"Fatty acids, total saturated",g,4.554,5.784,50.413,24.637
+"Fatty acids, total monounsaturated",g,3.953,5.020,43.760,21.386
+"Fatty acids, total polyunsaturated",g,1.729,2.196,19.140,9.354
+"Cholesterol",mg,20,25,221,108
+Amino Acids
+Other

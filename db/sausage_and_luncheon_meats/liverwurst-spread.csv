@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:16 EST
+"Nutrient data for: 07911, Liverwurst spread"
+Nutrient,Unit,1Value per 100 g,"0.25 cup = 55.0g",
+Proximates
+"Water",g,53.53,29.44
+"Energy",kcal,305,168
+"Protein",g,12.38,6.81
+"Total lipid (fat)",g,25.45,14.00
+"Carbohydrate, by difference",g,5.89,3.24
+"Fiber, total dietary",g,2.5,1.4
+"Sugars, total",g,1.65,0.91
+Minerals
+"Calcium, Ca",mg,22,12
+"Iron, Fe",mg,8.85,4.87
+"Magnesium, Mg",mg,12,7
+"Phosphorus, P",mg,230,126
+"Potassium, K",mg,170,94
+"Sodium, Na",mg,700,385
+"Zinc, Zn",mg,2.30,1.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.5,1.9
+"Thiamin",mg,0.272,0.150
+"Riboflavin",mg,1.030,0.567
+"Niacin",mg,4.300,2.365
+"Vitamin B-6",mg,0.190,0.104
+"Folate, DFE",µg,30,16
+"Vitamin B-12",µg,13.46,7.40
+"Vitamin A, RAE",µg,4091,2250
+"Vitamin A, IU",IU,13636,7500
+Lipids
+"Fatty acids, total saturated",g,9.925,5.459
+"Fatty acids, total monounsaturated",g,12.286,6.757
+"Fatty acids, total polyunsaturated",g,2.427,1.335
+"Cholesterol",mg,118,65
+Amino Acids
+Other
+"Caffeine",mg,0,0

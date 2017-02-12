@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08453, Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Chocolatey Strawberry"
+Nutrient,Unit,1Value per 100 g,"0.75 Cup (1 NLEA serving) = 29.0g",
+Proximates
+"Water",g,3.00,0.87
+"Energy",kcal,368,107
+"Protein",g,6.90,2.00
+"Total lipid (fat)",g,3.90,1.13
+"Carbohydrate, by difference",g,83.30,24.16
+"Fiber, total dietary",g,9.5,2.8
+"Sugars, total",g,28.60,8.29
+Minerals
+"Calcium, Ca",mg,25,7
+"Iron, Fe",mg,27.89,8.09
+"Magnesium, Mg",mg,59,17
+"Phosphorus, P",mg,180,52
+"Potassium, K",mg,280,81
+"Sodium, Na",mg,631,183
+"Zinc, Zn",mg,1.50,0.43
+Vitamins
+"Vitamin C, total ascorbic acid",mg,72.0,20.9
+"Thiamin",mg,1.800,0.522
+"Riboflavin",mg,2.040,0.592
+"Niacin",mg,24.100,6.989
+"Vitamin B-6",mg,2.410,0.699
+"Vitamin B-12",µg,7.00,2.03
+"Vitamin A, IU",IU,2586,750
+"Vitamin D (D2 + D3)",µg,3.5,1.0
+"Vitamin D",IU,138,40
+Lipids
+"Fatty acids, total saturated",g,3.000,0.870
+"Fatty acids, total monounsaturated",g,0.200,0.058
+"Fatty acids, total polyunsaturated",g,0.600,0.174
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

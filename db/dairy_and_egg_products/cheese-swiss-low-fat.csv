@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:07 EST
+"Nutrient data for: 43589, Cheese, swiss, low fat"
+Nutrient,Unit,1Value per 100 g,"1 slice (1 oz) = 28.0g","1 cubic inch = 15.0g","1 cup, shredded = 108.0g","1 cup, diced = 132.0g",
+Proximates
+"Water",g,59.60,16.69,8.94,64.37,78.67
+"Energy",kcal,179,50,27,193,236
+"Protein",g,28.40,7.95,4.26,30.67,37.49
+"Total lipid (fat)",g,5.10,1.43,0.77,5.51,6.73
+"Carbohydrate, by difference",g,3.40,0.95,0.51,3.67,4.49
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,1.33,0.37,0.20,1.44,1.76
+Minerals
+"Calcium, Ca",mg,961,269,144,1038,1269
+"Iron, Fe",mg,0.17,0.05,0.03,0.18,0.22
+"Magnesium, Mg",mg,36,10,5,39,48
+"Phosphorus, P",mg,605,169,91,653,799
+"Potassium, K",mg,111,31,17,120,147
+"Sodium, Na",mg,199,56,30,215,263
+"Zinc, Zn",mg,3.90,1.09,0.58,4.21,5.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.020,0.006,0.003,0.022,0.026
+"Riboflavin",mg,0.360,0.101,0.054,0.389,0.475
+"Niacin",mg,0.090,0.025,0.013,0.097,0.119
+"Vitamin B-6",mg,0.080,0.022,0.012,0.086,0.106
+"Folate, DFE",µg,6,2,1,6,8
+"Vitamin B-12",µg,1.68,0.47,0.25,1.81,2.22
+"Vitamin A, RAE",µg,40,11,6,43,53
+"Vitamin A, IU",IU,152,43,23,164,201
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.02,0.01,0.08,0.09
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.0,0.1,0.1
+"Vitamin D",IU,4,1,1,4,5
+"Vitamin K (phylloquinone)",µg,0.5,0.1,0.1,0.5,0.7
+Lipids
+"Fatty acids, total saturated",g,3.304,0.925,0.496,3.568,4.361
+"Fatty acids, total monounsaturated",g,1.351,0.378,0.203,1.459,1.783
+"Fatty acids, total polyunsaturated",g,0.180,0.050,0.027,0.194,0.238
+"Cholesterol",mg,35,10,5,38,46
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

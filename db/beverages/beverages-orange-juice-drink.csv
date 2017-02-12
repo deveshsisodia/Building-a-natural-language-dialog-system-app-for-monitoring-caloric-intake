@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:23 EST
+"Nutrient data for: 42270, Beverages, Orange juice drink"
+Nutrient,Unit,1Value per 100 g,"1 cup = 249.0g","1 fl oz = 31.1g","1 drink box (8.45 fl oz) = 263.0g",
+Proximates
+"Water",g,86.20,214.64,26.81,226.71
+"Energy",kcal,54,134,17,142
+"Protein",g,0.20,0.50,0.06,0.53
+"Total lipid (fat)",g,0.00,0.00,0.00,0.00
+"Carbohydrate, by difference",g,13.41,33.39,4.17,35.27
+"Fiber, total dietary",g,0.2,0.5,0.1,0.5
+"Sugars, total",g,9.36,23.31,2.91,24.62
+Minerals
+"Calcium, Ca",mg,2,5,1,5
+"Iron, Fe",mg,0.11,0.27,0.03,0.29
+"Magnesium, Mg",mg,3,7,1,8
+"Phosphorus, P",mg,4,10,1,11
+"Potassium, K",mg,42,105,13,110
+"Sodium, Na",mg,2,5,1,5
+"Zinc, Zn",mg,0.02,0.05,0.01,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,15.0,37.4,4.7,39.5
+"Thiamin",mg,0.380,0.946,0.118,0.999
+"Riboflavin",mg,0.430,1.071,0.134,1.131
+"Niacin",mg,5.000,12.450,1.555,13.150
+"Vitamin B-6",mg,0.500,1.245,0.155,1.315
+"Folate, DFE",µg,4,10,1,11
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,2,5,1,5
+"Vitamin A, IU",IU,44,110,14,116
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.05,0.01,0.05
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.010,0.025,0.003,0.026
+"Fatty acids, total polyunsaturated",g,0.010,0.025,0.003,0.026
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08318, Cereals ready-to-eat, KELLOGG, KELLOGG'S SMART START Strong Heart Antioxidants Cereal"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 50.0g",
+Proximates
+"Water",g,2.50,1.25
+"Energy",kcal,371,186
+"Protein",g,7.50,3.75
+"Total lipid (fat)",g,1.50,0.75
+"Carbohydrate, by difference",g,86.80,43.40
+"Fiber, total dietary",g,5.4,2.7
+"Sugars, total",g,27.79,13.89
+Minerals
+"Calcium, Ca",mg,29,14
+"Iron, Fe",mg,36.00,18.00
+"Magnesium, Mg",mg,29,14
+"Phosphorus, P",mg,131,66
+"Potassium, K",mg,182,91
+"Sodium, Na",mg,398,199
+"Zinc, Zn",mg,30.00,15.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,30.0,15.0
+"Thiamin",mg,3.000,1.500
+"Riboflavin",mg,3.400,1.700
+"Niacin",mg,40.000,20.000
+"Vitamin B-6",mg,4.000,2.000
+"Folate, DFE",µg,1347,674
+"Vitamin B-12",µg,12.00,6.00
+"Vitamin A, RAE",µg,688,344
+"Vitamin A, IU",IU,2500,1250
+"Vitamin E (alpha-tocopherol)",mg,27.00,13.50
+"Vitamin D (D2 + D3)",µg,2.0,1.0
+"Vitamin D",IU,80,40
+"Vitamin K (phylloquinone)",µg,1.1,0.6
+Lipids
+"Fatty acids, total saturated",g,0.300,0.150
+"Fatty acids, total monounsaturated",g,0.100,0.050
+"Fatty acids, total polyunsaturated",g,0.500,0.250
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

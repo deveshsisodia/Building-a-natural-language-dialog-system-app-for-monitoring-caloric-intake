@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:26 EST
+"Nutrient data for: 36024, CRACKER BARREL, chicken tenderloin platter, fried"
+Nutrient,Unit,1Value per 100 g,"1 serving = 175.0g",
+Proximates
+"Water",g,43.12,75.46
+"Energy",kcal,293,513
+"Protein",g,18.06,31.61
+"Total lipid (fat)",g,15.48,27.09
+"Carbohydrate, by difference",g,20.29,35.51
+"Fiber, total dietary",g,0.7,1.2
+"Sugars, total",g,0.09,0.16
+Minerals
+"Calcium, Ca",mg,12,21
+"Iron, Fe",mg,0.59,1.03
+"Magnesium, Mg",mg,28,49
+"Phosphorus, P",mg,268,469
+"Potassium, K",mg,319,558
+"Sodium, Na",mg,874,1530
+"Zinc, Zn",mg,0.66,1.16
+Vitamins
+"Thiamin",mg,0.097,0.170
+"Riboflavin",mg,0.133,0.233
+"Niacin",mg,6.733,11.783
+"Vitamin B-6",mg,0.487,0.852
+"Vitamin B-12",µg,0.11,0.19
+"Vitamin A, RAE",µg,2,4
+"Vitamin A, IU",IU,11,19
+"Vitamin E (alpha-tocopherol)",mg,1.21,2.12
+Lipids
+"Fatty acids, total saturated",g,2.763,4.835
+"Fatty acids, total monounsaturated",g,3.319,5.808
+"Fatty acids, total polyunsaturated",g,7.891,13.809
+"Fatty acids, total trans",g,0.123,0.215
+"Cholesterol",mg,40,70
+Amino Acids
+Other

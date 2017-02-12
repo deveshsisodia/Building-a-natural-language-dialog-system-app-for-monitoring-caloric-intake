@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:33 EST
+"Nutrient data for: 13165, Beef, brisket, flat half, separable lean and fat, trimmed to 0"" fat, choice, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 steak (Yield from 448 g raw meat) = 293.0g",
+Proximates
+"Water",g,58.42,49.66,171.17
+"Energy",kcal,221,188,648
+"Protein",g,32.21,27.38,94.38
+"Total lipid (fat)",g,9.24,7.85,27.07
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,17,14,50
+"Iron, Fe",mg,2.75,2.34,8.06
+"Magnesium, Mg",mg,21,18,62
+"Phosphorus, P",mg,191,162,560
+"Potassium, K",mg,254,216,744
+"Sodium, Na",mg,52,44,152
+"Zinc, Zn",mg,7.23,6.15,21.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.061,0.052,0.179
+"Riboflavin",mg,0.206,0.175,0.604
+"Niacin",mg,4.496,3.822,13.173
+"Vitamin B-6",mg,0.313,0.266,0.917
+"Folate, DFE",µg,10,8,29
+"Vitamin B-12",µg,2.62,2.23,7.68
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.44,0.37,1.29
+"Vitamin K (phylloquinone)",µg,1.6,1.4,4.7
+Lipids
+"Fatty acids, total saturated",g,3.638,3.092,10.659
+"Fatty acids, total monounsaturated",g,3.975,3.379,11.647
+"Fatty acids, total polyunsaturated",g,0.341,0.290,0.999
+"Cholesterol",mg,92,78,270
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

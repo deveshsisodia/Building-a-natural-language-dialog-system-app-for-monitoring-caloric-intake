@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:08 EST
+"Nutrient data for: 01070, Dessert topping, powdered"
+Nutrient,Unit,1Value per 100 g,"1.5 oz = 43.0g","1 portion, amount to make 1 tbsp = 1.3g",
+Proximates
+"Water",g,1.47,0.63,0.02
+"Energy",kcal,577,248,8
+"Protein",g,4.90,2.11,0.06
+"Total lipid (fat)",g,39.92,17.17,0.52
+"Carbohydrate, by difference",g,52.54,22.59,0.68
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,52.54,22.59,0.68
+Minerals
+"Calcium, Ca",mg,17,7,0
+"Iron, Fe",mg,0.03,0.01,0.00
+"Magnesium, Mg",mg,7,3,0
+"Phosphorus, P",mg,74,32,1
+"Potassium, K",mg,166,71,2
+"Sodium, Na",mg,122,52,2
+"Zinc, Zn",mg,0.08,0.03,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000
+"Riboflavin",mg,0.000,0.000,0.000
+"Niacin",mg,0.000,0.000,0.000
+"Vitamin B-6",mg,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.52,0.65,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,9.9,4.3,0.1
+Lipids
+"Fatty acids, total saturated",g,36.723,15.791,0.477
+"Fatty acids, total monounsaturated",g,0.600,0.258,0.008
+"Fatty acids, total polyunsaturated",g,0.447,0.192,0.006
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

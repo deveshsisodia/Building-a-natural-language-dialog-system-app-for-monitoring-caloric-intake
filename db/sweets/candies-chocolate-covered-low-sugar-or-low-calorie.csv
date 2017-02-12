@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:32 EST
+"Nutrient data for: 43059, Candies, chocolate covered, low sugar or low calorie"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,4.00,
+"Energy",kcal,590,
+"Protein",g,12.39,
+"Total lipid (fat)",g,43.27,
+"Carbohydrate, by difference",g,37.68,
+"Fiber, total dietary",g,3.5,
+"Sugars, total",g,14.63,
+Minerals
+"Calcium, Ca",mg,285,
+"Iron, Fe",mg,1.45,
+"Magnesium, Mg",mg,129,
+"Phosphorus, P",mg,332,
+"Potassium, K",mg,606,
+"Sodium, Na",mg,111,
+"Zinc, Zn",mg,2.47,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.4,
+"Thiamin",mg,0.200,
+"Riboflavin",mg,0.480,
+"Niacin",mg,2.260,
+"Vitamin B-6",mg,0.180,
+"Folate, DFE",µg,25,
+"Vitamin B-12",µg,0.85,
+"Vitamin A, RAE",µg,55,
+"Vitamin A, IU",IU,204,
+"Vitamin E (alpha-tocopherol)",mg,2.61,
+"Vitamin D (D2 + D3)",µg,0.1,
+"Vitamin D",IU,3,
+"Vitamin K (phylloquinone)",µg,7.5,
+Lipids
+"Fatty acids, total saturated",g,21.723,
+"Fatty acids, total monounsaturated",g,10.884,
+"Fatty acids, total polyunsaturated",g,4.349,
+"Fatty acids, total trans",g,0.121,
+"Cholesterol",mg,22,
+Amino Acids
+Other
+"Caffeine",mg,9,

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:02 EST
+"Nutrient data for: 15074, Fish, sablefish, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","0.5 fillet = 193.0g",
+Proximates
+"Water",g,71.02,60.37,137.07
+"Energy",kcal,195,166,376
+"Protein",g,13.41,11.40,25.88
+"Total lipid (fat)",g,15.30,13.01,29.53
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,35,30,68
+"Iron, Fe",mg,1.28,1.09,2.47
+"Magnesium, Mg",mg,55,47,106
+"Phosphorus, P",mg,168,143,324
+"Potassium, K",mg,358,304,691
+"Sodium, Na",mg,56,48,108
+"Zinc, Zn",mg,0.32,0.27,0.62
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.100,0.085,0.193
+"Riboflavin",mg,0.090,0.076,0.174
+"Niacin",mg,4.000,3.400,7.720
+"Vitamin B-6",mg,0.300,0.255,0.579
+"Folate, DFE",µg,15,13,29
+"Vitamin B-12",µg,1.50,1.27,2.90
+"Vitamin A, RAE",µg,93,79,179
+"Vitamin A, IU",IU,310,264,598
+Lipids
+"Fatty acids, total saturated",g,3.201,2.721,6.178
+"Fatty acids, total monounsaturated",g,8.057,6.848,15.550
+"Fatty acids, total polyunsaturated",g,2.042,1.736,3.941
+"Cholesterol",mg,49,42,95
+Amino Acids
+Other

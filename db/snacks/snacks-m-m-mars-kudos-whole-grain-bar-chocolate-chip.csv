@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:54 EST
+"Nutrient data for: 19440, Snacks, M&M MARS, KUDOS Whole Grain Bar, chocolate chip"
+Nutrient,Unit,1Value per 100 g,"1 bar = 28.0g",
+Proximates
+"Water",g,4.90,1.37
+"Energy",kcal,420,118
+"Protein",g,4.47,1.25
+"Total lipid (fat)",g,13.02,3.65
+"Carbohydrate, by difference",g,72.31,20.25
+"Fiber, total dietary",g,2.6,0.7
+"Sugars, total",g,38.78,10.86
+Minerals
+"Calcium, Ca",mg,1084,304
+"Iron, Fe",mg,1.40,0.39
+"Magnesium, Mg",mg,70,20
+"Phosphorus, P",mg,207,58
+"Potassium, K",mg,279,78
+"Sodium, Na",mg,246,69
+"Zinc, Zn",mg,1.41,0.39
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0
+"Thiamin",mg,0.169,0.047
+"Riboflavin",mg,0.201,0.056
+"Niacin",mg,1.539,0.431
+"Vitamin B-6",mg,0.117,0.033
+"Folate, DFE",µg,13,4
+"Vitamin B-12",µg,0.14,0.04
+"Vitamin A, RAE",µg,15,4
+"Vitamin A, IU",IU,57,16
+"Vitamin E (alpha-tocopherol)",mg,10.79,3.02
+Lipids
+"Fatty acids, total saturated",g,4.701,1.316
+"Fatty acids, total monounsaturated",g,4.710,1.319
+"Fatty acids, total polyunsaturated",g,2.749,0.770
+"Fatty acids, total trans",g,0.051,0.014
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:02 EST
+"Nutrient data for: 08346, Cereals ready-to-eat, MALT-O-MEAL, COLOSSAL CRUNCH"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,2.50,0.75
+"Energy",kcal,401,120
+"Protein",g,3.64,1.09
+"Total lipid (fat)",g,5.28,1.58
+"Carbohydrate, by difference",g,81.59,24.48
+"Fiber, total dietary",g,1.7,0.5
+"Sugars, total",g,42.50,12.75
+Minerals
+"Calcium, Ca",mg,0,0
+"Iron, Fe",mg,30.00,9.00
+"Magnesium, Mg",mg,5,2
+"Phosphorus, P",mg,57,17
+"Potassium, K",mg,110,33
+"Sodium, Na",mg,806,242
+"Zinc, Zn",mg,12.50,3.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,20.0,6.0
+"Thiamin",mg,1.250,0.375
+"Riboflavin",mg,1.410,0.423
+"Niacin",mg,16.670,5.001
+"Vitamin B-6",mg,1.660,0.498
+"Folate, DFE",µg,1121,336
+"Vitamin B-12",µg,5.00,1.50
+"Vitamin A, RAE",µg,479,144
+"Vitamin A, IU",IU,1667,500
+"Vitamin E (alpha-tocopherol)",mg,0.15,0.04
+"Vitamin D (D2 + D3)",µg,3.3,1.0
+"Vitamin D",IU,133,40
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,2.240,0.672
+"Fatty acids, total monounsaturated",g,1.470,0.441
+"Fatty acids, total polyunsaturated",g,0.690,0.207
+"Fatty acids, total trans",g,0.480,0.144
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

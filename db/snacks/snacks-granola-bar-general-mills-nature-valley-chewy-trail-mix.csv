@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:53 EST
+"Nutrient data for: 25055, Snacks, granola bar, GENERAL MILLS, NATURE VALLEY, CHEWY TRAIL MIX"
+Nutrient,Unit,1Value per 100 g,"1 bar = 35.0g",
+Proximates
+"Water",g,9.30,3.25
+"Energy",kcal,415,145
+"Protein",g,5.71,2.00
+"Total lipid (fat)",g,11.43,4.00
+"Carbohydrate, by difference",g,72.27,25.29
+"Fiber, total dietary",g,3.8,1.3
+"Sugars, total",g,42.86,15.00
+Minerals
+"Calcium, Ca",mg,116,41
+"Iron, Fe",mg,8.71,3.05
+"Magnesium, Mg",mg,63,22
+"Phosphorus, P",mg,168,59
+"Potassium, K",mg,189,66
+"Sodium, Na",mg,185,65
+"Zinc, Zn",mg,1.35,0.47
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0
+"Thiamin",mg,0.640,0.224
+"Riboflavin",mg,0.391,0.137
+"Niacin",mg,5.443,1.905
+"Vitamin B-6",mg,0.520,0.182
+"Folate, DFE",µg,142,50
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,302,106
+"Vitamin A, IU",IU,1007,352
+"Vitamin E (alpha-tocopherol)",mg,2.66,0.93
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,7.5,2.6
+Lipids
+"Fatty acids, total saturated",g,1.435,0.502
+"Fatty acids, total monounsaturated",g,4.585,1.605
+"Fatty acids, total polyunsaturated",g,4.028,1.410
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

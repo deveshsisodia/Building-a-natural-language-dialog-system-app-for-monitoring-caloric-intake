@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:49 EST
+"Nutrient data for: 10101, Pork, fresh, variety meats and by-products, ears, frozen, cooked, simmered"
+Nutrient,Unit,1Value per 100 g,"1 ear (yield after cooking) = 111.0g","1 unit, cooked (yield from 1 lb raw meat) = 422.0g",
+Proximates
+"Water",g,72.65,80.64,306.58
+"Energy",kcal,166,184,701
+"Protein",g,15.95,17.70,67.31
+"Total lipid (fat)",g,10.80,11.99,45.58
+"Carbohydrate, by difference",g,0.20,0.22,0.84
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,18,20,76
+"Iron, Fe",mg,1.50,1.67,6.33
+"Magnesium, Mg",mg,7,8,30
+"Phosphorus, P",mg,24,27,101
+"Potassium, K",mg,40,44,169
+"Sodium, Na",mg,167,185,705
+"Zinc, Zn",mg,0.20,0.22,0.84
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.020,0.022,0.084
+"Riboflavin",mg,0.070,0.078,0.295
+"Niacin",mg,0.560,0.622,2.363
+"Vitamin B-6",mg,0.010,0.011,0.042
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.04,0.04,0.17
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,3.860,4.285,16.289
+"Fatty acids, total monounsaturated",g,4.910,5.450,20.720
+"Fatty acids, total polyunsaturated",g,1.150,1.276,4.853
+"Cholesterol",mg,90,100,380
+Amino Acids
+Other

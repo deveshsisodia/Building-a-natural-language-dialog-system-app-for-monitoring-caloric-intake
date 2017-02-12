@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:05 EST
+"Nutrient data for: 17210, Lamb, variety meats and by-products, pancreas, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","4.0 oz = 113.0g",
+Proximates
+"Water",g,73.77,20.91,83.36
+"Energy",kcal,152,43,172
+"Protein",g,14.84,4.21,16.77
+"Total lipid (fat)",g,9.82,2.78,11.10
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,8,2,9
+"Iron, Fe",mg,2.30,0.65,2.60
+"Magnesium, Mg",mg,21,6,24
+"Phosphorus, P",mg,400,113,452
+"Potassium, K",mg,420,119,475
+"Sodium, Na",mg,75,21,85
+"Zinc, Zn",mg,1.93,0.55,2.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,18.0,5.1,20.3
+"Thiamin",mg,0.030,0.009,0.034
+"Riboflavin",mg,0.250,0.071,0.282
+"Niacin",mg,3.700,1.049,4.181
+"Vitamin B-6",mg,0.070,0.020,0.079
+"Folate, DFE",µg,13,4,15
+"Vitamin B-12",µg,6.00,1.70,6.78
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,4.440,1.259,5.017
+"Fatty acids, total monounsaturated",g,3.540,1.004,4.000
+"Fatty acids, total polyunsaturated",g,0.480,0.136,0.542
+"Cholesterol",mg,260,74,294
+Amino Acids
+Other

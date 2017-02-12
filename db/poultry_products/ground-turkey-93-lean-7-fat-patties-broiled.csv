@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:37 EST
+"Nutrient data for: 05667, Ground turkey, 93% lean, 7% fat, patties, broiled"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,62.42,53.06
+"Energy",kcal,207,176
+"Protein",g,25.86,21.98
+"Total lipid (fat)",g,11.45,9.73
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,29,25
+"Iron, Fe",mg,1.73,1.47
+"Magnesium, Mg",mg,25,21
+"Phosphorus, P",mg,210,178
+"Potassium, K",mg,247,210
+"Sodium, Na",mg,91,77
+"Zinc, Zn",mg,3.71,3.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.080,0.068
+"Riboflavin",mg,0.232,0.197
+"Niacin",mg,6.640,5.644
+"Vitamin B-6",mg,0.471,0.400
+"Folate, DFE",µg,7,6
+"Vitamin B-12",µg,1.80,1.53
+"Vitamin A, RAE",µg,31,26
+"Vitamin A, IU",IU,105,89
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.11
+"Vitamin D (D2 + D3)",µg,0.2,0.2
+"Vitamin D",IU,8,7
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,2.958,2.514
+"Fatty acids, total monounsaturated",g,3.875,3.294
+"Fatty acids, total polyunsaturated",g,3.545,3.013
+"Fatty acids, total trans",g,0.143,0.122
+"Cholesterol",mg,106,90
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:33 EST
+"Nutrient data for: 28329, Cookies, chocolate, made with rice cereal"
+Nutrient,Unit,1Value per 100 g,"1 cookie = 62.0g",
+Proximates
+"Water",g,13.02,8.07
+"Energy",kcal,440,273
+"Protein",g,3.23,2.00
+"Total lipid (fat)",g,19.35,12.00
+"Carbohydrate, by difference",g,63.26,39.22
+"Fiber, total dietary",g,1.6,1.0
+"Sugars, total",g,40.32,25.00
+Minerals
+"Calcium, Ca",mg,32,20
+"Iron, Fe",mg,2.49,1.54
+"Magnesium, Mg",mg,38,24
+"Phosphorus, P",mg,96,60
+"Potassium, K",mg,227,141
+"Sodium, Na",mg,210,130
+"Zinc, Zn",mg,0.67,0.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.347,0.215
+"Riboflavin",mg,0.401,0.249
+"Niacin",mg,3.539,2.194
+"Vitamin B-6",mg,0.328,0.203
+"Folate, DFE",µg,37,23
+"Vitamin B-12",µg,0.07,0.04
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.96,1.22
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,4.0,2.5
+Lipids
+"Fatty acids, total saturated",g,11.290,7.000
+"Fatty acids, total monounsaturated",g,3.966,2.459
+"Fatty acids, total polyunsaturated",g,3.013,1.868
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,2,1

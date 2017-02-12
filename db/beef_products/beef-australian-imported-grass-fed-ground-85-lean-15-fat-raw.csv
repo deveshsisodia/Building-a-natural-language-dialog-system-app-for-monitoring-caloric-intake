@@ -1,0 +1,30 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:31 EST
+"Nutrient data for: 23293, Beef, Australian, imported, grass-fed, ground, 85% lean / 15% fat, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz (4 oz) = 114.0g",
+Proximates
+"Water",g,63.56,72.46
+"Energy",kcal,234,267
+"Protein",g,17.72,20.20
+"Total lipid (fat)",g,18.12,20.66
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,6,7
+"Iron, Fe",mg,1.79,2.04
+"Sodium, Na",mg,62,71
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,7.938,9.049
+"Fatty acids, total monounsaturated",g,7.969,9.085
+"Fatty acids, total polyunsaturated",g,0.699,0.797
+"Fatty acids, total trans",g,0.906,1.033
+"Cholesterol",mg,66,75
+Amino Acids
+Other
+"Caffeine",mg,0,0

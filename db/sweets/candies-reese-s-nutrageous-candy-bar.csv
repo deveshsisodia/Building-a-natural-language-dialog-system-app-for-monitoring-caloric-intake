@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:38 EST
+"Nutrient data for: 19239, Candies, REESE'S NUTRAGEOUS Candy Bar"
+Nutrient,Unit,1Value per 100 g,"1 bar 1.92 oz = 54.0g","2.0 bars = 34.0g",
+Proximates
+"Water",g,1.50,0.81,0.51
+"Energy",kcal,517,279,176
+"Protein",g,11.28,6.09,3.84
+"Total lipid (fat)",g,32.09,17.33,10.91
+"Carbohydrate, by difference",g,52.80,28.51,17.95
+"Fiber, total dietary",g,3.9,2.1,1.3
+"Sugars, total",g,40.22,21.72,13.67
+Minerals
+"Calcium, Ca",mg,68,37,23
+"Iron, Fe",mg,1.23,0.66,0.42
+"Magnesium, Mg",mg,68,37,23
+"Phosphorus, P",mg,175,94,60
+"Potassium, K",mg,364,197,124
+"Sodium, Na",mg,141,76,48
+"Zinc, Zn",mg,1.29,0.70,0.44
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.3,0.2
+"Thiamin",mg,0.180,0.097,0.061
+"Riboflavin",mg,0.100,0.054,0.034
+"Niacin",mg,5.250,2.835,1.785
+"Vitamin B-6",mg,0.100,0.054,0.034
+"Vitamin A, IU",IU,36,19,12
+Lipids
+"Fatty acids, total saturated",g,8.860,4.784,3.012
+"Fatty acids, total monounsaturated",g,12.630,6.820,4.294
+"Fatty acids, total polyunsaturated",g,8.090,4.369,2.751
+"Cholesterol",mg,3,2,1
+Amino Acids
+Other

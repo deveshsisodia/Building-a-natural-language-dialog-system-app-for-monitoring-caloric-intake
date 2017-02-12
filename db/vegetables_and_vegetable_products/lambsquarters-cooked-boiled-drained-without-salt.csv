@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:22 EST
+"Nutrient data for: 11245, Lambsquarters, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 180.0g",
+Proximates
+"Water",g,88.90,160.02
+"Energy",kcal,32,58
+"Protein",g,3.20,5.76
+"Total lipid (fat)",g,0.70,1.26
+"Carbohydrate, by difference",g,5.00,9.00
+"Fiber, total dietary",g,2.1,3.8
+"Sugars, total",g,0.62,1.12
+Minerals
+"Calcium, Ca",mg,258,464
+"Iron, Fe",mg,0.70,1.26
+"Magnesium, Mg",mg,23,41
+"Phosphorus, P",mg,45,81
+"Potassium, K",mg,288,518
+"Sodium, Na",mg,29,52
+"Zinc, Zn",mg,0.30,0.54
+Vitamins
+"Vitamin C, total ascorbic acid",mg,37.0,66.6
+"Thiamin",mg,0.100,0.180
+"Riboflavin",mg,0.260,0.468
+"Niacin",mg,0.900,1.620
+"Vitamin B-6",mg,0.174,0.313
+"Folate, DFE",µg,14,25
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,391,704
+"Vitamin A, IU",IU,7816,14069
+"Vitamin E (alpha-tocopherol)",mg,1.85,3.33
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,494.2,889.6
+Lipids
+"Fatty acids, total saturated",g,0.052,0.094
+"Fatty acids, total monounsaturated",g,0.131,0.236
+"Fatty acids, total polyunsaturated",g,0.307,0.553
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

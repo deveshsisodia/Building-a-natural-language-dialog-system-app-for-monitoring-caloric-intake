@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:07 EST
+"Nutrient data for: 12101, Nuts, chestnuts, european, boiled and steamed"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,68.15,19.32
+"Energy",kcal,131,37
+"Protein",g,2.00,0.57
+"Total lipid (fat)",g,1.38,0.39
+"Carbohydrate, by difference",g,27.76,7.87
+Minerals
+"Calcium, Ca",mg,46,13
+"Iron, Fe",mg,1.73,0.49
+"Magnesium, Mg",mg,54,15
+"Phosphorus, P",mg,99,28
+"Potassium, K",mg,715,203
+"Sodium, Na",mg,27,8
+"Zinc, Zn",mg,0.25,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,26.7,7.6
+"Thiamin",mg,0.148,0.042
+"Riboflavin",mg,0.104,0.029
+"Niacin",mg,0.731,0.207
+"Vitamin B-6",mg,0.233,0.066
+"Folate, DFE",µg,38,11
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1,0
+"Vitamin A, IU",IU,17,5
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.260,0.074
+"Fatty acids, total monounsaturated",g,0.476,0.135
+"Fatty acids, total polyunsaturated",g,0.545,0.155
+"Cholesterol",mg,0,0
+Amino Acids
+Other

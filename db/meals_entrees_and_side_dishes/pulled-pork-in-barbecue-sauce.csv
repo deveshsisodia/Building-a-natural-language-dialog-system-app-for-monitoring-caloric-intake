@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:25 EST
+"Nutrient data for: 22972, Pulled pork in barbecue sauce"
+Nutrient,Unit,1Value per 100 g,"1 cup = 249.0g",
+Proximates
+"Water",g,60.99,151.87
+"Energy",kcal,168,418
+"Protein",g,13.19,32.84
+"Total lipid (fat)",g,4.42,11.01
+"Carbohydrate, by difference",g,18.74,46.66
+"Fiber, total dietary",g,1.2,3.0
+"Sugars, total",g,15.20,37.85
+Minerals
+"Calcium, Ca",mg,44,110
+"Iron, Fe",mg,1.24,3.09
+"Magnesium, Mg",mg,22,55
+"Phosphorus, P",mg,161,401
+"Potassium, K",mg,305,759
+"Sodium, Na",mg,666,1658
+"Zinc, Zn",mg,1.85,4.61
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.5
+"Thiamin",mg,0.166,0.413
+"Riboflavin",mg,0.128,0.319
+"Niacin",mg,3.032,7.550
+"Vitamin B-6",mg,0.248,0.618
+"Folate, DFE",µg,2,5
+"Vitamin B-12",µg,0.41,1.02
+"Vitamin A, RAE",µg,13,32
+"Vitamin A, IU",IU,264,657
+"Vitamin E (alpha-tocopherol)",mg,0.89,2.22
+"Vitamin D (D2 + D3)",µg,0.2,0.5
+"Vitamin D",IU,8,20
+"Vitamin K (phylloquinone)",µg,1.4,3.5
+Lipids
+"Fatty acids, total saturated",g,1.416,3.526
+"Fatty acids, total monounsaturated",g,1.813,4.514
+"Fatty acids, total polyunsaturated",g,0.757,1.885
+"Fatty acids, total trans",g,0.019,0.047
+"Cholesterol",mg,35,87
+Amino Acids
+Other
+"Caffeine",mg,0,0

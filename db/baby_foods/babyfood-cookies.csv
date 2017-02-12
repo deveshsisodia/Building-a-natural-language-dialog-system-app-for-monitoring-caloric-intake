@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:42 EST
+"Nutrient data for: 03213, Babyfood, cookies"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cookie = 6.5g",
+Proximates
+"Water",g,5.90,1.67,0.38
+"Energy",kcal,433,123,28
+"Protein",g,11.80,3.35,0.77
+"Total lipid (fat)",g,13.20,3.74,0.86
+"Carbohydrate, by difference",g,67.10,19.02,4.36
+"Fiber, total dietary",g,0.2,0.1,0.0
+"Sugars, total",g,24.20,6.86,1.57
+Minerals
+"Calcium, Ca",mg,101,29,7
+"Iron, Fe",mg,4.18,1.19,0.27
+"Magnesium, Mg",mg,49,14,3
+"Phosphorus, P",mg,179,51,12
+"Potassium, K",mg,501,142,33
+"Sodium, Na",mg,300,85,20
+"Zinc, Zn",mg,1.10,0.31,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.0,2.0,0.5
+"Thiamin",mg,1.459,0.414,0.095
+"Riboflavin",mg,3.229,0.915,0.210
+"Niacin",mg,15.966,4.526,1.038
+"Vitamin B-6",mg,5.899,1.672,0.383
+"Folate, DFE",µg,145,41,9
+"Vitamin B-12",µg,0.46,0.13,0.03
+"Vitamin A, RAE",µg,6,2,0
+"Vitamin A, IU",IU,23,7,1
+"Vitamin E (alpha-tocopherol)",mg,0.46,0.13,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.1,0.3,0.1
+Lipids
+"Fatty acids, total saturated",g,2.352,0.667,0.153
+"Fatty acids, total monounsaturated",g,5.990,1.698,0.389
+"Fatty acids, total polyunsaturated",g,2.878,0.816,0.187
+"Fatty acids, total trans",g,0.020,0.006,0.001
+"Cholesterol",mg,12,3,1
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

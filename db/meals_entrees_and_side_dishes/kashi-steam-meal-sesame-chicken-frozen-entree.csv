@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:23 EST
+"Nutrient data for: 22991, KASHI, STEAM MEAL, Sesame Chicken, Frozen Entree"
+Nutrient,Unit,1Value per 100 g,"1 package = 269.0g",
+Proximates
+"Water",g,73.20,196.91
+"Energy",kcal,110,296
+"Protein",g,6.10,16.41
+"Total lipid (fat)",g,3.50,9.41
+"Carbohydrate, by difference",g,15.70,42.23
+"Fiber, total dietary",g,2.9,7.8
+"Sugars, total",g,3.00,8.07
+Minerals
+"Calcium, Ca",mg,26,70
+"Iron, Fe",mg,1.00,2.69
+"Magnesium, Mg",mg,20,54
+"Phosphorus, P",mg,56,151
+"Potassium, K",mg,204,549
+"Sodium, Na",mg,233,627
+"Zinc, Zn",mg,0.40,1.08
+Vitamins
+"Thiamin",mg,0.090,0.242
+"Riboflavin",mg,0.040,0.108
+"Niacin",mg,0.600,1.614
+"Vitamin B-6",mg,0.100,0.269
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.800,2.152
+"Fatty acids, total monounsaturated",g,0.900,2.421
+"Fatty acids, total polyunsaturated",g,0.900,2.421
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,11,30
+Amino Acids
+Other

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:49 EST
+"Nutrient data for: 03826, Infant formula, MEAD JOHNSON, ENFAMIL, PROSOBEE, with iron, powder, not reconstituted"
+Nutrient,Unit,1Value per 100 g,"1 scoop = 8.8g",
+Proximates
+"Water",g,3.00,0.26
+"Energy",kcal,510,45
+"Protein",g,12.50,1.10
+"Total lipid (fat)",g,27.00,2.38
+"Carbohydrate, by difference",g,54.30,4.78
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,53.00,4.66
+Minerals
+"Calcium, Ca",mg,530,47
+"Iron, Fe",mg,9.00,0.79
+"Magnesium, Mg",mg,55,5
+"Phosphorus, P",mg,420,37
+"Potassium, K",mg,600,53
+"Sodium, Na",mg,180,16
+"Zinc, Zn",mg,6.00,0.53
+Vitamins
+"Vitamin C, total ascorbic acid",mg,60.0,5.3
+"Thiamin",mg,0.400,0.035
+"Riboflavin",mg,0.450,0.040
+"Niacin",mg,5.000,0.440
+"Vitamin B-6",mg,0.300,0.026
+"Folate, DFE",µg,136,12
+"Vitamin B-12",µg,1.50,0.13
+"Vitamin A, RAE",µg,450,40
+"Vitamin A, IU",IU,1500,132
+"Vitamin E (alpha-tocopherol)",mg,6.70,0.59
+"Vitamin D (D2 + D3)",µg,7.5,0.7
+"Vitamin D",IU,300,26
+"Vitamin K (phylloquinone)",µg,40.0,3.5
+Lipids
+"Fatty acids, total saturated",g,11.370,1.001
+"Fatty acids, total monounsaturated",g,10.320,0.908
+"Fatty acids, total polyunsaturated",g,5.200,0.458
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

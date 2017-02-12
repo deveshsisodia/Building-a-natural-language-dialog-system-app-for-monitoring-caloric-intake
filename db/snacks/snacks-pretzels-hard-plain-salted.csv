@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 19047, Snacks, pretzels, hard, plain, salted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","10.0 twists = 60.0g",
+Proximates
+"Water",g,3.13,0.89,1.88
+"Energy",kcal,384,109,230
+"Protein",g,10.04,2.85,6.02
+"Total lipid (fat)",g,2.93,0.83,1.76
+"Carbohydrate, by difference",g,80.39,22.79,48.23
+"Fiber, total dietary",g,3.4,1.0,2.0
+"Sugars, total",g,2.21,0.63,1.33
+Minerals
+"Calcium, Ca",mg,27,8,16
+"Iron, Fe",mg,4.58,1.30,2.75
+"Magnesium, Mg",mg,29,8,17
+"Phosphorus, P",mg,128,36,77
+"Potassium, K",mg,223,63,134
+"Sodium, Na",mg,1240,352,744
+"Zinc, Zn",mg,1.04,0.29,0.62
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.1,0.6,1.3
+"Thiamin",mg,0.424,0.120,0.254
+"Riboflavin",mg,0.332,0.094,0.199
+"Niacin",mg,5.270,1.494,3.162
+"Vitamin B-6",mg,0.074,0.021,0.044
+"Folate, DFE",µg,166,47,100
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.47,0.13,0.28
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,2.8,0.8,1.7
+Lipids
+"Fatty acids, total saturated",g,0.391,0.111,0.235
+"Fatty acids, total monounsaturated",g,0.727,0.206,0.436
+"Fatty acids, total polyunsaturated",g,1.291,0.366,0.775
+"Fatty acids, total trans",g,0.004,0.001,0.002
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

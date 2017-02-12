@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:02 EST
+"Nutrient data for: 08487, Cereals ready-to-eat, MALT-O-MEAL, Blueberry MUFFIN TOPS Cereal"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,1.10,0.33
+"Energy",kcal,443,133
+"Protein",g,4.90,1.47
+"Total lipid (fat)",g,11.48,3.44
+"Carbohydrate, by difference",g,79.91,23.97
+"Fiber, total dietary",g,4.7,1.4
+"Sugars, total",g,35.36,10.61
+Minerals
+"Calcium, Ca",mg,338,101
+"Iron, Fe",mg,34.29,10.29
+"Magnesium, Mg",mg,38,11
+"Phosphorus, P",mg,176,53
+"Potassium, K",mg,179,54
+"Sodium, Na",mg,462,139
+"Zinc, Zn",mg,14.68,4.40
+Vitamins
+"Vitamin C, total ascorbic acid",mg,25.0,7.5
+"Thiamin",mg,1.500,0.450
+"Riboflavin",mg,1.600,0.480
+"Niacin",mg,19.640,5.892
+"Vitamin B-6",mg,1.960,0.588
+"Folate, DFE",µg,1121,336
+"Vitamin B-12",µg,5.00,1.50
+"Vitamin A, RAE",µg,500,150
+"Vitamin A, IU",IU,1665,500
+"Vitamin E (alpha-tocopherol)",mg,0.97,0.29
+"Vitamin D (D2 + D3)",µg,3.2,1.0
+"Vitamin D",IU,130,39
+"Vitamin K (phylloquinone)",µg,1.6,0.5
+Lipids
+"Fatty acids, total saturated",g,1.660,0.498
+"Fatty acids, total monounsaturated",g,3.520,1.056
+"Fatty acids, total polyunsaturated",g,4.130,1.239
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

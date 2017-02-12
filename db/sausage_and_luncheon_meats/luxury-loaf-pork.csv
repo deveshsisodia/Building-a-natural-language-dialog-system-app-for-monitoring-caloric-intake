@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:16 EST
+"Nutrient data for: 07060, Luxury loaf, pork"
+Nutrient,Unit,1Value per 100 g,"1 slice (1 oz) (4"" x 4"" x 3/32"" thick) = 28.0g","2.0 slices = 57.0g",
+Proximates
+"Water",g,68.20,19.10,38.87
+"Energy",kcal,141,39,80
+"Protein",g,18.40,5.15,10.49
+"Total lipid (fat)",g,4.80,1.34,2.74
+"Carbohydrate, by difference",g,4.90,1.37,2.79
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,36,10,21
+"Iron, Fe",mg,1.05,0.29,0.60
+"Magnesium, Mg",mg,20,6,11
+"Phosphorus, P",mg,185,52,105
+"Potassium, K",mg,377,106,215
+"Sodium, Na",mg,1225,343,698
+"Zinc, Zn",mg,3.05,0.85,1.74
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.707,0.198,0.403
+"Riboflavin",mg,0.297,0.083,0.169
+"Niacin",mg,3.482,0.975,1.985
+"Vitamin B-6",mg,0.310,0.087,0.177
+"Folate, DFE",µg,2,1,1
+"Vitamin B-12",µg,1.37,0.38,0.78
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin D (D2 + D3)",µg,0.7,0.2,0.4
+"Vitamin D",IU,28,8,16
+Lipids
+"Fatty acids, total saturated",g,1.580,0.442,0.901
+"Fatty acids, total monounsaturated",g,2.330,0.652,1.328
+"Fatty acids, total polyunsaturated",g,0.510,0.143,0.291
+"Cholesterol",mg,36,10,21
+Amino Acids
+Other

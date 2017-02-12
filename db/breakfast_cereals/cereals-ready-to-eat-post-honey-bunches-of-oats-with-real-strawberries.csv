@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:03 EST
+"Nutrient data for: 08662, Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, with real strawberries"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 31.0g",
+Proximates
+"Water",g,2.90,0.90
+"Energy",kcal,399,124
+"Protein",g,6.70,2.08
+"Total lipid (fat)",g,4.90,1.52
+"Carbohydrate, by difference",g,83.30,25.82
+"Fiber, total dietary",g,5.4,1.7
+"Sugars, total",g,24.00,7.44
+Minerals
+"Calcium, Ca",mg,26,8
+"Iron, Fe",mg,26.10,8.09
+"Magnesium, Mg",mg,46,14
+"Phosphorus, P",mg,139,43
+"Potassium, K",mg,219,68
+"Sodium, Na",mg,410,127
+"Zinc, Zn",mg,1.00,0.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,15.6,4.8
+"Thiamin",mg,1.200,0.372
+"Riboflavin",mg,1.400,0.434
+"Niacin",mg,16.100,4.991
+"Vitamin B-6",mg,1.700,0.527
+"Folate, DFE",µg,535,166
+"Vitamin B-12",µg,4.80,1.49
+"Vitamin A, IU",IU,2419,750
+"Vitamin D (D2 + D3)",µg,3.2,1.0
+"Vitamin D",IU,129,40
+Lipids
+"Fatty acids, total saturated",g,0.600,0.186
+"Fatty acids, total monounsaturated",g,2.500,0.775
+"Fatty acids, total polyunsaturated",g,1.500,0.465
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

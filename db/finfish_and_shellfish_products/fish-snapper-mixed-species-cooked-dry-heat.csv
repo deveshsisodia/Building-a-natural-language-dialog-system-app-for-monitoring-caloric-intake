@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:04 EST
+"Nutrient data for: 15102, Fish, snapper, mixed species, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 fillet = 170.0g",
+Proximates
+"Water",g,70.35,59.80,119.59
+"Energy",kcal,128,109,218
+"Protein",g,26.30,22.36,44.71
+"Total lipid (fat)",g,1.72,1.46,2.92
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,40,34,68
+"Iron, Fe",mg,0.24,0.20,0.41
+"Magnesium, Mg",mg,37,31,63
+"Phosphorus, P",mg,201,171,342
+"Potassium, K",mg,522,444,887
+"Sodium, Na",mg,57,48,97
+"Zinc, Zn",mg,0.44,0.37,0.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.6,1.4,2.7
+"Thiamin",mg,0.053,0.045,0.090
+"Riboflavin",mg,0.004,0.003,0.007
+"Niacin",mg,0.346,0.294,0.588
+"Vitamin B-6",mg,0.460,0.391,0.782
+"Folate, DFE",µg,6,5,10
+"Vitamin B-12",µg,3.50,2.98,5.95
+"Vitamin A, RAE",µg,35,30,60
+"Vitamin A, IU",IU,115,98,196
+Lipids
+"Fatty acids, total saturated",g,0.365,0.310,0.620
+"Fatty acids, total monounsaturated",g,0.322,0.274,0.547
+"Fatty acids, total polyunsaturated",g,0.588,0.500,1.000
+"Cholesterol",mg,47,40,80
+Amino Acids
+Other

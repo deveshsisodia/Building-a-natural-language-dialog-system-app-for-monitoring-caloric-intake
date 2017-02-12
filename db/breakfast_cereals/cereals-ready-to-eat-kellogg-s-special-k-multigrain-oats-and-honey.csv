@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:02 EST
+"Nutrient data for: 08613, Cereals ready-to-eat, KELLOGG'S SPECIAL K Multigrain Oats and Honey"
+Nutrient,Unit,1Value per 100 g,"0.666 cup (1 NLEA serving) = 29.0g",
+Proximates
+"Water",g,3.50,1.01
+"Energy",kcal,362,105
+"Protein",g,7.80,2.26
+"Total lipid (fat)",g,1.80,0.52
+"Carbohydrate, by difference",g,85.00,24.65
+"Fiber, total dietary",g,8.6,2.5
+"Sugars, total",g,26.40,7.66
+Minerals
+"Calcium, Ca",mg,18,5
+"Iron, Fe",mg,27.90,8.09
+"Magnesium, Mg",mg,78,23
+"Phosphorus, P",mg,230,67
+"Potassium, K",mg,241,70
+"Sodium, Na",mg,494,143
+"Zinc, Zn",mg,1.90,0.55
+Vitamins
+"Vitamin C, total ascorbic acid",mg,72.0,20.9
+"Thiamin",mg,1.810,0.525
+"Riboflavin",mg,2.050,0.594
+"Niacin",mg,24.100,6.989
+"Vitamin B-6",mg,2.400,0.696
+"Folate, DFE",µg,808,234
+"Vitamin B-12",µg,7.20,2.09
+"Vitamin A, IU",IU,2586,750
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,3.5,1.0
+"Vitamin D",IU,138,40
+Lipids
+"Fatty acids, total saturated",g,0.400,0.116
+"Fatty acids, total monounsaturated",g,0.500,0.145
+"Fatty acids, total polyunsaturated",g,0.900,0.261
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

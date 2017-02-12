@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:37 EST
+"Nutrient data for: 05630, Emu, outside drum, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 outside drum = 422.0g",
+Proximates
+"Water",g,74.87,63.64,315.95
+"Energy",kcal,103,88,435
+"Protein",g,23.08,19.62,97.40
+"Total lipid (fat)",g,0.48,0.41,2.03
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,3,3,13
+"Iron, Fe",mg,4.50,3.83,18.99
+"Magnesium, Mg",mg,29,25,122
+"Phosphorus, P",mg,225,191,950
+"Potassium, K",mg,320,272,1350
+"Sodium, Na",mg,100,85,422
+"Zinc, Zn",mg,4.50,3.83,18.99
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.258,0.219,1.089
+"Riboflavin",mg,0.442,0.376,1.865
+"Niacin",mg,7.245,6.158,30.574
+"Vitamin B-6",mg,0.676,0.575,2.853
+"Folate, DFE",µg,7,6,30
+"Vitamin B-12",µg,6.92,5.88,29.20
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.17,0.14,0.72
+Lipids
+"Fatty acids, total saturated",g,0.122,0.104,0.515
+"Fatty acids, total monounsaturated",g,0.202,0.172,0.852
+"Fatty acids, total polyunsaturated",g,0.070,0.060,0.295
+"Cholesterol",mg,78,66,329
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

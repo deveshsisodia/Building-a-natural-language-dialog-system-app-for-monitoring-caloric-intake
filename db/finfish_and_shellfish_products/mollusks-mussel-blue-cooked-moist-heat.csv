@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:07 EST
+"Nutrient data for: 15165, Mollusks, mussel, blue, cooked, moist heat"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,61.15,51.98
+"Energy",kcal,172,146
+"Protein",g,23.80,20.23
+"Total lipid (fat)",g,4.48,3.81
+"Carbohydrate, by difference",g,7.39,6.28
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,33,28
+"Iron, Fe",mg,6.72,5.71
+"Magnesium, Mg",mg,37,31
+"Phosphorus, P",mg,285,242
+"Potassium, K",mg,268,228
+"Sodium, Na",mg,369,314
+"Zinc, Zn",mg,2.67,2.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,13.6,11.6
+"Thiamin",mg,0.300,0.255
+"Riboflavin",mg,0.420,0.357
+"Niacin",mg,3.000,2.550
+"Vitamin B-6",mg,0.100,0.085
+"Folate, DFE",µg,76,65
+"Vitamin B-12",µg,24.00,20.40
+"Vitamin A, RAE",µg,91,77
+"Vitamin A, IU",IU,304,258
+Lipids
+"Fatty acids, total saturated",g,0.850,0.723
+"Fatty acids, total monounsaturated",g,1.014,0.862
+"Fatty acids, total polyunsaturated",g,1.212,1.030
+"Cholesterol",mg,56,48
+Amino Acids
+Other

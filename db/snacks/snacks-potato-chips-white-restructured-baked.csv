@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 42283, Snacks, potato chips, white, restructured, baked"
+Nutrient,Unit,1Value per 100 g,"1 cup = 34.0g","10.0 chips = 12.0g",
+Proximates
+"Water",g,1.40,0.48,0.17
+"Energy",kcal,469,159,56
+"Protein",g,5.00,1.70,0.60
+"Total lipid (fat)",g,18.20,6.19,2.18
+"Carbohydrate, by difference",g,71.40,24.28,8.57
+"Fiber, total dietary",g,4.8,1.6,0.6
+"Sugars, total",g,5.01,1.70,0.60
+Minerals
+"Calcium, Ca",mg,125,42,15
+"Iron, Fe",mg,0.80,0.27,0.10
+"Magnesium, Mg",mg,43,15,5
+"Phosphorus, P",mg,274,93,33
+"Potassium, K",mg,721,245,87
+"Sodium, Na",mg,554,188,66
+"Zinc, Zn",mg,0.45,0.15,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.340,0.116,0.041
+"Riboflavin",mg,0.070,0.024,0.008
+"Niacin",mg,4.090,1.391,0.491
+"Vitamin B-6",mg,0.510,0.173,0.061
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,2.18,0.74,0.26
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,7.2,2.4,0.9
+Lipids
+"Fatty acids, total saturated",g,2.631,0.895,0.316
+"Fatty acids, total monounsaturated",g,9.910,3.369,1.189
+"Fatty acids, total polyunsaturated",g,4.234,1.440,0.508
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

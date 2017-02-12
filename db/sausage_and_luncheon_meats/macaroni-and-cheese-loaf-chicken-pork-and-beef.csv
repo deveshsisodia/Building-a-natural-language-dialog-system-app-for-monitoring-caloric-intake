@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:16 EST
+"Nutrient data for: 07940, Macaroni and cheese loaf, chicken, pork and beef"
+Nutrient,Unit,1Value per 100 g,"1 slice = 38.0g",
+Proximates
+"Water",g,57.63,21.90
+"Energy",kcal,228,87
+"Protein",g,11.76,4.47
+"Total lipid (fat)",g,14.96,5.68
+"Carbohydrate, by difference",g,11.63,4.42
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,122,46
+"Iron, Fe",mg,1.20,0.46
+"Magnesium, Mg",mg,27,10
+"Phosphorus, P",mg,173,66
+"Potassium, K",mg,313,119
+"Sodium, Na",mg,3,1
+"Zinc, Zn",mg,1.51,0.57
+Vitamins
+"Vitamin C, total ascorbic acid",mg,16.7,6.3
+"Thiamin",mg,0.237,0.090
+"Riboflavin",mg,0.249,0.095
+"Niacin",mg,2.840,1.079
+"Vitamin B-6",mg,0.329,0.125
+"Folate, DFE",µg,33,13
+"Vitamin B-12",µg,0.68,0.26
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,5.614,2.133
+"Fatty acids, total monounsaturated",g,7.614,2.893
+"Fatty acids, total polyunsaturated",g,1.657,0.630
+"Cholesterol",mg,44,17
+Amino Acids
+Other
+"Caffeine",mg,0,0

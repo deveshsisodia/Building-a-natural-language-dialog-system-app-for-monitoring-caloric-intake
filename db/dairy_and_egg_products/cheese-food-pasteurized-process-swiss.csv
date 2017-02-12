@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:06 EST
+"Nutrient data for: 01047, Cheese food, pasteurized process, swiss"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 package (8 oz) = 227.0g",
+Proximates
+"Water",g,43.67,12.38,99.13
+"Energy",kcal,323,92,733
+"Protein",g,21.92,6.21,49.76
+"Total lipid (fat)",g,24.14,6.84,54.80
+"Carbohydrate, by difference",g,4.50,1.28,10.21
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,723,205,1641
+"Iron, Fe",mg,0.60,0.17,1.36
+"Magnesium, Mg",mg,28,8,64
+"Phosphorus, P",mg,526,149,1194
+"Potassium, K",mg,284,81,645
+"Sodium, Na",mg,1552,440,3523
+"Zinc, Zn",mg,3.55,1.01,8.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.014,0.004,0.032
+"Riboflavin",mg,0.400,0.113,0.908
+"Niacin",mg,0.104,0.029,0.236
+"Vitamin B-6",mg,0.035,0.010,0.079
+"Folate, DFE",µg,6,2,14
+"Vitamin B-12",µg,2.30,0.65,5.22
+"Vitamin A, RAE",µg,237,67,538
+"Vitamin A, IU",IU,856,243,1943
+Lipids
+"Fatty acids, total saturated",g,15.487,4.391,35.155
+"Fatty acids, total monounsaturated",g,6.801,1.928,15.438
+"Fatty acids, total polyunsaturated",g,0.600,0.170,1.362
+"Cholesterol",mg,82,23,186
+Amino Acids
+Other

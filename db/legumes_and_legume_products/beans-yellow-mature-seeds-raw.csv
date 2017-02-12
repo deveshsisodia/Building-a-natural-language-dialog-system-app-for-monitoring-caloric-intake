@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:57 EST
+"Nutrient data for: 16047, Beans, yellow, mature seeds, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 196.0g",
+Proximates
+"Water",g,11.10,21.76
+"Energy",kcal,345,676
+"Protein",g,22.00,43.12
+"Total lipid (fat)",g,2.60,5.10
+"Carbohydrate, by difference",g,60.70,118.97
+"Fiber, total dietary",g,25.1,49.2
+Minerals
+"Calcium, Ca",mg,166,325
+"Iron, Fe",mg,7.01,13.74
+"Magnesium, Mg",mg,222,435
+"Phosphorus, P",mg,488,956
+"Potassium, K",mg,1042,2042
+"Sodium, Na",mg,12,24
+"Zinc, Zn",mg,2.83,5.55
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.690,1.352
+"Riboflavin",mg,0.330,0.647
+"Niacin",mg,2.430,4.763
+"Vitamin B-6",mg,0.442,0.866
+"Folate, DFE",µg,389,762
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,6,12
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.671,1.315
+"Fatty acids, total monounsaturated",g,0.226,0.443
+"Fatty acids, total polyunsaturated",g,1.118,2.191
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

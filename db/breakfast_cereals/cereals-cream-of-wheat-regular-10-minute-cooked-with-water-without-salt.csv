@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:58 EST
+"Nutrient data for: 08103, Cereals, CREAM OF WHEAT, regular (10 minute), cooked with water, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 serving) = 251.0g","1 tbsp = 16.0g",
+Proximates
+"Water",g,87.61,219.90,14.02
+"Energy",kcal,50,126,8
+"Protein",g,1.44,3.61,0.23
+"Total lipid (fat)",g,0.21,0.53,0.03
+"Carbohydrate, by difference",g,10.52,26.41,1.68
+"Fiber, total dietary",g,0.5,1.3,0.1
+"Sugars, total",g,0.03,0.08,0.00
+Minerals
+"Calcium, Ca",mg,87,218,14
+"Iron, Fe",mg,3.74,9.39,0.60
+"Magnesium, Mg",mg,5,13,1
+"Phosphorus, P",mg,15,38,2
+"Potassium, K",mg,16,40,3
+"Sodium, Na",mg,6,15,1
+"Zinc, Zn",mg,0.13,0.33,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.055,0.138,0.009
+"Riboflavin",mg,0.025,0.063,0.004
+"Niacin",mg,0.520,1.305,0.083
+"Vitamin B-6",mg,0.013,0.033,0.002
+"Folate, DFE",µg,18,45,3
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.05,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.3,0.0
+Lipids
+"Fatty acids, total saturated",g,0.033,0.083,0.005
+"Fatty acids, total monounsaturated",g,0.028,0.070,0.004
+"Fatty acids, total polyunsaturated",g,0.114,0.286,0.018
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

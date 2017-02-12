@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08595, Cereals ready-to-eat, GENERAL MILLS, Cinnamon CHEX"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,2.31,0.69
+"Energy",kcal,403,121
+"Protein",g,5.00,1.50
+"Total lipid (fat)",g,6.59,1.98
+"Carbohydrate, by difference",g,82.40,24.72
+"Fiber, total dietary",g,2.4,0.7
+"Sugars, total",g,26.10,7.83
+Minerals
+"Calcium, Ca",mg,333,100
+"Iron, Fe",mg,27.00,8.10
+"Magnesium, Mg",mg,27,8
+"Phosphorus, P",mg,67,20
+"Potassium, K",mg,126,38
+"Sodium, Na",mg,605,182
+"Zinc, Zn",mg,12.50,3.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,20.0,6.0
+"Thiamin",mg,1.290,0.387
+"Riboflavin",mg,1.390,0.417
+"Niacin",mg,16.700,5.010
+"Vitamin B-6",mg,1.660,0.498
+"Folate, DFE",µg,1131,339
+"Vitamin B-12",µg,5.00,1.50
+"Vitamin A, RAE",µg,749,225
+"Vitamin A, IU",IU,2500,750
+"Vitamin E (alpha-tocopherol)",mg,1.51,0.45
+"Vitamin D (D2 + D3)",µg,3.3,1.0
+"Vitamin D",IU,133,40
+"Vitamin K (phylloquinone)",µg,5.3,1.6
+Lipids
+"Fatty acids, total saturated",g,0.600,0.180
+"Fatty acids, total monounsaturated",g,4.300,1.290
+"Fatty acids, total polyunsaturated",g,1.200,0.360
+"Fatty acids, total trans",g,0.100,0.030
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

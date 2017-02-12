@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:15 EST
+"Nutrient data for: 11018, Asparagus, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"4.0 spears = 58.0g","1 package (10 oz) = 284.0g",
+Proximates
+"Water",g,91.82,53.26,260.77
+"Energy",kcal,24,14,68
+"Protein",g,3.23,1.87,9.17
+"Total lipid (fat)",g,0.23,0.13,0.65
+"Carbohydrate, by difference",g,4.10,2.38,11.64
+"Fiber, total dietary",g,1.9,1.1,5.4
+Minerals
+"Calcium, Ca",mg,25,14,71
+"Iron, Fe",mg,0.73,0.42,2.07
+"Magnesium, Mg",mg,14,8,40
+"Phosphorus, P",mg,64,37,182
+"Potassium, K",mg,253,147,719
+"Sodium, Na",mg,8,5,23
+"Zinc, Zn",mg,0.59,0.34,1.68
+Vitamins
+"Vitamin C, total ascorbic acid",mg,31.8,18.4,90.3
+"Thiamin",mg,0.121,0.070,0.344
+"Riboflavin",mg,0.131,0.076,0.372
+"Niacin",mg,1.202,0.697,3.414
+"Vitamin B-6",mg,0.111,0.064,0.315
+"Folate, DFE",µg,191,111,542
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,47,27,133
+"Vitamin A, IU",IU,948,550,2692
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.052,0.030,0.148
+"Fatty acids, total monounsaturated",g,0.007,0.004,0.020
+"Fatty acids, total polyunsaturated",g,0.101,0.059,0.287
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

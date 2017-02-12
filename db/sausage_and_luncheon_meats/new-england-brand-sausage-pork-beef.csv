@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:16 EST
+"Nutrient data for: 07091, New england brand sausage, pork, beef"
+Nutrient,Unit,1Value per 100 g,"1 slice (4"" dia x 1/8"" thick) = 23.0g","1 oz = 28.35g",
+Proximates
+"Water",g,66.77,15.36,18.93
+"Energy",kcal,161,37,46
+"Protein",g,17.27,3.97,4.90
+"Total lipid (fat)",g,7.58,1.74,2.15
+"Carbohydrate, by difference",g,4.83,1.11,1.37
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,7,2,2
+"Iron, Fe",mg,0.94,0.22,0.27
+"Magnesium, Mg",mg,16,4,5
+"Phosphorus, P",mg,136,31,39
+"Potassium, K",mg,321,74,91
+"Sodium, Na",mg,1220,281,346
+"Zinc, Zn",mg,2.70,0.62,0.77
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.640,0.147,0.181
+"Riboflavin",mg,0.248,0.057,0.070
+"Niacin",mg,3.478,0.800,0.986
+"Vitamin B-6",mg,0.360,0.083,0.102
+"Folate, DFE",µg,7,2,2
+"Vitamin B-12",µg,1.34,0.31,0.38
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,2.560,0.589,0.726
+"Fatty acids, total monounsaturated",g,3.640,0.837,1.032
+"Fatty acids, total polyunsaturated",g,0.720,0.166,0.204
+"Cholesterol",mg,49,11,14
+Amino Acids
+Other

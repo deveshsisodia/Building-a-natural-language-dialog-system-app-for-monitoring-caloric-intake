@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:31 EST
+"Nutrient data for: 18953, Bread, salvadoran sweet cheese (quesadilla salvadorena)"
+Nutrient,Unit,1Value per 100 g,"1 serving (approximate serving size) = 55.0g","1 cake square (average weight of whole item) = 399.0g",
+Proximates
+"Water",g,25.48,14.01,101.67
+"Energy",kcal,374,206,1492
+"Protein",g,7.12,3.92,28.41
+"Total lipid (fat)",g,17.12,9.42,68.31
+"Carbohydrate, by difference",g,47.84,26.31,190.88
+"Fiber, total dietary",g,0.7,0.4,2.8
+"Sugars, total",g,24.90,13.70,99.35
+Minerals
+"Calcium, Ca",mg,73,40,291
+"Iron, Fe",mg,0.98,0.54,3.91
+"Magnesium, Mg",mg,11,6,44
+"Phosphorus, P",mg,200,110,798
+"Potassium, K",mg,350,192,1396
+"Sodium, Na",mg,510,280,2035
+"Zinc, Zn",mg,0.80,0.44,3.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.020,0.011,0.080
+"Riboflavin",mg,0.080,0.044,0.319
+"Niacin",mg,1.200,0.660,4.788
+"Vitamin B-6",mg,0.040,0.022,0.160
+"Folate, DFE",µg,48,26,192
+"Vitamin B-12",µg,0.35,0.19,1.40
+"Vitamin A, RAE",µg,141,78,563
+"Vitamin A, IU",IU,584,321,2330
+"Vitamin E (alpha-tocopherol)",mg,0.96,0.53,3.83
+"Vitamin D (D2 + D3)",µg,0.3,0.2,1.2
+"Vitamin D",IU,14,8,56
+"Vitamin K (phylloquinone)",µg,11.2,6.2,44.7
+Lipids
+"Fatty acids, total saturated",g,4.612,2.537,18.402
+"Fatty acids, total monounsaturated",g,6.794,3.737,27.108
+"Fatty acids, total polyunsaturated",g,4.428,2.435,17.668
+"Fatty acids, total trans",g,2.027,1.115,8.088
+"Cholesterol",mg,59,32,235
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

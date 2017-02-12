@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:12 EST
+"Nutrient data for: 20117, Noodles, japanese, somen, cooked"
+Nutrient,Unit,1Value per 100 g,"1 cup = 176.0g",
+Proximates
+"Water",g,67.91,119.52
+"Energy",kcal,131,231
+"Protein",g,4.00,7.04
+"Total lipid (fat)",g,0.18,0.32
+"Carbohydrate, by difference",g,27.54,48.47
+Minerals
+"Calcium, Ca",mg,8,14
+"Iron, Fe",mg,0.52,0.92
+"Magnesium, Mg",mg,2,4
+"Phosphorus, P",mg,27,48
+"Potassium, K",mg,29,51
+"Sodium, Na",mg,161,283
+"Zinc, Zn",mg,0.22,0.39
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.020,0.035
+"Riboflavin",mg,0.033,0.058
+"Niacin",mg,0.097,0.171
+"Vitamin B-6",mg,0.013,0.023
+"Folate, DFE",µg,2,4
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.025,0.044
+"Fatty acids, total monounsaturated",g,0.021,0.037
+"Fatty acids, total polyunsaturated",g,0.073,0.128
+"Cholesterol",mg,0,0
+Amino Acids
+Other

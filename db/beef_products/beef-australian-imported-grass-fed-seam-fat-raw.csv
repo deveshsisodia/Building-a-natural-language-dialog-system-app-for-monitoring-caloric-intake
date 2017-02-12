@@ -1,0 +1,29 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:32 EST
+"Nutrient data for: 23297, Beef, Australian, imported, grass-fed, seam fat, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,31.20,8.85
+"Energy",kcal,562,159
+"Protein",g,9.58,2.72
+"Total lipid (fat)",g,57.73,16.37
+"Carbohydrate, by difference",g,1.06,0.30
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,3,1
+"Iron, Fe",mg,0.89,0.25
+"Sodium, Na",mg,34,10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Vitamin A, RAE",µg,36,10
+"Vitamin A, IU",IU,120,34
+Lipids
+"Fatty acids, total saturated",g,26.584,7.537
+"Fatty acids, total monounsaturated",g,22.930,6.501
+"Fatty acids, total polyunsaturated",g,1.552,0.440
+"Fatty acids, total trans",g,3.209,0.910
+"Cholesterol",mg,65,18
+Amino Acids
+Other

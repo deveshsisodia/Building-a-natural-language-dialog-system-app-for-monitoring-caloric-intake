@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:24 EST
+"Nutrient data for: 11799, Mustard greens, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 140.0g",
+Proximates
+"Water",g,91.78,128.49
+"Energy",kcal,26,36
+"Protein",g,2.56,3.58
+"Total lipid (fat)",g,0.47,0.66
+"Carbohydrate, by difference",g,4.51,6.31
+"Fiber, total dietary",g,2.0,2.8
+"Sugars, total",g,1.41,1.97
+Minerals
+"Calcium, Ca",mg,118,165
+"Iron, Fe",mg,0.87,1.22
+"Magnesium, Mg",mg,13,18
+"Phosphorus, P",mg,42,59
+"Potassium, K",mg,162,227
+"Sodium, Na",mg,252,353
+"Zinc, Zn",mg,0.15,0.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,25.3,35.4
+"Thiamin",mg,0.041,0.057
+"Riboflavin",mg,0.063,0.088
+"Niacin",mg,0.433,0.606
+"Vitamin B-6",mg,0.098,0.137
+"Folate, DFE",µg,9,13
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,527,738
+"Vitamin A, IU",IU,10537,14752
+"Vitamin E (alpha-tocopherol)",mg,1.78,2.49
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,592.7,829.8
+Lipids
+"Fatty acids, total saturated",g,0.012,0.017
+"Fatty acids, total monounsaturated",g,0.110,0.154
+"Fatty acids, total polyunsaturated",g,0.046,0.064
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:03 EST
+"Nutrient data for: 08012, Cereals ready-to-eat, QUAKER, CAP'N CRUNCH'S PEANUT BUTTER CRUNCH"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 27.0g",
+Proximates
+"Water",g,2.50,0.68
+"Energy",kcal,417,113
+"Protein",g,7.10,1.92
+"Total lipid (fat)",g,9.23,2.49
+"Carbohydrate, by difference",g,78.65,21.24
+"Fiber, total dietary",g,2.7,0.7
+"Sugars, total",g,33.36,9.01
+Minerals
+"Calcium, Ca",mg,9,2
+"Iron, Fe",mg,18.36,4.96
+"Magnesium, Mg",mg,69,19
+"Phosphorus, P",mg,194,52
+"Potassium, K",mg,236,64
+"Sodium, Na",mg,742,200
+"Zinc, Zn",mg,15.29,4.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,1.530,0.413
+"Riboflavin",mg,1.732,0.468
+"Niacin",mg,20.360,5.497
+"Vitamin B-6",mg,2.038,0.550
+"Folate, DFE",µg,2629,710
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,8,2
+"Vitamin A, IU",IU,150,40
+"Vitamin E (alpha-tocopherol)",mg,0.61,0.16
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.2,0.1
+Lipids
+"Fatty acids, total saturated",g,3.920,1.058
+"Fatty acids, total monounsaturated",g,2.641,0.713
+"Fatty acids, total polyunsaturated",g,2.148,0.580
+"Fatty acids, total trans",g,0.018,0.005
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

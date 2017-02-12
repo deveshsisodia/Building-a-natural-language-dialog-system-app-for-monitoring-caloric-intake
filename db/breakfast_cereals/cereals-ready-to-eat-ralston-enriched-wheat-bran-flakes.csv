@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:03 EST
+"Nutrient data for: 08504, Cereals ready-to-eat, RALSTON Enriched Wheat Bran flakes"
+Nutrient,Unit,1Value per 100 g,"1 serving (NLEA serving size = 0.75 cup) = 29.0g","1 cup = 42.0g",
+Proximates
+"Water",g,2.53,0.73,1.06
+"Energy",kcal,310,90,130
+"Protein",g,10.21,2.96,4.29
+"Total lipid (fat)",g,3.36,0.97,1.41
+"Carbohydrate, by difference",g,79.77,23.13,33.50
+"Fiber, total dietary",g,16.9,4.9,7.1
+"Sugars, total",g,17.17,4.98,7.21
+Minerals
+"Calcium, Ca",mg,45,13,19
+"Iron, Fe",mg,67.67,19.62,28.42
+"Magnesium, Mg",mg,190,55,80
+"Phosphorus, P",mg,533,155,224
+"Potassium, K",mg,630,183,265
+"Sodium, Na",mg,586,170,246
+"Zinc, Zn",mg,64.33,18.66,27.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,239.7,69.5,100.7
+"Thiamin",mg,4.713,1.367,1.979
+"Riboflavin",mg,7.290,2.114,3.062
+"Niacin",mg,90.567,26.264,38.038
+"Vitamin B-6",mg,6.800,1.972,2.856
+"Vitamin B-12",µg,20.69,6.00,8.69
+"Vitamin A, RAE",µg,531,154,223
+"Vitamin A, IU",IU,1771,514,744
+"Vitamin E (alpha-tocopherol)",mg,80.46,23.33,33.79
+"Vitamin D (D2 + D3)",µg,8.6,2.5,3.6
+"Vitamin D",IU,345,100,145
+"Vitamin K (phylloquinone)",µg,2.7,0.8,1.1
+Lipids
+"Fatty acids, total saturated",g,0.433,0.126,0.182
+"Fatty acids, total monounsaturated",g,0.443,0.128,0.186
+"Fatty acids, total polyunsaturated",g,1.383,0.401,0.581
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

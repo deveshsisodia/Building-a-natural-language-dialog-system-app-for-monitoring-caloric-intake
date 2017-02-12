@@ -1,0 +1,29 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:41 EST
+"Nutrient data for: 03711, Babyfood, cereal, high protein, with apple and orange, prepared with whole milk"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,74.40,21.09
+"Energy",kcal,112,32
+"Protein",g,6.90,1.96
+"Total lipid (fat)",g,3.90,1.11
+"Carbohydrate, by difference",g,13.40,3.80
+Minerals
+"Calcium, Ca",mg,223,63
+"Iron, Fe",mg,14.42,4.09
+"Magnesium, Mg",mg,37,10
+"Phosphorus, P",mg,166,47
+"Potassium, K",mg,346,98
+"Sodium, Na",mg,58,16
+"Zinc, Zn",mg,0.76,0.22
+Vitamins
+"Thiamin",mg,0.655,0.186
+"Riboflavin",mg,0.847,0.240
+"Niacin",mg,3.987,1.130
+"Vitamin B-6",mg,0.092,0.026
+"Folate, DFE",µg,28,8
+"Vitamin B-12",µg,0.35,0.10
+Lipids
+Amino Acids
+Other

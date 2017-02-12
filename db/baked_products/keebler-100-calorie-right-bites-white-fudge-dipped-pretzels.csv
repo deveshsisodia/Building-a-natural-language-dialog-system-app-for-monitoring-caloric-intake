@@ -1,0 +1,31 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:39 EST
+"Nutrient data for: 28123, KEEBLER, 100 Calorie RIGHT BITES, White Fudge Dipped Pretzels"
+Nutrient,Unit,1Value per 100 g,"1 pouch = 21.0g",
+Proximates
+"Water",g,2.40,0.50
+"Energy",kcal,483,101
+"Protein",g,7.00,1.47
+"Total lipid (fat)",g,20.00,4.20
+"Carbohydrate, by difference",g,68.80,14.45
+"Fiber, total dietary",g,2.3,0.5
+"Sugars, total",g,31.70,6.66
+Minerals
+"Calcium, Ca",mg,112,24
+"Iron, Fe",mg,2.20,0.46
+"Phosphorus, P",mg,88,18
+"Potassium, K",mg,168,35
+"Sodium, Na",mg,632,133
+Vitamins
+"Thiamin",mg,0.330,0.069
+"Riboflavin",mg,0.350,0.073
+"Niacin",mg,3.100,0.651
+Lipids
+"Fatty acids, total saturated",g,16.700,3.507
+"Fatty acids, total monounsaturated",g,0.600,0.126
+"Fatty acids, total polyunsaturated",g,0.200,0.042
+"Fatty acids, total trans",g,0.300,0.063
+"Cholesterol",mg,2,0
+Amino Acids
+Other

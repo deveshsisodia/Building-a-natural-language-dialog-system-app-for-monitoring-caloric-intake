@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:33 EST
+"Nutrient data for: 21130, Fast foods, onion rings, breaded and fried"
+Nutrient,Unit,1Value per 100 g,"1 package (18 onion rings) = 117.0g",
+Proximates
+"Water",g,24.52,28.69
+"Energy",kcal,411,481
+"Protein",g,3.86,4.52
+"Total lipid (fat)",g,25.23,29.52
+"Carbohydrate, by difference",g,43.58,50.99
+"Fiber, total dietary",g,2.7,3.2
+"Sugars, total",g,5.43,6.35
+Minerals
+"Calcium, Ca",mg,115,135
+"Iron, Fe",mg,0.78,0.91
+"Magnesium, Mg",mg,19,22
+"Phosphorus, P",mg,158,185
+"Potassium, K",mg,167,195
+"Sodium, Na",mg,776,908
+"Zinc, Zn",mg,0.51,0.60
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.4,1.6
+"Thiamin",mg,0.110,0.129
+"Riboflavin",mg,0.063,0.074
+"Niacin",mg,0.673,0.787
+"Vitamin B-6",mg,0.133,0.156
+"Folate, DFE",µg,42,49
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,6,7
+"Vitamin E (alpha-tocopherol)",mg,4.92,5.76
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,55.8,65.3
+Lipids
+"Fatty acids, total saturated",g,4.194,4.907
+"Fatty acids, total monounsaturated",g,6.885,8.055
+"Fatty acids, total polyunsaturated",g,12.149,14.214
+"Fatty acids, total trans",g,0.164,0.192
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

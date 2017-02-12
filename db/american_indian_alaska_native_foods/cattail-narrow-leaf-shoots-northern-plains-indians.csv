@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:28 EST
+"Nutrient data for: 35195, Cattail, Narrow Leaf Shoots (Northern Plains Indians)"
+Nutrient,Unit,1Value per 100 g,"1 shoot = 19.0g",
+Proximates
+"Water",g,92.65,17.60
+"Energy",kcal,25,5
+"Protein",g,1.18,0.22
+"Total lipid (fat)",g,0.00,0.00
+"Carbohydrate, by difference",g,5.14,0.98
+"Fiber, total dietary",g,4.5,0.9
+"Sugars, total",g,0.22,0.04
+Minerals
+"Calcium, Ca",mg,54,10
+"Iron, Fe",mg,0.91,0.17
+"Magnesium, Mg",mg,63,12
+"Phosphorus, P",mg,45,9
+"Potassium, K",mg,309,59
+"Sodium, Na",mg,109,21
+"Zinc, Zn",mg,0.24,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.1
+"Thiamin",mg,0.023,0.004
+"Riboflavin",mg,0.025,0.005
+"Niacin",mg,0.440,0.084
+"Vitamin B-6",mg,0.123,0.023
+"Vitamin A, RAE",µg,1,0
+"Vitamin A, IU",IU,11,2
+"Vitamin K (phylloquinone)",µg,22.8,4.3
+Lipids
+Amino Acids
+Other
+Footnotes
+(a)"Includes only 5-methyltetrahydrofolate."

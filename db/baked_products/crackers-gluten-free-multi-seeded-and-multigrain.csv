@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:35 EST
+"Nutrient data for: 28345, Crackers, gluten-free, multi-seeded and multigrain"
+Nutrient,Unit,1Value per 100 g,"3.0 crackers = 6.1g",
+Proximates
+"Water",g,3.59,0.22
+"Energy",kcal,453,28
+"Protein",g,11.25,0.69
+"Total lipid (fat)",g,15.84,0.97
+"Carbohydrate, by difference",g,66.30,4.04
+"Fiber, total dietary",g,10.2,0.6
+"Sugars, total",g,0.86,0.05
+Minerals
+"Calcium, Ca",mg,238,15
+"Iron, Fe",mg,2.83,0.17
+"Magnesium, Mg",mg,164,10
+"Phosphorus, P",mg,374,23
+"Potassium, K",mg,381,23
+"Sodium, Na",mg,438,27
+"Zinc, Zn",mg,2.64,0.16
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.208,0.013
+"Riboflavin",mg,0.173,0.011
+"Niacin",mg,4.833,0.295
+"Vitamin B-6",mg,0.370,0.023
+"Folate, DFE",µg,35,2
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,7,0
+"Vitamin E (alpha-tocopherol)",mg,1.50,0.09
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,13.7,0.8
+Lipids
+"Fatty acids, total saturated",g,2.069,0.126
+"Fatty acids, total monounsaturated",g,7.004,0.427
+"Fatty acids, total polyunsaturated",g,5.981,0.365
+"Fatty acids, total trans",g,0.018,0.001
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

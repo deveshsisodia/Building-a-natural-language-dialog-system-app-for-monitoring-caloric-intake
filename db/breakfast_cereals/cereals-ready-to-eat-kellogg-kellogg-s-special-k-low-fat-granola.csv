@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08587, Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K Low Fat Granola"
+Nutrient,Unit,1Value per 100 g,"0.5 cup (1 NLEA serving) = 52.0g",
+Proximates
+"Water",g,3.50,1.82
+"Energy",kcal,375,195
+"Protein",g,13.10,6.81
+"Total lipid (fat)",g,5.40,2.81
+"Carbohydrate, by difference",g,74.80,38.90
+"Fiber, total dietary",g,11.3,5.9
+"Sugars, total",g,18.00,9.36
+Minerals
+"Calcium, Ca",mg,40,21
+"Magnesium, Mg",mg,75,39
+"Phosphorus, P",mg,237,123
+"Potassium, K",mg,225,117
+"Sodium, Na",mg,219,114
+"Zinc, Zn",mg,1.60,0.83
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.5
+"Thiamin",mg,1.000,0.520
+"Riboflavin",mg,1.130,0.588
+"Niacin",mg,13.500,7.020
+"Vitamin B-6",mg,1.350,0.702
+"Folate, DFE",µg,444,231
+"Vitamin B-12",µg,4.00,2.08
+"Vitamin A, IU",IU,962,500
+"Vitamin D (D2 + D3)",µg,1.9,1.0
+"Vitamin D",IU,77,40
+Lipids
+"Fatty acids, total saturated",g,1.100,0.572
+"Fatty acids, total monounsaturated",g,1.600,0.832
+"Fatty acids, total polyunsaturated",g,1.790,0.931
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

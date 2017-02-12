@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:13 EST
+"Nutrient data for: 42129, Bologna, beef and pork, low fat"
+Nutrient,Unit,1Value per 100 g,"1 cup pieces = 138.0g","1 cubic inch = 14.0g","1 slice, medium = 28.0g","1 slice, thick = 43.0g","1 slice, thin = 14.0g",
+Proximates
+"Water",g,63.40,87.49,8.88,17.75,27.26,8.88
+"Energy",kcal,230,317,32,64,99,32
+"Protein",g,11.50,15.87,1.61,3.22,4.95,1.61
+"Total lipid (fat)",g,19.30,26.63,2.70,5.40,8.30,2.70
+"Carbohydrate, by difference",g,2.60,3.59,0.36,0.73,1.12,0.36
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,11,15,2,3,5,2
+"Iron, Fe",mg,0.66,0.91,0.09,0.18,0.28,0.09
+"Magnesium, Mg",mg,12,17,2,3,5,2
+"Phosphorus, P",mg,181,250,25,51,78,25
+"Potassium, K",mg,156,215,22,44,67,22
+"Sodium, Na",mg,1108,1529,155,310,476,155
+"Zinc, Zn",mg,1.50,2.07,0.21,0.42,0.65,0.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.170,0.235,0.024,0.048,0.073,0.024
+"Riboflavin",mg,0.130,0.179,0.018,0.036,0.056,0.018
+"Niacin",mg,2.540,3.505,0.356,0.711,1.092,0.356
+"Vitamin B-6",mg,0.180,0.248,0.025,0.050,0.077,0.025
+"Folate, DFE",µg,5,7,1,1,2,1
+"Vitamin B-12",µg,1.31,1.81,0.18,0.37,0.56,0.18
+"Vitamin A, RAE",µg,0,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.30,0.03,0.06,0.09,0.03
+"Vitamin D (D2 + D3)",µg,0.5,0.7,0.1,0.1,0.2,0.1
+"Vitamin D",IU,19,26,3,5,8,3
+"Vitamin K (phylloquinone)",µg,0.3,0.4,0.0,0.1,0.1,0.0
+Lipids
+"Fatty acids, total saturated",g,7.308,10.085,1.023,2.046,3.142,1.023
+"Fatty acids, total monounsaturated",g,9.145,12.620,1.280,2.561,3.932,1.280
+"Fatty acids, total polyunsaturated",g,1.639,2.262,0.229,0.459,0.705,0.229
+"Cholesterol",mg,39,54,5,11,17,5
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

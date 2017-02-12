@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:54 EST
+"Nutrient data for: 13228, Beef, shank crosscuts, separable lean only, trimmed to 1/4"" fat, choice, cooked, simmered"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) = 170.0g",
+Proximates
+"Water",g,58.21,49.48,98.96
+"Energy",kcal,201,171,342
+"Protein",g,33.68,28.63,57.26
+"Total lipid (fat)",g,6.36,5.41,10.81
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,32,27,54
+"Iron, Fe",mg,3.86,3.28,6.56
+"Magnesium, Mg",mg,30,26,51
+"Phosphorus, P",mg,263,224,447
+"Potassium, K",mg,447,380,760
+"Sodium, Na",mg,64,54,109
+"Zinc, Zn",mg,10.49,8.92,17.83
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.140,0.119,0.238
+"Riboflavin",mg,0.210,0.178,0.357
+"Niacin",mg,5.890,5.006,10.013
+"Vitamin B-6",mg,0.370,0.315,0.629
+"Folate, DFE",µg,10,8,17
+"Vitamin B-12",µg,3.79,3.22,6.44
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,2.290,1.947,3.893
+"Fatty acids, total monounsaturated",g,2.860,2.431,4.862
+"Fatty acids, total polyunsaturated",g,0.210,0.178,0.357
+"Cholesterol",mg,78,66,133
+Amino Acids
+Other

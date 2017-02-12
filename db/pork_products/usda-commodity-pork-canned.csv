@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:50 EST
+"Nutrient data for: 10158, USDA Commodity, pork, canned"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 can = 815.0g",
+Proximates
+"Water",g,65.82,55.95,536.43
+"Energy",kcal,196,167,1597
+"Protein",g,19.40,16.49,158.11
+"Total lipid (fat)",g,12.95,11.01,105.54
+"Carbohydrate, by difference",g,0.59,0.50,4.81
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,5,4,41
+"Iron, Fe",mg,1.05,0.89,8.56
+"Magnesium, Mg",mg,20,17,163
+"Phosphorus, P",mg,173,147,1410
+"Potassium, K",mg,243,207,1980
+"Sodium, Na",mg,213,181,1736
+"Zinc, Zn",mg,2.77,2.35,22.58
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.052,0.044,0.424
+"Riboflavin",mg,0.180,0.153,1.467
+"Niacin",mg,5.767,4.902,47.001
+"Vitamin B-6",mg,0.311,0.264,2.535
+"Folate, DFE",µg,1,1,8
+"Vitamin B-12",µg,0.93,0.79,7.58
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.28,0.24,2.28
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,4.225,3.591,34.434
+"Fatty acids, total monounsaturated",g,5.935,5.045,48.370
+"Fatty acids, total polyunsaturated",g,1.790,1.522,14.589
+"Cholesterol",mg,75,64,611
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

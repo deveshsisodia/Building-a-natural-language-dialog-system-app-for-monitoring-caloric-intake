@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:03 EST
+"Nutrient data for: 08084, Cereals ready-to-eat, wheat germ, toasted, plain"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cup = 113.0g",
+Proximates
+"Water",g,5.60,1.59,6.33
+"Energy",kcal,382,108,432
+"Protein",g,29.10,8.25,32.88
+"Total lipid (fat)",g,10.70,3.03,12.09
+"Carbohydrate, by difference",g,49.60,14.06,56.05
+"Fiber, total dietary",g,15.1,4.3,17.1
+"Sugars, total",g,7.80,2.21,8.81
+Minerals
+"Calcium, Ca",mg,45,13,51
+"Iron, Fe",mg,9.09,2.58,10.27
+"Magnesium, Mg",mg,320,91,362
+"Phosphorus, P",mg,1146,325,1295
+"Potassium, K",mg,947,268,1070
+"Sodium, Na",mg,4,1,5
+"Zinc, Zn",mg,16.67,4.73,18.84
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.0,1.7,6.8
+"Thiamin",mg,1.670,0.473,1.887
+"Riboflavin",mg,0.820,0.232,0.927
+"Niacin",mg,5.590,1.585,6.317
+"Vitamin B-6",mg,0.978,0.277,1.105
+"Folate, DFE",µg,352,100,398
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,5,1,6
+"Vitamin A, IU",IU,103,29,116
+"Vitamin E (alpha-tocopherol)",mg,15.99,4.53,18.07
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,4.0,1.1,4.5
+Lipids
+"Fatty acids, total saturated",g,1.830,0.519,2.068
+"Fatty acids, total monounsaturated",g,1.500,0.425,1.695
+"Fatty acids, total polyunsaturated",g,6.620,1.877,7.481
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:56 EST
+"Nutrient data for: 19367, Toppings, nuts in syrup"
+Nutrient,Unit,1Value per 100 g,"1 cup = 328.0g","2.0 tbsp = 41.0g",
+Proximates
+"Water",g,14.69,48.18,6.02
+"Energy",kcal,448,1469,184
+"Protein",g,4.50,14.76,1.84
+"Total lipid (fat)",g,22.00,72.16,9.02
+"Carbohydrate, by difference",g,58.08,190.50,23.81
+"Fiber, total dietary",g,2.3,7.5,0.9
+"Sugars, total",g,36.72,120.44,15.06
+Minerals
+"Calcium, Ca",mg,35,115,14
+"Iron, Fe",mg,1.05,3.44,0.43
+"Magnesium, Mg",mg,54,177,22
+"Phosphorus, P",mg,118,387,48
+"Potassium, K",mg,151,495,62
+"Sodium, Na",mg,42,138,17
+"Zinc, Zn",mg,1.05,3.44,0.43
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,1.0,0.1
+"Thiamin",mg,0.180,0.590,0.074
+"Riboflavin",mg,0.120,0.394,0.049
+"Niacin",mg,0.373,1.223,0.153
+"Vitamin B-6",mg,0.178,0.584,0.073
+"Folate, DFE",µg,26,85,11
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,7,23,3
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.75,0.09
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.9,3.0,0.4
+Lipids
+"Fatty acids, total saturated",g,1.960,6.429,0.804
+"Fatty acids, total monounsaturated",g,4.970,16.302,2.038
+"Fatty acids, total polyunsaturated",g,13.730,45.034,5.629
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:39 EST
+"Nutrient data for: 19125, Chocolate-flavored hazelnut spread"
+Nutrient,Unit,1Value per 100 g,"1 serving 2 TBSP = 37.0g",
+Proximates
+"Water",g,1.07,0.40
+"Energy",kcal,541,200
+"Protein",g,5.41,2.00
+"Total lipid (fat)",g,29.73,11.00
+"Carbohydrate, by difference",g,62.16,23.00
+"Fiber, total dietary",g,5.4,2.0
+"Sugars, total",g,54.05,20.00
+Minerals
+"Calcium, Ca",mg,108,40
+"Iron, Fe",mg,4.38,1.62
+"Magnesium, Mg",mg,64,24
+"Phosphorus, P",mg,152,56
+"Potassium, K",mg,407,151
+"Sodium, Na",mg,41,15
+"Zinc, Zn",mg,1.06,0.39
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.085,0.031
+"Riboflavin",mg,0.170,0.063
+"Niacin",mg,0.427,0.158
+"Vitamin B-6",mg,0.082,0.030
+"Folate, DFE",µg,14,5
+"Vitamin B-12",µg,0.27,0.10
+"Vitamin A, RAE",µg,1,0
+"Vitamin A, IU",IU,3,1
+"Vitamin E (alpha-tocopherol)",mg,4.96,1.84
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.9,0.7
+Lipids
+"Fatty acids, total saturated",g,28.423,10.517
+"Fatty acids, total monounsaturated",g,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,7,3

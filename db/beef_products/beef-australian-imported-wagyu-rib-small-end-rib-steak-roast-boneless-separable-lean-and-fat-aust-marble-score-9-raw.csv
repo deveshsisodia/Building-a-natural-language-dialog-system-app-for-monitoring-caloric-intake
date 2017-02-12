@@ -1,0 +1,30 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:32 EST
+"Nutrient data for: 23322, Beef, Australian, imported, Wagyu, rib, small end rib steak/roast, boneless, separable lean and fat, Aust. marble score 9, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 114.0g","1 roast = 377.0g",
+Proximates
+"Water",g,46.27,52.75,174.44
+"Energy",kcal,405,462,1527
+"Protein",g,14.54,16.58,54.82
+"Total lipid (fat)",g,38.30,43.66,144.39
+"Carbohydrate, by difference",g,0.42,0.48,1.58
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,3,3,11
+"Iron, Fe",mg,1.82,2.07,6.86
+"Sodium, Na",mg,57,65,215
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Vitamin A, RAE",µg,6,7,23
+"Vitamin A, IU",IU,18,21,68
+Lipids
+"Fatty acids, total saturated",g,13.942,15.894,52.561
+"Fatty acids, total monounsaturated",g,19.576,22.317,73.802
+"Fatty acids, total polyunsaturated",g,1.153,1.314,4.347
+"Fatty acids, total trans",g,1.423,1.622,5.365
+"Cholesterol",mg,82,93,309
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

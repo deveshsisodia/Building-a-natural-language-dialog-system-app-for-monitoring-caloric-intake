@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:09 EST
+"Nutrient data for: 17131, Veal, shoulder, blade chop, separable lean only, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 chop = 450.0g","1 oz = 28.35g",
+Proximates
+"Water",g,76.29,64.85,343.31,21.63
+"Energy",kcal,110,94,495,31
+"Protein",g,19.60,16.66,88.20,5.56
+"Total lipid (fat)",g,2.88,2.45,12.96,0.82
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,23,20,104,7
+"Iron, Fe",mg,1.26,1.07,5.67,0.36
+"Magnesium, Mg",mg,33,28,148,9
+"Phosphorus, P",mg,209,178,940,59
+"Potassium, K",mg,203,173,914,58
+"Sodium, Na",mg,92,78,414,26
+"Zinc, Zn",mg,3.38,2.87,15.21,0.96
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.109,0.093,0.490,0.031
+"Riboflavin",mg,0.430,0.365,1.935,0.122
+"Niacin",mg,4.610,3.919,20.745,1.307
+"Vitamin B-6",mg,0.466,0.396,2.097,0.132
+"Folate, DFE",µg,3,3,14,1
+"Vitamin B-12",µg,2.88,2.45,12.96,0.82
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.26,0.22,1.17,0.07
+"Vitamin D (D2 + D3)",µg,1.2,1.0,5.4,0.3
+"Vitamin D",IU,47,40,212,13
+"Vitamin K (phylloquinone)",µg,1.0,0.8,4.5,0.3
+Lipids
+"Fatty acids, total saturated",g,1.113,0.946,5.009,0.316
+"Fatty acids, total monounsaturated",g,1.361,1.157,6.125,0.386
+"Fatty acids, total polyunsaturated",g,0.171,0.145,0.770,0.048
+"Fatty acids, total trans",g,0.106,0.090,0.477,0.030
+"Cholesterol",mg,60,51,270,17
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

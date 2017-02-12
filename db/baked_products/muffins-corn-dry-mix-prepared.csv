@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:42 EST
+"Nutrient data for: 18280, Muffins, corn, dry mix, prepared"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,30.50,8.65
+"Energy",kcal,321,91
+"Protein",g,7.40,2.10
+"Total lipid (fat)",g,10.20,2.89
+"Carbohydrate, by difference",g,49.10,13.92
+"Fiber, total dietary",g,2.4,0.7
+Minerals
+"Calcium, Ca",mg,75,21
+"Iron, Fe",mg,1.94,0.55
+"Magnesium, Mg",mg,21,6
+"Phosphorus, P",mg,384,109
+"Potassium, K",mg,131,37
+"Sodium, Na",mg,795,225
+"Zinc, Zn",mg,0.64,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0
+"Thiamin",mg,0.249,0.071
+"Riboflavin",mg,0.276,0.078
+"Niacin",mg,2.101,0.596
+"Vitamin B-6",mg,0.106,0.030
+"Folate, DFE",µg,89,25
+"Vitamin B-12",µg,0.16,0.05
+"Vitamin A, RAE",µg,41,12
+"Vitamin A, IU",IU,210,60
+Lipids
+"Fatty acids, total saturated",g,2.797,0.793
+"Fatty acids, total monounsaturated",g,5.249,1.488
+"Fatty acids, total polyunsaturated",g,1.250,0.354
+"Cholesterol",mg,62,18
+Amino Acids
+Other

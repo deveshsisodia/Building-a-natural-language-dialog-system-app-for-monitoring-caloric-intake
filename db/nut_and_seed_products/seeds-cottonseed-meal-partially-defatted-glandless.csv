@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:09 EST
+"Nutrient data for: 12011, Seeds, cottonseed meal, partially defatted (glandless)"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,1.20,0.34
+"Energy",kcal,367,104
+"Protein",g,49.10,13.92
+"Total lipid (fat)",g,4.77,1.35
+"Carbohydrate, by difference",g,38.43,10.89
+Minerals
+"Calcium, Ca",mg,504,143
+"Iron, Fe",mg,13.35,3.78
+"Magnesium, Mg",mg,760,215
+"Phosphorus, P",mg,1684,477
+"Potassium, K",mg,1869,530
+"Sodium, Na",mg,37,10
+"Zinc, Zn",mg,12.32,3.49
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.5,0.7
+"Thiamin",mg,2.217,0.629
+"Riboflavin",mg,0.420,0.119
+"Niacin",mg,4.286,1.215
+"Vitamin B-6",mg,0.811,0.230
+"Folate, DFE",µg,242,69
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,23,7
+"Vitamin A, IU",IU,458,130
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.207,0.342
+"Fatty acids, total monounsaturated",g,0.861,0.244
+"Fatty acids, total polyunsaturated",g,2.248,0.637
+"Cholesterol",mg,0,0
+Amino Acids
+Other

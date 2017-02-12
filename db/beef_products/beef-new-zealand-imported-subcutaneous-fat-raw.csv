@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:44 EST
+"Nutrient data for: 23436, Beef, New Zealand, imported, subcutaneous fat, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 113.0g",
+Proximates
+"Water",g,19.91,22.50
+"Energy",kcal,685,774
+"Protein",g,8.50,9.61
+"Total lipid (fat)",g,72.38,81.79
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,20,23
+"Iron, Fe",mg,0.38,0.43
+"Magnesium, Mg",mg,5,6
+"Phosphorus, P",mg,51,58
+"Potassium, K",mg,93,105
+"Sodium, Na",mg,26,29
+"Zinc, Zn",mg,0.36,0.41
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.132,0.149
+"Riboflavin",mg,0.027,0.031
+"Niacin",mg,0.740,0.836
+"Vitamin B-6",mg,0.052,0.059
+"Vitamin B-12",µg,0.16,0.18
+"Vitamin D (D2 + D3)",µg,0.3,0.3
+"Vitamin D",IU,11,12
+Lipids
+"Fatty acids, total saturated",g,31.514,35.611
+"Fatty acids, total monounsaturated",g,24.702,27.913
+"Fatty acids, total polyunsaturated",g,1.680,1.898
+"Fatty acids, total trans",g,2.712,3.065
+"Cholesterol",mg,64,72
+Amino Acids
+Other
+"Caffeine",mg,0,0

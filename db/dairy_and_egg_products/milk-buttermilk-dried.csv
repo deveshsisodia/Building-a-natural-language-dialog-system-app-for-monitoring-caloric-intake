@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:09 EST
+"Nutrient data for: 01094, Milk, buttermilk, dried"
+Nutrient,Unit,1Value per 100 g,"0.25 cup = 30.0g","1 cup = 120.0g","1 tbsp = 6.5g",
+Proximates
+"Water",g,2.97,0.89,3.56,0.19
+"Energy",kcal,387,116,464,25
+"Protein",g,34.30,10.29,41.16,2.23
+"Total lipid (fat)",g,5.78,1.73,6.94,0.38
+"Carbohydrate, by difference",g,49.00,14.70,58.80,3.19
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,49.00,14.70,58.80,3.19
+Minerals
+"Calcium, Ca",mg,1184,355,1421,77
+"Iron, Fe",mg,0.30,0.09,0.36,0.02
+"Magnesium, Mg",mg,110,33,132,7
+"Phosphorus, P",mg,933,280,1120,61
+"Potassium, K",mg,1592,478,1910,103
+"Sodium, Na",mg,517,155,620,34
+"Zinc, Zn",mg,4.02,1.21,4.82,0.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.7,1.7,6.8,0.4
+"Thiamin",mg,0.392,0.118,0.470,0.025
+"Riboflavin",mg,1.579,0.474,1.895,0.103
+"Niacin",mg,0.876,0.263,1.051,0.057
+"Vitamin B-6",mg,0.338,0.101,0.406,0.022
+"Folate, DFE",µg,47,14,56,3
+"Vitamin B-12",µg,3.82,1.15,4.58,0.25
+"Vitamin A, RAE",µg,49,15,59,3
+"Vitamin A, IU",IU,175,52,210,11
+"Vitamin E (alpha-tocopherol)",mg,0.10,0.03,0.12,0.01
+"Vitamin D (D2 + D3)",µg,0.5,0.1,0.6,0.0
+"Vitamin D",IU,20,6,24,1
+"Vitamin K (phylloquinone)",µg,0.4,0.1,0.5,0.0
+Lipids
+"Fatty acids, total saturated",g,3.598,1.079,4.318,0.234
+"Fatty acids, total monounsaturated",g,1.669,0.501,2.003,0.108
+"Fatty acids, total polyunsaturated",g,0.215,0.065,0.258,0.014
+"Cholesterol",mg,69,21,83,4
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

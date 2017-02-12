@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:28 EST
+"Nutrient data for: 02064, Peppermint, fresh"
+Nutrient,Unit,1Value per 100 g,"2.0 leaves = 0.1g","2.0 tbsp = 3.2g",
+Proximates
+"Water",g,78.65,0.08,2.52
+"Energy",kcal,70,0,2
+"Protein",g,3.75,0.00,0.12
+"Total lipid (fat)",g,0.94,0.00,0.03
+"Carbohydrate, by difference",g,14.89,0.01,0.48
+"Fiber, total dietary",g,8.0,0.0,0.3
+Minerals
+"Calcium, Ca",mg,243,0,8
+"Iron, Fe",mg,5.08,0.01,0.16
+"Magnesium, Mg",mg,80,0,3
+"Phosphorus, P",mg,73,0,2
+"Potassium, K",mg,569,1,18
+"Sodium, Na",mg,31,0,1
+"Zinc, Zn",mg,1.11,0.00,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,31.8,0.0,1.0
+"Thiamin",mg,0.082,0.000,0.003
+"Riboflavin",mg,0.266,0.000,0.009
+"Niacin",mg,1.706,0.002,0.055
+"Vitamin B-6",mg,0.129,0.000,0.004
+"Folate, DFE",µg,114,0,4
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,212,0,7
+"Vitamin A, IU",IU,4248,4,136
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.246,0.000,0.008
+"Fatty acids, total monounsaturated",g,0.033,0.000,0.001
+"Fatty acids, total polyunsaturated",g,0.508,0.001,0.016
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+Footnotes
+(a)"Leaf"

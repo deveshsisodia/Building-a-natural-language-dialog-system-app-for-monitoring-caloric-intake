@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:07 EST
+"Nutrient data for: 17140, Veal, cubed for stew (leg and shoulder), separable lean only, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g",
+Proximates
+"Water",g,76.39,21.66,346.51
+"Energy",kcal,109,31,494
+"Protein",g,20.27,5.75,91.94
+"Total lipid (fat)",g,2.50,0.71,11.34
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,17,5,77
+"Iron, Fe",mg,0.88,0.25,3.99
+"Magnesium, Mg",mg,25,7,113
+"Phosphorus, P",mg,213,60,966
+"Potassium, K",mg,331,94,1501
+"Sodium, Na",mg,83,24,376
+"Zinc, Zn",mg,3.48,0.99,15.79
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.090,0.026,0.408
+"Riboflavin",mg,0.290,0.082,1.315
+"Niacin",mg,7.400,2.098,33.566
+"Vitamin B-6",mg,0.450,0.128,2.041
+"Folate, DFE",µg,13,4,59
+"Vitamin B-12",µg,1.49,0.42,6.76
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.08,1.22
+Lipids
+"Fatty acids, total saturated",g,0.750,0.213,3.402
+"Fatty acids, total monounsaturated",g,0.800,0.227,3.629
+"Fatty acids, total polyunsaturated",g,0.260,0.074,1.179
+"Cholesterol",mg,84,24,381
+Amino Acids
+Other

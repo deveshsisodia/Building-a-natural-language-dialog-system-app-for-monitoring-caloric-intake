@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:23 EST
+"Nutrient data for: 22989, KASHI, Red Curry Chicken, Frozen Entree"
+Nutrient,Unit,1Value per 100 g,"1 package = 269.0g",
+Proximates
+"Water",g,74.06,199.22
+"Energy",kcal,110,296
+"Protein",g,5.90,15.87
+"Total lipid (fat)",g,3.00,8.07
+"Carbohydrate, by difference",g,15.60,41.96
+"Fiber, total dietary",g,2.3,6.2
+"Sugars, total",g,3.30,8.88
+Minerals
+"Calcium, Ca",mg,23,62
+"Iron, Fe",mg,0.80,2.15
+"Magnesium, Mg",mg,10,27
+"Phosphorus, P",mg,44,118
+"Potassium, K",mg,179,482
+"Sodium, Na",mg,154,414
+"Zinc, Zn",mg,0.20,0.54
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.0,13.4
+"Thiamin",mg,0.100,0.269
+"Riboflavin",mg,0.030,0.081
+"Niacin",mg,1.000,2.690
+"Vitamin B-6",mg,0.050,0.135
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.200,3.228
+"Fatty acids, total monounsaturated",g,0.900,2.421
+"Fatty acids, total polyunsaturated",g,0.600,1.614
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,8,22
+Amino Acids
+Other

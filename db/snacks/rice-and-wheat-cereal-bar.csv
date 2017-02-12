@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:52 EST
+"Nutrient data for: 08546, Rice and Wheat cereal bar"
+Nutrient,Unit,1Value per 100 g,"1 bar = 22.0g",
+Proximates
+"Water",g,7.50,1.65
+"Energy",kcal,409,90
+"Protein",g,9.09,2.00
+"Total lipid (fat)",g,9.09,2.00
+"Carbohydrate, by difference",g,72.73,16.00
+"Fiber, total dietary",g,1.8,0.4
+"Sugars, total",g,31.80,7.00
+Minerals
+"Calcium, Ca",mg,31,7
+"Iron, Fe",mg,2.56,0.56
+"Magnesium, Mg",mg,46,10
+"Phosphorus, P",mg,136,30
+"Potassium, K",mg,143,31
+"Sodium, Na",mg,500,110
+"Zinc, Zn",mg,1.78,0.39
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.682,0.150
+"Riboflavin",mg,0.773,0.170
+"Niacin",mg,9.091,2.000
+"Vitamin B-6",mg,0.909,0.200
+"Folate, DFE",µg,15,3
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,2.94,0.65
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.2,0.3
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000
+"Fatty acids, total monounsaturated",g,6.567,1.445
+"Fatty acids, total polyunsaturated",g,2.049,0.451
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

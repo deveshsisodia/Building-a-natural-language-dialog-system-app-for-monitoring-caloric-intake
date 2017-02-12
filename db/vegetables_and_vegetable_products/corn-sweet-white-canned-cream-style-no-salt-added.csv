@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:20 EST
+"Nutrient data for: 11907, Corn, sweet, white, canned, cream style, no salt added"
+Nutrient,Unit,1Value per 100 g,"1 cup = 256.0g","1 can (303 x 406) = 482.0g",
+Proximates
+"Water",g,78.73,201.55,379.48
+"Energy",kcal,72,184,347
+"Protein",g,1.74,4.45,8.39
+"Total lipid (fat)",g,0.42,1.08,2.02
+"Carbohydrate, by difference",g,18.13,46.41,87.39
+"Fiber, total dietary",g,1.2,3.1,5.8
+"Sugars, total",g,2.21,5.66,10.65
+Minerals
+"Calcium, Ca",mg,3,8,14
+"Iron, Fe",mg,0.38,0.97,1.83
+"Magnesium, Mg",mg,17,44,82
+"Phosphorus, P",mg,51,131,246
+"Potassium, K",mg,134,343,646
+"Sodium, Na",mg,3,8,14
+"Zinc, Zn",mg,0.53,1.36,2.55
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.6,11.8,22.2
+"Thiamin",mg,0.025,0.064,0.121
+"Riboflavin",mg,0.053,0.136,0.255
+"Niacin",mg,0.960,2.458,4.627
+"Vitamin B-6",mg,0.063,0.161,0.304
+"Folate, DFE",µg,45,115,217
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,1,3,5
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.15,0.29
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.8,1.4
+Lipids
+"Fatty acids, total saturated",g,0.065,0.166,0.313
+"Fatty acids, total monounsaturated",g,0.123,0.315,0.593
+"Fatty acids, total polyunsaturated",g,0.198,0.507,0.954
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

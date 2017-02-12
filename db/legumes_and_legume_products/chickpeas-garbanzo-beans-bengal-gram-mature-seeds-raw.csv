@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:57 EST
+"Nutrient data for: 16056, Chickpeas (garbanzo beans, bengal gram), mature seeds, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 200.0g","1 tbsp = 12.5g",
+Proximates
+"Water",g,7.68,15.36,0.96
+"Energy",kcal,378,756,47
+"Protein",g,20.47,40.94,2.56
+"Total lipid (fat)",g,6.04,12.08,0.76
+"Carbohydrate, by difference",g,62.95,125.90,7.87
+"Fiber, total dietary",g,12.2,24.4,1.5
+"Sugars, total",g,10.70,21.40,1.34
+Minerals
+"Calcium, Ca",mg,57,114,7
+"Iron, Fe",mg,4.31,8.62,0.54
+"Magnesium, Mg",mg,79,158,10
+"Phosphorus, P",mg,252,504,32
+"Potassium, K",mg,718,1436,90
+"Sodium, Na",mg,24,48,3
+"Zinc, Zn",mg,2.76,5.52,0.34
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.0,8.0,0.5
+"Thiamin",mg,0.477,0.954,0.060
+"Riboflavin",mg,0.212,0.424,0.026
+"Niacin",mg,1.541,3.082,0.193
+"Vitamin B-6",mg,0.535,1.070,0.067
+"Folate, DFE",µg,557,1114,70
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,3,6,0
+"Vitamin A, IU",IU,67,134,8
+"Vitamin E (alpha-tocopherol)",mg,0.82,1.64,0.10
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,9.0,18.0,1.1
+Lipids
+"Fatty acids, total saturated",g,0.603,1.206,0.075
+"Fatty acids, total monounsaturated",g,1.377,2.754,0.172
+"Fatty acids, total polyunsaturated",g,2.731,5.462,0.341
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

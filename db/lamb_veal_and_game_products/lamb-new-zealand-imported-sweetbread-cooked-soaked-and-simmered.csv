@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:04 EST
+"Nutrient data for: 17374, Lamb, New Zealand, imported, sweetbread, cooked, soaked and simmered"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,72.60,61.71
+"Energy",kcal,144,122
+"Protein",g,21.13,17.96
+"Total lipid (fat)",g,6.61,5.62
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,6,5
+"Iron, Fe",mg,1.06,0.90
+"Magnesium, Mg",mg,25,21
+"Phosphorus, P",mg,550,468
+"Potassium, K",mg,354,301
+"Sodium, Na",mg,52,44
+"Zinc, Zn",mg,1.93,1.64
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.075,0.064
+"Riboflavin",mg,0.096,0.082
+"Niacin",mg,1.375,1.169
+"Vitamin B-6",mg,0.000,0.000
+"Vitamin B-12",µg,2.50,2.12
+"Vitamin A, RAE",µg,8,7
+"Vitamin A, IU",IU,28,24
+"Vitamin E (alpha-tocopherol)",mg,1.13,0.96
+"Vitamin D (D2 + D3)",µg,0.2,0.2
+"Vitamin D",IU,6,5
+Lipids
+"Fatty acids, total saturated",g,2.342,1.991
+"Fatty acids, total monounsaturated",g,1.847,1.570
+"Fatty acids, total polyunsaturated",g,0.393,0.334
+"Fatty acids, total trans",g,0.172,0.146
+"Cholesterol",mg,462,393
+Amino Acids
+Other
+"Caffeine",mg,0,0

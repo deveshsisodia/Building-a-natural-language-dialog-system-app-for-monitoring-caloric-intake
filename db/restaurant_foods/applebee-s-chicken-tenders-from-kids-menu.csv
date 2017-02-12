@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:25 EST
+"Nutrient data for: 36005, APPLEBEE'S, chicken tenders, from kids' menu"
+Nutrient,Unit,1Value per 100 g,"1 piece = 35.0g","1 serving (3 pieces) = 99.0g",
+Proximates
+"Water",g,43.42,15.20,42.99
+"Energy",kcal,296,104,293
+"Protein",g,19.25,6.74,19.06
+"Total lipid (fat)",g,16.15,5.65,15.99
+"Carbohydrate, by difference",g,18.36,6.43,18.18
+"Fiber, total dietary",g,1.2,0.4,1.2
+"Sugars, total",g,0.39,0.14,0.39
+Minerals
+"Calcium, Ca",mg,23,8,23
+"Iron, Fe",mg,0.90,0.32,0.89
+"Magnesium, Mg",mg,30,10,30
+"Phosphorus, P",mg,305,107,302
+"Potassium, K",mg,337,118,334
+"Sodium, Na",mg,763,267,755
+"Zinc, Zn",mg,0.71,0.25,0.70
+Vitamins
+"Thiamin",mg,0.100,0.035,0.099
+"Riboflavin",mg,0.177,0.062,0.175
+"Niacin",mg,7.890,2.761,7.811
+"Vitamin B-6",mg,0.484,0.169,0.479
+"Vitamin B-12",µg,0.15,0.05,0.15
+"Vitamin A, RAE",µg,10,4,10
+"Vitamin A, IU",IU,72,25,71
+"Vitamin E (alpha-tocopherol)",mg,1.28,0.45,1.27
+"Vitamin K (phylloquinone)",µg,25.1,8.8,24.8
+Lipids
+"Fatty acids, total saturated",g,2.852,0.998,2.823
+"Fatty acids, total monounsaturated",g,3.568,1.249,3.532
+"Fatty acids, total polyunsaturated",g,7.894,2.763,7.815
+"Fatty acids, total trans",g,0.116,0.041,0.115
+"Cholesterol",mg,51,18,50
+Amino Acids
+Other

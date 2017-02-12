@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:42 EST
+"Nutrient data for: 19018, Fruit syrup"
+Nutrient,Unit,1Value per 100 g,"1 cup = 334.0g","0.25 cup = 84.0g",
+Proximates
+"Water",g,14.74,49.23,12.38
+"Energy",kcal,341,1139,286
+"Protein",g,0.00,0.00,0.00
+"Total lipid (fat)",g,0.00,0.00,0.00
+"Carbohydrate, by difference",g,85.13,284.33,71.51
+"Fiber, total dietary",g,0.1,0.3,0.1
+"Sugars, total",g,53.00,177.02,44.52
+Minerals
+"Calcium, Ca",mg,8,27,7
+"Iron, Fe",mg,0.04,0.13,0.03
+"Magnesium, Mg",mg,1,3,1
+"Phosphorus, P",mg,0,0,0
+"Potassium, K",mg,7,23,6
+"Sodium, Na",mg,0,0,0
+"Zinc, Zn",mg,0.26,0.87,0.22
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.6,5.3,1.3
+"Thiamin",mg,0.033,0.110,0.028
+"Riboflavin",mg,0.012,0.040,0.010
+"Niacin",mg,0.012,0.040,0.010
+"Vitamin B-6",mg,0.001,0.003,0.001
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,2,7,2
+"Vitamin E (alpha-tocopherol)",mg,0.01,0.03,0.01
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.3,0.1
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

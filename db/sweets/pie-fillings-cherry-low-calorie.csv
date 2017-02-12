@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:44 EST
+"Nutrient data for: 43098, Pie fillings, cherry, low calorie"
+Nutrient,Unit,1Value per 100 g,"1 serving = 85.0g","1 cup = 264.0g",
+Proximates
+"Water",g,86.76,73.75,229.05
+"Energy",kcal,53,45,140
+"Protein",g,0.82,0.70,2.16
+"Total lipid (fat)",g,0.16,0.14,0.42
+"Carbohydrate, by difference",g,11.98,10.18,31.63
+"Fiber, total dietary",g,1.2,1.0,3.2
+"Sugars, total",g,9.15,7.78,24.16
+Minerals
+"Calcium, Ca",mg,11,9,29
+"Iron, Fe",mg,0.33,0.28,0.87
+"Magnesium, Mg",mg,8,7,21
+"Phosphorus, P",mg,15,13,40
+"Potassium, K",mg,118,100,312
+"Sodium, Na",mg,12,10,32
+"Zinc, Zn",mg,0.07,0.06,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.8,2.4,7.4
+"Thiamin",mg,0.020,0.017,0.053
+"Riboflavin",mg,0.039,0.033,0.103
+"Niacin",mg,0.361,0.307,0.953
+"Vitamin B-6",mg,0.027,0.023,0.071
+"Folate, DFE",µg,4,3,11
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,10,8,26
+"Vitamin A, IU",IU,208,177,549
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

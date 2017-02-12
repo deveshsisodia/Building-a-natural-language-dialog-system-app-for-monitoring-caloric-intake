@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:29 EST
+"Nutrient data for: 35009, Whale, beluga, meat, dried (Alaska Native)"
+Nutrient,Unit,1Value per 100 g,"1 strip = 45.0g",
+Proximates
+"Water",g,22.39,10.08
+"Energy",kcal,327,147
+"Protein",g,69.86,31.44
+"Total lipid (fat)",g,5.34,2.40
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,22,10
+"Iron, Fe",mg,72.35,32.56
+"Magnesium, Mg",mg,63,28
+"Phosphorus, P",mg,549,247
+"Potassium, K",mg,800,360
+"Sodium, Na",mg,220,99
+"Zinc, Zn",mg,7.80,3.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.039,0.018
+"Riboflavin",mg,0.519,0.234
+"Niacin",mg,15.200,6.840
+"Vitamin B-6",mg,0.131,0.059
+"Folate, DFE",µg,10,4
+"Vitamin B-12",µg,7.31,3.29
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.12
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.204,0.542
+"Fatty acids, total monounsaturated",g,3.345,1.505
+"Fatty acids, total polyunsaturated",g,0.319,0.144
+"Cholesterol",mg,122,55
+Amino Acids
+Other
+"Caffeine",mg,0,0

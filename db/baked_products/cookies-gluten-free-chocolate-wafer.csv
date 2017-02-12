@@ -1,0 +1,29 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:34 EST
+"Nutrient data for: 28333, Cookies, gluten-free, chocolate wafer"
+Nutrient,Unit,1Value per 100 g,"3.0 cookies = 23.0g",
+Proximates
+"Water",g,1.37,0.32
+"Energy",kcal,541,124
+"Protein",g,4.06,0.93
+"Total lipid (fat)",g,30.42,7.00
+"Carbohydrate, by difference",g,62.82,14.45
+"Fiber, total dietary",g,1.6,0.4
+"Sugars, total",g,40.99,9.43
+Minerals
+"Calcium, Ca",mg,109,25
+"Iron, Fe",mg,3.67,0.84
+"Magnesium, Mg",mg,41,9
+"Phosphorus, P",mg,144,33
+"Potassium, K",mg,340,78
+"Sodium, Na",mg,122,28
+"Zinc, Zn",mg,0.78,0.18
+Vitamins
+Lipids
+"Fatty acids, total saturated",g,15.299,3.519
+"Fatty acids, total monounsaturated",g,9.462,2.176
+"Fatty acids, total polyunsaturated",g,2.274,0.523
+"Fatty acids, total trans",g,0.102,0.023
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08594, Cereals ready-to-eat, GENERAL MILLS, Chocolate CHEX"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 32.0g",
+Proximates
+"Water",g,2.19,0.70
+"Energy",kcal,412,132
+"Protein",g,4.80,1.54
+"Total lipid (fat)",g,8.39,2.68
+"Carbohydrate, by difference",g,81.09,25.95
+"Fiber, total dietary",g,2.0,0.6
+"Sugars, total",g,26.20,8.38
+Minerals
+"Calcium, Ca",mg,286,92
+"Iron, Fe",mg,25.70,8.22
+"Magnesium, Mg",mg,29,9
+"Phosphorus, P",mg,143,46
+"Potassium, K",mg,186,60
+"Sodium, Na",mg,629,201
+"Zinc, Zn",mg,10.69,3.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,17.1,5.5
+"Thiamin",mg,1.100,0.352
+"Riboflavin",mg,1.200,0.384
+"Niacin",mg,14.300,4.576
+"Vitamin B-6",mg,1.420,0.454
+"Folate, DFE",µg,1090,349
+"Vitamin B-12",µg,4.30,1.38
+"Vitamin A, RAE",µg,429,137
+"Vitamin A, IU",IU,1429,457
+"Vitamin E (alpha-tocopherol)",mg,1.69,0.54
+"Vitamin D (D2 + D3)",µg,2.9,0.9
+"Vitamin D",IU,114,36
+"Vitamin K (phylloquinone)",µg,4.9,1.6
+Lipids
+"Fatty acids, total saturated",g,1.600,0.512
+"Fatty acids, total monounsaturated",g,5.000,1.600
+"Fatty acids, total polyunsaturated",g,1.600,0.512
+"Fatty acids, total trans",g,0.100,0.032
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,1,0

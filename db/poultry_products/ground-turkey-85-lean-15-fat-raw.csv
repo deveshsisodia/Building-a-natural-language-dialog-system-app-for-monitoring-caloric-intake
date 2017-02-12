@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:37 EST
+"Nutrient data for: 05668, Ground turkey, 85% lean, 15% fat, raw"
+Nutrient,Unit,1Value per 100 g,"1 patty (cooked from 4 oz raw) = 85.0g","1 oz = 28.35g","1 lb = 453.0g",
+Proximates
+"Water",g,69.74,59.28,19.77,315.92
+"Energy",kcal,180,153,51,815
+"Protein",g,16.90,14.36,4.79,76.56
+"Total lipid (fat)",g,12.54,10.66,3.56,56.81
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,33,28,9,149
+"Iron, Fe",mg,1.32,1.12,0.37,5.98
+"Magnesium, Mg",mg,19,16,5,86
+"Phosphorus, P",mg,179,152,51,811
+"Potassium, K",mg,202,172,57,915
+"Sodium, Na",mg,54,46,15,245
+"Zinc, Zn",mg,2.75,2.34,0.78,12.46
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.067,0.057,0.019,0.304
+"Riboflavin",mg,0.177,0.150,0.050,0.802
+"Niacin",mg,5.075,4.314,1.439,22.990
+"Vitamin B-6",mg,0.485,0.412,0.137,2.197
+"Folate, DFE",µg,6,5,2,27
+"Vitamin B-12",µg,1.30,1.10,0.37,5.89
+"Vitamin A, RAE",µg,30,26,9,136
+"Vitamin A, IU",IU,101,86,29,458
+"Vitamin E (alpha-tocopherol)",mg,0.08,0.07,0.02,0.36
+"Vitamin D (D2 + D3)",µg,0.4,0.3,0.1,1.8
+"Vitamin D",IU,14,12,4,63
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,3.414,2.902,0.968,15.465
+"Fatty acids, total monounsaturated",g,4.551,3.868,1.290,20.616
+"Fatty acids, total polyunsaturated",g,3.485,2.962,0.988,15.787
+"Fatty acids, total trans",g,0.181,0.154,0.051,0.820
+"Cholesterol",mg,78,66,22,353
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

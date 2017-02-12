@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:17 EST
+"Nutrient data for: 04073, Margarine, regular, hard, soybean (hydrogenated)"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 4.7g","1 stick = 113.0g",
+Proximates
+"Water",g,15.70,0.74,17.74
+"Energy",kcal,719,34,812
+"Protein",g,0.90,0.04,1.02
+"Total lipid (fat)",g,80.50,3.78,90.97
+"Carbohydrate, by difference",g,0.90,0.04,1.02
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,30,1,34
+"Iron, Fe",mg,0.00,0.00,0.00
+"Magnesium, Mg",mg,3,0,3
+"Phosphorus, P",mg,23,1,26
+"Potassium, K",mg,42,2,47
+"Sodium, Na",mg,943,44,1066
+"Zinc, Zn",mg,0.00,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.0,0.2
+"Thiamin",mg,0.010,0.000,0.011
+"Riboflavin",mg,0.037,0.002,0.042
+"Niacin",mg,0.023,0.001,0.026
+"Vitamin B-6",mg,0.009,0.000,0.010
+"Folate, DFE",µg,1,0,1
+"Vitamin B-12",µg,0.10,0.00,0.11
+"Vitamin A, RAE",µg,819,38,925
+"Vitamin A, IU",IU,3577,168,4042
+"Vitamin E (alpha-tocopherol)",mg,3.10,0.15,3.50
+Lipids
+"Fatty acids, total saturated",g,16.700,0.785,18.871
+"Fatty acids, total monounsaturated",g,39.300,1.847,44.409
+"Fatty acids, total polyunsaturated",g,20.900,0.982,23.617
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

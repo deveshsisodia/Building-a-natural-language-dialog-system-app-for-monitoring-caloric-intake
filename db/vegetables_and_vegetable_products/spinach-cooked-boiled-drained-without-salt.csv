@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:29 EST
+"Nutrient data for: 11458, Spinach, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 180.0g",
+Proximates
+"Water",g,91.21,164.18
+"Energy",kcal,23,41
+"Protein",g,2.97,5.35
+"Total lipid (fat)",g,0.26,0.47
+"Carbohydrate, by difference",g,3.75,6.75
+"Fiber, total dietary",g,2.4,4.3
+"Sugars, total",g,0.43,0.77
+Minerals
+"Calcium, Ca",mg,136,245
+"Iron, Fe",mg,3.57,6.43
+"Magnesium, Mg",mg,87,157
+"Phosphorus, P",mg,56,101
+"Potassium, K",mg,466,839
+"Sodium, Na",mg,70,126
+"Zinc, Zn",mg,0.76,1.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,9.8,17.6
+"Thiamin",mg,0.095,0.171
+"Riboflavin",mg,0.236,0.425
+"Niacin",mg,0.490,0.882
+"Vitamin B-6",mg,0.242,0.436
+"Folate, DFE",µg,146,263
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,524,943
+"Vitamin A, IU",IU,10481,18866
+"Vitamin E (alpha-tocopherol)",mg,2.08,3.74
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,493.6,888.5
+Lipids
+"Fatty acids, total saturated",g,0.043,0.077
+"Fatty acids, total monounsaturated",g,0.006,0.011
+"Fatty acids, total polyunsaturated",g,0.109,0.196
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

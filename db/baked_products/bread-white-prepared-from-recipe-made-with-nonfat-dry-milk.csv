@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:31 EST
+"Nutrient data for: 18071, Bread, white, prepared from recipe, made with nonfat dry milk"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice = 44.0g",
+Proximates
+"Water",g,34.80,9.87,15.31
+"Energy",kcal,274,78,121
+"Protein",g,7.70,2.18,3.39
+"Total lipid (fat)",g,2.60,0.74,1.14
+"Carbohydrate, by difference",g,53.60,15.20,23.58
+"Fiber, total dietary",g,2.0,0.6,0.9
+Minerals
+"Calcium, Ca",mg,32,9,14
+"Iron, Fe",mg,3.18,0.90,1.40
+"Magnesium, Mg",mg,17,5,7
+"Phosphorus, P",mg,96,27,42
+"Potassium, K",mg,111,31,49
+"Sodium, Na",mg,336,95,148
+"Zinc, Zn",mg,0.59,0.17,0.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.431,0.122,0.190
+"Riboflavin",mg,0.352,0.100,0.155
+"Niacin",mg,3.731,1.058,1.642
+"Vitamin B-6",mg,0.037,0.010,0.016
+"Folate, DFE",µg,126,36,55
+"Vitamin B-12",µg,0.02,0.01,0.01
+"Vitamin A, RAE",µg,12,3,5
+"Vitamin A, IU",IU,41,12,18
+Lipids
+"Fatty acids, total saturated",g,0.391,0.111,0.172
+"Fatty acids, total monounsaturated",g,0.527,0.149,0.232
+"Fatty acids, total polyunsaturated",g,1.401,0.397,0.616
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

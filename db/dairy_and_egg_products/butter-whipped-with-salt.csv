@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:05 EST
+"Nutrient data for: 01002, Butter, whipped, with salt"
+Nutrient,Unit,1Value per 100 g,"1 pat (1"" sq, 1/3"" high) = 3.8g","1 tbsp = 9.4g","1 cup = 151.0g","1 stick = 76.0g",
+Proximates
+"Water",g,16.72,0.64,1.57,25.25,12.71
+"Energy",kcal,718,27,67,1084,546
+"Protein",g,0.49,0.02,0.05,0.74,0.37
+"Total lipid (fat)",g,78.30,2.98,7.36,118.23,59.51
+"Carbohydrate, by difference",g,2.87,0.11,0.27,4.33,2.18
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.06,0.00,0.01,0.09,0.05
+Minerals
+"Calcium, Ca",mg,23,1,2,35,17
+"Iron, Fe",mg,0.05,0.00,0.00,0.08,0.04
+"Magnesium, Mg",mg,1,0,0,2,1
+"Phosphorus, P",mg,24,1,2,36,18
+"Potassium, K",mg,41,2,4,62,31
+"Sodium, Na",mg,583,22,55,880,443
+"Zinc, Zn",mg,0.05,0.00,0.00,0.08,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.007,0.000,0.001,0.011,0.005
+"Riboflavin",mg,0.064,0.002,0.006,0.097,0.049
+"Niacin",mg,0.022,0.001,0.002,0.033,0.017
+"Vitamin B-6",mg,0.008,0.000,0.001,0.012,0.006
+"Folate, DFE",µg,4,0,0,6,3
+"Vitamin B-12",µg,0.07,0.00,0.01,0.11,0.05
+"Vitamin A, RAE",µg,683,26,64,1031,519
+"Vitamin A, IU",IU,2468,94,232,3727,1876
+"Vitamin E (alpha-tocopherol)",mg,1.37,0.05,0.13,2.07,1.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,4.6,0.2,0.4,6.9,3.5
+Lipids
+"Fatty acids, total saturated",g,45.390,1.725,4.267,68.539,34.496
+"Fatty acids, total monounsaturated",g,19.874,0.755,1.868,30.010,15.104
+"Fatty acids, total polyunsaturated",g,3.331,0.127,0.313,5.030,2.532
+"Fatty acids, total trans",g,2.669,0.101,0.251,4.030,2.028
+"Cholesterol",mg,225,9,21,340,171
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

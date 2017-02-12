@@ -1,0 +1,29 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:52 EST
+"Nutrient data for: 25018, Formulated bar, MARS SNACKFOOD US, COCOAVIA, Chocolate Blueberry Snack Bar"
+Nutrient,Unit,1Value per 100 g,"1 bar = 22.0g",
+Proximates
+"Water",g,20.10,4.42
+"Energy",kcal,325,72
+"Protein",g,6.21,1.37
+"Total lipid (fat)",g,9.27,2.04
+"Carbohydrate, by difference",g,57.87,12.73
+"Fiber, total dietary",g,4.6,1.0
+"Sugars, total",g,33.40,7.35
+Minerals
+"Calcium, Ca",mg,1207,266
+"Iron, Fe",mg,1.88,0.41
+"Sodium, Na",mg,260,57
+Vitamins
+"Vitamin C, total ascorbic acid",mg,42.4,9.3
+"Vitamin B-6",mg,1.364,0.300
+"Folate, DFE",µg,464,102
+"Vitamin B-12",µg,4.09,0.90
+"Vitamin A, IU",IU,32,7
+Lipids
+"Fatty acids, total saturated",g,3.870,0.851
+"Fatty acids, total trans",g,0.037,0.008
+"Cholesterol",mg,2,0
+Amino Acids
+Other

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:11 EST
+"Nutrient data for: 01280, Yogurt, Greek, nonfat, strawberry, DANNON OIKOS"
+Nutrient,Unit,1Value per 100 g,"5.3 oz = 150.0g",
+Proximates
+"Water",g,78.63,117.94
+"Energy",kcal,84,126
+"Protein",g,8.03,12.04
+"Total lipid (fat)",g,0.22,0.33
+"Carbohydrate, by difference",g,12.53,18.80
+"Fiber, total dietary",g,0.4,0.6
+"Sugars, total",g,11.63,17.45
+Minerals
+"Calcium, Ca",mg,94,141
+"Iron, Fe",mg,0.06,0.09
+"Magnesium, Mg",mg,11,16
+"Phosphorus, P",mg,114,171
+"Potassium, K",mg,145,218
+"Sodium, Na",mg,33,50
+"Zinc, Zn",mg,0.45,0.68
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.3
+"Thiamin",mg,0.033,0.050
+"Riboflavin",mg,0.217,0.325
+"Niacin",mg,0.220,0.330
+"Vitamin B-6",mg,0.051,0.076
+"Vitamin B-12",µg,0.59,0.89
+"Vitamin D (D2 + D3)",µg,1.0,1.5
+"Vitamin D",IU,40,60
+Lipids
+"Fatty acids, total saturated",g,0.110,0.165
+"Fatty acids, total monounsaturated",g,0.024,0.036
+"Fatty acids, total polyunsaturated",g,0.008,0.012
+"Fatty acids, total trans",g,0.000,0.000
+Amino Acids
+Other

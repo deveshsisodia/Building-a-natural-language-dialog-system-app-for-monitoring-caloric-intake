@@ -1,0 +1,30 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:35 EST
+"Nutrient data for: 19897, Candies, MARS SNACKFOOD US, COCOAVIA Chocolate Covered Almonds"
+Nutrient,Unit,1Value per 100 g,"1 serving 1oz pack = 28.0g",
+Proximates
+"Water",g,1.50,0.42
+"Energy",kcal,573,160
+"Protein",g,9.51,2.66
+"Total lipid (fat)",g,37.07,10.38
+"Carbohydrate, by difference",g,50.22,14.06
+"Fiber, total dietary",g,10.4,2.9
+"Sugars, total",g,26.92,7.54
+Minerals
+"Calcium, Ca",mg,840,235
+"Iron, Fe",mg,3.56,1.00
+"Sodium, Na",mg,9,3
+Vitamins
+"Vitamin C, total ascorbic acid",mg,27.3,7.6
+"Vitamin B-6",mg,0.714,0.200
+"Vitamin B-12",µg,2.14,0.60
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,20,6
+"Vitamin E (alpha-tocopherol)",mg,4.82,1.35
+Lipids
+"Fatty acids, total saturated",g,11.745,3.289
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

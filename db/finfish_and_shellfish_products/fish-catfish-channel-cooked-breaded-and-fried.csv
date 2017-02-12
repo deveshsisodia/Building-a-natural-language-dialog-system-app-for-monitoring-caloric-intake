@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:56 EST
+"Nutrient data for: 15011, Fish, catfish, channel, cooked, breaded and fried"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 87.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,58.81,51.16,49.99
+"Energy",kcal,229,199,195
+"Protein",g,18.09,15.74,15.38
+"Total lipid (fat)",g,13.33,11.60,11.33
+"Carbohydrate, by difference",g,8.04,6.99,6.83
+"Fiber, total dietary",g,0.7,0.6,0.6
+Minerals
+"Calcium, Ca",mg,44,38,37
+"Iron, Fe",mg,1.43,1.24,1.22
+"Magnesium, Mg",mg,27,23,23
+"Phosphorus, P",mg,216,188,184
+"Potassium, K",mg,340,296,289
+"Sodium, Na",mg,280,244,238
+"Zinc, Zn",mg,0.86,0.75,0.73
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.073,0.064,0.062
+"Riboflavin",mg,0.133,0.116,0.113
+"Niacin",mg,2.282,1.985,1.940
+"Vitamin B-6",mg,0.190,0.165,0.161
+"Folate, DFE",µg,39,34,33
+"Vitamin B-12",µg,1.90,1.65,1.61
+"Vitamin A, RAE",µg,8,7,7
+"Vitamin A, IU",IU,28,24,24
+Lipids
+"Fatty acids, total saturated",g,3.288,2.861,2.795
+"Fatty acids, total monounsaturated",g,5.611,4.882,4.769
+"Fatty acids, total polyunsaturated",g,3.325,2.893,2.826
+"Cholesterol",mg,71,62,60
+Amino Acids
+Other

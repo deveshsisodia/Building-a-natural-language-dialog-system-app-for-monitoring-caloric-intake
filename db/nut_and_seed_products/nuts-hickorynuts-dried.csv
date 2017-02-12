@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:08 EST
+"Nutrient data for: 12130, Nuts, hickorynuts, dried"
+Nutrient,Unit,1Value per 100 g,"1 cup = 120.0g","1 oz = 28.35g","1 nut = 3.0g",
+Proximates
+"Water",g,2.65,3.18,0.75,0.08
+"Energy",kcal,657,788,186,20
+"Protein",g,12.72,15.26,3.61,0.38
+"Total lipid (fat)",g,64.37,77.24,18.25,1.93
+"Carbohydrate, by difference",g,18.25,21.90,5.17,0.55
+"Fiber, total dietary",g,6.4,7.7,1.8,0.2
+Minerals
+"Calcium, Ca",mg,61,73,17,2
+"Iron, Fe",mg,2.12,2.54,0.60,0.06
+"Magnesium, Mg",mg,173,208,49,5
+"Phosphorus, P",mg,336,403,95,10
+"Potassium, K",mg,436,523,124,13
+"Sodium, Na",mg,1,1,0,0
+"Zinc, Zn",mg,4.31,5.17,1.22,0.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.0,2.4,0.6,0.1
+"Thiamin",mg,0.867,1.040,0.246,0.026
+"Riboflavin",mg,0.131,0.157,0.037,0.004
+"Niacin",mg,0.907,1.088,0.257,0.027
+"Vitamin B-6",mg,0.192,0.230,0.054,0.006
+"Folate, DFE",µg,40,48,11,1
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,7,8,2,0
+"Vitamin A, IU",IU,131,157,37,4
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+Lipids
+"Fatty acids, total saturated",g,7.038,8.446,1.995,0.211
+"Fatty acids, total monounsaturated",g,32.611,39.133,9.245,0.978
+"Fatty acids, total polyunsaturated",g,21.886,26.263,6.205,0.657
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other

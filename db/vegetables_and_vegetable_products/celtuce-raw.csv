@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:19 EST
+"Nutrient data for: 11145, Celtuce, raw"
+Nutrient,Unit,1Value per 100 g,"1 leaf = 8.0g",
+Proximates
+"Water",g,94.50,7.56
+"Energy",kcal,18,1
+"Protein",g,0.85,0.07
+"Total lipid (fat)",g,0.30,0.02
+"Carbohydrate, by difference",g,3.65,0.29
+"Fiber, total dietary",g,1.7,0.1
+Minerals
+"Calcium, Ca",mg,39,3
+"Iron, Fe",mg,0.55,0.04
+"Magnesium, Mg",mg,28,2
+"Phosphorus, P",mg,39,3
+"Potassium, K",mg,330,26
+"Sodium, Na",mg,11,1
+"Zinc, Zn",mg,0.27,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,19.5,1.6
+"Thiamin",mg,0.055,0.004
+"Riboflavin",mg,0.070,0.006
+"Niacin",mg,0.550,0.044
+"Vitamin B-6",mg,0.050,0.004
+"Folate, DFE",µg,46,4
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,175,14
+"Vitamin A, IU",IU,3500,280
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

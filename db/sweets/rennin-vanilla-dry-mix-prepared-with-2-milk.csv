@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:49 EST
+"Nutrient data for: 19214, Rennin, vanilla, dry mix, prepared with 2% milk"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,82.11,
+"Energy",kcal,77,
+"Protein",g,3.06,
+"Total lipid (fat)",g,1.77,
+"Carbohydrate, by difference",g,12.34,
+"Fiber, total dietary",g,0.0,
+Minerals
+"Calcium, Ca",mg,121,
+"Iron, Fe",mg,0.05,
+"Magnesium, Mg",mg,13,
+"Phosphorus, P",mg,95,
+"Potassium, K",mg,142,
+"Sodium, Na",mg,46,
+"Zinc, Zn",mg,0.36,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,
+"Thiamin",mg,0.036,
+"Riboflavin",mg,0.153,
+"Niacin",mg,0.079,
+"Vitamin B-6",mg,0.040,
+"Folate, DFE",µg,5,
+"Vitamin B-12",µg,0.33,
+"Vitamin A, RAE",µg,51,
+"Vitamin A, IU",IU,170,
+"Vitamin D (D2 + D3)",µg,0.9,
+"Vitamin D",IU,37,
+Lipids
+"Fatty acids, total saturated",g,1.061,
+"Fatty acids, total monounsaturated",g,0.484,
+"Fatty acids, total polyunsaturated",g,0.065,
+"Cholesterol",mg,7,
+Amino Acids
+Other
+"Caffeine",mg,0,

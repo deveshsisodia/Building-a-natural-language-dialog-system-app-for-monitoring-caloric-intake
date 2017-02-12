@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:46 EST
+"Nutrient data for: 10950, Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, with added solution, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"1 chop = 107.0g",
+Proximates
+"Water",g,60.71,64.96
+"Energy",kcal,198,212
+"Protein",g,28.33,30.31
+"Total lipid (fat)",g,9.42,10.08
+"Carbohydrate, by difference",g,0.02,0.02
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,11,12
+"Iron, Fe",mg,0.57,0.61
+"Magnesium, Mg",mg,28,30
+"Phosphorus, P",mg,307,328
+"Potassium, K",mg,581,622
+"Sodium, Na",mg,302,323
+"Zinc, Zn",mg,1.70,1.82
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.636,0.681
+"Riboflavin",mg,0.233,0.249
+"Niacin",mg,8.589,9.190
+"Vitamin B-6",mg,0.450,0.481
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,0.73,0.78
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.42,0.45
+"Vitamin D (D2 + D3)",µg,0.6,0.6
+"Vitamin D",IU,25,27
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,3.268,3.497
+"Fatty acids, total monounsaturated",g,3.819,4.086
+"Fatty acids, total polyunsaturated",g,1.304,1.395
+"Fatty acids, total trans",g,0.060,0.064
+"Cholesterol",mg,71,76
+Amino Acids
+Other
+"Caffeine",mg,0,0

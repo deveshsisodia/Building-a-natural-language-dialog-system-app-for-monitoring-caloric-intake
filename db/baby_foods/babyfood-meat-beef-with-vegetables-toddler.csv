@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:46 EST
+"Nutrient data for: 43417, Babyfood, meat, beef with vegetables, toddler"
+Nutrient,Unit,1Value per 100 g,"1 jar NFS = 179.0g",
+Proximates
+"Water",g,85.23,152.56
+"Energy",kcal,68,122
+"Protein",g,3.50,6.26
+"Total lipid (fat)",g,2.10,3.76
+"Carbohydrate, by difference",g,8.72,15.61
+"Fiber, total dietary",g,1.8,3.2
+"Sugars, total",g,1.18,2.11
+Minerals
+"Calcium, Ca",mg,11,20
+"Iron, Fe",mg,0.50,0.90
+"Magnesium, Mg",mg,11,20
+"Phosphorus, P",mg,37,66
+"Potassium, K",mg,168,301
+"Sodium, Na",mg,26,47
+"Zinc, Zn",mg,0.87,1.56
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.5,4.5
+"Thiamin",mg,0.020,0.036
+"Riboflavin",mg,0.040,0.072
+"Niacin",mg,0.710,1.271
+"Vitamin B-6",mg,0.070,0.125
+"Folate, DFE",µg,6,11
+"Vitamin B-12",µg,0.51,0.91
+"Vitamin A, RAE",µg,57,102
+"Vitamin A, IU",IU,1140,2041
+"Vitamin E (alpha-tocopherol)",mg,0.37,0.66
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,3.2,5.7
+Lipids
+"Fatty acids, total saturated",g,0.847,1.516
+"Fatty acids, total monounsaturated",g,0.920,1.647
+"Fatty acids, total polyunsaturated",g,0.108,0.193
+"Cholesterol",mg,12,21
+Amino Acids
+Other
+"Caffeine",mg,0,0

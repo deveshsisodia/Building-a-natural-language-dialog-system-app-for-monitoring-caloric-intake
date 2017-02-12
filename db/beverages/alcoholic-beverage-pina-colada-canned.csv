@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:18 EST
+"Nutrient data for: 14015, Alcoholic beverage, pina colada, canned"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 32.6g","1 can (6.8 fl oz, 200 ml) = 222.0g",
+Proximates
+"Water",g,54.90,17.90,121.88
+"Energy",kcal,237,77,526
+"Protein",g,0.60,0.20,1.33
+"Total lipid (fat)",g,7.60,2.48,16.87
+"Carbohydrate, by difference",g,27.60,9.00,61.27
+"Fiber, total dietary",g,0.1,0.0,0.2
+Minerals
+"Calcium, Ca",mg,1,0,2
+"Iron, Fe",mg,0.03,0.01,0.07
+"Magnesium, Mg",mg,6,2,13
+"Phosphorus, P",mg,36,12,80
+"Potassium, K",mg,83,27,184
+"Sodium, Na",mg,71,23,158
+"Zinc, Zn",mg,0.20,0.07,0.44
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.5,0.5,3.3
+"Thiamin",mg,0.017,0.006,0.038
+"Riboflavin",mg,0.005,0.002,0.011
+"Niacin",mg,0.104,0.034,0.231
+"Vitamin B-6",mg,0.017,0.006,0.038
+"Folate, DFE",µg,6,2,13
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,0,2
+"Vitamin A, IU",IU,24,8,53
+Lipids
+"Fatty acids, total saturated",g,6.571,2.142,14.588
+"Fatty acids, total monounsaturated",g,0.442,0.144,0.981
+"Fatty acids, total polyunsaturated",g,0.137,0.045,0.304
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

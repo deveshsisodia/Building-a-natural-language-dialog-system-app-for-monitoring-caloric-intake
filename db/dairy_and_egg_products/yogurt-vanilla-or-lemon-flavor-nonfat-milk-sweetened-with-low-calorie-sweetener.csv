@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:11 EST
+"Nutrient data for: 01184, Yogurt, vanilla or lemon flavor, nonfat milk, sweetened with low-calorie sweetener"
+Nutrient,Unit,1Value per 100 g,"1 container (6 oz) = 170.0g",
+Proximates
+"Water",g,87.43,148.63
+"Energy",kcal,43,73
+"Protein",g,3.86,6.56
+"Total lipid (fat)",g,0.18,0.31
+"Carbohydrate, by difference",g,7.50,12.75
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,7.50,12.75
+Minerals
+"Calcium, Ca",mg,143,243
+"Iron, Fe",mg,0.12,0.20
+"Magnesium, Mg",mg,13,22
+"Phosphorus, P",mg,109,185
+"Potassium, K",mg,177,301
+"Sodium, Na",mg,59,100
+"Zinc, Zn",mg,0.67,1.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,1.9
+"Thiamin",mg,0.034,0.058
+"Riboflavin",mg,0.162,0.275
+"Niacin",mg,0.086,0.146
+"Vitamin B-6",mg,0.037,0.063
+"Folate, DFE",µg,8,14
+"Vitamin B-12",µg,0.43,0.73
+"Vitamin A, RAE",µg,2,3
+"Vitamin A, IU",IU,6,10
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.116,0.197
+"Fatty acids, total monounsaturated",g,0.049,0.083
+"Fatty acids, total polyunsaturated",g,0.005,0.009
+"Cholesterol",mg,2,3
+Amino Acids
+Other
+"Caffeine",mg,0,0

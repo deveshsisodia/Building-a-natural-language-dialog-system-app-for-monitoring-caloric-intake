@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:09 EST
+"Nutrient data for: 12149, Nuts, pine nuts, pinyon, dried"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","10.0 nuts = 1.0g",
+Proximates
+"Water",g,5.90,1.67,0.06
+"Energy",kcal,629,178,6
+"Protein",g,11.57,3.28,0.12
+"Total lipid (fat)",g,60.98,17.29,0.61
+"Carbohydrate, by difference",g,19.30,5.47,0.19
+"Fiber, total dietary",g,10.7,3.0,0.1
+Minerals
+"Calcium, Ca",mg,8,2,0
+"Iron, Fe",mg,3.06,0.87,0.03
+"Magnesium, Mg",mg,234,66,2
+"Phosphorus, P",mg,35,10,0
+"Potassium, K",mg,628,178,6
+"Sodium, Na",mg,72,20,1
+"Zinc, Zn",mg,4.28,1.21,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.0,0.6,0.0
+"Thiamin",mg,1.243,0.352,0.012
+"Riboflavin",mg,0.223,0.063,0.002
+"Niacin",mg,4.370,1.239,0.044
+"Vitamin B-6",mg,0.111,0.031,0.001
+"Folate, DFE",µg,58,16,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,0,0
+"Vitamin A, IU",IU,29,8,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,9.377,2.658,0.094
+"Fatty acids, total monounsaturated",g,22.942,6.504,0.229
+"Fatty acids, total polyunsaturated",g,25.668,7.277,0.257
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

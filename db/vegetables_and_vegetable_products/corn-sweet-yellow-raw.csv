@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:20 EST
+"Nutrient data for: 11167, Corn, sweet, yellow, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 145.0g","1 ear, large (7-3/4"" to 9"" long) yields = 143.0g","1 ear, medium (6-3/4"" to 7-1/2"" long) yields = 102.0g","1 ear, small (5-1/2"" to 6-1/2"" long) = 73.0g",
+Proximates
+"Water",g,76.05,110.27,108.75,77.57,55.52
+"Energy",kcal,86,125,123,88,63
+"Protein",g,3.27,4.74,4.68,3.34,2.39
+"Total lipid (fat)",g,1.35,1.96,1.93,1.38,0.99
+"Carbohydrate, by difference",g,18.70,27.11,26.74,19.07,13.65
+"Fiber, total dietary",g,2.0,2.9,2.9,2.0,1.5
+"Sugars, total",g,6.26,9.08,8.95,6.39,4.57
+Minerals
+"Calcium, Ca",mg,2,3,3,2,1
+"Iron, Fe",mg,0.52,0.75,0.74,0.53,0.38
+"Magnesium, Mg",mg,37,54,53,38,27
+"Phosphorus, P",mg,89,129,127,91,65
+"Potassium, K",mg,270,392,386,275,197
+"Sodium, Na",mg,15,22,21,15,11
+"Zinc, Zn",mg,0.46,0.67,0.66,0.47,0.34
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.8,9.9,9.7,6.9,5.0
+"Thiamin",mg,0.155,0.225,0.222,0.158,0.113
+"Riboflavin",mg,0.055,0.080,0.079,0.056,0.040
+"Niacin",mg,1.770,2.566,2.531,1.805,1.292
+"Vitamin B-6",mg,0.093,0.135,0.133,0.095,0.068
+"Folate, DFE",µg,42,61,60,43,31
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,9,13,13,9,7
+"Vitamin A, IU",IU,187,271,267,191,137
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.10,0.10,0.07,0.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.4,0.4,0.3,0.2
+Lipids
+"Fatty acids, total saturated",g,0.325,0.471,0.465,0.331,0.237
+"Fatty acids, total monounsaturated",g,0.432,0.626,0.618,0.441,0.315
+"Fatty acids, total polyunsaturated",g,0.487,0.706,0.696,0.497,0.356
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

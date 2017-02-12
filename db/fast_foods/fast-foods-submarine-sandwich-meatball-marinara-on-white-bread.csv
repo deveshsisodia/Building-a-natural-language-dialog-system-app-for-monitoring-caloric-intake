@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:34 EST
+"Nutrient data for: 21158, Fast foods, submarine sandwich, meatball marinara on white bread"
+Nutrient,Unit,1Value per 100 g,"6.0 inch sub = 209.0g","12.0 inch sub = 418.0g",
+Proximates
+"Water",g,53.59,112.00,224.01
+"Energy",kcal,219,458,915
+"Protein",g,9.77,20.42,40.84
+"Total lipid (fat)",g,8.45,17.66,35.32
+"Carbohydrate, by difference",g,26.01,54.36,108.72
+"Fiber, total dietary",g,2.1,4.4,8.8
+"Sugars, total",g,4.98,10.41,20.82
+Minerals
+"Calcium, Ca",mg,176,368,736
+"Iron, Fe",mg,2.32,4.85,9.70
+"Magnesium, Mg",mg,29,61,121
+"Phosphorus, P",mg,97,203,405
+"Potassium, K",mg,275,575,1150
+"Sodium, Na",mg,437,913,1827
+"Zinc, Zn",mg,1.19,2.49,4.97
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.8,1.7
+"Thiamin",mg,0.250,0.522,1.045
+"Riboflavin",mg,0.253,0.529,1.058
+"Niacin",mg,3.547,7.413,14.826
+"Vitamin B-6",mg,0.132,0.276,0.552
+"Folate, DFE",µg,113,236,472
+"Vitamin B-12",µg,0.55,1.15,2.30
+"Vitamin A, RAE",µg,15,31,63
+"Vitamin A, IU",IU,292,610,1221
+"Vitamin E (alpha-tocopherol)",mg,0.79,1.65,3.30
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,1,2,4
+"Vitamin K (phylloquinone)",µg,6.6,13.8,27.6
+Lipids
+"Fatty acids, total saturated",g,3.124,6.529,13.058
+"Fatty acids, total monounsaturated",g,3.573,7.468,14.935
+"Fatty acids, total polyunsaturated",g,1.125,2.351,4.702
+"Fatty acids, total trans",g,0.421,0.880,1.760
+"Cholesterol",mg,15,31,63
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

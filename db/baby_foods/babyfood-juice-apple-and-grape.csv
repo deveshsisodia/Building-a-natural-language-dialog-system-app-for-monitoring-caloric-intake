@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:45 EST
+"Nutrient data for: 03265, Babyfood, juice, apple and grape"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 31.2g","1 jar = 127.0g","1 bottle Earth's Best (4.2 fl oz) = 131.0g","1 bottle Heinz Strained (4 fl oz) = 125.0g","1 bottle Beech-Nut Stage 2 (4 fl oz) = 125.0g","1 bottle Gerber Second Foods (4 fl oz) = 125.0g",
+Proximates
+"Water",g,88.10,27.49,111.89,115.41,110.12,110.12,110.12
+"Energy",kcal,46,14,58,60,58,58,58
+"Protein",g,0.10,0.03,0.13,0.13,0.12,0.12,0.12
+"Total lipid (fat)",g,0.20,0.06,0.25,0.26,0.25,0.25,0.25
+"Carbohydrate, by difference",g,11.34,3.54,14.40,14.86,14.18,14.18,14.18
+"Fiber, total dietary",g,0.1,0.0,0.1,0.1,0.1,0.1,0.1
+"Sugars, total",g,10.90,3.40,13.84,14.28,13.62,13.62,13.62
+Minerals
+"Calcium, Ca",mg,6,2,8,8,8,8,8
+"Iron, Fe",mg,0.39,0.12,0.50,0.51,0.49,0.49,0.49
+"Magnesium, Mg",mg,6,2,8,8,8,8,8
+"Phosphorus, P",mg,5,2,6,7,6,6,6
+"Potassium, K",mg,90,28,114,118,112,112,112
+"Sodium, Na",mg,0,0,0,0,0,0,0
+"Zinc, Zn",mg,0.04,0.01,0.05,0.05,0.05,0.05,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,31.5,9.8,40.0,41.3,39.4,39.4,39.4
+"Thiamin",mg,0.007,0.002,0.009,0.009,0.009,0.009,0.009
+"Riboflavin",mg,0.021,0.007,0.027,0.028,0.026,0.026,0.026
+"Niacin",mg,0.109,0.034,0.138,0.143,0.136,0.136,0.136
+"Vitamin B-6",mg,0.034,0.011,0.043,0.045,0.043,0.043,0.043
+"Folate, DFE",µg,1,0,1,1,1,1,1
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0,0
+"Vitamin A, IU",IU,4,1,5,5,5,5,5
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.040,0.012,0.051,0.052,0.050,0.050,0.050
+"Fatty acids, total monounsaturated",g,0.009,0.003,0.011,0.012,0.011,0.011,0.011
+"Fatty acids, total polyunsaturated",g,0.059,0.018,0.075,0.077,0.074,0.074,0.074
+"Cholesterol",mg,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

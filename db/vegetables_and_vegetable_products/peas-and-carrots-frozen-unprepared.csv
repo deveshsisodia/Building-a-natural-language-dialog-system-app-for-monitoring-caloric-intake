@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:25 EST
+"Nutrient data for: 11322, Peas and carrots, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 70.0g","1 package (10 oz) = 284.0g",
+Proximates
+"Water",g,84.36,59.05,239.58
+"Energy",kcal,53,37,151
+"Protein",g,3.40,2.38,9.66
+"Total lipid (fat)",g,0.47,0.33,1.33
+"Carbohydrate, by difference",g,11.15,7.80,31.67
+"Fiber, total dietary",g,3.4,2.4,9.7
+Minerals
+"Calcium, Ca",mg,27,19,77
+"Iron, Fe",mg,1.09,0.76,3.10
+"Magnesium, Mg",mg,18,13,51
+"Phosphorus, P",mg,60,42,170
+"Potassium, K",mg,194,136,551
+"Sodium, Na",mg,79,55,224
+"Zinc, Zn",mg,0.52,0.36,1.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,11.2,7.8,31.8
+"Thiamin",mg,0.190,0.133,0.540
+"Riboflavin",mg,0.081,0.057,0.230
+"Niacin",mg,1.412,0.988,4.010
+"Vitamin B-6",mg,0.101,0.071,0.287
+"Folate, DFE",µg,36,25,102
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,475,332,1349
+"Vitamin A, IU",IU,9497,6648,26971
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.084,0.059,0.239
+"Fatty acids, total monounsaturated",g,0.039,0.027,0.111
+"Fatty acids, total polyunsaturated",g,0.221,0.155,0.628
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:48 EST
+"Nutrient data for: 10945, Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, with added solution cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,59.20,50.32
+"Energy",kcal,227,193
+"Protein",g,27.58,23.44
+"Total lipid (fat)",g,12.14,10.32
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,26,22
+"Iron, Fe",mg,1.82,1.55
+"Magnesium, Mg",mg,21,18
+"Phosphorus, P",mg,234,199
+"Potassium, K",mg,388,330
+"Sodium, Na",mg,154,131
+"Zinc, Zn",mg,4.85,4.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.424,0.360
+"Riboflavin",mg,0.381,0.324
+"Niacin",mg,3.575,3.039
+"Vitamin B-6",mg,0.488,0.415
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,0.94,0.80
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.09
+"Vitamin D (D2 + D3)",µg,1.0,0.8
+"Vitamin D",IU,42,36
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,4.620,3.927
+"Fatty acids, total monounsaturated",g,5.702,4.847
+"Fatty acids, total polyunsaturated",g,1.290,1.097
+"Fatty acids, total trans",g,0.094,0.080
+"Cholesterol",mg,98,83
+Amino Acids
+Other
+"Caffeine",mg,0,0

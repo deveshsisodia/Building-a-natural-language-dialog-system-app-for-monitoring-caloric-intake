@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:29 EST
+"Nutrient data for: 28285, Bread, chapati or roti, whole wheat, commercially prepared, frozen"
+Nutrient,Unit,1Value per 100 g,"1 piece = 43.0g",
+Proximates
+"Water",g,35.43,15.23
+"Energy",kcal,299,129
+"Protein",g,7.85,3.38
+"Total lipid (fat)",g,9.20,3.96
+"Carbohydrate, by difference",g,46.13,19.84
+"Fiber, total dietary",g,9.7,4.2
+"Sugars, total",g,2.93,1.26
+Minerals
+"Calcium, Ca",mg,36,15
+"Iron, Fe",mg,2.20,0.95
+"Magnesium, Mg",mg,56,24
+"Phosphorus, P",mg,158,68
+"Potassium, K",mg,196,84
+"Sodium, Na",mg,298,128
+"Zinc, Zn",mg,1.54,0.66
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.450,0.194
+"Riboflavin",mg,0.180,0.077
+"Niacin",mg,4.610,1.982
+"Vitamin B-6",mg,0.280,0.120
+"Folate, DFE",µg,45,19
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.55,0.24
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,3.3,1.4
+Lipids
+"Fatty acids, total saturated",g,3.311,1.424
+"Fatty acids, total monounsaturated",g,2.091,0.899
+"Fatty acids, total polyunsaturated",g,0.761,0.327
+"Fatty acids, total trans",g,0.029,0.012
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

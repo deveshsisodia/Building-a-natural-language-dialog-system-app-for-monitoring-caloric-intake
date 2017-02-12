@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:56 EST
+"Nutrient data for: 16009, Beans, baked, canned, with pork"
+Nutrient,Unit,1Value per 100 g,"1 cup = 253.0g",
+Proximates
+"Water",g,71.46,180.79
+"Energy",kcal,106,268
+"Protein",g,5.19,13.13
+"Total lipid (fat)",g,1.55,3.92
+"Carbohydrate, by difference",g,19.99,50.57
+"Fiber, total dietary",g,5.5,13.9
+Minerals
+"Calcium, Ca",mg,53,134
+"Iron, Fe",mg,1.70,4.30
+"Magnesium, Mg",mg,34,86
+"Phosphorus, P",mg,108,273
+"Potassium, K",mg,309,782
+"Sodium, Na",mg,414,1047
+"Zinc, Zn",mg,1.46,3.69
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.0,5.1
+"Thiamin",mg,0.053,0.134
+"Riboflavin",mg,0.038,0.096
+"Niacin",mg,0.447,1.131
+"Vitamin B-6",mg,0.064,0.162
+"Folate, DFE",µg,36,91
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.599,1.515
+"Fatty acids, total monounsaturated",g,0.673,1.703
+"Fatty acids, total polyunsaturated",g,0.199,0.503
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,7,18
+Amino Acids
+Other

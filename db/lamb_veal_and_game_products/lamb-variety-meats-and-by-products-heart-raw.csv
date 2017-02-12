@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:05 EST
+"Nutrient data for: 17191, Lamb, variety meats and by-products, heart, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","4.0 oz = 113.0g",
+Proximates
+"Water",g,76.71,21.75,86.68
+"Energy",kcal,122,35,138
+"Protein",g,16.47,4.67,18.61
+"Total lipid (fat)",g,5.68,1.61,6.42
+"Carbohydrate, by difference",g,0.21,0.06,0.24
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,6,2,7
+"Iron, Fe",mg,4.60,1.30,5.20
+"Magnesium, Mg",mg,17,5,19
+"Phosphorus, P",mg,175,50,198
+"Potassium, K",mg,316,90,357
+"Sodium, Na",mg,89,25,101
+"Zinc, Zn",mg,1.87,0.53,2.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.0,1.4,5.7
+"Thiamin",mg,0.370,0.105,0.418
+"Riboflavin",mg,0.990,0.281,1.119
+"Niacin",mg,6.140,1.741,6.938
+"Vitamin B-6",mg,0.390,0.111,0.441
+"Folate, DFE",µg,2,1,2
+"Vitamin B-12",µg,10.25,2.91,11.58
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,2.250,0.638,2.542
+"Fatty acids, total monounsaturated",g,1.600,0.454,1.808
+"Fatty acids, total polyunsaturated",g,0.550,0.156,0.622
+"Cholesterol",mg,135,38,153
+Amino Acids
+Other

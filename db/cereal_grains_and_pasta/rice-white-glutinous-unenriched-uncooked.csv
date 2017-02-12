@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:13 EST
+"Nutrient data for: 20054, Rice, white, glutinous, unenriched, uncooked"
+Nutrient,Unit,1Value per 100 g,"1 cup = 185.0g",
+Proximates
+"Water",g,10.46,19.35
+"Energy",kcal,370,684
+"Protein",g,6.81,12.60
+"Total lipid (fat)",g,0.55,1.02
+"Carbohydrate, by difference",g,81.68,151.11
+"Fiber, total dietary",g,2.8,5.2
+Minerals
+"Calcium, Ca",mg,11,20
+"Iron, Fe",mg,1.60,2.96
+"Magnesium, Mg",mg,23,43
+"Phosphorus, P",mg,71,131
+"Potassium, K",mg,77,142
+"Sodium, Na",mg,7,13
+"Zinc, Zn",mg,1.20,2.22
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.180,0.333
+"Riboflavin",mg,0.055,0.102
+"Niacin",mg,2.145,3.968
+"Vitamin B-6",mg,0.107,0.198
+"Folate, DFE",µg,7,13
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.111,0.205
+"Fatty acids, total monounsaturated",g,0.200,0.370
+"Fatty acids, total polyunsaturated",g,0.198,0.366
+"Cholesterol",mg,0,0
+Amino Acids
+Other

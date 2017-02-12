@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:29 EST
+"Nutrient data for: 28315, Bread, cinnamon"
+Nutrient,Unit,1Value per 100 g,"1 slice 1 serving = 28.0g",
+Proximates
+"Water",g,41.93,11.74
+"Energy",kcal,253,71
+"Protein",g,7.05,1.97
+"Total lipid (fat)",g,5.29,1.48
+"Carbohydrate, by difference",g,44.38,12.43
+"Fiber, total dietary",g,3.5,1.0
+"Sugars, total",g,14.11,3.95
+Minerals
+"Calcium, Ca",mg,71,20
+"Iron, Fe",mg,2.54,0.71
+"Magnesium, Mg",mg,11,3
+"Phosphorus, P",mg,57,16
+"Potassium, K",mg,74,21
+"Sodium, Na",mg,388,109
+"Zinc, Zn",mg,0.49,0.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.317,0.089
+"Riboflavin",mg,0.120,0.034
+"Niacin",mg,2.822,0.790
+"Vitamin B-6",mg,0.027,0.008
+"Folate, DFE",µg,81,23
+"Vitamin B-12",µg,0.05,0.01
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,4,1
+"Vitamin E (alpha-tocopherol)",mg,0.50,0.14
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,9.5,2.7
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000
+"Fatty acids, total polyunsaturated",g,3.527,0.988
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

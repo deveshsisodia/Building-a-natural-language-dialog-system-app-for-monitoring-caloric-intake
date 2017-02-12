@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:40 EST
+"Nutrient data for: 28148, KEEBLER, TOWN HOUSE, Wheat Crackers"
+Nutrient,Unit,1Value per 100 g,"5.0 crackers = 16.0g",
+Proximates
+"Water",g,3.00,0.48
+"Energy",kcal,489,78
+"Protein",g,6.30,1.01
+"Total lipid (fat)",g,24.40,3.90
+"Carbohydrate, by difference",g,63.20,10.11
+"Fiber, total dietary",g,2.8,0.4
+"Sugars, total",g,3.10,0.50
+Minerals
+"Magnesium, Mg",mg,5,1
+"Phosphorus, P",mg,333,53
+"Potassium, K",mg,134,21
+"Sodium, Na",mg,876,140
+"Zinc, Zn",mg,0.10,0.02
+Vitamins
+"Thiamin",mg,0.560,0.090
+"Riboflavin",mg,0.310,0.050
+"Niacin",mg,3.800,0.608
+"Vitamin B-6",mg,0.010,0.002
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,4.000,0.640
+"Fatty acids, total monounsaturated",g,6.000,0.960
+"Fatty acids, total polyunsaturated",g,14.100,2.256
+"Fatty acids, total trans",g,0.200,0.032
+"Cholesterol",mg,1,0
+Amino Acids
+Other

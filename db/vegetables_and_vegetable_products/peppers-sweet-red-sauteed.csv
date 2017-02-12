@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:26 EST
+"Nutrient data for: 11921, Peppers, sweet, red, sauteed"
+Nutrient,Unit,1Value per 100 g,"1 cup chopped = 106.0g",
+Proximates
+"Water",g,78.95,83.69
+"Energy",kcal,133,141
+"Protein",g,1.04,1.10
+"Total lipid (fat)",g,12.75,13.52
+"Carbohydrate, by difference",g,6.57,6.96
+"Fiber, total dietary",g,1.8,1.9
+"Sugars, total",g,4.28,4.54
+Minerals
+"Calcium, Ca",mg,7,7
+"Iron, Fe",mg,0.47,0.50
+"Magnesium, Mg",mg,12,13
+"Phosphorus, P",mg,23,24
+"Potassium, K",mg,193,205
+"Sodium, Na",mg,21,22
+"Zinc, Zn",mg,0.15,0.16
+Vitamins
+"Vitamin C, total ascorbic acid",mg,162.8,172.6
+"Thiamin",mg,0.056,0.059
+"Riboflavin",mg,0.109,0.116
+"Niacin",mg,0.954,1.011
+"Vitamin B-6",mg,0.364,0.386
+"Folate, DFE",µg,2,2
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,138,146
+"Vitamin A, IU",IU,2760,2926
+"Vitamin E (alpha-tocopherol)",mg,3.09,3.28
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,16.4,17.4
+Lipids
+"Fatty acids, total saturated",g,1.557,1.650
+"Fatty acids, total monounsaturated",g,2.287,2.424
+"Fatty acids, total polyunsaturated",g,5.719,6.062
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

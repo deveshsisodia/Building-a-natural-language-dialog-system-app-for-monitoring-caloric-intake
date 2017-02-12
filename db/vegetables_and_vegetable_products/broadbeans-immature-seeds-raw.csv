@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:17 EST
+"Nutrient data for: 11088, Broadbeans, immature seeds, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 109.0g","1 broadbean = 8.0g",
+Proximates
+"Water",g,81.00,88.29,6.48
+"Energy",kcal,72,78,6
+"Protein",g,5.60,6.10,0.45
+"Total lipid (fat)",g,0.60,0.65,0.05
+"Carbohydrate, by difference",g,11.70,12.75,0.94
+"Fiber, total dietary",g,4.2,4.6,0.3
+Minerals
+"Calcium, Ca",mg,22,24,2
+"Iron, Fe",mg,1.90,2.07,0.15
+"Magnesium, Mg",mg,38,41,3
+"Phosphorus, P",mg,95,104,8
+"Potassium, K",mg,250,272,20
+"Sodium, Na",mg,50,54,4
+"Zinc, Zn",mg,0.58,0.63,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,33.0,36.0,2.6
+"Thiamin",mg,0.170,0.185,0.014
+"Riboflavin",mg,0.110,0.120,0.009
+"Niacin",mg,1.500,1.635,0.120
+"Vitamin B-6",mg,0.038,0.041,0.003
+"Folate, DFE",µg,96,105,8
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,18,20,1
+"Vitamin A, IU",IU,350,382,28
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.138,0.150,0.011
+"Fatty acids, total monounsaturated",g,0.017,0.019,0.001
+"Fatty acids, total polyunsaturated",g,0.310,0.338,0.025
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:36 EST
+"Nutrient data for: 21361, McDONALD'S, Sausage Biscuit"
+Nutrient,Unit,1Value per 100 g,"1 item 4.1 oz = 117.0g",
+Proximates
+"Water",g,34.71,40.61
+"Energy",kcal,376,440
+"Protein",g,9.62,11.26
+"Total lipid (fat)",g,25.40,29.72
+"Carbohydrate, by difference",g,27.20,31.82
+"Fiber, total dietary",g,1.2,1.4
+"Sugars, total",g,1.97,2.30
+Minerals
+"Calcium, Ca",mg,55,64
+"Iron, Fe",mg,2.01,2.35
+"Magnesium, Mg",mg,13,15
+"Phosphorus, P",mg,323,378
+"Potassium, K",mg,177,207
+"Sodium, Na",mg,875,1024
+"Zinc, Zn",mg,0.86,1.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.403,0.472
+"Riboflavin",mg,0.281,0.329
+"Niacin",mg,4.284,5.012
+"Vitamin B-6",mg,0.128,0.150
+"Vitamin B-12",µg,0.39,0.46
+"Vitamin A, RAE",µg,8,9
+"Vitamin A, IU",IU,26,30
+"Vitamin E (alpha-tocopherol)",mg,0.75,0.88
+Lipids
+"Fatty acids, total saturated",g,10.659,12.471
+"Fatty acids, total monounsaturated",g,8.832,10.333
+"Fatty acids, total polyunsaturated",g,3.420,4.001
+"Fatty acids, total trans",g,0.237,0.277
+"Cholesterol",mg,29,34
+Amino Acids
+Other

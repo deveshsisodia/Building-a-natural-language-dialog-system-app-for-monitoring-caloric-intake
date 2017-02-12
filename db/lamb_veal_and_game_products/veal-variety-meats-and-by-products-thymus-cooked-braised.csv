@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:12 EST
+"Nutrient data for: 17219, Veal, variety meats and by-products, thymus, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,73.63,62.59
+"Energy",kcal,125,106
+"Protein",g,22.67,19.27
+"Total lipid (fat)",g,3.11,2.64
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,4,3
+"Iron, Fe",mg,1.24,1.05
+"Magnesium, Mg",mg,24,20
+"Phosphorus, P",mg,627,533
+"Potassium, K",mg,435,370
+"Sodium, Na",mg,59,50
+"Zinc, Zn",mg,2.13,1.81
+Vitamins
+"Vitamin C, total ascorbic acid",mg,39.4,33.5
+"Thiamin",mg,0.054,0.046
+"Riboflavin",mg,0.100,0.085
+"Niacin",mg,3.380,2.873
+"Vitamin B-6",mg,0.027,0.023
+"Folate, DFE",µg,20,17
+"Vitamin B-12",µg,2.85,2.42
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.09,0.08
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.942,0.801
+"Fatty acids, total monounsaturated",g,0.903,0.768
+"Fatty acids, total polyunsaturated",g,0.315,0.268
+"Fatty acids, total trans",g,0.200,0.170
+"Cholesterol",mg,350,298
+Amino Acids
+Other
+"Caffeine",mg,0,0

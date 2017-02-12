@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:33 EST
+"Nutrient data for: 05136, Chicken, capons, meat and skin, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 unit (yield from 1 lb ready-to cook capon) = 196.0g","0.5 capon, bone removed = 637.0g",
+Proximates
+"Water",g,58.70,49.90,115.05,373.92
+"Energy",kcal,229,195,449,1459
+"Protein",g,28.96,24.62,56.76,184.48
+"Total lipid (fat)",g,11.65,9.90,22.83,74.21
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,14,12,27,89
+"Iron, Fe",mg,1.49,1.27,2.92,9.49
+"Magnesium, Mg",mg,24,20,47,153
+"Phosphorus, P",mg,246,209,482,1567
+"Potassium, K",mg,255,217,500,1624
+"Sodium, Na",mg,49,42,96,312
+"Zinc, Zn",mg,1.74,1.48,3.41,11.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.070,0.060,0.137,0.446
+"Riboflavin",mg,0.170,0.145,0.333,1.083
+"Niacin",mg,8.947,7.605,17.536,56.992
+"Vitamin B-6",mg,0.430,0.365,0.843,2.739
+"Folate, DFE",µg,6,5,12,38
+"Vitamin B-12",µg,0.33,0.28,0.65,2.10
+"Vitamin A, IU",IU,68,58,133,433
+Lipids
+"Fatty acids, total saturated",g,3.260,2.771,6.390,20.766
+"Fatty acids, total monounsaturated",g,4.750,4.037,9.310,30.258
+"Fatty acids, total polyunsaturated",g,2.520,2.142,4.939,16.052
+"Cholesterol",mg,86,73,169,548
+Amino Acids
+Other

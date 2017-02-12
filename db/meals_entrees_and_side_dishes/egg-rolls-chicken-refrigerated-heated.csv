@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:22 EST
+"Nutrient data for: 22954, Egg rolls, chicken, refrigerated, heated"
+Nutrient,Unit,1Value per 100 g,"1 roll = 80.0g","1 oz = 28.35g",
+Proximates
+"Water",g,54.18,43.34,15.36
+"Energy",kcal,197,158,56
+"Protein",g,10.44,8.35,2.96
+"Total lipid (fat)",g,4.51,3.61,1.28
+"Carbohydrate, by difference",g,28.54,22.83,8.09
+"Fiber, total dietary",g,2.4,1.9,0.7
+"Sugars, total",g,5.57,4.46,1.58
+Minerals
+"Calcium, Ca",mg,47,38,13
+"Iron, Fe",mg,1.69,1.35,0.48
+"Magnesium, Mg",mg,30,24,9
+"Phosphorus, P",mg,118,94,33
+"Potassium, K",mg,281,225,80
+"Sodium, Na",mg,478,382,136
+"Zinc, Zn",mg,0.52,0.42,0.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,11.2,9.0,3.2
+"Thiamin",mg,0.240,0.192,0.068
+"Riboflavin",mg,0.170,0.136,0.048
+"Niacin",mg,3.630,2.904,1.029
+"Vitamin B-6",mg,0.287,0.230,0.081
+"Folate, DFE",µg,93,74,26
+"Vitamin B-12",µg,0.10,0.08,0.03
+"Vitamin A, RAE",µg,55,44,16
+"Vitamin A, IU",IU,1066,853,302
+"Vitamin E (alpha-tocopherol)",mg,0.37,0.30,0.10
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,1,1,0
+"Vitamin K (phylloquinone)",µg,23.8,19.0,6.7
+Lipids
+"Fatty acids, total saturated",g,0.964,0.771,0.273
+"Fatty acids, total monounsaturated",g,1.329,1.063,0.377
+"Fatty acids, total polyunsaturated",g,1.813,1.450,0.514
+"Cholesterol",mg,14,11,4
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

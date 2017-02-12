@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:12 EST
+"Nutrient data for: 17223, Veal, variety meats and by-products, tongue, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 unit, cooked (yield from 1 lb raw meat) = 255.0g",
+Proximates
+"Water",g,64.08,54.47,163.40
+"Energy",kcal,202,172,515
+"Protein",g,25.85,21.97,65.92
+"Total lipid (fat)",g,10.10,8.59,25.75
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,9,8,23
+"Iron, Fe",mg,2.09,1.78,5.33
+"Magnesium, Mg",mg,18,15,46
+"Phosphorus, P",mg,166,141,423
+"Potassium, K",mg,162,138,413
+"Sodium, Na",mg,64,54,163
+"Zinc, Zn",mg,4.51,3.83,11.50
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.0,5.1,15.3
+"Thiamin",mg,0.070,0.060,0.179
+"Riboflavin",mg,0.350,0.297,0.892
+"Niacin",mg,1.470,1.250,3.748
+"Vitamin B-6",mg,0.150,0.128,0.383
+"Folate, DFE",µg,9,8,23
+"Vitamin B-12",µg,5.30,4.50,13.52
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,4.350,3.697,11.092
+"Fatty acids, total monounsaturated",g,4.610,3.919,11.756
+"Fatty acids, total polyunsaturated",g,0.380,0.323,0.969
+"Cholesterol",mg,238,202,607
+Amino Acids
+Other

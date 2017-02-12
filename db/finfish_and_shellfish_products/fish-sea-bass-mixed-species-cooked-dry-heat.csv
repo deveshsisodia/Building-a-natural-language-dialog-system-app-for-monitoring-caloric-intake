@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:03 EST
+"Nutrient data for: 15092, Fish, sea bass, mixed species, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 101.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,72.14,72.86,61.32
+"Energy",kcal,124,125,105
+"Protein",g,23.63,23.87,20.09
+"Total lipid (fat)",g,2.56,2.59,2.18
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,13,13,11
+"Iron, Fe",mg,0.37,0.37,0.31
+"Magnesium, Mg",mg,53,54,45
+"Phosphorus, P",mg,248,250,211
+"Potassium, K",mg,328,331,279
+"Sodium, Na",mg,87,88,74
+"Zinc, Zn",mg,0.52,0.53,0.44
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.130,0.131,0.111
+"Riboflavin",mg,0.150,0.151,0.128
+"Niacin",mg,1.900,1.919,1.615
+"Vitamin B-6",mg,0.460,0.465,0.391
+"Folate, DFE",µg,6,6,5
+"Vitamin B-12",µg,0.30,0.30,0.26
+"Vitamin A, RAE",µg,64,65,54
+"Vitamin A, IU",IU,213,215,181
+Lipids
+"Fatty acids, total saturated",g,0.655,0.662,0.557
+"Fatty acids, total monounsaturated",g,0.544,0.549,0.462
+"Fatty acids, total polyunsaturated",g,0.953,0.963,0.810
+"Cholesterol",mg,53,54,45
+Amino Acids
+Other

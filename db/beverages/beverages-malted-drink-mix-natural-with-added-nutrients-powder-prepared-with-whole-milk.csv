@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:22 EST
+"Nutrient data for: 14310, Beverages, Malted drink mix, natural, with added nutrients, powder, prepared with whole milk"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 265.0g",
+Proximates
+"Water",g,81.49,215.95
+"Energy",kcal,86,228
+"Protein",g,3.67,9.73
+"Total lipid (fat)",g,3.21,8.51
+"Carbohydrate, by difference",g,10.67,28.28
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,8.37,22.18
+Minerals
+"Calcium, Ca",mg,123,326
+"Iron, Fe",mg,1.36,3.60
+"Magnesium, Mg",mg,15,40
+"Phosphorus, P",mg,107,284
+"Potassium, K",mg,200,530
+"Sodium, Na",mg,72,191
+"Zinc, Zn",mg,0.41,1.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,10.4,27.6
+"Thiamin",mg,0.277,0.734
+"Riboflavin",mg,0.455,1.206
+"Niacin",mg,3.993,10.581
+"Vitamin B-6",mg,0.325,0.861
+"Folate, DFE",µg,6,16
+"Vitamin B-12",µg,0.40,1.06
+"Vitamin A, RAE",µg,281,745
+"Vitamin A, IU",IU,942,2496
+"Vitamin K (phylloquinone)",µg,0.4,1.1
+Lipids
+"Fatty acids, total saturated",g,1.830,4.850
+"Fatty acids, total monounsaturated",g,0.802,2.125
+"Fatty acids, total polyunsaturated",g,0.213,0.564
+"Cholesterol",mg,11,29
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:14 EST
+"Nutrient data for: 20076, Wheat, durum"
+Nutrient,Unit,1Value per 100 g,"1 cup = 192.0g",
+Proximates
+"Water",g,10.94,21.00
+"Energy",kcal,339,651
+"Protein",g,13.68,26.27
+"Total lipid (fat)",g,2.47,4.74
+"Carbohydrate, by difference",g,71.13,136.57
+Minerals
+"Calcium, Ca",mg,34,65
+"Iron, Fe",mg,3.52,6.76
+"Magnesium, Mg",mg,144,276
+"Phosphorus, P",mg,508,975
+"Potassium, K",mg,431,828
+"Sodium, Na",mg,2,4
+"Zinc, Zn",mg,4.16,7.99
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.419,0.804
+"Riboflavin",mg,0.121,0.232
+"Niacin",mg,6.738,12.937
+"Vitamin B-6",mg,0.419,0.804
+"Folate, DFE",µg,43,83
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.454,0.872
+"Fatty acids, total monounsaturated",g,0.344,0.660
+"Fatty acids, total polyunsaturated",g,0.978,1.878
+"Cholesterol",mg,0,0
+Amino Acids
+Other

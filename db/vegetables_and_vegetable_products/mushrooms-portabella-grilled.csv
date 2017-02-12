@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:23 EST
+"Nutrient data for: 11243, Mushrooms, portabella, grilled"
+Nutrient,Unit,1Value per 100 g,"1 cup sliced = 121.0g",
+Proximates
+"Water",g,90.66,109.70
+"Energy",kcal,29,35
+"Protein",g,3.28,3.97
+"Total lipid (fat)",g,0.58,0.70
+"Carbohydrate, by difference",g,4.44,5.37
+"Fiber, total dietary",g,2.2,2.7
+"Sugars, total",g,2.26,2.73
+Minerals
+"Calcium, Ca",mg,3,4
+"Iron, Fe",mg,0.40,0.48
+"Magnesium, Mg",mg,13,16
+"Phosphorus, P",mg,135,163
+"Potassium, K",mg,437,529
+"Sodium, Na",mg,11,13
+"Zinc, Zn",mg,0.65,0.79
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.072,0.087
+"Riboflavin",mg,0.403,0.488
+"Niacin",mg,6.255,7.569
+"Vitamin B-6",mg,0.122,0.148
+"Folate, DFE",µg,19,23
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.3,0.4
+"Vitamin D",IU,14,17
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.064,0.077
+"Fatty acids, total monounsaturated",g,0.009,0.011
+"Fatty acids, total polyunsaturated",g,0.232,0.281
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

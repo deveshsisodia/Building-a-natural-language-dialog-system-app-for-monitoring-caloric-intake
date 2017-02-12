@@ -1,0 +1,45 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:08 EST
+"Nutrient data for: 12632, Nuts, macadamia nuts, dry roasted, with salt added"
+Nutrient,Unit,1Value per 100 g,"1 cup, whole or halves = 132.0g","1 oz (10-12 kernels) = 28.35g",
+Proximates
+"Water",g,1.61,2.13,0.46
+"Energy",kcal,716,945,203
+"Protein",g,7.79,10.28,2.21
+"Total lipid (fat)",g,76.08,100.43,21.57
+"Carbohydrate, by difference",g,12.83,16.94,3.64
+"Fiber, total dietary",g,8.0,10.6,2.3
+"Sugars, total",g,4.14,5.46,1.17
+Minerals
+"Calcium, Ca",mg,70,92,20
+"Iron, Fe",mg,2.65,3.50,0.75
+"Magnesium, Mg",mg,118,156,33
+"Phosphorus, P",mg,198,261,56
+"Potassium, K",mg,363,479,103
+"Sodium, Na",mg,353,466,100
+"Zinc, Zn",mg,1.29,1.70,0.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.9,0.2
+"Thiamin",mg,0.710,0.937,0.201
+"Riboflavin",mg,0.087,0.115,0.025
+"Niacin",mg,2.274,3.002,0.645
+"Vitamin B-6",mg,0.359,0.474,0.102
+"Folate, DFE",µg,10,13,3
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.57,0.75,0.16
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,11.947,15.770,3.387
+"Fatty acids, total monounsaturated",g,59.275,78.243,16.804
+"Fatty acids, total polyunsaturated",g,1.498,1.977,0.425
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Other phytosterols total 30.3 mg/100g; these include delta 5-avenasterol (13.4), campestanol (3.0), and other minor phytosterols (13.9 mg)."

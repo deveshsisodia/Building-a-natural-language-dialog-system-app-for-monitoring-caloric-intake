@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:16 EST
+"Nutrient data for: 11048, Beans, pinto, immature seeds, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"0.333 package (10 oz) = 94.0g","1 package (10 oz) = 284.0g",
+Proximates
+"Water",g,55.80,52.45,158.47
+"Energy",kcal,170,160,483
+"Protein",g,9.80,9.21,27.83
+"Total lipid (fat)",g,0.50,0.47,1.42
+"Carbohydrate, by difference",g,32.50,30.55,92.30
+"Fiber, total dietary",g,5.7,5.4,16.2
+Minerals
+"Calcium, Ca",mg,58,55,165
+"Iron, Fe",mg,3.00,2.82,8.52
+"Magnesium, Mg",mg,60,56,170
+"Phosphorus, P",mg,117,110,332
+"Potassium, K",mg,756,711,2147
+"Sodium, Na",mg,92,86,261
+"Zinc, Zn",mg,0.77,0.72,2.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.9,2.8
+"Thiamin",mg,0.340,0.320,0.966
+"Riboflavin",mg,0.120,0.113,0.341
+"Niacin",mg,0.700,0.658,1.988
+"Vitamin B-6",mg,0.215,0.202,0.611
+"Folate, DFE",µg,50,47,142
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.061,0.057,0.173
+"Fatty acids, total monounsaturated",g,0.037,0.035,0.105
+"Fatty acids, total polyunsaturated",g,0.291,0.274,0.826
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

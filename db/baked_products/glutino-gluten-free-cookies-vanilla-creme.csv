@@ -1,0 +1,29 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:38 EST
+"Nutrient data for: 28357, GLUTINO, Gluten Free Cookies, Vanilla Creme"
+Nutrient,Unit,1Value per 100 g,"3.0 cookies = 45.0g",
+Proximates
+"Water",g,1.29,0.58
+"Energy",kcal,487,219
+"Protein",g,2.19,0.99
+"Total lipid (fat)",g,18.79,8.46
+"Carbohydrate, by difference",g,77.34,34.80
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,49.43,22.24
+Minerals
+"Calcium, Ca",mg,11,5
+"Iron, Fe",mg,0.23,0.10
+"Magnesium, Mg",mg,9,4
+"Phosphorus, P",mg,32,14
+"Potassium, K",mg,67,30
+"Sodium, Na",mg,189,85
+"Zinc, Zn",mg,0.18,0.08
+Vitamins
+Lipids
+"Fatty acids, total saturated",g,8.094,3.642
+"Fatty acids, total monounsaturated",g,6.253,2.814
+"Fatty acids, total polyunsaturated",g,1.917,0.863
+"Fatty acids, total trans",g,0.079,0.036
+Amino Acids
+Other

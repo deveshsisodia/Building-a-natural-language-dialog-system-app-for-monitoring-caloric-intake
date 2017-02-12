@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:38 EST
+"Nutrient data for: 05646, Ostrich, inside strip, raw"
+Nutrient,Unit,1Value per 100 g,"1 serving (cooked from 4 oz raw) = 85.0g","1 oz = 28.35g",
+Proximates
+"Water",g,74.16,63.04,21.02
+"Energy",kcal,127,108,36
+"Protein",g,23.69,20.14,6.72
+"Total lipid (fat)",g,2.87,2.44,0.81
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,5,4,1
+"Iron, Fe",mg,4.20,3.57,1.19
+"Magnesium, Mg",mg,23,20,7
+"Phosphorus, P",mg,226,192,64
+"Potassium, K",mg,330,280,94
+"Sodium, Na",mg,76,65,22
+"Zinc, Zn",mg,3.98,3.38,1.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.213,0.181,0.060
+"Riboflavin",mg,0.312,0.265,0.088
+"Niacin",mg,5.129,4.360,1.454
+"Vitamin B-6",mg,0.557,0.473,0.158
+"Folate, DFE",µg,9,8,3
+"Vitamin B-12",µg,5.40,4.59,1.53
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.21,0.18,0.06
+Lipids
+"Fatty acids, total saturated",g,0.923,0.785,0.262
+"Fatty acids, total monounsaturated",g,1.179,1.002,0.334
+"Fatty acids, total polyunsaturated",g,0.591,0.502,0.168
+"Cholesterol",mg,73,62,21
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:34 EST
+"Nutrient data for: 21501, KASHI Pizza, Margherita, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"0.33 pizza = 113.0g",
+Proximates
+"Water",g,49.90,56.39
+"Energy",kcal,230,260
+"Protein",g,12.80,14.46
+"Total lipid (fat)",g,8.40,9.49
+"Carbohydrate, by difference",g,25.70,29.04
+"Fiber, total dietary",g,3.8,4.3
+"Sugars, total",g,3.30,3.73
+Minerals
+"Calcium, Ca",mg,192,217
+"Iron, Fe",mg,1.40,1.58
+"Phosphorus, P",mg,123,139
+"Potassium, K",mg,204,231
+"Sodium, Na",mg,560,633
+"Zinc, Zn",mg,0.70,0.79
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.0,9.0
+"Thiamin",mg,0.100,0.113
+"Riboflavin",mg,0.100,0.113
+"Niacin",mg,0.300,0.339
+"Vitamin B-6",mg,0.050,0.057
+"Vitamin B-12",µg,0.50,0.56
+"Vitamin A, IU",IU,554,626
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,3.500,3.955
+"Fatty acids, total monounsaturated",g,2.900,3.277
+"Fatty acids, total polyunsaturated",g,1.000,1.130
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,17,19
+Amino Acids
+Other

@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:03 EST
+"Nutrient data for: 17383, Lamb, New Zealand, imported, square-cut shoulder chops, separable lean only, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 113.0g",
+Proximates
+"Water",g,71.98,81.34
+"Energy",kcal,164,185
+"Protein",g,20.62,23.30
+"Total lipid (fat)",g,9.08,10.26
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,27,31
+"Iron, Fe",mg,1.18,1.33
+"Magnesium, Mg",mg,21,24
+"Phosphorus, P",mg,189,214
+"Potassium, K",mg,321,363
+"Sodium, Na",mg,82,93
+"Zinc, Zn",mg,3.29,3.72
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.068,0.077
+"Riboflavin",mg,0.180,0.203
+"Niacin",mg,3.862,4.364
+"Vitamin B-6",mg,0.063,0.071
+"Vitamin B-12",µg,2.52,2.85
+"Vitamin A, RAE",µg,6,7
+"Vitamin A, IU",IU,21,24
+"Vitamin E (alpha-tocopherol)",mg,0.39,0.44
+"Vitamin D (D2 + D3)",µg,0.1,0.1
+"Vitamin D",IU,5,6
+Lipids
+"Fatty acids, total saturated",g,2.769,3.129
+"Fatty acids, total monounsaturated",g,2.349,2.654
+"Fatty acids, total polyunsaturated",g,0.422,0.477
+"Fatty acids, total trans",g,0.299,0.338
+"Cholesterol",mg,59,67
+Amino Acids
+Other
+"Caffeine",mg,0,0

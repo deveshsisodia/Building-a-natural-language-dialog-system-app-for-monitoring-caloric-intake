@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:05 EST
+"Nutrient data for: 01019, Cheese, feta"
+Nutrient,Unit,1Value per 100 g,"1 cup, crumbled = 150.0g","1 oz = 28.35g","1 cubic inch = 17.0g","1 wedge (1.33 oz) = 38.0g",
+Proximates
+"Water",g,55.22,82.83,15.65,9.39,20.98
+"Energy",kcal,264,396,75,45,100
+"Protein",g,14.21,21.32,4.03,2.42,5.40
+"Total lipid (fat)",g,21.28,31.92,6.03,3.62,8.09
+"Carbohydrate, by difference",g,4.09,6.13,1.16,0.70,1.55
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,4.09,6.13,1.16,0.70,1.55
+Minerals
+"Calcium, Ca",mg,493,740,140,84,187
+"Iron, Fe",mg,0.65,0.97,0.18,0.11,0.25
+"Magnesium, Mg",mg,19,28,5,3,7
+"Phosphorus, P",mg,337,506,96,57,128
+"Potassium, K",mg,62,93,18,11,24
+"Sodium, Na",mg,917,1376,260,156,348
+"Zinc, Zn",mg,2.88,4.32,0.82,0.49,1.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.154,0.231,0.044,0.026,0.059
+"Riboflavin",mg,0.844,1.266,0.239,0.143,0.321
+"Niacin",mg,0.991,1.487,0.281,0.168,0.377
+"Vitamin B-6",mg,0.424,0.636,0.120,0.072,0.161
+"Folate, DFE",µg,32,48,9,5,12
+"Vitamin B-12",µg,1.69,2.54,0.48,0.29,0.64
+"Vitamin A, RAE",µg,125,188,35,21,48
+"Vitamin A, IU",IU,422,633,120,72,160
+"Vitamin E (alpha-tocopherol)",mg,0.18,0.27,0.05,0.03,0.07
+"Vitamin D (D2 + D3)",µg,0.4,0.6,0.1,0.1,0.2
+"Vitamin D",IU,16,24,5,3,6
+"Vitamin K (phylloquinone)",µg,1.8,2.7,0.5,0.3,0.7
+Lipids
+"Fatty acids, total saturated",g,14.946,22.419,4.237,2.541,5.679
+"Fatty acids, total monounsaturated",g,4.623,6.935,1.311,0.786,1.757
+"Fatty acids, total polyunsaturated",g,0.591,0.886,0.168,0.100,0.225
+"Cholesterol",mg,89,134,25,15,34
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:20 EST
+"Nutrient data for: 11196, Cowpeas (blackeyes), immature seeds, frozen, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 170.0g",
+Proximates
+"Water",g,66.10,112.37
+"Energy",kcal,132,224
+"Protein",g,8.49,14.43
+"Total lipid (fat)",g,0.66,1.12
+"Carbohydrate, by difference",g,23.76,40.39
+"Fiber, total dietary",g,6.4,10.9
+"Sugars, total",g,4.46,7.58
+Minerals
+"Calcium, Ca",mg,23,39
+"Iron, Fe",mg,2.12,3.60
+"Magnesium, Mg",mg,50,85
+"Phosphorus, P",mg,122,207
+"Potassium, K",mg,375,638
+"Sodium, Na",mg,5,8
+"Zinc, Zn",mg,1.42,2.41
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.6,4.4
+"Thiamin",mg,0.260,0.442
+"Riboflavin",mg,0.064,0.109
+"Niacin",mg,0.728,1.238
+"Vitamin B-6",mg,0.095,0.161
+"Folate, DFE",µg,141,240
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,4,7
+"Vitamin A, IU",IU,75,128
+"Vitamin E (alpha-tocopherol)",mg,0.30,0.51
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,36.8,62.6
+Lipids
+"Fatty acids, total saturated",g,0.175,0.297
+"Fatty acids, total monounsaturated",g,0.060,0.102
+"Fatty acids, total polyunsaturated",g,0.280,0.476
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:46 EST
+"Nutrient data for: 18932, Waffles, buttermilk, frozen, ready-to-heat"
+Nutrient,Unit,1Value per 100 g,"1 waffle, square = 39.0g","1 waffle, round = 38.0g",
+Proximates
+"Water",g,40.34,15.73,15.33
+"Energy",kcal,273,106,104
+"Protein",g,6.58,2.57,2.50
+"Total lipid (fat)",g,9.22,3.60,3.50
+"Carbohydrate, by difference",g,41.05,16.01,15.60
+"Fiber, total dietary",g,2.2,0.9,0.8
+"Sugars, total",g,4.30,1.68,1.63
+Minerals
+"Calcium, Ca",mg,279,109,106
+"Iron, Fe",mg,6.04,2.36,2.30
+"Magnesium, Mg",mg,19,7,7
+"Phosphorus, P",mg,388,151,147
+"Potassium, K",mg,126,49,48
+"Sodium, Na",mg,621,242,236
+"Zinc, Zn",mg,0.48,0.19,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.499,0.195,0.190
+"Riboflavin",mg,0.665,0.259,0.253
+"Niacin",mg,6.675,2.603,2.537
+"Vitamin B-6",mg,0.972,0.379,0.369
+"Folate, DFE",µg,96,37,36
+"Vitamin B-12",µg,2.86,1.12,1.09
+"Vitamin A, RAE",µg,401,156,152
+"Vitamin A, IU",IU,1340,523,509
+"Vitamin E (alpha-tocopherol)",mg,0.62,0.24,0.24
+"Vitamin K (phylloquinone)",µg,10.5,4.1,4.0
+Lipids
+"Fatty acids, total saturated",g,1.898,0.740,0.721
+"Fatty acids, total monounsaturated",g,4.530,1.767,1.721
+"Fatty acids, total polyunsaturated",g,1.445,0.564,0.549
+"Cholesterol",mg,15,6,6
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

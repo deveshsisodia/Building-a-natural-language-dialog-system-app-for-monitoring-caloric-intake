@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:41 EST
+"Nutrient data for: 28014, KELLOGG'S, EGGO, Waffles, French Toast"
+Nutrient,Unit,1Value per 100 g,"1 waffle = 45.0g",
+Proximates
+"Water",g,35.10,15.79
+"Energy",kcal,305,137
+"Protein",g,5.80,2.61
+"Total lipid (fat)",g,12.20,5.49
+"Carbohydrate, by difference",g,43.40,19.53
+"Fiber, total dietary",g,1.2,0.5
+"Sugars, total",g,11.50,5.17
+Minerals
+"Calcium, Ca",mg,222,100
+"Iron, Fe",mg,8.00,3.60
+"Magnesium, Mg",mg,15,7
+"Phosphorus, P",mg,290,130
+"Potassium, K",mg,76,34
+"Sodium, Na",mg,537,242
+"Zinc, Zn",mg,0.40,0.18
+Vitamins
+"Thiamin",mg,0.670,0.302
+"Riboflavin",mg,0.380,0.171
+"Niacin",mg,4.400,1.980
+"Vitamin B-6",mg,0.440,0.198
+"Vitamin B-12",µg,2.00,0.90
+"Vitamin A, RAE",µg,667,300
+"Vitamin A, IU",IU,2222,1000
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.1,0.0
+"Vitamin D",IU,2,1
+Lipids
+"Fatty acids, total saturated",g,4.000,1.800
+"Fatty acids, total monounsaturated",g,2.900,1.305
+"Fatty acids, total polyunsaturated",g,4.600,2.070
+"Fatty acids, total trans",g,0.200,0.090
+"Cholesterol",mg,26,12
+Amino Acids
+Other

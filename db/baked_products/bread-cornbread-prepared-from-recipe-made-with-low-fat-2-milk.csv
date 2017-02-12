@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:30 EST
+"Nutrient data for: 18024, Bread, cornbread, prepared from recipe, made with low fat (2%) milk"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece = 65.0g",
+Proximates
+"Water",g,39.10,11.08,25.41
+"Energy",kcal,266,75,173
+"Protein",g,6.70,1.90,4.36
+"Total lipid (fat)",g,7.10,2.01,4.62
+"Carbohydrate, by difference",g,43.50,12.33,28.27
+Minerals
+"Calcium, Ca",mg,249,71,162
+"Iron, Fe",mg,2.50,0.71,1.62
+"Magnesium, Mg",mg,25,7,16
+"Phosphorus, P",mg,169,48,110
+"Potassium, K",mg,147,42,96
+"Sodium, Na",mg,658,187,428
+"Zinc, Zn",mg,0.60,0.17,0.39
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.1,0.2
+"Thiamin",mg,0.291,0.082,0.189
+"Riboflavin",mg,0.294,0.083,0.191
+"Niacin",mg,2.254,0.639,1.465
+"Vitamin B-6",mg,0.113,0.032,0.073
+"Folate, DFE",µg,118,33,77
+"Vitamin B-12",µg,0.15,0.04,0.10
+"Vitamin A, IU",IU,277,79,180
+Lipids
+"Fatty acids, total saturated",g,1.555,0.441,1.011
+"Fatty acids, total monounsaturated",g,1.830,0.519,1.190
+"Fatty acids, total polyunsaturated",g,3.206,0.909,2.084
+"Cholesterol",mg,40,11,26
+Amino Acids
+Other

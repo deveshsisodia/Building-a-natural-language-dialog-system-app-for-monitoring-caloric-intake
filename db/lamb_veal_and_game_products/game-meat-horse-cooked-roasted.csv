@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:52 EST
+"Nutrient data for: 17171, Game meat, horse, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked (yield from 1 lb raw meat, boneless) = 340.0g",
+Proximates
+"Water",g,63.98,54.38,217.53
+"Energy",kcal,175,149,595
+"Protein",g,28.14,23.92,95.68
+"Total lipid (fat)",g,6.05,5.14,20.57
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,8,7,27
+"Iron, Fe",mg,5.03,4.28,17.10
+"Magnesium, Mg",mg,25,21,85
+"Phosphorus, P",mg,247,210,840
+"Potassium, K",mg,379,322,1289
+"Sodium, Na",mg,55,47,187
+"Zinc, Zn",mg,3.82,3.25,12.99
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.0,1.7,6.8
+"Thiamin",mg,0.100,0.085,0.340
+"Riboflavin",mg,0.120,0.102,0.408
+"Niacin",mg,4.840,4.114,16.456
+"Vitamin B-6",mg,0.330,0.281,1.122
+"Vitamin B-12",µg,3.16,2.69,10.74
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.900,1.615,6.460
+"Fatty acids, total monounsaturated",g,2.120,1.802,7.208
+"Fatty acids, total polyunsaturated",g,0.850,0.723,2.890
+"Cholesterol",mg,68,58,231
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:44 EST
+"Nutrient data for: 18310, Pie, chocolate creme, commercially prepared"
+Nutrient,Unit,1Value per 100 g,"1 serving .167 pie = 120.0g","1 oz = 28.35g","1 piece (1/4 of 6"" pie) = 99.0g","1 piece (1/6 of 8"" pie) = 113.0g",
+Proximates
+"Water",g,33.92,40.70,9.62,33.58,38.33
+"Energy",kcal,353,424,100,349,399
+"Protein",g,4.15,4.98,1.18,4.11,4.69
+"Total lipid (fat)",g,22.41,26.89,6.35,22.19,25.32
+"Carbohydrate, by difference",g,38.44,46.13,10.90,38.06,43.44
+"Fiber, total dietary",g,0.8,1.0,0.2,0.8,0.9
+"Sugars, total",g,27.39,32.87,7.77,27.12,30.95
+Minerals
+"Calcium, Ca",mg,66,79,19,65,75
+"Iron, Fe",mg,1.49,1.79,0.42,1.48,1.68
+"Magnesium, Mg",mg,19,23,5,19,21
+"Phosphorus, P",mg,79,95,22,78,89
+"Potassium, K",mg,161,193,46,159,182
+"Sodium, Na",mg,266,319,75,263,301
+"Zinc, Zn",mg,0.44,0.53,0.12,0.44,0.50
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.087,0.104,0.025,0.086,0.098
+"Riboflavin",mg,0.140,0.168,0.040,0.139,0.158
+"Niacin",mg,0.605,0.726,0.172,0.599,0.684
+"Vitamin B-6",mg,0.020,0.024,0.006,0.020,0.023
+"Folate, DFE",µg,28,34,8,28,32
+"Vitamin B-12",µg,0.12,0.14,0.03,0.12,0.14
+"Vitamin A, RAE",µg,46,55,13,46,52
+"Vitamin A, IU",IU,166,199,47,164,188
+"Vitamin E (alpha-tocopherol)",mg,1.09,1.31,0.31,1.08,1.23
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.0,0.1,0.1
+"Vitamin D",IU,3,4,1,3,3
+"Vitamin K (phylloquinone)",µg,9.5,11.4,2.7,9.4,10.7
+Lipids
+"Fatty acids, total saturated",g,12.449,14.939,3.529,12.325,14.067
+"Fatty acids, total monounsaturated",g,7.336,8.803,2.080,7.263,8.290
+"Fatty acids, total polyunsaturated",g,1.149,1.379,0.326,1.138,1.298
+"Fatty acids, total trans",g,2.490,2.988,0.706,2.465,2.814
+"Cholesterol",mg,12,14,3,12,14
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

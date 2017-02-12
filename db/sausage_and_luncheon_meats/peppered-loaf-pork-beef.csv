@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:17 EST
+"Nutrient data for: 07056, Peppered loaf, pork, beef"
+Nutrient,Unit,1Value per 100 g,"3.52 slices = 100.0g",
+Proximates
+"Water",g,67.40,67.40
+"Energy",kcal,149,149
+"Protein",g,17.30,17.30
+"Total lipid (fat)",g,6.37,6.37
+"Carbohydrate, by difference",g,4.53,4.53
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,4.61,4.61
+Minerals
+"Calcium, Ca",mg,54,54
+"Iron, Fe",mg,1.07,1.07
+"Magnesium, Mg",mg,20,20
+"Phosphorus, P",mg,170,170
+"Potassium, K",mg,394,394
+"Sodium, Na",mg,732,732
+"Zinc, Zn",mg,3.23,3.23
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.380,0.380
+"Riboflavin",mg,0.300,0.300
+"Niacin",mg,3.080,3.080
+"Vitamin B-6",mg,0.270,0.270
+"Folate, DFE",µg,2,2
+"Vitamin B-12",µg,1.96,1.96
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.22
+"Vitamin D (D2 + D3)",µg,0.8,0.8
+"Vitamin D",IU,32,32
+"Vitamin K (phylloquinone)",µg,1.6,1.6
+Lipids
+"Fatty acids, total saturated",g,2.280,2.280
+"Fatty acids, total monounsaturated",g,3.000,3.000
+"Fatty acids, total polyunsaturated",g,0.500,0.500
+"Cholesterol",mg,46,46
+Amino Acids
+Other
+"Caffeine",mg,0,0

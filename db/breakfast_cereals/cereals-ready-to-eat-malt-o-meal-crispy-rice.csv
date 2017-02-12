@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:02 EST
+"Nutrient data for: 08348, Cereals ready-to-eat, MALT-O-MEAL, Crispy Rice"
+Nutrient,Unit,1Value per 100 g,"1.25 cup (1 NLEA serving) = 33.0g",
+Proximates
+"Water",g,3.40,1.12
+"Energy",kcal,346,114
+"Protein",g,6.07,2.00
+"Total lipid (fat)",g,1.12,0.37
+"Carbohydrate, by difference",g,86.40,28.51
+"Fiber, total dietary",g,0.4,0.1
+"Sugars, total",g,7.82,2.58
+Minerals
+"Calcium, Ca",mg,7,2
+"Iron, Fe",mg,27.27,9.00
+"Magnesium, Mg",mg,24,8
+"Phosphorus, P",mg,121,40
+"Potassium, K",mg,114,38
+"Sodium, Na",mg,924,305
+"Zinc, Zn",mg,11.35,3.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,18.2,6.0
+"Thiamin",mg,1.130,0.373
+"Riboflavin",mg,1.280,0.422
+"Niacin",mg,15.140,4.996
+"Vitamin B-6",mg,1.510,0.498
+"Folate, DFE",µg,2054,678
+"Vitamin B-12",µg,4.55,1.50
+"Vitamin A, RAE",µg,455,150
+"Vitamin A, IU",IU,1515,500
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,3.0,1.0
+"Vitamin D",IU,121,40
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.300,0.099
+"Fatty acids, total polyunsaturated",g,0.340,0.112
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

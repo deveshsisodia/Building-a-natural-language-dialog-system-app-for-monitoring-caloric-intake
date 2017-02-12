@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:35 EST
+"Nutrient data for: 21436, KFC, Fried Chicken, ORIGINAL RECIPE, Thigh, meat and skin with breading"
+Nutrient,Unit,1Value per 100 g,"1 thigh, with skin = 135.0g","1 thigh, without skin = 86.0g","1 thigh, bone and skin removed = 60.0g",
+Proximates
+"Water",g,52.09,70.32,44.80,31.25
+"Energy",kcal,269,363,231,161
+"Protein",g,18.90,25.52,16.25,11.34
+"Total lipid (fat)",g,17.73,23.94,15.25,10.64
+"Carbohydrate, by difference",g,8.46,11.42,7.28,5.08
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,64,86,55,38
+"Iron, Fe",mg,0.88,1.19,0.76,0.53
+"Magnesium, Mg",mg,22,30,19,13
+"Phosphorus, P",mg,230,310,198,138
+"Potassium, K",mg,237,320,204,142
+"Sodium, Na",mg,781,1054,672,469
+"Zinc, Zn",mg,1.44,1.94,1.24,0.86
+Vitamins
+"Thiamin",mg,0.085,0.115,0.073,0.051
+"Riboflavin",mg,0.259,0.350,0.223,0.155
+"Niacin",mg,5.524,7.457,4.751,3.314
+"Vitamin B-6",mg,0.138,0.186,0.119,0.083
+"Vitamin B-12",µg,0.40,0.54,0.34,0.24
+"Vitamin A, RAE",µg,15,20,13,9
+"Vitamin A, IU",IU,50,68,43,30
+"Vitamin E (alpha-tocopherol)",mg,0.77,1.04,0.66,0.46
+Lipids
+"Fatty acids, total saturated",g,4.123,5.566,3.546,2.474
+"Fatty acids, total monounsaturated",g,8.608,11.621,7.403,5.165
+"Fatty acids, total polyunsaturated",g,3.277,4.424,2.818,1.966
+"Fatty acids, total trans",g,0.119,0.161,0.102,0.071
+"Cholesterol",mg,104,140,89,62
+Amino Acids
+Other

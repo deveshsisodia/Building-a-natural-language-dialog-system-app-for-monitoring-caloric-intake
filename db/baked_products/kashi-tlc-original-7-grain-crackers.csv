@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:38 EST
+"Nutrient data for: 18975, KASHI, TLC, Original 7-Grain Crackers"
+Nutrient,Unit,1Value per 100 g,"15.0 crackers = 30.0g",
+Proximates
+"Water",g,2.50,0.75
+"Energy",kcal,385,116
+"Protein",g,13.90,4.17
+"Total lipid (fat)",g,11.90,3.57
+"Carbohydrate, by difference",g,63.20,18.96
+"Fiber, total dietary",g,9.0,2.7
+"Sugars, total",g,13.50,4.05
+Minerals
+"Calcium, Ca",mg,136,41
+"Iron, Fe",mg,3.80,1.14
+"Magnesium, Mg",mg,97,29
+"Phosphorus, P",mg,557,167
+"Potassium, K",mg,843,253
+"Sodium, Na",mg,530,159
+"Zinc, Zn",mg,3.00,0.90
+Vitamins
+"Thiamin",mg,0.350,0.105
+"Riboflavin",mg,0.270,0.081
+"Niacin",mg,4.700,1.410
+"Vitamin B-6",mg,0.370,0.111
+"Vitamin B-12",µg,0.10,0.03
+"Vitamin A, RAE",µg,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.90,0.27
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.200,0.360
+"Fatty acids, total monounsaturated",g,5.500,1.650
+"Fatty acids, total polyunsaturated",g,3.900,1.170
+"Fatty acids, total trans",g,0.200,0.060
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:20 EST
+"Nutrient data for: 07955, Turkey sausage, fresh, raw"
+Nutrient,Unit,1Value per 100 g,"1 serving = 57.0g",
+Proximates
+"Water",g,70.42,40.14
+"Energy",kcal,155,88
+"Protein",g,18.79,10.71
+"Total lipid (fat)",g,8.08,4.61
+"Carbohydrate, by difference",g,0.47,0.27
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,19,11
+"Iron, Fe",mg,1.17,0.67
+"Magnesium, Mg",mg,19,11
+"Phosphorus, P",mg,177,101
+"Potassium, K",mg,262,149
+"Sodium, Na",mg,593,338
+"Zinc, Zn",mg,3.06,1.74
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.3,1.3
+"Thiamin",mg,0.077,0.044
+"Riboflavin",mg,0.234,0.133
+"Niacin",mg,4.600,2.622
+"Vitamin B-6",mg,0.431,0.246
+"Folate, DFE",µg,5,3
+"Vitamin B-12",µg,1.30,0.74
+"Vitamin A, RAE",µg,13,7
+"Vitamin A, IU",IU,75,43
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.07
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.963,1.119
+"Fatty acids, total monounsaturated",g,2.624,1.496
+"Fatty acids, total polyunsaturated",g,2.386,1.360
+"Fatty acids, total trans",g,0.350,0.199
+"Cholesterol",mg,75,43
+Amino Acids
+Other
+"Caffeine",mg,0,0

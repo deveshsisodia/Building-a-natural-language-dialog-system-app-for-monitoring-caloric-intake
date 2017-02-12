@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:38 EST
+"Nutrient data for: 21605, School Lunch, pizza, sausage topping, thick crust, whole grain, frozen, cooked"
+Nutrient,Unit,1Value per 100 g,"1 slice per 1/10 pizza = 129.0g",
+Proximates
+"Water",g,45.31,58.45
+"Energy",kcal,257,332
+"Protein",g,13.26,17.11
+"Total lipid (fat)",g,9.07,11.70
+"Carbohydrate, by difference",g,30.58,39.45
+"Fiber, total dietary",g,4.0,5.2
+"Sugars, total",g,3.72,4.80
+Minerals
+"Calcium, Ca",mg,168,217
+"Iron, Fe",mg,2.21,2.85
+"Magnesium, Mg",mg,23,30
+"Phosphorus, P",mg,279,360
+"Potassium, K",mg,282,364
+"Sodium, Na",mg,433,559
+"Zinc, Zn",mg,1.60,2.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.5
+"Thiamin",mg,0.326,0.421
+"Riboflavin",mg,0.311,0.401
+"Niacin",mg,4.100,5.289
+"Vitamin B-6",mg,0.122,0.157
+"Folate, DFE",µg,120,155
+"Vitamin B-12",µg,0.34,0.44
+"Vitamin A, RAE",µg,60,77
+"Vitamin A, IU",IU,309,399
+"Vitamin E (alpha-tocopherol)",mg,0.75,0.97
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,3.3,4.3
+Lipids
+"Fatty acids, total saturated",g,4.219,5.443
+"Fatty acids, total monounsaturated",g,2.890,3.728
+"Fatty acids, total polyunsaturated",g,1.210,1.561
+"Fatty acids, total trans",g,0.150,0.193
+"Cholesterol",mg,26,34
+Amino Acids
+Other
+"Caffeine",mg,0,0

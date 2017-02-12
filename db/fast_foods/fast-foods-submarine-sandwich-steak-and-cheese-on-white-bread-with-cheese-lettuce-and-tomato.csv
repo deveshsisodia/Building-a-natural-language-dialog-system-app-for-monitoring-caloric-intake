@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:34 EST
+"Nutrient data for: 21160, Fast foods, submarine sandwich, steak and cheese on white bread with cheese, lettuce and tomato"
+Nutrient,Unit,1Value per 100 g,"6.0 inch sub = 201.0g","12.0 inch sub = 401.0g",
+Proximates
+"Water",g,58.88,118.35,236.11
+"Energy",kcal,183,368,734
+"Protein",g,12.29,24.70,49.28
+"Total lipid (fat)",g,5.34,10.73,21.41
+"Carbohydrate, by difference",g,21.49,43.19,86.17
+"Fiber, total dietary",g,1.2,2.4,4.8
+"Sugars, total",g,3.41,6.85,13.67
+Minerals
+"Calcium, Ca",mg,183,368,734
+"Iron, Fe",mg,2.02,4.06,8.10
+"Magnesium, Mg",mg,22,44,88
+"Phosphorus, P",mg,132,265,529
+"Potassium, K",mg,183,368,734
+"Sodium, Na",mg,444,892,1780
+"Zinc, Zn",mg,1.98,3.98,7.94
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,1.2,2.4
+"Thiamin",mg,0.253,0.509,1.015
+"Riboflavin",mg,0.263,0.529,1.055
+"Niacin",mg,3.583,7.202,14.368
+"Vitamin B-6",mg,0.194,0.390,0.778
+"Folate, DFE",µg,101,203,405
+"Vitamin B-12",µg,0.58,1.17,2.33
+"Vitamin A, RAE",µg,12,24,48
+"Vitamin A, IU",IU,87,175,349
+"Vitamin E (alpha-tocopherol)",mg,0.40,0.80,1.60
+"Vitamin D (D2 + D3)",µg,0.2,0.4,0.8
+"Vitamin D",IU,6,12,24
+"Vitamin K (phylloquinone)",µg,4.8,9.6,19.2
+Lipids
+"Fatty acids, total saturated",g,2.032,4.084,8.148
+"Fatty acids, total monounsaturated",g,1.736,3.489,6.961
+"Fatty acids, total polyunsaturated",g,0.844,1.696,3.384
+"Fatty acids, total trans",g,0.183,0.368,0.734
+"Cholesterol",mg,24,48,96
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

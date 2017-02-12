@@ -1,0 +1,49 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:29 EST
+"Nutrient data for: 18015, Biscuits, plain or buttermilk, refrigerated dough, higher fat, baked"
+Nutrient,Unit,1Value per 100 g,"1 biscuit = 51.0g","1 biscuit (2-1/2"" dia) = 27.0g","1 oz = 28.35g",
+Proximates
+"Water",g,29.69,15.14,8.02,8.42
+"Energy",kcal,324,165,87,92
+"Protein",g,6.79,3.46,1.83,1.92
+"Total lipid (fat)",g,11.22,5.72,3.03,3.18
+"Carbohydrate, by difference",g,49.05,25.02,13.24,13.91
+"Fiber, total dietary",g,2.8,1.4,0.8,0.8
+"Sugars, total",g,8.19,4.18,2.21,2.32
+Minerals
+"Calcium, Ca",mg,27,14,7,8
+"Iron, Fe",mg,2.57,1.31,0.69,0.73
+"Magnesium, Mg",mg,18,9,5,5
+"Phosphorus, P",mg,446,227,120,126
+"Potassium, K",mg,152,78,41,43
+"Sodium, Na",mg,1002,511,271,284
+"Zinc, Zn",mg,0.41,0.21,0.11,0.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.447,0.228,0.121,0.127
+"Riboflavin",mg,0.299,0.152,0.081,0.085
+"Niacin",mg,3.684,1.879,0.995,1.044
+"Vitamin B-6",mg,0.046,0.023,0.012,0.013
+"Folate, DFE",µg,100,51,27,28
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,2,1,1,1
+"Vitamin E (alpha-tocopherol)",mg,0.67,0.34,0.18,0.19
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,9.5,4.8,2.6,2.7
+Lipids
+"Fatty acids, total saturated",g,5.514,2.812,1.489,1.563
+"Fatty acids, total monounsaturated",g,2.309,1.178,0.623,0.655
+"Fatty acids, total polyunsaturated",g,2.688,1.371,0.726,0.762
+"Fatty acids, total trans",g,0.224,0.114,0.060,0.064
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0
+Footnotes
+(d)"value based on product containing buttermilk"
+(b)"value based on product containing buttermilk"
+(c)"value based on product containing buttermilk"
+(a)"value based on product containing buttermilk"

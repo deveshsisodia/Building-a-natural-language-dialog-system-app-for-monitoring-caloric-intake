@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:58 EST
+"Nutrient data for: 16173, Frijoles rojos volteados (Refried beans, red, canned)"
+Nutrient,Unit,1Value per 100 g,"1 cup = 233.0g","1 tbsp = 15.0g",
+Proximates
+"Water",g,70.71,164.75,10.61
+"Energy",kcal,144,336,22
+"Protein",g,5.00,11.65,0.75
+"Total lipid (fat)",g,6.93,16.15,1.04
+"Carbohydrate, by difference",g,15.47,36.05,2.32
+"Fiber, total dietary",g,4.7,11.0,0.7
+Minerals
+"Calcium, Ca",mg,33,77,5
+"Iron, Fe",mg,1.95,4.54,0.29
+"Magnesium, Mg",mg,36,84,5
+"Phosphorus, P",mg,91,212,14
+"Potassium, K",mg,310,722,46
+"Sodium, Na",mg,375,874,56
+"Zinc, Zn",mg,0.70,1.63,0.10
+Vitamins
+"Thiamin",mg,0.027,0.063,0.004
+"Riboflavin",mg,0.017,0.040,0.003
+"Niacin",mg,0.640,1.491,0.096
+"Vitamin B-6",mg,0.085,0.198,0.013
+"Vitamin E (alpha-tocopherol)",mg,1.04,2.42,0.16
+Lipids
+"Fatty acids, total saturated",g,0.926,2.158,0.139
+"Fatty acids, total monounsaturated",g,1.676,3.905,0.251
+"Fatty acids, total polyunsaturated",g,4.379,10.203,0.657
+"Fatty acids, total trans",g,0.171,0.398,0.026
+Amino Acids
+Other
+Footnotes
+(a)"Value based on the analysis of 5-methyltetrahydrofolate"

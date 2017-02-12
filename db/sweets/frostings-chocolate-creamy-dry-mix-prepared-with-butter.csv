@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:40 EST
+"Nutrient data for: 19241, Frostings, chocolate, creamy, dry mix, prepared with butter"
+Nutrient,Unit,1Value per 100 g,"2.0 tablespoon = 33.0g",
+Proximates
+"Water",g,13.33,4.40
+"Energy",kcal,408,135
+"Protein",g,1.11,0.37
+"Total lipid (fat)",g,13.06,4.31
+"Carbohydrate, by difference",g,71.80,23.69
+"Fiber, total dietary",g,1.9,0.6
+"Sugars, total",g,0.01,0.00
+Minerals
+"Calcium, Ca",mg,12,4
+"Iron, Fe",mg,0.93,0.31
+"Magnesium, Mg",mg,30,10
+"Phosphorus, P",mg,51,17
+"Potassium, K",mg,143,47
+"Sodium, Na",mg,124,41
+"Zinc, Zn",mg,0.64,0.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.005,0.002
+"Riboflavin",mg,0.026,0.009
+"Niacin",mg,0.115,0.038
+"Vitamin B-6",mg,0.063,0.021
+"Folate, DFE",µg,3,1
+"Vitamin B-12",µg,0.02,0.01
+"Vitamin A, RAE",µg,76,25
+"Vitamin A, IU",IU,278,92
+"Vitamin E (alpha-tocopherol)",mg,0.26,0.09
+"Vitamin D (D2 + D3)",µg,0.2,0.1
+"Vitamin D",IU,7,2
+"Vitamin K (phylloquinone)",µg,0.8,0.3
+Lipids
+"Fatty acids, total saturated",g,8.369,2.762
+"Fatty acids, total monounsaturated",g,3.425,1.130
+"Fatty acids, total polyunsaturated",g,0.496,0.164
+"Fatty acids, total trans",g,0.534,0.176
+"Cholesterol",mg,24,8
+Amino Acids
+Other
+"Caffeine",mg,5,2

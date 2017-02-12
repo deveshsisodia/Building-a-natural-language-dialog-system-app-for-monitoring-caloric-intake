@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:58 EST
+"Nutrient data for: 08703, Cereals, KELLOGG'S SPECIAL K NOURISH, Cranberry Almond, dry"
+Nutrient,Unit,1Value per 100 g,"1 Container (1 NLEA serving) = 52.0g",
+Proximates
+"Water",g,8.50,4.42
+"Energy",kcal,361,188
+"Protein",g,15.00,7.80
+"Total lipid (fat)",g,8.39,4.36
+"Carbohydrate, by difference",g,63.29,32.91
+"Fiber, total dietary",g,9.3,4.8
+"Sugars, total",g,22.39,11.64
+Minerals
+"Calcium, Ca",mg,385,200
+"Iron, Fe",mg,10.39,5.40
+"Magnesium, Mg",mg,115,60
+"Phosphorus, P",mg,467,243
+"Potassium, K",mg,271,141
+"Sodium, Na",mg,284,148
+"Zinc, Zn",mg,1.70,0.88
+Vitamins
+"Vitamin C, total ascorbic acid",mg,23.0,12.0
+"Thiamin",mg,0.570,0.296
+"Riboflavin",mg,0.640,0.333
+"Niacin",mg,7.690,3.999
+"Vitamin B-6",mg,0.760,0.395
+"Vitamin B-12",µg,1.00,0.52
+"Vitamin A, IU",IU,962,500
+"Vitamin E (alpha-tocopherol)",mg,2.60,1.35
+"Vitamin D (D2 + D3)",µg,3.8,2.0
+"Vitamin D",IU,154,80
+Lipids
+"Fatty acids, total saturated",g,1.100,0.572
+"Fatty acids, total monounsaturated",g,3.790,1.971
+"Fatty acids, total polyunsaturated",g,2.590,1.347
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

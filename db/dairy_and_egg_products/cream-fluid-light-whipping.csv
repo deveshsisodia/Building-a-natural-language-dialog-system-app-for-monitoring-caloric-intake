@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:07 EST
+"Nutrient data for: 01052, Cream, fluid, light whipping"
+Nutrient,Unit,1Value per 100 g,"1 cup, whipped = 120.0g","1 cup, fluid (yields 2 cups whipped) = 239.0g","1 tbsp = 15.0g",
+Proximates
+"Water",g,63.50,76.20,151.76,9.53
+"Energy",kcal,292,350,698,44
+"Protein",g,2.17,2.60,5.19,0.33
+"Total lipid (fat)",g,30.91,37.09,73.87,4.64
+"Carbohydrate, by difference",g,2.96,3.55,7.07,0.44
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,2.96,3.55,7.07,0.44
+Minerals
+"Calcium, Ca",mg,69,83,165,10
+"Iron, Fe",mg,0.03,0.04,0.07,0.00
+"Magnesium, Mg",mg,7,8,17,1
+"Phosphorus, P",mg,61,73,146,9
+"Potassium, K",mg,97,116,232,15
+"Sodium, Na",mg,34,41,81,5
+"Zinc, Zn",mg,0.25,0.30,0.60,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.7,1.4,0.1
+"Thiamin",mg,0.024,0.029,0.057,0.004
+"Riboflavin",mg,0.125,0.150,0.299,0.019
+"Niacin",mg,0.042,0.050,0.100,0.006
+"Vitamin B-6",mg,0.028,0.034,0.067,0.004
+"Folate, DFE",µg,4,5,10,1
+"Vitamin B-12",µg,0.20,0.24,0.48,0.03
+"Vitamin A, RAE",µg,279,335,667,42
+"Vitamin A, IU",IU,1013,1216,2421,152
+"Vitamin E (alpha-tocopherol)",mg,0.88,1.06,2.10,0.13
+"Vitamin D (D2 + D3)",µg,0.6,0.7,1.4,0.1
+"Vitamin D",IU,23,28,55,3
+"Vitamin K (phylloquinone)",µg,2.7,3.2,6.5,0.4
+Lipids
+"Fatty acids, total saturated",g,19.337,23.204,46.215,2.901
+"Fatty acids, total monounsaturated",g,9.093,10.912,21.732,1.364
+"Fatty acids, total polyunsaturated",g,0.884,1.061,2.113,0.133
+"Cholesterol",mg,111,133,265,17
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:43 EST
+"Nutrient data for: 18292, Pancakes, plain, dry mix, incomplete, prepared"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 pancake (4"" dia) = 38.0g","1 pancake (6"" dia) = 77.0g",
+Proximates
+"Water",g,52.90,15.00,20.10,40.73
+"Energy",kcal,218,62,83,168
+"Protein",g,7.80,2.21,2.96,6.01
+"Total lipid (fat)",g,7.70,2.18,2.93,5.93
+"Carbohydrate, by difference",g,28.90,8.19,10.98,22.25
+"Fiber, total dietary",g,1.9,0.5,0.7,1.5
+Minerals
+"Calcium, Ca",mg,215,61,82,166
+"Iron, Fe",mg,1.30,0.37,0.49,1.00
+"Magnesium, Mg",mg,22,6,8,17
+"Phosphorus, P",mg,313,89,119,241
+"Potassium, K",mg,199,56,76,153
+"Sodium, Na",mg,505,143,192,389
+"Zinc, Zn",mg,0.75,0.21,0.28,0.58
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.2,0.2,0.5
+"Thiamin",mg,0.201,0.057,0.076,0.155
+"Riboflavin",mg,0.311,0.088,0.118,0.239
+"Niacin",mg,1.232,0.349,0.468,0.949
+"Vitamin B-6",mg,0.105,0.030,0.040,0.081
+"Folate, DFE",µg,54,15,21,42
+"Vitamin B-12",µg,0.34,0.10,0.13,0.26
+"Vitamin A, RAE",µg,71,20,27,55
+"Vitamin A, IU",IU,250,71,95,192
+Lipids
+"Fatty acids, total saturated",g,2.045,0.580,0.777,1.575
+"Fatty acids, total monounsaturated",g,2.070,0.587,0.787,1.594
+"Fatty acids, total polyunsaturated",g,2.923,0.829,1.111,2.251
+"Cholesterol",mg,71,20,27,55
+Amino Acids
+Other

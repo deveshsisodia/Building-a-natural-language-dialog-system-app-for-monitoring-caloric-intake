@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:44 EST
+"Nutrient data for: 18308, Pie, cherry, commercially prepared"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece (1/8 of 9"" dia) = 125.0g","1 piece (1/6 of 8"" pie) = 117.0g",
+Proximates
+"Water",g,46.20,13.10,57.75,54.05
+"Energy",kcal,260,74,325,304
+"Protein",g,2.00,0.57,2.50,2.34
+"Total lipid (fat)",g,11.00,3.12,13.75,12.87
+"Carbohydrate, by difference",g,39.80,11.28,49.75,46.57
+"Fiber, total dietary",g,0.8,0.2,1.0,0.9
+"Sugars, total",g,14.29,4.05,17.86,16.72
+Minerals
+"Calcium, Ca",mg,12,3,15,14
+"Iron, Fe",mg,0.48,0.14,0.60,0.56
+"Magnesium, Mg",mg,8,2,10,9
+"Phosphorus, P",mg,29,8,36,34
+"Potassium, K",mg,81,23,101,95
+"Sodium, Na",mg,246,70,308,288
+"Zinc, Zn",mg,0.18,0.05,0.23,0.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,0.3,1.1,1.1
+"Thiamin",mg,0.023,0.007,0.029,0.027
+"Riboflavin",mg,0.029,0.008,0.036,0.034
+"Niacin",mg,0.200,0.057,0.250,0.234
+"Vitamin B-6",mg,0.041,0.012,0.051,0.048
+"Folate, DFE",µg,40,11,50,47
+"Vitamin B-12",µg,0.01,0.00,0.01,0.01
+"Vitamin A, RAE",µg,52,15,65,61
+"Vitamin A, IU",IU,267,76,334,312
+"Vitamin E (alpha-tocopherol)",mg,0.76,0.22,0.95,0.89
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,7.6,2.2,9.5,8.9
+Lipids
+"Fatty acids, total saturated",g,2.562,0.726,3.203,2.998
+"Fatty acids, total monounsaturated",g,5.837,1.655,7.296,6.829
+"Fatty acids, total polyunsaturated",g,2.055,0.583,2.569,2.404
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

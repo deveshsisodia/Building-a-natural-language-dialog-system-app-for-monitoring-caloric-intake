@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:56 EST
+"Nutrient data for: 16001, Beans, adzuki, mature seeds, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 197.0g",
+Proximates
+"Water",g,13.44,26.48
+"Energy",kcal,329,648
+"Protein",g,19.87,39.14
+"Total lipid (fat)",g,0.53,1.04
+"Carbohydrate, by difference",g,62.90,123.91
+"Fiber, total dietary",g,12.7,25.0
+Minerals
+"Calcium, Ca",mg,66,130
+"Iron, Fe",mg,4.98,9.81
+"Magnesium, Mg",mg,127,250
+"Phosphorus, P",mg,381,751
+"Potassium, K",mg,1254,2470
+"Sodium, Na",mg,5,10
+"Zinc, Zn",mg,5.04,9.93
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.455,0.896
+"Riboflavin",mg,0.220,0.433
+"Niacin",mg,2.630,5.181
+"Vitamin B-6",mg,0.351,0.691
+"Folate, DFE",µg,622,1225
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1,2
+"Vitamin A, IU",IU,17,33
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.191,0.376
+"Fatty acids, total monounsaturated",g,0.050,0.099
+"Fatty acids, total polyunsaturated",g,0.113,0.223
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:05 EST
+"Nutrient data for: 15128, Fish, tuna salad"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 cup = 205.0g",
+Proximates
+"Water",g,63.16,53.69,129.48
+"Energy",kcal,187,159,383
+"Protein",g,16.04,13.63,32.88
+"Total lipid (fat)",g,9.26,7.87,18.98
+"Carbohydrate, by difference",g,9.41,8.00,19.29
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,17,14,35
+"Iron, Fe",mg,1.00,0.85,2.05
+"Magnesium, Mg",mg,19,16,39
+"Phosphorus, P",mg,178,151,365
+"Potassium, K",mg,178,151,365
+"Sodium, Na",mg,402,342,824
+"Zinc, Zn",mg,0.56,0.48,1.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.2,1.9,4.5
+"Thiamin",mg,0.031,0.026,0.064
+"Riboflavin",mg,0.070,0.060,0.144
+"Niacin",mg,6.700,5.695,13.735
+"Vitamin B-6",mg,0.081,0.069,0.166
+"Folate, DFE",µg,8,7,16
+"Vitamin B-12",µg,1.20,1.02,2.46
+"Vitamin A, RAE",µg,24,20,49
+"Vitamin A, IU",IU,97,82,199
+Lipids
+"Fatty acids, total saturated",g,1.544,1.312,3.165
+"Fatty acids, total monounsaturated",g,2.887,2.454,5.918
+"Fatty acids, total polyunsaturated",g,4.122,3.504,8.450
+"Cholesterol",mg,13,11,27
+Amino Acids
+Other

@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:22 EST
+"Nutrient data for: 11231, Jute, potherb, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 28.0g",
+Proximates
+"Water",g,87.72,24.56
+"Energy",kcal,34,10
+"Protein",g,4.65,1.30
+"Total lipid (fat)",g,0.25,0.07
+"Carbohydrate, by difference",g,5.80,1.62
+Minerals
+"Calcium, Ca",mg,208,58
+"Iron, Fe",mg,4.76,1.33
+"Magnesium, Mg",mg,64,18
+"Phosphorus, P",mg,83,23
+"Potassium, K",mg,559,157
+"Sodium, Na",mg,8,2
+"Zinc, Zn",mg,0.79,0.22
+Vitamins
+"Vitamin C, total ascorbic acid",mg,37.0,10.4
+"Thiamin",mg,0.133,0.037
+"Riboflavin",mg,0.546,0.153
+"Niacin",mg,1.260,0.353
+"Vitamin B-6",mg,0.600,0.168
+"Folate, DFE",µg,123,34
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,278,78
+"Vitamin A, IU",IU,5559,1557
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.038,0.011
+"Fatty acids, total monounsaturated",g,0.017,0.005
+"Fatty acids, total polyunsaturated",g,0.120,0.034
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

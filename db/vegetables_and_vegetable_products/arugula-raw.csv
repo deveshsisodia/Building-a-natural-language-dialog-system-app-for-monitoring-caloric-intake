@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:15 EST
+"Nutrient data for: 11959, Arugula, raw"
+Nutrient,Unit,1Value per 100 g,"1 leaf = 2.0g","0.5 cup = 10.0g",
+Proximates
+"Water",g,91.71,1.83,9.17
+"Energy",kcal,25,0,2
+"Protein",g,2.58,0.05,0.26
+"Total lipid (fat)",g,0.66,0.01,0.07
+"Carbohydrate, by difference",g,3.65,0.07,0.36
+"Fiber, total dietary",g,1.6,0.0,0.2
+"Sugars, total",g,2.05,0.04,0.20
+Minerals
+"Calcium, Ca",mg,160,3,16
+"Iron, Fe",mg,1.46,0.03,0.15
+"Magnesium, Mg",mg,47,1,5
+"Phosphorus, P",mg,52,1,5
+"Potassium, K",mg,369,7,37
+"Sodium, Na",mg,27,1,3
+"Zinc, Zn",mg,0.47,0.01,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,15.0,0.3,1.5
+"Thiamin",mg,0.044,0.001,0.004
+"Riboflavin",mg,0.086,0.002,0.009
+"Niacin",mg,0.305,0.006,0.030
+"Vitamin B-6",mg,0.073,0.001,0.007
+"Folate, DFE",µg,97,2,10
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,119,2,12
+"Vitamin A, IU",IU,2373,47,237
+"Vitamin E (alpha-tocopherol)",mg,0.43,0.01,0.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,108.6,2.2,10.9
+Lipids
+"Fatty acids, total saturated",g,0.086,0.002,0.009
+"Fatty acids, total monounsaturated",g,0.049,0.001,0.005
+"Fatty acids, total polyunsaturated",g,0.319,0.006,0.032
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

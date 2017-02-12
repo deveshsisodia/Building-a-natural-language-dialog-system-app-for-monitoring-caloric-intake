@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:41 EST
+"Nutrient data for: 28191, KELLOGG'S, SPECIAL K, Savory Herb Crackers"
+Nutrient,Unit,1Value per 100 g,"24.0 crackers = 30.0g",
+Proximates
+"Water",g,2.50,0.75
+"Energy",kcal,406,122
+"Protein",g,10.90,3.27
+"Total lipid (fat)",g,10.00,3.00
+"Carbohydrate, by difference",g,73.80,22.14
+"Fiber, total dietary",g,9.8,2.9
+"Sugars, total",g,10.60,3.18
+Minerals
+"Iron, Fe",mg,3.90,1.17
+"Magnesium, Mg",mg,80,24
+"Phosphorus, P",mg,264,79
+"Potassium, K",mg,253,76
+"Sodium, Na",mg,809,243
+"Zinc, Zn",mg,2.30,0.69
+Vitamins
+"Thiamin",mg,0.370,0.111
+"Riboflavin",mg,0.250,0.075
+"Niacin",mg,3.800,1.140
+"Vitamin B-6",mg,0.250,0.075
+"Vitamin B-12",µg,0.10,0.03
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.500,0.450
+"Fatty acids, total monounsaturated",g,2.200,0.660
+"Fatty acids, total polyunsaturated",g,5.100,1.530
+"Fatty acids, total trans",g,0.100,0.030
+"Cholesterol",mg,0,0
+Amino Acids
+Other

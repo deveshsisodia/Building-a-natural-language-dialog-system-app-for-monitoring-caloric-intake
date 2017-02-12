@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:35 EST
+"Nutrient data for: 23095, Beef, chuck for stew, separable lean and fat, choice, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,72.32,61.47
+"Energy",kcal,130,110
+"Protein",g,21.64,18.39
+"Total lipid (fat)",g,4.81,4.09
+"Carbohydrate, by difference",g,0.12,0.10
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,13,11
+"Iron, Fe",mg,2.09,1.78
+"Magnesium, Mg",mg,21,18
+"Phosphorus, P",mg,217,184
+"Potassium, K",mg,373,317
+"Sodium, Na",mg,79,67
+"Zinc, Zn",mg,5.41,4.60
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.080,0.068
+"Riboflavin",mg,0.170,0.145
+"Niacin",mg,4.887,4.154
+"Vitamin B-6",mg,0.568,0.483
+"Folate, DFE",µg,3,3
+"Vitamin B-12",µg,2.27,1.93
+"Vitamin A, RAE",µg,2,2
+"Vitamin A, IU",IU,6,5
+"Vitamin E (alpha-tocopherol)",mg,0.18,0.15
+"Vitamin D (D2 + D3)",µg,0.1,0.1
+"Vitamin D",IU,4,3
+"Vitamin K (phylloquinone)",µg,1.5,1.3
+Lipids
+"Fatty acids, total saturated",g,1.988,1.690
+"Fatty acids, total monounsaturated",g,2.510,2.133
+"Fatty acids, total polyunsaturated",g,0.310,0.264
+"Fatty acids, total trans",g,0.250,0.212
+"Cholesterol",mg,63,54
+Amino Acids
+Other
+"Caffeine",mg,0,0

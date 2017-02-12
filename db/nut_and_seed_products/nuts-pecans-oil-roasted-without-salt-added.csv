@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:08 EST
+"Nutrient data for: 12144, Nuts, pecans, oil roasted, without salt added"
+Nutrient,Unit,1Value per 100 g,"1 cup = 110.0g","1 oz (15 halves) = 28.35g",
+Proximates
+"Water",g,1.13,1.24,0.32
+"Energy",kcal,715,786,203
+"Protein",g,9.20,10.12,2.61
+"Total lipid (fat)",g,75.23,82.75,21.33
+"Carbohydrate, by difference",g,13.01,14.31,3.69
+"Fiber, total dietary",g,9.5,10.4,2.7
+"Sugars, total",g,3.97,4.37,1.13
+Minerals
+"Calcium, Ca",mg,67,74,19
+"Iron, Fe",mg,2.47,2.72,0.70
+"Magnesium, Mg",mg,121,133,34
+"Phosphorus, P",mg,263,289,75
+"Potassium, K",mg,392,431,111
+"Sodium, Na",mg,1,1,0
+"Zinc, Zn",mg,4.47,4.92,1.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.8,0.2
+"Thiamin",mg,0.473,0.520,0.134
+"Riboflavin",mg,0.110,0.121,0.031
+"Niacin",mg,1.200,1.320,0.340
+"Vitamin B-6",mg,0.187,0.206,0.053
+"Folate, DFE",µg,15,16,4
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,5,6,1
+"Vitamin A, IU",IU,104,114,29
+"Vitamin E (alpha-tocopherol)",mg,2.53,2.78,0.72
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,7.238,7.962,2.052
+"Fatty acids, total monounsaturated",g,40.970,45.067,11.615
+"Fatty acids, total polyunsaturated",g,23.584,25.942,6.686
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+Footnotes
+(a)"Roasted in cottonseed, peanut, soybean, or sunflower oil."

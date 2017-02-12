@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:27 EST
+"Nutrient data for: 32006, Taquitos, frozen, chicken and cheese, oven-heated"
+Nutrient,Unit,1Value per 100 g,"1 piece = 42.0g",
+Proximates
+"Water",g,42.74,17.95
+"Energy",kcal,284,119
+"Protein",g,9.21,3.87
+"Total lipid (fat)",g,12.54,5.27
+"Carbohydrate, by difference",g,33.63,14.12
+"Fiber, total dietary",g,2.9,1.2
+"Sugars, total",g,1.30,0.55
+Minerals
+"Calcium, Ca",mg,104,44
+"Iron, Fe",mg,2.47,1.04
+"Magnesium, Mg",mg,24,10
+"Phosphorus, P",mg,132,55
+"Potassium, K",mg,155,65
+"Sodium, Na",mg,453,190
+"Zinc, Zn",mg,0.71,0.30
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.331,0.139
+"Riboflavin",mg,0.277,0.116
+"Niacin",mg,3.850,1.617
+"Vitamin B-6",mg,0.140,0.059
+"Folate, DFE",µg,99,42
+"Vitamin B-12",µg,0.18,0.08
+"Vitamin A, RAE",µg,30,13
+"Vitamin A, IU",IU,206,87
+"Vitamin E (alpha-tocopherol)",mg,1.13,0.47
+"Vitamin D (D2 + D3)",µg,0.1,0.0
+"Vitamin D",IU,3,1
+"Vitamin K (phylloquinone)",µg,16.9,7.1
+Lipids
+"Fatty acids, total saturated",g,2.310,0.970
+"Fatty acids, total monounsaturated",g,4.835,2.031
+"Fatty acids, total polyunsaturated",g,4.235,1.779
+"Fatty acids, total trans",g,0.071,0.030
+"Cholesterol",mg,13,5
+Amino Acids
+Other
+"Caffeine",mg,0,0

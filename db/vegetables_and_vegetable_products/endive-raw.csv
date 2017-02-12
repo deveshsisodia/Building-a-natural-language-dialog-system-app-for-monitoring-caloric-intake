@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:21 EST
+"Nutrient data for: 11213, Endive, raw"
+Nutrient,Unit,1Value per 100 g,"0.5 cup, chopped = 25.0g","1 head = 513.0g",
+Proximates
+"Water",g,93.79,23.45,481.14
+"Energy",kcal,17,4,87
+"Protein",g,1.25,0.31,6.41
+"Total lipid (fat)",g,0.20,0.05,1.03
+"Carbohydrate, by difference",g,3.35,0.84,17.19
+"Fiber, total dietary",g,3.1,0.8,15.9
+"Sugars, total",g,0.25,0.06,1.28
+Minerals
+"Calcium, Ca",mg,52,13,267
+"Iron, Fe",mg,0.83,0.21,4.26
+"Magnesium, Mg",mg,15,4,77
+"Phosphorus, P",mg,28,7,144
+"Potassium, K",mg,314,78,1611
+"Sodium, Na",mg,22,6,113
+"Zinc, Zn",mg,0.79,0.20,4.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.5,1.6,33.3
+"Thiamin",mg,0.080,0.020,0.410
+"Riboflavin",mg,0.075,0.019,0.385
+"Niacin",mg,0.400,0.100,2.052
+"Vitamin B-6",mg,0.020,0.005,0.103
+"Folate, DFE",µg,142,36,728
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,108,27,554
+"Vitamin A, IU",IU,2167,542,11117
+"Vitamin E (alpha-tocopherol)",mg,0.44,0.11,2.26
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,231.0,57.8,1185.0
+Lipids
+"Fatty acids, total saturated",g,0.048,0.012,0.246
+"Fatty acids, total monounsaturated",g,0.004,0.001,0.021
+"Fatty acids, total polyunsaturated",g,0.087,0.022,0.446
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

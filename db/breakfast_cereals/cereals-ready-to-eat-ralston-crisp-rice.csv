@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:03 EST
+"Nutrient data for: 08025, Cereals ready-to-eat, RALSTON CRISP RICE"
+Nutrient,Unit,1Value per 100 g,"1.25 cup (1 NLEA serving) = 33.0g","1 cup = 28.0g",
+Proximates
+"Water",g,3.62,1.19,1.01
+"Energy",kcal,394,130,110
+"Protein",g,6.69,2.21,1.87
+"Total lipid (fat)",g,1.26,0.42,0.35
+"Carbohydrate, by difference",g,86.22,28.45,24.14
+"Fiber, total dietary",g,0.7,0.2,0.2
+"Sugars, total",g,12.12,4.00,3.39
+Minerals
+"Calcium, Ca",mg,5,2,1
+"Iron, Fe",mg,32.73,10.80,9.16
+"Magnesium, Mg",mg,23,8,6
+"Phosphorus, P",mg,98,32,27
+"Potassium, K",mg,106,35,30
+"Sodium, Na",mg,545,180,153
+"Zinc, Zn",mg,1.30,0.43,0.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,64.5,21.3,18.1
+"Thiamin",mg,2.050,0.676,0.574
+"Riboflavin",mg,1.288,0.425,0.361
+"Niacin",mg,28.967,9.559,8.111
+"Vitamin B-6",mg,1.937,0.639,0.542
+"Folate, DFE",µg,1027,339,288
+"Vitamin B-12",µg,5.45,1.80,1.53
+"Vitamin A, RAE",µg,1136,375,318
+"Vitamin A, IU",IU,3788,1250,1061
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.02,0.02
+"Vitamin D (D2 + D3)",µg,7.6,2.5,2.1
+"Vitamin D",IU,303,100,85
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.360,0.119,0.101
+"Fatty acids, total monounsaturated",g,0.243,0.080,0.068
+"Fatty acids, total polyunsaturated",g,0.293,0.097,0.082
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:24 EST
+"Nutrient data for: 11280, Okra, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"0.33 package (10 oz) = 95.0g","1 package (10 oz) = 284.0g","1 package (3 lb) = 1361.0g",
+Proximates
+"Water",g,90.82,86.28,257.93,1236.06
+"Energy",kcal,30,28,85,408
+"Protein",g,1.69,1.61,4.80,23.00
+"Total lipid (fat)",g,0.25,0.24,0.71,3.40
+"Carbohydrate, by difference",g,6.63,6.30,18.83,90.23
+"Fiber, total dietary",g,2.2,2.1,6.2,29.9
+"Sugars, total",g,2.97,2.82,8.43,40.42
+Minerals
+"Calcium, Ca",mg,81,77,230,1102
+"Iron, Fe",mg,0.57,0.54,1.62,7.76
+"Magnesium, Mg",mg,43,41,122,585
+"Phosphorus, P",mg,42,40,119,572
+"Potassium, K",mg,211,200,599,2872
+"Sodium, Na",mg,3,3,9,41
+"Zinc, Zn",mg,0.53,0.50,1.51,7.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,12.4,11.8,35.2,168.8
+"Thiamin",mg,0.089,0.085,0.253,1.211
+"Riboflavin",mg,0.105,0.100,0.298,1.429
+"Niacin",mg,0.708,0.673,2.011,9.636
+"Vitamin B-6",mg,0.042,0.040,0.119,0.572
+"Folate, DFE",µg,148,141,420,2014
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,18,17,51,245
+"Vitamin A, IU",IU,350,332,994,4764
+"Vitamin E (alpha-tocopherol)",mg,0.33,0.31,0.94,4.49
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,49.4,46.9,140.3,672.3
+Lipids
+"Fatty acids, total saturated",g,0.065,0.062,0.185,0.885
+"Fatty acids, total monounsaturated",g,0.041,0.039,0.116,0.558
+"Fatty acids, total polyunsaturated",g,0.066,0.063,0.187,0.898
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

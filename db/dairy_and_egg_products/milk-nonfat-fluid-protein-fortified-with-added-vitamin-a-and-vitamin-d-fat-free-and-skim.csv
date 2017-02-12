@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:10 EST
+"Nutrient data for: 01087, Milk, nonfat, fluid, protein fortified, with added vitamin A and vitamin D (fat free and skim)"
+Nutrient,Unit,1Value per 100 g,"1 cup = 246.0g","1 quart = 984.0g",
+Proximates
+"Water",g,89.36,219.83,879.30
+"Energy",kcal,41,101,403
+"Protein",g,3.96,9.74,38.97
+"Total lipid (fat)",g,0.25,0.61,2.46
+"Carbohydrate, by difference",g,5.56,13.68,54.71
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,143,352,1407
+"Iron, Fe",mg,0.06,0.15,0.59
+"Magnesium, Mg",mg,16,39,157
+"Phosphorus, P",mg,112,276,1102
+"Potassium, K",mg,182,448,1791
+"Sodium, Na",mg,59,145,581
+"Zinc, Zn",mg,0.45,1.11,4.43
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,2.7,10.8
+"Thiamin",mg,0.045,0.111,0.443
+"Riboflavin",mg,0.194,0.477,1.909
+"Niacin",mg,0.101,0.248,0.994
+"Vitamin B-6",mg,0.050,0.123,0.492
+"Folate, DFE",µg,6,15,59
+"Vitamin B-12",µg,0.43,1.06,4.23
+"Vitamin A, RAE",µg,61,150,600
+"Vitamin A, IU",IU,203,499,1998
+"Vitamin D (D2 + D3)",µg,1.0,2.5,9.8
+"Vitamin D",IU,40,98,394
+Lipids
+"Fatty acids, total saturated",g,0.162,0.399,1.594
+"Fatty acids, total monounsaturated",g,0.065,0.160,0.640
+"Fatty acids, total polyunsaturated",g,0.009,0.022,0.089
+"Cholesterol",mg,2,5,20
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:19 EST
+"Nutrient data for: 11757, Carrots, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 9.7g","0.5 cup slices = 78.0g","1 carrot = 46.0g",
+Proximates
+"Water",g,90.17,8.75,70.33,41.48
+"Energy",kcal,35,3,27,16
+"Protein",g,0.76,0.07,0.59,0.35
+"Total lipid (fat)",g,0.18,0.02,0.14,0.08
+"Carbohydrate, by difference",g,8.22,0.80,6.41,3.78
+"Fiber, total dietary",g,3.0,0.3,2.3,1.4
+"Sugars, total",g,3.45,0.33,2.69,1.59
+Minerals
+"Calcium, Ca",mg,30,3,23,14
+"Iron, Fe",mg,0.34,0.03,0.27,0.16
+"Magnesium, Mg",mg,10,1,8,5
+"Phosphorus, P",mg,30,3,23,14
+"Potassium, K",mg,235,23,183,108
+"Sodium, Na",mg,302,29,236,139
+"Zinc, Zn",mg,0.20,0.02,0.16,0.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.6,0.3,2.8,1.7
+"Thiamin",mg,0.066,0.006,0.051,0.030
+"Riboflavin",mg,0.044,0.004,0.034,0.020
+"Niacin",mg,0.645,0.063,0.503,0.297
+"Vitamin B-6",mg,0.153,0.015,0.119,0.070
+"Folate, DFE",µg,2,0,2,1
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,852,83,665,392
+"Vitamin A, IU",IU,17033,1652,13286,7835
+"Vitamin E (alpha-tocopherol)",mg,1.03,0.10,0.80,0.47
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,13.7,1.3,10.7,6.3
+Lipids
+"Fatty acids, total saturated",g,0.037,0.004,0.029,0.017
+"Fatty acids, total monounsaturated",g,0.007,0.001,0.005,0.003
+"Fatty acids, total polyunsaturated",g,0.107,0.010,0.083,0.049
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

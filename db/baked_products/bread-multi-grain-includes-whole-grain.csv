@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:30 EST
+"Nutrient data for: 28397, Bread, multi-grain (includes whole-grain)"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice regular = 26.0g","1 slice large = 41.0g",
+Proximates
+"Water",g,36.94,10.47,9.60,15.15
+"Energy",kcal,265,75,69,109
+"Protein",g,13.36,3.79,3.47,5.48
+"Total lipid (fat)",g,4.23,1.20,1.10,1.73
+"Carbohydrate, by difference",g,43.34,12.29,11.27,17.77
+"Fiber, total dietary",g,7.4,2.1,1.9,3.0
+"Sugars, total",g,6.39,1.81,1.66,2.62
+Minerals
+"Calcium, Ca",mg,103,29,27,42
+"Iron, Fe",mg,2.50,0.71,0.65,1.02
+"Magnesium, Mg",mg,78,22,20,32
+"Phosphorus, P",mg,228,65,59,93
+"Potassium, K",mg,230,65,60,94
+"Sodium, Na",mg,381,108,99,156
+"Zinc, Zn",mg,1.70,0.48,0.44,0.70
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0,0.0,0.0
+"Thiamin",mg,0.279,0.079,0.073,0.114
+"Riboflavin",mg,0.131,0.037,0.034,0.054
+"Niacin",mg,4.042,1.146,1.051,1.657
+"Vitamin B-6",mg,0.263,0.075,0.068,0.108
+"Folate, DFE",µg,75,21,20,31
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.37,0.10,0.10,0.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,1.4,0.4,0.4,0.6
+Lipids
+"Fatty acids, total saturated",g,0.872,0.247,0.227,0.358
+"Fatty acids, total monounsaturated",g,0.760,0.215,0.198,0.312
+"Fatty acids, total polyunsaturated",g,1.872,0.531,0.487,0.768
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

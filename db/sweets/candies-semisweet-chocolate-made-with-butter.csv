@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:38 EST
+"Nutrient data for: 19701, Candies, semisweet chocolate, made with butter"
+Nutrient,Unit,1Value per 100 g,"1 cup chips (6 oz package) = 170.0g","1 cup large chips = 182.0g","1 cup mini chips = 173.0g","1 oz (approx 60 pcs) = 28.35g",
+Proximates
+"Water",g,0.70,1.19,1.27,1.21,0.20
+"Energy",kcal,477,811,868,825,135
+"Protein",g,4.20,7.14,7.64,7.27,1.19
+"Total lipid (fat)",g,29.70,50.49,54.05,51.38,8.42
+"Carbohydrate, by difference",g,63.40,107.78,115.39,109.68,17.97
+"Fiber, total dietary",g,5.9,10.0,10.7,10.2,1.7
+Minerals
+"Calcium, Ca",mg,32,54,58,55,9
+"Iron, Fe",mg,3.13,5.32,5.70,5.41,0.89
+"Magnesium, Mg",mg,115,196,209,199,33
+"Phosphorus, P",mg,132,224,240,228,37
+"Potassium, K",mg,365,620,664,631,103
+"Sodium, Na",mg,11,19,20,19,3
+"Zinc, Zn",mg,1.62,2.75,2.95,2.80,0.46
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.055,0.093,0.100,0.095,0.016
+"Riboflavin",mg,0.090,0.153,0.164,0.156,0.026
+"Niacin",mg,0.427,0.726,0.777,0.739,0.121
+"Vitamin B-6",mg,0.050,0.085,0.091,0.087,0.014
+"Folate, DFE",µg,3,5,5,5,1
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,3,5,5,5,1
+"Vitamin A, IU",IU,60,102,109,104,17
+Lipids
+"Fatty acids, total saturated",g,17.530,29.801,31.905,30.327,4.970
+"Fatty acids, total monounsaturated",g,9.930,16.881,18.073,17.179,2.815
+"Fatty acids, total polyunsaturated",g,0.950,1.615,1.729,1.643,0.269
+"Cholesterol",mg,18,31,33,31,5
+Amino Acids
+Other
+"Caffeine",mg,62,105,113,107,18

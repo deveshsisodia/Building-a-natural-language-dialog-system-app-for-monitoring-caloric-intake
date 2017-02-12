@@ -1,0 +1,47 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08680, Cereals, oats, instant, fortified, maple and brown sugar, dry"
+Nutrient,Unit,1Value per 100 g,"1 packet = 43.0g",
+Proximates
+"Water",g,6.40,2.75
+"Energy",kcal,368,158
+"Protein",g,9.25,3.98
+"Total lipid (fat)",g,4.73,2.03
+"Carbohydrate, by difference",g,76.67,32.97
+"Fiber, total dietary",g,7.2,3.1
+"Sugars, total",g,30.28,13.02
+Minerals
+"Calcium, Ca",mg,258,111
+"Iron, Fe",mg,10.36,4.45
+"Magnesium, Mg",mg,90,39
+"Phosphorus, P",mg,305,131
+"Potassium, K",mg,361,155
+"Sodium, Na",mg,505,217
+"Zinc, Zn",mg,1.72,0.74
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,1.069,0.460
+"Riboflavin",mg,1.002,0.431
+"Niacin",mg,11.739,5.048
+"Vitamin B-6",mg,1.464,0.630
+"Folate, DFE",µg,240,103
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,692,298
+"Vitamin A, IU",IU,2310,993
+"Vitamin E (alpha-tocopherol)",mg,0.51,0.22
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.4,0.6
+Lipids
+"Fatty acids, total saturated",g,0.778,0.335
+"Fatty acids, total monounsaturated",g,1.432,0.616
+"Fatty acids, total polyunsaturated",g,1.600,0.688
+"Fatty acids, total trans",g,0.002,0.001
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(b)"Majority of brands are not fortified with vitamin D, but some store brands are fortified at 20% DV (80 IU or 2 mcg/100 g)."
+(a)"Majority of brands are not fortified with vitamin D, but some store brands are fortified at 20% DV (80 IU or 2 mcg/100 g)."

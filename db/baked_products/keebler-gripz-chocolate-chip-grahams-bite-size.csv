@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:40 EST
+"Nutrient data for: 28104, KEEBLER, GRIPZ, Chocolate Chip Grahams, bite-size"
+Nutrient,Unit,1Value per 100 g,"1 pouch = 25.0g",
+Proximates
+"Water",g,2.50,0.62
+"Energy",kcal,433,108
+"Protein",g,7.40,1.85
+"Total lipid (fat)",g,12.90,3.23
+"Carbohydrate, by difference",g,75.60,18.90
+"Fiber, total dietary",g,11.0,2.8
+"Sugars, total",g,22.80,5.70
+Minerals
+"Calcium, Ca",mg,400,100
+"Iron, Fe",mg,3.70,0.93
+"Magnesium, Mg",mg,67,17
+"Phosphorus, P",mg,166,42
+"Potassium, K",mg,222,56
+"Sodium, Na",mg,289,72
+"Zinc, Zn",mg,1.40,0.35
+Vitamins
+"Thiamin",mg,0.360,0.090
+"Riboflavin",mg,0.200,0.050
+"Niacin",mg,3.800,0.950
+"Vitamin B-6",mg,0.120,0.030
+"Vitamin A, RAE",µg,600,150
+"Vitamin A, IU",IU,2000,500
+Lipids
+"Fatty acids, total saturated",g,4.800,1.200
+"Fatty acids, total monounsaturated",g,3.100,0.775
+"Fatty acids, total polyunsaturated",g,4.000,1.000
+"Fatty acids, total trans",g,0.100,0.025
+"Cholesterol",mg,0,0
+Amino Acids
+Other

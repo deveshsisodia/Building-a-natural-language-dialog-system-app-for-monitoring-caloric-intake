@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:37 EST
+"Nutrient data for: 05626, Emu, full rump, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 full rump = 695.0g",
+Proximates
+"Water",g,73.79,62.72,512.84
+"Energy",kcal,112,95,778
+"Protein",g,22.83,19.41,158.67
+"Total lipid (fat)",g,1.64,1.39,11.40
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,4,3,28
+"Iron, Fe",mg,4.96,4.22,34.47
+"Magnesium, Mg",mg,40,34,278
+"Phosphorus, P",mg,236,201,1640
+"Potassium, K",mg,330,280,2294
+"Sodium, Na",mg,90,76,626
+"Zinc, Zn",mg,3.59,3.05,24.95
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.360,0.306,2.502
+"Riboflavin",mg,0.458,0.389,3.183
+"Niacin",mg,7.504,6.378,52.153
+"Vitamin B-6",mg,0.643,0.547,4.469
+"Folate, DFE",µg,13,11,90
+"Vitamin B-12",µg,2.24,1.90,15.57
+"Vitamin A, RAE",µg,4,3,28
+"Vitamin A, IU",IU,15,13,104
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.20,1.60
+Lipids
+"Fatty acids, total saturated",g,0.448,0.381,3.114
+"Fatty acids, total monounsaturated",g,0.516,0.439,3.586
+"Fatty acids, total polyunsaturated",g,0.329,0.280,2.287
+"Cholesterol",mg,85,72,591
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

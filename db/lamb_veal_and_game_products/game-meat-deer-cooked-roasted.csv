@@ -1,0 +1,34 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:52 EST
+"Nutrient data for: 17165, Game meat, deer, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked (yield from 1 lb raw meat, boneless) = 340.0g",
+Proximates
+"Water",g,65.23,55.45,221.78
+"Energy",kcal,158,134,537
+"Protein",g,30.21,25.68,102.71
+"Total lipid (fat)",g,3.19,2.71,10.85
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,7,6,24
+"Iron, Fe",mg,4.47,3.80,15.20
+"Magnesium, Mg",mg,24,20,82
+"Phosphorus, P",mg,226,192,768
+"Potassium, K",mg,335,285,1139
+"Sodium, Na",mg,54,46,184
+"Zinc, Zn",mg,2.75,2.34,9.35
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.180,0.153,0.612
+"Riboflavin",mg,0.600,0.510,2.040
+"Niacin",mg,6.710,5.704,22.814
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.250,1.062,4.250
+"Fatty acids, total monounsaturated",g,0.880,0.748,2.992
+"Fatty acids, total polyunsaturated",g,0.620,0.527,2.108
+"Cholesterol",mg,112,95,381
+Amino Acids
+Other

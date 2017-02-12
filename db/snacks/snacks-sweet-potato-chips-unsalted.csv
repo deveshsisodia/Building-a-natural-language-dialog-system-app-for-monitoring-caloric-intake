@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 25012, Snacks, sweet potato chips, unsalted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 Bag = 28.0g","1 package = 34.0g",
+Proximates
+"Water",g,4.51,1.28,1.26,1.53
+"Energy",kcal,532,151,149,181
+"Protein",g,2.94,0.83,0.82,1.00
+"Total lipid (fat)",g,32.35,9.17,9.06,11.00
+"Carbohydrate, by difference",g,56.82,16.11,15.91,19.32
+"Fiber, total dietary",g,8.8,2.5,2.5,3.0
+"Sugars, total",g,8.82,2.50,2.47,3.00
+Minerals
+"Calcium, Ca",mg,59,17,17,20
+"Iron, Fe",mg,2.12,0.60,0.59,0.72
+"Magnesium, Mg",mg,65,18,18,22
+"Phosphorus, P",mg,145,41,41,49
+"Potassium, K",mg,925,262,259,314
+"Sodium, Na",mg,35,10,10,12
+"Zinc, Zn",mg,0.53,0.15,0.15,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.088,0.025,0.025,0.030
+"Riboflavin",mg,0.161,0.046,0.045,0.055
+"Niacin",mg,2.088,0.592,0.585,0.710
+"Vitamin B-6",mg,0.535,0.152,0.150,0.182
+"Folate, DFE",µg,37,10,10,13
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1184,336,332,403
+"Vitamin A, IU",IU,23675,6712,6629,8050
+"Vitamin E (alpha-tocopherol)",mg,9.82,2.78,2.75,3.34
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,24.5,6.9,6.9,8.3
+Lipids
+"Fatty acids, total saturated",g,2.941,0.834,0.823,1.000
+"Fatty acids, total monounsaturated",g,9.155,2.595,2.563,3.113
+"Fatty acids, total polyunsaturated",g,12.224,3.466,3.423,4.156
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

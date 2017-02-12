@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:27 EST
+"Nutrient data for: 11384, Potatoes, au gratin, dry mix, unprepared"
+Nutrient,Unit,1Value per 100 g,"0.167 package (5.5 oz) = 26.0g","1 package (5.5 oz) = 156.0g",
+Proximates
+"Water",g,4.97,1.29,7.75
+"Energy",kcal,314,82,490
+"Protein",g,8.90,2.31,13.88
+"Total lipid (fat)",g,3.70,0.96,5.77
+"Carbohydrate, by difference",g,74.31,19.32,115.92
+"Fiber, total dietary",g,4.1,1.1,6.4
+Minerals
+"Calcium, Ca",mg,311,81,485
+"Iron, Fe",mg,1.63,0.42,2.54
+"Magnesium, Mg",mg,64,17,100
+"Phosphorus, P",mg,404,105,630
+"Potassium, K",mg,990,257,1544
+"Sodium, Na",mg,2095,545,3268
+"Zinc, Zn",mg,0.90,0.23,1.40
+Vitamins
+"Vitamin C, total ascorbic acid",mg,15.5,4.0,24.2
+"Thiamin",mg,0.070,0.018,0.109
+"Riboflavin",mg,0.253,0.066,0.395
+"Niacin",mg,4.063,1.056,6.338
+"Vitamin B-6",mg,0.150,0.039,0.234
+"Folate, DFE",µg,40,10,62
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,54,14,84
+"Vitamin A, IU",IU,263,68,410
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,2.323,0.604,3.624
+"Fatty acids, total monounsaturated",g,1.055,0.274,1.646
+"Fatty acids, total polyunsaturated",g,0.121,0.031,0.189
+Amino Acids
+Other

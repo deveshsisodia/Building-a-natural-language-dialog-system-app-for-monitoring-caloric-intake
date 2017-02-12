@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:32 EST
+"Nutrient data for: 21101, Fast foods, cheeseburger; triple, regular patty; plain"
+Nutrient,Unit,1Value per 100 g,"1 item = 249.0g",
+Proximates
+"Water",g,43.93,109.39
+"Energy",kcal,310,772
+"Protein",g,18.20,45.32
+"Total lipid (fat)",g,19.17,47.73
+"Carbohydrate, by difference",g,16.16,40.24
+"Fiber, total dietary",g,0.5,1.2
+"Sugars, total",g,3.29,8.19
+Minerals
+"Calcium, Ca",mg,174,433
+"Iron, Fe",mg,2.23,5.55
+"Magnesium, Mg",mg,21,52
+"Phosphorus, P",mg,196,488
+"Potassium, K",mg,230,573
+"Sodium, Na",mg,637,1586
+"Zinc, Zn",mg,3.02,7.52
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.148,0.369
+"Riboflavin",mg,0.273,0.680
+"Niacin",mg,4.263,10.615
+"Vitamin B-6",mg,0.211,0.525
+"Vitamin B-12",µg,1.56,3.88
+Lipids
+"Fatty acids, total saturated",g,8.015,19.957
+"Fatty acids, total monounsaturated",g,6.559,16.332
+"Fatty acids, total polyunsaturated",g,0.637,1.586
+"Fatty acids, total trans",g,1.091,2.717
+"Cholesterol",mg,63,157
+Amino Acids
+Other

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:20 EST
+"Nutrient data for: 04705, Salad dressing, caesar, fat-free"
+Nutrient,Unit,1Value per 100 g,"2.0 tbsp (1 NLEA serving) = 34.0g",
+Proximates
+"Water",g,64.10,21.79
+"Energy",kcal,131,45
+"Protein",g,1.47,0.50
+"Total lipid (fat)",g,0.23,0.08
+"Carbohydrate, by difference",g,30.73,10.45
+"Fiber, total dietary",g,0.2,0.1
+"Sugars, total",g,8.82,3.00
+Minerals
+"Calcium, Ca",mg,33,11
+"Iron, Fe",mg,0.29,0.10
+"Magnesium, Mg",mg,4,1
+"Phosphorus, P",mg,30,10
+"Potassium, K",mg,48,16
+"Sodium, Na",mg,1265,430
+"Zinc, Zn",mg,0.30,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0
+"Thiamin",mg,0.031,0.011
+"Riboflavin",mg,0.009,0.003
+"Niacin",mg,0.029,0.010
+"Vitamin B-6",mg,0.040,0.014
+"Folate, DFE",µg,2,1
+"Vitamin B-12",µg,0.04,0.01
+"Vitamin A, RAE",µg,1,0
+"Vitamin A, IU",IU,4,1
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.01
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.096,0.033
+"Fatty acids, total monounsaturated",g,0.045,0.015
+"Fatty acids, total polyunsaturated",g,0.010,0.003
+"Cholesterol",mg,1,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

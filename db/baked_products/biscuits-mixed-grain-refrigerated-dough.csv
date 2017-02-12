@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:29 EST
+"Nutrient data for: 18017, Biscuits, mixed grain, refrigerated dough"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 biscuit (2-1/2"" dia) = 44.0g",
+Proximates
+"Water",g,37.80,10.72,16.63
+"Energy",kcal,263,75,116
+"Protein",g,6.10,1.73,2.68
+"Total lipid (fat)",g,5.60,1.59,2.46
+"Carbohydrate, by difference",g,47.40,13.44,20.86
+Minerals
+"Calcium, Ca",mg,17,5,7
+"Iron, Fe",mg,2.75,0.78,1.21
+"Magnesium, Mg",mg,30,9,13
+"Phosphorus, P",mg,236,67,104
+"Potassium, K",mg,456,129,201
+"Sodium, Na",mg,670,190,295
+"Zinc, Zn",mg,0.60,0.17,0.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.390,0.111,0.172
+"Riboflavin",mg,0.210,0.060,0.092
+"Niacin",mg,3.400,0.964,1.496
+"Vitamin B-6",mg,0.065,0.018,0.029
+"Folate, DFE",µg,133,38,59
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.366,0.387,0.601
+"Fatty acids, total monounsaturated",g,2.932,0.831,1.290
+"Fatty acids, total polyunsaturated",g,0.880,0.249,0.387
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

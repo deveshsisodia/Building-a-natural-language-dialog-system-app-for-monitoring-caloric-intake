@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08671, Cereals ready-to-eat, GENERAL MILLS, Dulce De Leche CHEERIOS"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 27.0g",
+Proximates
+"Water",g,2.20,0.59
+"Energy",kcal,378,102
+"Protein",g,6.50,1.75
+"Total lipid (fat)",g,5.69,1.54
+"Carbohydrate, by difference",g,82.00,22.14
+"Fiber, total dietary",g,7.3,2.0
+"Sugars, total",g,20.89,5.64
+Minerals
+"Calcium, Ca",mg,370,100
+"Iron, Fe",mg,33.29,8.99
+"Magnesium, Mg",mg,59,16
+"Phosphorus, P",mg,222,60
+"Potassium, K",mg,272,73
+"Sodium, Na",mg,509,137
+"Zinc, Zn",mg,13.89,3.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,55.6,15.0
+"Thiamin",mg,1.390,0.375
+"Riboflavin",mg,1.600,0.432
+"Niacin",mg,18.500,4.995
+"Vitamin B-6",mg,1.850,0.500
+"Vitamin B-12",µg,5.59,1.51
+"Vitamin A, IU",IU,1852,500
+"Vitamin D (D2 + D3)",µg,3.7,1.0
+"Vitamin D",IU,148,40
+Lipids
+"Fatty acids, total saturated",g,1.000,0.270
+"Fatty acids, total monounsaturated",g,1.890,0.510
+"Fatty acids, total polyunsaturated",g,2.700,0.729
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

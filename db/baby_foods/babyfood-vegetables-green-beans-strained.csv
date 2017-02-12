@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:47 EST
+"Nutrient data for: 03091, Babyfood, vegetables, green beans, strained"
+Nutrient,Unit,1Value per 100 g,"1 cup = 240.0g","1 tbsp = 15.0g","1 oz = 28.35g","1 jar = 113.0g","1 jar Beech-Nut Stage I (4 oz) = 113.0g","1 jar Gerber First Foods (2.5 oz) = 71.0g","1 jar Gerber Second Food (4 oz) = 113.0g","1 jar Heinz Strained-2 (4 oz) = 113.0g","1 jar Heinz Beginner-1 (2.5 oz) = 71.0g",
+Proximates
+"Water",g,91.85,220.44,13.78,26.04,103.79,103.79,65.21,103.79,103.79,65.21
+"Energy",kcal,27,65,4,8,31,31,19,31,31,19
+"Protein",g,1.20,2.88,0.18,0.34,1.36,1.36,0.85,1.36,1.36,0.85
+"Total lipid (fat)",g,0.17,0.41,0.03,0.05,0.19,0.19,0.12,0.19,0.19,0.12
+"Carbohydrate, by difference",g,6.29,15.10,0.94,1.78,7.11,7.11,4.47,7.11,7.11,4.47
+"Fiber, total dietary",g,2.2,5.3,0.3,0.6,2.5,2.5,1.6,2.5,2.5,1.6
+"Sugars, total",g,1.88,4.51,0.28,0.53,2.12,2.12,1.33,2.12,2.12,1.33
+Minerals
+"Calcium, Ca",mg,39,94,6,11,44,44,28,44,44,28
+"Iron, Fe",mg,0.67,1.61,0.10,0.19,0.76,0.76,0.48,0.76,0.76,0.48
+"Magnesium, Mg",mg,20,48,3,6,23,23,14,23,23,14
+"Phosphorus, P",mg,41,98,6,12,46,46,29,46,46,29
+"Potassium, K",mg,146,350,22,41,165,165,104,165,165,104
+"Sodium, Na",mg,7,17,1,2,8,8,5,8,8,5
+"Zinc, Zn",mg,0.22,0.53,0.03,0.06,0.25,0.25,0.16,0.25,0.25,0.16
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.7,0.0,0.1,0.3,0.3,0.2,0.3,0.3,0.2
+"Thiamin",mg,0.026,0.062,0.004,0.007,0.029,0.029,0.018,0.029,0.029,0.018
+"Riboflavin",mg,0.079,0.190,0.012,0.022,0.089,0.089,0.056,0.089,0.089,0.056
+"Niacin",mg,0.361,0.866,0.054,0.102,0.408,0.408,0.256,0.408,0.408,0.256
+"Vitamin B-6",mg,0.038,0.091,0.006,0.011,0.043,0.043,0.027,0.043,0.043,0.027
+"Folate, DFE",µg,24,58,4,7,27,27,17,27,27,17
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,18,43,3,5,20,20,13,20,20,13
+"Vitamin A, IU",IU,355,852,53,101,401,401,252,401,401,252
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.17,0.01,0.02,0.08,0.08,0.05,0.08,0.08,0.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,42.4,101.8,6.4,12.0,47.9,47.9,30.1,47.9,47.9,30.1
+Lipids
+"Fatty acids, total saturated",g,0.039,0.094,0.006,0.011,0.044,0.044,0.028,0.044,0.044,0.028
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.116,0.278,0.017,0.033,0.131,0.131,0.082,0.131,0.131,0.082
+"Cholesterol",mg,0,0,0,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0,0,0,0

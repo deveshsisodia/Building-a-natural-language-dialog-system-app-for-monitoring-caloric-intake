@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:42 EST
+"Nutrient data for: 10229, Pork, fresh, composite of trimmed retail cuts (loin and shoulder blade), separable lean only, cooked"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) = 236.0g",
+Proximates
+"Water",g,60.30,51.26,142.31
+"Energy",kcal,211,179,498
+"Protein",g,29.47,25.05,69.55
+"Total lipid (fat)",g,9.44,8.02,22.28
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,22,19,52
+"Iron, Fe",mg,1.07,0.91,2.53
+"Magnesium, Mg",mg,26,22,61
+"Phosphorus, P",mg,234,199,552
+"Potassium, K",mg,377,320,890
+"Sodium, Na",mg,57,48,135
+"Zinc, Zn",mg,2.87,2.44,6.77
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.3,0.9
+"Thiamin",mg,0.873,0.742,2.060
+"Riboflavin",mg,0.344,0.292,0.812
+"Niacin",mg,5.251,4.463,12.392
+"Vitamin B-6",mg,0.435,0.370,1.027
+"Folate, DFE",µg,6,5,14
+"Vitamin B-12",µg,0.75,0.64,1.77
+"Vitamin A, RAE",µg,2,2,5
+"Vitamin A, IU",IU,7,6,17
+Lipids
+"Fatty acids, total saturated",g,3.340,2.839,7.882
+"Fatty acids, total monounsaturated",g,4.220,3.587,9.959
+"Fatty acids, total polyunsaturated",g,0.710,0.603,1.676
+"Cholesterol",mg,85,72,201
+Amino Acids
+Other

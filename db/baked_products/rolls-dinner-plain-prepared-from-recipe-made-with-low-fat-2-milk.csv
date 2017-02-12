@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:45 EST
+"Nutrient data for: 18396, Rolls, dinner, plain, prepared from recipe, made with low fat (2%) milk"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 large roll or bun (3-1/2"" dia) = 43.0g","1 roll (2-1/2"" dia) = 35.0g",
+Proximates
+"Water",g,29.10,8.25,12.51,10.19
+"Energy",kcal,316,90,136,111
+"Protein",g,8.50,2.41,3.65,2.98
+"Total lipid (fat)",g,7.30,2.07,3.14,2.56
+"Carbohydrate, by difference",g,53.40,15.14,22.96,18.69
+"Fiber, total dietary",g,1.9,0.5,0.8,0.7
+Minerals
+"Calcium, Ca",mg,60,17,26,21
+"Iron, Fe",mg,2.96,0.84,1.27,1.04
+"Magnesium, Mg",mg,19,5,8,7
+"Phosphorus, P",mg,126,36,54,44
+"Potassium, K",mg,152,43,65,53
+"Sodium, Na",mg,415,118,178,145
+"Zinc, Zn",mg,0.70,0.20,0.30,0.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1,0.1,0.1
+"Thiamin",mg,0.393,0.111,0.169,0.138
+"Riboflavin",mg,0.408,0.116,0.175,0.143
+"Niacin",mg,3.448,0.978,1.483,1.207
+"Vitamin B-6",mg,0.060,0.017,0.026,0.021
+"Folate, DFE",µg,123,35,53,43
+"Vitamin B-12",µg,0.14,0.04,0.06,0.05
+"Vitamin A, RAE",µg,87,25,37,30
+"Vitamin A, IU",IU,338,96,145,118
+Lipids
+"Fatty acids, total saturated",g,1.795,0.509,0.772,0.628
+"Fatty acids, total monounsaturated",g,2.881,0.817,1.239,1.008
+"Fatty acids, total polyunsaturated",g,2.006,0.569,0.863,0.702
+"Cholesterol",mg,35,10,15,12
+Amino Acids
+Other

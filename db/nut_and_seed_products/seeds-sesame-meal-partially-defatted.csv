@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:09 EST
+"Nutrient data for: 12034, Seeds, sesame meal, partially defatted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,5.00,1.42
+"Energy",kcal,567,161
+"Protein",g,16.96,4.81
+"Total lipid (fat)",g,48.00,13.61
+"Carbohydrate, by difference",g,26.04,7.38
+Minerals
+"Calcium, Ca",mg,153,43
+"Iron, Fe",mg,14.55,4.12
+"Magnesium, Mg",mg,346,98
+"Phosphorus, P",mg,774,219
+"Potassium, K",mg,406,115
+"Sodium, Na",mg,39,11
+"Zinc, Zn",mg,10.23,2.90
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,2.573,0.729
+"Riboflavin",mg,0.275,0.078
+"Niacin",mg,12.816,3.633
+"Vitamin B-6",mg,0.146,0.041
+"Folate, DFE",µg,30,9
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,3,1
+"Vitamin A, IU",IU,66,19
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,6.722,1.906
+"Fatty acids, total monounsaturated",g,18.127,5.139
+"Fatty acids, total polyunsaturated",g,21.039,5.965
+"Cholesterol",mg,0,0
+Amino Acids
+Other

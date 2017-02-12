@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:21 EST
+"Nutrient data for: 14629, Beverages, Energy drink, ROCKSTAR"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 31.0g","8.0 fl oz = 240.0g","1 can = 480.0g",
+Proximates
+"Water",g,87.08,26.99,208.99,417.98
+"Energy",kcal,58,18,139,278
+"Protein",g,0.34,0.11,0.82,1.63
+"Total lipid (fat)",g,0.22,0.07,0.53,1.06
+"Carbohydrate, by difference",g,12.70,3.94,30.48,60.96
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,12.26,3.80,29.42,58.85
+Minerals
+"Calcium, Ca",mg,1,0,2,5
+"Iron, Fe",mg,0.05,0.02,0.12,0.24
+"Magnesium, Mg",mg,0,0,0,0
+"Phosphorus, P",mg,0,0,0,0
+"Potassium, K",mg,6,2,14,29
+"Sodium, Na",mg,16,5,38,77
+"Zinc, Zn",mg,0.05,0.02,0.12,0.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000,0.000
+"Riboflavin",mg,1.600,0.496,3.840,7.680
+"Niacin",mg,9.820,3.044,23.568,47.136
+"Vitamin B-6",mg,1.353,0.419,3.247,6.494
+"Folate, DFE",µg,0,0,0,0
+"Vitamin B-12",µg,3.77,1.17,9.05,18.10
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,33,10,79,158

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:21 EST
+"Nutrient data for: 11209, Eggplant, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, cubes = 82.0g","1 eggplant, peeled (yield from 1-1/4 lb) = 458.0g","1 eggplant, unpeeled (approx 1-1/4 lb) = 548.0g",
+Proximates
+"Water",g,92.30,75.69,422.73,505.80
+"Energy",kcal,25,20,114,137
+"Protein",g,0.98,0.80,4.49,5.37
+"Total lipid (fat)",g,0.18,0.15,0.82,0.99
+"Carbohydrate, by difference",g,5.88,4.82,26.93,32.22
+"Fiber, total dietary",g,3.0,2.5,13.7,16.4
+"Sugars, total",g,3.53,2.89,16.17,19.34
+Minerals
+"Calcium, Ca",mg,9,7,41,49
+"Iron, Fe",mg,0.23,0.19,1.05,1.26
+"Magnesium, Mg",mg,14,11,64,77
+"Phosphorus, P",mg,24,20,110,132
+"Potassium, K",mg,229,188,1049,1255
+"Sodium, Na",mg,2,2,9,11
+"Zinc, Zn",mg,0.16,0.13,0.73,0.88
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.2,1.8,10.1,12.1
+"Thiamin",mg,0.039,0.032,0.179,0.214
+"Riboflavin",mg,0.037,0.030,0.169,0.203
+"Niacin",mg,0.649,0.532,2.972,3.557
+"Vitamin B-6",mg,0.084,0.069,0.385,0.460
+"Folate, DFE",µg,22,18,101,121
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,1,5,5
+"Vitamin A, IU",IU,23,19,105,126
+"Vitamin E (alpha-tocopherol)",mg,0.30,0.25,1.37,1.64
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,3.5,2.9,16.0,19.2
+Lipids
+"Fatty acids, total saturated",g,0.034,0.028,0.156,0.186
+"Fatty acids, total monounsaturated",g,0.016,0.013,0.073,0.088
+"Fatty acids, total polyunsaturated",g,0.076,0.062,0.348,0.416
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

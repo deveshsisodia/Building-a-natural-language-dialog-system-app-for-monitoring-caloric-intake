@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:24 EST
+"Nutrient data for: 05676, Chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"1 drumstick without skin = 95.0g","1 drumstick with skin = 105.0g",
+Proximates
+"Water",g,66.33,63.01,69.65
+"Energy",kcal,187,178,196
+"Protein",g,22.72,21.58,23.86
+"Total lipid (fat)",g,10.73,10.19,11.27
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,12,11,13
+"Iron, Fe",mg,0.94,0.89,0.99
+"Magnesium, Mg",mg,21,20,22
+"Phosphorus, P",mg,177,168,186
+"Potassium, K",mg,229,218,240
+"Sodium, Na",mg,111,105,117
+"Zinc, Zn",mg,2.30,2.18,2.41
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.083,0.079,0.087
+"Riboflavin",mg,0.164,0.156,0.172
+"Niacin",mg,4.832,4.590,5.074
+"Vitamin B-6",mg,0.347,0.330,0.364
+"Folate, DFE",µg,4,4,4
+"Vitamin B-12",µg,0.41,0.39,0.43
+"Vitamin A, RAE",µg,12,11,13
+"Vitamin A, IU",IU,42,40,44
+"Vitamin E (alpha-tocopherol)",mg,0.17,0.16,0.18
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.1
+"Vitamin D",IU,2,2,2
+"Vitamin K (phylloquinone)",µg,0.3,0.3,0.3
+Lipids
+"Fatty acids, total saturated",g,2.939,2.792,3.086
+"Fatty acids, total monounsaturated",g,4.493,4.268,4.718
+"Fatty acids, total polyunsaturated",g,2.232,2.120,2.344
+"Fatty acids, total trans",g,0.055,0.052,0.058
+"Cholesterol",mg,132,125,139
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

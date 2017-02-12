@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:28 EST
+"Nutrient data for: 35155, Blueberries, wild, raw (Alaska Native)"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,85.48,
+"Energy",kcal,61,
+"Protein",g,1.22,
+"Total lipid (fat)",g,0.76,
+"Carbohydrate, by difference",g,12.31,
+"Fiber, total dietary",g,2.6,
+"Sugars, total",g,6.46,
+Minerals
+"Calcium, Ca",mg,13,
+"Iron, Fe",mg,0.37,
+"Magnesium, Mg",mg,7,
+"Phosphorus, P",mg,29,
+"Potassium, K",mg,75,
+"Sodium, Na",mg,6,
+"Zinc, Zn",mg,0.20,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,18.3,
+"Thiamin",mg,0.067,
+"Riboflavin",mg,0.414,
+"Niacin",mg,0.597,
+"Vitamin B-6",mg,0.026,
+"Folate, DFE",µg,33,
+"Vitamin B-12",µg,0.00,
+"Vitamin A, RAE",µg,6,
+"Vitamin A, IU",IU,115,
+"Vitamin E (alpha-tocopherol)",mg,1.69,
+"Vitamin D (D2 + D3)",µg,0.0,
+"Vitamin D",IU,0,
+"Vitamin K (phylloquinone)",µg,17.2,
+Lipids
+Amino Acids
+Other
+"Caffeine",mg,0,
+Footnotes
+(a)"The mineral and vitamin content of berries harvested in the wild and in specific regions of the country may differ from commercially produced berries."

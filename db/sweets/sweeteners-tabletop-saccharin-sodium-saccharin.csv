@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:50 EST
+"Nutrient data for: 43158, Sweeteners, tabletop, saccharin (sodium saccharin)"
+Nutrient,Unit,1Value per 100 g,"1 serving 1 packet = 1.0g","1 serving 1 packet SUGAR TWIN = 0.8g",
+Proximates
+"Water",g,8.75,0.09,0.07
+"Energy",kcal,360,4,3
+"Protein",g,0.94,0.01,0.01
+"Total lipid (fat)",g,0.00,0.00,0.00
+"Carbohydrate, by difference",g,89.11,0.89,0.71
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,85.19,0.85,0.68
+Minerals
+"Calcium, Ca",mg,0,0,0
+"Iron, Fe",mg,0.04,0.00,0.00
+"Magnesium, Mg",mg,0,0,0
+"Phosphorus, P",mg,0,0,0
+"Potassium, K",mg,4,0,0
+"Sodium, Na",mg,428,4,3
+"Zinc, Zn",mg,0.01,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000
+"Riboflavin",mg,0.000,0.000,0.000
+"Niacin",mg,0.000,0.000,0.000
+"Vitamin B-6",mg,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

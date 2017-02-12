@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:20 EST
+"Nutrient data for: 04135, Salad dressing, home recipe, vinegar and oil"
+Nutrient,Unit,1Value per 100 g,"1 tablespoon = 16.0g","1 cup = 250.0g",
+Proximates
+"Water",g,47.40,7.58,118.50
+"Energy",kcal,449,72,1122
+"Protein",g,0.00,0.00,0.00
+"Total lipid (fat)",g,50.10,8.02,125.25
+"Carbohydrate, by difference",g,2.50,0.40,6.25
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,2.50,0.40,6.25
+Minerals
+"Calcium, Ca",mg,0,0,0
+"Iron, Fe",mg,0.00,0.00,0.00
+"Magnesium, Mg",mg,0,0,0
+"Phosphorus, P",mg,0,0,0
+"Potassium, K",mg,8,1,20
+"Sodium, Na",mg,1,0,2
+"Zinc, Zn",mg,0.00,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000
+"Riboflavin",mg,0.000,0.000,0.000
+"Niacin",mg,0.000,0.000,0.000
+"Vitamin B-6",mg,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,4.61,0.74,11.53
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,98.8,15.8,247.0
+Lipids
+"Fatty acids, total saturated",g,9.100,1.456,22.750
+"Fatty acids, total monounsaturated",g,14.800,2.368,37.000
+"Fatty acids, total polyunsaturated",g,24.100,3.856,60.250
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

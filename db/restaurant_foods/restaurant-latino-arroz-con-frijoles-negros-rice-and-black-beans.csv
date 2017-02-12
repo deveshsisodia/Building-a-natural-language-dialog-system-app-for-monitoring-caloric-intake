@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:27 EST
+"Nutrient data for: 36405, Restaurant, Latino, Arroz con frijoles negros (rice and black beans)"
+Nutrient,Unit,1Value per 100 g,"1 serving = 461.0g","1 cup = 146.0g",
+Proximates
+"Water",g,65.47,301.82,95.59
+"Energy",kcal,151,696,220
+"Protein",g,4.64,21.39,6.77
+"Total lipid (fat)",g,3.85,17.75,5.62
+"Carbohydrate, by difference",g,24.40,112.48,35.62
+"Fiber, total dietary",g,3.4,15.7,5.0
+"Sugars, total",g,0.86,3.96,1.26
+Minerals
+"Calcium, Ca",mg,37,171,54
+"Iron, Fe",mg,1.57,7.24,2.29
+"Magnesium, Mg",mg,26,120,38
+"Phosphorus, P",mg,87,401,127
+"Potassium, K",mg,224,1033,327
+"Sodium, Na",mg,420,1936,613
+"Zinc, Zn",mg,0.74,3.41,1.08
+Vitamins
+"Thiamin",mg,0.122,0.562,0.178
+"Riboflavin",mg,0.021,0.097,0.031
+"Niacin",mg,1.017,4.688,1.485
+"Vitamin B-6",mg,0.062,0.286,0.091
+"Vitamin E (alpha-tocopherol)",mg,0.47,2.17,0.69
+"Vitamin K (phylloquinone)",µg,10.3,47.5,15.0
+Lipids
+"Fatty acids, total saturated",g,0.729,3.361,1.064
+"Fatty acids, total monounsaturated",g,0.889,4.098,1.298
+"Fatty acids, total polyunsaturated",g,1.557,7.178,2.273
+"Fatty acids, total trans",g,0.047,0.217,0.069
+Amino Acids
+Other

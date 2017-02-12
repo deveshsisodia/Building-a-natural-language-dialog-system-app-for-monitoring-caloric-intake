@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:22 EST
+"Nutrient data for: 05362, Chicken, broiler, rotisserie, BBQ, wing meat and skin"
+Nutrient,Unit,1Value per 100 g,"1 wing = 51.0g",
+Proximates
+"Water",g,57.23,29.19
+"Energy",kcal,257,131
+"Protein",g,23.42,11.94
+"Total lipid (fat)",g,18.04,9.20
+"Carbohydrate, by difference",g,0.60,0.31
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.60,0.31
+Minerals
+"Calcium, Ca",mg,33,17
+"Iron, Fe",mg,0.93,0.47
+"Magnesium, Mg",mg,23,12
+"Phosphorus, P",mg,251,128
+"Potassium, K",mg,285,145
+"Sodium, Na",mg,579,295
+"Zinc, Zn",mg,1.57,0.80
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.078,0.040
+"Riboflavin",mg,0.161,0.082
+"Niacin",mg,7.454,3.802
+"Vitamin B-6",mg,0.212,0.108
+"Folate, DFE",µg,8,4
+"Vitamin B-12",µg,0.45,0.23
+"Vitamin A, RAE",µg,26,13
+"Vitamin A, IU",IU,87,44
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,4.627,2.360
+"Fatty acids, total monounsaturated",g,7.332,3.739
+"Fatty acids, total polyunsaturated",g,2.177,1.110
+"Fatty acids, total trans",g,0.164,0.084
+"Cholesterol",mg,129,66
+Amino Acids
+Other
+"Caffeine",mg,0,0

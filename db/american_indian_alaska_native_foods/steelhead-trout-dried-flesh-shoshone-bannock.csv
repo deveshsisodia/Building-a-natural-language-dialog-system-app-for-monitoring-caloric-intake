@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:29 EST
+"Nutrient data for: 35180, Steelhead trout, dried, flesh (Shoshone Bannock)"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,6.49,
+"Energy",kcal,382,
+"Protein",g,77.27,
+"Total lipid (fat)",g,8.06,
+"Carbohydrate, by difference",g,0.00,
+"Fiber, total dietary",g,0.0,
+"Sugars, total",g,0.00,
+Minerals
+"Calcium, Ca",mg,85,
+"Iron, Fe",mg,2.96,
+"Magnesium, Mg",mg,84,
+"Phosphorus, P",mg,976,
+"Potassium, K",mg,1720,
+"Sodium, Na",mg,2850,
+"Zinc, Zn",mg,1.79,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,
+"Vitamin B-12",µg,22.40,
+"Vitamin A, RAE",µg,64,
+"Vitamin A, IU",IU,213,
+"Vitamin E (alpha-tocopherol)",mg,2.41,
+"Vitamin D (D2 + D3)",µg,15.7,
+"Vitamin D",IU,628,
+"Vitamin K (phylloquinone)",µg,0.0,
+Lipids
+"Fatty acids, total saturated",g,0.829,
+"Fatty acids, total monounsaturated",g,1.228,
+"Fatty acids, total polyunsaturated",g,1.739,
+"Cholesterol",mg,227,
+Amino Acids
+Other
+"Caffeine",mg,0,

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:19 EST
+"Nutrient data for: 07083, Sausage, Vienna, canned, chicken, beef, pork"
+Nutrient,Unit,1Value per 100 g,"1 sausage (7/8"" dia x 2"" long) = 16.0g","7.0 sausages (drained contents from can, net wt 4 oz) = 113.0g",
+Proximates
+"Water",g,64.90,10.38,73.34
+"Energy",kcal,230,37,260
+"Protein",g,10.50,1.68,11.87
+"Total lipid (fat)",g,19.40,3.10,21.92
+"Carbohydrate, by difference",g,2.60,0.42,2.94
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,10,2,11
+"Iron, Fe",mg,0.88,0.14,0.99
+"Magnesium, Mg",mg,7,1,8
+"Phosphorus, P",mg,49,8,55
+"Potassium, K",mg,101,16,114
+"Sodium, Na",mg,879,141,993
+"Zinc, Zn",mg,1.60,0.26,1.81
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.087,0.014,0.098
+"Riboflavin",mg,0.107,0.017,0.121
+"Niacin",mg,1.613,0.258,1.823
+"Vitamin B-6",mg,0.120,0.019,0.136
+"Folate, DFE",µg,4,1,5
+"Vitamin B-12",µg,1.02,0.16,1.15
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.04,0.25
+"Vitamin D (D2 + D3)",µg,0.6,0.1,0.7
+"Vitamin D",IU,25,4,28
+"Vitamin K (phylloquinone)",µg,1.6,0.3,1.8
+Lipids
+"Fatty acids, total saturated",g,7.125,1.140,8.051
+"Fatty acids, total monounsaturated",g,9.628,1.540,10.880
+"Fatty acids, total polyunsaturated",g,1.290,0.206,1.458
+"Cholesterol",mg,87,14,98
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

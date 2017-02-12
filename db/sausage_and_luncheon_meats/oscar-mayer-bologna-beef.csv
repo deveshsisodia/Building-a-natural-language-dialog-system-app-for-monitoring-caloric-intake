@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:17 EST
+"Nutrient data for: 07201, OSCAR MAYER, Bologna (beef)"
+Nutrient,Unit,1Value per 100 g,"1 serving (1 slice) = 28.0g",
+Proximates
+"Water",g,54.15,15.16
+"Energy",kcal,316,88
+"Protein",g,11.05,3.09
+"Total lipid (fat)",g,29.10,8.15
+"Carbohydrate, by difference",g,2.45,0.69
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,1.40,0.39
+Minerals
+"Calcium, Ca",mg,12,3
+"Iron, Fe",mg,1.36,0.38
+"Magnesium, Mg",mg,14,4
+"Phosphorus, P",mg,109,31
+"Potassium, K",mg,168,47
+"Sodium, Na",mg,1179,330
+"Zinc, Zn",mg,2.03,0.57
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.050,0.014
+"Riboflavin",mg,0.110,0.031
+"Niacin",mg,2.420,0.678
+"Vitamin B-6",mg,0.170,0.048
+"Folate, DFE",µg,13,4
+"Vitamin B-12",µg,1.43,0.40
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.8,0.2
+"Vitamin D",IU,32,9
+Lipids
+"Fatty acids, total saturated",g,12.850,3.598
+"Fatty acids, total monounsaturated",g,15.210,4.259
+"Fatty acids, total polyunsaturated",g,1.110,0.311
+"Cholesterol",mg,64,18
+Amino Acids
+Other
+"Caffeine",mg,0,0

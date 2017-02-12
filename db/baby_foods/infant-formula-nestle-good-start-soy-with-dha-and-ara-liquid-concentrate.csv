@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:50 EST
+"Nutrient data for: 03966, Infant formula, NESTLE, GOOD START SOY, with DHA and ARA, liquid concentrate"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 29.2g",
+Proximates
+"Water",g,74.20,21.67
+"Energy",kcal,132,39
+"Protein",g,3.31,0.97
+"Total lipid (fat)",g,6.67,1.95
+"Carbohydrate, by difference",g,14.71,4.30
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,11.74,3.43
+Minerals
+"Calcium, Ca",mg,139,41
+"Iron, Fe",mg,2.38,0.69
+"Magnesium, Mg",mg,15,4
+"Phosphorus, P",mg,84,25
+"Potassium, K",mg,154,45
+"Sodium, Na",mg,53,15
+"Zinc, Zn",mg,1.19,0.35
+Vitamins
+"Vitamin C, total ascorbic acid",mg,15.9,4.6
+"Thiamin",mg,0.079,0.023
+"Riboflavin",mg,0.125,0.036
+"Niacin",mg,1.784,0.521
+"Vitamin B-6",mg,0.080,0.023
+"Folate, DFE",µg,36,11
+"Vitamin B-12",µg,0.40,0.12
+"Vitamin A, RAE",µg,119,35
+"Vitamin A, IU",IU,397,116
+"Vitamin E (alpha-tocopherol)",mg,1.94,0.57
+"Vitamin D (D2 + D3)",µg,2.0,0.6
+"Vitamin D",IU,80,23
+"Vitamin K (phylloquinone)",µg,11.9,3.5
+Lipids
+"Fatty acids, total saturated",g,2.897,0.846
+"Fatty acids, total monounsaturated",g,2.198,0.642
+"Fatty acids, total polyunsaturated",g,1.431,0.418
+"Cholesterol",mg,2,1
+Amino Acids
+Other
+"Caffeine",mg,0,0

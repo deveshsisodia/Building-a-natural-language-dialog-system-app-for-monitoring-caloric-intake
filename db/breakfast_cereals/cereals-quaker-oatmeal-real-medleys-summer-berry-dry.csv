@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08691, Cereals, QUAKER, oatmeal, REAL MEDLEYS, summer berry, dry"
+Nutrient,Unit,1Value per 100 g,"1 package (1 NLEA serving) = 70.0g",
+Proximates
+"Water",g,7.57,5.30
+"Energy",kcal,353,247
+"Protein",g,11.31,7.92
+"Total lipid (fat)",g,4.40,3.08
+"Carbohydrate, by difference",g,72.58,50.81
+"Fiber, total dietary",g,8.5,6.0
+"Sugars, total",g,20.43,14.30
+Minerals
+"Calcium, Ca",mg,124,87
+"Iron, Fe",mg,3.13,2.19
+"Magnesium, Mg",mg,113,79
+"Phosphorus, P",mg,358,251
+"Potassium, K",mg,445,312
+"Sodium, Na",mg,354,248
+"Zinc, Zn",mg,2.56,1.79
+Vitamins
+"Vitamin C, total ascorbic acid",mg,9.4,6.6
+"Thiamin",mg,0.378,0.265
+"Riboflavin",mg,0.215,0.150
+"Niacin",mg,1.687,1.181
+"Vitamin B-6",mg,0.158,0.111
+"Vitamin B-12",µg,0.20,0.14
+"Vitamin A, IU",IU,19,13
+"Vitamin E (alpha-tocopherol)",mg,0.47,0.33
+Lipids
+"Fatty acids, total saturated",g,1.041,0.729
+"Fatty acids, total monounsaturated",g,1.363,0.954
+"Fatty acids, total polyunsaturated",g,1.340,0.938
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,1,1
+Amino Acids
+Other

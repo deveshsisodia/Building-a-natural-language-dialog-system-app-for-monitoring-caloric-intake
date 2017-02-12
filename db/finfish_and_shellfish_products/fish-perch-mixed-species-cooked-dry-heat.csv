@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:00 EST
+"Nutrient data for: 15061, Fish, perch, mixed species, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 46.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,73.25,33.70,62.26
+"Energy",kcal,117,54,99
+"Protein",g,24.86,11.44,21.13
+"Total lipid (fat)",g,1.18,0.54,1.00
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,102,47,87
+"Iron, Fe",mg,1.16,0.53,0.99
+"Magnesium, Mg",mg,38,17,32
+"Phosphorus, P",mg,257,118,218
+"Potassium, K",mg,344,158,292
+"Sodium, Na",mg,79,36,67
+"Zinc, Zn",mg,1.43,0.66,1.22
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.7,0.8,1.4
+"Thiamin",mg,0.080,0.037,0.068
+"Riboflavin",mg,0.120,0.055,0.102
+"Niacin",mg,1.900,0.874,1.615
+"Vitamin B-6",mg,0.140,0.064,0.119
+"Folate, DFE",µg,6,3,5
+"Vitamin B-12",µg,2.20,1.01,1.87
+"Vitamin A, RAE",µg,10,5,8
+"Vitamin A, IU",IU,32,15,27
+Lipids
+"Fatty acids, total saturated",g,0.237,0.109,0.201
+"Fatty acids, total monounsaturated",g,0.195,0.090,0.166
+"Fatty acids, total polyunsaturated",g,0.472,0.217,0.401
+"Cholesterol",mg,115,53,98
+Amino Acids
+Other

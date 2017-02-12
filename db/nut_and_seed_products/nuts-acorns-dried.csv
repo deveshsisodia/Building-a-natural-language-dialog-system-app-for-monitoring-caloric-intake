@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:06 EST
+"Nutrient data for: 12059, Nuts, acorns, dried"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,5.06,1.43
+"Energy",kcal,509,144
+"Protein",g,8.10,2.30
+"Total lipid (fat)",g,31.41,8.90
+"Carbohydrate, by difference",g,53.66,15.21
+Minerals
+"Calcium, Ca",mg,54,15
+"Iron, Fe",mg,1.04,0.29
+"Magnesium, Mg",mg,82,23
+"Phosphorus, P",mg,103,29
+"Potassium, K",mg,709,201
+"Sodium, Na",mg,0,0
+"Zinc, Zn",mg,0.67,0.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.149,0.042
+"Riboflavin",mg,0.154,0.044
+"Niacin",mg,2.406,0.682
+"Vitamin B-6",mg,0.695,0.197
+"Folate, DFE",µg,115,33
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,4.084,1.158
+"Fatty acids, total monounsaturated",g,19.896,5.641
+"Fatty acids, total polyunsaturated",g,6.052,1.716
+"Cholesterol",mg,0,0
+Amino Acids
+Other

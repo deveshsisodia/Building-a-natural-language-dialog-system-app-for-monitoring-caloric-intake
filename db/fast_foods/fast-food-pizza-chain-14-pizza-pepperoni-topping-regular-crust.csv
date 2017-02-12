@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:31 EST
+"Nutrient data for: 21302, Fast Food, Pizza Chain, 14"" pizza, pepperoni topping, regular crust"
+Nutrient,Unit,1Value per 100 g,"1 slice = 111.0g","1 pizza = 895.0g",
+Proximates
+"Water",g,41.77,46.36,373.84
+"Energy",kcal,282,313,2524
+"Protein",g,11.74,13.03,105.07
+"Total lipid (fat)",g,11.91,13.22,106.59
+"Carbohydrate, by difference",g,31.98,35.50,286.22
+"Fiber, total dietary",g,2.3,2.6,20.6
+"Sugars, total",g,3.26,3.62,29.18
+Minerals
+"Calcium, Ca",mg,153,170,1369
+"Iron, Fe",mg,2.52,2.80,22.55
+"Magnesium, Mg",mg,24,27,215
+"Phosphorus, P",mg,198,220,1772
+"Potassium, K",mg,195,216,1745
+"Sodium, Na",mg,685,760,6131
+"Zinc, Zn",mg,1.40,1.55,12.53
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,1.0,8.1
+"Thiamin",mg,0.430,0.477,3.848
+"Riboflavin",mg,0.220,0.244,1.969
+"Niacin",mg,4.140,4.595,37.053
+"Vitamin B-6",mg,0.080,0.089,0.716
+"Folate, DFE",µg,131,145,1172
+"Vitamin B-12",µg,0.50,0.56,4.47
+"Vitamin A, RAE",µg,70,78,626
+"Vitamin A, IU",IU,365,405,3267
+"Vitamin E (alpha-tocopherol)",mg,0.87,0.97,7.79
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,6.4,7.1,57.3
+Lipids
+"Fatty acids, total saturated",g,5.092,5.652,45.573
+"Fatty acids, total monounsaturated",g,3.853,4.277,34.484
+"Fatty acids, total polyunsaturated",g,2.064,2.291,18.473
+"Fatty acids, total trans",g,0.286,0.317,2.560
+"Cholesterol",mg,25,28,224
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

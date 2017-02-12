@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:41 EST
+"Nutrient data for: 28010, KELLOGG'S, EGGO, Waffles, Buttermilk"
+Nutrient,Unit,1Value per 100 g,"2.0 waffles = 70.0g",
+Proximates
+"Water",g,39.75,27.82
+"Energy",kcal,278,195
+"Protein",g,6.60,4.62
+"Total lipid (fat)",g,10.90,7.63
+"Carbohydrate, by difference",g,39.00,27.30
+"Fiber, total dietary",g,1.2,0.8
+"Sugars, total",g,2.90,2.03
+Minerals
+"Calcium, Ca",mg,357,250
+"Iron, Fe",mg,6.40,4.48
+"Magnesium, Mg",mg,18,13
+"Phosphorus, P",mg,286,200
+"Potassium, K",mg,90,63
+"Sodium, Na",mg,526,368
+"Zinc, Zn",mg,0.50,0.35
+Vitamins
+"Thiamin",mg,0.430,0.301
+"Riboflavin",mg,0.490,0.343
+"Niacin",mg,5.700,3.990
+"Vitamin B-6",mg,0.570,0.399
+"Vitamin B-12",µg,1.70,1.19
+"Vitamin A, RAE",µg,429,300
+"Vitamin A, IU",IU,1429,1000
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.1,0.1
+"Vitamin D",IU,2,1
+Lipids
+"Fatty acids, total saturated",g,2.700,1.890
+"Fatty acids, total monounsaturated",g,2.800,1.960
+"Fatty acids, total polyunsaturated",g,4.600,3.220
+"Fatty acids, total trans",g,0.200,0.140
+"Cholesterol",mg,25,18
+Amino Acids
+Other

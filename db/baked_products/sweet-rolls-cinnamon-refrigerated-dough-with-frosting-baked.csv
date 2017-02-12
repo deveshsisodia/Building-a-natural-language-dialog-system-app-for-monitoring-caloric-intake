@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:46 EST
+"Nutrient data for: 18358, Sweet rolls, cinnamon, refrigerated dough with frosting, baked"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 roll = 30.0g",
+Proximates
+"Water",g,22.70,6.44,6.81
+"Energy",kcal,362,103,109
+"Protein",g,5.40,1.53,1.62
+"Total lipid (fat)",g,13.20,3.74,3.96
+"Carbohydrate, by difference",g,56.10,15.90,16.83
+Minerals
+"Calcium, Ca",mg,34,10,10
+"Iron, Fe",mg,2.65,0.75,0.80
+"Magnesium, Mg",mg,12,3,4
+"Phosphorus, P",mg,348,99,104
+"Potassium, K",mg,63,18,19
+"Sodium, Na",mg,832,236,250
+"Zinc, Zn",mg,0.34,0.10,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1,0.1
+"Thiamin",mg,0.409,0.116,0.123
+"Riboflavin",mg,0.244,0.069,0.073
+"Niacin",mg,3.622,1.027,1.087
+"Vitamin B-6",mg,0.034,0.010,0.010
+"Folate, DFE",µg,89,25,27
+"Vitamin B-12",µg,0.05,0.01,0.01
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,2,1,1
+Lipids
+"Fatty acids, total saturated",g,3.348,0.949,1.004
+"Fatty acids, total monounsaturated",g,7.421,2.104,2.226
+"Fatty acids, total polyunsaturated",g,1.728,0.490,0.518
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

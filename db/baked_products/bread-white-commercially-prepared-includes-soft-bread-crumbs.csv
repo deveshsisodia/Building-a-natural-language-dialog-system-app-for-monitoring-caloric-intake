@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:31 EST
+"Nutrient data for: 18069, Bread, white, commercially prepared (includes soft bread crumbs)"
+Nutrient,Unit,1Value per 100 g,"1 slice = 29.0g","1 oz = 28.35g","1 cup, crumbs = 45.0g","1 cup, cubes = 35.0g","1 slice, large = 30.0g","1 slice = 25.0g","1 slice crust not eaten = 12.0g","1 slice, thin = 20.0g","1 slice thin, crust not eaten = 9.0g","1 slice, very thin = 15.0g",
+Proximates
+"Water",g,36.42,10.56,10.33,16.39,12.75,10.93,9.11,4.37,7.28,3.28,5.46
+"Energy",kcal,266,77,75,120,93,80,66,32,53,24,40
+"Protein",g,8.85,2.57,2.51,3.98,3.10,2.65,2.21,1.06,1.77,0.80,1.33
+"Total lipid (fat)",g,3.33,0.97,0.94,1.50,1.17,1.00,0.83,0.40,0.67,0.30,0.50
+"Carbohydrate, by difference",g,49.42,14.33,14.01,22.24,17.30,14.83,12.36,5.93,9.88,4.45,7.41
+"Fiber, total dietary",g,2.7,0.8,0.8,1.2,0.9,0.8,0.7,0.3,0.5,0.2,0.4
+"Sugars, total",g,5.67,1.64,1.61,2.55,1.98,1.70,1.42,0.68,1.13,0.51,0.85
+Minerals
+"Calcium, Ca",mg,144,42,41,65,50,43,36,17,29,13,22
+"Iron, Fe",mg,3.61,1.05,1.02,1.62,1.26,1.08,0.90,0.43,0.72,0.32,0.54
+"Magnesium, Mg",mg,23,7,7,10,8,7,6,3,5,2,3
+"Phosphorus, P",mg,98,28,28,44,34,29,24,12,20,9,15
+"Potassium, K",mg,126,37,36,57,44,38,32,15,25,11,19
+"Sodium, Na",mg,490,142,139,220,172,147,122,59,98,44,74
+"Zinc, Zn",mg,0.74,0.21,0.21,0.33,0.26,0.22,0.18,0.09,0.15,0.07,0.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.533,0.155,0.151,0.240,0.187,0.160,0.133,0.064,0.107,0.048,0.080
+"Riboflavin",mg,0.243,0.070,0.069,0.109,0.085,0.073,0.061,0.029,0.049,0.022,0.036
+"Niacin",mg,4.780,1.386,1.355,2.151,1.673,1.434,1.195,0.574,0.956,0.430,0.717
+"Vitamin B-6",mg,0.087,0.025,0.025,0.039,0.030,0.026,0.022,0.010,0.017,0.008,0.013
+"Folate, DFE",µg,171,50,48,77,60,51,43,21,34,15,26
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0,0,0,0,0,0
+"Vitamin A, IU",IU,1,0,0,0,0,0,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.06,0.06,0.10,0.08,0.07,0.06,0.03,0.04,0.02,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.2,0.1,0.1,0.1,0.1,0.1,0.1,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.698,0.202,0.198,0.314,0.244,0.209,0.174,0.084,0.140,0.063,0.105
+"Fatty acids, total monounsaturated",g,0.599,0.174,0.170,0.270,0.210,0.180,0.150,0.072,0.120,0.054,0.090
+"Fatty acids, total polyunsaturated",g,1.602,0.465,0.454,0.721,0.561,0.481,0.401,0.192,0.320,0.144,0.240
+"Fatty acids, total trans",g,0.027,0.008,0.008,0.012,0.009,0.008,0.007,0.003,0.005,0.002,0.004
+"Cholesterol",mg,0,0,0,0,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0,0,0,0,0

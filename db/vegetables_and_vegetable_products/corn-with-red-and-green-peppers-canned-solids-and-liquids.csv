@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:20 EST
+"Nutrient data for: 11184, Corn with red and green peppers, canned, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"1 cup = 227.0g",
+Proximates
+"Water",g,77.50,175.93
+"Energy",kcal,75,170
+"Protein",g,2.33,5.29
+"Total lipid (fat)",g,0.55,1.25
+"Carbohydrate, by difference",g,18.17,41.25
+Minerals
+"Calcium, Ca",mg,5,11
+"Iron, Fe",mg,0.79,1.79
+"Magnesium, Mg",mg,25,57
+"Phosphorus, P",mg,62,141
+"Potassium, K",mg,153,347
+"Sodium, Na",mg,347,788
+"Zinc, Zn",mg,0.37,0.84
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.8,20.0
+"Thiamin",mg,0.022,0.050
+"Riboflavin",mg,0.080,0.182
+"Niacin",mg,0.950,2.156
+"Vitamin B-6",mg,0.097,0.220
+"Folate, DFE",µg,34,77
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,12,27
+"Vitamin A, IU",IU,232,527
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.085,0.193
+"Fatty acids, total monounsaturated",g,0.157,0.356
+"Fatty acids, total polyunsaturated",g,0.261,0.592
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:08 EST
+"Nutrient data for: 01264, Ice cream bar, stick or nugget, with crunch coating"
+Nutrient,Unit,1Value per 100 g,"26.0 pieces = 95.0g",
+Proximates
+"Water",g,35.48,33.71
+"Energy",kcal,358,340
+"Protein",g,2.11,2.00
+"Total lipid (fat)",g,25.26,24.00
+"Carbohydrate, by difference",g,37.12,35.26
+"Fiber, total dietary",g,1.1,1.0
+"Sugars, total",g,21.05,20.00
+Minerals
+"Calcium, Ca",mg,63,60
+"Iron, Fe",mg,0.00,0.00
+"Magnesium, Mg",mg,11,10
+"Phosphorus, P",mg,57,54
+"Potassium, K",mg,71,67
+"Sodium, Na",mg,84,80
+"Zinc, Zn",mg,0.32,0.30
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.043,0.041
+"Riboflavin",mg,0.069,0.066
+"Niacin",mg,0.548,0.521
+"Vitamin B-6",mg,0.106,0.101
+"Folate, DFE",µg,3,3
+"Vitamin B-12",µg,0.09,0.09
+"Vitamin A, RAE",µg,35,33
+"Vitamin A, IU",IU,105,100
+"Vitamin E (alpha-tocopherol)",mg,2.25,2.14
+"Vitamin D (D2 + D3)",µg,0.1,0.1
+"Vitamin D",IU,3,3
+"Vitamin K (phylloquinone)",µg,22.3,21.2
+Lipids
+"Fatty acids, total saturated",g,17.895,17.000
+"Fatty acids, total monounsaturated",g,1.173,1.114
+"Fatty acids, total polyunsaturated",g,2.208,2.098
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,16,15
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:43 EST
+"Nutrient data for: 18390, Pancakes, buttermilk, prepared from recipe"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 pancake (4"" dia) = 38.0g","1 pancake (6"" dia) = 77.0g",
+Proximates
+"Water",g,52.50,14.88,19.95,40.42
+"Energy",kcal,227,64,86,175
+"Protein",g,6.80,1.93,2.58,5.24
+"Total lipid (fat)",g,9.30,2.64,3.53,7.16
+"Carbohydrate, by difference",g,28.70,8.14,10.91,22.10
+Minerals
+"Calcium, Ca",mg,157,45,60,121
+"Iron, Fe",mg,1.70,0.48,0.65,1.31
+"Magnesium, Mg",mg,15,4,6,12
+"Phosphorus, P",mg,139,39,53,107
+"Potassium, K",mg,145,41,55,112
+"Sodium, Na",mg,522,148,198,402
+"Zinc, Zn",mg,0.62,0.18,0.24,0.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.1,0.2,0.3
+"Thiamin",mg,0.204,0.058,0.078,0.157
+"Riboflavin",mg,0.292,0.083,0.111,0.225
+"Niacin",mg,1.577,0.447,0.599,1.214
+"Vitamin B-6",mg,0.045,0.013,0.017,0.035
+"Folate, DFE",µg,56,16,21,43
+"Vitamin B-12",µg,0.18,0.05,0.07,0.14
+"Vitamin A, RAE",µg,30,9,11,23
+"Vitamin A, IU",IU,105,30,40,81
+Lipids
+"Fatty acids, total saturated",g,1.832,0.519,0.696,1.411
+"Fatty acids, total monounsaturated",g,2.361,0.669,0.897,1.818
+"Fatty acids, total polyunsaturated",g,4.486,1.272,1.705,3.454
+"Cholesterol",mg,58,16,22,45
+Amino Acids
+Other

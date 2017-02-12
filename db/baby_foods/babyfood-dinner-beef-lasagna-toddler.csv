@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:42 EST
+"Nutrient data for: 03043, Babyfood, dinner, beef lasagna, toddler"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 jar = 170.0g",
+Proximates
+"Water",g,82.30,23.33,139.91
+"Energy",kcal,77,22,131
+"Protein",g,4.20,1.19,7.14
+"Total lipid (fat)",g,2.10,0.60,3.57
+"Carbohydrate, by difference",g,10.00,2.83,17.00
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,18,5,31
+"Iron, Fe",mg,0.87,0.25,1.48
+"Magnesium, Mg",mg,11,3,19
+"Phosphorus, P",mg,40,11,68
+"Potassium, K",mg,122,35,207
+"Sodium, Na",mg,41,12,70
+"Zinc, Zn",mg,0.70,0.20,1.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.9,0.5,3.2
+"Thiamin",mg,0.072,0.020,0.122
+"Riboflavin",mg,0.089,0.025,0.151
+"Niacin",mg,1.353,0.384,2.300
+"Vitamin B-6",mg,0.071,0.020,0.121
+"Folate, DFE",µg,6,2,10
+"Vitamin B-12",µg,0.51,0.14,0.87
+"Vitamin A, RAE",µg,58,16,99
+"Vitamin A, IU",IU,1163,330,1977
+Lipids
+Amino Acids
+Other

@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:42 EST
+"Nutrient data for: 28272, MURRAY, Chocolate Creme Sandwich Cookies"
+Nutrient,Unit,1Value per 100 g,"3.0 cookies = 29.0g",
+Proximates
+"Water",g,2.50,0.72
+"Energy",kcal,473,137
+"Protein",g,4.90,1.42
+"Total lipid (fat)",g,19.40,5.63
+"Carbohydrate, by difference",g,71.30,20.68
+"Fiber, total dietary",g,2.2,0.6
+"Sugars, total",g,38.40,11.14
+Minerals
+"Iron, Fe",mg,3.20,0.93
+"Magnesium, Mg",mg,36,10
+"Phosphorus, P",mg,113,33
+"Potassium, K",mg,134,39
+"Sodium, Na",mg,507,147
+"Zinc, Zn",mg,0.30,0.09
+Vitamins
+"Thiamin",mg,0.310,0.090
+"Riboflavin",mg,0.220,0.064
+"Niacin",mg,2.800,0.812
+"Vitamin B-6",mg,0.020,0.006
+Lipids
+"Fatty acids, total saturated",g,6.500,1.885
+"Fatty acids, total monounsaturated",g,4.500,1.305
+"Fatty acids, total polyunsaturated",g,7.000,2.030
+"Fatty acids, total trans",g,0.280,0.081
+"Cholesterol",mg,0,0
+Amino Acids
+Other

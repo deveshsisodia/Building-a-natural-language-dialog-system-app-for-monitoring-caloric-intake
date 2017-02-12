@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:25 EST
+"Nutrient data for: 11812, Peas, green, canned, no salt added, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 124.0g","1 can (303 x 406) = 482.0g",
+Proximates
+"Water",g,85.92,106.54,414.13
+"Energy",kcal,53,66,255
+"Protein",g,3.19,3.96,15.38
+"Total lipid (fat)",g,0.30,0.37,1.45
+"Carbohydrate, by difference",g,9.75,12.09,46.99
+"Fiber, total dietary",g,3.3,4.1,15.9
+"Sugars, total",g,3.20,3.97,15.42
+Minerals
+"Calcium, Ca",mg,18,22,87
+"Iron, Fe",mg,1.02,1.26,4.92
+"Magnesium, Mg",mg,17,21,82
+"Phosphorus, P",mg,53,66,255
+"Potassium, K",mg,100,124,482
+"Sodium, Na",mg,9,11,43
+"Zinc, Zn",mg,0.70,0.87,3.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,9.8,12.2,47.2
+"Thiamin",mg,0.111,0.138,0.535
+"Riboflavin",mg,0.073,0.091,0.352
+"Niacin",mg,0.842,1.044,4.058
+"Vitamin B-6",mg,0.065,0.081,0.313
+"Folate, DFE",µg,29,36,140
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,72,89,347
+"Vitamin A, IU",IU,1444,1791,6960
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.02,0.10
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,16.5,20.5,79.5
+Lipids
+"Fatty acids, total saturated",g,0.054,0.067,0.260
+"Fatty acids, total monounsaturated",g,0.027,0.033,0.130
+"Fatty acids, total polyunsaturated",g,0.142,0.176,0.684
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

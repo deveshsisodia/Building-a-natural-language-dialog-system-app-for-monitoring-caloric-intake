@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:20 EST
+"Nutrient data for: 04020, Salad dressing, french dressing, reduced fat"
+Nutrient,Unit,1Value per 100 g,"1 tablespoon = 16.0g","1 cup = 260.0g","1 serving (2 tbsp) = 30.0g",
+Proximates
+"Water",g,54.28,8.68,141.13,16.28
+"Energy",kcal,222,36,577,67
+"Protein",g,0.58,0.09,1.51,0.17
+"Total lipid (fat)",g,11.52,1.84,29.95,3.46
+"Carbohydrate, by difference",g,31.22,5.00,81.17,9.37
+"Fiber, total dietary",g,1.5,0.2,3.9,0.5
+"Sugars, total",g,16.86,2.70,43.84,5.06
+Minerals
+"Calcium, Ca",mg,11,2,29,3
+"Iron, Fe",mg,0.73,0.12,1.90,0.22
+"Magnesium, Mg",mg,8,1,21,2
+"Phosphorus, P",mg,16,3,42,5
+"Potassium, K",mg,107,17,278,32
+"Sodium, Na",mg,838,134,2179,251
+"Zinc, Zn",mg,0.20,0.03,0.52,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.8,0.8,12.5,1.4
+"Thiamin",mg,0.024,0.004,0.062,0.007
+"Riboflavin",mg,0.052,0.008,0.135,0.016
+"Niacin",mg,0.467,0.075,1.214,0.140
+"Vitamin B-6",mg,0.055,0.009,0.143,0.017
+"Folate, DFE",µg,2,0,5,1
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,27,4,70,8
+"Vitamin A, IU",IU,541,87,1407,162
+"Vitamin E (alpha-tocopherol)",mg,1.00,0.16,2.60,0.30
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,17.8,2.8,46.3,5.3
+Lipids
+"Fatty acids, total saturated",g,0.842,0.135,2.189,0.253
+"Fatty acids, total monounsaturated",g,4.518,0.723,11.747,1.355
+"Fatty acids, total polyunsaturated",g,3.852,0.616,10.015,1.156
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

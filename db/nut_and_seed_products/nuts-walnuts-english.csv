@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:09 EST
+"Nutrient data for: 12155, Nuts, walnuts, english"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 117.0g","1 cup, ground = 80.0g","1 cup, in shell, edible yield (7 nuts) = 28.0g","1 cup shelled (50 halves) = 100.0g","1 cup pieces or chips = 120.0g","1 oz (14 halves) = 28.35g",
+Proximates
+"Water",g,4.07,4.76,3.26,1.14,4.07,4.88,1.15
+"Energy",kcal,654,765,523,183,654,785,185
+"Protein",g,15.23,17.82,12.18,4.26,15.23,18.28,4.32
+"Total lipid (fat)",g,65.21,76.30,52.17,18.26,65.21,78.25,18.49
+"Carbohydrate, by difference",g,13.71,16.04,10.97,3.84,13.71,16.45,3.89
+"Fiber, total dietary",g,6.7,7.8,5.4,1.9,6.7,8.0,1.9
+"Sugars, total",g,2.61,3.05,2.09,0.73,2.61,3.13,0.74
+Minerals
+"Calcium, Ca",mg,98,115,78,27,98,118,28
+"Iron, Fe",mg,2.91,3.40,2.33,0.81,2.91,3.49,0.82
+"Magnesium, Mg",mg,158,185,126,44,158,190,45
+"Phosphorus, P",mg,346,405,277,97,346,415,98
+"Potassium, K",mg,441,516,353,123,441,529,125
+"Sodium, Na",mg,2,2,2,1,2,2,1
+"Zinc, Zn",mg,3.09,3.62,2.47,0.87,3.09,3.71,0.88
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.3,1.5,1.0,0.4,1.3,1.6,0.4
+"Thiamin",mg,0.341,0.399,0.273,0.095,0.341,0.409,0.097
+"Riboflavin",mg,0.150,0.176,0.120,0.042,0.150,0.180,0.043
+"Niacin",mg,1.125,1.316,0.900,0.315,1.125,1.350,0.319
+"Vitamin B-6",mg,0.537,0.628,0.430,0.150,0.537,0.644,0.152
+"Folate, DFE",µg,98,115,78,27,98,118,28
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,1,1,0,1,1,0
+"Vitamin A, IU",IU,20,23,16,6,20,24,6
+"Vitamin E (alpha-tocopherol)",mg,0.70,0.82,0.56,0.20,0.70,0.84,0.20
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,2.7,3.2,2.2,0.8,2.7,3.2,0.8
+Lipids
+"Fatty acids, total saturated",g,6.126,7.167,4.901,1.715,6.126,7.351,1.737
+"Fatty acids, total monounsaturated",g,8.933,10.452,7.146,2.501,8.933,10.720,2.533
+"Fatty acids, total polyunsaturated",g,47.174,55.194,37.739,13.209,47.174,56.609,13.374
+"Cholesterol",mg,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0
+Footnotes
+(b)"Other phytosterols total 18.2 mg/100g; these include delta 5-avenasterol (7.3), campestanol (2.3), and other minor phytosterols (8.6 mg)."
+(a)"Unroasted"

@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:07 EST
+"Nutrient data for: 12206, Nuts, almonds, honey roasted, unblanched"
+Nutrient,Unit,1Value per 100 g,"1 cup whole kernels = 144.0g","1 oz = 28.35g",
+Proximates
+"Water",g,1.70,2.45,0.48
+"Energy",kcal,594,855,168
+"Protein",g,18.17,26.16,5.15
+"Total lipid (fat)",g,49.90,71.86,14.15
+"Carbohydrate, by difference",g,27.90,40.18,7.91
+"Fiber, total dietary",g,13.7,19.7,3.9
+Minerals
+"Calcium, Ca",mg,263,379,75
+"Iron, Fe",mg,2.83,4.08,0.80
+"Magnesium, Mg",mg,240,346,68
+"Phosphorus, P",mg,400,576,113
+"Potassium, K",mg,560,806,159
+"Sodium, Na",mg,130,187,37
+"Zinc, Zn",mg,2.60,3.74,0.74
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,1.0,0.2
+"Thiamin",mg,0.114,0.164,0.032
+"Riboflavin",mg,0.953,1.372,0.270
+"Niacin",mg,2.819,4.059,0.799
+"Vitamin B-6",mg,0.085,0.122,0.024
+"Folate, DFE",µg,32,46,9
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,4.730,6.811,1.341
+"Fatty acids, total monounsaturated",g,32.402,46.659,9.186
+"Fatty acids, total polyunsaturated",g,10.472,15.080,2.969
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

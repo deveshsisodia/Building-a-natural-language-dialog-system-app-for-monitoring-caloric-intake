@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:36 EST
+"Nutrient data for: 18949, Crackers, whole-wheat, reduced fat"
+Nutrient,Unit,1Value per 100 g,"1 serving = 29.0g","1 cracker = 4.2g","6.0 Triscuits, regular size = 29.0g",
+Proximates
+"Water",g,2.59,0.75,0.11,0.75
+"Energy",kcal,416,121,17,121
+"Protein",g,11.34,3.29,0.48,3.29
+"Total lipid (fat)",g,7.59,2.20,0.32,2.20
+"Carbohydrate, by difference",g,75.52,21.90,3.17,21.90
+"Fiber, total dietary",g,10.9,3.2,0.5,3.2
+"Sugars, total",g,1.22,0.35,0.05,0.35
+Minerals
+"Calcium, Ca",mg,39,11,2,11
+"Iron, Fe",mg,3.56,1.03,0.15,1.03
+"Magnesium, Mg",mg,120,35,5,35
+"Phosphorus, P",mg,364,106,15,106
+"Potassium, K",mg,373,108,16,108
+"Sodium, Na",mg,745,216,31,216
+"Zinc, Zn",mg,2.99,0.87,0.13,0.87
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.185,0.054,0.008,0.054
+"Riboflavin",mg,0.022,0.006,0.001,0.006
+"Niacin",mg,5.225,1.515,0.219,1.515
+"Vitamin B-6",mg,0.197,0.057,0.008,0.057
+"Folate, DFE",µg,30,9,1,9
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.08,0.31,0.05,0.31
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,12.5,3.6,0.5,3.6
+Lipids
+"Fatty acids, total saturated",g,1.067,0.309,0.045,0.309
+"Fatty acids, total monounsaturated",g,1.609,0.467,0.068,0.467
+"Fatty acids, total polyunsaturated",g,3.568,1.035,0.150,1.035
+"Fatty acids, total trans",g,0.096,0.028,0.004,0.028
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

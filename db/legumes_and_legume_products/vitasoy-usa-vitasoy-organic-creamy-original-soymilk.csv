@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:02 EST
+"Nutrient data for: 16215, Vitasoy USA, Vitasoy Organic Creamy Original Soymilk"
+Nutrient,Unit,1Value per 100 g,"1 cup = 243.0g","1 serving = 243.0g",
+Proximates
+"Water",g,90.27,219.36,219.36
+"Energy",kcal,44,107,107
+"Protein",g,2.90,7.05,7.05
+"Total lipid (fat)",g,1.60,3.89,3.89
+"Carbohydrate, by difference",g,4.50,10.94,10.94
+"Fiber, total dietary",g,0.4,1.0,1.0
+"Sugars, total",g,2.00,4.86,4.86
+Minerals
+"Calcium, Ca",mg,127,309,309
+"Iron, Fe",mg,0.40,0.97,0.97
+"Magnesium, Mg",mg,16,39,39
+"Potassium, K",mg,131,318,318
+"Sodium, Na",mg,66,160,160
+"Zinc, Zn",mg,0.37,0.90,0.90
+Vitamins
+"Thiamin",mg,0.060,0.146,0.146
+"Riboflavin",mg,0.150,0.364,0.364
+"Vitamin B-12",µg,0.39,0.95,0.95
+"Vitamin A, IU",IU,129,313,313
+"Vitamin D (D2 + D3)",µg,0.9,2.2,2.2
+"Vitamin D",IU,35,85,85
+Lipids
+"Fatty acids, total saturated",g,0.200,0.486,0.486
+"Fatty acids, total monounsaturated",g,0.400,0.972,0.972
+"Fatty acids, total polyunsaturated",g,1.000,2.430,2.430
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

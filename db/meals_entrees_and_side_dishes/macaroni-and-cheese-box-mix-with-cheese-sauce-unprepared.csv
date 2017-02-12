@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:24 EST
+"Nutrient data for: 32004, Macaroni and cheese, box mix with cheese sauce, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 serving (3.5 oz) = 25.0g","1 serving (4 oz) = 37.0g",
+Proximates
+"Water",g,26.88,6.72,9.95
+"Energy",kcal,334,84,124
+"Protein",g,12.73,3.18,4.71
+"Total lipid (fat)",g,10.67,2.67,3.95
+"Carbohydrate, by difference",g,46.66,11.66,17.26
+"Fiber, total dietary",g,1.8,0.5,0.7
+"Sugars, total",g,6.43,1.61,2.38
+Minerals
+"Calcium, Ca",mg,145,36,54
+"Iron, Fe",mg,2.07,0.52,0.77
+"Magnesium, Mg",mg,34,8,13
+"Phosphorus, P",mg,391,98,145
+"Potassium, K",mg,197,49,73
+"Sodium, Na",mg,766,192,283
+"Zinc, Zn",mg,1.30,0.33,0.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.1,0.2
+"Thiamin",mg,0.525,0.131,0.194
+"Riboflavin",mg,0.372,0.093,0.138
+"Niacin",mg,4.003,1.001,1.481
+"Vitamin B-6",mg,0.113,0.028,0.042
+"Folate, DFE",µg,217,54,80
+"Vitamin B-12",µg,0.39,0.10,0.14
+"Vitamin A, RAE",µg,6,2,2
+"Vitamin A, IU",IU,42,10,16
+"Vitamin E (alpha-tocopherol)",mg,1.48,0.37,0.55
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,5.8,1.4,2.1
+Lipids
+"Fatty acids, total saturated",g,1.184,0.296,0.438
+"Fatty acids, total monounsaturated",g,6.070,1.518,2.246
+"Fatty acids, total polyunsaturated",g,2.962,0.741,1.096
+"Cholesterol",mg,3,1,1
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

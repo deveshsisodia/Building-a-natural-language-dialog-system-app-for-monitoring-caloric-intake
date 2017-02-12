@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:07 EST
+"Nutrient data for: 15230, Mollusks, octopus, common, cooked, moist heat"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,60.50,51.42
+"Energy",kcal,164,139
+"Protein",g,29.82,25.35
+"Total lipid (fat)",g,2.08,1.77
+"Carbohydrate, by difference",g,4.40,3.74
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,106,90
+"Iron, Fe",mg,9.54,8.11
+"Magnesium, Mg",mg,60,51
+"Phosphorus, P",mg,279,237
+"Potassium, K",mg,630,536
+"Sodium, Na",mg,460,391
+"Zinc, Zn",mg,3.36,2.86
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.0,6.8
+"Thiamin",mg,0.057,0.048
+"Riboflavin",mg,0.076,0.065
+"Niacin",mg,3.780,3.213
+"Vitamin B-6",mg,0.648,0.551
+"Folate, DFE",µg,24,20
+"Vitamin B-12",µg,36.00,30.60
+"Vitamin A, RAE",µg,90,76
+"Vitamin A, IU",IU,300,255
+"Vitamin E (alpha-tocopherol)",mg,1.20,1.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,0.453,0.385
+"Fatty acids, total monounsaturated",g,0.324,0.275
+"Fatty acids, total polyunsaturated",g,0.477,0.405
+"Cholesterol",mg,96,82
+Amino Acids
+Other
+"Caffeine",mg,0,0

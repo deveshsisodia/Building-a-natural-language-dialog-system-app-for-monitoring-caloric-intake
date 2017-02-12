@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:28 EST
+"Nutrient data for: 36056, Restaurant, Mexican, cheese tamales"
+Nutrient,Unit,1Value per 100 g,"1 serving serving size varied from 1 to 3 tamales = 302.0g","1 tamale = 179.0g","2.0 tamale = 351.0g","3.0 tamale = 550.0g",
+Proximates
+"Water",g,59.10,178.48,105.79,207.44,325.05
+"Energy",kcal,216,652,387,758,1188
+"Protein",g,8.99,27.15,16.09,31.55,49.45
+"Total lipid (fat)",g,11.99,36.21,21.46,42.08,65.94
+"Carbohydrate, by difference",g,17.97,54.27,32.17,63.07,98.83
+"Fiber, total dietary",g,2.2,6.6,3.9,7.7,12.1
+"Sugars, total",g,1.23,3.71,2.20,4.32,6.76
+Minerals
+"Calcium, Ca",mg,111,335,199,390,610
+"Iron, Fe",mg,0.87,2.63,1.56,3.05,4.79
+"Magnesium, Mg",mg,30,91,54,105,165
+"Phosphorus, P",mg,161,486,288,565,886
+"Potassium, K",mg,176,532,315,618,968
+"Sodium, Na",mg,503,1519,900,1766,2766
+"Zinc, Zn",mg,1.31,3.96,2.34,4.60,7.21
+Vitamins
+"Thiamin",mg,0.068,0.205,0.122,0.239,0.374
+"Riboflavin",mg,0.132,0.399,0.236,0.463,0.726
+"Niacin",mg,1.928,5.823,3.451,6.767,10.604
+"Vitamin B-6",mg,0.136,0.411,0.243,0.477,0.748
+"Vitamin B-12",µg,0.29,0.88,0.52,1.02,1.59
+"Vitamin A, RAE",µg,124,374,222,435,682
+"Vitamin A, IU",IU,731,2208,1308,2566,4020
+"Vitamin E (alpha-tocopherol)",mg,1.74,5.25,3.11,6.11,9.57
+Lipids
+"Fatty acids, total saturated",g,3.983,12.029,7.130,13.980,21.907
+"Fatty acids, total monounsaturated",g,3.822,11.542,6.841,13.415,21.021
+"Fatty acids, total polyunsaturated",g,2.967,8.960,5.311,10.414,16.319
+"Fatty acids, total trans",g,0.272,0.821,0.487,0.955,1.496
+"Cholesterol",mg,30,91,54,105,165
+Amino Acids
+Other

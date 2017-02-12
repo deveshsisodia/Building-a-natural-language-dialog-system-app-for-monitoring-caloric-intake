@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:40 EST
+"Nutrient data for: 28013, KELLOGG'S, EGGO, FIBERPLUS Waffles, Chocolate Chip"
+Nutrient,Unit,1Value per 100 g,"2.0 waffles = 70.0g",
+Proximates
+"Water",g,36.80,25.76
+"Energy",kcal,259,181
+"Protein",g,4.30,3.01
+"Total lipid (fat)",g,10.50,7.35
+"Carbohydrate, by difference",g,44.40,31.08
+"Fiber, total dietary",g,12.9,9.0
+"Sugars, total",g,10.90,7.63
+Minerals
+"Calcium, Ca",mg,357,250
+"Iron, Fe",mg,6.40,4.48
+"Magnesium, Mg",mg,18,13
+"Phosphorus, P",mg,256,179
+"Potassium, K",mg,76,53
+"Sodium, Na",mg,503,352
+"Zinc, Zn",mg,4.30,3.01
+Vitamins
+"Thiamin",mg,0.430,0.301
+"Riboflavin",mg,0.490,0.343
+"Niacin",mg,5.700,3.990
+"Vitamin B-6",mg,0.600,0.420
+"Vitamin B-12",µg,1.70,1.19
+"Vitamin A, RAE",µg,429,300
+"Vitamin A, IU",IU,1429,1000
+"Vitamin E (alpha-tocopherol)",mg,4.05,2.83
+"Vitamin D (D2 + D3)",µg,0.1,0.1
+"Vitamin D",IU,2,1
+Lipids
+"Fatty acids, total saturated",g,3.300,2.310
+"Fatty acids, total monounsaturated",g,2.800,1.960
+"Fatty acids, total polyunsaturated",g,3.700,2.590
+"Fatty acids, total trans",g,0.200,0.140
+"Cholesterol",mg,20,14
+Amino Acids
+Other

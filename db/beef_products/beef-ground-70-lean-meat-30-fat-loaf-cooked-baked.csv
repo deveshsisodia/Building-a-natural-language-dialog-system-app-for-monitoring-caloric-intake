@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:40 EST
+"Nutrient data for: 13495, Beef, ground, 70% lean meat / 30% fat, loaf, cooked, baked"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 loaf ( yield from 1 lb raw meat ) = 284.0g",
+Proximates
+"Water",g,58.37,49.61,165.77
+"Energy",kcal,241,205,684
+"Protein",g,23.87,20.29,67.79
+"Total lipid (fat)",g,15.37,13.06,43.65
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,33,28,94
+"Iron, Fe",mg,2.27,1.93,6.45
+"Magnesium, Mg",mg,17,14,48
+"Phosphorus, P",mg,166,141,471
+"Potassium, K",mg,241,205,684
+"Sodium, Na",mg,73,62,207
+"Zinc, Zn",mg,5.84,4.96,16.59
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.051,0.043,0.145
+"Riboflavin",mg,0.171,0.145,0.486
+"Niacin",mg,4.026,3.422,11.434
+"Vitamin B-6",mg,0.311,0.264,0.883
+"Folate, DFE",µg,7,6,20
+"Vitamin B-12",µg,2.49,2.12,7.07
+"Vitamin A, RAE",µg,3,3,9
+"Vitamin A, IU",IU,9,8,26
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.10,0.34
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,2,2,6
+"Vitamin K (phylloquinone)",µg,2.9,2.5,8.2
+Lipids
+"Fatty acids, total saturated",g,6.073,5.162,17.247
+"Fatty acids, total monounsaturated",g,7.322,6.224,20.794
+"Fatty acids, total polyunsaturated",g,0.408,0.347,1.159
+"Fatty acids, total trans",g,1.173,0.997,3.331
+"Cholesterol",mg,88,75,250
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

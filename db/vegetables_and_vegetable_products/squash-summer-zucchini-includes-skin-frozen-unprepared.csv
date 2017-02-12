@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:30 EST
+"Nutrient data for: 11479, Squash, summer, zucchini, includes skin, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"0.33 package (10 oz) = 95.0g","1 package (10 oz) = 284.0g","1 package (3 lb) = 1361.0g",
+Proximates
+"Water",g,94.70,89.97,268.95,1288.87
+"Energy",kcal,17,16,48,231
+"Protein",g,1.16,1.10,3.29,15.79
+"Total lipid (fat)",g,0.13,0.12,0.37,1.77
+"Carbohydrate, by difference",g,3.58,3.40,10.17,48.72
+"Fiber, total dietary",g,1.3,1.2,3.7,17.7
+"Sugars, total",g,1.71,1.62,4.86,23.27
+Minerals
+"Calcium, Ca",mg,18,17,51,245
+"Iron, Fe",mg,0.51,0.48,1.45,6.94
+"Magnesium, Mg",mg,13,12,37,177
+"Phosphorus, P",mg,28,27,80,381
+"Potassium, K",mg,218,207,619,2967
+"Sodium, Na",mg,2,2,6,27
+"Zinc, Zn",mg,0.21,0.20,0.60,2.86
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.3,5.0,15.1,72.1
+"Thiamin",mg,0.048,0.046,0.136,0.653
+"Riboflavin",mg,0.042,0.040,0.119,0.572
+"Niacin",mg,0.433,0.411,1.230,5.893
+"Vitamin B-6",mg,0.050,0.048,0.142,0.680
+"Folate, DFE",µg,10,10,28,136
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,10,10,28,136
+"Vitamin A, IU",IU,198,188,562,2695
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.11,0.34,1.63
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,4.2,4.0,11.9,57.2
+Lipids
+"Fatty acids, total saturated",g,0.027,0.026,0.077,0.367
+"Fatty acids, total monounsaturated",g,0.010,0.010,0.028,0.136
+"Fatty acids, total polyunsaturated",g,0.056,0.053,0.159,0.762
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other

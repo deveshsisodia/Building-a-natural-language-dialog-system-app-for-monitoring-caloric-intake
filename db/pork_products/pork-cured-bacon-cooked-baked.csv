@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:37 EST
+"Nutrient data for: 10860, Pork, cured, bacon, cooked, baked"
+Nutrient,Unit,1Value per 100 g,"1 slice cooked = 8.1g",
+Proximates
+"Water",g,12.52,1.01
+"Energy",kcal,548,44
+"Protein",g,35.73,2.89
+"Total lipid (fat)",g,43.27,3.50
+"Carbohydrate, by difference",g,1.35,0.11
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,10,1
+"Iron, Fe",mg,1.49,0.12
+"Magnesium, Mg",mg,30,2
+"Phosphorus, P",mg,506,41
+"Potassium, K",mg,539,44
+"Sodium, Na",mg,2193,178
+"Zinc, Zn",mg,3.36,0.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.348,0.028
+"Riboflavin",mg,0.251,0.020
+"Niacin",mg,10.623,0.860
+"Vitamin B-6",mg,0.309,0.025
+"Folate, DFE",µg,2,0
+"Vitamin B-12",µg,1.16,0.09
+"Vitamin A, RAE",µg,11,1
+"Vitamin A, IU",IU,37,3
+"Vitamin E (alpha-tocopherol)",mg,0.32,0.03
+"Vitamin K (phylloquinone)",µg,0.1,0.0
+Lipids
+"Fatty acids, total saturated",g,14.187,1.149
+"Fatty acids, total monounsaturated",g,19.065,1.544
+"Fatty acids, total polyunsaturated",g,4.859,0.394
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,107,9
+Amino Acids
+Other
+"Caffeine",mg,0,0

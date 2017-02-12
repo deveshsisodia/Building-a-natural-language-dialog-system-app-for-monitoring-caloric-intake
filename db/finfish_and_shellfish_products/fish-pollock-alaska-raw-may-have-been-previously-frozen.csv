@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:01 EST
+"Nutrient data for: 15066, Fish, pollock, Alaska, raw (may have been previously frozen)"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 77.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,86.75,66.80,73.74
+"Energy",kcal,56,43,48
+"Protein",g,12.19,9.39,10.36
+"Total lipid (fat)",g,0.41,0.32,0.35
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,15,12,13
+"Iron, Fe",mg,0.22,0.17,0.19
+"Magnesium, Mg",mg,16,12,14
+"Phosphorus, P",mg,284,219,241
+"Potassium, K",mg,160,123,136
+"Sodium, Na",mg,333,256,283
+"Zinc, Zn",mg,0.31,0.24,0.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.030,0.023,0.025
+"Riboflavin",mg,0.080,0.062,0.068
+"Niacin",mg,0.653,0.503,0.555
+"Vitamin B-6",mg,0.069,0.053,0.059
+"Folate, DFE",µg,3,2,3
+"Vitamin B-12",µg,1.63,1.26,1.39
+"Vitamin A, RAE",µg,3,2,3
+"Vitamin A, IU",IU,10,8,8
+"Vitamin E (alpha-tocopherol)",mg,0.49,0.38,0.42
+"Vitamin D (D2 + D3)",µg,0.2,0.2,0.2
+"Vitamin D",IU,8,6,7
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.124,0.095,0.105
+"Fatty acids, total monounsaturated",g,0.079,0.061,0.067
+"Fatty acids, total polyunsaturated",g,0.195,0.150,0.166
+"Fatty acids, total trans",g,0.016,0.012,0.014
+"Cholesterol",mg,46,35,39
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Samples were obtained from 12 retail stores using a probability-based sampling plan.  Some fish had been treated during processing to retain moisture on thawing.  Untreated fish = 159 mg sodium/100g."

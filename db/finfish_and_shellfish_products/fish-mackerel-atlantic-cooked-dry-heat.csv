@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:59 EST
+"Nutrient data for: 15047, Fish, mackerel, Atlantic, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 88.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,53.27,46.88,45.28
+"Energy",kcal,262,231,223
+"Protein",g,23.85,20.99,20.27
+"Total lipid (fat)",g,17.81,15.67,15.14
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,15,13,13
+"Iron, Fe",mg,1.57,1.38,1.33
+"Magnesium, Mg",mg,97,85,82
+"Phosphorus, P",mg,278,245,236
+"Potassium, K",mg,401,353,341
+"Sodium, Na",mg,83,73,71
+"Zinc, Zn",mg,0.94,0.83,0.80
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.4,0.3
+"Thiamin",mg,0.159,0.140,0.135
+"Riboflavin",mg,0.412,0.363,0.350
+"Niacin",mg,6.850,6.028,5.822
+"Vitamin B-6",mg,0.460,0.405,0.391
+"Folate, DFE",µg,2,2,2
+"Vitamin B-12",µg,19.00,16.72,16.15
+"Vitamin A, RAE",µg,54,48,46
+"Vitamin A, IU",IU,180,158,153
+Lipids
+"Fatty acids, total saturated",g,4.176,3.675,3.550
+"Fatty acids, total monounsaturated",g,7.006,6.165,5.955
+"Fatty acids, total polyunsaturated",g,4.300,3.784,3.655
+"Cholesterol",mg,75,66,64
+Amino Acids
+Other

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:38 EST
+"Nutrient data for: 05161, Squab, (pigeon), meat only, raw"
+Nutrient,Unit,1Value per 100 g,"1 unit (yield from 1 lb ready-to-cook squab) = 251.0g","1 squab = 168.0g",
+Proximates
+"Water",g,72.80,182.73,122.30
+"Energy",kcal,142,356,239
+"Protein",g,17.50,43.92,29.40
+"Total lipid (fat)",g,7.50,18.82,12.60
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,13,33,22
+"Iron, Fe",mg,4.51,11.32,7.58
+"Magnesium, Mg",mg,25,63,42
+"Phosphorus, P",mg,307,771,516
+"Potassium, K",mg,237,595,398
+"Sodium, Na",mg,51,128,86
+"Zinc, Zn",mg,2.70,6.78,4.54
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.2,18.1,12.1
+"Thiamin",mg,0.283,0.710,0.475
+"Riboflavin",mg,0.285,0.715,0.479
+"Niacin",mg,6.860,17.219,11.525
+"Vitamin B-6",mg,0.530,1.330,0.890
+"Folate, DFE",µg,7,18,12
+"Vitamin B-12",µg,0.47,1.18,0.79
+"Vitamin A, RAE",µg,28,70,47
+"Vitamin A, IU",IU,94,236,158
+Lipids
+"Fatty acids, total saturated",g,1.960,4.920,3.293
+"Fatty acids, total monounsaturated",g,2.660,6.677,4.469
+"Fatty acids, total polyunsaturated",g,1.600,4.016,2.688
+"Cholesterol",mg,90,226,151
+Amino Acids
+Other

@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08688, Cereals, QUAKER, Instant Oatmeal, Cinnamon Swirl, high fiber"
+Nutrient,Unit,1Value per 100 g,"1 packet (1 NLEA serving) = 45.0g",
+Proximates
+"Water",g,7.52,3.38
+"Energy",kcal,366,165
+"Protein",g,8.79,3.96
+"Total lipid (fat)",g,4.80,2.16
+"Carbohydrate, by difference",g,75.67,34.05
+"Fiber, total dietary",g,22.3,10.0
+"Sugars, total",g,14.70,6.62
+Minerals
+"Calcium, Ca",mg,278,125
+"Iron, Fe",mg,9.41,4.23
+"Magnesium, Mg",mg,91,41
+"Phosphorus, P",mg,306,138
+"Potassium, K",mg,256,115
+"Sodium, Na",mg,473,213
+"Zinc, Zn",mg,2.04,0.92
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1
+"Thiamin",mg,0.762,0.343
+"Riboflavin",mg,1.058,0.476
+"Niacin",mg,12.448,5.602
+"Vitamin B-6",mg,1.241,0.558
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,3112,1400
+"Vitamin E (alpha-tocopherol)",mg,0.43,0.19
+Lipids
+"Fatty acids, total saturated",g,0.926,0.417
+"Fatty acids, total monounsaturated",g,1.713,0.771
+"Fatty acids, total polyunsaturated",g,1.416,0.637
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

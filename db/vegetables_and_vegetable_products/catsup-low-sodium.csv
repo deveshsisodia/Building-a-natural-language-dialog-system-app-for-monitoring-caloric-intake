@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:19 EST
+"Nutrient data for: 11949, Catsup, low sodium"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 17.0g","1 packet = 9.0g","1 cup = 240.0g",
+Proximates
+"Water",g,68.51,11.65,6.17,164.42
+"Energy",kcal,101,17,9,242
+"Protein",g,1.04,0.18,0.09,2.50
+"Total lipid (fat)",g,0.10,0.02,0.01,0.24
+"Carbohydrate, by difference",g,27.40,4.66,2.47,65.76
+"Fiber, total dietary",g,0.3,0.1,0.0,0.7
+"Sugars, total",g,21.27,3.62,1.91,51.05
+Minerals
+"Calcium, Ca",mg,15,3,1,36
+"Iron, Fe",mg,0.35,0.06,0.03,0.84
+"Magnesium, Mg",mg,13,2,1,31
+"Phosphorus, P",mg,26,4,2,62
+"Potassium, K",mg,281,48,25,674
+"Sodium, Na",mg,20,3,2,48
+"Zinc, Zn",mg,0.17,0.03,0.02,0.41
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.1,0.7,0.4,9.8
+"Thiamin",mg,0.011,0.002,0.001,0.026
+"Riboflavin",mg,0.166,0.028,0.015,0.398
+"Niacin",mg,1.434,0.244,0.129,3.442
+"Vitamin B-6",mg,0.158,0.027,0.014,0.379
+"Folate, DFE",µg,9,2,1,22
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,26,4,2,62
+"Vitamin A, IU",IU,527,90,47,1265
+"Vitamin E (alpha-tocopherol)",mg,1.46,0.25,0.13,3.50
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,3.0,0.5,0.3,7.2
+Lipids
+"Fatty acids, total saturated",g,0.014,0.002,0.001,0.034
+"Fatty acids, total monounsaturated",g,0.015,0.003,0.001,0.036
+"Fatty acids, total polyunsaturated",g,0.041,0.007,0.004,0.098
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

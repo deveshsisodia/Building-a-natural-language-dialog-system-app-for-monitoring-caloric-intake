@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:31 EST
+"Nutrient data for: 18414, Bread, raisin, unenriched"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice, large = 32.0g","1 slice = 26.0g","1 slice, thin = 23.0g",
+Proximates
+"Water",g,33.60,9.53,10.75,8.74,7.73
+"Energy",kcal,274,78,88,71,63
+"Protein",g,7.90,2.24,2.53,2.05,1.82
+"Total lipid (fat)",g,4.40,1.25,1.41,1.14,1.01
+"Carbohydrate, by difference",g,52.30,14.83,16.74,13.60,12.03
+"Fiber, total dietary",g,4.3,1.2,1.4,1.1,1.0
+Minerals
+"Calcium, Ca",mg,66,19,21,17,15
+"Iron, Fe",mg,1.83,0.52,0.59,0.48,0.42
+"Magnesium, Mg",mg,26,7,8,7,6
+"Phosphorus, P",mg,109,31,35,28,25
+"Potassium, K",mg,227,64,73,59,52
+"Sodium, Na",mg,390,111,125,101,90
+"Zinc, Zn",mg,0.72,0.20,0.23,0.19,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.177,0.050,0.057,0.046,0.041
+"Riboflavin",mg,0.173,0.049,0.055,0.045,0.040
+"Niacin",mg,1.495,0.424,0.478,0.389,0.344
+"Vitamin B-6",mg,0.069,0.020,0.022,0.018,0.016
+"Folate, DFE",µg,34,10,11,9,8
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.081,0.306,0.346,0.281,0.249
+"Fatty acids, total monounsaturated",g,2.294,0.650,0.734,0.596,0.528
+"Fatty acids, total polyunsaturated",g,0.679,0.192,0.217,0.177,0.156
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other

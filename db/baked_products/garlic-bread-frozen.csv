@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:38 EST
+"Nutrient data for: 18963, Garlic bread, frozen"
+Nutrient,Unit,1Value per 100 g,"1 slice presliced = 43.0g","1 slice = 59.0g",
+Proximates
+"Water",g,31.78,13.67,18.75
+"Energy",kcal,350,150,206
+"Protein",g,8.36,3.59,4.93
+"Total lipid (fat)",g,16.61,7.14,9.80
+"Carbohydrate, by difference",g,41.72,17.94,24.61
+"Fiber, total dietary",g,2.5,1.1,1.5
+"Sugars, total",g,3.69,1.59,2.18
+Minerals
+"Calcium, Ca",mg,27,12,16
+"Iron, Fe",mg,3.05,1.31,1.80
+"Magnesium, Mg",mg,23,10,14
+"Phosphorus, P",mg,87,37,51
+"Potassium, K",mg,103,44,61
+"Sodium, Na",mg,544,234,321
+"Zinc, Zn",mg,0.87,0.37,0.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1,0.1
+"Thiamin",mg,0.462,0.199,0.273
+"Riboflavin",mg,0.184,0.079,0.109
+"Niacin",mg,4.142,1.781,2.444
+"Vitamin B-6",mg,0.083,0.036,0.049
+"Folate, DFE",µg,221,95,130
+"Vitamin B-12",µg,0.08,0.03,0.05
+"Vitamin A, RAE",µg,13,6,8
+"Vitamin A, IU",IU,44,19,26
+"Vitamin E (alpha-tocopherol)",mg,1.18,0.51,0.70
+"Vitamin D (D2 + D3)",µg,0.2,0.1,0.1
+"Vitamin D",IU,9,4,5
+"Vitamin K (phylloquinone)",µg,29.5,12.7,17.4
+Lipids
+"Fatty acids, total saturated",g,5.281,2.271,3.116
+"Fatty acids, total monounsaturated",g,4.669,2.008,2.755
+"Fatty acids, total polyunsaturated",g,5.437,2.338,3.208
+"Fatty acids, total trans",g,0.240,0.103,0.142
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

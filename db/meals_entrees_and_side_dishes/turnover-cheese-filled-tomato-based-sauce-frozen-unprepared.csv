@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:27 EST
+"Nutrient data for: 32015, Turnover, cheese-filled, tomato-based sauce, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 serving 4.5 oz = 127.0g",
+Proximates
+"Water",g,50.38,63.98
+"Energy",kcal,235,298
+"Protein",g,10.24,13.00
+"Total lipid (fat)",g,9.45,12.00
+"Carbohydrate, by difference",g,27.29,34.66
+"Fiber, total dietary",g,1.6,2.0
+"Sugars, total",g,7.87,9.99
+Minerals
+"Calcium, Ca",mg,276,351
+"Iron, Fe",mg,1.85,2.35
+"Magnesium, Mg",mg,23,29
+"Phosphorus, P",mg,47,60
+"Potassium, K",mg,179,227
+"Sodium, Na",mg,598,759
+"Zinc, Zn",mg,1.26,1.60
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.236,0.300
+"Riboflavin",mg,0.201,0.255
+"Niacin",mg,1.575,2.000
+"Vitamin B-6",mg,0.095,0.121
+"Folate, DFE",µg,92,117
+"Vitamin B-12",µg,0.94,1.19
+"Vitamin A, RAE",µg,52,66
+"Vitamin A, IU",IU,311,395
+"Vitamin E (alpha-tocopherol)",mg,0.79,1.00
+"Vitamin D (D2 + D3)",µg,0.1,0.1
+"Vitamin D",IU,5,6
+"Vitamin K (phylloquinone)",µg,15.4,19.6
+Lipids
+"Fatty acids, total saturated",g,4.724,5.999
+"Fatty acids, total monounsaturated",g,3.014,3.828
+"Fatty acids, total polyunsaturated",g,1.140,1.448
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,20,25
+Amino Acids
+Other
+"Caffeine",mg,0,0

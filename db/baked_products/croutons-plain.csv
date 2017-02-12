@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:36 EST
+"Nutrient data for: 18242, Croutons, plain"
+Nutrient,Unit,1Value per 100 g,"0.5 oz = 14.2g","1 cup = 30.0g",
+Proximates
+"Water",g,5.50,0.78,1.65
+"Energy",kcal,407,58,122
+"Protein",g,11.90,1.69,3.57
+"Total lipid (fat)",g,6.60,0.94,1.98
+"Carbohydrate, by difference",g,73.50,10.44,22.05
+"Fiber, total dietary",g,5.1,0.7,1.5
+Minerals
+"Calcium, Ca",mg,76,11,23
+"Iron, Fe",mg,4.08,0.58,1.22
+"Magnesium, Mg",mg,31,4,9
+"Phosphorus, P",mg,115,16,34
+"Potassium, K",mg,124,18,37
+"Sodium, Na",mg,698,99,209
+"Zinc, Zn",mg,0.89,0.13,0.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.623,0.088,0.187
+"Riboflavin",mg,0.272,0.039,0.082
+"Niacin",mg,5.439,0.772,1.632
+"Vitamin B-6",mg,0.026,0.004,0.008
+"Folate, DFE",µg,209,30,63
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.510,0.214,0.453
+"Fatty acids, total monounsaturated",g,3.059,0.434,0.918
+"Fatty acids, total polyunsaturated",g,1.273,0.181,0.382
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

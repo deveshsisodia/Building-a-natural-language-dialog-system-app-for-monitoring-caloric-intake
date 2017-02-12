@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:19 EST
+"Nutrient data for: 07089, Sausage, Italian, pork, cooked"
+Nutrient,Unit,1Value per 100 g,"1 link, 4/lb = 83.0g","1 link, 5/lb = 67.0g",
+Proximates
+"Water",g,47.13,39.12,31.58
+"Energy",kcal,344,286,230
+"Protein",g,19.12,15.87,12.81
+"Total lipid (fat)",g,27.31,22.67,18.30
+"Carbohydrate, by difference",g,4.27,3.54,2.86
+"Fiber, total dietary",g,0.1,0.1,0.1
+"Sugars, total",g,1.86,1.54,1.25
+Minerals
+"Calcium, Ca",mg,21,17,14
+"Iron, Fe",mg,1.43,1.19,0.96
+"Magnesium, Mg",mg,18,15,12
+"Phosphorus, P",mg,170,141,114
+"Potassium, K",mg,304,252,204
+"Sodium, Na",mg,743,617,498
+"Zinc, Zn",mg,2.39,1.98,1.60
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.1,0.1
+"Thiamin",mg,0.623,0.517,0.417
+"Riboflavin",mg,0.233,0.193,0.156
+"Niacin",mg,4.165,3.457,2.791
+"Vitamin B-6",mg,0.330,0.274,0.221
+"Folate, DFE",µg,5,4,3
+"Vitamin B-12",µg,1.30,1.08,0.87
+"Vitamin A, RAE",µg,10,8,7
+"Vitamin A, IU",IU,16,13,11
+"Vitamin E (alpha-tocopherol)",mg,0.25,0.21,0.17
+"Vitamin D (D2 + D3)",µg,1.0,0.8,0.7
+"Vitamin D",IU,41,34,27
+"Vitamin K (phylloquinone)",µg,3.4,2.8,2.3
+Lipids
+"Fatty acids, total saturated",g,10.195,8.462,6.831
+"Fatty acids, total monounsaturated",g,17.108,14.200,11.462
+"Fatty acids, total polyunsaturated",g,3.518,2.920,2.357
+"Cholesterol",mg,57,47,38
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

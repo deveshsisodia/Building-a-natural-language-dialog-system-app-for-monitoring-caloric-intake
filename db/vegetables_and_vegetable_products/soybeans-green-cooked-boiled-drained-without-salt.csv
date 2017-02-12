@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:29 EST
+"Nutrient data for: 11451, Soybeans, green, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 180.0g",
+Proximates
+"Water",g,68.60,123.48
+"Energy",kcal,141,254
+"Protein",g,12.35,22.23
+"Total lipid (fat)",g,6.40,11.52
+"Carbohydrate, by difference",g,11.05,19.89
+"Fiber, total dietary",g,4.2,7.6
+Minerals
+"Calcium, Ca",mg,145,261
+"Iron, Fe",mg,2.50,4.50
+"Magnesium, Mg",mg,60,108
+"Phosphorus, P",mg,158,284
+"Potassium, K",mg,539,970
+"Sodium, Na",mg,14,25
+"Zinc, Zn",mg,0.91,1.64
+Vitamins
+"Vitamin C, total ascorbic acid",mg,17.0,30.6
+"Thiamin",mg,0.260,0.468
+"Riboflavin",mg,0.155,0.279
+"Niacin",mg,1.250,2.250
+"Vitamin B-6",mg,0.060,0.108
+"Folate, DFE",µg,111,200
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,8,14
+"Vitamin A, IU",IU,156,281
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.740,1.332
+"Fatty acids, total monounsaturated",g,1.209,2.176
+"Fatty acids, total polyunsaturated",g,3.011,5.420
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

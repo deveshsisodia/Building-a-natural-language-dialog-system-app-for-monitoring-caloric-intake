@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:28 EST
+"Nutrient data for: 36412, Restaurant, Latino, tamale, pork"
+Nutrient,Unit,1Value per 100 g,"1 piece = 142.0g",
+Proximates
+"Water",g,66.03,93.76
+"Energy",kcal,174,247
+"Protein",g,7.35,10.44
+"Total lipid (fat)",g,9.04,12.84
+"Carbohydrate, by difference",g,15.75,22.36
+"Fiber, total dietary",g,2.4,3.4
+"Sugars, total",g,0.46,0.65
+Minerals
+"Calcium, Ca",mg,75,106
+"Iron, Fe",mg,0.87,1.24
+"Magnesium, Mg",mg,26,37
+"Phosphorus, P",mg,120,170
+"Potassium, K",mg,152,216
+"Sodium, Na",mg,473,672
+"Zinc, Zn",mg,1.20,1.70
+Vitamins
+"Vitamin C, total ascorbic acid",mg,16.4,23.3
+"Thiamin",mg,0.040,0.057
+"Riboflavin",mg,0.050,0.071
+"Niacin",mg,1.295,1.839
+"Vitamin B-6",mg,0.132,0.187
+"Folate, DFE",µg,60,85
+"Vitamin B-12",µg,0.11,0.16
+"Vitamin A, RAE",µg,12,17
+"Vitamin A, IU",IU,238,338
+"Vitamin E (alpha-tocopherol)",mg,0.53,0.75
+"Vitamin D (D2 + D3)",µg,0.3,0.4
+"Vitamin D",IU,13,18
+"Vitamin K (phylloquinone)",µg,5.1,7.2
+Lipids
+"Fatty acids, total saturated",g,2.692,3.823
+"Fatty acids, total monounsaturated",g,3.244,4.606
+"Fatty acids, total polyunsaturated",g,2.052,2.914
+"Fatty acids, total trans",g,0.058,0.082
+"Cholesterol",mg,20,28
+Amino Acids
+Other
+"Caffeine",mg,0,0

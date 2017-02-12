@@ -1,0 +1,34 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:39 EST
+"Nutrient data for: 28115, KEEBLER, 100 Calorie RIGHT BITES, FUDGE SHOPPE, Fudge Covered Pretzels"
+Nutrient,Unit,1Value per 100 g,"1 package = 21.0g",
+Proximates
+"Water",g,2.00,0.42
+"Energy",kcal,455,96
+"Protein",g,7.50,1.57
+"Total lipid (fat)",g,17.00,3.57
+"Carbohydrate, by difference",g,71.30,14.97
+"Fiber, total dietary",g,3.9,0.8
+"Sugars, total",g,32.90,6.91
+Minerals
+"Calcium, Ca",mg,106,22
+"Iron, Fe",mg,5.50,1.16
+"Magnesium, Mg",mg,47,10
+"Phosphorus, P",mg,89,19
+"Potassium, K",mg,250,52
+"Sodium, Na",mg,595,125
+"Zinc, Zn",mg,0.10,0.02
+Vitamins
+"Thiamin",mg,0.340,0.071
+"Riboflavin",mg,0.420,0.088
+"Niacin",mg,3.600,0.756
+"Vitamin B-6",mg,0.040,0.008
+Lipids
+"Fatty acids, total saturated",g,15.200,3.192
+"Fatty acids, total monounsaturated",g,0.800,0.168
+"Fatty acids, total polyunsaturated",g,0.200,0.042
+"Fatty acids, total trans",g,0.100,0.021
+"Cholesterol",mg,1,0
+Amino Acids
+Other

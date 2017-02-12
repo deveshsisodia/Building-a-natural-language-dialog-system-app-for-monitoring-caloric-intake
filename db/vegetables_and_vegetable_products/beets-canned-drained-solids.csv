@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:16 EST
+"Nutrient data for: 11084, Beets, canned, drained solids"
+Nutrient,Unit,1Value per 100 g,"1 cup, diced = 157.0g","1 cup, shredded = 195.0g","1 cup slices = 170.0g","1 cup, whole = 163.0g","1 slice = 8.0g","1 beet = 24.0g","1 can (303 x 406) = 294.0g",
+Proximates
+"Water",g,90.96,142.81,177.37,154.63,148.26,7.28,21.83,267.42
+"Energy",kcal,31,49,60,53,51,2,7,91
+"Protein",g,0.91,1.43,1.77,1.55,1.48,0.07,0.22,2.68
+"Total lipid (fat)",g,0.14,0.22,0.27,0.24,0.23,0.01,0.03,0.41
+"Carbohydrate, by difference",g,7.21,11.32,14.06,12.26,11.75,0.58,1.73,21.20
+"Fiber, total dietary",g,1.8,2.8,3.5,3.1,2.9,0.1,0.4,5.3
+"Sugars, total",g,5.51,8.65,10.74,9.37,8.98,0.44,1.32,16.20
+Minerals
+"Calcium, Ca",mg,15,24,29,26,24,1,4,44
+"Iron, Fe",mg,1.82,2.86,3.55,3.09,2.97,0.15,0.44,5.35
+"Magnesium, Mg",mg,17,27,33,29,28,1,4,50
+"Phosphorus, P",mg,17,27,33,29,28,1,4,50
+"Potassium, K",mg,148,232,289,252,241,12,36,435
+"Sodium, Na",mg,194,305,378,330,316,16,47,570
+"Zinc, Zn",mg,0.21,0.33,0.41,0.36,0.34,0.02,0.05,0.62
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.1,6.4,8.0,7.0,6.7,0.3,1.0,12.1
+"Thiamin",mg,0.010,0.016,0.019,0.017,0.016,0.001,0.002,0.029
+"Riboflavin",mg,0.040,0.063,0.078,0.068,0.065,0.003,0.010,0.118
+"Niacin",mg,0.157,0.246,0.306,0.267,0.256,0.013,0.038,0.462
+"Vitamin B-6",mg,0.057,0.089,0.111,0.097,0.093,0.005,0.014,0.168
+"Folate, DFE",µg,30,47,58,51,49,2,7,88
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,2,2,2,2,0,0,3
+"Vitamin A, IU",IU,24,38,47,41,39,2,6,71
+"Vitamin E (alpha-tocopherol)",mg,0.03,0.05,0.06,0.05,0.05,0.00,0.01,0.09
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.2,0.3,0.4,0.3,0.3,0.0,0.0,0.6
+Lipids
+"Fatty acids, total saturated",g,0.022,0.035,0.043,0.037,0.036,0.002,0.005,0.065
+"Fatty acids, total monounsaturated",g,0.027,0.042,0.053,0.046,0.044,0.002,0.006,0.079
+"Fatty acids, total polyunsaturated",g,0.049,0.077,0.096,0.083,0.080,0.004,0.012,0.144
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0,0

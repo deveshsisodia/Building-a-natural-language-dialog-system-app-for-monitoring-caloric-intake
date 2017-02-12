@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:08 EST
+"Nutrient data for: 17277, Veal, shank (fore and hind), separable lean and fat, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) = 194.0g",
+Proximates
+"Water",g,61.74,52.48,119.78
+"Energy",kcal,191,162,371
+"Protein",g,31.54,26.81,61.19
+"Total lipid (fat)",g,6.20,5.27,12.03
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,33,28,64
+"Iron, Fe",mg,1.25,1.06,2.42
+"Magnesium, Mg",mg,25,21,48
+"Phosphorus, P",mg,225,191,436
+"Potassium, K",mg,305,259,592
+"Sodium, Na",mg,93,79,180
+"Zinc, Zn",mg,6.63,5.64,12.86
+Vitamins
+"Thiamin",mg,0.049,0.042,0.095
+"Riboflavin",mg,0.295,0.251,0.572
+"Niacin",mg,9.454,8.036,18.341
+"Vitamin B-6",mg,0.265,0.225,0.514
+"Folate, DFE",µg,17,14,33
+"Vitamin B-12",µg,1.61,1.37,3.12
+Lipids
+"Fatty acids, total saturated",g,2.078,1.766,4.031
+"Fatty acids, total monounsaturated",g,2.339,1.988,4.538
+"Fatty acids, total polyunsaturated",g,0.541,0.460,1.050
+"Cholesterol",mg,124,105,241
+Amino Acids
+Other

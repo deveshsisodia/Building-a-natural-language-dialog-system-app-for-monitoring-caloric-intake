@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:27 EST
+"Nutrient data for: 36629, Restaurant, Chinese, orange chicken"
+Nutrient,Unit,1Value per 100 g,"1 order = 648.0g","3.0 pieces = 63.0g",
+Proximates
+"Water",g,48.43,313.83,30.51
+"Energy",kcal,262,1698,165
+"Protein",g,14.46,93.70,9.11
+"Total lipid (fat)",g,12.68,82.17,7.99
+"Carbohydrate, by difference",g,22.46,145.54,14.15
+"Fiber, total dietary",g,0.8,5.2,0.5
+"Sugars, total",g,13.60,88.13,8.57
+Minerals
+"Calcium, Ca",mg,14,91,9
+"Iron, Fe",mg,0.94,6.09,0.59
+"Magnesium, Mg",mg,20,130,13
+"Phosphorus, P",mg,130,842,82
+"Potassium, K",mg,209,1354,132
+"Sodium, Na",mg,553,3583,348
+"Zinc, Zn",mg,1.13,7.32,0.71
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,5.8,0.6
+"Thiamin",mg,0.043,0.279,0.027
+"Riboflavin",mg,0.220,1.426,0.139
+"Niacin",mg,3.590,23.263,2.262
+"Vitamin B-6",mg,0.230,1.490,0.145
+"Folate, DFE",µg,10,65,6
+"Vitamin B-12",µg,0.20,1.30,0.13
+"Vitamin A, RAE",µg,75,486,47
+"Vitamin A, IU",IU,264,1711,166
+"Vitamin E (alpha-tocopherol)",mg,1.07,6.93,0.67
+"Vitamin D (D2 + D3)",µg,0.1,0.6,0.1
+"Vitamin D",IU,5,32,3
+"Vitamin K (phylloquinone)",µg,24.4,158.1,15.4
+Lipids
+"Fatty acids, total saturated",g,2.422,15.695,1.526
+"Fatty acids, total monounsaturated",g,3.474,22.512,2.189
+"Fatty acids, total polyunsaturated",g,6.086,39.437,3.834
+"Fatty acids, total trans",g,0.053,0.343,0.033
+"Cholesterol",mg,61,395,38
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Rice and broccoli were not included in analyses."

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:53 EST
+"Nutrient data for: 19017, Snacks, granola bars, hard, chocolate chip"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 bar = 24.0g",
+Proximates
+"Water",g,2.40,0.68,0.58
+"Energy",kcal,438,124,105
+"Protein",g,7.30,2.07,1.75
+"Total lipid (fat)",g,16.30,4.62,3.91
+"Carbohydrate, by difference",g,72.10,20.44,17.30
+"Fiber, total dietary",g,4.4,1.2,1.1
+Minerals
+"Calcium, Ca",mg,77,22,18
+"Iron, Fe",mg,3.05,0.86,0.73
+"Magnesium, Mg",mg,72,20,17
+"Phosphorus, P",mg,204,58,49
+"Potassium, K",mg,251,71,60
+"Sodium, Na",mg,344,98,83
+"Zinc, Zn",mg,1.93,0.55,0.46
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0,0.0
+"Thiamin",mg,0.180,0.051,0.043
+"Riboflavin",mg,0.100,0.028,0.024
+"Niacin",mg,0.555,0.157,0.133
+"Vitamin B-6",mg,0.058,0.016,0.014
+"Folate, DFE",µg,13,4,3
+"Vitamin B-12",µg,0.01,0.00,0.00
+"Vitamin A, RAE",µg,2,1,0
+"Vitamin A, IU",IU,42,12,10
+Lipids
+"Fatty acids, total saturated",g,11.410,3.235,2.738
+"Fatty acids, total monounsaturated",g,2.630,0.746,0.631
+"Fatty acids, total polyunsaturated",g,1.270,0.360,0.305
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

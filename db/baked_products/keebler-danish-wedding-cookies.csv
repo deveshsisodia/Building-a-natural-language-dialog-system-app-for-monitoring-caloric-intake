@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:39 EST
+"Nutrient data for: 28073, KEEBLER, Danish Wedding Cookies"
+Nutrient,Unit,1Value per 100 g,"4.0 cookies = 26.0g",
+Proximates
+"Water",g,4.00,1.04
+"Energy",kcal,504,131
+"Protein",g,3.90,1.01
+"Total lipid (fat)",g,24.10,6.27
+"Carbohydrate, by difference",g,68.30,17.76
+"Fiber, total dietary",g,2.6,0.7
+"Sugars, total",g,37.90,9.85
+Minerals
+"Iron, Fe",mg,2.10,0.55
+"Magnesium, Mg",mg,17,4
+"Phosphorus, P",mg,55,14
+"Potassium, K",mg,84,22
+"Sodium, Na",mg,267,69
+"Zinc, Zn",mg,0.20,0.05
+Vitamins
+"Thiamin",mg,0.230,0.060
+"Riboflavin",mg,0.140,0.036
+"Niacin",mg,1.800,0.468
+"Vitamin B-6",mg,0.020,0.005
+Lipids
+"Fatty acids, total saturated",g,11.600,3.016
+"Fatty acids, total monounsaturated",g,3.800,0.988
+"Fatty acids, total polyunsaturated",g,5.800,1.508
+"Fatty acids, total trans",g,0.300,0.078
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:46 EST
+"Nutrient data for: 03177, Babyfood, juice, orange and pineapple"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 31.2g","1 jar = 127.0g",
+Proximates
+"Water",g,87.30,27.24,110.87
+"Energy",kcal,48,15,61
+"Protein",g,0.50,0.16,0.64
+"Total lipid (fat)",g,0.10,0.03,0.13
+"Carbohydrate, by difference",g,11.70,3.65,14.86
+"Fiber, total dietary",g,0.1,0.0,0.1
+Minerals
+"Calcium, Ca",mg,8,2,10
+"Iron, Fe",mg,0.42,0.13,0.53
+"Magnesium, Mg",mg,9,3,11
+"Phosphorus, P",mg,9,3,11
+"Potassium, K",mg,141,44,179
+"Sodium, Na",mg,2,1,3
+"Zinc, Zn",mg,0.04,0.01,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,53.4,16.7,67.8
+"Thiamin",mg,0.050,0.016,0.064
+"Riboflavin",mg,0.023,0.007,0.029
+"Niacin",mg,0.194,0.061,0.246
+"Vitamin B-6",mg,0.062,0.019,0.079
+"Folate, DFE",µg,19,6,24
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,2,1,3
+"Vitamin A, IU",IU,31,10,39
+"Vitamin E (alpha-tocopherol)",mg,0.60,0.19,0.76
+Lipids
+"Fatty acids, total saturated",g,0.010,0.003,0.013
+"Fatty acids, total monounsaturated",g,0.014,0.004,0.018
+"Fatty acids, total polyunsaturated",g,0.024,0.007,0.030
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

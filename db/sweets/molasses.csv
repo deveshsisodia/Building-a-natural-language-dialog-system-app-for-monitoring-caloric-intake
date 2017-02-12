@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:43 EST
+"Nutrient data for: 19304, Molasses"
+Nutrient,Unit,1Value per 100 g,"1 cup = 337.0g","1 serving 1 tbsp = 20.0g",
+Proximates
+"Water",g,21.87,73.70,4.37
+"Energy",kcal,290,977,58
+"Protein",g,0.00,0.00,0.00
+"Total lipid (fat)",g,0.10,0.34,0.02
+"Carbohydrate, by difference",g,74.73,251.84,14.95
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,74.72,251.81,14.94
+Minerals
+"Calcium, Ca",mg,205,691,41
+"Iron, Fe",mg,4.72,15.91,0.94
+"Magnesium, Mg",mg,242,816,48
+"Phosphorus, P",mg,31,104,6
+"Potassium, K",mg,1464,4934,293
+"Sodium, Na",mg,37,125,7
+"Zinc, Zn",mg,0.29,0.98,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.041,0.138,0.008
+"Riboflavin",mg,0.002,0.007,0.000
+"Niacin",mg,0.930,3.134,0.186
+"Vitamin B-6",mg,0.670,2.258,0.134
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.018,0.061,0.004
+"Fatty acids, total monounsaturated",g,0.032,0.108,0.006
+"Fatty acids, total polyunsaturated",g,0.050,0.169,0.010
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

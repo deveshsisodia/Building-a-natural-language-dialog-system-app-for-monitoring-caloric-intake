@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:38 EST
+"Nutrient data for: 05363, Ruffed Grouse, breast meat, skinless, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 113.0g","1 breast = 219.0g","1 bird = 627.0g",
+Proximates
+"Water",g,72.93,82.41,159.72,457.27
+"Energy",kcal,112,127,245,702
+"Protein",g,25.94,29.31,56.81,162.64
+"Total lipid (fat)",g,0.88,0.99,1.93,5.52
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,5,6,11,31
+"Iron, Fe",mg,0.58,0.66,1.27,3.64
+"Magnesium, Mg",mg,32,36,70,201
+"Phosphorus, P",mg,229,259,502,1436
+"Potassium, K",mg,311,351,681,1950
+"Sodium, Na",mg,50,56,110,314
+"Zinc, Zn",mg,0.51,0.58,1.12,3.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.042,0.047,0.092,0.263
+"Riboflavin",mg,0.280,0.316,0.613,1.756
+"Niacin",mg,11.600,13.108,25.404,72.732
+"Vitamin B-6",mg,1.275,1.441,2.792,7.994
+"Vitamin B-12",µg,2.90,3.28,6.35,18.18
+"Vitamin A, RAE",µg,5,6,11,31
+"Vitamin A, IU",IU,16,18,35,100
+"Vitamin E (alpha-tocopherol)",mg,0.73,0.82,1.60,4.58
+Lipids
+"Fatty acids, total saturated",g,0.130,0.147,0.285,0.815
+"Fatty acids, total monounsaturated",g,0.042,0.047,0.092,0.263
+"Fatty acids, total polyunsaturated",g,0.132,0.149,0.289,0.828
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,40,45,88,251
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

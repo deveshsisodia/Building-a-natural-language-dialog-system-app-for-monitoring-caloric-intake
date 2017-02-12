@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:21 EST
+"Nutrient data for: 43329, Salad dressing, mayonnaise and mayonnaise-type, low calorie"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 14.5g","1 cup = 232.0g",
+Proximates
+"Water",g,54.30,7.87,125.98
+"Energy",kcal,263,38,610
+"Protein",g,0.90,0.13,2.09
+"Total lipid (fat)",g,19.00,2.75,44.08
+"Carbohydrate, by difference",g,23.90,3.47,55.45
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,4.34,0.63,10.07
+Minerals
+"Calcium, Ca",mg,14,2,32
+"Iron, Fe",mg,0.26,0.04,0.60
+"Magnesium, Mg",mg,2,0,5
+"Phosphorus, P",mg,30,4,70
+"Potassium, K",mg,24,3,56
+"Sodium, Na",mg,837,121,1942
+"Zinc, Zn",mg,0.18,0.03,0.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.010,0.001,0.023
+"Riboflavin",mg,0.020,0.003,0.046
+"Niacin",mg,0.000,0.000,0.000
+"Vitamin B-6",mg,0.020,0.003,0.046
+"Folate, DFE",µg,6,1,14
+"Vitamin B-12",µg,0.21,0.03,0.49
+"Vitamin A, RAE",µg,21,3,49
+"Vitamin A, IU",IU,220,32,510
+"Vitamin E (alpha-tocopherol)",mg,3.07,0.45,7.12
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,24.7,3.6,57.3
+Lipids
+"Fatty acids, total saturated",g,2.962,0.429,6.872
+"Fatty acids, total monounsaturated",g,4.628,0.671,10.737
+"Fatty acids, total polyunsaturated",g,10.396,1.507,24.119
+"Cholesterol",mg,26,4,60
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

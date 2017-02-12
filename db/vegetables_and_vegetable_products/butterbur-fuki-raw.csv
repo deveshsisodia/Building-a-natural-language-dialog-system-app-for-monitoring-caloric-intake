@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:17 EST
+"Nutrient data for: 11106, Butterbur, (fuki), raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 94.0g","1 petiole = 5.0g",
+Proximates
+"Water",g,94.50,88.83,4.72
+"Energy",kcal,14,13,1
+"Protein",g,0.39,0.37,0.02
+"Total lipid (fat)",g,0.04,0.04,0.00
+"Carbohydrate, by difference",g,3.61,3.39,0.18
+Minerals
+"Calcium, Ca",mg,103,97,5
+"Iron, Fe",mg,0.10,0.09,0.01
+"Magnesium, Mg",mg,14,13,1
+"Phosphorus, P",mg,12,11,1
+"Potassium, K",mg,655,616,33
+"Sodium, Na",mg,7,7,0
+"Zinc, Zn",mg,0.16,0.15,0.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,31.5,29.6,1.6
+"Thiamin",mg,0.020,0.019,0.001
+"Riboflavin",mg,0.020,0.019,0.001
+"Niacin",mg,0.200,0.188,0.010
+"Vitamin B-6",mg,0.096,0.090,0.005
+"Folate, DFE",µg,10,9,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,3,3,0
+"Vitamin A, IU",IU,50,47,2
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

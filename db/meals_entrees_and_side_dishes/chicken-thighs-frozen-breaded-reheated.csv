@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:21 EST
+"Nutrient data for: 32020, Chicken, thighs, frozen, breaded, reheated"
+Nutrient,Unit,1Value per 100 g,"1 thigh with bone and breading = 133.0g",
+Proximates
+"Water",g,41.63,55.37
+"Energy",kcal,334,444
+"Protein",g,18.66,24.82
+"Total lipid (fat)",g,22.45,29.86
+"Carbohydrate, by difference",g,14.23,18.93
+"Fiber, total dietary",g,0.1,0.1
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,75,100
+"Iron, Fe",mg,1.26,1.68
+"Magnesium, Mg",mg,31,41
+"Phosphorus, P",mg,190,253
+"Potassium, K",mg,279,371
+"Sodium, Na",mg,813,1081
+"Zinc, Zn",mg,1.39,1.85
+Vitamins
+"Thiamin",mg,0.150,0.199
+"Riboflavin",mg,0.290,0.386
+"Niacin",mg,4.263,5.670
+"Vitamin B-6",mg,0.140,0.186
+"Vitamin B-12",µg,0.54,0.72
+"Vitamin A, RAE",µg,37,49
+"Vitamin A, IU",IU,125,166
+"Vitamin E (alpha-tocopherol)",mg,1.19,1.58
+Lipids
+"Fatty acids, total saturated",g,5.207,6.925
+"Fatty acids, total monounsaturated",g,10.123,13.464
+"Fatty acids, total polyunsaturated",g,4.813,6.401
+"Fatty acids, total trans",g,1.263,1.680
+"Cholesterol",mg,87,116
+Amino Acids
+Other

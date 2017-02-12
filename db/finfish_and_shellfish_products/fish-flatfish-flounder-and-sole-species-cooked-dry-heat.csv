@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:58 EST
+"Nutrient data for: 15029, Fish, flatfish (flounder and sole species), cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 127.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,81.11,103.01,68.94
+"Energy",kcal,86,109,73
+"Protein",g,15.24,19.35,12.95
+"Total lipid (fat)",g,2.37,3.01,2.01
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,25,32,21
+"Iron, Fe",mg,0.23,0.29,0.20
+"Magnesium, Mg",mg,22,28,19
+"Phosphorus, P",mg,309,392,263
+"Potassium, K",mg,197,250,167
+"Sodium, Na",mg,363,461,309
+"Zinc, Zn",mg,0.39,0.50,0.33
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.026,0.033,0.022
+"Riboflavin",mg,0.025,0.032,0.021
+"Niacin",mg,1.278,1.623,1.086
+"Vitamin B-6",mg,0.115,0.146,0.098
+"Folate, DFE",µg,6,8,5
+"Vitamin B-12",µg,1.31,1.66,1.11
+"Vitamin A, RAE",µg,12,15,10
+"Vitamin A, IU",IU,37,47,31
+"Vitamin E (alpha-tocopherol)",mg,0.77,0.98,0.65
+"Vitamin D (D2 + D3)",µg,3.5,4.4,3.0
+"Vitamin D",IU,139,177,118
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,0.542,0.688,0.461
+"Fatty acids, total monounsaturated",g,0.657,0.834,0.558
+"Fatty acids, total polyunsaturated",g,0.459,0.583,0.390
+"Fatty acids, total trans",g,0.014,0.018,0.012
+"Cholesterol",mg,56,71,48
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Samples were obtained from 12 retail stores using a probability-based sampling plan.  Some fish had been treated during processing to retain moisture on thawing.  Untreated fish = 105 mg sodium/100g."

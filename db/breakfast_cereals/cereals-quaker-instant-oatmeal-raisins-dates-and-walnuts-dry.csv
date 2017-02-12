@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08228, Cereals, QUAKER, Instant Oatmeal, raisins, dates and walnuts, dry"
+Nutrient,Unit,1Value per 100 g,"1 packet = 37.0g",
+Proximates
+"Water",g,8.35,3.09
+"Energy",kcal,371,137
+"Protein",g,8.82,3.26
+"Total lipid (fat)",g,6.98,2.58
+"Carbohydrate, by difference",g,72.41,26.79
+"Fiber, total dietary",g,6.9,2.6
+"Sugars, total",g,30.85,11.41
+Minerals
+"Calcium, Ca",mg,297,110
+"Iron, Fe",mg,10.70,3.96
+"Magnesium, Mg",mg,92,34
+"Phosphorus, P",mg,296,110
+"Potassium, K",mg,374,138
+"Sodium, Na",mg,516,191
+"Zinc, Zn",mg,1.94,0.72
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,0.3
+"Thiamin",mg,0.892,0.330
+"Riboflavin",mg,1.017,0.376
+"Niacin",mg,11.968,4.428
+"Vitamin B-6",mg,1.197,0.443
+"Folate, DFE",µg,381,141
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,2992,1107
+"Vitamin E (alpha-tocopherol)",mg,0.55,0.20
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.0,0.7
+Lipids
+"Fatty acids, total saturated",g,1.070,0.396
+"Fatty acids, total monounsaturated",g,1.903,0.704
+"Fatty acids, total polyunsaturated",g,3.240,1.199
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

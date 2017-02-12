@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:39 EST
+"Nutrient data for: 28080, KEEBLER, FUDGE SHOPPE, Deluxe Grahams Cookies"
+Nutrient,Unit,1Value per 100 g,"3.0 pieces = 27.0g",
+Proximates
+"Water",g,2.00,0.54
+"Energy",kcal,511,138
+"Protein",g,4.00,1.08
+"Total lipid (fat)",g,25.80,6.97
+"Carbohydrate, by difference",g,66.60,17.98
+"Fiber, total dietary",g,2.2,0.6
+"Sugars, total",g,37.30,10.07
+Minerals
+"Magnesium, Mg",mg,16,4
+"Phosphorus, P",mg,87,23
+"Potassium, K",mg,267,72
+"Sodium, Na",mg,265,72
+"Zinc, Zn",mg,0.20,0.05
+Vitamins
+"Thiamin",mg,0.270,0.073
+"Riboflavin",mg,0.150,0.041
+"Niacin",mg,1.700,0.459
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,1,0
+Lipids
+"Fatty acids, total saturated",g,17.200,4.644
+"Fatty acids, total monounsaturated",g,2.700,0.729
+"Fatty acids, total polyunsaturated",g,4.900,1.323
+"Fatty acids, total trans",g,0.550,0.149
+"Cholesterol",mg,1,0
+Amino Acids
+Other

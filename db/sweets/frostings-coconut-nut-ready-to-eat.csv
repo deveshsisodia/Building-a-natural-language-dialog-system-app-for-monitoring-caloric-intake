@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:40 EST
+"Nutrient data for: 19227, Frostings, coconut-nut, ready-to-eat"
+Nutrient,Unit,1Value per 100 g,"0.083 package = 38.0g","2.0 tbsp = 35.0g","1 package (16 oz) = 462.0g",
+Proximates
+"Water",g,21.00,7.98,7.35,97.02
+"Energy",kcal,433,165,152,2000
+"Protein",g,1.50,0.57,0.53,6.93
+"Total lipid (fat)",g,24.00,9.12,8.40,110.88
+"Carbohydrate, by difference",g,52.70,20.03,18.45,243.47
+"Fiber, total dietary",g,2.5,0.9,0.9,11.6
+"Sugars, total",g,40.00,15.20,14.00,184.80
+Minerals
+"Calcium, Ca",mg,13,5,5,60
+"Iron, Fe",mg,0.54,0.21,0.19,2.49
+"Magnesium, Mg",mg,19,7,7,88
+"Phosphorus, P",mg,63,24,22,291
+"Potassium, K",mg,186,71,65,859
+"Sodium, Na",mg,160,61,56,739
+"Zinc, Zn",mg,0.41,0.16,0.14,1.89
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1,0.1,0.9
+"Thiamin",mg,0.035,0.013,0.012,0.162
+"Riboflavin",mg,0.019,0.007,0.007,0.088
+"Niacin",mg,0.212,0.081,0.074,0.979
+"Vitamin B-6",mg,0.047,0.018,0.016,0.217
+"Folate, DFE",µg,2,1,1,9
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,4,2,1,18
+"Vitamin E (alpha-tocopherol)",mg,1.09,0.41,0.38,5.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,3.9,1.5,1.4,18.0
+Lipids
+"Fatty acids, total saturated",g,8.631,3.280,3.021,39.875
+"Fatty acids, total monounsaturated",g,10.786,4.099,3.775,49.831
+"Fatty acids, total polyunsaturated",g,3.264,1.240,1.142,15.080
+"Fatty acids, total trans",g,3.748,1.424,1.312,17.316
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

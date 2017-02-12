@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:46 EST
+"Nutrient data for: 18364, Tortillas, ready-to-bake or -fry, flour, refrigerated"
+Nutrient,Unit,1Value per 100 g,"1 tortilla = 48.0g","1 oz = 28.35g","1 tortilla medium (approx 6"" dia) = 30.0g","1 package = 407.0g","1 tortilla (approx 10"" dia) = 72.0g","1 tortilla (approx 12"" dia) = 117.0g","1 tortilla (approx 7-8"" dia) = 49.0g",
+Proximates
+"Water",g,31.98,15.35,9.07,9.59,130.16,23.03,37.42,15.67
+"Energy",kcal,306,147,87,92,1245,220,358,150
+"Protein",g,8.20,3.94,2.32,2.46,33.37,5.90,9.59,4.02
+"Total lipid (fat)",g,7.99,3.84,2.27,2.40,32.52,5.75,9.35,3.92
+"Carbohydrate, by difference",g,49.38,23.70,14.00,14.81,200.98,35.55,57.77,24.20
+"Fiber, total dietary",g,3.5,1.7,1.0,1.1,14.2,2.5,4.1,1.7
+"Sugars, total",g,3.71,1.78,1.05,1.11,15.10,2.67,4.34,1.82
+Minerals
+"Calcium, Ca",mg,146,70,41,44,594,105,171,72
+"Iron, Fe",mg,3.63,1.74,1.03,1.09,14.77,2.61,4.25,1.78
+"Magnesium, Mg",mg,22,11,6,7,90,16,26,11
+"Phosphorus, P",mg,206,99,58,62,838,148,241,101
+"Potassium, K",mg,125,60,35,38,509,90,146,61
+"Sodium, Na",mg,736,353,209,221,2996,530,861,361
+"Zinc, Zn",mg,0.53,0.25,0.15,0.16,2.16,0.38,0.62,0.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.503,0.241,0.143,0.151,2.047,0.362,0.589,0.246
+"Riboflavin",mg,0.282,0.135,0.080,0.085,1.148,0.203,0.330,0.138
+"Niacin",mg,4.415,2.119,1.252,1.324,17.969,3.179,5.166,2.163
+"Vitamin B-6",mg,0.059,0.028,0.017,0.018,0.240,0.042,0.069,0.029
+"Folate, DFE",µg,149,72,42,45,606,107,174,73
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,7.2,3.5,2.0,2.2,29.3,5.2,8.4,3.5
+Lipids
+"Fatty acids, total saturated",g,2.924,1.404,0.829,0.877,11.901,2.105,3.421,1.433
+"Fatty acids, total monounsaturated",g,1.751,0.840,0.496,0.525,7.127,1.261,2.049,0.858
+"Fatty acids, total polyunsaturated",g,2.290,1.099,0.649,0.687,9.320,1.649,2.679,1.122
+"Fatty acids, total trans",g,0.052,0.025,0.015,0.016,0.212,0.037,0.061,0.025
+"Cholesterol",mg,0,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:32 EST
+"Nutrient data for: 11564, Turnips, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, cubes = 130.0g","1 large = 183.0g","1 medium = 122.0g","1 slice = 15.0g","1 small = 61.0g","0.5 cup, cubes = 65.0g",
+Proximates
+"Water",g,91.87,119.43,168.12,112.08,13.78,56.04,59.72
+"Energy",kcal,28,36,51,34,4,17,18
+"Protein",g,0.90,1.17,1.65,1.10,0.14,0.55,0.58
+"Total lipid (fat)",g,0.10,0.13,0.18,0.12,0.01,0.06,0.07
+"Carbohydrate, by difference",g,6.43,8.36,11.77,7.84,0.96,3.92,4.18
+"Fiber, total dietary",g,1.8,2.3,3.3,2.2,0.3,1.1,1.2
+"Sugars, total",g,3.80,4.94,6.95,4.64,0.57,2.32,2.47
+Minerals
+"Calcium, Ca",mg,30,39,55,37,4,18,20
+"Iron, Fe",mg,0.30,0.39,0.55,0.37,0.04,0.18,0.20
+"Magnesium, Mg",mg,11,14,20,13,2,7,7
+"Phosphorus, P",mg,27,35,49,33,4,16,18
+"Potassium, K",mg,191,248,350,233,29,117,124
+"Sodium, Na",mg,67,87,123,82,10,41,44
+"Zinc, Zn",mg,0.27,0.35,0.49,0.33,0.04,0.16,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,21.0,27.3,38.4,25.6,3.1,12.8,13.7
+"Thiamin",mg,0.040,0.052,0.073,0.049,0.006,0.024,0.026
+"Riboflavin",mg,0.030,0.039,0.055,0.037,0.004,0.018,0.019
+"Niacin",mg,0.400,0.520,0.732,0.488,0.060,0.244,0.260
+"Vitamin B-6",mg,0.090,0.117,0.165,0.110,0.013,0.055,0.058
+"Folate, DFE",µg,15,20,27,18,2,9,10
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.03,0.04,0.05,0.04,0.00,0.02,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.2,0.1,0.0,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,0.011,0.014,0.020,0.013,0.002,0.007,0.007
+"Fatty acids, total monounsaturated",g,0.006,0.008,0.011,0.007,0.001,0.004,0.004
+"Fatty acids, total polyunsaturated",g,0.053,0.069,0.097,0.065,0.008,0.032,0.034
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

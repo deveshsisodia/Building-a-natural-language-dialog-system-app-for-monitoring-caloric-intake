@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08319, Cereals ready-to-eat, KELLOGG, KELLOGG'S FROSTED MINI-WHEATS, bite size"
+Nutrient,Unit,1Value per 100 g,"21.0 biscuits (1 NLEA serving) = 54.0g",
+Proximates
+"Water",g,4.80,2.59
+"Energy",kcal,350,189
+"Protein",g,9.19,4.96
+"Total lipid (fat)",g,1.60,0.86
+"Carbohydrate, by difference",g,83.40,45.04
+"Fiber, total dietary",g,10.8,5.8
+"Sugars, total",g,20.29,10.96
+Minerals
+"Calcium, Ca",mg,28,15
+"Iron, Fe",mg,30.00,16.20
+"Magnesium, Mg",mg,86,46
+"Phosphorus, P",mg,368,199
+"Potassium, K",mg,363,196
+"Sodium, Na",mg,2,1
+"Zinc, Zn",mg,2.79,1.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.680,0.367
+"Riboflavin",mg,0.790,0.427
+"Niacin",mg,9.300,5.022
+"Vitamin B-6",mg,0.930,0.502
+"Folate, DFE",µg,616,333
+"Vitamin B-12",µg,3.00,1.62
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,6,3
+Lipids
+"Fatty acids, total saturated",g,0.400,0.216
+"Fatty acids, total monounsaturated",g,0.200,0.108
+"Fatty acids, total polyunsaturated",g,0.890,0.481
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

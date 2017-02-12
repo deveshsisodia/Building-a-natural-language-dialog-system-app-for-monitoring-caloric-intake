@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:33 EST
+"Nutrient data for: 11199, Yardlong bean, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup slices = 91.0g","1 pod = 12.0g",
+Proximates
+"Water",g,87.85,79.94,10.54
+"Energy",kcal,47,43,6
+"Protein",g,2.80,2.55,0.34
+"Total lipid (fat)",g,0.40,0.36,0.05
+"Carbohydrate, by difference",g,8.35,7.60,1.00
+Minerals
+"Calcium, Ca",mg,50,46,6
+"Iron, Fe",mg,0.47,0.43,0.06
+"Magnesium, Mg",mg,44,40,5
+"Phosphorus, P",mg,59,54,7
+"Potassium, K",mg,240,218,29
+"Sodium, Na",mg,4,4,0
+"Zinc, Zn",mg,0.37,0.34,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,18.8,17.1,2.3
+"Thiamin",mg,0.107,0.097,0.013
+"Riboflavin",mg,0.110,0.100,0.013
+"Niacin",mg,0.410,0.373,0.049
+"Vitamin B-6",mg,0.024,0.022,0.003
+"Folate, DFE",µg,62,56,7
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,43,39,5
+"Vitamin A, IU",IU,865,787,104
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.105,0.096,0.013
+"Fatty acids, total monounsaturated",g,0.036,0.033,0.004
+"Fatty acids, total polyunsaturated",g,0.169,0.154,0.020
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

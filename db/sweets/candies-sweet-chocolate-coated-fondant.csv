@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:39 EST
+"Nutrient data for: 19083, Candies, sweet chocolate coated fondant"
+Nutrient,Unit,1Value per 100 g,"1 patty, large = 43.0g","1 patty, small = 11.0g",
+Proximates
+"Water",g,7.70,3.31,0.85
+"Energy",kcal,366,157,40
+"Protein",g,2.20,0.95,0.24
+"Total lipid (fat)",g,9.30,4.00,1.02
+"Carbohydrate, by difference",g,80.40,34.57,8.84
+"Fiber, total dietary",g,2.1,0.9,0.2
+"Sugars, total",g,71.42,30.71,7.86
+Minerals
+"Calcium, Ca",mg,17,7,2
+"Iron, Fe",mg,1.56,0.67,0.17
+"Magnesium, Mg",mg,63,27,7
+"Phosphorus, P",mg,95,41,10
+"Potassium, K",mg,168,72,18
+"Sodium, Na",mg,26,11,3
+"Zinc, Zn",mg,0.45,0.19,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.026,0.011,0.003
+"Riboflavin",mg,0.058,0.025,0.006
+"Niacin",mg,0.575,0.247,0.063
+"Vitamin B-6",mg,0.010,0.004,0.001
+"Folate, DFE",µg,3,1,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.06,0.01
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,2.1,0.9,0.2
+Lipids
+"Fatty acids, total saturated",g,5.460,2.348,0.601
+"Fatty acids, total monounsaturated",g,3.090,1.329,0.340
+"Fatty acids, total polyunsaturated",g,0.300,0.129,0.033
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,10,4,1

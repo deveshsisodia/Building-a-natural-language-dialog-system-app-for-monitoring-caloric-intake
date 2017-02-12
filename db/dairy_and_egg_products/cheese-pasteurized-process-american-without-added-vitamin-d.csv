@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:06 EST
+"Nutrient data for: 01253, Cheese, pasteurized process, American, without added vitamin D"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice (3/4 oz) = 21.0g","1 slice (1 oz) = 28.0g","1 cubic inch = 18.0g","1 cup, diced = 140.0g","1 cup, shredded = 113.0g","1 cup, melted = 244.0g",
+Proximates
+"Water",g,39.61,11.23,8.32,11.09,7.13,55.45,44.76,96.65
+"Energy",kcal,371,105,78,104,67,519,419,905
+"Protein",g,18.13,5.14,3.81,5.08,3.26,25.38,20.49,44.24
+"Total lipid (fat)",g,31.79,9.01,6.68,8.90,5.72,44.51,35.92,77.57
+"Carbohydrate, by difference",g,3.70,1.05,0.78,1.04,0.67,5.18,4.18,9.03
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,2.26,0.64,0.47,0.63,0.41,3.16,2.55,5.51
+Minerals
+"Calcium, Ca",mg,1045,296,219,293,188,1463,1181,2550
+"Iron, Fe",mg,0.63,0.18,0.13,0.18,0.11,0.88,0.71,1.54
+"Magnesium, Mg",mg,26,7,5,7,5,36,29,63
+"Phosphorus, P",mg,641,182,135,179,115,897,724,1564
+"Potassium, K",mg,132,37,28,37,24,185,149,322
+"Sodium, Na",mg,1671,474,351,468,301,2339,1888,4077
+"Zinc, Zn",mg,2.49,0.71,0.52,0.70,0.45,3.49,2.81,6.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.015,0.004,0.003,0.004,0.003,0.021,0.017,0.037
+"Riboflavin",mg,0.234,0.066,0.049,0.066,0.042,0.328,0.264,0.571
+"Niacin",mg,0.076,0.022,0.016,0.021,0.014,0.106,0.086,0.185
+"Vitamin B-6",mg,0.054,0.015,0.011,0.015,0.010,0.076,0.061,0.132
+"Folate, DFE",µg,8,2,2,2,1,11,9,20
+"Vitamin B-12",µg,1.50,0.43,0.32,0.42,0.27,2.10,1.70,3.66
+"Vitamin A, RAE",µg,250,71,52,70,45,350,282,610
+"Vitamin A, IU",IU,945,268,198,265,170,1323,1068,2306
+"Vitamin E (alpha-tocopherol)",mg,0.80,0.23,0.17,0.22,0.14,1.12,0.90,1.95
+"Vitamin D (D2 + D3)",µg,0.6,0.2,0.1,0.2,0.1,0.8,0.7,1.5
+"Vitamin D",IU,23,7,5,6,4,32,26,56
+"Vitamin K (phylloquinone)",µg,2.6,0.7,0.5,0.7,0.5,3.6,2.9,6.3
+Lipids
+"Fatty acids, total saturated",g,18.057,5.119,3.792,5.056,3.250,25.280,20.404,44.059
+"Fatty acids, total monounsaturated",g,8.236,2.335,1.730,2.306,1.482,11.530,9.307,20.096
+"Fatty acids, total polyunsaturated",g,1.286,0.365,0.270,0.360,0.231,1.800,1.453,3.138
+"Fatty acids, total trans",g,1.144,0.324,0.240,0.320,0.206,1.602,1.293,2.791
+"Cholesterol",mg,100,28,21,28,18,140,113,244
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0,0

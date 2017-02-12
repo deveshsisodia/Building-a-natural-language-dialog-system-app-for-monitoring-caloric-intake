@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:41 EST
+"Nutrient data for: 18505, KELLOGG'S, EGGO, Waffles, Homestyle, Low Fat"
+Nutrient,Unit,1Value per 100 g,"2.0 waffles 1 serving = 70.0g","1 round waffle (4"" dia) (include frozen) = 35.0g",
+Proximates
+"Water",g,41.80,29.26,14.63
+"Energy",kcal,229,160,80
+"Protein",g,6.30,4.41,2.21
+"Total lipid (fat)",g,3.50,2.45,1.23
+"Carbohydrate, by difference",g,44.90,31.43,15.71
+"Fiber, total dietary",g,1.3,0.9,0.5
+"Sugars, total",g,4.50,3.15,1.57
+Minerals
+"Calcium, Ca",mg,378,265,132
+"Iron, Fe",mg,6.40,4.48,2.24
+"Magnesium, Mg",mg,17,12,6
+"Phosphorus, P",mg,286,200,100
+"Potassium, K",mg,88,62,31
+"Sodium, Na",mg,393,275,138
+"Zinc, Zn",mg,0.50,0.35,0.17
+Vitamins
+"Thiamin",mg,0.430,0.301,0.150
+"Riboflavin",mg,0.490,0.343,0.171
+"Niacin",mg,5.700,3.990,1.995
+"Vitamin B-6",mg,0.570,0.399,0.199
+"Vitamin B-12",µg,1.70,1.19,0.59
+"Vitamin A, RAE",µg,429,300,150
+"Vitamin A, IU",IU,1429,1000,500
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.0
+"Vitamin D",IU,2,1,1
+Lipids
+"Fatty acids, total saturated",g,0.900,0.630,0.315
+"Fatty acids, total monounsaturated",g,0.800,0.560,0.280
+"Fatty acids, total polyunsaturated",g,1.400,0.980,0.490
+"Fatty acids, total trans",g,0.100,0.070,0.035
+"Cholesterol",mg,23,16,8
+Amino Acids
+Other
+Footnotes
+(a)"Serving equals 2 waffles"

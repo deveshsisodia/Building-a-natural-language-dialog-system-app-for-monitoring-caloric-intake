@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:41 EST
+"Nutrient data for: 23545, Beef, loin, bottom sirloin butt, tri-tip steak, separable lean and fat, trimmed to 0"" fat, all grades, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 lb = 453.6g",
+Proximates
+"Water",g,50.50,42.92,229.07
+"Energy",kcal,265,225,1202
+"Protein",g,29.97,25.47,135.94
+"Total lipid (fat)",g,15.18,12.90,68.86
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,12,10,54
+"Iron, Fe",mg,3.64,3.09,16.51
+"Magnesium, Mg",mg,26,22,118
+"Phosphorus, P",mg,265,225,1202
+"Potassium, K",mg,437,371,1982
+"Sodium, Na",mg,72,61,327
+"Zinc, Zn",mg,7.05,5.99,31.98
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.128,0.109,0.581
+"Riboflavin",mg,0.286,0.243,1.297
+"Niacin",mg,4.225,3.591,19.165
+"Vitamin B-6",mg,0.443,0.377,2.009
+"Folate, DFE",µg,10,8,45
+"Vitamin B-12",µg,2.83,2.41,12.84
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.17,0.14,0.77
+Lipids
+"Fatty acids, total saturated",g,5.707,4.851,25.887
+"Fatty acids, total monounsaturated",g,7.763,6.599,35.213
+"Fatty acids, total polyunsaturated",g,0.538,0.457,2.440
+"Cholesterol",mg,68,58,308
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

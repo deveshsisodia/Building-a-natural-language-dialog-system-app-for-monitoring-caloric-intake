@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:44 EST
+"Nutrient data for: 18320, Pie, lemon meringue, commercially prepared"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece (1/6 of 8"" pie) = 113.0g",
+Proximates
+"Water",g,41.70,11.82,47.12
+"Energy",kcal,268,76,303
+"Protein",g,1.50,0.43,1.70
+"Total lipid (fat)",g,8.70,2.47,9.83
+"Carbohydrate, by difference",g,47.20,13.38,53.34
+"Fiber, total dietary",g,1.2,0.3,1.4
+"Sugars, total",g,23.86,6.76,26.96
+Minerals
+"Calcium, Ca",mg,56,16,63
+"Iron, Fe",mg,0.61,0.17,0.69
+"Magnesium, Mg",mg,15,4,17
+"Phosphorus, P",mg,105,30,119
+"Potassium, K",mg,89,25,101
+"Sodium, Na",mg,172,49,194
+"Zinc, Zn",mg,0.49,0.14,0.55
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.2,0.9,3.6
+"Thiamin",mg,0.062,0.018,0.070
+"Riboflavin",mg,0.209,0.059,0.236
+"Niacin",mg,0.649,0.184,0.733
+"Vitamin B-6",mg,0.030,0.009,0.034
+"Folate, DFE",µg,35,10,40
+"Vitamin B-12",µg,0.17,0.05,0.19
+"Vitamin A, RAE",µg,51,14,58
+"Vitamin A, IU",IU,173,49,195
+"Vitamin E (alpha-tocopherol)",mg,1.06,0.30,1.20
+"Vitamin D (D2 + D3)",µg,0.2,0.1,0.2
+"Vitamin D",IU,7,2,8
+"Vitamin K (phylloquinone)",µg,2.1,0.6,2.4
+Lipids
+"Fatty acids, total saturated",g,1.766,0.501,1.996
+"Fatty acids, total monounsaturated",g,2.685,0.761,3.034
+"Fatty acids, total polyunsaturated",g,3.648,1.034,4.122
+"Cholesterol",mg,45,13,51
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

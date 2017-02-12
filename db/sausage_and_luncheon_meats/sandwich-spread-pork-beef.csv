@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:19 EST
+"Nutrient data for: 07073, Sandwich spread, pork, beef"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 oz = 28.35g",
+Proximates
+"Water",g,60.28,9.04,17.09
+"Energy",kcal,235,35,67
+"Protein",g,7.66,1.15,2.17
+"Total lipid (fat)",g,17.34,2.60,4.92
+"Carbohydrate, by difference",g,11.94,1.79,3.38
+"Fiber, total dietary",g,0.2,0.0,0.1
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,12,2,3
+"Iron, Fe",mg,0.79,0.12,0.22
+"Magnesium, Mg",mg,8,1,2
+"Phosphorus, P",mg,59,9,17
+"Potassium, K",mg,110,16,31
+"Sodium, Na",mg,1013,152,287
+"Zinc, Zn",mg,1.02,0.15,0.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.172,0.026,0.049
+"Riboflavin",mg,0.134,0.020,0.038
+"Niacin",mg,1.730,0.260,0.490
+"Vitamin B-6",mg,0.120,0.018,0.034
+"Folate, DFE",µg,2,0,1
+"Vitamin B-12",µg,1.12,0.17,0.32
+"Vitamin A, RAE",µg,26,4,7
+"Vitamin A, IU",IU,87,13,25
+"Vitamin E (alpha-tocopherol)",mg,1.74,0.26,0.49
+"Vitamin D (D2 + D3)",µg,0.6,0.1,0.2
+"Vitamin D",IU,22,3,6
+"Vitamin K (phylloquinone)",µg,1.6,0.2,0.5
+Lipids
+"Fatty acids, total saturated",g,5.977,0.897,1.694
+"Fatty acids, total monounsaturated",g,7.584,1.138,2.150
+"Fatty acids, total polyunsaturated",g,2.565,0.385,0.727
+"Cholesterol",mg,38,6,11
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

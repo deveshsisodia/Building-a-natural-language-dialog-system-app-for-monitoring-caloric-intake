@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:25 EST
+"Nutrient data for: 11808, Parsnips, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"0.5 cup slices = 78.0g","1 parsnip (9"" long) = 160.0g",
+Proximates
+"Water",g,80.24,62.59,128.38
+"Energy",kcal,71,55,114
+"Protein",g,1.32,1.03,2.11
+"Total lipid (fat)",g,0.30,0.23,0.48
+"Carbohydrate, by difference",g,17.01,13.27,27.22
+"Fiber, total dietary",g,4.0,3.1,6.4
+"Sugars, total",g,4.80,3.74,7.68
+Minerals
+"Calcium, Ca",mg,37,29,59
+"Iron, Fe",mg,0.58,0.45,0.93
+"Magnesium, Mg",mg,29,23,46
+"Phosphorus, P",mg,69,54,110
+"Potassium, K",mg,367,286,587
+"Sodium, Na",mg,246,192,394
+"Zinc, Zn",mg,0.26,0.20,0.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,13.0,10.1,20.8
+"Thiamin",mg,0.083,0.065,0.133
+"Riboflavin",mg,0.051,0.040,0.082
+"Niacin",mg,0.724,0.565,1.158
+"Vitamin B-6",mg,0.093,0.073,0.149
+"Folate, DFE",µg,58,45,93
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.00,0.78,1.60
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.0,0.8,1.6
+Lipids
+"Fatty acids, total saturated",g,0.050,0.039,0.080
+"Fatty acids, total monounsaturated",g,0.112,0.087,0.179
+"Fatty acids, total polyunsaturated",g,0.047,0.037,0.075
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

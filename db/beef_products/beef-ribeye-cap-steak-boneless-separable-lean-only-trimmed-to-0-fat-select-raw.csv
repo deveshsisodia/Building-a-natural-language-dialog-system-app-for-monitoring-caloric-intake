@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:46 EST
+"Nutrient data for: 23271, Beef, ribeye cap steak, boneless, separable lean only, trimmed to 0"" fat, select, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 steak = 267.0g",
+Proximates
+"Water",g,68.53,58.25,182.98
+"Energy",kcal,169,144,451
+"Protein",g,20.05,17.04,53.53
+"Total lipid (fat)",g,9.39,7.98,25.07
+"Carbohydrate, by difference",g,1.15,0.98,3.07
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,7,6,19
+"Iron, Fe",mg,2.95,2.51,7.88
+"Magnesium, Mg",mg,25,21,67
+"Phosphorus, P",mg,223,190,595
+"Potassium, K",mg,365,310,975
+"Sodium, Na",mg,84,71,224
+"Zinc, Zn",mg,8.42,7.16,22.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.145,0.123,0.387
+"Riboflavin",mg,0.267,0.227,0.713
+"Niacin",mg,3.620,3.077,9.665
+"Vitamin B-6",mg,0.370,0.315,0.988
+"Folate, DFE",µg,3,3,8
+"Vitamin B-12",µg,2.57,2.18,6.86
+"Vitamin A, RAE",µg,2,2,5
+"Vitamin A, IU",IU,8,7,21
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.3
+"Vitamin D",IU,3,3,8
+"Vitamin K (phylloquinone)",µg,1.5,1.3,4.0
+Lipids
+"Fatty acids, total saturated",g,3.626,3.082,9.681
+"Fatty acids, total monounsaturated",g,4.082,3.470,10.899
+"Fatty acids, total polyunsaturated",g,0.344,0.292,0.918
+"Fatty acids, total trans",g,0.405,0.344,1.081
+"Cholesterol",mg,63,54,168
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

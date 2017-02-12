@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:53 EST
+"Nutrient data for: 19007, Snacks, corn-based, extruded, onion-flavor"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","2.0 oz = 57.0g",
+Proximates
+"Water",g,2.00,0.57,1.14
+"Energy",kcal,499,141,284
+"Protein",g,7.70,2.18,4.39
+"Total lipid (fat)",g,22.60,6.41,12.88
+"Carbohydrate, by difference",g,65.10,18.46,37.11
+"Fiber, total dietary",g,3.9,1.1,2.2
+"Sugars, total",g,4.83,1.37,2.75
+Minerals
+"Calcium, Ca",mg,29,8,17
+"Iron, Fe",mg,3.72,1.05,2.12
+"Magnesium, Mg",mg,28,8,16
+"Phosphorus, P",mg,72,20,41
+"Potassium, K",mg,143,41,82
+"Sodium, Na",mg,950,269,542
+"Zinc, Zn",mg,0.33,0.09,0.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.8,0.5,1.0
+"Thiamin",mg,0.220,0.062,0.125
+"Riboflavin",mg,0.310,0.088,0.177
+"Niacin",mg,3.180,0.902,1.813
+"Vitamin B-6",mg,0.148,0.042,0.084
+"Folate, DFE",µg,176,50,100
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,8,2,5
+"Vitamin A, IU",IU,120,34,68
+"Vitamin E (alpha-tocopherol)",mg,2.69,0.76,1.53
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,5.1,1.4,2.9
+Lipids
+"Fatty acids, total saturated",g,4.340,1.230,2.474
+"Fatty acids, total monounsaturated",g,13.360,3.788,7.615
+"Fatty acids, total polyunsaturated",g,3.140,0.890,1.790
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

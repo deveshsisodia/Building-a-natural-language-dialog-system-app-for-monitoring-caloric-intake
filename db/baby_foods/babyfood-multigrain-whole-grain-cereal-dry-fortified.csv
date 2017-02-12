@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:46 EST
+"Nutrient data for: 03996, Babyfood, Multigrain whole grain cereal, dry fortified"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,4.58,
+"Energy",kcal,407,
+"Protein",g,6.67,
+"Total lipid (fat)",g,6.67,
+"Carbohydrate, by difference",g,80.06,
+"Fiber, total dietary",g,6.7,
+"Sugars, total",g,26.67,
+Minerals
+"Calcium, Ca",mg,800,
+"Iron, Fe",mg,30.00,
+"Magnesium, Mg",mg,95,
+"Phosphorus, P",mg,333,
+"Potassium, K",mg,467,
+"Sodium, Na",mg,33,
+"Zinc, Zn",mg,10.67,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,58.3,
+"Thiamin",mg,1.166,
+"Riboflavin",mg,1.330,
+"Niacin",mg,15.000,
+"Vitamin B-6",mg,1.166,
+"Folate, DFE",µg,264,
+"Vitamin B-12",µg,4.69,
+"Vitamin A, RAE",µg,0,
+"Vitamin A, IU",IU,0,
+"Vitamin E (alpha-tocopherol)",mg,4.22,
+"Vitamin D (D2 + D3)",µg,0.0,
+"Vitamin D",IU,0,
+"Vitamin K (phylloquinone)",µg,7.0,
+Lipids
+"Fatty acids, total saturated",g,1.058,
+"Fatty acids, total monounsaturated",g,1.291,
+"Fatty acids, total polyunsaturated",g,2.596,
+"Fatty acids, total trans",g,0.000,
+"Cholesterol",mg,0,
+Amino Acids
+Other
+"Caffeine",mg,0,

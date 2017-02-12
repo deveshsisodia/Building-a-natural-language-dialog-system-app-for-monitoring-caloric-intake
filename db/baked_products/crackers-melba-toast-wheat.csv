@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:36 EST
+"Nutrient data for: 18222, Crackers, melba toast, wheat"
+Nutrient,Unit,1Value per 100 g,"0.5 oz = 14.2g","1 toast = 5.0g",
+Proximates
+"Water",g,5.50,0.78,0.28
+"Energy",kcal,374,53,19
+"Protein",g,12.90,1.83,0.65
+"Total lipid (fat)",g,2.30,0.33,0.12
+"Carbohydrate, by difference",g,76.40,10.85,3.82
+"Fiber, total dietary",g,7.4,1.1,0.4
+Minerals
+"Calcium, Ca",mg,43,6,2
+"Iron, Fe",mg,4.50,0.64,0.23
+"Magnesium, Mg",mg,56,8,3
+"Phosphorus, P",mg,165,23,8
+"Potassium, K",mg,148,21,7
+"Sodium, Na",mg,837,119,42
+"Zinc, Zn",mg,1.50,0.21,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.422,0.060,0.021
+"Riboflavin",mg,0.299,0.042,0.015
+"Niacin",mg,5.083,0.722,0.254
+"Vitamin B-6",mg,0.103,0.015,0.005
+"Folate, DFE",µg,208,30,10
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.337,0.048,0.017
+"Fatty acids, total monounsaturated",g,0.544,0.077,0.027
+"Fatty acids, total polyunsaturated",g,0.910,0.129,0.045
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

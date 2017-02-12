@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:15 EST
+"Nutrient data for: 07963, Frankfurter, meat and poultry, cooked, boiled"
+Nutrient,Unit,1Value per 100 g,"1 frankfurter = 50.0g",
+Proximates
+"Water",g,55.16,27.58
+"Energy",kcal,298,149
+"Protein",g,10.31,5.16
+"Total lipid (fat)",g,26.28,13.14
+"Carbohydrate, by difference",g,4.96,2.48
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,2.70,1.35
+Minerals
+"Calcium, Ca",mg,107,54
+"Iron, Fe",mg,1.12,0.56
+"Magnesium, Mg",mg,11,6
+"Phosphorus, P",mg,180,90
+"Potassium, K",mg,323,162
+"Sodium, Na",mg,914,457
+"Zinc, Zn",mg,1.25,0.62
+Vitamins
+"Vitamin C, total ascorbic acid",mg,19.4,9.7
+"Thiamin",mg,0.044,0.022
+"Riboflavin",mg,0.145,0.072
+"Niacin",mg,2.672,1.336
+"Vitamin B-6",mg,0.067,0.034
+"Folate, DFE",µg,9,4
+"Vitamin B-12",µg,0.69,0.34
+"Vitamin A, RAE",µg,31,16
+"Vitamin A, IU",IU,103,52
+"Vitamin E (alpha-tocopherol)",mg,0.45,0.23
+"Vitamin D (D2 + D3)",µg,0.6,0.3
+"Vitamin D",IU,26,13
+"Vitamin K (phylloquinone)",µg,1.7,0.8
+Lipids
+"Fatty acids, total saturated",g,8.216,4.108
+"Fatty acids, total monounsaturated",g,10.759,5.380
+"Fatty acids, total polyunsaturated",g,5.713,2.856
+"Fatty acids, total trans",g,0.237,0.118
+"Cholesterol",mg,84,42
+Amino Acids
+Other
+"Caffeine",mg,0,0

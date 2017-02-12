@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:40 EST
+"Nutrient data for: 10875, Pork, cured, ham with natural juices, slice, bone-in, separable lean only, heated, pan-broil"
+Nutrient,Unit,1Value per 100 g,"1 serving (3 oz) = 85.0g","1 slice = 445.0g",
+Proximates
+"Water",g,65.87,55.99,293.12
+"Energy",kcal,150,128,668
+"Protein",g,27.75,23.59,123.49
+"Total lipid (fat)",g,4.38,3.72,19.49
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,12,10,53
+"Iron, Fe",mg,1.20,1.02,5.34
+"Magnesium, Mg",mg,23,20,102
+"Phosphorus, P",mg,291,247,1295
+"Potassium, K",mg,358,304,1593
+"Sodium, Na",mg,835,710,3716
+"Zinc, Zn",mg,3.03,2.58,13.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.308,0.262,1.371
+"Riboflavin",mg,0.261,0.222,1.161
+"Niacin",mg,9.010,7.659,40.094
+"Vitamin B-6",mg,0.392,0.333,1.744
+"Folate, DFE",µg,1,1,4
+"Vitamin B-12",µg,0.60,0.51,2.67
+"Vitamin A, RAE",µg,13,11,58
+"Vitamin A, IU",IU,45,38,200
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.20,1.02
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.110,0.944,4.940
+"Fatty acids, total monounsaturated",g,1.351,1.148,6.012
+"Fatty acids, total polyunsaturated",g,0.577,0.490,2.568
+"Fatty acids, total trans",g,0.019,0.016,0.085
+"Cholesterol",mg,80,68,356
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

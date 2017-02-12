@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:27 EST
+"Nutrient data for: 11412, Potatoes, french fried, steak fries, salt added in processing, frozen, oven-heated"
+Nutrient,Unit,1Value per 100 g,"10.0 strip = 133.0g",
+Proximates
+"Water",g,64.85,86.25
+"Energy",kcal,152,202
+"Protein",g,2.57,3.42
+"Total lipid (fat)",g,3.76,5.00
+"Carbohydrate, by difference",g,26.98,35.88
+"Fiber, total dietary",g,2.6,3.5
+"Sugars, total",g,0.25,0.33
+Minerals
+"Calcium, Ca",mg,10,13
+"Iron, Fe",mg,0.64,0.85
+"Magnesium, Mg",mg,23,31
+"Phosphorus, P",mg,90,120
+"Potassium, K",mg,459,610
+"Sodium, Na",mg,373,496
+"Zinc, Zn",mg,0.41,0.55
+Vitamins
+"Vitamin C, total ascorbic acid",mg,14.0,18.6
+"Thiamin",mg,0.132,0.176
+"Riboflavin",mg,0.029,0.039
+"Niacin",mg,2.240,2.979
+"Vitamin B-6",mg,0.192,0.255
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin E (alpha-tocopherol)",mg,0.08,0.11
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.3,3.1
+Lipids
+"Fatty acids, total saturated",g,0.737,0.980
+"Fatty acids, total monounsaturated",g,2.207,2.935
+"Fatty acids, total polyunsaturated",g,0.252,0.335
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(a)"Primarily retail consumer product"

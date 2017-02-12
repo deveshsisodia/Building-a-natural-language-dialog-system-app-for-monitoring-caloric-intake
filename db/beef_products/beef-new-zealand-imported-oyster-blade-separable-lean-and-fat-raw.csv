@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:44 EST
+"Nutrient data for: 23440, Beef, New Zealand, imported, oyster blade, separable lean and fat, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 113.0g",
+Proximates
+"Water",g,69.48,78.51
+"Energy",kcal,178,201
+"Protein",g,21.27,24.04
+"Total lipid (fat)",g,10.31,11.65
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,4,5
+"Iron, Fe",mg,1.89,2.14
+"Magnesium, Mg",mg,18,20
+"Phosphorus, P",mg,153,173
+"Potassium, K",mg,288,325
+"Sodium, Na",mg,57,64
+"Zinc, Zn",mg,4.46,5.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.057,0.064
+"Riboflavin",mg,0.117,0.132
+"Niacin",mg,2.293,2.591
+"Vitamin B-6",mg,0.152,0.172
+"Vitamin B-12",µg,2.24,2.53
+"Vitamin A, RAE",µg,12,14
+"Vitamin A, IU",IU,39,44
+"Vitamin E (alpha-tocopherol)",mg,0.36,0.41
+"Vitamin D (D2 + D3)",µg,0.2,0.2
+"Vitamin D",IU,7,8
+Lipids
+"Fatty acids, total saturated",g,3.815,4.311
+"Fatty acids, total monounsaturated",g,3.583,4.049
+"Fatty acids, total polyunsaturated",g,0.328,0.371
+"Fatty acids, total trans",g,0.190,0.215
+"Cholesterol",mg,56,63
+Amino Acids
+Other
+"Caffeine",mg,0,0

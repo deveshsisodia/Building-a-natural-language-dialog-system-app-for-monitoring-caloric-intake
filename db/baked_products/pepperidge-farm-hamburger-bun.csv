@@ -1,0 +1,31 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:43 EST
+"Nutrient data for: 28394, PEPPERIDGE FARM, Hamburger Bun"
+Nutrient,Unit,1Value per 100 g,"1 serving = 51.0g",
+Proximates
+"Water",g,33.30,16.98
+"Energy",kcal,278,142
+"Protein",g,0.01,0.01
+"Total lipid (fat)",g,3.71,1.89
+"Carbohydrate, by difference",g,50.00,25.50
+"Fiber, total dietary",g,1.8,0.9
+"Sugars, total",g,7.71,3.93
+Minerals
+"Calcium, Ca",mg,153,78
+"Iron, Fe",mg,2.27,1.16
+"Sodium, Na",mg,381,194
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.5
+"Thiamin",mg,0.310,0.158
+"Riboflavin",mg,0.310,0.158
+"Niacin",mg,3.270,1.668
+"Vitamin A, IU",IU,99,50
+Lipids
+"Fatty acids, total saturated",g,0.960,0.490
+"Fatty acids, total monounsaturated",g,0.710,0.362
+"Fatty acids, total polyunsaturated",g,1.840,0.938
+"Fatty acids, total trans",g,0.200,0.102
+"Cholesterol",mg,1,1
+Amino Acids
+Other

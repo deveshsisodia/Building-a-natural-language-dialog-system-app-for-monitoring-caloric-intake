@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:46 EST
+"Nutrient data for: 28372, UDI'S, Gluten Free, Soft & Hearty Whole Grain Bread"
+Nutrient,Unit,1Value per 100 g,"1 slice = 25.0g",
+Proximates
+"Water",g,32.36,8.09
+"Energy",kcal,309,77
+"Protein",g,7.25,1.81
+"Total lipid (fat)",g,9.34,2.33
+"Carbohydrate, by difference",g,49.09,12.27
+"Fiber, total dietary",g,4.9,1.2
+"Sugars, total",g,9.81,2.45
+Minerals
+"Calcium, Ca",mg,60,15
+"Iron, Fe",mg,0.76,0.19
+"Magnesium, Mg",mg,31,8
+"Phosphorus, P",mg,77,19
+"Potassium, K",mg,123,31
+"Sodium, Na",mg,510,128
+"Zinc, Zn",mg,0.58,0.14
+Vitamins
+"Thiamin",mg,0.180,0.045
+"Riboflavin",mg,0.320,0.080
+"Niacin",mg,1.410,0.352
+"Vitamin B-6",mg,0.090,0.022
+Lipids
+"Fatty acids, total saturated",g,0.266,0.067
+"Fatty acids, total monounsaturated",g,5.438,1.359
+"Fatty acids, total polyunsaturated",g,2.415,0.604
+"Fatty acids, total trans",g,0.019,0.005
+Amino Acids
+Other

@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:18 EST
+"Nutrient data for: 04642, Oil, industrial, mid-oleic, sunflower"
+Nutrient,Unit,1Value per 100 g,"1 tablespoon = 13.6g","1 teaspoon = 4.5g","1 cup = 218.0g",
+Proximates
+"Water",g,0.00,0.00,0.00,0.00
+"Energy",kcal,884,120,40,1927
+"Protein",g,0.00,0.00,0.00,0.00
+"Total lipid (fat)",g,100.00,13.60,4.50,218.00
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,0,0,0,0
+"Iron, Fe",mg,0.03,0.00,0.00,0.07
+"Magnesium, Mg",mg,0,0,0,0
+"Phosphorus, P",mg,0,0,0,0
+"Potassium, K",mg,0,0,0,0
+"Sodium, Na",mg,0,0,0,0
+"Zinc, Zn",mg,0.00,0.00,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000,0.000
+"Riboflavin",mg,0.000,0.000,0.000,0.000
+"Niacin",mg,0.000,0.000,0.000,0.000
+"Vitamin B-6",mg,0.000,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,41.08,5.59,1.85,89.55
+"Vitamin K (phylloquinone)",µg,5.4,0.7,0.2,11.8
+Lipids
+"Fatty acids, total saturated",g,9.009,1.225,0.405,19.640
+"Fatty acids, total monounsaturated",g,57.334,7.797,2.580,124.988
+"Fatty acids, total polyunsaturated",g,28.962,3.939,1.303,63.137
+"Fatty acids, total trans",g,0.219,0.030,0.010,0.477
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

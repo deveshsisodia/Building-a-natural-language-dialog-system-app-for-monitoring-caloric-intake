@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:53 EST
+"Nutrient data for: 19403, Snacks, crisped rice bar, almond"
+Nutrient,Unit,1Value per 100 g,"1 bar (1 oz) = 28.0g",
+Proximates
+"Water",g,6.70,1.88
+"Energy",kcal,458,128
+"Protein",g,7.00,1.96
+"Total lipid (fat)",g,20.40,5.71
+"Carbohydrate, by difference",g,64.60,18.09
+"Fiber, total dietary",g,3.6,1.0
+Minerals
+"Calcium, Ca",mg,74,21
+"Iron, Fe",mg,6.35,1.78
+"Magnesium, Mg",mg,71,20
+"Phosphorus, P",mg,167,47
+"Potassium, K",mg,229,64
+"Sodium, Na",mg,234,66
+"Zinc, Zn",mg,5.29,1.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,11.5,3.2
+"Thiamin",mg,1.323,0.370
+"Riboflavin",mg,1.499,0.420
+"Niacin",mg,17.635,4.938
+"Vitamin B-6",mg,1.764,0.494
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,2645,741
+Lipids
+"Fatty acids, total saturated",g,3.770,1.056
+"Fatty acids, total monounsaturated",g,7.500,2.100
+"Fatty acids, total polyunsaturated",g,7.730,2.164
+"Cholesterol",mg,0,0
+Amino Acids
+Other

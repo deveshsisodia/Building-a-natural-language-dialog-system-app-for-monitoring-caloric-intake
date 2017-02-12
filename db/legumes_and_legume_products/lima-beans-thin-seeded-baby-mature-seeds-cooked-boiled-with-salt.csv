@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:58 EST
+"Nutrient data for: 16375, Lima beans, thin seeded (baby), mature seeds, cooked, boiled, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 182.0g",
+Proximates
+"Water",g,67.15,122.21
+"Energy",kcal,126,229
+"Protein",g,8.04,14.63
+"Total lipid (fat)",g,0.38,0.69
+"Carbohydrate, by difference",g,23.31,42.42
+"Fiber, total dietary",g,7.7,14.0
+Minerals
+"Calcium, Ca",mg,29,53
+"Iron, Fe",mg,2.40,4.37
+"Magnesium, Mg",mg,53,96
+"Phosphorus, P",mg,127,231
+"Potassium, K",mg,401,730
+"Sodium, Na",mg,239,435
+"Zinc, Zn",mg,1.03,1.87
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.161,0.293
+"Riboflavin",mg,0.055,0.100
+"Niacin",mg,0.660,1.201
+"Vitamin B-6",mg,0.078,0.142
+"Folate, DFE",µg,150,273
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.088,0.160
+"Fatty acids, total monounsaturated",g,0.034,0.062
+"Fatty acids, total polyunsaturated",g,0.169,0.308
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

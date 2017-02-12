@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:32 EST
+"Nutrient data for: 21465, Fast Foods, Fried Chicken, Drumstick, meat only, skin and breading removed"
+Nutrient,Unit,1Value per 100 g,"1 drumstick, bone and skin removed = 40.0g","1 drumstick, drumstick without skin = 56.0g",
+Proximates
+"Water",g,64.24,25.70,35.97
+"Energy",kcal,172,69,96
+"Protein",g,26.24,10.50,14.69
+"Total lipid (fat)",g,7.41,2.96,4.15
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,16,6,9
+"Iron, Fe",mg,1.03,0.41,0.58
+"Magnesium, Mg",mg,24,10,13
+"Phosphorus, P",mg,211,84,118
+"Potassium, K",mg,291,116,163
+"Sodium, Na",mg,492,197,276
+"Zinc, Zn",mg,2.50,1.00,1.40
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.079,0.032,0.044
+"Riboflavin",mg,0.303,0.121,0.170
+"Niacin",mg,5.726,2.290,3.207
+"Vitamin B-6",mg,0.272,0.109,0.152
+"Folate, DFE",µg,10,4,6
+"Vitamin B-12",µg,0.74,0.30,0.41
+"Vitamin A, RAE",µg,11,4,6
+"Vitamin A, IU",IU,37,15,21
+"Vitamin E (alpha-tocopherol)",mg,0.33,0.13,0.18
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.1
+"Vitamin D",IU,5,2,3
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,2.004,0.802,1.122
+"Fatty acids, total monounsaturated",g,2.933,1.173,1.642
+"Fatty acids, total polyunsaturated",g,1.675,0.670,0.938
+"Fatty acids, total trans",g,0.074,0.030,0.041
+"Cholesterol",mg,133,53,74
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

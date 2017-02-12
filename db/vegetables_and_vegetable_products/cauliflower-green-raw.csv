@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:19 EST
+"Nutrient data for: 11965, Cauliflower, green, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 64.0g","1 floweret = 25.0g","1 head, large (6-7"" dia) = 511.0g","1 head, medium (5-6"" dia) = 431.0g","1 head, small (4"" dia) = 325.0g",
+Proximates
+"Water",g,89.79,57.47,22.45,458.83,386.99,291.82
+"Energy",kcal,31,20,8,158,134,101
+"Protein",g,2.95,1.89,0.74,15.07,12.71,9.59
+"Total lipid (fat)",g,0.30,0.19,0.07,1.53,1.29,0.97
+"Carbohydrate, by difference",g,6.09,3.90,1.52,31.12,26.25,19.79
+"Fiber, total dietary",g,3.2,2.0,0.8,16.4,13.8,10.4
+"Sugars, total",g,3.03,1.94,0.76,15.48,13.06,9.85
+Minerals
+"Calcium, Ca",mg,33,21,8,169,142,107
+"Iron, Fe",mg,0.73,0.47,0.18,3.73,3.15,2.37
+"Magnesium, Mg",mg,20,13,5,102,86,65
+"Phosphorus, P",mg,62,40,16,317,267,202
+"Potassium, K",mg,300,192,75,1533,1293,975
+"Sodium, Na",mg,23,15,6,118,99,75
+"Zinc, Zn",mg,0.64,0.41,0.16,3.27,2.76,2.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,88.1,56.4,22.0,450.2,379.7,286.3
+"Thiamin",mg,0.080,0.051,0.020,0.409,0.345,0.260
+"Riboflavin",mg,0.102,0.065,0.025,0.521,0.440,0.331
+"Niacin",mg,0.734,0.470,0.184,3.751,3.164,2.385
+"Vitamin B-6",mg,0.222,0.142,0.056,1.134,0.957,0.722
+"Folate, DFE",µg,57,36,14,291,246,185
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,8,5,2,41,34,26
+"Vitamin A, IU",IU,155,99,39,792,668,504
+"Vitamin E (alpha-tocopherol)",mg,0.04,0.03,0.01,0.20,0.17,0.13
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,20.2,12.9,5.0,103.2,87.1,65.7
+Lipids
+"Fatty acids, total saturated",g,0.047,0.030,0.012,0.240,0.203,0.153
+"Fatty acids, total monounsaturated",g,0.028,0.018,0.007,0.143,0.121,0.091
+"Fatty acids, total polyunsaturated",g,0.133,0.085,0.033,0.680,0.573,0.432
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

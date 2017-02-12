@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:37 EST
+"Nutrient data for: 05118, Chicken, roasting, light meat, meat only, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped or diced = 140.0g","1 unit (yield from 1 lb ready-to-cook chicken) = 78.0g",
+Proximates
+"Water",g,67.85,94.99,52.92
+"Energy",kcal,153,214,119
+"Protein",g,27.13,37.98,21.16
+"Total lipid (fat)",g,4.07,5.70,3.17
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,13,18,10
+"Iron, Fe",mg,1.08,1.51,0.84
+"Magnesium, Mg",mg,23,32,18
+"Phosphorus, P",mg,217,304,169
+"Potassium, K",mg,236,330,184
+"Sodium, Na",mg,51,71,40
+"Zinc, Zn",mg,0.78,1.09,0.61
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.061,0.085,0.048
+"Riboflavin",mg,0.093,0.130,0.073
+"Niacin",mg,10.469,14.657,8.166
+"Vitamin B-6",mg,0.540,0.756,0.421
+"Folate, DFE",µg,3,4,2
+"Vitamin B-12",µg,0.31,0.43,0.24
+"Vitamin A, RAE",µg,8,11,6
+"Vitamin A, IU",IU,25,35,20
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.38,0.21
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.1
+"Vitamin D",IU,5,7,4
+"Vitamin K (phylloquinone)",µg,0.3,0.4,0.2
+Lipids
+"Fatty acids, total saturated",g,1.080,1.512,0.842
+"Fatty acids, total monounsaturated",g,1.520,2.128,1.186
+"Fatty acids, total polyunsaturated",g,0.930,1.302,0.725
+"Cholesterol",mg,75,105,58
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

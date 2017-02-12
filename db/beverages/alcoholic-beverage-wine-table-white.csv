@@ -1,0 +1,47 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:19 EST
+"Nutrient data for: 14106, Alcoholic beverage, wine, table, white"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 29.4g","1 serving (5 fl oz) = 147.0g",
+Proximates
+"Water",g,86.86,25.54,127.68
+"Energy",kcal,82,24,121
+"Protein",g,0.07,0.02,0.10
+"Total lipid (fat)",g,0.00,0.00,0.00
+"Carbohydrate, by difference",g,2.60,0.76,3.82
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.96,0.28,1.41
+Minerals
+"Calcium, Ca",mg,9,3,13
+"Iron, Fe",mg,0.27,0.08,0.40
+"Magnesium, Mg",mg,10,3,15
+"Phosphorus, P",mg,18,5,26
+"Potassium, K",mg,71,21,104
+"Sodium, Na",mg,5,1,7
+"Zinc, Zn",mg,0.12,0.04,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.005,0.001,0.007
+"Riboflavin",mg,0.015,0.004,0.022
+"Niacin",mg,0.108,0.032,0.159
+"Vitamin B-6",mg,0.050,0.015,0.074
+"Folate, DFE",µg,1,0,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.4,0.1,0.6
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(b)"Late harvest wines have not been included."
+(a)"Minerals, B vitamins and vitamin C determinations were made on samples of Chardonnay."

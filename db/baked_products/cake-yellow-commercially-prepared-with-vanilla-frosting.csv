@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18141, Cake, yellow, commercially prepared, with vanilla frosting"
+Nutrient,Unit,1Value per 100 g,"1 serving = 67.0g","1 oz = 28.35g",
+Proximates
+"Water",g,22.10,14.81,6.27
+"Energy",kcal,391,262,111
+"Protein",g,2.99,2.00,0.85
+"Total lipid (fat)",g,17.91,12.00,5.08
+"Carbohydrate, by difference",g,56.20,37.65,15.93
+"Fiber, total dietary",g,0.3,0.2,0.1
+"Sugars, total",g,41.79,28.00,11.85
+Minerals
+"Calcium, Ca",mg,62,42,18
+"Iron, Fe",mg,1.07,0.72,0.30
+"Magnesium, Mg",mg,6,4,2
+"Phosphorus, P",mg,143,96,41
+"Potassium, K",mg,53,36,15
+"Sodium, Na",mg,269,180,76
+"Zinc, Zn",mg,0.25,0.17,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.100,0.067,0.028
+"Riboflavin",mg,0.070,0.047,0.020
+"Niacin",mg,0.500,0.335,0.142
+"Vitamin B-6",mg,0.043,0.029,0.012
+"Folate, DFE",µg,40,27,11
+"Vitamin B-12",µg,0.15,0.10,0.04
+"Vitamin A, RAE",µg,32,21,9
+"Vitamin A, IU",IU,108,72,31
+"Vitamin E (alpha-tocopherol)",mg,1.19,0.80,0.34
+"Vitamin D (D2 + D3)",µg,0.4,0.3,0.1
+"Vitamin D",IU,16,11,5
+"Vitamin K (phylloquinone)",µg,6.9,4.6,2.0
+Lipids
+"Fatty acids, total saturated",g,2.936,1.967,0.832
+"Fatty acids, total monounsaturated",g,7.563,5.067,2.144
+"Fatty acids, total polyunsaturated",g,6.378,4.273,1.808
+"Cholesterol",mg,75,50,21
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

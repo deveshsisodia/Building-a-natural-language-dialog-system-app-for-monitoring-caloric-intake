@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:38 EST
+"Nutrient data for: 23104, Beef, chuck, under blade pot roast or steak, boneless, separable lean and fat, trimmed to 0"" fat, select, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 steak = 732.0g","1 roast = 977.0g",
+Proximates
+"Water",g,67.76,57.60,496.00,662.02
+"Energy",kcal,187,159,1369,1827
+"Protein",g,19.20,16.32,140.54,187.58
+"Total lipid (fat)",g,12.27,10.43,89.82,119.88
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,12,10,88,117
+"Iron, Fe",mg,2.27,1.93,16.62,22.18
+"Magnesium, Mg",mg,20,17,146,195
+"Phosphorus, P",mg,188,160,1376,1837
+"Potassium, K",mg,347,295,2540,3390
+"Sodium, Na",mg,77,65,564,752
+"Zinc, Zn",mg,6.98,5.93,51.09,68.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.079,0.067,0.578,0.772
+"Riboflavin",mg,0.167,0.142,1.222,1.632
+"Niacin",mg,4.106,3.490,30.056,40.116
+"Vitamin B-6",mg,0.421,0.358,3.082,4.113
+"Folate, DFE",µg,3,3,22,29
+"Vitamin B-12",µg,2.63,2.24,19.25,25.70
+"Vitamin A, RAE",µg,4,3,29,39
+"Vitamin A, IU",IU,14,12,102,137
+"Vitamin E (alpha-tocopherol)",mg,0.17,0.14,1.24,1.66
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.7,1.0
+"Vitamin D",IU,4,3,29,39
+"Vitamin K (phylloquinone)",µg,1.5,1.3,11.0,14.7
+Lipids
+"Fatty acids, total saturated",g,5.473,4.652,40.062,53.471
+"Fatty acids, total monounsaturated",g,6.229,5.295,45.596,60.857
+"Fatty acids, total polyunsaturated",g,0.557,0.473,4.077,5.442
+"Fatty acids, total trans",g,0.807,0.686,5.907,7.884
+"Cholesterol",mg,67,57,490,655
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

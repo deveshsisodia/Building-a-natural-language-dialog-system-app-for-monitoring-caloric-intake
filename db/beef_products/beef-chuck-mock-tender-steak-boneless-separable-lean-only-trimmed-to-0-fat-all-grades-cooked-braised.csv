@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:36 EST
+"Nutrient data for: 23086, Beef, chuck, mock tender steak, boneless, separable lean only, trimmed to 0"" fat, all grades, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"1 steak = 141.0g",
+Proximates
+"Water",g,59.82,84.35
+"Energy",kcal,190,268
+"Protein",g,33.31,46.97
+"Total lipid (fat)",g,6.34,8.94
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,15,21
+"Iron, Fe",mg,3.42,4.82
+"Magnesium, Mg",mg,23,32
+"Phosphorus, P",mg,239,337
+"Potassium, K",mg,309,436
+"Sodium, Na",mg,68,96
+"Zinc, Zn",mg,10.93,15.41
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.085,0.120
+"Riboflavin",mg,0.287,0.405
+"Niacin",mg,3.880,5.471
+"Vitamin B-6",mg,0.390,0.550
+"Folate, DFE",µg,8,11
+"Vitamin B-12",µg,4.44,6.26
+"Vitamin A, RAE",µg,2,3
+"Vitamin A, IU",IU,6,8
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.16
+"Vitamin D (D2 + D3)",µg,0.1,0.1
+"Vitamin D",IU,5,7
+"Vitamin K (phylloquinone)",µg,1.6,2.3
+Lipids
+"Fatty acids, total saturated",g,2.520,3.553
+"Fatty acids, total monounsaturated",g,3.043,4.291
+"Fatty acids, total polyunsaturated",g,0.511,0.721
+"Fatty acids, total trans",g,0.282,0.398
+"Cholesterol",mg,115,162
+Amino Acids
+Other
+"Caffeine",mg,0,0

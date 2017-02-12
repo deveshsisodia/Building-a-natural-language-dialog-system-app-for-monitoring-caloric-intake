@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:08 EST
+"Nutrient data for: 01134, Egg, whole, dried, stabilized, glucose reduced"
+Nutrient,Unit,1Value per 100 g,"1 cup, sifted = 85.0g","1 tbsp = 5.0g",
+Proximates
+"Water",g,1.87,1.59,0.09
+"Energy",kcal,615,523,31
+"Protein",g,48.17,40.94,2.41
+"Total lipid (fat)",g,43.95,37.36,2.20
+"Carbohydrate, by difference",g,2.38,2.02,0.12
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,222,189,11
+"Iron, Fe",mg,8.28,7.04,0.41
+"Magnesium, Mg",mg,49,42,2
+"Phosphorus, P",mg,715,608,36
+"Potassium, K",mg,515,438,26
+"Sodium, Na",mg,548,466,27
+"Zinc, Zn",mg,5.71,4.85,0.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.325,0.276,0.016
+"Riboflavin",mg,1.232,1.047,0.062
+"Niacin",mg,0.259,0.220,0.013
+"Vitamin B-6",mg,0.420,0.357,0.021
+"Folate, DFE",µg,193,164,10
+"Vitamin B-12",µg,10.51,8.93,0.53
+"Vitamin A, RAE",µg,616,524,31
+"Vitamin A, IU",IU,2050,1742,102
+Lipids
+"Fatty acids, total saturated",g,13.198,11.218,0.660
+"Fatty acids, total monounsaturated",g,17.564,14.929,0.878
+"Fatty acids, total polyunsaturated",g,5.713,4.856,0.286
+"Cholesterol",mg,2017,1714,101
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:45 EST
+"Nutrient data for: 03022, Babyfood, GERBER, 2nd Foods, apple, carrot and squash, organic"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,83.83,
+"Energy",kcal,64,
+"Protein",g,1.10,
+"Total lipid (fat)",g,0.00,
+"Carbohydrate, by difference",g,14.82,
+"Fiber, total dietary",g,1.2,
+"Sugars, total",g,9.09,
+Minerals
+"Calcium, Ca",mg,6,
+"Iron, Fe",mg,0.15,
+"Magnesium, Mg",mg,5,
+"Phosphorus, P",mg,17,
+"Potassium, K",mg,106,
+"Sodium, Na",mg,20,
+"Zinc, Zn",mg,0.22,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2732.0,
+"Thiamin",mg,0.020,
+"Riboflavin",mg,0.036,
+"Niacin",mg,0.255,
+"Vitamin B-6",mg,0.057,
+"Folate, DFE",µg,2,
+"Vitamin B-12",µg,0.00,
+"Vitamin A, RAE",µg,21,
+"Vitamin A, IU",IU,417,
+"Vitamin E (alpha-tocopherol)",mg,0.07,
+"Vitamin D (D2 + D3)",µg,0.0,
+"Vitamin D",IU,0,
+"Vitamin K (phylloquinone)",µg,1.0,
+Lipids
+"Fatty acids, total saturated",g,0.000,
+"Fatty acids, total monounsaturated",g,0.000,
+"Fatty acids, total polyunsaturated",g,0.000,
+"Fatty acids, total trans",g,0.000,
+"Cholesterol",mg,2,
+Amino Acids
+Other
+"Caffeine",mg,0,

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:31 EST
+"Nutrient data for: 21005, Fast Foods, biscuit, with egg and sausage"
+Nutrient,Unit,1Value per 100 g,"1 item = 162.0g",
+Proximates
+"Water",g,44.48,72.06
+"Energy",kcal,312,505
+"Protein",g,11.13,18.03
+"Total lipid (fat)",g,20.77,33.65
+"Carbohydrate, by difference",g,21.05,34.10
+"Fiber, total dietary",g,0.2,0.3
+"Sugars, total",g,0.95,1.54
+Minerals
+"Calcium, Ca",mg,51,83
+"Iron, Fe",mg,1.90,3.08
+"Magnesium, Mg",mg,13,21
+"Phosphorus, P",mg,312,505
+"Potassium, K",mg,149,241
+"Sodium, Na",mg,672,1089
+"Zinc, Zn",mg,0.90,1.46
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.282,0.457
+"Riboflavin",mg,0.263,0.426
+"Niacin",mg,2.467,3.997
+"Vitamin B-6",mg,0.068,0.110
+"Folate, DFE",µg,66,107
+"Vitamin B-12",µg,0.75,1.22
+"Vitamin A, RAE",µg,43,70
+"Vitamin A, IU",IU,203,329
+"Vitamin E (alpha-tocopherol)",mg,0.95,1.54
+"Vitamin D (D2 + D3)",µg,0.5,0.8
+"Vitamin D",IU,22,36
+"Vitamin K (phylloquinone)",µg,4.4,7.1
+Lipids
+"Fatty acids, total saturated",g,6.449,10.447
+"Fatty acids, total monounsaturated",g,9.985,16.176
+"Fatty acids, total polyunsaturated",g,2.967,4.807
+"Cholesterol",mg,161,261
+Amino Acids
+Other
+"Caffeine",mg,0,0

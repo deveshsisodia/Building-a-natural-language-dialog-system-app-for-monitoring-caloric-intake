@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:22 EST
+"Nutrient data for: 14041, Beverages, NESTLE, Boost plus, nutritional drink, ready-to-drink"
+Nutrient,Unit,1Value per 100 g,"1 bottle = 237.0g",
+Proximates
+"Water",g,71.10,168.51
+"Energy",kcal,138,327
+"Protein",g,5.38,12.75
+"Total lipid (fat)",g,5.38,12.75
+"Carbohydrate, by difference",g,17.29,40.98
+"Fiber, total dietary",g,1.2,2.8
+"Sugars, total",g,8.46,20.05
+Minerals
+"Calcium, Ca",mg,135,320
+"Iron, Fe",mg,1.73,4.10
+"Magnesium, Mg",mg,38,90
+"Phosphorus, P",mg,115,273
+"Potassium, K",mg,138,327
+"Sodium, Na",mg,77,182
+"Zinc, Zn",mg,1.73,4.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,23.1,54.7
+"Thiamin",mg,0.144,0.341
+"Riboflavin",mg,0.163,0.386
+"Niacin",mg,1.537,3.643
+"Vitamin B-6",mg,0.269,0.638
+"Folate, DFE",µg,65,154
+"Vitamin B-12",µg,0.81,1.92
+"Vitamin A, RAE",µg,84,199
+"Vitamin A, IU",IU,480,1138
+"Vitamin E (alpha-tocopherol)",mg,5.19,12.30
+"Vitamin D (D2 + D3)",µg,2.3,5.5
+"Vitamin D",IU,92,218
+"Vitamin K (phylloquinone)",µg,12.3,29.2
+Lipids
+"Fatty acids, total saturated",g,0.420,0.995
+"Fatty acids, total monounsaturated",g,2.551,6.046
+"Fatty acids, total polyunsaturated",g,0.122,0.289
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,4,9
+Amino Acids
+Other
+"Caffeine",mg,0,0

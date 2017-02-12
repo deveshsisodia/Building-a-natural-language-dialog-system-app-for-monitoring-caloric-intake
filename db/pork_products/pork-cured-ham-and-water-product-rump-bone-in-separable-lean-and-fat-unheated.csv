@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:37 EST
+"Nutrient data for: 10908, Pork, cured, ham and water product, rump, bone-in, separable lean and fat, unheated"
+Nutrient,Unit,1Value per 100 g,"1 oz rump = 28.35g","1 lb rump = 453.6g",
+Proximates
+"Water",g,67.50,19.14,306.18
+"Energy",kcal,179,51,812
+"Protein",g,16.09,4.56,72.98
+"Total lipid (fat)",g,12.13,3.44,55.02
+"Carbohydrate, by difference",g,1.35,0.38,6.12
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.88,0.25,3.99
+Minerals
+"Calcium, Ca",mg,9,3,41
+"Iron, Fe",mg,0.64,0.18,2.90
+"Magnesium, Mg",mg,17,5,77
+"Phosphorus, P",mg,205,58,930
+"Potassium, K",mg,213,60,966
+"Sodium, Na",mg,990,281,4491
+"Zinc, Zn",mg,1.56,0.44,7.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.273,0.077,1.238
+"Riboflavin",mg,0.186,0.053,0.844
+"Niacin",mg,3.822,1.084,17.337
+"Vitamin B-6",mg,0.236,0.067,1.070
+"Folate, DFE",µg,1,0,5
+"Vitamin B-12",µg,0.53,0.15,2.40
+"Vitamin A, RAE",µg,10,3,45
+"Vitamin A, IU",IU,34,10,154
+"Vitamin E (alpha-tocopherol)",mg,0.28,0.08,1.27
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,3.984,1.129,18.071
+"Fatty acids, total monounsaturated",g,5.475,1.552,24.835
+"Fatty acids, total polyunsaturated",g,1.592,0.451,7.221
+"Fatty acids, total trans",g,0.096,0.027,0.435
+"Cholesterol",mg,58,16,263
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

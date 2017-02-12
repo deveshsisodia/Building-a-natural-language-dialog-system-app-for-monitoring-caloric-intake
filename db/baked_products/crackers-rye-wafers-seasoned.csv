@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:36 EST
+"Nutrient data for: 18227, Crackers, rye, wafers, seasoned"
+Nutrient,Unit,1Value per 100 g,"0.5 oz = 14.2g","1 cracker, triple = 22.0g",
+Proximates
+"Water",g,4.00,0.57,0.88
+"Energy",kcal,381,54,84
+"Protein",g,9.00,1.28,1.98
+"Total lipid (fat)",g,9.20,1.31,2.02
+"Carbohydrate, by difference",g,73.80,10.48,16.24
+"Fiber, total dietary",g,20.9,3.0,4.6
+Minerals
+"Calcium, Ca",mg,44,6,10
+"Iron, Fe",mg,3.04,0.43,0.67
+"Magnesium, Mg",mg,106,15,23
+"Phosphorus, P",mg,307,44,68
+"Potassium, K",mg,454,64,100
+"Sodium, Na",mg,887,126,195
+"Zinc, Zn",mg,2.55,0.36,0.56
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0,0.0
+"Thiamin",mg,0.316,0.045,0.070
+"Riboflavin",mg,0.223,0.032,0.049
+"Niacin",mg,2.474,0.351,0.544
+"Vitamin B-6",mg,0.190,0.027,0.042
+"Folate, DFE",µg,52,7,11
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,8,1,2
+Lipids
+"Fatty acids, total saturated",g,1.287,0.183,0.283
+"Fatty acids, total monounsaturated",g,3.270,0.464,0.719
+"Fatty acids, total polyunsaturated",g,3.608,0.512,0.794
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

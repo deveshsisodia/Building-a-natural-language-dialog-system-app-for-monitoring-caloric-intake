@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:38 EST
+"Nutrient data for: 43326, Pork, cured, ham, low sodium, lean and fat, cooked"
+Nutrient,Unit,1Value per 100 g,"1 oz, boneless = 28.35g","1 cubic inch, boneless = 17.0g",
+Proximates
+"Water",g,65.10,18.46,11.07
+"Energy",kcal,172,49,29
+"Protein",g,22.30,6.32,3.79
+"Total lipid (fat)",g,8.30,2.35,1.41
+"Carbohydrate, by difference",g,0.30,0.09,0.05
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,8,2,1
+"Iron, Fe",mg,1.37,0.39,0.23
+"Magnesium, Mg",mg,21,6,4
+"Phosphorus, P",mg,265,75,45
+"Potassium, K",mg,386,109,66
+"Sodium, Na",mg,969,275,165
+"Zinc, Zn",mg,2.55,0.72,0.43
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.730,0.207,0.124
+"Riboflavin",mg,0.310,0.088,0.053
+"Niacin",mg,5.740,1.627,0.976
+"Vitamin B-6",mg,0.330,0.094,0.056
+"Folate, DFE",µg,3,1,1
+"Vitamin B-12",µg,0.69,0.20,0.12
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.28,0.08,0.05
+"Vitamin D (D2 + D3)",µg,0.8,0.2,0.1
+"Vitamin D",IU,33,9,6
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,2.781,0.788,0.473
+"Fatty acids, total monounsaturated",g,4.002,1.135,0.680
+"Fatty acids, total polyunsaturated",g,1.013,0.287,0.172
+"Cholesterol",mg,58,16,10
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

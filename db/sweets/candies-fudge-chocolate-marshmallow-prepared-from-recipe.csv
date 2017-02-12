@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:33 EST
+"Nutrient data for: 19379, Candies, fudge, chocolate marshmallow, prepared-from-recipe"
+Nutrient,Unit,1Value per 100 g,"1 piece = 20.0g","1 recipe yield (60 pieces) = 1229.0g",
+Proximates
+"Water",g,7.82,1.56,96.11
+"Energy",kcal,453,91,5567
+"Protein",g,2.26,0.45,27.78
+"Total lipid (fat)",g,17.48,3.50,214.83
+"Carbohydrate, by difference",g,71.34,14.27,876.77
+"Fiber, total dietary",g,1.7,0.3,20.9
+"Sugars, total",g,64.06,12.81,787.30
+Minerals
+"Calcium, Ca",mg,45,9,553
+"Iron, Fe",mg,0.96,0.19,11.80
+"Magnesium, Mg",mg,36,7,442
+"Phosphorus, P",mg,67,13,823
+"Potassium, K",mg,147,29,1807
+"Sodium, Na",mg,85,17,1045
+"Zinc, Zn",mg,0.58,0.12,7.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.0,2.5
+"Thiamin",mg,0.022,0.004,0.270
+"Riboflavin",mg,0.077,0.015,0.946
+"Niacin",mg,0.163,0.033,2.003
+"Vitamin B-6",mg,0.017,0.003,0.209
+"Folate, DFE",µg,5,1,61
+"Vitamin B-12",µg,0.03,0.01,0.37
+"Vitamin A, RAE",µg,75,15,922
+"Vitamin A, IU",IU,273,55,3355
+"Vitamin E (alpha-tocopherol)",mg,0.32,0.06,3.93
+"Vitamin K (phylloquinone)",µg,2.3,0.5,28.3
+Lipids
+"Fatty acids, total saturated",g,10.669,2.134,131.122
+"Fatty acids, total monounsaturated",g,5.205,1.041,63.969
+"Fatty acids, total polyunsaturated",g,0.611,0.122,7.509
+"Fatty acids, total trans",g,0.320,0.064,3.933
+"Cholesterol",mg,25,5,307
+Amino Acids
+Other
+"Caffeine",mg,18,4,221

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08462, Cereals ready-to-eat, KASHI, ORGANIC PROMISE Autumn Wheat"
+Nutrient,Unit,1Value per 100 g,"29.0 biscuits (1 NLEA serving) = 54.0g",
+Proximates
+"Water",g,5.00,2.70
+"Energy",kcal,338,183
+"Protein",g,12.00,6.48
+"Total lipid (fat)",g,1.40,0.76
+"Carbohydrate, by difference",g,79.00,42.66
+"Fiber, total dietary",g,11.2,6.0
+"Sugars, total",g,12.40,6.70
+Minerals
+"Calcium, Ca",mg,29,16
+"Iron, Fe",mg,3.10,1.67
+"Magnesium, Mg",mg,81,44
+"Phosphorus, P",mg,225,122
+"Potassium, K",mg,342,185
+"Sodium, Na",mg,4,2
+"Zinc, Zn",mg,1.50,0.81
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.364,0.197
+"Riboflavin",mg,0.109,0.059
+"Niacin",mg,5.200,2.808
+"Vitamin B-6",mg,0.285,0.154
+"Folate, DFE",µg,36,19
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.96,0.52
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.8,1.0
+Lipids
+"Fatty acids, total saturated",g,0.300,0.162
+"Fatty acids, total monounsaturated",g,0.200,0.108
+"Fatty acids, total polyunsaturated",g,0.900,0.486
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

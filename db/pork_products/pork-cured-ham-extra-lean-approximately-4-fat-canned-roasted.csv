@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:38 EST
+"Nutrient data for: 10138, Pork, cured, ham, extra lean (approximately 4% fat), canned, roasted"
+Nutrient,Unit,1Value per 100 g,"1 cup = 140.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,69.45,97.23,59.03
+"Energy",kcal,136,190,116
+"Protein",g,21.16,29.62,17.99
+"Total lipid (fat)",g,4.88,6.83,4.15
+"Carbohydrate, by difference",g,0.52,0.73,0.44
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,6,8,5
+"Iron, Fe",mg,0.92,1.29,0.78
+"Magnesium, Mg",mg,21,29,18
+"Phosphorus, P",mg,209,293,178
+"Potassium, K",mg,348,487,296
+"Sodium, Na",mg,1135,1589,965
+"Zinc, Zn",mg,2.23,3.12,1.90
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,1.035,1.449,0.880
+"Riboflavin",mg,0.247,0.346,0.210
+"Niacin",mg,4.892,6.849,4.158
+"Vitamin B-6",mg,0.450,0.630,0.383
+"Folate, DFE",µg,5,7,4
+"Vitamin B-12",µg,0.71,0.99,0.60
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.600,2.240,1.360
+"Fatty acids, total monounsaturated",g,2.490,3.486,2.117
+"Fatty acids, total polyunsaturated",g,0.440,0.616,0.374
+"Cholesterol",mg,30,42,26
+Amino Acids
+Other

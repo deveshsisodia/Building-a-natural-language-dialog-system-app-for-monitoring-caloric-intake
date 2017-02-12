@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:33 EST
+"Nutrient data for: 05133, Chicken, capons, meat and skin and giblets and neck, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 capon = 2152.0g",
+Proximates
+"Water",g,63.66,54.11,1369.96
+"Energy",kcal,232,197,4993
+"Protein",g,18.51,15.73,398.34
+"Total lipid (fat)",g,16.90,14.36,363.69
+"Carbohydrate, by difference",g,0.08,0.07,1.72
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,11,9,237
+"Iron, Fe",mg,1.41,1.20,30.34
+"Magnesium, Mg",mg,21,18,452
+"Phosphorus, P",mg,181,154,3895
+"Potassium, K",mg,213,181,4584
+"Sodium, Na",mg,47,40,1011
+"Zinc, Zn",mg,1.32,1.12,28.41
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.6,2.2,56.0
+"Thiamin",mg,0.065,0.055,1.399
+"Riboflavin",mg,0.183,0.156,3.938
+"Niacin",mg,7.074,6.013,152.232
+"Vitamin B-6",mg,0.360,0.306,7.747
+"Folate, DFE",µg,27,23,581
+"Vitamin B-12",µg,1.01,0.86,21.74
+"Vitamin A, RAE",µg,272,231,5853
+"Vitamin A, IU",IU,905,769,19476
+Lipids
+"Fatty acids, total saturated",g,4.890,4.156,105.233
+"Fatty acids, total monounsaturated",g,7.160,6.086,154.083
+"Fatty acids, total polyunsaturated",g,3.600,3.060,77.472
+"Cholesterol",mg,87,74,1872
+Amino Acids
+Other

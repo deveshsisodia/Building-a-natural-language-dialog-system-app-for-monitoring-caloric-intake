@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:14 EST
+"Nutrient data for: 20069, Triticale"
+Nutrient,Unit,1Value per 100 g,"1 cup = 192.0g",
+Proximates
+"Water",g,10.51,20.18
+"Energy",kcal,336,645
+"Protein",g,13.05,25.06
+"Total lipid (fat)",g,2.09,4.01
+"Carbohydrate, by difference",g,72.13,138.49
+Minerals
+"Calcium, Ca",mg,37,71
+"Iron, Fe",mg,2.57,4.93
+"Magnesium, Mg",mg,130,250
+"Phosphorus, P",mg,358,687
+"Potassium, K",mg,332,637
+"Sodium, Na",mg,5,10
+"Zinc, Zn",mg,3.45,6.62
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.416,0.799
+"Riboflavin",mg,0.134,0.257
+"Niacin",mg,1.430,2.746
+"Vitamin B-6",mg,0.138,0.265
+"Folate, DFE",µg,73,140
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.90,1.73
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.366,0.703
+"Fatty acids, total monounsaturated",g,0.211,0.405
+"Fatty acids, total polyunsaturated",g,0.913,1.753
+"Cholesterol",mg,0,0
+Amino Acids
+Other

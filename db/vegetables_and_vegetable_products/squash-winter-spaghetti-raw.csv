@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:30 EST
+"Nutrient data for: 11492, Squash, winter, spaghetti, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, cubes = 101.0g",
+Proximates
+"Water",g,91.60,92.52
+"Energy",kcal,31,31
+"Protein",g,0.64,0.65
+"Total lipid (fat)",g,0.57,0.58
+"Carbohydrate, by difference",g,6.91,6.98
+"Fiber, total dietary",g,1.5,1.5
+"Sugars, total",g,2.76,2.79
+Minerals
+"Calcium, Ca",mg,23,23
+"Iron, Fe",mg,0.31,0.31
+"Magnesium, Mg",mg,12,12
+"Phosphorus, P",mg,12,12
+"Potassium, K",mg,108,109
+"Sodium, Na",mg,17,17
+"Zinc, Zn",mg,0.19,0.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.1,2.1
+"Thiamin",mg,0.037,0.037
+"Riboflavin",mg,0.018,0.018
+"Niacin",mg,0.950,0.959
+"Vitamin B-6",mg,0.101,0.102
+"Folate, DFE",µg,12,12
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,6,6
+"Vitamin A, IU",IU,120,121
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.13
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.9,0.9
+Lipids
+"Fatty acids, total saturated",g,0.117,0.118
+"Fatty acids, total monounsaturated",g,0.042,0.042
+"Fatty acids, total polyunsaturated",g,0.239,0.241
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

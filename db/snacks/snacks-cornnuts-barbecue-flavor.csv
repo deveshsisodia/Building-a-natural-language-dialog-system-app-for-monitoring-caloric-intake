@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:53 EST
+"Nutrient data for: 19401, Snacks, cornnuts, barbecue-flavor"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","2.0 oz = 57.0g",
+Proximates
+"Water",g,1.60,0.45,0.91
+"Energy",kcal,436,124,249
+"Protein",g,9.00,2.55,5.13
+"Total lipid (fat)",g,14.30,4.05,8.15
+"Carbohydrate, by difference",g,71.70,20.33,40.87
+"Fiber, total dietary",g,8.4,2.4,4.8
+Minerals
+"Calcium, Ca",mg,17,5,10
+"Iron, Fe",mg,1.70,0.48,0.97
+"Magnesium, Mg",mg,109,31,62
+"Phosphorus, P",mg,283,80,161
+"Potassium, K",mg,286,81,163
+"Sodium, Na",mg,600,170,342
+"Zinc, Zn",mg,1.88,0.53,1.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.1,0.2
+"Thiamin",mg,0.350,0.099,0.199
+"Riboflavin",mg,0.142,0.040,0.081
+"Niacin",mg,1.507,0.427,0.859
+"Vitamin B-6",mg,0.187,0.053,0.107
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,17,5,10
+"Vitamin A, IU",IU,338,96,193
+Lipids
+"Fatty acids, total saturated",g,2.580,0.731,1.471
+"Fatty acids, total monounsaturated",g,7.360,2.087,4.195
+"Fatty acids, total polyunsaturated",g,3.220,0.913,1.835
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

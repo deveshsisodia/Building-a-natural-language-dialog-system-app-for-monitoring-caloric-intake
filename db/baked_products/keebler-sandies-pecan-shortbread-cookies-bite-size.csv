@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:40 EST
+"Nutrient data for: 28128, KEEBLER, SANDIES, Pecan Shortbread Cookies, bite size"
+Nutrient,Unit,1Value per 100 g,"5.0 cookies 28 g package = 28.0g","1 package (34 g) = 34.0g",
+Proximates
+"Water",g,2.80,0.78,0.95
+"Energy",kcal,547,153,186
+"Protein",g,5.00,1.40,1.70
+"Total lipid (fat)",g,32.60,9.13,11.08
+"Carbohydrate, by difference",g,58.70,16.44,19.96
+"Fiber, total dietary",g,1.6,0.4,0.5
+"Sugars, total",g,22.50,6.30,7.65
+Minerals
+"Iron, Fe",mg,2.50,0.70,0.85
+"Magnesium, Mg",mg,17,5,6
+"Phosphorus, P",mg,64,18,22
+"Potassium, K",mg,79,22,27
+"Sodium, Na",mg,333,93,113
+"Zinc, Zn",mg,0.60,0.17,0.20
+Vitamins
+"Thiamin",mg,0.360,0.101,0.122
+"Riboflavin",mg,0.220,0.062,0.075
+"Niacin",mg,2.800,0.784,0.952
+"Vitamin B-6",mg,0.030,0.008,0.010
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin E (alpha-tocopherol)",mg,0.45,0.13,0.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,9.500,2.660,3.230
+"Fatty acids, total monounsaturated",g,9.000,2.520,3.060
+"Fatty acids, total polyunsaturated",g,11.700,3.276,3.978
+"Fatty acids, total trans",g,0.400,0.112,0.136
+"Cholesterol",mg,5,1,2
+Amino Acids
+Other

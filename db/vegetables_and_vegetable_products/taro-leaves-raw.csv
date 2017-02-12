@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:31 EST
+"Nutrient data for: 11520, Taro leaves, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 28.0g","1 leaf (11"" x 6-1/2"") = 10.0g",
+Proximates
+"Water",g,85.66,23.98,8.57
+"Energy",kcal,42,12,4
+"Protein",g,4.98,1.39,0.50
+"Total lipid (fat)",g,0.74,0.21,0.07
+"Carbohydrate, by difference",g,6.70,1.88,0.67
+"Fiber, total dietary",g,3.7,1.0,0.4
+"Sugars, total",g,3.01,0.84,0.30
+Minerals
+"Calcium, Ca",mg,107,30,11
+"Iron, Fe",mg,2.25,0.63,0.23
+"Magnesium, Mg",mg,45,13,4
+"Phosphorus, P",mg,60,17,6
+"Potassium, K",mg,648,181,65
+"Sodium, Na",mg,3,1,0
+"Zinc, Zn",mg,0.41,0.11,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,52.0,14.6,5.2
+"Thiamin",mg,0.209,0.059,0.021
+"Riboflavin",mg,0.456,0.128,0.046
+"Niacin",mg,1.513,0.424,0.151
+"Vitamin B-6",mg,0.146,0.041,0.015
+"Folate, DFE",µg,126,35,13
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,241,67,24
+"Vitamin A, IU",IU,4825,1351,482
+"Vitamin E (alpha-tocopherol)",mg,2.02,0.57,0.20
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,108.6,30.4,10.9
+Lipids
+"Fatty acids, total saturated",g,0.151,0.042,0.015
+"Fatty acids, total monounsaturated",g,0.060,0.017,0.006
+"Fatty acids, total polyunsaturated",g,0.307,0.086,0.031
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,34 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:56 EST
+"Nutrient data for: 15191, Fish, butterfish, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 25.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,66.83,16.71,56.81
+"Energy",kcal,187,47,159
+"Protein",g,22.15,5.54,18.83
+"Total lipid (fat)",g,10.28,2.57,8.74
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,28,7,24
+"Iron, Fe",mg,0.64,0.16,0.54
+"Magnesium, Mg",mg,32,8,27
+"Phosphorus, P",mg,308,77,262
+"Potassium, K",mg,481,120,409
+"Sodium, Na",mg,114,28,97
+"Zinc, Zn",mg,0.99,0.25,0.84
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.146,0.036,0.124
+"Riboflavin",mg,0.192,0.048,0.163
+"Niacin",mg,5.769,1.442,4.904
+"Vitamin B-6",mg,0.346,0.086,0.294
+"Folate, DFE",µg,17,4,14
+"Vitamin B-12",µg,1.83,0.46,1.56
+"Vitamin A, RAE",µg,33,8,28
+"Vitamin A, IU",IU,109,27,93
+Lipids
+"Cholesterol",mg,83,21,71
+Amino Acids
+Other

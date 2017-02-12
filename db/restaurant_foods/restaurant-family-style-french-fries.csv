@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:27 EST
+"Nutrient data for: 36014, Restaurant, family style, french fries"
+Nutrient,Unit,1Value per 100 g,"1 serving = 170.0g",
+Proximates
+"Water",g,43.19,73.42
+"Energy",kcal,289,491
+"Protein",g,3.49,5.93
+"Total lipid (fat)",g,14.04,23.87
+"Carbohydrate, by difference",g,37.20,63.24
+"Fiber, total dietary",g,3.9,6.6
+"Sugars, total",g,0.28,0.48
+Minerals
+"Calcium, Ca",mg,17,29
+"Iron, Fe",mg,0.91,1.55
+"Magnesium, Mg",mg,29,49
+"Phosphorus, P",mg,124,211
+"Potassium, K",mg,545,926
+"Sodium, Na",mg,357,607
+"Zinc, Zn",mg,0.51,0.87
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,1.9
+"Thiamin",mg,0.110,0.187
+"Riboflavin",mg,0.057,0.097
+"Niacin",mg,2.564,4.359
+"Vitamin B-6",mg,0.236,0.401
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.00,1.70
+"Vitamin K (phylloquinone)",µg,35.9,61.0
+Lipids
+"Fatty acids, total saturated",g,2.489,4.231
+"Fatty acids, total monounsaturated",g,3.358,5.709
+"Fatty acids, total polyunsaturated",g,6.608,11.234
+"Fatty acids, total trans",g,0.104,0.177
+"Cholesterol",mg,1,2
+Amino Acids
+Other

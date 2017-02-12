@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:25 EST
+"Nutrient data for: 14530, Whiskey sour mix, bottled, with added potassium and sodium"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 32.3g",
+Proximates
+"Water",g,78.20,25.26
+"Energy",kcal,84,27
+"Protein",g,0.10,0.03
+"Total lipid (fat)",g,0.10,0.03
+"Carbohydrate, by difference",g,21.40,6.91
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,2,1
+"Iron, Fe",mg,0.11,0.04
+"Magnesium, Mg",mg,1,0
+"Phosphorus, P",mg,6,2
+"Potassium, K",mg,7,2
+"Sodium, Na",mg,33,11
+"Zinc, Zn",mg,0.07,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.7,0.9
+"Thiamin",mg,0.013,0.004
+"Riboflavin",mg,0.010,0.003
+"Niacin",mg,0.000,0.000
+"Vitamin B-6",mg,0.000,0.000
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1,0
+"Vitamin A, IU",IU,21,7
+Lipids
+"Fatty acids, total saturated",g,0.008,0.003
+"Fatty acids, total monounsaturated",g,0.002,0.001
+"Fatty acids, total polyunsaturated",g,0.020,0.006
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

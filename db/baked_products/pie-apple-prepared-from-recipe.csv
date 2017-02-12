@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:44 EST
+"Nutrient data for: 18302, Pie, apple, prepared from recipe"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece (1/8 of 9"" dia) = 155.0g",
+Proximates
+"Water",g,47.30,13.41,73.31
+"Energy",kcal,265,75,411
+"Protein",g,2.40,0.68,3.72
+"Total lipid (fat)",g,12.50,3.54,19.38
+"Carbohydrate, by difference",g,37.10,10.52,57.51
+Minerals
+"Calcium, Ca",mg,7,2,11
+"Iron, Fe",mg,1.12,0.32,1.74
+"Magnesium, Mg",mg,7,2,11
+"Phosphorus, P",mg,28,8,43
+"Potassium, K",mg,79,22,122
+"Sodium, Na",mg,211,60,327
+"Zinc, Zn",mg,0.19,0.05,0.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.7,0.5,2.6
+"Thiamin",mg,0.148,0.042,0.229
+"Riboflavin",mg,0.107,0.030,0.166
+"Niacin",mg,1.230,0.349,1.907
+"Vitamin B-6",mg,0.032,0.009,0.050
+"Folate, DFE",µg,38,11,59
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,11,3,17
+"Vitamin A, IU",IU,58,16,90
+Lipids
+"Fatty acids, total saturated",g,3.050,0.865,4.728
+"Fatty acids, total monounsaturated",g,5.393,1.529,8.359
+"Fatty acids, total polyunsaturated",g,3.338,0.946,5.174
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

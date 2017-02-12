@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:34 EST
+"Nutrient data for: 21516, KASHI Pizza, Mushroom and Spinach, single serve, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 pizza = 152.0g",
+Proximates
+"Water",g,45.20,68.70
+"Energy",kcal,229,348
+"Protein",g,10.70,16.26
+"Total lipid (fat)",g,6.00,9.12
+"Carbohydrate, by difference",g,36.50,55.48
+"Fiber, total dietary",g,4.1,6.2
+"Sugars, total",g,2.50,3.80
+Minerals
+"Calcium, Ca",mg,109,166
+"Iron, Fe",mg,1.60,2.43
+"Phosphorus, P",mg,67,102
+"Potassium, K",mg,219,333
+"Sodium, Na",mg,337,512
+"Zinc, Zn",mg,0.40,0.61
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.200,0.304
+"Riboflavin",mg,0.200,0.304
+"Niacin",mg,2.900,4.408
+"Vitamin B-6",mg,0.040,0.061
+"Vitamin B-12",µg,0.20,0.30
+"Vitamin A, IU",IU,0,0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,2.300,3.496
+"Fatty acids, total monounsaturated",g,1.800,2.736
+"Fatty acids, total polyunsaturated",g,1.100,1.672
+"Fatty acids, total trans",g,0.100,0.152
+"Cholesterol",mg,9,14
+Amino Acids
+Other

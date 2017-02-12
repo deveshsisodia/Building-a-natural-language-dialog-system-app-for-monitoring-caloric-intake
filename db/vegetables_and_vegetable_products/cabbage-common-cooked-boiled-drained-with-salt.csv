@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:17 EST
+"Nutrient data for: 11751, Cabbage, common, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"0.5 cup, shredded = 75.0g","1 head = 1262.0g",
+Proximates
+"Water",g,92.57,69.43,1168.23
+"Energy",kcal,23,17,290
+"Protein",g,1.27,0.95,16.03
+"Total lipid (fat)",g,0.06,0.04,0.76
+"Carbohydrate, by difference",g,5.51,4.13,69.54
+"Fiber, total dietary",g,1.9,1.4,24.0
+"Sugars, total",g,2.79,2.09,35.21
+Minerals
+"Calcium, Ca",mg,48,36,606
+"Iron, Fe",mg,0.17,0.13,2.15
+"Magnesium, Mg",mg,15,11,189
+"Phosphorus, P",mg,33,25,416
+"Potassium, K",mg,196,147,2474
+"Sodium, Na",mg,255,191,3218
+"Zinc, Zn",mg,0.20,0.15,2.52
+Vitamins
+"Vitamin C, total ascorbic acid",mg,37.5,28.1,473.2
+"Thiamin",mg,0.061,0.046,0.770
+"Riboflavin",mg,0.038,0.029,0.480
+"Niacin",mg,0.248,0.186,3.130
+"Vitamin B-6",mg,0.112,0.084,1.413
+"Folate, DFE",µg,30,22,379
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,4,3,50
+"Vitamin A, IU",IU,80,60,1010
+"Vitamin E (alpha-tocopherol)",mg,0.14,0.11,1.77
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,108.7,81.5,1371.8
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.019,0.014,0.240
+"Fatty acids, total polyunsaturated",g,0.023,0.017,0.290
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

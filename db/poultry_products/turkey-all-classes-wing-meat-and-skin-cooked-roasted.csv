@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:38 EST
+"Nutrient data for: 05196, Turkey, all classes, wing, meat and skin, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"1 unit (yield from 1 lb ready-to-cook turkey) = 24.0g","1 wing, bone removed = 186.0g",
+Proximates
+"Water",g,59.49,14.28,110.65
+"Energy",kcal,229,55,426
+"Protein",g,27.38,6.57,50.93
+"Total lipid (fat)",g,12.43,2.98,23.12
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,24,6,45
+"Iron, Fe",mg,1.46,0.35,2.72
+"Magnesium, Mg",mg,25,6,46
+"Phosphorus, P",mg,197,47,366
+"Potassium, K",mg,266,64,495
+"Sodium, Na",mg,61,15,113
+"Zinc, Zn",mg,2.10,0.50,3.91
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.050,0.012,0.093
+"Riboflavin",mg,0.134,0.032,0.249
+"Niacin",mg,5.732,1.376,10.662
+"Vitamin B-6",mg,0.420,0.101,0.781
+"Folate, DFE",µg,6,1,11
+"Vitamin B-12",µg,0.34,0.08,0.63
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.17,0.04,0.32
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.2
+"Vitamin D",IU,4,1,7
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,3.390,0.814,6.305
+"Fatty acids, total monounsaturated",g,4.660,1.118,8.668
+"Fatty acids, total polyunsaturated",g,2.940,0.706,5.468
+"Cholesterol",mg,81,19,151
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

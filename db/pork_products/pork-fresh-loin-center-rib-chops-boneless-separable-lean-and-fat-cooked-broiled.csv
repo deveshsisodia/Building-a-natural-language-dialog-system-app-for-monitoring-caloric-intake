@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:44 EST
+"Nutrient data for: 10196, Pork, fresh, loin, center rib (chops), boneless, separable lean and fat, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 113 g) = 80.0g",
+Proximates
+"Water",g,53.37,45.36,42.70
+"Energy",kcal,260,221,208
+"Protein",g,27.63,23.49,22.10
+"Total lipid (fat)",g,15.76,13.40,12.61
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,28,24,22
+"Iron, Fe",mg,0.77,0.65,0.62
+"Magnesium, Mg",mg,26,22,21
+"Phosphorus, P",mg,237,201,190
+"Potassium, K",mg,401,341,321
+"Sodium, Na",mg,62,53,50
+"Zinc, Zn",mg,2.26,1.92,1.81
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.3,0.2
+"Thiamin",mg,0.834,0.709,0.667
+"Riboflavin",mg,0.300,0.255,0.240
+"Niacin",mg,4.945,4.203,3.956
+"Vitamin B-6",mg,0.371,0.315,0.297
+"Folate, DFE",µg,8,7,6
+"Vitamin B-12",µg,0.67,0.57,0.54
+"Vitamin A, RAE",µg,2,2,2
+"Vitamin A, IU",IU,7,6,6
+Lipids
+"Fatty acids, total saturated",g,5.790,4.921,4.632
+"Fatty acids, total monounsaturated",g,7.010,5.958,5.608
+"Fatty acids, total polyunsaturated",g,1.240,1.054,0.992
+"Cholesterol",mg,82,70,66
+Amino Acids
+Other

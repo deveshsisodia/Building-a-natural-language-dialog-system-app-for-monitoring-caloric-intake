@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:21 EST
+"Nutrient data for: 11621, Drumstick pods, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup slices = 118.0g",
+Proximates
+"Water",g,88.42,104.34
+"Energy",kcal,36,42
+"Protein",g,2.09,2.47
+"Total lipid (fat)",g,0.19,0.22
+"Carbohydrate, by difference",g,8.18,9.65
+"Fiber, total dietary",g,4.2,5.0
+Minerals
+"Calcium, Ca",mg,20,24
+"Iron, Fe",mg,0.45,0.53
+"Magnesium, Mg",mg,42,50
+"Phosphorus, P",mg,49,58
+"Potassium, K",mg,457,539
+"Sodium, Na",mg,43,51
+"Zinc, Zn",mg,0.42,0.50
+Vitamins
+"Vitamin C, total ascorbic acid",mg,97.0,114.5
+"Thiamin",mg,0.046,0.054
+"Riboflavin",mg,0.068,0.080
+"Niacin",mg,0.590,0.696
+"Vitamin B-6",mg,0.112,0.132
+"Folate, DFE",µg,30,35
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,4,5
+"Vitamin A, IU",IU,70,83
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.031,0.037
+"Fatty acids, total monounsaturated",g,0.097,0.114
+"Fatty acids, total polyunsaturated",g,0.003,0.004
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:34 EST
+"Nutrient data for: 18156, Cookies, fudge, cake-type (includes trolley cakes)"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cookie = 21.0g",
+Proximates
+"Water",g,11.80,3.35,2.48
+"Energy",kcal,349,99,73
+"Protein",g,5.00,1.42,1.05
+"Total lipid (fat)",g,3.70,1.05,0.78
+"Carbohydrate, by difference",g,78.30,22.20,16.44
+"Fiber, total dietary",g,2.8,0.8,0.6
+Minerals
+"Calcium, Ca",mg,34,10,7
+"Iron, Fe",mg,2.48,0.70,0.52
+"Magnesium, Mg",mg,32,9,7
+"Phosphorus, P",mg,83,24,17
+"Potassium, K",mg,138,39,29
+"Sodium, Na",mg,192,54,40
+"Zinc, Zn",mg,0.55,0.16,0.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0,0.0
+"Thiamin",mg,0.226,0.064,0.047
+"Riboflavin",mg,0.194,0.055,0.041
+"Niacin",mg,1.203,0.341,0.253
+"Vitamin B-6",mg,0.031,0.009,0.007
+"Folate, DFE",µg,67,19,14
+"Vitamin B-12",µg,0.08,0.02,0.02
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,2,1,0
+Lipids
+"Fatty acids, total saturated",g,1.112,0.315,0.234
+"Fatty acids, total monounsaturated",g,1.813,0.514,0.381
+"Fatty acids, total polyunsaturated",g,0.466,0.132,0.098
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

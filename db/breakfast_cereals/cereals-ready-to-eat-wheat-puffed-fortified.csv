@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:04 EST
+"Nutrient data for: 08157, Cereals ready-to-eat, wheat, puffed, fortified"
+Nutrient,Unit,1Value per 100 g,"1 cup = 12.0g","0.5 oz = 14.2g",
+Proximates
+"Water",g,3.00,0.36,0.43
+"Energy",kcal,364,44,52
+"Protein",g,14.70,1.76,2.09
+"Total lipid (fat)",g,1.20,0.14,0.17
+"Carbohydrate, by difference",g,79.60,9.55,11.30
+"Fiber, total dietary",g,4.4,0.5,0.6
+Minerals
+"Calcium, Ca",mg,28,3,4
+"Iron, Fe",mg,31.70,3.80,4.50
+"Magnesium, Mg",mg,145,17,21
+"Phosphorus, P",mg,355,43,50
+"Potassium, K",mg,348,42,49
+"Sodium, Na",mg,4,0,1
+"Zinc, Zn",mg,2.36,0.28,0.34
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,2.600,0.312,0.369
+"Riboflavin",mg,1.800,0.216,0.256
+"Niacin",mg,35.300,4.236,5.013
+"Vitamin B-6",mg,0.170,0.020,0.024
+"Folate, DFE",µg,32,4,5
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.200,0.024,0.028
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:40 EST
+"Nutrient data for: 23569, Beef, ground, 85% lean meat / 15% fat, patty, cooked, pan-broiled"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 patty ( yield from 1/4 lb raw meat ) = 83.0g",
+Proximates
+"Water",g,60.61,51.52,50.31
+"Energy",kcal,232,197,193
+"Protein",g,24.62,20.93,20.43
+"Total lipid (fat)",g,14.02,11.92,11.64
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,20,17,17
+"Iron, Fe",mg,2.68,2.28,2.22
+"Magnesium, Mg",mg,22,19,18
+"Phosphorus, P",mg,211,179,175
+"Potassium, K",mg,349,297,290
+"Sodium, Na",mg,79,67,66
+"Zinc, Zn",mg,6.20,5.27,5.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.043,0.037,0.036
+"Riboflavin",mg,0.177,0.150,0.147
+"Niacin",mg,5.778,4.911,4.796
+"Vitamin B-6",mg,0.367,0.312,0.305
+"Folate, DFE",µg,8,7,7
+"Vitamin B-12",µg,2.79,2.37,2.32
+"Vitamin A, RAE",µg,3,3,2
+"Vitamin A, IU",IU,10,8,8
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.11,0.11
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,2,2,2
+"Vitamin K (phylloquinone)",µg,1.5,1.3,1.2
+Lipids
+"Fatty acids, total saturated",g,5.331,4.531,4.425
+"Fatty acids, total monounsaturated",g,6.034,5.129,5.008
+"Fatty acids, total polyunsaturated",g,0.438,0.372,0.364
+"Fatty acids, total trans",g,0.615,0.523,0.510
+"Cholesterol",mg,84,71,70
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,45 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:50 EST
+"Nutrient data for: 03967, Toddler formula, MEAD JOHNSON, ENFAGROW, PREMIUM (formerly ENFAMIL, LIPIL, NEXT STEP), powder"
+Nutrient,Unit,1Value per 100 g,"1 scoop = 8.8g",
+Proximates
+"Water",g,3.00,0.26
+"Energy",kcal,501,44
+"Protein",g,13.00,1.14
+"Total lipid (fat)",g,26.90,2.37
+"Carbohydrate, by difference",g,56.00,4.93
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,53.00,4.66
+Minerals
+"Calcium, Ca",mg,600,53
+"Iron, Fe",mg,9.00,0.79
+"Magnesium, Mg",mg,40,4
+"Phosphorus, P",mg,420,37
+"Potassium, K",mg,650,57
+"Sodium, Na",mg,210,18
+"Zinc, Zn",mg,4.50,0.40
+Vitamins
+"Vitamin C, total ascorbic acid",mg,45.0,4.0
+"Thiamin",mg,0.500,0.044
+"Riboflavin",mg,0.750,0.066
+"Niacin",mg,5.300,0.466
+"Vitamin B-6",mg,0.300,0.026
+"Folate, DFE",µg,138,12
+"Vitamin B-12",µg,1.52,0.13
+"Vitamin A, RAE",µg,456,40
+"Vitamin A, IU",IU,1520,134
+"Vitamin E (alpha-tocopherol)",mg,4.50,0.40
+"Vitamin D (D2 + D3)",µg,7.5,0.7
+"Vitamin D",IU,300,26
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,11.450,1.008
+"Fatty acids, total monounsaturated",g,10.030,0.883
+"Fatty acids, total polyunsaturated",g,5.445,0.479
+"Cholesterol",mg,7,1
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(a)"Contains arachidonic acid (ARA, nutrient number 620) and docosahexaenoic acid (DHA, nutrient number 621), fatty acids found in human breast milk."

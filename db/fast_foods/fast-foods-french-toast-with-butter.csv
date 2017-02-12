@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:32 EST
+"Nutrient data for: 21023, Fast foods, french toast with butter"
+Nutrient,Unit,1Value per 100 g,"2.0 slices = 135.0g",
+Proximates
+"Water",g,50.72,68.47
+"Energy",kcal,264,356
+"Protein",g,7.66,10.34
+"Total lipid (fat)",g,13.90,18.77
+"Carbohydrate, by difference",g,26.70,36.05
+Minerals
+"Calcium, Ca",mg,54,73
+"Iron, Fe",mg,1.40,1.89
+"Magnesium, Mg",mg,12,16
+"Phosphorus, P",mg,108,146
+"Potassium, K",mg,131,177
+"Sodium, Na",mg,380,513
+"Zinc, Zn",mg,0.44,0.59
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.1
+"Thiamin",mg,0.430,0.581
+"Riboflavin",mg,0.370,0.500
+"Niacin",mg,2.900,3.915
+"Vitamin B-6",mg,0.040,0.054
+"Folate, DFE",µg,76,103
+"Vitamin B-12",µg,0.27,0.36
+"Vitamin A, RAE",µg,101,136
+"Vitamin A, IU",IU,350,472
+Lipids
+"Fatty acids, total saturated",g,5.740,7.749
+"Fatty acids, total monounsaturated",g,5.240,7.074
+"Fatty acids, total polyunsaturated",g,1.810,2.443
+"Cholesterol",mg,86,116
+Amino Acids
+Other

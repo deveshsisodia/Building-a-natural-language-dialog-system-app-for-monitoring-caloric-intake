@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:15 EST
+"Nutrient data for: 11012, Asparagus, cooked, boiled, drained"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 90.0g","4.0 spears (1/2"" base) = 60.0g",
+Proximates
+"Water",g,92.63,83.37,55.58
+"Energy",kcal,22,20,13
+"Protein",g,2.40,2.16,1.44
+"Total lipid (fat)",g,0.22,0.20,0.13
+"Carbohydrate, by difference",g,4.11,3.70,2.47
+"Fiber, total dietary",g,2.0,1.8,1.2
+"Sugars, total",g,1.30,1.17,0.78
+Minerals
+"Calcium, Ca",mg,23,21,14
+"Iron, Fe",mg,0.91,0.82,0.55
+"Magnesium, Mg",mg,14,13,8
+"Phosphorus, P",mg,54,49,32
+"Potassium, K",mg,224,202,134
+"Sodium, Na",mg,14,13,8
+"Zinc, Zn",mg,0.60,0.54,0.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.7,6.9,4.6
+"Thiamin",mg,0.162,0.146,0.097
+"Riboflavin",mg,0.139,0.125,0.083
+"Niacin",mg,1.084,0.976,0.650
+"Vitamin B-6",mg,0.079,0.071,0.047
+"Folate, DFE",µg,149,134,89
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,50,45,30
+"Vitamin A, IU",IU,1006,905,604
+"Vitamin E (alpha-tocopherol)",mg,1.50,1.35,0.90
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,50.6,45.5,30.4
+Lipids
+"Fatty acids, total saturated",g,0.048,0.043,0.029
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.105,0.094,0.063
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

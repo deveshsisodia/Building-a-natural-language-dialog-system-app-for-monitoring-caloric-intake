@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:12 EST
+"Nutrient data for: 20024, Cornmeal, yellow, self-rising, bolted, with wheat flour added, enriched"
+Nutrient,Unit,1Value per 100 g,"1 cup = 170.0g",
+Proximates
+"Water",g,10.33,17.56
+"Energy",kcal,348,592
+"Protein",g,8.41,14.30
+"Total lipid (fat)",g,2.85,4.84
+"Carbohydrate, by difference",g,73.43,124.83
+"Fiber, total dietary",g,6.3,10.7
+Minerals
+"Calcium, Ca",mg,299,508
+"Iron, Fe",mg,4.95,8.41
+"Magnesium, Mg",mg,54,92
+"Phosphorus, P",mg,651,1107
+"Potassium, K",mg,207,352
+"Sodium, Na",mg,1319,2242
+"Zinc, Zn",mg,1.39,2.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.713,1.212
+"Riboflavin",mg,0.433,0.736
+"Niacin",mg,5.202,8.843
+"Vitamin B-6",mg,0.385,0.655
+"Folate, DFE",µg,402,683
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,14,24
+"Vitamin A, IU",IU,287,488
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.400,0.680
+"Fatty acids, total monounsaturated",g,0.751,1.277
+"Fatty acids, total polyunsaturated",g,1.297,2.205
+"Cholesterol",mg,0,0
+Amino Acids
+Other

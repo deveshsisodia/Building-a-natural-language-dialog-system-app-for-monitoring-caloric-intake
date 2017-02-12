@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:33 EST
+"Nutrient data for: 21107, Fast foods, hamburger; single, regular patty; plain"
+Nutrient,Unit,1Value per 100 g,"1 sandwich = 78.0g",
+Proximates
+"Water",g,38.45,29.99
+"Energy",kcal,297,232
+"Protein",g,16.52,12.89
+"Total lipid (fat)",g,12.01,9.37
+"Carbohydrate, by difference",g,31.50,24.57
+"Fiber, total dietary",g,1.7,1.3
+"Sugars, total",g,4.88,3.81
+Minerals
+"Calcium, Ca",mg,62,48
+"Iron, Fe",mg,3.06,2.39
+"Magnesium, Mg",mg,27,21
+"Phosphorus, P",mg,134,105
+"Potassium, K",mg,197,154
+"Sodium, Na",mg,331,258
+"Zinc, Zn",mg,2.52,1.97
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.317,0.247
+"Riboflavin",mg,0.363,0.283
+"Niacin",mg,5.617,4.381
+"Vitamin B-6",mg,0.212,0.165
+"Folate, DFE",µg,100,78
+"Vitamin B-12",µg,0.89,0.69
+"Vitamin A, RAE",µg,9,7
+"Vitamin A, IU",IU,51,40
+"Vitamin E (alpha-tocopherol)",mg,0.38,0.30
+"Vitamin D (D2 + D3)",µg,0.1,0.1
+"Vitamin D",IU,2,2
+"Vitamin K (phylloquinone)",µg,4.9,3.8
+Lipids
+"Fatty acids, total saturated",g,4.493,3.505
+"Fatty acids, total monounsaturated",g,4.835,3.771
+"Fatty acids, total polyunsaturated",g,1.680,1.310
+"Fatty acids, total trans",g,0.514,0.401
+"Cholesterol",mg,33,26
+Amino Acids
+Other
+"Caffeine",mg,0,0

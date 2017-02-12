@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:34 EST
+"Nutrient data for: 18200, Cookies, oatmeal, commercially prepared, special dietary"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cookie, medium (1-5/8"" dia) = 7.0g",
+Proximates
+"Water",g,6.50,1.84,0.46
+"Energy",kcal,449,127,31
+"Protein",g,4.80,1.36,0.34
+"Total lipid (fat)",g,18.00,5.10,1.26
+"Carbohydrate, by difference",g,69.90,19.82,4.89
+"Fiber, total dietary",g,2.9,0.8,0.2
+"Sugars, total",g,31.65,8.97,2.22
+Minerals
+"Calcium, Ca",mg,54,15,4
+"Iron, Fe",mg,4.07,1.15,0.28
+"Magnesium, Mg",mg,17,5,1
+"Phosphorus, P",mg,122,35,9
+"Potassium, K",mg,175,50,12
+"Sodium, Na",mg,273,77,19
+"Zinc, Zn",mg,0.49,0.14,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.1,0.0
+"Thiamin",mg,0.460,0.130,0.032
+"Riboflavin",mg,0.211,0.060,0.015
+"Niacin",mg,3.236,0.917,0.227
+"Vitamin B-6",mg,0.026,0.007,0.002
+"Folate, DFE",µg,74,21,5
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,0,0
+"Vitamin A, IU",IU,8,2,1
+"Vitamin E (alpha-tocopherol)",mg,1.52,0.43,0.11
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,7.0,2.0,0.5
+Lipids
+"Fatty acids, total saturated",g,2.693,0.763,0.189
+"Fatty acids, total monounsaturated",g,7.550,2.140,0.528
+"Fatty acids, total polyunsaturated",g,6.784,1.923,0.475
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

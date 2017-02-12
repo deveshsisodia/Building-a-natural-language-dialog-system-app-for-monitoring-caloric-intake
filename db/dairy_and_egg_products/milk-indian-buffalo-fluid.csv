@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:09 EST
+"Nutrient data for: 01108, Milk, indian buffalo, fluid"
+Nutrient,Unit,1Value per 100 g,"1 cup = 244.0g","1 quart = 976.0g",
+Proximates
+"Water",g,83.39,203.47,813.89
+"Energy",kcal,97,237,947
+"Protein",g,3.75,9.15,36.60
+"Total lipid (fat)",g,6.89,16.81,67.25
+"Carbohydrate, by difference",g,5.18,12.64,50.56
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,169,412,1649
+"Iron, Fe",mg,0.12,0.29,1.17
+"Magnesium, Mg",mg,31,76,303
+"Phosphorus, P",mg,117,285,1142
+"Potassium, K",mg,178,434,1737
+"Sodium, Na",mg,52,127,508
+"Zinc, Zn",mg,0.22,0.54,2.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.3,5.6,22.4
+"Thiamin",mg,0.052,0.127,0.508
+"Riboflavin",mg,0.135,0.329,1.318
+"Niacin",mg,0.091,0.222,0.888
+"Vitamin B-6",mg,0.023,0.056,0.224
+"Folate, DFE",µg,6,15,59
+"Vitamin B-12",µg,0.36,0.88,3.51
+"Vitamin A, RAE",µg,53,129,517
+"Vitamin A, IU",IU,178,434,1737
+Lipids
+"Fatty acids, total saturated",g,4.597,11.217,44.867
+"Fatty acids, total monounsaturated",g,1.787,4.360,17.441
+"Fatty acids, total polyunsaturated",g,0.146,0.356,1.425
+"Cholesterol",mg,19,46,185
+Amino Acids
+Other

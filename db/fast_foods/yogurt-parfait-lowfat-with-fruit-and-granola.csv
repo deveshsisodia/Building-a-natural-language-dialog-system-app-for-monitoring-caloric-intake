@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:39 EST
+"Nutrient data for: 21463, Yogurt parfait, lowfat, with fruit and granola"
+Nutrient,Unit,1Value per 100 g,"1 item = 149.0g",
+Proximates
+"Water",g,78.98,117.68
+"Energy",kcal,84,125
+"Protein",g,3.36,5.01
+"Total lipid (fat)",g,1.01,1.50
+"Carbohydrate, by difference",g,15.86,23.63
+"Fiber, total dietary",g,1.1,1.6
+"Sugars, total",g,11.68,17.40
+Minerals
+"Calcium, Ca",mg,105,156
+"Iron, Fe",mg,0.49,0.73
+"Magnesium, Mg",mg,17,25
+"Phosphorus, P",mg,93,139
+"Potassium, K",mg,189,282
+"Sodium, Na",mg,49,73
+"Zinc, Zn",mg,0.89,1.33
+Vitamins
+"Vitamin C, total ascorbic acid",mg,14.3,21.3
+"Thiamin",mg,0.070,0.104
+"Riboflavin",mg,0.173,0.258
+"Niacin",mg,0.714,1.064
+"Vitamin B-6",mg,0.233,0.347
+"Folate, DFE",µg,77,115
+"Vitamin B-12",µg,0.88,1.31
+"Vitamin A, RAE",µg,30,45
+"Vitamin A, IU",IU,115,171
+"Vitamin E (alpha-tocopherol)",mg,0.25,0.37
+"Vitamin D (D2 + D3)",µg,0.1,0.1
+"Vitamin D",IU,4,6
+"Vitamin K (phylloquinone)",µg,1.7,2.5
+Lipids
+"Fatty acids, total saturated",g,0.525,0.782
+"Fatty acids, total monounsaturated",g,0.307,0.457
+"Fatty acids, total polyunsaturated",g,0.122,0.182
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,3,4
+Amino Acids
+Other
+"Caffeine",mg,0,0

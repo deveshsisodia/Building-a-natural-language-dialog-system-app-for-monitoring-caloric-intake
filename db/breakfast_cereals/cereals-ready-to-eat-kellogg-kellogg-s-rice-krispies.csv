@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08065, Cereals ready-to-eat, KELLOGG, KELLOGG'S RICE KRISPIES"
+Nutrient,Unit,1Value per 100 g,"1.25 cup (1 NLEA serving) = 33.0g","1 cup = 29.0g",
+Proximates
+"Water",g,5.06,1.67,1.47
+"Energy",kcal,381,126,110
+"Protein",g,6.75,2.23,1.96
+"Total lipid (fat)",g,2.05,0.68,0.59
+"Carbohydrate, by difference",g,85.05,28.07,24.66
+"Fiber, total dietary",g,0.4,0.1,0.1
+"Sugars, total",g,9.87,3.26,2.86
+Minerals
+"Calcium, Ca",mg,5,2,1
+"Iron, Fe",mg,30.42,10.04,8.82
+"Magnesium, Mg",mg,27,9,8
+"Phosphorus, P",mg,125,41,36
+"Potassium, K",mg,125,41,36
+"Sodium, Na",mg,527,174,153
+"Zinc, Zn",mg,1.39,0.46,0.40
+Vitamins
+"Vitamin C, total ascorbic acid",mg,63.3,20.9,18.4
+"Thiamin",mg,1.770,0.584,0.513
+"Riboflavin",mg,1.290,0.426,0.374
+"Niacin",mg,17.967,5.929,5.210
+"Vitamin B-6",mg,2.350,0.775,0.682
+"Folate, DFE",µg,1034,341,300
+"Vitamin B-12",µg,7.23,2.39,2.10
+"Vitamin A, RAE",µg,1136,375,329
+"Vitamin A, IU",IU,3788,1250,1099
+"Vitamin E (alpha-tocopherol)",mg,26.64,8.79,7.73
+"Vitamin D (D2 + D3)",µg,6.2,2.0,1.8
+"Vitamin D",IU,247,82,72
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.458,0.151,0.133
+"Fatty acids, total monounsaturated",g,0.593,0.196,0.172
+"Fatty acids, total polyunsaturated",g,0.626,0.207,0.182
+"Fatty acids, total trans",g,0.003,0.001,0.001
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

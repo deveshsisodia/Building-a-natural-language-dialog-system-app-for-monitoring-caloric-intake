@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08133, Cereals, oats, instant, fortified, with raisins and spice, prepared with water"
+Nutrient,Unit,1Value per 100 g,"1 cup = 240.0g","1 tbsp = 15.0g","1 packet, prepared = 158.0g",
+Proximates
+"Water",g,78.44,188.26,11.77,123.94
+"Energy",kcal,88,211,13,139
+"Protein",g,1.98,4.75,0.30,3.13
+"Total lipid (fat)",g,0.95,2.28,0.14,1.50
+"Carbohydrate, by difference",g,17.91,42.98,2.69,28.30
+"Fiber, total dietary",g,1.3,3.1,0.2,2.1
+"Sugars, total",g,8.71,20.90,1.31,13.76
+Minerals
+"Calcium, Ca",mg,56,134,8,88
+"Iron, Fe",mg,2.21,5.30,0.33,3.49
+"Magnesium, Mg",mg,19,46,3,30
+"Phosphorus, P",mg,64,154,10,101
+"Potassium, K",mg,85,204,13,134
+"Sodium, Na",mg,111,266,17,175
+"Zinc, Zn",mg,0.42,1.01,0.06,0.66
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.2,0.0,0.2
+"Thiamin",mg,0.179,0.430,0.027,0.283
+"Riboflavin",mg,0.152,0.365,0.023,0.240
+"Niacin",mg,2.343,5.623,0.351,3.702
+"Vitamin B-6",mg,0.253,0.607,0.038,0.400
+"Folate, DFE",µg,82,197,12,130
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,138,331,21,218
+"Vitamin A, IU",IU,460,1104,69,727
+"Vitamin E (alpha-tocopherol)",mg,0.09,0.22,0.01,0.14
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.5,1.2,0.1,0.8
+Lipids
+"Fatty acids, total saturated",g,0.150,0.360,0.022,0.237
+"Fatty acids, total monounsaturated",g,0.283,0.679,0.042,0.447
+"Fatty acids, total polyunsaturated",g,0.299,0.718,0.045,0.472
+"Fatty acids, total trans",g,0.008,0.019,0.001,0.013
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

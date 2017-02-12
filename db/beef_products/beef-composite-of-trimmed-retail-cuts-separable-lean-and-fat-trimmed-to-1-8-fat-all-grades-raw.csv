@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:38 EST
+"Nutrient data for: 13795, Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8"" fat, all grades, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 114.0g",
+Proximates
+"Water",g,64.81,73.88
+"Energy",kcal,214,244
+"Protein",g,20.01,22.81
+"Total lipid (fat)",g,14.42,16.44
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,17,19
+"Iron, Fe",mg,1.69,1.93
+"Magnesium, Mg",mg,19,22
+"Phosphorus, P",mg,174,198
+"Potassium, K",mg,283,323
+"Sodium, Na",mg,52,59
+"Zinc, Zn",mg,3.99,4.55
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.076,0.087
+"Riboflavin",mg,0.164,0.187
+"Niacin",mg,5.449,6.212
+"Vitamin B-6",mg,0.529,0.603
+"Folate, DFE",µg,8,9
+"Vitamin B-12",µg,1.50,1.71
+"Vitamin A, RAE",µg,2,2
+"Vitamin A, IU",IU,7,8
+"Vitamin E (alpha-tocopherol)",mg,0.28,0.32
+"Vitamin D (D2 + D3)",µg,0.1,0.1
+"Vitamin D",IU,2,2
+"Vitamin K (phylloquinone)",µg,1.5,1.7
+Lipids
+"Fatty acids, total saturated",g,6.036,6.881
+"Fatty acids, total monounsaturated",g,6.497,7.407
+"Fatty acids, total polyunsaturated",g,0.617,0.703
+"Fatty acids, total trans",g,0.464,0.529
+"Cholesterol",mg,72,82
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(a)"Estimation of the nutrient profile for this composite were based upon the market shares of 1/8? fat trim cuts."

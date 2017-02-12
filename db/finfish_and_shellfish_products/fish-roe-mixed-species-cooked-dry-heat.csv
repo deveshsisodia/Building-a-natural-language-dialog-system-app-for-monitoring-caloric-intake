@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:01 EST
+"Nutrient data for: 15207, Fish, roe, mixed species, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","3.0 oz = 85.0g",
+Proximates
+"Water",g,58.63,16.62,49.84
+"Energy",kcal,204,58,173
+"Protein",g,28.62,8.11,24.33
+"Total lipid (fat)",g,8.23,2.33,7.00
+"Carbohydrate, by difference",g,1.92,0.54,1.63
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,28,8,24
+"Iron, Fe",mg,0.77,0.22,0.65
+"Magnesium, Mg",mg,26,7,22
+"Phosphorus, P",mg,515,146,438
+"Potassium, K",mg,283,80,241
+"Sodium, Na",mg,117,33,99
+"Zinc, Zn",mg,1.28,0.36,1.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,16.4,4.6,13.9
+"Thiamin",mg,0.277,0.079,0.235
+"Riboflavin",mg,0.949,0.269,0.807
+"Niacin",mg,2.192,0.621,1.863
+"Vitamin B-6",mg,0.185,0.052,0.157
+"Folate, DFE",µg,92,26,78
+"Vitamin B-12",µg,11.54,3.27,9.81
+"Vitamin A, RAE",µg,91,26,77
+"Vitamin A, IU",IU,303,86,258
+Lipids
+"Fatty acids, total saturated",g,1.866,0.529,1.586
+"Fatty acids, total monounsaturated",g,2.129,0.604,1.810
+"Fatty acids, total polyunsaturated",g,3.404,0.965,2.893
+"Cholesterol",mg,479,136,407
+Amino Acids
+Other

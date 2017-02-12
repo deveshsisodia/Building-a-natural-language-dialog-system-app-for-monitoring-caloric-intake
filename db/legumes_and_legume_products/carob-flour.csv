@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:57 EST
+"Nutrient data for: 16055, Carob flour"
+Nutrient,Unit,1Value per 100 g,"1 cup = 103.0g","1 tbsp = 6.0g",
+Proximates
+"Water",g,3.58,3.69,0.21
+"Energy",kcal,222,229,13
+"Protein",g,4.62,4.76,0.28
+"Total lipid (fat)",g,0.65,0.67,0.04
+"Carbohydrate, by difference",g,88.88,91.55,5.33
+"Fiber, total dietary",g,39.8,41.0,2.4
+"Sugars, total",g,49.08,50.55,2.94
+Minerals
+"Calcium, Ca",mg,348,358,21
+"Iron, Fe",mg,2.94,3.03,0.18
+"Magnesium, Mg",mg,54,56,3
+"Phosphorus, P",mg,79,81,5
+"Potassium, K",mg,827,852,50
+"Sodium, Na",mg,35,36,2
+"Zinc, Zn",mg,0.92,0.95,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.2,0.0
+"Thiamin",mg,0.053,0.055,0.003
+"Riboflavin",mg,0.461,0.475,0.028
+"Niacin",mg,1.897,1.954,0.114
+"Vitamin B-6",mg,0.366,0.377,0.022
+"Folate, DFE",µg,29,30,2
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,1,0
+"Vitamin A, IU",IU,14,14,1
+"Vitamin E (alpha-tocopherol)",mg,0.63,0.65,0.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.090,0.093,0.005
+"Fatty acids, total monounsaturated",g,0.197,0.203,0.012
+"Fatty acids, total polyunsaturated",g,0.216,0.222,0.013
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

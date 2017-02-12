@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:27 EST
+"Nutrient data for: 36622, Restaurant, Chinese, sweet and sour pork"
+Nutrient,Unit,1Value per 100 g,"1 order = 609.0g","3.0 pieces = 42.0g",
+Proximates
+"Water",g,50.84,309.62,21.35
+"Energy",kcal,270,1644,113
+"Protein",g,8.91,54.26,3.74
+"Total lipid (fat)",g,15.66,95.37,6.58
+"Carbohydrate, by difference",g,23.34,142.14,9.80
+"Fiber, total dietary",g,1.0,6.1,0.4
+"Sugars, total",g,10.34,62.97,4.34
+Minerals
+"Calcium, Ca",mg,46,280,19
+"Iron, Fe",mg,3.07,18.70,1.29
+"Magnesium, Mg",mg,13,79,5
+"Phosphorus, P",mg,133,810,56
+"Potassium, K",mg,152,926,64
+"Sodium, Na",mg,304,1851,128
+"Zinc, Zn",mg,1.07,6.52,0.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.3,14.0,1.0
+"Thiamin",mg,0.235,1.431,0.099
+"Riboflavin",mg,0.103,0.627,0.043
+"Niacin",mg,2.112,12.862,0.887
+"Vitamin B-6",mg,0.170,1.035,0.071
+"Vitamin B-12",µg,0.19,1.16,0.08
+"Vitamin A, RAE",µg,29,177,12
+"Vitamin A, IU",IU,553,3368,232
+"Vitamin E (alpha-tocopherol)",mg,0.89,5.42,0.37
+"Vitamin K (phylloquinone)",µg,27.9,169.9,11.7
+Lipids
+"Fatty acids, total saturated",g,2.680,16.321,1.126
+"Fatty acids, total monounsaturated",g,3.527,21.479,1.481
+"Fatty acids, total polyunsaturated",g,7.116,43.336,2.989
+"Fatty acids, total trans",g,0.087,0.530,0.037
+"Cholesterol",mg,24,146,10
+Amino Acids
+Other
+Footnotes
+(b)"Ingredients and amount of breading and sauce vary by restaurant."
+(a)"Rice was not included in analyses."

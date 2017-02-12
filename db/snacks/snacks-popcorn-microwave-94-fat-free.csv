@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:54 EST
+"Nutrient data for: 25000, Snacks, popcorn, microwave, 94% fat free"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,4.22,1.20
+"Energy",kcal,402,114
+"Protein",g,10.72,3.04
+"Total lipid (fat)",g,6.10,1.73
+"Carbohydrate, by difference",g,76.04,21.56
+"Fiber, total dietary",g,13.6,3.9
+"Sugars, total",g,0.65,0.18
+Minerals
+"Calcium, Ca",mg,14,4
+"Iron, Fe",mg,2.87,0.81
+"Magnesium, Mg",mg,124,35
+"Phosphorus, P",mg,304,86
+"Potassium, K",mg,284,81
+"Sodium, Na",mg,571,162
+"Zinc, Zn",mg,2.80,0.79
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.070,0.020
+"Riboflavin",mg,0.151,0.043
+"Niacin",mg,2.099,0.595
+"Vitamin B-6",mg,0.210,0.060
+"Folate, DFE",µg,18,5
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,13,4
+"Vitamin A, IU",IU,264,75
+"Vitamin E (alpha-tocopherol)",mg,0.41,0.12
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.1,0.3
+Lipids
+"Fatty acids, total saturated",g,1.184,0.336
+"Fatty acids, total monounsaturated",g,2.767,0.784
+"Fatty acids, total polyunsaturated",g,2.216,0.628
+"Fatty acids, total trans",g,0.885,0.251
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

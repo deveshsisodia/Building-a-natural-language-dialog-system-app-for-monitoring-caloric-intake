@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18119, Cake, pineapple upside-down, prepared from recipe"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece (1/9 of 8"" square) = 115.0g",
+Proximates
+"Water",g,32.30,9.16,37.14
+"Energy",kcal,319,90,367
+"Protein",g,3.50,0.99,4.03
+"Total lipid (fat)",g,12.10,3.43,13.91
+"Carbohydrate, by difference",g,50.50,14.32,58.08
+"Fiber, total dietary",g,0.8,0.2,0.9
+Minerals
+"Calcium, Ca",mg,120,34,138
+"Iron, Fe",mg,1.48,0.42,1.70
+"Magnesium, Mg",mg,13,4,15
+"Phosphorus, P",mg,82,23,94
+"Potassium, K",mg,112,32,129
+"Sodium, Na",mg,319,90,367
+"Zinc, Zn",mg,0.31,0.09,0.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.2,0.3,1.4
+"Thiamin",mg,0.153,0.043,0.176
+"Riboflavin",mg,0.156,0.044,0.179
+"Niacin",mg,1.190,0.337,1.369
+"Vitamin B-6",mg,0.034,0.010,0.039
+"Folate, DFE",µg,39,11,45
+"Vitamin B-12",µg,0.08,0.02,0.09
+"Vitamin A, RAE",µg,62,18,71
+"Vitamin A, IU",IU,253,72,291
+Lipids
+"Fatty acids, total saturated",g,2.915,0.826,3.352
+"Fatty acids, total monounsaturated",g,5.194,1.472,5.973
+"Fatty acids, total polyunsaturated",g,3.282,0.930,3.774
+"Cholesterol",mg,22,6,25
+Amino Acids
+Other

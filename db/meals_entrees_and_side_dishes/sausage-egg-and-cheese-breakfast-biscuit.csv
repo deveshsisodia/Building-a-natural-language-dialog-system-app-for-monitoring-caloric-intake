@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:26 EST
+"Nutrient data for: 32032, Sausage, egg and cheese breakfast biscuit"
+Nutrient,Unit,1Value per 100 g,"1 biscuit = 126.0g","1 box = 526.0g",
+Proximates
+"Water",g,44.12,55.59,232.07
+"Energy",kcal,324,408,1704
+"Protein",g,9.54,12.02,50.18
+"Total lipid (fat)",g,22.13,27.88,116.40
+"Carbohydrate, by difference",g,21.57,27.18,113.46
+"Fiber, total dietary",g,2.0,2.5,10.5
+"Sugars, total",g,3.10,3.91,16.31
+Minerals
+"Calcium, Ca",mg,136,171,715
+"Iron, Fe",mg,1.85,2.33,9.73
+"Magnesium, Mg",mg,16,20,84
+"Phosphorus, P",mg,298,375,1567
+"Potassium, K",mg,269,339,1415
+"Sodium, Na",mg,591,745,3109
+"Zinc, Zn",mg,0.99,1.25,5.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.1,0.5
+"Thiamin",mg,0.245,0.309,1.289
+"Riboflavin",mg,0.320,0.403,1.683
+"Niacin",mg,2.183,2.751,11.483
+"Vitamin B-6",mg,0.123,0.155,0.647
+"Folate, DFE",µg,78,98,410
+"Vitamin B-12",µg,0.59,0.74,3.10
+"Vitamin A, RAE",µg,176,222,926
+"Vitamin A, IU",IU,632,796,3324
+"Vitamin E (alpha-tocopherol)",mg,1.56,1.97,8.21
+"Vitamin D (D2 + D3)",µg,0.7,0.9,3.7
+"Vitamin D",IU,27,34,142
+"Vitamin K (phylloquinone)",µg,1.8,2.3,9.5
+Lipids
+"Fatty acids, total saturated",g,8.595,10.830,45.210
+"Fatty acids, total monounsaturated",g,8.539,10.759,44.915
+"Fatty acids, total polyunsaturated",g,3.881,4.890,20.414
+"Fatty acids, total trans",g,0.177,0.223,0.931
+"Cholesterol",mg,78,98,410
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

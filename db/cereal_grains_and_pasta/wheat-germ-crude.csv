@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:15 EST
+"Nutrient data for: 20078, Wheat germ, crude"
+Nutrient,Unit,1Value per 100 g,"1 cup = 115.0g",
+Proximates
+"Water",g,11.12,12.79
+"Energy",kcal,360,414
+"Protein",g,23.15,26.62
+"Total lipid (fat)",g,9.72,11.18
+"Carbohydrate, by difference",g,51.80,59.57
+"Fiber, total dietary",g,13.2,15.2
+Minerals
+"Calcium, Ca",mg,39,45
+"Iron, Fe",mg,6.26,7.20
+"Magnesium, Mg",mg,239,275
+"Phosphorus, P",mg,842,968
+"Potassium, K",mg,892,1026
+"Sodium, Na",mg,12,14
+"Zinc, Zn",mg,12.29,14.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,1.882,2.164
+"Riboflavin",mg,0.499,0.574
+"Niacin",mg,6.813,7.835
+"Vitamin B-6",mg,1.300,1.495
+"Folate, DFE",µg,281,323
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.665,1.915
+"Fatty acids, total monounsaturated",g,1.365,1.570
+"Fatty acids, total polyunsaturated",g,6.010,6.912
+"Cholesterol",mg,0,0
+Amino Acids
+Other

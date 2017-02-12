@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:29 EST
+"Nutrient data for: 35205, Stinging Nettles, blanched (Northern Plains Indians)"
+Nutrient,Unit,1Value per 100 g,"1 cup = 89.0g",
+Proximates
+"Water",g,87.67,78.03
+"Energy",kcal,42,37
+"Protein",g,2.71,2.41
+"Total lipid (fat)",g,0.11,0.10
+"Carbohydrate, by difference",g,7.49,6.67
+"Fiber, total dietary",g,6.9,6.1
+"Sugars, total",g,0.25,0.22
+Minerals
+"Calcium, Ca",mg,481,428
+"Iron, Fe",mg,1.64,1.46
+"Magnesium, Mg",mg,57,51
+"Phosphorus, P",mg,71,63
+"Potassium, K",mg,334,297
+"Sodium, Na",mg,4,4
+"Zinc, Zn",mg,0.34,0.30
+Vitamins
+"Thiamin",mg,0.008,0.007
+"Riboflavin",mg,0.160,0.142
+"Niacin",mg,0.388,0.345
+"Vitamin B-6",mg,0.103,0.092
+"Folate, DFE",µg,14,12
+"Vitamin A, RAE",µg,101,90
+"Vitamin A, IU",IU,2011,1790
+"Vitamin K (phylloquinone)",µg,498.6,443.8
+Lipids
+Amino Acids
+Other
+Footnotes
+(a)"Includes only 5-methyl tetrahydrofolate (THF)."

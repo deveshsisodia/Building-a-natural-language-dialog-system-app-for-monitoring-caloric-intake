@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18128, Cake, snack cakes, creme-filled, sponge"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cake = 42.0g",
+Proximates
+"Water",g,19.60,5.56,8.23
+"Energy",kcal,374,106,157
+"Protein",g,3.47,0.98,1.46
+"Total lipid (fat)",g,11.54,3.27,4.85
+"Carbohydrate, by difference",g,64.03,18.15,26.89
+"Fiber, total dietary",g,1.0,0.3,0.4
+"Sugars, total",g,37.30,10.57,15.67
+Minerals
+"Calcium, Ca",mg,24,7,10
+"Iron, Fe",mg,1.36,0.39,0.57
+"Magnesium, Mg",mg,8,2,3
+"Phosphorus, P",mg,185,52,78
+"Potassium, K",mg,71,20,30
+"Sodium, Na",mg,470,133,197
+"Zinc, Zn",mg,0.60,0.17,0.25
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0,0.0
+"Thiamin",mg,0.181,0.051,0.076
+"Riboflavin",mg,0.168,0.048,0.071
+"Niacin",mg,1.549,0.439,0.651
+"Vitamin B-6",mg,0.000,0.000,0.000
+"Folate, DFE",µg,54,15,23
+"Vitamin B-12",µg,0.19,0.05,0.08
+"Vitamin A, RAE",µg,5,1,2
+"Vitamin A, IU",IU,17,5,7
+"Vitamin E (alpha-tocopherol)",mg,0.62,0.18,0.26
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.0
+"Vitamin D",IU,4,1,2
+"Vitamin K (phylloquinone)",µg,9.7,2.7,4.1
+Lipids
+"Fatty acids, total saturated",g,4.139,1.173,1.738
+"Fatty acids, total monounsaturated",g,4.906,1.391,2.061
+"Fatty acids, total polyunsaturated",g,1.860,0.527,0.781
+"Fatty acids, total trans",g,1.621,0.460,0.681
+"Cholesterol",mg,41,12,17
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

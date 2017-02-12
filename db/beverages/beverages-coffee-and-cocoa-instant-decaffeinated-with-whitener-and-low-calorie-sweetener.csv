@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:21 EST
+"Nutrient data for: 14204, Beverages, coffee and cocoa, instant, decaffeinated, with whitener and low calorie sweetener"
+Nutrient,Unit,1Value per 100 g,"1 tsp dry = 6.4g",
+Proximates
+"Water",g,3.10,0.20
+"Energy",kcal,440,28
+"Protein",g,9.00,0.58
+"Total lipid (fat)",g,13.21,0.85
+"Carbohydrate, by difference",g,71.40,4.57
+"Fiber, total dietary",g,4.8,0.3
+"Sugars, total",g,34.98,2.24
+Minerals
+"Calcium, Ca",mg,60,4
+"Iron, Fe",mg,3.06,0.20
+"Magnesium, Mg",mg,122,8
+"Phosphorus, P",mg,451,29
+"Potassium, K",mg,1856,119
+"Sodium, Na",mg,500,32
+"Zinc, Zn",mg,1.01,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.021,0.001
+"Riboflavin",mg,0.109,0.007
+"Niacin",mg,4.655,0.298
+"Vitamin B-6",mg,0.030,0.002
+"Folate, DFE",µg,5,0
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,4,0
+"Vitamin E (alpha-tocopherol)",mg,0.09,0.01
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.7,0.1
+Lipids
+"Fatty acids, total saturated",g,11.376,0.728
+"Fatty acids, total monounsaturated",g,0.954,0.061
+"Fatty acids, total polyunsaturated",g,0.349,0.022
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,25,2

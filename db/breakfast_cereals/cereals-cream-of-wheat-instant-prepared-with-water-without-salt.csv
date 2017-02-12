@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:58 EST
+"Nutrient data for: 08107, Cereals, CREAM OF WHEAT, instant, prepared with water, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 241.0g","1 tbsp = 15.0g","0.75 cup = 181.0g",
+Proximates
+"Water",g,84.40,203.40,12.66,152.76
+"Energy",kcal,62,149,9,112
+"Protein",g,1.84,4.43,0.28,3.33
+"Total lipid (fat)",g,0.24,0.58,0.04,0.43
+"Carbohydrate, by difference",g,13.08,31.52,1.96,23.67
+"Fiber, total dietary",g,0.6,1.4,0.1,1.1
+"Sugars, total",g,0.07,0.17,0.01,0.13
+Minerals
+"Calcium, Ca",mg,64,154,10,116
+"Iron, Fe",mg,4.96,11.95,0.74,8.98
+"Magnesium, Mg",mg,6,14,1,11
+"Phosphorus, P",mg,18,43,3,33
+"Potassium, K",mg,20,48,3,36
+"Sodium, Na",mg,102,246,15,185
+"Zinc, Zn",mg,0.17,0.41,0.03,0.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.232,0.559,0.035,0.420
+"Riboflavin",mg,0.210,0.506,0.032,0.380
+"Niacin",mg,3.093,7.454,0.464,5.598
+"Vitamin B-6",mg,0.309,0.745,0.046,0.559
+"Folate, DFE",µg,101,243,15,183
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,232,559,35,420
+"Vitamin A, IU",IU,773,1863,116,1399
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.05,0.00,0.04
+"Vitamin K (phylloquinone)",µg,0.1,0.2,0.0,0.2
+Lipids
+"Fatty acids, total saturated",g,0.038,0.092,0.006,0.069
+"Fatty acids, total monounsaturated",g,0.033,0.080,0.005,0.060
+"Fatty acids, total polyunsaturated",g,0.134,0.323,0.020,0.243
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

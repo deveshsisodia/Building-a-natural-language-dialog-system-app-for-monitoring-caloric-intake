@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:18 EST
+"Nutrient data for: 14017, Alcoholic beverage, pina colada, prepared-from-recipe"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 31.4g","1 cocktail (4.5 fl oz) = 141.0g",
+Proximates
+"Water",g,64.99,20.41,91.64
+"Energy",kcal,174,55,245
+"Protein",g,0.42,0.13,0.59
+"Total lipid (fat)",g,1.88,0.59,2.65
+"Carbohydrate, by difference",g,22.66,7.12,31.95
+"Fiber, total dietary",g,0.3,0.1,0.4
+"Sugars, total",g,22.33,7.01,31.49
+Minerals
+"Calcium, Ca",mg,8,3,11
+"Iron, Fe",mg,0.21,0.07,0.30
+"Magnesium, Mg",mg,8,3,11
+"Phosphorus, P",mg,7,2,10
+"Potassium, K",mg,71,22,100
+"Sodium, Na",mg,6,2,8
+"Zinc, Zn",mg,0.13,0.04,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.9,1.5,6.9
+"Thiamin",mg,0.029,0.009,0.041
+"Riboflavin",mg,0.017,0.005,0.024
+"Niacin",mg,0.118,0.037,0.166
+"Vitamin B-6",mg,0.045,0.014,0.063
+"Folate, DFE",µg,12,4,17
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,2,1,3
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.01,0.03
+"Vitamin K (phylloquinone)",µg,0.1,0.0,0.1
+Lipids
+"Fatty acids, total saturated",g,1.636,0.514,2.307
+"Fatty acids, total monounsaturated",g,0.082,0.026,0.116
+"Fatty acids, total polyunsaturated",g,0.033,0.010,0.047
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

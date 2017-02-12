@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:58 EST
+"Nutrient data for: 16077, Lupins, mature seeds, cooked, boiled, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 166.0g",
+Proximates
+"Water",g,71.08,117.99
+"Energy",kcal,119,198
+"Protein",g,15.57,25.85
+"Total lipid (fat)",g,2.92,4.85
+"Carbohydrate, by difference",g,9.88,16.40
+"Fiber, total dietary",g,2.8,4.6
+Minerals
+"Calcium, Ca",mg,51,85
+"Iron, Fe",mg,1.20,1.99
+"Magnesium, Mg",mg,54,90
+"Phosphorus, P",mg,128,212
+"Potassium, K",mg,245,407
+"Sodium, Na",mg,4,7
+"Zinc, Zn",mg,1.38,2.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,1.8
+"Thiamin",mg,0.134,0.222
+"Riboflavin",mg,0.053,0.088
+"Niacin",mg,0.495,0.822
+"Vitamin B-6",mg,0.009,0.015
+"Folate, DFE",µg,59,98
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,7,12
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.346,0.574
+"Fatty acids, total monounsaturated",g,1.180,1.959
+"Fatty acids, total polyunsaturated",g,0.730,1.212
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

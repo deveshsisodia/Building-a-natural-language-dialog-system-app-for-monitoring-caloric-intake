@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:44 EST
+"Nutrient data for: 18323, Pie, peach"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece (1/6 of 8"" pie) = 117.0g",
+Proximates
+"Water",g,54.40,15.42,63.65
+"Energy",kcal,224,64,262
+"Protein",g,1.90,0.54,2.22
+"Total lipid (fat)",g,10.00,2.83,11.70
+"Carbohydrate, by difference",g,32.90,9.33,38.49
+"Fiber, total dietary",g,0.8,0.2,0.9
+"Sugars, total",g,16.23,4.60,18.99
+Minerals
+"Calcium, Ca",mg,8,2,9
+"Iron, Fe",mg,0.50,0.14,0.58
+"Magnesium, Mg",mg,6,2,7
+"Phosphorus, P",mg,22,6,26
+"Potassium, K",mg,125,35,146
+"Sodium, Na",mg,217,62,254
+"Zinc, Zn",mg,0.09,0.03,0.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,0.3,1.1
+"Thiamin",mg,0.061,0.017,0.071
+"Riboflavin",mg,0.033,0.009,0.039
+"Niacin",mg,0.200,0.057,0.234
+"Vitamin B-6",mg,0.023,0.007,0.027
+"Folate, DFE",µg,46,13,54
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,10,3,12
+"Vitamin A, IU",IU,140,40,164
+"Vitamin E (alpha-tocopherol)",mg,0.94,0.27,1.10
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,3.3,0.9,3.9
+Lipids
+"Fatty acids, total saturated",g,1.508,0.428,1.764
+"Fatty acids, total monounsaturated",g,4.241,1.202,4.962
+"Fatty acids, total polyunsaturated",g,3.749,1.063,4.386
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

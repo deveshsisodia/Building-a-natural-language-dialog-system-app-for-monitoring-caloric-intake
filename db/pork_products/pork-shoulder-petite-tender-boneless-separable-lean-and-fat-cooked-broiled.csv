@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:50 EST
+"Nutrient data for: 10960, Pork, shoulder, petite tender, boneless, separable lean and fat, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"1 piece = 92.0g",
+Proximates
+"Water",g,68.70,63.20
+"Energy",kcal,155,143
+"Protein",g,27.47,25.27
+"Total lipid (fat)",g,4.23,3.89
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,8,7
+"Iron, Fe",mg,1.25,1.15
+"Magnesium, Mg",mg,27,25
+"Phosphorus, P",mg,254,234
+"Potassium, K",mg,415,382
+"Sodium, Na",mg,53,49
+"Zinc, Zn",mg,2.74,2.52
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.733,0.674
+"Riboflavin",mg,0.465,0.428
+"Niacin",mg,6.345,5.837
+"Vitamin B-6",mg,0.594,0.546
+"Folate, DFE",µg,1,1
+"Vitamin B-12",µg,0.76,0.70
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.10,0.09
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.322,1.216
+"Fatty acids, total monounsaturated",g,1.724,1.586
+"Fatty acids, total polyunsaturated",g,0.616,0.567
+"Fatty acids, total trans",g,0.022,0.020
+"Cholesterol",mg,82,75
+Amino Acids
+Other
+"Caffeine",mg,0,0

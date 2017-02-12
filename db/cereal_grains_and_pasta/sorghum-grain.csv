@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:14 EST
+"Nutrient data for: 20067, Sorghum grain"
+Nutrient,Unit,1Value per 100 g,"1 cup = 192.0g",
+Proximates
+"Water",g,12.40,23.81
+"Energy",kcal,329,632
+"Protein",g,10.62,20.39
+"Total lipid (fat)",g,3.46,6.64
+"Carbohydrate, by difference",g,72.09,138.41
+"Fiber, total dietary",g,6.7,12.9
+"Sugars, total",g,2.53,4.86
+Minerals
+"Calcium, Ca",mg,13,25
+"Iron, Fe",mg,3.36,6.45
+"Magnesium, Mg",mg,165,317
+"Phosphorus, P",mg,289,555
+"Potassium, K",mg,363,697
+"Sodium, Na",mg,2,4
+"Zinc, Zn",mg,1.67,3.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.332,0.637
+"Riboflavin",mg,0.096,0.184
+"Niacin",mg,3.688,7.081
+"Vitamin B-6",mg,0.443,0.851
+"Folate, DFE",µg,20,38
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.50,0.96
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.610,1.171
+"Fatty acids, total monounsaturated",g,1.131,2.172
+"Fatty acids, total polyunsaturated",g,1.558,2.991
+"Fatty acids, total trans",g,0.005,0.010
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+Footnotes
+(a)"Total dietary fiber value is for white sorghum.  Total dietary fiber values for other types of sorghum range from 8.8 to 11.1 g/100g."

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:42 EST
+"Nutrient data for: 10944, Pork, fresh, enhanced, loin, tenderloin, separable lean only, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,76.91,65.37
+"Energy",kcal,106,90
+"Protein",g,20.39,17.33
+"Total lipid (fat)",g,2.09,1.78
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,4,3
+"Iron, Fe",mg,0.92,0.78
+"Magnesium, Mg",mg,23,20
+"Phosphorus, P",mg,290,246
+"Potassium, K",mg,527,448
+"Sodium, Na",mg,243,207
+"Zinc, Zn",mg,1.73,1.47
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.757,0.643
+"Riboflavin",mg,0.337,0.286
+"Niacin",mg,6.450,5.482
+"Vitamin B-6",mg,0.756,0.643
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,0.50,0.42
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.21,0.18
+"Vitamin D (D2 + D3)",µg,0.2,0.2
+"Vitamin D",IU,8,7
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.671,0.570
+"Fatty acids, total monounsaturated",g,0.762,0.648
+"Fatty acids, total polyunsaturated",g,0.352,0.299
+"Fatty acids, total trans",g,0.020,0.017
+"Cholesterol",mg,48,41
+Amino Acids
+Other
+"Caffeine",mg,0,0

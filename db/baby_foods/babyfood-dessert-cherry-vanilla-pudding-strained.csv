@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:42 EST
+"Nutrient data for: 03224, Babyfood, dessert, cherry vanilla pudding, strained"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 jar = 113.0g",
+Proximates
+"Water",g,81.50,23.11,92.09
+"Energy",kcal,68,19,77
+"Protein",g,0.20,0.06,0.23
+"Total lipid (fat)",g,0.30,0.09,0.34
+"Carbohydrate, by difference",g,17.80,5.05,20.11
+"Fiber, total dietary",g,0.3,0.1,0.3
+"Sugars, total",g,9.15,2.59,10.34
+Minerals
+"Calcium, Ca",mg,5,1,6
+"Iron, Fe",mg,0.19,0.05,0.21
+"Magnesium, Mg",mg,2,1,2
+"Phosphorus, P",mg,7,2,8
+"Potassium, K",mg,34,10,38
+"Sodium, Na",mg,0,0,0
+"Zinc, Zn",mg,0.04,0.01,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,0.3,1.2
+"Thiamin",mg,0.008,0.002,0.009
+"Riboflavin",mg,0.011,0.003,0.012
+"Niacin",mg,0.038,0.011,0.043
+"Vitamin B-6",mg,0.011,0.003,0.012
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.01,0.00,0.01
+"Vitamin A, RAE",µg,18,5,20
+"Vitamin A, IU",IU,261,74,295
+"Vitamin E (alpha-tocopherol)",mg,0.01,0.00,0.01
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,1,0,1
+"Vitamin K (phylloquinone)",µg,0.2,0.1,0.2
+Lipids
+"Fatty acids, total saturated",g,0.087,0.025,0.098
+"Fatty acids, total monounsaturated",g,0.105,0.030,0.119
+"Fatty acids, total polyunsaturated",g,0.053,0.015,0.060
+"Cholesterol",mg,10,3,11
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

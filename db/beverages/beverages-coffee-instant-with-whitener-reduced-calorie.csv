@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:21 EST
+"Nutrient data for: 43401, Beverages, coffee, instant, with whitener, reduced calorie"
+Nutrient,Unit,1Value per 100 g,"1 tsp dry = 1.7g",
+Proximates
+"Water",g,6.16,0.10
+"Energy",kcal,509,9
+"Protein",g,1.96,0.03
+"Total lipid (fat)",g,29.10,0.49
+"Carbohydrate, by difference",g,59.94,1.02
+"Fiber, total dietary",g,0.5,0.0
+"Sugars, total",g,59.00,1.00
+Minerals
+"Calcium, Ca",mg,18,0
+"Iron, Fe",mg,0.06,0.00
+"Magnesium, Mg",mg,2,0
+"Phosphorus, P",mg,135,2
+"Potassium, K",mg,909,15
+"Sodium, Na",mg,0,0
+"Zinc, Zn",mg,0.02,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.000,0.000
+"Riboflavin",mg,0.000,0.000
+"Niacin",mg,0.188,0.003
+"Vitamin B-6",mg,0.000,0.000
+"Folate, DFE",µg,1,0
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1,0
+"Vitamin A, IU",IU,14,0
+"Vitamin E (alpha-tocopherol)",mg,0.26,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,3.8,0.1
+Lipids
+"Fatty acids, total saturated",g,25.128,0.427
+"Fatty acids, total monounsaturated",g,1.705,0.029
+"Fatty acids, total polyunsaturated",g,0.576,0.010
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,21,0

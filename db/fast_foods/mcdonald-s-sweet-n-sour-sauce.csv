@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:37 EST
+"Nutrient data for: 21315, McDONALD'S, Sweet 'N Sour Sauce"
+Nutrient,Unit,1Value per 100 g,"1 package = 28.0g",
+Proximates
+"Water",g,57.37,16.06
+"Energy",kcal,170,48
+"Protein",g,0.66,0.18
+"Total lipid (fat)",g,1.09,0.31
+"Carbohydrate, by difference",g,39.38,11.03
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,35.79,10.02
+Minerals
+"Calcium, Ca",mg,6,2
+"Iron, Fe",mg,0.64,0.18
+"Magnesium, Mg",mg,6,2
+"Phosphorus, P",mg,16,4
+"Potassium, K",mg,99,28
+"Sodium, Na",mg,557,156
+"Zinc, Zn",mg,0.08,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.2,0.3
+"Thiamin",mg,0.178,0.050
+"Riboflavin",mg,0.042,0.012
+"Niacin",mg,0.396,0.111
+"Vitamin B-6",mg,0.033,0.009
+"Vitamin A, RAE",µg,8,2
+"Vitamin A, IU",IU,168,47
+"Vitamin E (alpha-tocopherol)",mg,0.71,0.20
+Lipids
+"Fatty acids, total saturated",g,0.148,0.041
+"Fatty acids, total monounsaturated",g,0.241,0.067
+"Fatty acids, total polyunsaturated",g,0.514,0.144
+"Fatty acids, total trans",g,0.011,0.003
+Amino Acids
+Other

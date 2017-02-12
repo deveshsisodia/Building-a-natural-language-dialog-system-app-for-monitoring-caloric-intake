@@ -1,0 +1,31 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:16 EST
+"Nutrient data for: 04676, Margarine-like spread, SMART BEAT Smart Squeeze"
+Nutrient,Unit,1Value per 100 g,"1 tablespoon = 14.0g",
+Proximates
+"Water",g,87.91,12.31
+"Energy",kcal,47,7
+"Protein",g,0.00,0.00
+"Total lipid (fat)",g,2.10,0.29
+"Carbohydrate, by difference",g,7.10,0.99
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,1.00,0.14
+Minerals
+"Phosphorus, P",mg,0,0
+"Potassium, K",mg,26,4
+"Sodium, Na",mg,829,116
+Vitamins
+"Vitamin A, IU",IU,5772,808
+"Vitamin E (alpha-tocopherol)",mg,0.20,0.03
+"Vitamin K (phylloquinone)",µg,4.2,0.6
+Lipids
+"Fatty acids, total saturated",g,0.310,0.043
+"Fatty acids, total monounsaturated",g,0.470,0.066
+"Fatty acids, total polyunsaturated",g,1.180,0.165
+"Fatty acids, total trans",g,0.040,0.006
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+Footnotes
+(a)"contains 0.164 g omega-3 fatty acids"

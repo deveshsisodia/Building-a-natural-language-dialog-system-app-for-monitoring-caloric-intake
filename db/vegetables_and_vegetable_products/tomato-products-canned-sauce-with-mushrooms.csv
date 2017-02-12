@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:32 EST
+"Nutrient data for: 11551, Tomato products, canned, sauce, with mushrooms"
+Nutrient,Unit,1Value per 100 g,"1 cup = 245.0g",
+Proximates
+"Water",g,87.97,215.53
+"Energy",kcal,35,86
+"Protein",g,1.45,3.55
+"Total lipid (fat)",g,0.13,0.32
+"Carbohydrate, by difference",g,8.43,20.65
+"Fiber, total dietary",g,1.5,3.7
+"Sugars, total",g,5.77,14.14
+Minerals
+"Calcium, Ca",mg,13,32
+"Iron, Fe",mg,0.89,2.18
+"Magnesium, Mg",mg,19,47
+"Phosphorus, P",mg,32,78
+"Potassium, K",mg,380,931
+"Sodium, Na",mg,452,1107
+"Zinc, Zn",mg,0.21,0.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,12.4,30.4
+"Thiamin",mg,0.072,0.176
+"Riboflavin",mg,0.108,0.265
+"Niacin",mg,1.265,3.099
+"Vitamin B-6",mg,0.133,0.326
+"Folate, DFE",µg,9,22
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,48,118
+"Vitamin A, IU",IU,955,2340
+"Vitamin E (alpha-tocopherol)",mg,1.92,4.70
+"Vitamin K (phylloquinone)",µg,3.8,9.3
+Lipids
+"Fatty acids, total saturated",g,0.017,0.042
+"Fatty acids, total monounsaturated",g,0.010,0.025
+"Fatty acids, total polyunsaturated",g,0.050,0.122
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

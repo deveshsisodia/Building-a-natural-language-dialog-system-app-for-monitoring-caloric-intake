@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:10 EST
+"Nutrient data for: 01109, Milk, sheep, fluid"
+Nutrient,Unit,1Value per 100 g,"1 cup = 245.0g","1 quart = 980.0g",
+Proximates
+"Water",g,80.70,197.72,790.86
+"Energy",kcal,108,265,1058
+"Protein",g,5.98,14.65,58.60
+"Total lipid (fat)",g,7.00,17.15,68.60
+"Carbohydrate, by difference",g,5.36,13.13,52.53
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,193,473,1891
+"Iron, Fe",mg,0.10,0.24,0.98
+"Magnesium, Mg",mg,18,44,176
+"Phosphorus, P",mg,158,387,1548
+"Potassium, K",mg,137,336,1343
+"Sodium, Na",mg,44,108,431
+"Zinc, Zn",mg,0.54,1.32,5.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.2,10.3,41.2
+"Thiamin",mg,0.065,0.159,0.637
+"Riboflavin",mg,0.355,0.870,3.479
+"Niacin",mg,0.417,1.022,4.087
+"Vitamin B-6",mg,0.060,0.147,0.588
+"Folate, DFE",µg,7,17,69
+"Vitamin B-12",µg,0.71,1.74,6.96
+"Vitamin A, RAE",µg,44,108,431
+"Vitamin A, IU",IU,147,360,1441
+Lipids
+"Fatty acids, total saturated",g,4.603,11.277,45.109
+"Fatty acids, total monounsaturated",g,1.724,4.224,16.895
+"Fatty acids, total polyunsaturated",g,0.308,0.755,3.018
+"Cholesterol",mg,27,66,265
+Amino Acids
+Other

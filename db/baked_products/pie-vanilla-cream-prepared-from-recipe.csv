@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:44 EST
+"Nutrient data for: 18328, Pie, vanilla cream, prepared from recipe"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece (1/8 of 9"" dia) = 126.0g",
+Proximates
+"Water",g,47.00,13.32,59.22
+"Energy",kcal,278,79,350
+"Protein",g,4.80,1.36,6.05
+"Total lipid (fat)",g,14.40,4.08,18.14
+"Carbohydrate, by difference",g,32.60,9.24,41.08
+"Fiber, total dietary",g,0.6,0.2,0.8
+"Sugars, total",g,12.68,3.59,15.98
+Minerals
+"Calcium, Ca",mg,90,26,113
+"Iron, Fe",mg,1.02,0.29,1.29
+"Magnesium, Mg",mg,13,4,16
+"Phosphorus, P",mg,104,29,131
+"Potassium, K",mg,126,36,159
+"Sodium, Na",mg,260,74,328
+"Zinc, Zn",mg,0.53,0.15,0.67
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.1,0.6
+"Thiamin",mg,0.139,0.039,0.175
+"Riboflavin",mg,0.216,0.061,0.272
+"Niacin",mg,0.984,0.279,1.240
+"Vitamin B-6",mg,0.049,0.014,0.062
+"Folate, DFE",µg,37,10,47
+"Vitamin B-12",µg,0.30,0.09,0.38
+"Vitamin A, RAE",µg,83,24,105
+"Vitamin A, IU",IU,306,87,386
+"Vitamin E (alpha-tocopherol)",mg,0.45,0.13,0.57
+"Vitamin D (D2 + D3)",µg,1.2,0.3,1.5
+"Vitamin D",IU,47,13,59
+"Vitamin K (phylloquinone)",µg,6.7,1.9,8.4
+Lipids
+"Fatty acids, total saturated",g,4.030,1.143,5.078
+"Fatty acids, total monounsaturated",g,6.043,1.713,7.614
+"Fatty acids, total polyunsaturated",g,3.438,0.975,4.332
+"Cholesterol",mg,62,18,78
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

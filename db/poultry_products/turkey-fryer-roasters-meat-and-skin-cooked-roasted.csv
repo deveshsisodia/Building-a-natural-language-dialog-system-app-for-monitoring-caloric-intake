@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:39 EST
+"Nutrient data for: 05200, Turkey, fryer-roasters, meat and skin, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","0.5 turkey, bone removed = 808.0g","1 unit (yield from 1 lb ready-to-cook turkey) = 229.0g",
+Proximates
+"Water",g,65.76,55.90,531.34,150.59
+"Energy",kcal,172,146,1390,394
+"Protein",g,28.26,24.02,228.34,64.72
+"Total lipid (fat)",g,5.72,4.86,46.22,13.10
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,22,19,178,50
+"Iron, Fe",mg,1.95,1.66,15.76,4.47
+"Magnesium, Mg",mg,25,21,202,57
+"Phosphorus, P",mg,198,168,1600,453
+"Potassium, K",mg,250,212,2020,572
+"Sodium, Na",mg,66,56,533,151
+"Zinc, Zn",mg,2.89,2.46,23.35,6.62
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.043,0.037,0.347,0.098
+"Riboflavin",mg,0.183,0.156,1.479,0.419
+"Niacin",mg,4.922,4.184,39.770,11.271
+"Vitamin B-6",mg,0.420,0.357,3.394,0.962
+"Folate, DFE",µg,7,6,57,16
+"Vitamin B-12",µg,0.37,0.31,2.99,0.85
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.35,0.30,2.83,0.80
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,1,1,8,2
+"Vitamin K (phylloquinone)",µg,0.8,0.7,6.5,1.8
+Lipids
+"Fatty acids, total saturated",g,1.650,1.403,13.332,3.778
+"Fatty acids, total monounsaturated",g,1.960,1.666,15.837,4.488
+"Fatty acids, total polyunsaturated",g,1.450,1.232,11.716,3.321
+"Cholesterol",mg,105,89,848,240
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

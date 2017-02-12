@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:59 EST
+"Nutrient data for: 15053, Fish, milkfish, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,70.85,60.22
+"Energy",kcal,148,126
+"Protein",g,20.53,17.45
+"Total lipid (fat)",g,6.73,5.72
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,51,43
+"Iron, Fe",mg,0.32,0.27
+"Magnesium, Mg",mg,30,26
+"Phosphorus, P",mg,162,138
+"Potassium, K",mg,292,248
+"Sodium, Na",mg,72,61
+"Zinc, Zn",mg,0.82,0.70
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.013,0.011
+"Riboflavin",mg,0.054,0.046
+"Niacin",mg,6.440,5.474
+"Vitamin B-6",mg,0.423,0.360
+"Folate, DFE",µg,16,14
+"Vitamin B-12",µg,3.40,2.89
+"Vitamin A, RAE",µg,30,26
+"Vitamin A, IU",IU,100,85
+Lipids
+"Fatty acids, total saturated",g,1.660,1.411
+"Fatty acids, total monounsaturated",g,2.580,2.193
+"Fatty acids, total polyunsaturated",g,1.840,1.564
+"Cholesterol",mg,52,44
+Amino Acids
+Other

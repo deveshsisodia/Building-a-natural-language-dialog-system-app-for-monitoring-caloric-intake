@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:44 EST
+"Nutrient data for: 19320, Puddings, banana, dry mix, regular"
+Nutrient,Unit,1Value per 100 g,"1 package (3.12 oz) = 88.0g","1 portion, amount to make 1/2 cup = 22.0g",
+Proximates
+"Water",g,4.10,3.61,0.90
+"Energy",kcal,366,322,81
+"Protein",g,0.00,0.00,0.00
+"Total lipid (fat)",g,0.40,0.35,0.09
+"Carbohydrate, by difference",g,93.00,81.84,20.46
+"Fiber, total dietary",g,0.3,0.3,0.1
+"Sugars, total",g,74.32,65.40,16.35
+Minerals
+"Calcium, Ca",mg,20,18,4
+"Iron, Fe",mg,0.05,0.04,0.01
+"Magnesium, Mg",mg,8,7,2
+"Phosphorus, P",mg,5,4,1
+"Potassium, K",mg,17,15,4
+"Sodium, Na",mg,788,693,173
+"Zinc, Zn",mg,0.09,0.08,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000
+"Riboflavin",mg,0.000,0.000,0.000
+"Niacin",mg,0.000,0.000,0.000
+"Vitamin B-6",mg,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.090,0.079,0.020
+"Fatty acids, total monounsaturated",g,0.030,0.026,0.007
+"Fatty acids, total polyunsaturated",g,0.160,0.141,0.035
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

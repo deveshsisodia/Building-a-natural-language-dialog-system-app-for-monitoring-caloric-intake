@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:48 EST
+"Nutrient data for: 19206, Puddings, vanilla, dry mix, regular"
+Nutrient,Unit,1Value per 100 g,"1 package (3.12 oz) = 88.0g","1 portion, amount to make 1/2 cup = 22.0g",
+Proximates
+"Water",g,3.90,3.43,0.86
+"Energy",kcal,379,334,83
+"Protein",g,0.30,0.26,0.07
+"Total lipid (fat)",g,0.40,0.35,0.09
+"Carbohydrate, by difference",g,93.50,82.28,20.57
+"Fiber, total dietary",g,0.6,0.5,0.1
+"Sugars, total",g,79.34,69.82,17.45
+Minerals
+"Calcium, Ca",mg,5,4,1
+"Iron, Fe",mg,0.08,0.07,0.02
+"Magnesium, Mg",mg,0,0,0
+"Phosphorus, P",mg,2,2,0
+"Potassium, K",mg,20,18,4
+"Sodium, Na",mg,635,559,140
+"Zinc, Zn",mg,0.02,0.02,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000
+"Riboflavin",mg,0.013,0.011,0.003
+"Niacin",mg,0.001,0.001,0.000
+"Vitamin B-6",mg,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.090,0.079,0.020
+"Fatty acids, total monounsaturated",g,0.030,0.026,0.007
+"Fatty acids, total polyunsaturated",g,0.170,0.150,0.037
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:57 EST
+"Nutrient data for: 15018, Fish, cod, Atlantic, dried and salted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece (5-1/2"" x 1-1/2"" x 1/2"") = 80.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,16.14,4.58,12.91,13.72
+"Energy",kcal,290,82,232,246
+"Protein",g,62.82,17.81,50.26,53.40
+"Total lipid (fat)",g,2.37,0.67,1.90,2.01
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,160,45,128,136
+"Iron, Fe",mg,2.50,0.71,2.00,2.12
+"Magnesium, Mg",mg,133,38,106,113
+"Phosphorus, P",mg,950,269,760,808
+"Potassium, K",mg,1458,413,1166,1239
+"Sodium, Na",mg,7027,1992,5622,5973
+"Zinc, Zn",mg,1.59,0.45,1.27,1.35
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.5,1.0,2.8,3.0
+"Thiamin",mg,0.268,0.076,0.214,0.228
+"Riboflavin",mg,0.240,0.068,0.192,0.204
+"Niacin",mg,7.500,2.126,6.000,6.375
+"Vitamin B-6",mg,0.864,0.245,0.691,0.734
+"Folate, DFE",µg,25,7,20,21
+"Vitamin B-12",µg,10.00,2.83,8.00,8.50
+"Vitamin A, RAE",µg,42,12,34,36
+"Vitamin A, IU",IU,140,40,112,119
+"Vitamin E (alpha-tocopherol)",mg,2.84,0.81,2.27,2.41
+"Vitamin D (D2 + D3)",µg,4.0,1.1,3.2,3.4
+"Vitamin D",IU,161,46,129,137
+"Vitamin K (phylloquinone)",µg,0.4,0.1,0.3,0.3
+Lipids
+"Fatty acids, total saturated",g,0.462,0.131,0.370,0.393
+"Fatty acids, total monounsaturated",g,0.342,0.097,0.274,0.291
+"Fatty acids, total polyunsaturated",g,0.804,0.228,0.643,0.683
+"Cholesterol",mg,152,43,122,129
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

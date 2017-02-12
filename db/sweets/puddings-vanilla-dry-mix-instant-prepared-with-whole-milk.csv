@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:48 EST
+"Nutrient data for: 19203, Puddings, vanilla, dry mix, instant, prepared with whole milk"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 142.0g","1 package yield (2 cups) = 569.0g",
+Proximates
+"Water",g,73.50,104.37,418.21
+"Energy",kcal,114,162,649
+"Protein",g,2.70,3.83,15.36
+"Total lipid (fat)",g,2.90,4.12,16.50
+"Carbohydrate, by difference",g,19.70,27.97,112.09
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,18.03,25.60,102.59
+Minerals
+"Calcium, Ca",mg,101,143,575
+"Iron, Fe",mg,0.07,0.10,0.40
+"Magnesium, Mg",mg,12,17,68
+"Phosphorus, P",mg,197,280,1121
+"Potassium, K",mg,128,182,728
+"Sodium, Na",mg,286,406,1627
+"Zinc, Zn",mg,0.33,0.47,1.88
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,1.1,4.6
+"Thiamin",mg,0.033,0.047,0.188
+"Riboflavin",mg,0.136,0.193,0.774
+"Niacin",mg,0.074,0.105,0.421
+"Vitamin B-6",mg,0.036,0.051,0.205
+"Folate, DFE",µg,4,6,23
+"Vitamin B-12",µg,0.30,0.43,1.71
+"Vitamin A, RAE",µg,25,36,142
+"Vitamin A, IU",IU,105,149,597
+Lipids
+"Fatty acids, total saturated",g,1.740,2.471,9.901
+"Fatty acids, total monounsaturated",g,0.840,1.193,4.780
+"Fatty acids, total polyunsaturated",g,0.150,0.213,0.853
+"Cholesterol",mg,11,16,63
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

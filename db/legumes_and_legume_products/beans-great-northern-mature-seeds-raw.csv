@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:56 EST
+"Nutrient data for: 16024, Beans, great northern, mature seeds, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 183.0g",
+Proximates
+"Water",g,10.70,19.58
+"Energy",kcal,339,620
+"Protein",g,21.86,40.00
+"Total lipid (fat)",g,1.14,2.09
+"Carbohydrate, by difference",g,62.37,114.14
+"Fiber, total dietary",g,20.2,37.0
+"Sugars, total",g,2.26,4.14
+Minerals
+"Calcium, Ca",mg,175,320
+"Iron, Fe",mg,5.47,10.01
+"Magnesium, Mg",mg,189,346
+"Phosphorus, P",mg,447,818
+"Potassium, K",mg,1387,2538
+"Sodium, Na",mg,14,26
+"Zinc, Zn",mg,2.31,4.23
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.3,9.7
+"Thiamin",mg,0.653,1.195
+"Riboflavin",mg,0.237,0.434
+"Niacin",mg,1.955,3.578
+"Vitamin B-6",mg,0.447,0.818
+"Folate, DFE",µg,482,882
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.40
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,6.0,11.0
+Lipids
+"Fatty acids, total saturated",g,0.356,0.651
+"Fatty acids, total monounsaturated",g,0.053,0.097
+"Fatty acids, total polyunsaturated",g,0.477,0.873
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

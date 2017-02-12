@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:32 EST
+"Nutrient data for: 11570, Turnip greens, canned, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 117.0g","1 can, 15 oz (303 x 406) = 425.0g",
+Proximates
+"Water",g,94.69,110.79,402.43
+"Energy",kcal,14,16,60
+"Protein",g,1.36,1.59,5.78
+"Total lipid (fat)",g,0.30,0.35,1.27
+"Carbohydrate, by difference",g,2.42,2.83,10.29
+"Fiber, total dietary",g,1.7,2.0,7.2
+Minerals
+"Calcium, Ca",mg,118,138,502
+"Iron, Fe",mg,1.51,1.77,6.42
+"Magnesium, Mg",mg,20,23,85
+"Phosphorus, P",mg,21,25,89
+"Potassium, K",mg,141,165,599
+"Sodium, Na",mg,277,324,1177
+"Zinc, Zn",mg,0.23,0.27,0.98
+Vitamins
+"Vitamin C, total ascorbic acid",mg,15.5,18.1,65.9
+"Thiamin",mg,0.012,0.014,0.051
+"Riboflavin",mg,0.063,0.074,0.268
+"Niacin",mg,0.362,0.424,1.538
+"Vitamin B-6",mg,0.037,0.043,0.157
+"Folate, DFE",µg,41,48,174
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,179,209,761
+"Vitamin A, IU",IU,3586,4196,15240
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.070,0.082,0.298
+"Fatty acids, total monounsaturated",g,0.020,0.023,0.085
+"Fatty acids, total polyunsaturated",g,0.120,0.140,0.510
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:25 EST
+"Nutrient data for: 36021, APPLEBEE'S, coleslaw"
+Nutrient,Unit,1Value per 100 g,"1 serving = 76.0g",
+Proximates
+"Water",g,78.15,59.39
+"Energy",kcal,120,91
+"Protein",g,0.79,0.60
+"Total lipid (fat)",g,7.09,5.39
+"Carbohydrate, by difference",g,13.17,10.01
+"Fiber, total dietary",g,2.8,2.1
+"Sugars, total",g,9.33,7.09
+Minerals
+"Calcium, Ca",mg,36,27
+"Iron, Fe",mg,0.26,0.20
+"Magnesium, Mg",mg,10,8
+"Phosphorus, P",mg,23,17
+"Potassium, K",mg,156,119
+"Sodium, Na",mg,178,135
+"Zinc, Zn",mg,0.19,0.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,13.7,10.4
+"Thiamin",mg,0.030,0.023
+"Riboflavin",mg,0.063,0.048
+"Niacin",mg,0.300,0.228
+"Vitamin B-6",mg,0.129,0.098
+"Vitamin A, RAE",µg,77,59
+"Vitamin A, IU",IU,1504,1143
+"Vitamin E (alpha-tocopherol)",mg,0.50,0.38
+"Vitamin K (phylloquinone)",µg,65.1,49.5
+Lipids
+"Fatty acids, total saturated",g,1.061,0.806
+"Fatty acids, total monounsaturated",g,1.404,1.067
+"Fatty acids, total polyunsaturated",g,3.819,2.902
+"Fatty acids, total trans",g,0.037,0.028
+"Cholesterol",mg,2,2
+Amino Acids
+Other

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18419, Cake, pudding-type, white, unenriched, dry mix"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 package (18.50 oz) = 524.0g",
+Proximates
+"Water",g,3.50,0.99,18.34
+"Energy",kcal,423,120,2217
+"Protein",g,3.90,1.11,20.44
+"Total lipid (fat)",g,9.50,2.69,49.78
+"Carbohydrate, by difference",g,81.00,22.96,424.44
+"Fiber, total dietary",g,0.7,0.2,3.7
+Minerals
+"Calcium, Ca",mg,77,22,403
+"Iron, Fe",mg,0.52,0.15,2.72
+"Magnesium, Mg",mg,9,3,47
+"Phosphorus, P",mg,277,79,1451
+"Potassium, K",mg,72,20,377
+"Sodium, Na",mg,665,189,3485
+"Zinc, Zn",mg,0.25,0.07,1.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.080,0.023,0.419
+"Riboflavin",mg,0.060,0.017,0.314
+"Niacin",mg,0.970,0.275,5.083
+"Vitamin B-6",mg,0.018,0.005,0.094
+"Folate, DFE",µg,9,3,47
+"Vitamin B-12",µg,0.04,0.01,0.21
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,2.340,0.663,12.262
+"Fatty acids, total monounsaturated",g,4.092,1.160,21.442
+"Fatty acids, total polyunsaturated",g,2.544,0.721,13.331
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

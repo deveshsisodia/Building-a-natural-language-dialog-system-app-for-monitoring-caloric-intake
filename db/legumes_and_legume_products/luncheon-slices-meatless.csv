@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:58 EST
+"Nutrient data for: 43131, Luncheon slices, meatless"
+Nutrient,Unit,1Value per 100 g,"1 slice, thin = 14.0g",
+Proximates
+"Water",g,65.01,9.10
+"Energy",kcal,189,26
+"Protein",g,17.78,2.49
+"Total lipid (fat)",g,11.11,1.56
+"Carbohydrate, by difference",g,4.44,0.62
+"Fiber, total dietary",g,1.1,0.2
+"Sugars, total",g,2.22,0.31
+Minerals
+"Calcium, Ca",mg,41,6
+"Iron, Fe",mg,1.80,0.25
+"Magnesium, Mg",mg,23,3
+"Phosphorus, P",mg,442,62
+"Potassium, K",mg,200,28
+"Sodium, Na",mg,711,100
+"Zinc, Zn",mg,1.60,0.22
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,4.000,0.560
+"Riboflavin",mg,0.302,0.042
+"Niacin",mg,11.110,1.555
+"Vitamin B-6",mg,0.889,0.124
+"Folate, DFE",µg,100,14
+"Vitamin B-12",µg,4.00,0.56
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,3.00,0.42
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.338,0.187
+"Fatty acids, total monounsaturated",g,2.055,0.288
+"Fatty acids, total polyunsaturated",g,4.383,0.614
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

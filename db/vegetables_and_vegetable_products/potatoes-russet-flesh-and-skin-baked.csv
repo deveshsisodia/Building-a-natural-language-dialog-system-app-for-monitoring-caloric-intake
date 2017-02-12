@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:28 EST
+"Nutrient data for: 11356, Potatoes, Russet, flesh and skin, baked"
+Nutrient,Unit,1Value per 100 g,"1 potato large (3"" to 4-1/4"" dia. = 299.0g","1 potato medium (2-1/4"" to 3-1/4"" dia.) = 173.0g","1 potato small (1-3/4"" to 2-1/2"" dia.) = 138.0g",
+Proximates
+"Water",g,74.45,222.61,128.80,102.74
+"Energy",kcal,97,290,168,134
+"Protein",g,2.63,7.86,4.55,3.63
+"Total lipid (fat)",g,0.13,0.39,0.22,0.18
+"Carbohydrate, by difference",g,21.44,64.11,37.09,29.59
+"Fiber, total dietary",g,2.3,6.9,4.0,3.2
+"Sugars, total",g,1.08,3.23,1.87,1.49
+Minerals
+"Calcium, Ca",mg,18,54,31,25
+"Iron, Fe",mg,1.07,3.20,1.85,1.48
+"Magnesium, Mg",mg,30,90,52,41
+"Phosphorus, P",mg,71,212,123,98
+"Potassium, K",mg,550,1644,952,759
+"Sodium, Na",mg,14,42,24,19
+"Zinc, Zn",mg,0.35,1.05,0.61,0.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.3,24.8,14.4,11.5
+"Thiamin",mg,0.067,0.200,0.116,0.092
+"Riboflavin",mg,0.048,0.144,0.083,0.066
+"Niacin",mg,1.348,4.031,2.332,1.860
+"Vitamin B-6",mg,0.354,1.058,0.612,0.489
+"Folate, DFE",µg,26,78,45,36
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,3,2,1
+"Vitamin A, IU",IU,10,30,17,14
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.21,0.12,0.10
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,2.0,6.0,3.5,2.8
+Lipids
+"Fatty acids, total saturated",g,0.032,0.096,0.055,0.044
+"Fatty acids, total monounsaturated",g,0.003,0.009,0.005,0.004
+"Fatty acids, total polyunsaturated",g,0.054,0.161,0.093,0.075
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

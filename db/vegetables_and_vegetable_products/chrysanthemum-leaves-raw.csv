@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:19 EST
+"Nutrient data for: 11698, Chrysanthemum leaves, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 51.0g","1 leaf = 18.0g",
+Proximates
+"Water",g,91.40,46.61,16.45
+"Energy",kcal,24,12,4
+"Protein",g,3.36,1.71,0.60
+"Total lipid (fat)",g,0.56,0.29,0.10
+"Carbohydrate, by difference",g,3.01,1.54,0.54
+"Fiber, total dietary",g,3.0,1.5,0.5
+Minerals
+"Calcium, Ca",mg,117,60,21
+"Iron, Fe",mg,2.30,1.17,0.41
+"Magnesium, Mg",mg,32,16,6
+"Phosphorus, P",mg,54,28,10
+"Potassium, K",mg,567,289,102
+"Sodium, Na",mg,118,60,21
+"Zinc, Zn",mg,0.71,0.36,0.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.4,0.7,0.3
+"Thiamin",mg,0.130,0.066,0.023
+"Riboflavin",mg,0.144,0.073,0.026
+"Niacin",mg,0.531,0.271,0.096
+"Vitamin B-6",mg,0.176,0.090,0.032
+"Folate, DFE",µg,177,90,32
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,94,48,17
+"Vitamin A, IU",IU,1870,954,337
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

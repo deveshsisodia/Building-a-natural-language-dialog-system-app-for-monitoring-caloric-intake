@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:07 EST
+"Nutrient data for: 12175, Nuts, chestnuts, japanese, dried"
+Nutrient,Unit,1Value per 100 g,"1 cup = 155.0g","1 oz = 28.35g",
+Proximates
+"Water",g,9.96,15.44,2.82
+"Energy",kcal,360,558,102
+"Protein",g,5.25,8.14,1.49
+"Total lipid (fat)",g,1.24,1.92,0.35
+"Carbohydrate, by difference",g,81.43,126.22,23.09
+Minerals
+"Calcium, Ca",mg,72,112,20
+"Iron, Fe",mg,3.38,5.24,0.96
+"Magnesium, Mg",mg,115,178,33
+"Phosphorus, P",mg,169,262,48
+"Potassium, K",mg,768,1190,218
+"Sodium, Na",mg,34,53,10
+"Zinc, Zn",mg,2.57,3.98,0.73
+Vitamins
+"Vitamin C, total ascorbic acid",mg,61.3,95.0,17.4
+"Thiamin",mg,0.802,1.243,0.227
+"Riboflavin",mg,0.380,0.589,0.108
+"Niacin",mg,3.500,5.425,0.992
+"Vitamin B-6",mg,0.659,1.021,0.187
+"Folate, DFE",µg,109,169,31
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,4,6,1
+"Vitamin A, IU",IU,86,133,24
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.183,0.284,0.052
+"Fatty acids, total monounsaturated",g,0.650,1.008,0.184
+"Fatty acids, total polyunsaturated",g,0.322,0.499,0.091
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

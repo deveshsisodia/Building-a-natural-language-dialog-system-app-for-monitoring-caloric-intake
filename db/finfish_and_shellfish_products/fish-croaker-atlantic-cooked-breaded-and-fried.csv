@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:57 EST
+"Nutrient data for: 15021, Fish, croaker, Atlantic, cooked, breaded and fried"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 87.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,59.76,51.99,50.80
+"Energy",kcal,221,192,188
+"Protein",g,18.20,15.83,15.47
+"Total lipid (fat)",g,12.67,11.02,10.77
+"Carbohydrate, by difference",g,7.54,6.56,6.41
+"Fiber, total dietary",g,0.4,0.3,0.3
+Minerals
+"Calcium, Ca",mg,32,28,27
+"Iron, Fe",mg,0.86,0.75,0.73
+"Magnesium, Mg",mg,42,37,36
+"Phosphorus, P",mg,217,189,184
+"Potassium, K",mg,340,296,289
+"Sodium, Na",mg,348,303,296
+"Zinc, Zn",mg,0.52,0.45,0.44
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.090,0.078,0.076
+"Riboflavin",mg,0.130,0.113,0.111
+"Niacin",mg,4.300,3.741,3.655
+"Vitamin B-6",mg,0.260,0.226,0.221
+"Folate, DFE",µg,45,39,38
+"Vitamin B-12",µg,2.10,1.83,1.78
+"Vitamin A, RAE",µg,23,20,20
+"Vitamin A, IU",IU,75,65,64
+Lipids
+"Fatty acids, total saturated",g,3.476,3.024,2.955
+"Fatty acids, total monounsaturated",g,5.320,4.628,4.522
+"Fatty acids, total polyunsaturated",g,2.917,2.538,2.479
+"Cholesterol",mg,84,73,71
+Amino Acids
+Other

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 19414, Snacks, rice cakes, brown rice, multigrain"
+Nutrient,Unit,1Value per 100 g,"1 cake = 9.0g","2.0 cakes = 18.0g",
+Proximates
+"Water",g,6.30,0.57,1.13
+"Energy",kcal,387,35,70
+"Protein",g,8.50,0.77,1.53
+"Total lipid (fat)",g,3.50,0.32,0.63
+"Carbohydrate, by difference",g,80.10,7.21,14.42
+"Fiber, total dietary",g,3.0,0.3,0.5
+Minerals
+"Calcium, Ca",mg,21,2,4
+"Iron, Fe",mg,1.96,0.18,0.35
+"Magnesium, Mg",mg,137,12,25
+"Phosphorus, P",mg,370,33,67
+"Potassium, K",mg,294,26,53
+"Sodium, Na",mg,252,23,45
+"Zinc, Zn",mg,2.53,0.23,0.46
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.067,0.006,0.012
+"Riboflavin",mg,0.184,0.017,0.033
+"Niacin",mg,6.602,0.594,1.188
+"Vitamin B-6",mg,0.137,0.012,0.025
+"Folate, DFE",µg,20,2,4
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.560,0.050,0.101
+"Fatty acids, total monounsaturated",g,1.160,0.104,0.209
+"Fatty acids, total polyunsaturated",g,1.440,0.130,0.259
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

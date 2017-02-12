@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:23 EST
+"Nutrient data for: 14315, Beverages, OVALTINE, chocolate malt powder"
+Nutrient,Unit,1Value per 100 g,"1 cup = 78.0g","1 serving (4 tbsp or 1 envelope) = 21.0g",
+Proximates
+"Water",g,1.28,1.00,0.27
+"Energy",kcal,372,290,78
+"Protein",g,0.00,0.00,0.00
+"Total lipid (fat)",g,0.00,0.00,0.00
+"Carbohydrate, by difference",g,92.96,72.51,19.52
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,72.73,56.73,15.27
+Minerals
+"Calcium, Ca",mg,909,709,191
+"Iron, Fe",mg,16.36,12.76,3.44
+"Magnesium, Mg",mg,218,170,46
+"Phosphorus, P",mg,0,0,0
+"Potassium, K",mg,0,0,0
+"Sodium, Na",mg,636,496,134
+"Zinc, Zn",mg,13.64,10.64,2.86
+Vitamins
+"Vitamin C, total ascorbic acid",mg,54.5,42.5,11.4
+"Thiamin",mg,1.364,1.064,0.286
+"Riboflavin",mg,0.000,0.000,0.000
+"Niacin",mg,18.182,14.182,3.818
+"Vitamin B-6",mg,1.818,1.418,0.382
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1365,1065,287
+"Vitamin A, IU",IU,4545,3545,954
+"Vitamin E (alpha-tocopherol)",mg,12.27,9.57,2.58
+"Vitamin D (D2 + D3)",µg,9.1,7.1,1.9
+"Vitamin D",IU,364,284,76
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

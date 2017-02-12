@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:36 EST
+"Nutrient data for: 19160, Candies, MARS SNACKFOOD US, TWIX Caramel Cookie Bars"
+Nutrient,Unit,1Value per 100 g,"1 package (2 oz) = 57.0g","1 package (2.06 oz, 2 bars) = 58.0g","1 package, king size (3.35 oz, 4 bars) = 95.0g","1 package (11 oz) = 312.0g",
+Proximates
+"Water",g,4.23,2.41,2.45,4.02,13.20
+"Energy",kcal,502,286,291,477,1566
+"Protein",g,4.91,2.80,2.85,4.66,15.32
+"Total lipid (fat)",g,24.85,14.16,14.41,23.61,77.53
+"Carbohydrate, by difference",g,64.80,36.94,37.58,61.56,202.18
+"Fiber, total dietary",g,1.1,0.6,0.6,1.0,3.4
+"Sugars, total",g,48.25,27.50,27.98,45.84,150.54
+Minerals
+"Calcium, Ca",mg,106,60,61,101,331
+"Iron, Fe",mg,0.81,0.46,0.47,0.77,2.53
+"Magnesium, Mg",mg,27,15,16,26,84
+"Phosphorus, P",mg,105,60,61,100,328
+"Potassium, K",mg,186,106,108,177,580
+"Sodium, Na",mg,198,113,115,188,618
+"Zinc, Zn",mg,1.06,0.60,0.61,1.01,3.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.3,0.3,0.6,1.9
+"Thiamin",mg,0.155,0.088,0.090,0.147,0.484
+"Riboflavin",mg,0.208,0.119,0.121,0.198,0.649
+"Niacin",mg,1.109,0.632,0.643,1.054,3.460
+"Vitamin B-6",mg,0.025,0.014,0.015,0.024,0.078
+"Folate, DFE",µg,39,22,23,37,122
+"Vitamin B-12",µg,0.33,0.19,0.19,0.31,1.03
+"Vitamin A, RAE",µg,20,11,12,19,62
+"Vitamin A, IU",IU,67,38,39,64,209
+"Vitamin E (alpha-tocopherol)",mg,0.74,0.42,0.43,0.70,2.31
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,5.6,3.2,3.2,5.3,17.5
+Lipids
+"Fatty acids, total saturated",g,18.960,10.807,10.997,18.012,59.155
+"Fatty acids, total monounsaturated",g,2.988,1.703,1.733,2.839,9.323
+"Fatty acids, total polyunsaturated",g,0.628,0.358,0.364,0.597,1.959
+"Fatty acids, total trans",g,0.342,0.195,0.198,0.325,1.067
+"Cholesterol",mg,7,4,4,7,22
+Amino Acids
+Other
+"Caffeine",mg,7,4,4,7,22

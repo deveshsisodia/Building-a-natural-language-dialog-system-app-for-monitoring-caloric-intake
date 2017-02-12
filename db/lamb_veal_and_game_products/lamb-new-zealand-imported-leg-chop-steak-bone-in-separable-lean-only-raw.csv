@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:02 EST
+"Nutrient data for: 17074, Lamb, New Zealand, imported, leg chop/steak, bone-in, separable lean only, raw"
+Nutrient,Unit,1Value per 100 g,"1 serving = 115.0g",
+Proximates
+"Water",g,74.35,85.50
+"Energy",kcal,126,145
+"Protein",g,21.10,24.27
+"Total lipid (fat)",g,4.64,5.34
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,11,13
+"Iron, Fe",mg,1.64,1.89
+"Magnesium, Mg",mg,24,28
+"Phosphorus, P",mg,198,228
+"Potassium, K",mg,350,402
+"Sodium, Na",mg,64,74
+"Zinc, Zn",mg,3.16,3.63
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.175,0.201
+"Riboflavin",mg,0.173,0.199
+"Niacin",mg,5.241,6.027
+"Vitamin B-6",mg,0.137,0.158
+"Vitamin B-12",µg,1.64,1.89
+"Vitamin A, RAE",µg,3,3
+"Vitamin A, IU",IU,9,10
+"Vitamin E (alpha-tocopherol)",mg,0.14,0.16
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,1,1
+Lipids
+"Fatty acids, total saturated",g,1.512,1.739
+"Fatty acids, total monounsaturated",g,1.370,1.576
+"Fatty acids, total polyunsaturated",g,0.325,0.374
+"Fatty acids, total trans",g,0.168,0.193
+"Cholesterol",mg,66,76
+Amino Acids
+Other
+"Caffeine",mg,0,0

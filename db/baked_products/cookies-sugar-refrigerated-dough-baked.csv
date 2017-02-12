@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:35 EST
+"Nutrient data for: 18206, Cookies, sugar, refrigerated dough, baked"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cookie 1 rolled cookie dough = 15.0g","1 cookie 1 pre-sliced cookie dough = 23.0g",
+Proximates
+"Water",g,5.00,1.42,0.75,1.15
+"Energy",kcal,489,139,73,112
+"Protein",g,4.70,1.33,0.70,1.08
+"Total lipid (fat)",g,23.10,6.55,3.46,5.31
+"Carbohydrate, by difference",g,65.60,18.60,9.84,15.09
+"Fiber, total dietary",g,0.9,0.3,0.1,0.2
+"Sugars, total",g,40.36,11.44,6.05,9.28
+Minerals
+"Calcium, Ca",mg,90,26,14,21
+"Iron, Fe",mg,1.84,0.52,0.28,0.42
+"Magnesium, Mg",mg,8,2,1,2
+"Phosphorus, P",mg,187,53,28,43
+"Potassium, K",mg,163,46,24,37
+"Sodium, Na",mg,362,103,54,83
+"Zinc, Zn",mg,0.27,0.08,0.04,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.182,0.052,0.027,0.042
+"Riboflavin",mg,0.122,0.035,0.018,0.028
+"Niacin",mg,2.412,0.684,0.362,0.555
+"Vitamin B-6",mg,0.023,0.007,0.003,0.005
+"Folate, DFE",µg,113,32,17,26
+"Vitamin B-12",µg,0.07,0.02,0.01,0.02
+"Vitamin A, RAE",µg,12,3,2,3
+"Vitamin A, IU",IU,41,12,6,9
+"Vitamin E (alpha-tocopherol)",mg,0.21,0.06,0.03,0.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,9.8,2.8,1.5,2.3
+Lipids
+"Fatty acids, total saturated",g,5.906,1.674,0.886,1.358
+"Fatty acids, total monounsaturated",g,13.010,3.688,1.952,2.992
+"Fatty acids, total polyunsaturated",g,2.891,0.820,0.434,0.665
+"Cholesterol",mg,32,9,5,7
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

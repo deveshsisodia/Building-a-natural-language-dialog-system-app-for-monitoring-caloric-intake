@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:56 EST
+"Nutrient data for: 15005, Fish, bluefish, raw"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 150.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,70.86,106.29,60.23
+"Energy",kcal,124,186,105
+"Protein",g,20.04,30.06,17.03
+"Total lipid (fat)",g,4.24,6.36,3.60
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,7,10,6
+"Iron, Fe",mg,0.48,0.72,0.41
+"Magnesium, Mg",mg,33,50,28
+"Phosphorus, P",mg,227,340,193
+"Potassium, K",mg,372,558,316
+"Sodium, Na",mg,60,90,51
+"Zinc, Zn",mg,0.81,1.22,0.69
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.058,0.087,0.049
+"Riboflavin",mg,0.080,0.120,0.068
+"Niacin",mg,5.950,8.925,5.058
+"Vitamin B-6",mg,0.402,0.603,0.342
+"Folate, DFE",µg,2,3,2
+"Vitamin B-12",µg,5.39,8.09,4.58
+"Vitamin A, RAE",µg,120,180,102
+"Vitamin A, IU",IU,398,597,338
+Lipids
+"Fatty acids, total saturated",g,0.915,1.373,0.778
+"Fatty acids, total monounsaturated",g,1.793,2.689,1.524
+"Fatty acids, total polyunsaturated",g,1.060,1.590,0.901
+"Cholesterol",mg,59,88,50
+Amino Acids
+Other

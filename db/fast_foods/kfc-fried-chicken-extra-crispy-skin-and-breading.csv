@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:34 EST
+"Nutrient data for: 21429, KFC, Fried Chicken, EXTRA CRISPY, Skin and Breading"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,26.98,
+"Energy",kcal,464,
+"Protein",g,10.96,
+"Total lipid (fat)",g,36.61,
+"Carbohydrate, by difference",g,22.54,
+"Fiber, total dietary",g,1.5,
+"Sugars, total",g,0.00,
+Minerals
+"Calcium, Ca",mg,41,
+"Iron, Fe",mg,0.67,
+"Magnesium, Mg",mg,18,
+"Phosphorus, P",mg,149,
+"Potassium, K",mg,170,
+"Sodium, Na",mg,828,
+"Zinc, Zn",mg,0.61,
+Vitamins
+"Thiamin",mg,0.015,
+"Riboflavin",mg,0.072,
+"Niacin",mg,3.423,
+"Vitamin B-6",mg,0.127,
+"Vitamin B-12",µg,0.36,
+"Vitamin A, RAE",µg,35,
+"Vitamin A, IU",IU,116,
+Lipids
+"Fatty acids, total saturated",g,7.541,
+"Fatty acids, total monounsaturated",g,11.816,
+"Fatty acids, total polyunsaturated",g,14.238,
+"Fatty acids, total trans",g,0.235,
+"Cholesterol",mg,59,
+Amino Acids
+Other

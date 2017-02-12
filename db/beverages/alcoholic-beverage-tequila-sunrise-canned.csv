@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:18 EST
+"Nutrient data for: 14019, Alcoholic beverage, tequila sunrise, canned"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 31.1g","1 can (6.8 fl oz, 200 ml) = 211.0g",
+Proximates
+"Water",g,78.80,24.51,166.27
+"Energy",kcal,110,34,232
+"Protein",g,0.30,0.09,0.63
+"Total lipid (fat)",g,0.10,0.03,0.21
+"Carbohydrate, by difference",g,11.30,3.51,23.84
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,0,0,0
+"Iron, Fe",mg,0.02,0.01,0.04
+"Magnesium, Mg",mg,7,2,15
+"Phosphorus, P",mg,10,3,21
+"Potassium, K",mg,10,3,21
+"Sodium, Na",mg,57,18,120
+"Zinc, Zn",mg,0.60,0.19,1.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,19.3,6.0,40.7
+"Thiamin",mg,0.038,0.012,0.080
+"Riboflavin",mg,0.016,0.005,0.034
+"Niacin",mg,0.190,0.059,0.401
+"Vitamin B-6",mg,0.050,0.016,0.106
+"Folate, DFE",µg,11,3,23
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,5,2,11
+"Vitamin A, IU",IU,97,30,205
+Lipids
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

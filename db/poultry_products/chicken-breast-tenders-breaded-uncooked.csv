@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:19 EST
+"Nutrient data for: 05327, Chicken breast tenders, breaded, uncooked"
+Nutrient,Unit,1Value per 100 g,"1 piece = 15.0g","4.0 pieces = 62.0g",
+Proximates
+"Water",g,52.74,7.91,32.70
+"Energy",kcal,263,39,163
+"Protein",g,14.73,2.21,9.13
+"Total lipid (fat)",g,15.75,2.36,9.77
+"Carbohydrate, by difference",g,15.01,2.25,9.31
+"Fiber, total dietary",g,1.1,0.2,0.7
+"Sugars, total",g,0.37,0.06,0.23
+Minerals
+"Calcium, Ca",mg,19,3,12
+"Iron, Fe",mg,1.11,0.17,0.69
+"Magnesium, Mg",mg,23,3,14
+"Phosphorus, P",mg,211,32,131
+"Potassium, K",mg,214,32,133
+"Sodium, Na",mg,536,80,332
+"Zinc, Zn",mg,0.78,0.12,0.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,0.1,0.5
+"Thiamin",mg,0.211,0.032,0.131
+"Riboflavin",mg,0.091,0.014,0.056
+"Niacin",mg,5.710,0.857,3.540
+"Vitamin B-6",mg,0.041,0.006,0.025
+"Folate, DFE",µg,12,2,7
+"Vitamin B-12",µg,0.27,0.04,0.17
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.08,0.01,0.05
+"Vitamin D (D2 + D3)",µg,0.2,0.0,0.1
+"Vitamin D",IU,9,1,6
+"Vitamin K (phylloquinone)",µg,14.7,2.2,9.1
+Lipids
+"Fatty acids, total saturated",g,3.260,0.489,2.021
+"Fatty acids, total monounsaturated",g,6.480,0.972,4.018
+"Fatty acids, total polyunsaturated",g,3.340,0.501,2.071
+"Cholesterol",mg,41,6,25
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

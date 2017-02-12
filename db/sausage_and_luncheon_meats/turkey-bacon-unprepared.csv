@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:20 EST
+"Nutrient data for: 07254, Turkey bacon, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 serving = 14.0g","1 slice 12 oz pkg = 16.0g","1 slice 6 oz pkg = 9.8g",
+Proximates
+"Water",g,61.83,8.66,9.89,6.06
+"Energy",kcal,226,32,36,22
+"Protein",g,15.94,2.23,2.55,1.56
+"Total lipid (fat)",g,16.93,2.37,2.71,1.66
+"Carbohydrate, by difference",g,1.89,0.26,0.30,0.19
+Minerals
+"Calcium, Ca",mg,80,11,13,8
+"Iron, Fe",mg,1.40,0.20,0.22,0.14
+"Magnesium, Mg",mg,16,2,3,2
+"Phosphorus, P",mg,222,31,36,22
+"Potassium, K",mg,349,49,56,34
+"Sodium, Na",mg,1069,150,171,105
+"Zinc, Zn",mg,2.54,0.36,0.41,0.25
+Vitamins
+"Thiamin",mg,0.030,0.004,0.005,0.003
+"Riboflavin",mg,0.237,0.033,0.038,0.023
+"Niacin",mg,4.032,0.564,0.645,0.395
+"Vitamin B-6",mg,0.244,0.034,0.039,0.024
+"Vitamin B-12",µg,1.19,0.17,0.19,0.12
+"Vitamin A, RAE",µg,10,1,2,1
+"Vitamin A, IU",IU,34,5,5,3
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.02,0.02,0.01
+Lipids
+"Fatty acids, total saturated",g,4.520,0.633,0.723,0.443
+"Fatty acids, total monounsaturated",g,6.223,0.871,0.996,0.610
+"Fatty acids, total polyunsaturated",g,4.699,0.658,0.752,0.461
+"Fatty acids, total trans",g,0.184,0.026,0.029,0.018
+"Cholesterol",mg,86,12,14,8
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

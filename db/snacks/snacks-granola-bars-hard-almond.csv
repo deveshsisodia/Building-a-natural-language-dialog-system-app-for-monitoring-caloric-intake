@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:53 EST
+"Nutrient data for: 19016, Snacks, granola bars, hard, almond"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 bar = 24.0g",
+Proximates
+"Water",g,3.10,0.88,0.74
+"Energy",kcal,495,140,119
+"Protein",g,7.70,2.18,1.85
+"Total lipid (fat)",g,25.50,7.23,6.12
+"Carbohydrate, by difference",g,62.00,17.58,14.88
+"Fiber, total dietary",g,4.8,1.4,1.2
+Minerals
+"Calcium, Ca",mg,32,9,8
+"Iron, Fe",mg,2.50,0.71,0.60
+"Magnesium, Mg",mg,81,23,19
+"Phosphorus, P",mg,228,65,55
+"Potassium, K",mg,273,77,66
+"Sodium, Na",mg,256,73,61
+"Zinc, Zn",mg,1.58,0.45,0.38
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.280,0.079,0.067
+"Riboflavin",mg,0.070,0.020,0.017
+"Niacin",mg,0.610,0.173,0.146
+"Vitamin B-6",mg,0.047,0.013,0.011
+"Folate, DFE",µg,12,3,3
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,2,1,0
+"Vitamin A, IU",IU,37,10,9
+Lipids
+"Fatty acids, total saturated",g,12.510,3.547,3.002
+"Fatty acids, total monounsaturated",g,7.740,2.194,1.858
+"Fatty acids, total polyunsaturated",g,3.760,1.066,0.902
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

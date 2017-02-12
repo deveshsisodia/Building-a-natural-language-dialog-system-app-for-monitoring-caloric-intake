@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08488, Cereals, MALT-O-MEAL, Farina Hot Wheat Cereal, dry"
+Nutrient,Unit,1Value per 100 g,"3.0 tbsp (1 NLEA serving) = 35.0g",
+Proximates
+"Water",g,9.69,3.39
+"Energy",kcal,365,128
+"Protein",g,10.48,3.67
+"Total lipid (fat)",g,0.49,0.17
+"Carbohydrate, by difference",g,77.20,27.02
+"Fiber, total dietary",g,2.9,1.0
+"Sugars, total",g,0.70,0.24
+Minerals
+"Calcium, Ca",mg,377,132
+"Iron, Fe",mg,40.93,14.33
+"Magnesium, Mg",mg,13,5
+"Phosphorus, P",mg,109,38
+"Potassium, K",mg,93,33
+"Sodium, Na",mg,3,1
+"Zinc, Zn",mg,0.51,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,1.220,0.427
+"Riboflavin",mg,1.070,0.375
+"Niacin",mg,19.770,6.919
+"Vitamin B-6",mg,2.000,0.700
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.070,0.025
+"Fatty acids, total monounsaturated",g,0.050,0.018
+"Fatty acids, total polyunsaturated",g,0.210,0.073
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

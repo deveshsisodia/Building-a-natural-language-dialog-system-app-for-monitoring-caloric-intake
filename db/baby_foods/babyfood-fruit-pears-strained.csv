@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:45 EST
+"Nutrient data for: 03132, Babyfood, fruit, pears, strained"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 16.0g","1 oz = 28.35g","1 jar = 113.0g","1 jar Beech-Nut Baby's First (2.5 oz) = 71.0g","1 jar Beech-Nut Stage I (4 oz) = 113.0g","1 jar Gerber First Foods (2.5 oz) = 71.0g","1 jar Earth's Best (4.5 oz) = 113.0g","1 jar Gerber Second Food (4 oz) = 113.0g","1 jar Heinz Strained-2 (4 oz) = 113.0g","1 jar Heinz Beginner-1 (2.5 oz) = 71.0g",
+Proximates
+"Water",g,88.40,14.14,25.06,99.89,62.76,99.89,62.76,99.89,99.89,99.89,62.76
+"Energy",kcal,42,7,12,47,30,47,30,47,47,47,30
+"Protein",g,0.30,0.05,0.09,0.34,0.21,0.34,0.21,0.34,0.34,0.34,0.21
+"Total lipid (fat)",g,0.20,0.03,0.06,0.23,0.14,0.23,0.14,0.23,0.23,0.23,0.14
+"Carbohydrate, by difference",g,10.80,1.73,3.06,12.20,7.67,12.20,7.67,12.20,12.20,12.20,7.67
+"Fiber, total dietary",g,2.8,0.4,0.8,3.2,2.0,3.2,2.0,3.2,3.2,3.2,2.0
+"Sugars, total",g,6.98,1.12,1.98,7.89,4.96,7.89,4.96,7.89,7.89,7.89,4.96
+Minerals
+"Calcium, Ca",mg,8,1,2,9,6,9,6,9,9,9,6
+"Iron, Fe",mg,0.24,0.04,0.07,0.27,0.17,0.27,0.17,0.27,0.27,0.27,0.17
+"Magnesium, Mg",mg,8,1,2,9,6,9,6,9,9,9,6
+"Phosphorus, P",mg,12,2,3,14,9,14,9,14,14,14,9
+"Potassium, K",mg,130,21,37,147,92,147,92,147,147,147,92
+"Sodium, Na",mg,1,0,0,1,1,1,1,1,1,1,1
+"Zinc, Zn",mg,0.08,0.01,0.02,0.09,0.06,0.09,0.06,0.09,0.09,0.09,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,24.5,3.9,6.9,27.7,17.4,27.7,17.4,27.7,27.7,27.7,17.4
+"Thiamin",mg,0.013,0.002,0.004,0.015,0.009,0.015,0.009,0.015,0.015,0.015,0.009
+"Riboflavin",mg,0.028,0.004,0.008,0.032,0.020,0.032,0.020,0.032,0.032,0.032,0.020
+"Niacin",mg,0.189,0.030,0.054,0.214,0.134,0.214,0.134,0.214,0.214,0.214,0.134
+"Vitamin B-6",mg,0.008,0.001,0.002,0.009,0.006,0.009,0.006,0.009,0.009,0.009,0.006
+"Folate, DFE",µg,4,1,1,5,3,5,3,5,5,5,3
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,0,0,1,1,1,1,1,1,1,1
+"Vitamin A, IU",IU,17,3,5,19,12,19,12,19,19,19,12
+"Vitamin E (alpha-tocopherol)",mg,0.09,0.01,0.03,0.10,0.06,0.10,0.06,0.10,0.10,0.10,0.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,3.2,0.5,0.9,3.6,2.3,3.6,2.3,3.6,3.6,3.6,2.3
+Lipids
+"Fatty acids, total saturated",g,0.012,0.002,0.003,0.014,0.009,0.014,0.009,0.014,0.014,0.014,0.009
+"Fatty acids, total monounsaturated",g,0.042,0.007,0.012,0.047,0.030,0.047,0.030,0.047,0.047,0.047,0.030
+"Fatty acids, total polyunsaturated",g,0.046,0.007,0.013,0.052,0.033,0.052,0.033,0.052,0.052,0.052,0.033
+"Cholesterol",mg,0,0,0,0,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0,0,0,0,0

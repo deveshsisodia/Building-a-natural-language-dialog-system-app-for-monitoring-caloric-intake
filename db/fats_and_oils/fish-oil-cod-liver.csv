@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:16 EST
+"Nutrient data for: 04589, Fish oil, cod liver"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 4.5g","1 tbsp = 13.6g","1 cup = 218.0g",
+Proximates
+"Water",g,0.00,0.00,0.00,0.00
+"Energy",kcal,902,41,123,1966
+"Protein",g,0.00,0.00,0.00,0.00
+"Total lipid (fat)",g,100.00,4.50,13.60,218.00
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,0,0,0,0
+"Iron, Fe",mg,0.00,0.00,0.00,0.00
+"Magnesium, Mg",mg,0,0,0,0
+"Phosphorus, P",mg,0,0,0,0
+"Potassium, K",mg,0,0,0,0
+"Sodium, Na",mg,0,0,0,0
+"Zinc, Zn",mg,0.00,0.00,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Riboflavin",mg,0.000,0.000,0.000,0.000
+"Niacin",mg,0.000,0.000,0.000,0.000
+"Vitamin B-6",mg,0.000,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,30000,1350,4080,65400
+"Vitamin A, IU",IU,100000,4500,13600,218000
+"Vitamin D (D2 + D3)",µg,250.0,11.2,34.0,545.0
+"Vitamin D",IU,10000,450,1360,21800
+Lipids
+"Fatty acids, total saturated",g,22.608,1.017,3.075,49.285
+"Fatty acids, total monounsaturated",g,46.711,2.102,6.353,101.830
+"Fatty acids, total polyunsaturated",g,22.541,1.014,3.066,49.139
+"Cholesterol",mg,570,26,78,1243
+Amino Acids
+Other

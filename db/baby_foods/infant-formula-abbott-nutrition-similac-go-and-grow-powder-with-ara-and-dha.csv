@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:48 EST
+"Nutrient data for: 33871, Infant formula, ABBOTT NUTRITION, SIMILAC, GO AND GROW, powder, with ARA and DHA"
+Nutrient,Unit,1Value per 100 g,"1 scoop = 9.6g",
+Proximates
+"Water",g,2.00,0.19
+"Energy",kcal,512,49
+"Protein",g,15.36,1.47
+"Total lipid (fat)",g,27.65,2.65
+"Carbohydrate, by difference",g,52.20,5.01
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,52.20,5.01
+Minerals
+"Calcium, Ca",mg,998,96
+"Iron, Fe",mg,10.20,0.98
+"Magnesium, Mg",mg,46,4
+"Phosphorus, P",mg,666,64
+"Potassium, K",mg,768,74
+"Sodium, Na",mg,154,15
+"Zinc, Zn",mg,3.84,0.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,61.0,5.9
+"Thiamin",mg,0.512,0.049
+"Riboflavin",mg,0.768,0.074
+"Niacin",mg,5.376,0.516
+"Vitamin B-6",mg,0.307,0.029
+"Folate, DFE",µg,131,13
+"Vitamin B-12",µg,1.54,0.15
+"Vitamin A, RAE",µg,465,45
+"Vitamin A, IU",IU,1550,149
+"Vitamin E (alpha-tocopherol)",mg,10.30,0.99
+"Vitamin D (D2 + D3)",µg,7.7,0.7
+"Vitamin D",IU,307,29
+"Vitamin K (phylloquinone)",µg,41.0,3.9
+Lipids
+"Fatty acids, total saturated",g,11.430,1.097
+"Fatty acids, total monounsaturated",g,10.227,0.982
+"Fatty acids, total polyunsaturated",g,5.338,0.512
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

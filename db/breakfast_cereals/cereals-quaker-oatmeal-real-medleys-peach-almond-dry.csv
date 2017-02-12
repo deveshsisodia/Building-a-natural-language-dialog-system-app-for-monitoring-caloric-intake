@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08692, Cereals, QUAKER, oatmeal, REAL MEDLEYS, peach almond, dry"
+Nutrient,Unit,1Value per 100 g,"1 package (1 NLEA serving) = 75.0g",
+Proximates
+"Water",g,8.10,6.08
+"Energy",kcal,387,290
+"Protein",g,10.10,7.58
+"Total lipid (fat)",g,9.84,7.38
+"Carbohydrate, by difference",g,68.61,51.46
+"Fiber, total dietary",g,7.4,5.5
+"Sugars, total",g,24.85,18.64
+Minerals
+"Calcium, Ca",mg,105,79
+"Iron, Fe",mg,2.80,2.10
+"Magnesium, Mg",mg,115,86
+"Phosphorus, P",mg,302,226
+"Potassium, K",mg,560,420
+"Sodium, Na",mg,201,151
+"Zinc, Zn",mg,2.18,1.64
+Vitamins
+"Vitamin C, total ascorbic acid",mg,16.1,12.1
+"Thiamin",mg,0.293,0.220
+"Riboflavin",mg,0.188,0.141
+"Niacin",mg,1.870,1.403
+"Vitamin B-6",mg,0.121,0.091
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,108,81
+"Vitamin E (alpha-tocopherol)",mg,2.46,1.84
+Lipids
+"Fatty acids, total saturated",g,1.114,0.836
+"Fatty acids, total monounsaturated",g,5.242,3.931
+"Fatty acids, total polyunsaturated",g,2.641,1.981
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

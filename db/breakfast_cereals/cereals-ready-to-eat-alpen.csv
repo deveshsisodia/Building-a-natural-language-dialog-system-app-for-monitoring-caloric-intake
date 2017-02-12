@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 43218, Cereals ready-to-eat, ALPEN"
+Nutrient,Unit,1Value per 100 g,"0.67 cup (1 NLEA serving) = 55.0g",
+Proximates
+"Water",g,7.40,4.07
+"Energy",kcal,352,194
+"Protein",g,11.20,6.16
+"Total lipid (fat)",g,3.30,1.81
+"Carbohydrate, by difference",g,75.70,41.63
+"Fiber, total dietary",g,9.1,5.0
+"Sugars, total",g,20.00,11.00
+Minerals
+"Calcium, Ca",mg,147,81
+"Iron, Fe",mg,3.00,1.65
+"Magnesium, Mg",mg,94,52
+"Phosphorus, P",mg,371,204
+"Potassium, K",mg,418,230
+"Sodium, Na",mg,27,15
+"Zinc, Zn",mg,3.00,1.65
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.7,4.8
+"Thiamin",mg,0.400,0.220
+"Riboflavin",mg,0.400,0.220
+"Niacin",mg,2.120,1.166
+"Vitamin B-6",mg,0.280,0.154
+"Folate, DFE",µg,30,16
+"Vitamin B-12",µg,0.12,0.07
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.51,0.28
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.5,1.4
+Lipids
+"Fatty acids, total saturated",g,0.496,0.273
+"Fatty acids, total monounsaturated",g,1.327,0.730
+"Fatty acids, total polyunsaturated",g,0.925,0.509
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

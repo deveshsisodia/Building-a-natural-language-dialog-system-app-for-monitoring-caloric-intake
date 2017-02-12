@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:18 EST
+"Nutrient data for: 14003, Alcoholic beverage, beer, regular, all"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 29.7g","1 can = 356.0g",
+Proximates
+"Water",g,91.96,27.31,327.38
+"Energy",kcal,43,13,153
+"Protein",g,0.46,0.14,1.64
+"Total lipid (fat)",g,0.00,0.00,0.00
+"Carbohydrate, by difference",g,3.55,1.05,12.64
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,4,1,14
+"Iron, Fe",mg,0.02,0.01,0.07
+"Magnesium, Mg",mg,6,2,21
+"Phosphorus, P",mg,14,4,50
+"Potassium, K",mg,27,8,96
+"Sodium, Na",mg,4,1,14
+"Zinc, Zn",mg,0.01,0.00,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.005,0.001,0.018
+"Riboflavin",mg,0.025,0.007,0.089
+"Niacin",mg,0.513,0.152,1.826
+"Vitamin B-6",mg,0.046,0.014,0.164
+"Folate, DFE",µg,6,2,21
+"Vitamin B-12",µg,0.02,0.01,0.07
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Proximates include ales, lagers, porters, premium beers and stouts.   Other nutrients based on lager samples."

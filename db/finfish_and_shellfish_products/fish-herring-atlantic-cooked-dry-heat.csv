@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:58 EST
+"Nutrient data for: 15040, Fish, herring, Atlantic, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 143.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,64.16,91.75,54.54
+"Energy",kcal,203,290,173
+"Protein",g,23.03,32.93,19.58
+"Total lipid (fat)",g,11.59,16.57,9.85
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,74,106,63
+"Iron, Fe",mg,1.41,2.02,1.20
+"Magnesium, Mg",mg,41,59,35
+"Phosphorus, P",mg,303,433,258
+"Potassium, K",mg,419,599,356
+"Sodium, Na",mg,115,164,98
+"Zinc, Zn",mg,1.27,1.82,1.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,1.0,0.6
+"Thiamin",mg,0.112,0.160,0.095
+"Riboflavin",mg,0.299,0.428,0.254
+"Niacin",mg,4.124,5.897,3.505
+"Vitamin B-6",mg,0.348,0.498,0.296
+"Folate, DFE",µg,12,17,10
+"Vitamin B-12",µg,13.14,18.79,11.17
+"Vitamin A, RAE",µg,36,51,31
+"Vitamin A, IU",IU,120,172,102
+"Vitamin E (alpha-tocopherol)",mg,1.37,1.96,1.16
+"Vitamin D (D2 + D3)",µg,5.4,7.7,4.6
+"Vitamin D",IU,214,306,182
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,2.615,3.739,2.223
+"Fatty acids, total monounsaturated",g,4.790,6.850,4.071
+"Fatty acids, total polyunsaturated",g,2.735,3.911,2.325
+"Cholesterol",mg,77,110,65
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

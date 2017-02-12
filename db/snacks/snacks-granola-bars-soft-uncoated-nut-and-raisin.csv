@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:54 EST
+"Nutrient data for: 19406, Snacks, granola bars, soft, uncoated, nut and raisin"
+Nutrient,Unit,1Value per 100 g,"1 bar (1 oz) = 28.0g",
+Proximates
+"Water",g,6.10,1.71
+"Energy",kcal,454,127
+"Protein",g,8.00,2.24
+"Total lipid (fat)",g,20.40,5.71
+"Carbohydrate, by difference",g,63.60,17.81
+"Fiber, total dietary",g,5.6,1.6
+Minerals
+"Calcium, Ca",mg,84,24
+"Iron, Fe",mg,2.18,0.61
+"Magnesium, Mg",mg,91,25
+"Phosphorus, P",mg,241,67
+"Potassium, K",mg,392,110
+"Sodium, Na",mg,254,71
+"Zinc, Zn",mg,1.60,0.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.190,0.053
+"Riboflavin",mg,0.190,0.053
+"Niacin",mg,2.610,0.731
+"Vitamin B-6",mg,0.120,0.034
+"Folate, DFE",µg,30,8
+"Vitamin B-12",µg,0.24,0.07
+"Vitamin A, RAE",µg,2,1
+"Vitamin A, IU",IU,41,11
+Lipids
+"Fatty acids, total saturated",g,9.540,2.671
+"Fatty acids, total monounsaturated",g,4.220,1.182
+"Fatty acids, total polyunsaturated",g,5.520,1.546
+"Cholesterol",mg,0,0
+Amino Acids
+Other

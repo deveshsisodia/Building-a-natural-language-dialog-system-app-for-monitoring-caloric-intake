@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:44 EST
+"Nutrient data for: 03994, Babyfood, fruit, banana and strawberry, junior"
+Nutrient,Unit,1Value per 100 g,"1 bottle = 140.0g",
+Proximates
+"Water",g,72.23,101.12
+"Energy",kcal,109,153
+"Protein",g,0.71,0.99
+"Total lipid (fat)",g,0.37,0.52
+"Carbohydrate, by difference",g,25.78,36.09
+"Fiber, total dietary",g,1.4,2.0
+"Sugars, total",g,19.29,27.01
+Minerals
+"Calcium, Ca",mg,0,0
+"Iron, Fe",mg,0.14,0.20
+"Magnesium, Mg",mg,30,42
+"Phosphorus, P",mg,24,34
+"Potassium, K",mg,395,553
+"Sodium, Na",mg,1,1
+"Zinc, Zn",mg,0.23,0.32
+Vitamins
+"Vitamin C, total ascorbic acid",mg,12.9,18.1
+"Thiamin",mg,0.035,0.049
+"Riboflavin",mg,0.080,0.112
+"Niacin",mg,0.728,1.019
+"Vitamin B-6",mg,0.395,0.553
+"Folate, DFE",µg,22,31
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,3,4
+"Vitamin A, IU",IU,69,97
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.17
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.6,0.8
+Lipids
+"Fatty acids, total saturated",g,0.121,0.169
+"Fatty acids, total monounsaturated",g,0.036,0.050
+"Fatty acids, total polyunsaturated",g,0.084,0.118
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

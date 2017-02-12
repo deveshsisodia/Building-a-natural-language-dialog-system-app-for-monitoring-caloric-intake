@@ -1,0 +1,30 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:32 EST
+"Nutrient data for: 23312, Beef, Australian, imported, Wagyu, loin, top loin steak/roast, boneless, separable lean only, Aust. marble score 9, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 114.0g","1 roast = 359.0g",
+Proximates
+"Water",g,53.09,60.52,190.59
+"Energy",kcal,331,377,1188
+"Protein",g,16.92,19.29,60.74
+"Total lipid (fat)",g,29.15,33.23,104.65
+"Carbohydrate, by difference",g,0.13,0.15,0.47
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,4,5,14
+"Iron, Fe",mg,1.71,1.95,6.14
+"Sodium, Na",mg,68,78,244
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,10.309,11.752,37.009
+"Fatty acids, total monounsaturated",g,15.368,17.520,55.171
+"Fatty acids, total polyunsaturated",g,1.079,1.230,3.874
+"Fatty acids, total trans",g,0.891,1.016,3.199
+"Cholesterol",mg,61,70,219
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

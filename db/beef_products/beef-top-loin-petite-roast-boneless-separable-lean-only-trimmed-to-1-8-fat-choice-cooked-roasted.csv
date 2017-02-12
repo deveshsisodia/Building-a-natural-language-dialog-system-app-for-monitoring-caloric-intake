@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:57 EST
+"Nutrient data for: 23251, Beef, top loin petite roast, boneless, separable lean only, trimmed to 1/8"" fat, choice, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 roast = 677.0g",
+Proximates
+"Water",g,59.74,50.78,404.44
+"Energy",kcal,206,175,1395
+"Protein",g,28.24,24.00,191.18
+"Total lipid (fat)",g,9.97,8.47,67.50
+"Carbohydrate, by difference",g,0.88,0.75,5.96
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,17,14,115
+"Iron, Fe",mg,2.02,1.72,13.68
+"Magnesium, Mg",mg,25,21,169
+"Phosphorus, P",mg,231,196,1564
+"Potassium, K",mg,371,315,2512
+"Sodium, Na",mg,62,53,420
+"Zinc, Zn",mg,5.60,4.76,37.91
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.075,0.064,0.508
+"Riboflavin",mg,0.145,0.123,0.982
+"Niacin",mg,8.330,7.080,56.394
+"Vitamin B-6",mg,0.588,0.500,3.981
+"Folate, DFE",µg,7,6,47
+"Vitamin B-12",µg,3.72,3.16,25.18
+"Vitamin A, RAE",µg,1,1,7
+"Vitamin A, IU",IU,5,4,34
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.7
+"Vitamin D",IU,5,4,34
+"Vitamin K (phylloquinone)",µg,1.6,1.4,10.8
+Lipids
+"Fatty acids, total saturated",g,3.498,2.973,23.681
+"Fatty acids, total monounsaturated",g,4.421,3.758,29.930
+"Fatty acids, total polyunsaturated",g,0.375,0.319,2.539
+"Fatty acids, total trans",g,0.502,0.427,3.399
+"Cholesterol",mg,79,67,535
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

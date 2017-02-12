@@ -1,0 +1,32 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:39 EST
+"Nutrient data for: 28089, KEEBLER, FUDGE SHOPPE, Fudge Stripes, Mini"
+Nutrient,Unit,1Value per 100 g,"1 package = 40.0g","14.0 cookie = 30.0g",
+Proximates
+"Water",g,2.00,0.80,0.60
+"Energy",kcal,497,199,149
+"Protein",g,4.20,1.68,1.26
+"Total lipid (fat)",g,23.10,9.24,6.93
+"Carbohydrate, by difference",g,68.70,27.48,20.61
+"Fiber, total dietary",g,1.8,0.7,0.5
+"Sugars, total",g,31.80,12.72,9.54
+Minerals
+"Iron, Fe",mg,1.00,0.40,0.30
+"Magnesium, Mg",mg,12,5,4
+"Phosphorus, P",mg,75,30,22
+"Potassium, K",mg,222,89,67
+"Sodium, Na",mg,367,147,110
+"Zinc, Zn",mg,0.20,0.08,0.06
+Vitamins
+"Thiamin",mg,0.360,0.144,0.108
+"Riboflavin",mg,0.210,0.084,0.063
+"Niacin",mg,2.200,0.880,0.660
+Lipids
+"Fatty acids, total saturated",g,13.800,5.520,4.140
+"Fatty acids, total monounsaturated",g,2.900,1.160,0.870
+"Fatty acids, total polyunsaturated",g,5.500,2.200,1.650
+"Fatty acids, total trans",g,0.470,0.188,0.141
+"Cholesterol",mg,1,0,0
+Amino Acids
+Other

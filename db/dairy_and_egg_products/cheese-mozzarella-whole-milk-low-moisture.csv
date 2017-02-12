@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:06 EST
+"Nutrient data for: 01027, Cheese, mozzarella, whole milk, low moisture"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cubic inch = 18.0g",
+Proximates
+"Water",g,48.38,13.72,8.71
+"Energy",kcal,318,90,57
+"Protein",g,21.60,6.12,3.89
+"Total lipid (fat)",g,24.64,6.99,4.44
+"Carbohydrate, by difference",g,2.47,0.70,0.44
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,1.01,0.29,0.18
+Minerals
+"Calcium, Ca",mg,575,163,104
+"Iron, Fe",mg,0.20,0.06,0.04
+"Magnesium, Mg",mg,21,6,4
+"Phosphorus, P",mg,412,117,74
+"Potassium, K",mg,75,21,14
+"Sodium, Na",mg,710,201,128
+"Zinc, Zn",mg,2.46,0.70,0.44
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.016,0.005,0.003
+"Riboflavin",mg,0.270,0.077,0.049
+"Niacin",mg,0.094,0.027,0.017
+"Vitamin B-6",mg,0.062,0.018,0.011
+"Folate, DFE",µg,8,2,1
+"Vitamin B-12",µg,0.73,0.21,0.13
+"Vitamin A, RAE",µg,197,56,35
+"Vitamin A, IU",IU,745,211,134
+"Vitamin E (alpha-tocopherol)",mg,0.21,0.06,0.04
+"Vitamin D (D2 + D3)",µg,0.5,0.1,0.1
+"Vitamin D",IU,18,5,3
+"Vitamin K (phylloquinone)",µg,2.5,0.7,0.5
+Lipids
+"Fatty acids, total saturated",g,15.561,4.412,2.801
+"Fatty acids, total monounsaturated",g,7.027,1.992,1.265
+"Fatty acids, total polyunsaturated",g,0.778,0.221,0.140
+"Cholesterol",mg,89,25,16
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

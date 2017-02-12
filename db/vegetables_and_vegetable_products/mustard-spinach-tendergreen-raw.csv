@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:24 EST
+"Nutrient data for: 11274, Mustard spinach, (tendergreen), raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 150.0g",
+Proximates
+"Water",g,92.20,138.30
+"Energy",kcal,22,33
+"Protein",g,2.20,3.30
+"Total lipid (fat)",g,0.30,0.45
+"Carbohydrate, by difference",g,3.90,5.85
+"Fiber, total dietary",g,2.8,4.2
+Minerals
+"Calcium, Ca",mg,210,315
+"Iron, Fe",mg,1.50,2.25
+"Magnesium, Mg",mg,11,16
+"Phosphorus, P",mg,28,42
+"Potassium, K",mg,449,674
+"Sodium, Na",mg,21,32
+"Zinc, Zn",mg,0.17,0.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,130.0,195.0
+"Thiamin",mg,0.068,0.102
+"Riboflavin",mg,0.093,0.139
+"Niacin",mg,0.678,1.017
+"Vitamin B-6",mg,0.153,0.229
+"Folate, DFE",µg,159,238
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,495,742
+"Vitamin A, IU",IU,9900,14850
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.015,0.022
+"Fatty acids, total monounsaturated",g,0.138,0.207
+"Fatty acids, total polyunsaturated",g,0.057,0.086
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

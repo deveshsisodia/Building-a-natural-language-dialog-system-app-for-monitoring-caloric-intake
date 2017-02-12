@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:17 EST
+"Nutrient data for: 11994, Broccoli, chinese, raw"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,92.55,
+"Energy",kcal,30,
+"Protein",g,1.20,
+"Total lipid (fat)",g,0.76,
+"Carbohydrate, by difference",g,4.67,
+"Fiber, total dietary",g,2.6,
+"Sugars, total",g,0.88,
+Minerals
+"Calcium, Ca",mg,105,
+"Iron, Fe",mg,0.59,
+"Magnesium, Mg",mg,19,
+"Phosphorus, P",mg,43,
+"Potassium, K",mg,274,
+"Sodium, Na",mg,7,
+"Zinc, Zn",mg,0.41,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,29.6,
+"Thiamin",mg,0.100,
+"Riboflavin",mg,0.153,
+"Niacin",mg,0.459,
+"Vitamin B-6",mg,0.074,
+"Folate, DFE",µg,104,
+"Vitamin B-12",µg,0.00,
+"Vitamin A, RAE",µg,86,
+"Vitamin A, IU",IU,1720,
+"Vitamin E (alpha-tocopherol)",mg,0.50,
+"Vitamin D (D2 + D3)",µg,0.0,
+"Vitamin D",IU,0,
+"Vitamin K (phylloquinone)",µg,89.1,
+Lipids
+"Fatty acids, total saturated",g,0.116,
+"Fatty acids, total monounsaturated",g,0.053,
+"Fatty acids, total polyunsaturated",g,0.347,
+"Cholesterol",mg,0,
+Amino Acids
+Other
+"Caffeine",mg,0,

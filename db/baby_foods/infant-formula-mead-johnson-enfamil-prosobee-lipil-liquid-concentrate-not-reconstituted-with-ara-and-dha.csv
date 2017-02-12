@@ -1,0 +1,45 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:49 EST
+"Nutrient data for: 03854, Infant formula, MEAD JOHNSON, ENFAMIL, PROSOBEE, LIPIL, liquid concentrate, not reconstituted, with ARA and DHA"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 31.3g",
+Proximates
+"Water",g,75.47,23.62
+"Energy",kcal,131,41
+"Protein",g,3.19,1.00
+"Total lipid (fat)",g,7.11,2.23
+"Carbohydrate, by difference",g,13.58,4.25
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,13.58,4.25
+Minerals
+"Calcium, Ca",mg,134,42
+"Iron, Fe",mg,2.30,0.72
+"Magnesium, Mg",mg,14,4
+"Phosphorus, P",mg,106,33
+"Potassium, K",mg,153,48
+"Sodium, Na",mg,45,14
+"Zinc, Zn",mg,1.53,0.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,15.3,4.8
+"Thiamin",mg,0.102,0.032
+"Riboflavin",mg,0.115,0.036
+"Niacin",mg,1.283,0.402
+"Vitamin B-6",mg,0.077,0.024
+"Folate, DFE",µg,34,11
+"Vitamin B-12",µg,0.38,0.12
+"Vitamin A, RAE",µg,113,35
+"Vitamin A, IU",IU,377,118
+"Vitamin E (alpha-tocopherol)",mg,1.16,0.36
+"Vitamin D (D2 + D3)",µg,1.9,0.6
+"Vitamin D",IU,77,24
+"Vitamin K (phylloquinone)",µg,10.2,3.2
+Lipids
+"Fatty acids, total saturated",g,2.969,0.929
+"Fatty acids, total monounsaturated",g,2.598,0.813
+"Fatty acids, total polyunsaturated",g,1.378,0.431
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(a)"Contains arachidonic acid (ARA, nutrient number 620) and docosahexaenoic acid (DHA, nutrient number 621), fatty acids found in human breast milk."

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:27 EST
+"Nutrient data for: 11364, Potatoes, baked, skin, without salt"
+Nutrient,Unit,1Value per 100 g,"1 skin = 58.0g",
+Proximates
+"Water",g,47.31,27.44
+"Energy",kcal,198,115
+"Protein",g,4.29,2.49
+"Total lipid (fat)",g,0.10,0.06
+"Carbohydrate, by difference",g,46.06,26.71
+"Fiber, total dietary",g,7.9,4.6
+"Sugars, total",g,1.40,0.81
+Minerals
+"Calcium, Ca",mg,34,20
+"Iron, Fe",mg,7.04,4.08
+"Magnesium, Mg",mg,43,25
+"Phosphorus, P",mg,101,59
+"Potassium, K",mg,573,332
+"Sodium, Na",mg,21,12
+"Zinc, Zn",mg,0.49,0.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,13.5,7.8
+"Thiamin",mg,0.122,0.071
+"Riboflavin",mg,0.106,0.061
+"Niacin",mg,3.065,1.778
+"Vitamin B-6",mg,0.614,0.356
+"Folate, DFE",µg,22,13
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1,1
+"Vitamin A, IU",IU,10,6
+"Vitamin E (alpha-tocopherol)",mg,0.04,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.7,1.0
+Lipids
+"Fatty acids, total saturated",g,0.026,0.015
+"Fatty acids, total monounsaturated",g,0.002,0.001
+"Fatty acids, total polyunsaturated",g,0.043,0.025
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

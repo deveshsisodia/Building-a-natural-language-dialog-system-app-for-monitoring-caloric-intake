@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:57 EST
+"Nutrient data for: 15020, Fish, croaker, Atlantic, raw"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 79.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,78.03,61.64,66.33
+"Energy",kcal,104,82,88
+"Protein",g,17.78,14.05,15.11
+"Total lipid (fat)",g,3.17,2.50,2.69
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,15,12,13
+"Iron, Fe",mg,0.37,0.29,0.31
+"Magnesium, Mg",mg,40,32,34
+"Phosphorus, P",mg,210,166,178
+"Potassium, K",mg,345,273,293
+"Sodium, Na",mg,56,44,48
+"Zinc, Zn",mg,0.42,0.33,0.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.075,0.059,0.064
+"Riboflavin",mg,0.095,0.075,0.081
+"Niacin",mg,4.200,3.318,3.570
+"Vitamin B-6",mg,0.300,0.237,0.255
+"Folate, DFE",µg,15,12,13
+"Vitamin B-12",µg,2.50,1.98,2.12
+"Vitamin A, RAE",µg,12,9,10
+"Vitamin A, IU",IU,41,32,35
+"Vitamin E (alpha-tocopherol)",mg,1.29,1.02,1.10
+"Vitamin D (D2 + D3)",µg,0.7,0.6,0.6
+"Vitamin D",IU,27,21,23
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,1.088,0.860,0.925
+"Fatty acids, total monounsaturated",g,1.149,0.908,0.977
+"Fatty acids, total polyunsaturated",g,0.464,0.367,0.394
+"Cholesterol",mg,61,48,52
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

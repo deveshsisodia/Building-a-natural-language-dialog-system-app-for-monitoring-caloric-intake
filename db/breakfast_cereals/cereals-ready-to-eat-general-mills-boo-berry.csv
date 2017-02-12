@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08273, Cereals ready-to-eat, GENERAL MILLS, BOO BERRY"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 33.0g",
+Proximates
+"Water",g,1.89,0.62
+"Energy",kcal,386,127
+"Protein",g,5.50,1.81
+"Total lipid (fat)",g,4.30,1.42
+"Carbohydrate, by difference",g,85.40,28.18
+"Fiber, total dietary",g,4.2,1.4
+"Sugars, total",g,27.29,9.01
+Minerals
+"Calcium, Ca",mg,303,100
+"Iron, Fe",mg,13.60,4.49
+"Magnesium, Mg",mg,48,16
+"Phosphorus, P",mg,182,60
+"Potassium, K",mg,163,54
+"Sodium, Na",mg,458,151
+"Zinc, Zn",mg,11.39,3.76
+Vitamins
+"Vitamin C, total ascorbic acid",mg,18.2,6.0
+"Thiamin",mg,1.100,0.363
+"Riboflavin",mg,1.290,0.426
+"Niacin",mg,15.190,5.013
+"Vitamin B-6",mg,1.510,0.498
+"Folate, DFE",µg,502,166
+"Vitamin B-12",µg,4.50,1.49
+"Vitamin A, RAE",µg,421,139
+"Vitamin A, IU",IU,1515,500
+"Vitamin E (alpha-tocopherol)",mg,0.58,0.19
+"Vitamin D (D2 + D3)",µg,3.0,1.0
+"Vitamin D",IU,121,40
+"Vitamin K (phylloquinone)",µg,1.6,0.5
+Lipids
+"Fatty acids, total saturated",g,0.500,0.165
+"Fatty acids, total monounsaturated",g,2.090,0.690
+"Fatty acids, total polyunsaturated",g,1.390,0.459
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

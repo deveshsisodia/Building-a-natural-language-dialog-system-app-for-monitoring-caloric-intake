@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:57 EST
+"Nutrient data for: 15014, Fish, cisco, smoked"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","3.0 oz = 85.0g",
+Proximates
+"Water",g,69.80,19.79,59.33
+"Energy",kcal,177,50,150
+"Protein",g,16.36,4.64,13.91
+"Total lipid (fat)",g,11.90,3.37,10.12
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,26,7,22
+"Iron, Fe",mg,0.49,0.14,0.42
+"Magnesium, Mg",mg,17,5,14
+"Phosphorus, P",mg,150,43,128
+"Potassium, K",mg,293,83,249
+"Sodium, Na",mg,481,136,409
+"Zinc, Zn",mg,0.30,0.09,0.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.046,0.013,0.039
+"Riboflavin",mg,0.159,0.045,0.135
+"Niacin",mg,2.310,0.655,1.964
+"Vitamin B-6",mg,0.268,0.076,0.228
+"Folate, DFE",µg,2,1,2
+"Vitamin B-12",µg,4.26,1.21,3.62
+"Vitamin A, RAE",µg,283,80,241
+"Vitamin A, IU",IU,943,267,802
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.06,0.19
+"Vitamin D (D2 + D3)",µg,13.3,3.8,11.3
+"Vitamin D",IU,530,150,450
+"Vitamin K (phylloquinone)",µg,0.1,0.0,0.1
+Lipids
+"Fatty acids, total saturated",g,1.741,0.494,1.480
+"Fatty acids, total monounsaturated",g,5.484,1.555,4.661
+"Fatty acids, total polyunsaturated",g,2.274,0.645,1.933
+"Cholesterol",mg,32,9,27
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

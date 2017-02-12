@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:24 EST
+"Nutrient data for: 22959, Macaroni and cheese dinner with dry sauce mix, boxed, uncooked"
+Nutrient,Unit,1Value per 100 g,"1 serving (makes about 1 cup prepared) = 70.0g",
+Proximates
+"Water",g,8.05,5.63
+"Energy",kcal,379,265
+"Protein",g,13.86,9.70
+"Total lipid (fat)",g,4.82,3.37
+"Carbohydrate, by difference",g,70.12,49.08
+"Fiber, total dietary",g,3.2,2.2
+"Sugars, total",g,9.61,6.73
+Minerals
+"Calcium, Ca",mg,146,102
+"Iron, Fe",mg,2.75,1.93
+"Magnesium, Mg",mg,49,34
+"Phosphorus, P",mg,331,232
+"Potassium, K",mg,347,243
+"Sodium, Na",mg,680,476
+"Zinc, Zn",mg,1.23,0.86
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.5
+"Thiamin",mg,1.040,0.728
+"Riboflavin",mg,0.626,0.438
+"Niacin",mg,3.882,2.717
+"Vitamin B-6",mg,0.142,0.099
+"Folate, DFE",µg,334,234
+"Vitamin B-12",µg,0.77,0.54
+"Vitamin A, RAE",µg,18,13
+"Vitamin A, IU",IU,66,46
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.09
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.2,0.1
+Lipids
+"Fatty acids, total saturated",g,1.151,0.806
+"Fatty acids, total monounsaturated",g,0.665,0.466
+"Fatty acids, total polyunsaturated",g,0.813,0.569
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,7,5
+Amino Acids
+Other
+"Caffeine",mg,0,0

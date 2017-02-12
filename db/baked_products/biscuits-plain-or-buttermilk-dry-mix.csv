@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:29 EST
+"Nutrient data for: 18010, Biscuits, plain or buttermilk, dry mix"
+Nutrient,Unit,1Value per 100 g,"1 cup, purchased = 120.0g","1 cup, homemade = 114.0g","1 cup, poured from box = 128.0g","1 cup, spooned into cup = 120.0g","0.33 cup (NLEA serving size) = 40.0g","1 oz = 28.35g",
+Proximates
+"Water",g,9.20,11.04,10.49,11.78,11.04,3.68,2.61
+"Energy",kcal,428,514,488,548,514,171,121
+"Protein",g,8.00,9.60,9.12,10.24,9.60,3.20,2.27
+"Total lipid (fat)",g,15.40,18.48,17.56,19.71,18.48,6.16,4.37
+"Carbohydrate, by difference",g,63.40,76.08,72.28,81.15,76.08,25.36,17.97
+"Fiber, total dietary",g,2.1,2.5,2.4,2.7,2.5,0.8,0.6
+"Sugars, total",g,11.65,13.98,13.28,14.91,13.98,4.66,3.30
+Minerals
+"Calcium, Ca",mg,179,215,204,229,215,72,51
+"Iron, Fe",mg,2.77,3.32,3.16,3.55,3.32,1.11,0.79
+"Magnesium, Mg",mg,25,30,28,32,30,10,7
+"Phosphorus, P",mg,585,702,667,749,702,234,166
+"Potassium, K",mg,163,196,186,209,196,65,46
+"Sodium, Na",mg,1276,1531,1455,1633,1531,510,362
+"Zinc, Zn",mg,0.60,0.72,0.68,0.77,0.72,0.24,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.4,0.3,0.4,0.4,0.1,0.1
+"Thiamin",mg,0.575,0.690,0.655,0.736,0.690,0.230,0.163
+"Riboflavin",mg,0.437,0.524,0.498,0.559,0.524,0.175,0.124
+"Niacin",mg,4.542,5.450,5.178,5.814,5.450,1.817,1.288
+"Vitamin B-6",mg,0.076,0.091,0.087,0.097,0.091,0.030,0.022
+"Folate, DFE",µg,189,227,215,242,227,76,54
+"Vitamin B-12",µg,0.39,0.47,0.44,0.50,0.47,0.16,0.11
+"Vitamin A, RAE",µg,2,2,2,3,2,1,1
+"Vitamin A, IU",IU,4,5,5,5,5,2,1
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.16,0.15,0.17,0.16,0.05,0.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,6.5,7.8,7.4,8.3,7.8,2.6,1.8
+Lipids
+"Fatty acids, total saturated",g,3.965,4.758,4.520,5.075,4.758,1.586,1.124
+"Fatty acids, total monounsaturated",g,8.584,10.301,9.786,10.988,10.301,3.434,2.434
+"Fatty acids, total polyunsaturated",g,2.011,2.413,2.293,2.574,2.413,0.804,0.570
+"Cholesterol",mg,2,2,2,3,2,1,1
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:10 EST
+"Nutrient data for: 01110, Milk shakes, thick chocolate"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 28.4g","1 container (10.6 oz) = 300.0g",
+Proximates
+"Water",g,72.20,20.50,216.60
+"Energy",kcal,119,34,357
+"Protein",g,3.05,0.87,9.15
+"Total lipid (fat)",g,2.70,0.77,8.10
+"Carbohydrate, by difference",g,21.15,6.01,63.45
+"Fiber, total dietary",g,0.3,0.1,0.9
+"Sugars, total",g,20.85,5.92,62.55
+Minerals
+"Calcium, Ca",mg,132,37,396
+"Iron, Fe",mg,0.31,0.09,0.93
+"Magnesium, Mg",mg,16,5,48
+"Phosphorus, P",mg,126,36,378
+"Potassium, K",mg,224,64,672
+"Sodium, Na",mg,111,32,333
+"Zinc, Zn",mg,0.48,0.14,1.44
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.047,0.013,0.141
+"Riboflavin",mg,0.222,0.063,0.666
+"Niacin",mg,0.124,0.035,0.372
+"Vitamin B-6",mg,0.025,0.007,0.075
+"Folate, DFE",µg,5,1,15
+"Vitamin B-12",µg,0.32,0.09,0.96
+"Vitamin A, RAE",µg,18,5,54
+"Vitamin A, IU",IU,67,19,201
+"Vitamin E (alpha-tocopherol)",mg,0.05,0.01,0.15
+"Vitamin D (D2 + D3)",µg,1.0,0.3,3.0
+"Vitamin D",IU,41,12,123
+"Vitamin K (phylloquinone)",µg,0.2,0.1,0.6
+Lipids
+"Fatty acids, total saturated",g,1.681,0.477,5.043
+"Fatty acids, total monounsaturated",g,0.780,0.222,2.340
+"Fatty acids, total polyunsaturated",g,0.100,0.028,0.300
+"Cholesterol",mg,11,3,33
+Amino Acids
+Other
+"Caffeine",mg,2,1,6

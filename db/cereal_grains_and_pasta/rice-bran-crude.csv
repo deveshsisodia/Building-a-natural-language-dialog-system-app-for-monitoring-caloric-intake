@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:13 EST
+"Nutrient data for: 20060, Rice bran, crude"
+Nutrient,Unit,1Value per 100 g,"1 cup = 118.0g",
+Proximates
+"Water",g,6.13,7.23
+"Energy",kcal,316,373
+"Protein",g,13.35,15.75
+"Total lipid (fat)",g,20.85,24.60
+"Carbohydrate, by difference",g,49.69,58.63
+"Fiber, total dietary",g,21.0,24.8
+"Sugars, total",g,0.90,1.06
+Minerals
+"Calcium, Ca",mg,57,67
+"Iron, Fe",mg,18.54,21.88
+"Magnesium, Mg",mg,781,922
+"Phosphorus, P",mg,1677,1979
+"Potassium, K",mg,1485,1752
+"Sodium, Na",mg,5,6
+"Zinc, Zn",mg,6.04,7.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,2.753,3.249
+"Riboflavin",mg,0.284,0.335
+"Niacin",mg,33.995,40.114
+"Vitamin B-6",mg,4.070,4.803
+"Folate, DFE",µg,63,74
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,4.92,5.81
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.9,2.2
+Lipids
+"Fatty acids, total saturated",g,4.171,4.922
+"Fatty acids, total monounsaturated",g,7.549,8.908
+"Fatty acids, total polyunsaturated",g,7.459,8.802
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:16 EST
+"Nutrient data for: 04690, Margarine-like, vegetable oil spread, approximately 37% fat, unspecified oils, with salt, with added vitamin D"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 14.9g",
+Proximates
+"Water",g,59.55,8.87
+"Energy",kcal,339,51
+"Protein",g,0.51,0.08
+"Total lipid (fat)",g,37.77,5.63
+"Carbohydrate, by difference",g,0.66,0.10
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,6,1
+"Iron, Fe",mg,0.02,0.00
+"Magnesium, Mg",mg,1,0
+"Phosphorus, P",mg,5,1
+"Potassium, K",mg,34,5
+"Sodium, Na",mg,589,88
+"Zinc, Zn",mg,0.02,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0
+"Thiamin",mg,0.011,0.002
+"Riboflavin",mg,0.005,0.001
+"Niacin",mg,0.000,0.000
+"Vitamin B-6",mg,0.000,0.000
+"Folate, DFE",µg,1,0
+"Vitamin B-12",µg,0.06,0.01
+"Vitamin A, RAE",µg,1297,193
+"Vitamin A, IU",IU,4322,644
+"Vitamin E (alpha-tocopherol)",mg,13.45,2.00
+"Vitamin D (D2 + D3)",µg,10.7,1.6
+"Vitamin D",IU,429,64
+"Vitamin K (phylloquinone)",µg,74.6,11.1
+Lipids
+"Fatty acids, total saturated",g,8.637,1.287
+"Fatty acids, total monounsaturated",g,13.958,2.080
+"Fatty acids, total polyunsaturated",g,12.735,1.898
+"Fatty acids, total trans",g,1.687,0.251
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

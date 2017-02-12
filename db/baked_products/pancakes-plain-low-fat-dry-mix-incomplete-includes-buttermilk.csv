@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:43 EST
+"Nutrient data for: 28323, Pancakes, plain, low fat, dry mix, incomplete (includes buttermilk)"
+Nutrient,Unit,1Value per 100 g,"0.33 cup 1 serving = 41.0g",
+Proximates
+"Water",g,10.21,4.19
+"Energy",kcal,384,157
+"Protein",g,7.40,3.03
+"Total lipid (fat)",g,6.17,2.53
+"Carbohydrate, by difference",g,74.69,30.62
+"Fiber, total dietary",g,2.5,1.0
+"Sugars, total",g,7.40,3.03
+Minerals
+"Calcium, Ca",mg,493,202
+"Iron, Fe",mg,3.55,1.46
+"Magnesium, Mg",mg,19,8
+"Phosphorus, P",mg,92,38
+"Potassium, K",mg,111,46
+"Sodium, Na",mg,839,344
+"Zinc, Zn",mg,0.60,0.25
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.671,0.275
+"Riboflavin",mg,0.423,0.173
+"Niacin",mg,5.048,2.070
+"Vitamin B-6",mg,0.038,0.016
+"Folate, DFE",µg,249,102
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.98,0.40
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,4.1,1.7
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000
+"Fatty acids, total monounsaturated",g,3.788,1.553
+"Fatty acids, total polyunsaturated",g,2.036,0.835
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

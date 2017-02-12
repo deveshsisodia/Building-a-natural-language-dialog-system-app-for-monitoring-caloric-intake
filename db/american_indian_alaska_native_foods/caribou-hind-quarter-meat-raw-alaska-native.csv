@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:28 EST
+"Nutrient data for: 35162, Caribou, hind quarter meat, raw (Alaska Native)"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,72.60,
+"Energy",kcal,122,
+"Protein",g,22.63,
+"Total lipid (fat)",g,3.37,
+"Carbohydrate, by difference",g,0.00,
+"Fiber, total dietary",g,0.0,
+"Sugars, total",g,0.00,
+Minerals
+"Calcium, Ca",mg,5,
+"Iron, Fe",mg,4.10,
+"Magnesium, Mg",mg,26,
+"Phosphorus, P",mg,230,
+"Potassium, K",mg,320,
+"Sodium, Na",mg,52,
+"Zinc, Zn",mg,2.10,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,
+"Thiamin",mg,0.442,
+"Riboflavin",mg,0.962,
+"Niacin",mg,7.150,
+"Vitamin B-6",mg,0.351,
+"Folate, DFE",µg,4,
+"Vitamin B-12",µg,7.05,
+"Vitamin A, RAE",µg,94,
+"Vitamin A, IU",IU,312,
+"Vitamin E (alpha-tocopherol)",mg,0.69,
+"Vitamin K (phylloquinone)",µg,1.4,
+Lipids
+"Fatty acids, total saturated",g,1.270,
+"Fatty acids, total monounsaturated",g,0.940,
+"Fatty acids, total polyunsaturated",g,0.560,
+"Cholesterol",mg,81,
+Amino Acids
+Other
+"Caffeine",mg,0,

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:20 EST
+"Nutrient data for: 05747, Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, grilled"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece = 196.0g",
+Proximates
+"Water",g,66.14,56.22,129.63
+"Energy",kcal,151,128,296
+"Protein",g,30.54,25.96,59.86
+"Total lipid (fat)",g,3.17,2.69,6.21
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,5,4,10
+"Iron, Fe",mg,0.45,0.38,0.88
+"Magnesium, Mg",mg,34,29,67
+"Phosphorus, P",mg,258,219,506
+"Potassium, K",mg,391,332,766
+"Sodium, Na",mg,52,44,102
+"Zinc, Zn",mg,0.90,0.77,1.76
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.107,0.091,0.210
+"Riboflavin",mg,0.213,0.181,0.417
+"Niacin",mg,12.133,10.313,23.781
+"Vitamin B-6",mg,1.157,0.983,2.268
+"Vitamin B-12",µg,0.21,0.18,0.41
+"Vitamin A, RAE",µg,10,8,20
+"Vitamin A, IU",IU,32,27,63
+"Vitamin E (alpha-tocopherol)",mg,0.54,0.46,1.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,1,1,2
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.992,0.843,1.944
+"Fatty acids, total monounsaturated",g,1.212,1.030,2.376
+"Fatty acids, total polyunsaturated",g,0.764,0.649,1.497
+"Fatty acids, total trans",g,0.010,0.009,0.020
+"Cholesterol",mg,104,88,204
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

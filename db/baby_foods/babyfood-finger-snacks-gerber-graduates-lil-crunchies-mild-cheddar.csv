@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:44 EST
+"Nutrient data for: 33879, Babyfood, finger snacks, GERBER, GRADUATES, LIL CRUNCHIES - MILD CHEDDAR"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 8.9g",
+Proximates
+"Water",g,1.64,0.15
+"Energy",kcal,513,46
+"Protein",g,8.26,0.74
+"Total lipid (fat)",g,27.76,2.47
+"Carbohydrate, by difference",g,57.61,5.13
+"Fiber, total dietary",g,5.2,0.5
+"Sugars, total",g,1.60,0.14
+Minerals
+"Calcium, Ca",mg,789,70
+"Iron, Fe",mg,24.15,2.15
+"Magnesium, Mg",mg,85,8
+"Phosphorus, P",mg,661,59
+"Potassium, K",mg,244,22
+"Sodium, Na",mg,623,55
+"Zinc, Zn",mg,25.43,2.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.117,0.010
+"Riboflavin",mg,0.173,0.015
+"Niacin",mg,1.523,0.136
+"Vitamin B-6",mg,0.428,0.038
+"Folate, DFE",µg,20,2
+"Vitamin B-12",µg,0.70,0.06
+"Vitamin A, RAE",µg,4,0
+"Vitamin A, IU",IU,88,8
+"Vitamin E (alpha-tocopherol)",mg,14.67,1.31
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.4,0.1
+Lipids
+"Fatty acids, total saturated",g,5.200,0.463
+"Fatty acids, total monounsaturated",g,7.093,0.631
+"Fatty acids, total polyunsaturated",g,11.678,1.039
+"Fatty acids, total trans",g,0.174,0.015
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

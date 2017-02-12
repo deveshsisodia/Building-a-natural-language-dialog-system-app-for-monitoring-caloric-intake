@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:04 EST
+"Nutrient data for: 15095, Fish, shark, mixed species, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,73.58,62.54
+"Energy",kcal,130,110
+"Protein",g,20.98,17.83
+"Total lipid (fat)",g,4.51,3.83
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,34,29
+"Iron, Fe",mg,0.84,0.71
+"Magnesium, Mg",mg,49,42
+"Phosphorus, P",mg,210,178
+"Potassium, K",mg,160,136
+"Sodium, Na",mg,79,67
+"Zinc, Zn",mg,0.43,0.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.042,0.036
+"Riboflavin",mg,0.062,0.053
+"Niacin",mg,2.938,2.497
+"Vitamin B-6",mg,0.400,0.340
+"Folate, DFE",µg,3,3
+"Vitamin B-12",µg,1.49,1.27
+"Vitamin A, RAE",µg,70,60
+"Vitamin A, IU",IU,233,198
+"Vitamin E (alpha-tocopherol)",mg,1.00,0.85
+"Vitamin D (D2 + D3)",µg,0.6,0.5
+"Vitamin D",IU,24,20
+"Vitamin K (phylloquinone)",µg,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,0.925,0.786
+"Fatty acids, total monounsaturated",g,1.808,1.537
+"Fatty acids, total polyunsaturated",g,1.195,1.016
+"Cholesterol",mg,51,43
+Amino Acids
+Other
+"Caffeine",mg,0,0

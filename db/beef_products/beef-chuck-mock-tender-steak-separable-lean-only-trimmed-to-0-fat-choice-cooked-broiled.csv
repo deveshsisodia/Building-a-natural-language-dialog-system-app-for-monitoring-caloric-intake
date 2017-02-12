@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:36 EST
+"Nutrient data for: 13961, Beef, chuck, mock tender steak, separable lean only, trimmed to 0"" fat, choice, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"3.0 oz (1 serving) = 85.0g",
+Proximates
+"Water",g,65.59,55.75
+"Energy",kcal,161,137
+"Protein",g,25.74,21.88
+"Total lipid (fat)",g,5.69,4.84
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,8,7
+"Iron, Fe",mg,3.02,2.57
+"Magnesium, Mg",mg,23,20
+"Phosphorus, P",mg,234,199
+"Potassium, K",mg,293,249
+"Sodium, Na",mg,73,62
+"Zinc, Zn",mg,7.83,6.66
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.110,0.093
+"Riboflavin",mg,0.229,0.195
+"Niacin",mg,3.613,3.071
+"Vitamin B-6",mg,0.320,0.272
+"Folate, DFE",µg,8,7
+"Vitamin B-12",µg,3.37,2.86
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.16,0.14
+Lipids
+"Fatty acids, total saturated",g,1.710,1.454
+"Fatty acids, total monounsaturated",g,2.710,2.304
+"Fatty acids, total polyunsaturated",g,0.400,0.340
+"Cholesterol",mg,94,80
+Amino Acids
+Other
+"Caffeine",mg,0,0

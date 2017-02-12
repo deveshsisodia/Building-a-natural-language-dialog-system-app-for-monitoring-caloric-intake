@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:52 EST
+"Nutrient data for: 17160, Game meat, buffalo, water, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g",
+Proximates
+"Water",g,76.30,21.63,346.10
+"Energy",kcal,99,28,449
+"Protein",g,20.39,5.78,92.49
+"Total lipid (fat)",g,1.37,0.39,6.21
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,12,3,54
+"Iron, Fe",mg,1.61,0.46,7.30
+"Magnesium, Mg",mg,32,9,145
+"Phosphorus, P",mg,197,56,894
+"Potassium, K",mg,297,84,1347
+"Sodium, Na",mg,53,15,240
+"Zinc, Zn",mg,1.93,0.55,8.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.040,0.011,0.181
+"Riboflavin",mg,0.200,0.057,0.907
+"Niacin",mg,5.970,1.692,27.080
+"Vitamin B-6",mg,0.530,0.150,2.404
+"Folate, DFE",µg,8,2,36
+"Vitamin B-12",µg,1.66,0.47,7.53
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.460,0.130,2.087
+"Fatty acids, total monounsaturated",g,0.420,0.119,1.905
+"Fatty acids, total polyunsaturated",g,0.270,0.077,1.225
+"Cholesterol",mg,46,13,209
+Amino Acids
+Other

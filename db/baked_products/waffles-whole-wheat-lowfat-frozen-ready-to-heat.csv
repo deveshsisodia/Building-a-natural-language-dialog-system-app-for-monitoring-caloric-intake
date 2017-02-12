@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:47 EST
+"Nutrient data for: 28304, Waffles, whole wheat, lowfat, frozen, ready-to-heat"
+Nutrient,Unit,1Value per 100 g,"1 serving 2 waffles = 70.0g",
+Proximates
+"Water",g,38.39,26.87
+"Energy",kcal,257,180
+"Protein",g,7.14,5.00
+"Total lipid (fat)",g,3.57,2.50
+"Carbohydrate, by difference",g,49.16,34.41
+"Fiber, total dietary",g,4.3,3.0
+"Sugars, total",g,4.29,3.00
+Minerals
+"Calcium, Ca",mg,143,100
+"Iron, Fe",mg,6.43,4.50
+"Magnesium, Mg",mg,65,46
+"Phosphorus, P",mg,286,200
+"Potassium, K",mg,164,115
+"Sodium, Na",mg,557,390
+"Zinc, Zn",mg,1.17,0.82
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.429,0.300
+"Riboflavin",mg,0.486,0.340
+"Niacin",mg,5.714,4.000
+"Vitamin B-6",mg,0.571,0.400
+"Folate, DFE",µg,88,62
+"Vitamin B-12",µg,1.71,1.20
+"Vitamin A, RAE",µg,155,108
+"Vitamin A, IU",IU,519,363
+"Vitamin E (alpha-tocopherol)",mg,0.41,0.29
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,3.3,2.3
+Lipids
+"Fatty acids, total saturated",g,0.714,0.500
+"Fatty acids, total monounsaturated",g,0.714,0.500
+"Fatty acids, total polyunsaturated",g,1.429,1.000
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

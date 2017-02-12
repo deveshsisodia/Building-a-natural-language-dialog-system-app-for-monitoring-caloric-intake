@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:36 EST
+"Nutrient data for: 18241, Croissants, cheese"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 croissant, small = 42.0g","1 croissant, medium = 57.0g","1 croissant, large = 67.0g",
+Proximates
+"Water",g,21.00,5.95,8.82,11.97,14.07
+"Energy",kcal,414,117,174,236,277
+"Protein",g,9.20,2.61,3.86,5.24,6.16
+"Total lipid (fat)",g,20.90,5.93,8.78,11.91,14.00
+"Carbohydrate, by difference",g,47.00,13.32,19.74,26.79,31.49
+"Fiber, total dietary",g,2.6,0.7,1.1,1.5,1.7
+"Sugars, total",g,11.35,3.22,4.77,6.47,7.60
+Minerals
+"Calcium, Ca",mg,53,15,22,30,36
+"Iron, Fe",mg,2.15,0.61,0.90,1.23,1.44
+"Magnesium, Mg",mg,24,7,10,14,16
+"Phosphorus, P",mg,130,37,55,74,87
+"Potassium, K",mg,132,37,55,75,88
+"Sodium, Na",mg,361,102,152,206,242
+"Zinc, Zn",mg,0.94,0.27,0.39,0.54,0.63
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1,0.1,0.1,0.1
+"Thiamin",mg,0.523,0.148,0.220,0.298,0.350
+"Riboflavin",mg,0.325,0.092,0.137,0.185,0.218
+"Niacin",mg,2.160,0.612,0.907,1.231,1.447
+"Vitamin B-6",mg,0.073,0.021,0.031,0.042,0.049
+"Folate, DFE",µg,103,29,43,59,69
+"Vitamin B-12",µg,0.32,0.09,0.13,0.18,0.21
+"Vitamin A, RAE",µg,204,58,86,116,137
+"Vitamin A, IU",IU,805,228,338,459,539
+"Vitamin E (alpha-tocopherol)",mg,1.44,0.41,0.60,0.82,0.96
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,10.9,3.1,4.6,6.2,7.3
+Lipids
+"Fatty acids, total saturated",g,10.628,3.013,4.464,6.058,7.121
+"Fatty acids, total monounsaturated",g,6.509,1.845,2.734,3.710,4.361
+"Fatty acids, total polyunsaturated",g,2.384,0.676,1.001,1.359,1.597
+"Cholesterol",mg,57,16,24,32,38
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

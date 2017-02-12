@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:53 EST
+"Nutrient data for: 19004, Snacks, corn-based, extruded, chips, barbecue-flavor"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 bag (7 oz) = 198.0g",
+Proximates
+"Water",g,1.20,0.34,2.38
+"Energy",kcal,523,148,1036
+"Protein",g,7.00,1.98,13.86
+"Total lipid (fat)",g,32.70,9.27,64.75
+"Carbohydrate, by difference",g,56.20,15.93,111.28
+"Fiber, total dietary",g,5.2,1.5,10.3
+Minerals
+"Calcium, Ca",mg,131,37,259
+"Iron, Fe",mg,1.54,0.44,3.05
+"Magnesium, Mg",mg,77,22,152
+"Phosphorus, P",mg,207,59,410
+"Potassium, K",mg,236,67,467
+"Sodium, Na",mg,763,216,1511
+"Zinc, Zn",mg,1.06,0.30,2.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.7,0.5,3.4
+"Thiamin",mg,0.075,0.021,0.148
+"Riboflavin",mg,0.210,0.060,0.416
+"Niacin",mg,1.645,0.466,3.257
+"Vitamin B-6",mg,0.230,0.065,0.455
+"Folate, DFE",µg,39,11,77
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,31,9,61
+"Vitamin A, IU",IU,611,173,1210
+Lipids
+"Fatty acids, total saturated",g,4.460,1.264,8.831
+"Fatty acids, total monounsaturated",g,9.480,2.688,18.770
+"Fatty acids, total polyunsaturated",g,16.170,4.584,32.017
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

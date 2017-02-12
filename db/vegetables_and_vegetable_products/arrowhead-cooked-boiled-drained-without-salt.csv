@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:15 EST
+"Nutrient data for: 11006, Arrowhead, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 medium = 12.0g",
+Proximates
+"Water",g,77.08,9.25
+"Energy",kcal,78,9
+"Protein",g,4.49,0.54
+"Total lipid (fat)",g,0.10,0.01
+"Carbohydrate, by difference",g,16.14,1.94
+Minerals
+"Calcium, Ca",mg,7,1
+"Iron, Fe",mg,1.21,0.15
+"Magnesium, Mg",mg,49,6
+"Phosphorus, P",mg,197,24
+"Potassium, K",mg,881,106
+"Sodium, Na",mg,18,2
+"Zinc, Zn",mg,0.22,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.0
+"Thiamin",mg,0.144,0.017
+"Riboflavin",mg,0.060,0.007
+"Niacin",mg,1.160,0.139
+"Vitamin B-6",mg,0.206,0.025
+"Folate, DFE",µg,9,1
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:16 EST
+"Nutrient data for: 11710, Balsam-pear (bitter gourd), leafy tips, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 58.0g",
+Proximates
+"Water",g,88.69,51.44
+"Energy",kcal,32,19
+"Protein",g,3.60,2.09
+"Total lipid (fat)",g,0.20,0.12
+"Carbohydrate, by difference",g,6.16,3.57
+"Fiber, total dietary",g,1.9,1.1
+"Sugars, total",g,1.04,0.60
+Minerals
+"Calcium, Ca",mg,42,24
+"Iron, Fe",mg,1.02,0.59
+"Magnesium, Mg",mg,94,55
+"Phosphorus, P",mg,77,45
+"Potassium, K",mg,602,349
+"Sodium, Na",mg,249,144
+"Zinc, Zn",mg,0.30,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,55.6,32.2
+"Thiamin",mg,0.147,0.085
+"Riboflavin",mg,0.282,0.164
+"Niacin",mg,0.995,0.577
+"Vitamin B-6",mg,0.760,0.441
+"Folate, DFE",µg,88,51
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,121,70
+"Vitamin A, IU",IU,2416,1401
+"Vitamin E (alpha-tocopherol)",mg,1.45,0.84
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,163.1,94.6
+Lipids
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

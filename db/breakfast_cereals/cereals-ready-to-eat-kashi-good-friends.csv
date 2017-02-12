@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08390, Cereals ready-to-eat, KASHI GOOD FRIENDS"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 53.0g",
+Proximates
+"Water",g,2.00,1.06
+"Energy",kcal,299,158
+"Protein",g,9.40,4.98
+"Total lipid (fat)",g,3.20,1.70
+"Carbohydrate, by difference",g,79.30,42.03
+"Fiber, total dietary",g,21.7,11.5
+"Sugars, total",g,18.80,9.96
+Minerals
+"Calcium, Ca",mg,26,14
+"Iron, Fe",mg,4.10,2.17
+"Magnesium, Mg",mg,18,10
+"Phosphorus, P",mg,236,125
+"Potassium, K",mg,366,194
+"Sodium, Na",mg,204,108
+"Zinc, Zn",mg,2.59,1.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.264,0.140
+"Riboflavin",mg,0.181,0.096
+"Niacin",mg,3.257,1.726
+"Vitamin B-6",mg,0.317,0.168
+"Folate, DFE",µg,47,25
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,6,3
+"Vitamin A, IU",IU,127,67
+"Vitamin E (alpha-tocopherol)",mg,2.39,1.27
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.4,1.3
+Lipids
+"Fatty acids, total saturated",g,0.500,0.265
+"Fatty acids, total monounsaturated",g,0.600,0.318
+"Fatty acids, total polyunsaturated",g,1.100,0.583
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

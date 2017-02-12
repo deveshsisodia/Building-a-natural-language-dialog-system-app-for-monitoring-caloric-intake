@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:04 EST
+"Nutrient data for: 15107, Fish, sucker, white, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 fillet = 159.0g",
+Proximates
+"Water",g,79.71,67.75,126.74
+"Energy",kcal,92,78,146
+"Protein",g,16.76,14.25,26.65
+"Total lipid (fat)",g,2.32,1.97,3.69
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,70,60,111
+"Iron, Fe",mg,1.30,1.10,2.07
+"Magnesium, Mg",mg,30,26,48
+"Phosphorus, P",mg,210,178,334
+"Potassium, K",mg,380,323,604
+"Sodium, Na",mg,40,34,64
+"Zinc, Zn",mg,0.75,0.64,1.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.010,0.009,0.016
+"Riboflavin",mg,0.070,0.060,0.111
+"Niacin",mg,1.200,1.020,1.908
+"Vitamin B-6",mg,0.200,0.170,0.318
+"Folate, DFE",µg,15,13,24
+"Vitamin B-12",µg,2.00,1.70,3.18
+"Vitamin A, RAE",µg,51,43,81
+"Vitamin A, IU",IU,170,144,270
+Lipids
+"Fatty acids, total saturated",g,0.452,0.384,0.719
+"Fatty acids, total monounsaturated",g,0.706,0.600,1.123
+"Fatty acids, total polyunsaturated",g,0.807,0.686,1.283
+"Cholesterol",mg,41,35,65
+Amino Acids
+Other

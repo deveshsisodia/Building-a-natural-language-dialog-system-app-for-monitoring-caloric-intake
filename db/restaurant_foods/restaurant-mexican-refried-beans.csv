@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:28 EST
+"Nutrient data for: 36418, Restaurant, Mexican, refried beans"
+Nutrient,Unit,1Value per 100 g,"1 cup = 148.0g",
+Proximates
+"Water",g,67.57,100.00
+"Energy",kcal,156,231
+"Protein",g,6.91,10.23
+"Total lipid (fat)",g,6.77,10.02
+"Carbohydrate, by difference",g,16.79,24.85
+"Fiber, total dietary",g,8.0,11.8
+"Sugars, total",g,0.78,1.15
+Minerals
+"Calcium, Ca",mg,57,84
+"Iron, Fe",mg,1.62,2.40
+"Magnesium, Mg",mg,44,65
+"Phosphorus, P",mg,128,189
+"Potassium, K",mg,402,595
+"Sodium, Na",mg,376,556
+"Zinc, Zn",mg,0.88,1.30
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.135,0.200
+"Riboflavin",mg,0.111,0.164
+"Niacin",mg,0.488,0.722
+"Vitamin B-6",mg,0.098,0.145
+"Folate, DFE",µg,29,43
+"Vitamin B-12",µg,0.08,0.12
+"Vitamin A, RAE",µg,11,16
+"Vitamin A, IU",IU,42,62
+"Vitamin E (alpha-tocopherol)",mg,0.45,0.67
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,1,1
+"Vitamin K (phylloquinone)",µg,13.3,19.7
+Lipids
+"Fatty acids, total saturated",g,1.840,2.723
+"Fatty acids, total monounsaturated",g,1.834,2.714
+"Fatty acids, total polyunsaturated",g,2.344,3.469
+"Fatty acids, total trans",g,0.087,0.129
+"Cholesterol",mg,5,7
+Amino Acids
+Other
+"Caffeine",mg,0,0

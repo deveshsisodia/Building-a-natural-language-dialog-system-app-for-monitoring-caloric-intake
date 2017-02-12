@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:14 EST
+"Nutrient data for: 20066, Semolina, enriched"
+Nutrient,Unit,1Value per 100 g,"1 cup = 167.0g",
+Proximates
+"Water",g,12.67,21.16
+"Energy",kcal,360,601
+"Protein",g,12.68,21.18
+"Total lipid (fat)",g,1.05,1.75
+"Carbohydrate, by difference",g,72.83,121.63
+"Fiber, total dietary",g,3.9,6.5
+Minerals
+"Calcium, Ca",mg,17,28
+"Iron, Fe",mg,4.36,7.28
+"Magnesium, Mg",mg,47,78
+"Phosphorus, P",mg,136,227
+"Potassium, K",mg,186,311
+"Sodium, Na",mg,1,2
+"Zinc, Zn",mg,1.05,1.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.811,1.354
+"Riboflavin",mg,0.571,0.954
+"Niacin",mg,5.990,10.003
+"Vitamin B-6",mg,0.103,0.172
+"Folate, DFE",µg,261,436
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.26,0.43
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.150,0.251
+"Fatty acids, total monounsaturated",g,0.124,0.207
+"Fatty acids, total polyunsaturated",g,0.430,0.718
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:58 EST
+"Nutrient data for: 13339, Beef, variety meats and by-products, tongue, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","4.0 oz = 113.0g",
+Proximates
+"Water",g,64.53,18.29,72.92
+"Energy",kcal,224,64,253
+"Protein",g,14.90,4.22,16.84
+"Total lipid (fat)",g,16.09,4.56,18.18
+"Carbohydrate, by difference",g,3.68,1.04,4.16
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,6,2,7
+"Iron, Fe",mg,2.95,0.84,3.33
+"Magnesium, Mg",mg,16,5,18
+"Phosphorus, P",mg,133,38,150
+"Potassium, K",mg,315,89,356
+"Sodium, Na",mg,69,20,78
+"Zinc, Zn",mg,2.87,0.81,3.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.1,0.9,3.5
+"Thiamin",mg,0.125,0.035,0.141
+"Riboflavin",mg,0.340,0.096,0.384
+"Niacin",mg,4.240,1.202,4.791
+"Vitamin B-6",mg,0.310,0.088,0.350
+"Folate, DFE",µg,7,2,8
+"Vitamin B-12",µg,3.79,1.07,4.28
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,7.000,1.985,7.910
+"Fatty acids, total monounsaturated",g,7.240,2.053,8.181
+"Fatty acids, total polyunsaturated",g,0.900,0.255,1.017
+"Cholesterol",mg,87,25,98
+Amino Acids
+Other

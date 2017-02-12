@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:40 EST
+"Nutrient data for: 05337, USDA Commodity, Chicken, canned, meat only, with water"
+Nutrient,Unit,1Value per 100 g,"1 cup drained = 135.0g","1 can (5 oz) = 142.0g",
+Proximates
+"Water",g,73.31,98.97,104.10
+"Energy",kcal,129,174,183
+"Protein",g,22.02,29.73,31.27
+"Total lipid (fat)",g,4.58,6.18,6.50
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,10,14,14
+"Iron, Fe",mg,0.93,1.26,1.32
+"Magnesium, Mg",mg,18,24,26
+"Phosphorus, P",mg,125,169,178
+"Potassium, K",mg,151,204,214
+"Sodium, Na",mg,251,339,356
+"Zinc, Zn",mg,1.55,2.09,2.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.041,0.055,0.058
+"Riboflavin",mg,0.137,0.185,0.195
+"Niacin",mg,5.204,7.025,7.390
+"Vitamin B-6",mg,0.213,0.288,0.302
+"Folate, DFE",µg,5,7,7
+"Vitamin B-12",µg,0.18,0.24,0.26
+"Vitamin A, RAE",µg,10,14,14
+"Vitamin A, IU",IU,33,45,47
+"Vitamin E (alpha-tocopherol)",mg,0.21,0.28,0.30
+"Vitamin K (phylloquinone)",µg,1.6,2.2,2.3
+Lipids
+"Fatty acids, total saturated",g,1.258,1.698,1.786
+"Fatty acids, total monounsaturated",g,1.637,2.210,2.325
+"Fatty acids, total polyunsaturated",g,1.050,1.417,1.491
+"Cholesterol",mg,67,90,95
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

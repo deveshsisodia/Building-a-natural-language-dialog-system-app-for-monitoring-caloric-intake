@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:45 EST
+"Nutrient data for: 18350, Rolls, hamburger or hotdog, plain"
+Nutrient,Unit,1Value per 100 g,"1 roll 1 serving = 44.0g","1 oz = 28.35g",
+Proximates
+"Water",g,34.34,15.11,9.74
+"Energy",kcal,279,123,79
+"Protein",g,9.77,4.30,2.77
+"Total lipid (fat)",g,3.91,1.72,1.11
+"Carbohydrate, by difference",g,50.12,22.05,14.21
+"Fiber, total dietary",g,1.8,0.8,0.5
+"Sugars, total",g,7.28,3.20,2.06
+Minerals
+"Calcium, Ca",mg,144,63,41
+"Iron, Fe",mg,3.43,1.51,0.97
+"Magnesium, Mg",mg,23,10,7
+"Phosphorus, P",mg,101,44,29
+"Potassium, K",mg,122,54,35
+"Sodium, Na",mg,494,217,140
+"Zinc, Zn",mg,0.73,0.32,0.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.3,0.6,0.4
+"Thiamin",mg,0.543,0.239,0.154
+"Riboflavin",mg,0.297,0.131,0.084
+"Niacin",mg,4.180,1.839,1.185
+"Vitamin B-6",mg,0.063,0.028,0.018
+"Folate, DFE",µg,131,58,37
+"Vitamin B-12",µg,0.20,0.09,0.06
+"Vitamin A, RAE",µg,29,13,8
+"Vitamin A, IU",IU,107,47,30
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.12,0.08
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,4.8,2.1,1.4
+Lipids
+"Fatty acids, total saturated",g,0.842,0.370,0.239
+"Fatty acids, total monounsaturated",g,0.748,0.329,0.212
+"Fatty acids, total polyunsaturated",g,1.780,0.783,0.505
+"Fatty acids, total trans",g,0.027,0.012,0.008
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

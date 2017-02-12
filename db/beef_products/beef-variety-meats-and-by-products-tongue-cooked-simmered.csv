@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:58 EST
+"Nutrient data for: 13340, Beef, variety meats and by-products, tongue, cooked, simmered"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,57.87,49.19
+"Energy",kcal,284,241
+"Protein",g,19.29,16.40
+"Total lipid (fat)",g,22.30,18.95
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,5,4
+"Iron, Fe",mg,2.61,2.22
+"Magnesium, Mg",mg,15,13
+"Phosphorus, P",mg,145,123
+"Potassium, K",mg,184,156
+"Sodium, Na",mg,65,55
+"Zinc, Zn",mg,4.09,3.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.3,1.1
+"Thiamin",mg,0.022,0.019
+"Riboflavin",mg,0.294,0.250
+"Niacin",mg,3.490,2.967
+"Vitamin B-6",mg,0.155,0.132
+"Folate, DFE",µg,7,6
+"Vitamin B-12",µg,3.13,2.66
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.30,0.26
+"Vitamin D (D2 + D3)",µg,0.4,0.3
+"Vitamin D",IU,15,13
+"Vitamin K (phylloquinone)",µg,1.2,1.0
+Lipids
+"Fatty acids, total saturated",g,8.125,6.906
+"Fatty acids, total monounsaturated",g,10.102,8.587
+"Fatty acids, total polyunsaturated",g,0.746,0.634
+"Fatty acids, total trans",g,0.840,0.714
+"Cholesterol",mg,132,112
+Amino Acids
+Other
+"Caffeine",mg,0,0

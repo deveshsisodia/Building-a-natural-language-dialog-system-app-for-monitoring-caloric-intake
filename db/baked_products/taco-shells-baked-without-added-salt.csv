@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:46 EST
+"Nutrient data for: 18448, Taco shells, baked, without added salt"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 medium (approx 5"" dia) = 13.0g","1 miniature (3"" dia) = 5.0g",
+Proximates
+"Water",g,6.00,1.70,0.78,0.30
+"Energy",kcal,468,133,61,23
+"Protein",g,7.20,2.04,0.94,0.36
+"Total lipid (fat)",g,22.60,6.41,2.94,1.13
+"Carbohydrate, by difference",g,62.40,17.69,8.11,3.12
+"Fiber, total dietary",g,7.5,2.1,1.0,0.4
+Minerals
+"Calcium, Ca",mg,160,45,21,8
+"Iron, Fe",mg,2.50,0.71,0.33,0.12
+"Magnesium, Mg",mg,105,30,14,5
+"Phosphorus, P",mg,248,70,32,12
+"Potassium, K",mg,179,51,23,9
+"Sodium, Na",mg,15,4,2,1
+"Zinc, Zn",mg,1.40,0.40,0.18,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.228,0.065,0.030,0.011
+"Riboflavin",mg,0.053,0.015,0.007,0.003
+"Niacin",mg,1.350,0.383,0.176,0.068
+"Vitamin B-6",mg,0.296,0.084,0.038,0.015
+"Folate, DFE",µg,174,49,23,9
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+Lipids
+"Fatty acids, total saturated",g,3.245,0.920,0.422,0.162
+"Fatty acids, total monounsaturated",g,8.934,2.533,1.161,0.447
+"Fatty acids, total polyunsaturated",g,8.494,2.408,1.104,0.425
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other

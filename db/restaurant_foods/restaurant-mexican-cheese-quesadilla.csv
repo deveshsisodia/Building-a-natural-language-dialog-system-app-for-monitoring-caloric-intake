@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:28 EST
+"Nutrient data for: 36052, Restaurant, Mexican, cheese quesadilla"
+Nutrient,Unit,1Value per 100 g,"1 serving serving size varied on diameter and count of quesadila = 205.0g","1 quesadilla 8-10 inch diameter = 194.0g","3.0 quesadilla 5-6 inch diameter = 279.0g",
+Proximates
+"Water",g,33.75,69.19,65.47,94.16
+"Energy",kcal,368,754,714,1027
+"Protein",g,15.93,32.66,30.90,44.44
+"Total lipid (fat)",g,23.08,47.31,44.78,64.39
+"Carbohydrate, by difference",g,24.11,49.43,46.77,67.27
+"Fiber, total dietary",g,1.7,3.5,3.3,4.7
+"Sugars, total",g,2.21,4.53,4.29,6.17
+Minerals
+"Calcium, Ca",mg,430,882,834,1200
+"Iron, Fe",mg,1.52,3.12,2.95,4.24
+"Magnesium, Mg",mg,24,49,47,67
+"Phosphorus, P",mg,347,711,673,968
+"Potassium, K",mg,102,209,198,285
+"Sodium, Na",mg,701,1437,1360,1956
+"Zinc, Zn",mg,2.16,4.43,4.19,6.03
+Vitamins
+"Thiamin",mg,0.223,0.457,0.433,0.622
+"Riboflavin",mg,0.323,0.662,0.627,0.901
+"Niacin",mg,1.973,4.045,3.828,5.505
+"Vitamin B-6",mg,0.075,0.154,0.145,0.209
+"Vitamin B-12",µg,0.99,2.03,1.92,2.76
+"Vitamin A, RAE",µg,155,318,301,432
+"Vitamin A, IU",IU,518,1062,1005,1445
+"Vitamin E (alpha-tocopherol)",mg,0.61,1.25,1.18,1.70
+Lipids
+"Fatty acids, total saturated",g,11.559,23.696,22.424,32.250
+"Fatty acids, total monounsaturated",g,6.362,13.042,12.342,17.750
+"Fatty acids, total polyunsaturated",g,1.971,4.041,3.824,5.499
+"Fatty acids, total trans",g,0.955,1.958,1.853,2.664
+"Cholesterol",mg,52,107,101,145
+Amino Acids
+Other

@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:54 EST
+"Nutrient data for: 13899, Beef, round, top round, separable lean and fat, trimmed to 1/8"" fat, select, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) = 286.0g",
+Proximates
+"Water",g,55.63,47.29,159.10
+"Energy",kcal,225,191,644
+"Protein",g,34.60,29.41,98.96
+"Total lipid (fat)",g,8.54,7.26,24.42
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,4,3,11
+"Iron, Fe",mg,3.18,2.70,9.09
+"Magnesium, Mg",mg,25,21,72
+"Phosphorus, P",mg,217,184,621
+"Potassium, K",mg,321,273,918
+"Sodium, Na",mg,45,38,129
+"Zinc, Zn",mg,4.37,3.71,12.50
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.070,0.060,0.200
+"Riboflavin",mg,0.240,0.204,0.686
+"Niacin",mg,3.670,3.119,10.496
+"Vitamin B-6",mg,0.270,0.230,0.772
+"Folate, DFE",µg,9,8,26
+"Vitamin B-12",µg,2.64,2.24,7.55
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,3.200,2.720,9.152
+"Fatty acids, total monounsaturated",g,3.510,2.983,10.039
+"Fatty acids, total polyunsaturated",g,0.350,0.297,1.001
+"Cholesterol",mg,90,76,257
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

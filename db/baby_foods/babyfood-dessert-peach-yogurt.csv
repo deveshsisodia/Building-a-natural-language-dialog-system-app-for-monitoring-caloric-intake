@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:42 EST
+"Nutrient data for: 43536, Babyfood, dessert, peach yogurt"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 jar NFS = 113.0g","1 jar Gerber Second Food (4 oz) = 113.0g","1 jar Beech-Nut Stage 2 (4 oz) = 113.0g","1 jar Heinz Strained-2 (4 oz) = 113.0g",
+Proximates
+"Water",g,80.87,12.13,91.38,91.38,91.38,91.38
+"Energy",kcal,76,11,86,86,86,86
+"Protein",g,0.90,0.14,1.02,1.02,1.02,1.02
+"Total lipid (fat)",g,0.18,0.03,0.20,0.20,0.20,0.20
+"Carbohydrate, by difference",g,17.60,2.64,19.89,19.89,19.89,19.89
+"Fiber, total dietary",g,0.4,0.1,0.5,0.5,0.5,0.5
+"Sugars, total",g,11.11,1.67,12.55,12.55,12.55,12.55
+Minerals
+"Calcium, Ca",mg,27,4,31,31,31,31
+"Iron, Fe",mg,0.40,0.06,0.45,0.45,0.45,0.45
+"Magnesium, Mg",mg,13,2,15,15,15,15
+"Phosphorus, P",mg,27,4,31,31,31,31
+"Potassium, K",mg,102,15,115,115,115,115
+"Sodium, Na",mg,14,2,16,16,16,16
+"Zinc, Zn",mg,0.18,0.03,0.20,0.20,0.20,0.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,11.7,1.8,13.2,13.2,13.2,13.2
+"Thiamin",mg,0.010,0.002,0.011,0.011,0.011,0.011
+"Riboflavin",mg,0.050,0.007,0.057,0.057,0.057,0.057
+"Niacin",mg,0.400,0.060,0.452,0.452,0.452,0.452
+"Vitamin B-6",mg,0.020,0.003,0.023,0.023,0.023,0.023
+"Folate, DFE",µg,8,1,9,9,9,9
+"Vitamin B-12",µg,0.43,0.06,0.49,0.49,0.49,0.49
+"Vitamin A, RAE",µg,1,0,1,1,1,1
+"Vitamin A, IU",IU,3,0,3,3,3,3
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.117,0.018,0.132,0.132,0.132,0.132
+"Fatty acids, total monounsaturated",g,0.048,0.007,0.054,0.054,0.054,0.054
+"Fatty acids, total polyunsaturated",g,0.005,0.001,0.006,0.006,0.006,0.006
+"Cholesterol",mg,4,1,5,5,5,5
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

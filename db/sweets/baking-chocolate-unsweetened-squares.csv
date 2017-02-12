@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:32 EST
+"Nutrient data for: 19078, Baking chocolate, unsweetened, squares"
+Nutrient,Unit,1Value per 100 g,"1 oz square Bakers = 29.0g","1 cup, grated = 132.0g","0.5 oz Hersheys = 14.2g",
+Proximates
+"Water",g,1.34,0.39,1.77,0.19
+"Energy",kcal,642,186,847,91
+"Protein",g,14.32,4.15,18.90,2.03
+"Total lipid (fat)",g,52.31,15.17,69.05,7.43
+"Carbohydrate, by difference",g,28.42,8.24,37.51,4.04
+"Fiber, total dietary",g,16.6,4.8,21.9,2.4
+"Sugars, total",g,0.91,0.26,1.20,0.13
+Minerals
+"Calcium, Ca",mg,101,29,133,14
+"Iron, Fe",mg,17.40,5.05,22.97,2.47
+"Magnesium, Mg",mg,327,95,432,46
+"Phosphorus, P",mg,400,116,528,57
+"Potassium, K",mg,830,241,1096,118
+"Sodium, Na",mg,24,7,32,3
+"Zinc, Zn",mg,9.63,2.79,12.71,1.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.147,0.043,0.194,0.021
+"Riboflavin",mg,0.100,0.029,0.132,0.014
+"Niacin",mg,1.355,0.393,1.789,0.192
+"Vitamin B-6",mg,0.027,0.008,0.036,0.004
+"Folate, DFE",µg,28,8,37,4
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.40,0.12,0.53,0.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,9.7,2.8,12.8,1.4
+Lipids
+"Fatty acids, total saturated",g,32.277,9.360,42.606,4.583
+"Fatty acids, total monounsaturated",g,16.068,4.660,21.210,2.282
+"Fatty acids, total polyunsaturated",g,1.551,0.450,2.047,0.220
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,2,1,3,0
+Amino Acids
+Other
+"Caffeine",mg,80,23,106,11

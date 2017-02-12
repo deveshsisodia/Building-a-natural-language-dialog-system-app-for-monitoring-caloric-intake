@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:30 EST
+"Nutrient data for: 18029, Bread, french or vienna (includes sourdough)"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice = 139.0g",
+Proximates
+"Water",g,33.00,9.36,45.87
+"Energy",kcal,272,77,378
+"Protein",g,10.75,3.05,14.94
+"Total lipid (fat)",g,2.42,0.69,3.36
+"Carbohydrate, by difference",g,51.88,14.71,72.11
+"Fiber, total dietary",g,2.2,0.6,3.1
+"Sugars, total",g,4.62,1.31,6.42
+Minerals
+"Calcium, Ca",mg,52,15,72
+"Iron, Fe",mg,3.91,1.11,5.43
+"Magnesium, Mg",mg,32,9,44
+"Phosphorus, P",mg,105,30,146
+"Potassium, K",mg,117,33,163
+"Sodium, Na",mg,602,171,837
+"Zinc, Zn",mg,1.04,0.29,1.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.710,0.201,0.987
+"Riboflavin",mg,0.427,0.121,0.594
+"Niacin",mg,4.817,1.366,6.696
+"Vitamin B-6",mg,0.107,0.030,0.149
+"Folate, DFE",µg,170,48,236
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,1,0,1
+"Vitamin E (alpha-tocopherol)",mg,0.21,0.06,0.29
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.7,0.2,1.0
+Lipids
+"Fatty acids, total saturated",g,0.529,0.150,0.735
+"Fatty acids, total monounsaturated",g,0.362,0.103,0.503
+"Fatty acids, total polyunsaturated",g,0.855,0.242,1.188
+"Fatty acids, total trans",g,0.005,0.001,0.007
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

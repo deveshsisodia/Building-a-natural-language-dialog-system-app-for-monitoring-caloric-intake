@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:58 EST
+"Nutrient data for: 08172, Cereals, farina, unenriched, dry"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 10.9g","1 cup = 176.0g",
+Proximates
+"Water",g,10.50,1.14,18.48
+"Energy",kcal,369,40,649
+"Protein",g,10.60,1.16,18.66
+"Total lipid (fat)",g,0.50,0.05,0.88
+"Carbohydrate, by difference",g,78.00,8.50,137.28
+"Fiber, total dietary",g,1.9,0.2,3.3
+Minerals
+"Calcium, Ca",mg,14,2,25
+"Iron, Fe",mg,1.50,0.16,2.64
+"Magnesium, Mg",mg,13,1,23
+"Phosphorus, P",mg,88,10,155
+"Potassium, K",mg,94,10,165
+"Sodium, Na",mg,3,0,5
+"Zinc, Zn",mg,0.53,0.06,0.93
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.060,0.007,0.106
+"Riboflavin",mg,0.100,0.011,0.176
+"Niacin",mg,0.700,0.076,1.232
+"Vitamin B-6",mg,0.058,0.006,0.102
+"Folate, DFE",µg,24,3,42
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.01,0.19
+Lipids
+"Fatty acids, total saturated",g,0.080,0.009,0.141
+"Fatty acids, total monounsaturated",g,0.060,0.007,0.106
+"Fatty acids, total polyunsaturated",g,0.220,0.024,0.387
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

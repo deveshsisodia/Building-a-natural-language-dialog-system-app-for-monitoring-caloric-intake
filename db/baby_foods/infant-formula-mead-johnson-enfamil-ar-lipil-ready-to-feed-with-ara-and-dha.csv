@@ -1,0 +1,45 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:49 EST
+"Nutrient data for: 03942, Infant formula, MEAD JOHNSON, ENFAMIL, AR LIPIL, ready-to-feed, with ARA and DHA"
+Nutrient,Unit,1Value per 100 g,"1 serving 100 ml = 106.0g","1 fl oz = 30.5g",
+Proximates
+"Water",g,87.00,92.22,26.54
+"Energy",kcal,68,72,21
+"Protein",g,1.71,1.81,0.52
+"Total lipid (fat)",g,3.49,3.70,1.06
+"Carbohydrate, by difference",g,7.53,7.98,2.30
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,6.44,6.83,1.96
+Minerals
+"Calcium, Ca",mg,53,56,16
+"Iron, Fe",mg,1.23,1.30,0.38
+"Magnesium, Mg",mg,5,5,2
+"Phosphorus, P",mg,36,38,11
+"Potassium, K",mg,74,78,23
+"Sodium, Na",mg,27,29,8
+"Zinc, Zn",mg,0.68,0.72,0.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.2,8.7,2.5
+"Thiamin",mg,0.055,0.058,0.017
+"Riboflavin",mg,0.096,0.102,0.029
+"Niacin",mg,0.684,0.725,0.209
+"Vitamin B-6",mg,0.041,0.043,0.013
+"Folate, DFE",µg,19,20,6
+"Vitamin B-12",µg,0.21,0.22,0.06
+"Vitamin A, RAE",µg,58,61,18
+"Vitamin A, IU",IU,205,217,63
+"Vitamin E (alpha-tocopherol)",mg,0.62,0.66,0.19
+"Vitamin D (D2 + D3)",µg,1.0,1.1,0.3
+"Vitamin D",IU,41,43,13
+"Vitamin K (phylloquinone)",µg,5.5,5.8,1.7
+Lipids
+"Fatty acids, total saturated",g,1.453,1.540,0.443
+"Fatty acids, total monounsaturated",g,1.255,1.330,0.383
+"Fatty acids, total polyunsaturated",g,0.670,0.710,0.204
+"Cholesterol",mg,1,1,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Contains arachidonic acid (ARA, nutrient number 620) and docosahexaenoic acid (DHA, nutrient number 621), fatty acids found in human breast milk."

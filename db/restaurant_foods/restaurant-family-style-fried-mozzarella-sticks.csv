@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:27 EST
+"Nutrient data for: 36012, Restaurant, family style, fried mozzarella sticks"
+Nutrient,Unit,1Value per 100 g,"1 serving = 245.0g","1 piece = 31.0g",
+Proximates
+"Water",g,38.44,94.18,11.92
+"Energy",kcal,325,796,101
+"Protein",g,14.75,36.14,4.57
+"Total lipid (fat)",g,18.33,44.91,5.68
+"Carbohydrate, by difference",g,25.14,61.59,7.79
+"Fiber, total dietary",g,2.0,4.9,0.6
+"Sugars, total",g,2.36,5.78,0.73
+Minerals
+"Calcium, Ca",mg,334,818,104
+"Iron, Fe",mg,0.62,1.52,0.19
+"Magnesium, Mg",mg,21,51,7
+"Phosphorus, P",mg,318,779,99
+"Potassium, K",mg,108,265,33
+"Sodium, Na",mg,861,2109,267
+"Zinc, Zn",mg,2.07,5.07,0.64
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.103,0.252,0.032
+"Riboflavin",mg,0.261,0.639,0.081
+"Niacin",mg,0.781,1.913,0.242
+"Vitamin B-6",mg,0.074,0.181,0.023
+"Folate, DFE",µg,36,88,11
+"Vitamin B-12",µg,0.96,2.35,0.30
+"Vitamin A, RAE",µg,99,243,31
+"Vitamin A, IU",IU,366,897,113
+"Vitamin E (alpha-tocopherol)",mg,0.77,1.89,0.24
+"Vitamin D (D2 + D3)",µg,0.2,0.5,0.1
+"Vitamin D",IU,7,17,2
+"Vitamin K (phylloquinone)",µg,22.9,56.1,7.1
+Lipids
+"Fatty acids, total saturated",g,6.848,16.778,2.123
+"Fatty acids, total monounsaturated",g,4.328,10.604,1.342
+"Fatty acids, total polyunsaturated",g,4.982,12.206,1.544
+"Fatty acids, total trans",g,0.359,0.880,0.111
+"Cholesterol",mg,36,88,11
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:23 EST
+"Nutrient data for: 22910, Lasagna, cheese, frozen, prepared"
+Nutrient,Unit,1Value per 100 g,"1 cup 1 serving = 225.0g",
+Proximates
+"Water",g,72.78,163.75
+"Energy",kcal,130,292
+"Protein",g,6.54,14.71
+"Total lipid (fat)",g,5.33,11.99
+"Carbohydrate, by difference",g,13.84,31.14
+"Fiber, total dietary",g,1.7,3.8
+"Sugars, total",g,4.23,9.52
+Minerals
+"Calcium, Ca",mg,111,250
+"Iron, Fe",mg,1.27,2.86
+"Magnesium, Mg",mg,21,47
+"Phosphorus, P",mg,107,241
+"Potassium, K",mg,182,410
+"Sodium, Na",mg,284,639
+"Zinc, Zn",mg,0.91,2.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,17.1,38.5
+"Thiamin",mg,0.114,0.257
+"Riboflavin",mg,0.154,0.346
+"Niacin",mg,1.361,3.062
+"Vitamin B-6",mg,0.069,0.155
+"Folate, DFE",µg,51,115
+"Vitamin B-12",µg,0.57,1.28
+"Vitamin A, RAE",µg,46,104
+"Vitamin A, IU",IU,277,623
+"Vitamin E (alpha-tocopherol)",mg,0.88,1.98
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,1,2
+"Vitamin K (phylloquinone)",µg,9.1,20.5
+Lipids
+"Fatty acids, total saturated",g,2.110,4.747
+"Fatty acids, total monounsaturated",g,1.573,3.539
+"Fatty acids, total polyunsaturated",g,1.022,2.300
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,13,29
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:48 EST
+"Nutrient data for: 19218, Puddings, tapioca, ready-to-eat"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 container refrigerated 4 oz = 110.0g","1 container = 97.0g",
+Proximates
+"Water",g,71.84,20.37,79.02,69.68
+"Energy",kcal,130,37,143,126
+"Protein",g,1.95,0.55,2.15,1.89
+"Total lipid (fat)",g,3.88,1.10,4.27,3.76
+"Carbohydrate, by difference",g,21.69,6.15,23.86,21.04
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,14.91,4.23,16.40,14.46
+Minerals
+"Calcium, Ca",mg,71,20,78,69
+"Iron, Fe",mg,0.11,0.03,0.12,0.11
+"Magnesium, Mg",mg,6,2,7,6
+"Phosphorus, P",mg,60,17,66,58
+"Potassium, K",mg,92,26,101,89
+"Sodium, Na",mg,145,41,160,141
+"Zinc, Zn",mg,0.22,0.06,0.24,0.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.1,0.3,0.3
+"Thiamin",mg,0.024,0.007,0.026,0.023
+"Riboflavin",mg,0.097,0.027,0.107,0.094
+"Niacin",mg,0.065,0.018,0.072,0.063
+"Vitamin B-6",mg,0.024,0.007,0.026,0.023
+"Folate, DFE",µg,3,1,3,3
+"Vitamin B-12",µg,0.21,0.06,0.23,0.20
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.15,0.04,0.17,0.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.4,0.1,0.4,0.4
+Lipids
+"Fatty acids, total saturated",g,0.962,0.273,1.058,0.933
+"Fatty acids, total monounsaturated",g,2.538,0.720,2.792,2.462
+"Fatty acids, total polyunsaturated",g,0.072,0.020,0.079,0.070
+"Cholesterol",mg,1,0,1,1
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

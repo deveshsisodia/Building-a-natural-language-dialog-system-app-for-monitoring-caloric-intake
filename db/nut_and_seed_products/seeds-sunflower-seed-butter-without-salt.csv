@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:09 EST
+"Nutrient data for: 12040, Seeds, sunflower seed butter, without salt"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 16.0g","1 oz = 28.35g",
+Proximates
+"Water",g,0.62,0.10,0.18
+"Energy",kcal,617,99,175
+"Protein",g,17.28,2.76,4.90
+"Total lipid (fat)",g,55.20,8.83,15.65
+"Carbohydrate, by difference",g,23.32,3.73,6.61
+"Fiber, total dietary",g,5.7,0.9,1.6
+"Sugars, total",g,10.54,1.69,2.99
+Minerals
+"Calcium, Ca",mg,64,10,18
+"Iron, Fe",mg,4.12,0.66,1.17
+"Magnesium, Mg",mg,311,50,88
+"Phosphorus, P",mg,666,107,189
+"Potassium, K",mg,576,92,163
+"Sodium, Na",mg,3,0,1
+"Zinc, Zn",mg,4.89,0.78,1.39
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.7,0.4,0.8
+"Thiamin",mg,0.053,0.008,0.015
+"Riboflavin",mg,0.163,0.026,0.046
+"Niacin",mg,6.747,1.080,1.913
+"Vitamin B-6",mg,0.550,0.088,0.156
+"Folate, DFE",µg,237,38,67
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, IU",IU,52,8,15
+"Vitamin E (alpha-tocopherol)",mg,22.89,3.66,6.49
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,4.678,0.748,1.326
+"Fatty acids, total monounsaturated",g,39.025,6.244,11.064
+"Fatty acids, total polyunsaturated",g,9.805,1.569,2.780
+"Fatty acids, total trans",g,0.027,0.004,0.008
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+Footnotes
+(a)"Made with NuSun sunflower seeds; some brands have different formulation."
+(b)"Other phytosterols = 21.6 mg/100g; these include delta 5-avenasterol, sitostanol, and campestanol."

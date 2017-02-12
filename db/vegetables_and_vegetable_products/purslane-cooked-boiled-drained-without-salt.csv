@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:29 EST
+"Nutrient data for: 11428, Purslane, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 115.0g","1 squash = 431.0g",
+Proximates
+"Water",g,93.52,107.55,403.07
+"Energy",kcal,18,21,78
+"Protein",g,1.49,1.71,6.42
+"Total lipid (fat)",g,0.19,0.22,0.82
+"Carbohydrate, by difference",g,3.55,4.08,15.30
+Minerals
+"Calcium, Ca",mg,78,90,336
+"Iron, Fe",mg,0.77,0.89,3.32
+"Magnesium, Mg",mg,67,77,289
+"Phosphorus, P",mg,37,43,159
+"Potassium, K",mg,488,561,2103
+"Sodium, Na",mg,44,51,190
+"Zinc, Zn",mg,0.17,0.20,0.73
+Vitamins
+"Vitamin C, total ascorbic acid",mg,10.5,12.1,45.3
+"Thiamin",mg,0.031,0.036,0.134
+"Riboflavin",mg,0.090,0.103,0.388
+"Niacin",mg,0.460,0.529,1.983
+"Vitamin B-6",mg,0.070,0.081,0.302
+"Folate, DFE",µg,9,10,39
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,93,107,401
+"Vitamin A, IU",IU,1852,2130,7982
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

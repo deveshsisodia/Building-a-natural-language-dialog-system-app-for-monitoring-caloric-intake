@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18086, Cake, angelfood, commercially prepared"
+Nutrient,Unit,1Value per 100 g,"1 piece (1/12 of 12 oz cake) = 28.0g","1 cake (9"" dia x 4"") = 340.0g",
+Proximates
+"Water",g,33.20,9.30,112.88
+"Energy",kcal,258,72,877
+"Protein",g,5.90,1.65,20.06
+"Total lipid (fat)",g,0.80,0.22,2.72
+"Carbohydrate, by difference",g,57.80,16.18,196.52
+"Fiber, total dietary",g,1.5,0.4,5.1
+Minerals
+"Calcium, Ca",mg,140,39,476
+"Iron, Fe",mg,0.52,0.15,1.77
+"Magnesium, Mg",mg,12,3,41
+"Phosphorus, P",mg,324,91,1102
+"Potassium, K",mg,93,26,316
+"Sodium, Na",mg,749,210,2547
+"Zinc, Zn",mg,0.07,0.02,0.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.102,0.029,0.347
+"Riboflavin",mg,0.491,0.137,1.669
+"Niacin",mg,0.883,0.247,3.002
+"Vitamin B-6",mg,0.031,0.009,0.105
+"Folate, DFE",µg,57,16,194
+"Vitamin B-12",µg,0.06,0.02,0.20
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.121,0.034,0.411
+"Fatty acids, total monounsaturated",g,0.071,0.020,0.241
+"Fatty acids, total polyunsaturated",g,0.367,0.103,1.248
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:39 EST
+"Nutrient data for: 28045, KEEBLER, ANIMALS, Iced Cookies"
+Nutrient,Unit,1Value per 100 g,"6.0 cookies 1 serving = 30.0g","1 package (40 g) = 40.0g",
+Proximates
+"Water",g,3.75,1.12,1.50
+"Energy",kcal,459,138,184
+"Protein",g,5.60,1.68,2.24
+"Total lipid (fat)",g,15.60,4.68,6.24
+"Carbohydrate, by difference",g,74.20,22.26,29.68
+"Fiber, total dietary",g,1.6,0.5,0.6
+"Sugars, total",g,26.70,8.01,10.68
+Minerals
+"Iron, Fe",mg,3.10,0.93,1.24
+"Magnesium, Mg",mg,12,4,5
+"Phosphorus, P",mg,61,18,24
+"Potassium, K",mg,66,20,26
+"Sodium, Na",mg,337,101,135
+"Zinc, Zn",mg,0.40,0.12,0.16
+Vitamins
+"Thiamin",mg,0.420,0.126,0.168
+"Riboflavin",mg,0.270,0.081,0.108
+"Niacin",mg,3.600,1.080,1.440
+"Vitamin B-6",mg,0.020,0.006,0.008
+Lipids
+"Fatty acids, total saturated",g,5.000,1.500,2.000
+"Fatty acids, total monounsaturated",g,3.500,1.050,1.400
+"Fatty acids, total polyunsaturated",g,5.800,1.740,2.320
+"Fatty acids, total trans",g,0.230,0.069,0.092
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

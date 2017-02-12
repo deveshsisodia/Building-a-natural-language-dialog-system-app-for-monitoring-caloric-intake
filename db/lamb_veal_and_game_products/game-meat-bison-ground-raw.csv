@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:51 EST
+"Nutrient data for: 17330, Game meat , bison, ground, raw"
+Nutrient,Unit,1Value per 100 g,"1 serving ( 3 oz ) = 85.0g","1 patty = 113.0g",
+Proximates
+"Water",g,64.25,54.61,72.60
+"Energy",kcal,223,190,252
+"Protein",g,18.67,15.87,21.10
+"Total lipid (fat)",g,15.93,13.54,18.00
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,11,9,12
+"Iron, Fe",mg,2.60,2.21,2.94
+"Magnesium, Mg",mg,19,16,21
+"Phosphorus, P",mg,181,154,205
+"Potassium, K",mg,307,261,347
+"Sodium, Na",mg,66,56,75
+"Zinc, Zn",mg,4.29,3.65,4.85
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.130,0.111,0.147
+"Riboflavin",mg,0.227,0.193,0.257
+"Niacin",mg,4.910,4.174,5.548
+"Vitamin B-6",mg,0.353,0.300,0.399
+"Folate, DFE",µg,11,9,12
+"Vitamin B-12",µg,1.79,1.52,2.02
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.24,0.20,0.27
+Lipids
+"Fatty acids, total saturated",g,6.802,5.782,7.686
+"Fatty acids, total monounsaturated",g,6.222,5.289,7.031
+"Fatty acids, total polyunsaturated",g,0.749,0.637,0.846
+"Cholesterol",mg,70,60,79
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

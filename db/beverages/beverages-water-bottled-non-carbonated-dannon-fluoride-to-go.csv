@@ -1,0 +1,24 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:25 EST
+"Nutrient data for: 14440, Beverages, water, bottled, non-carbonated, DANNON Fluoride To Go"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 29.6g","1 bottle 8.5 fl oz = 251.0g",
+Proximates
+"Water",g,99.97,29.59,250.92
+"Energy",kcal,0,0,0
+"Protein",g,0.00,0.00,0.00
+"Total lipid (fat)",g,0.00,0.00,0.00
+"Carbohydrate, by difference",g,0.03,0.01,0.08
+Minerals
+"Calcium, Ca",mg,3,1,8
+"Iron, Fe",mg,0.01,0.00,0.03
+"Magnesium, Mg",mg,1,0,3
+"Phosphorus, P",mg,0,0,0
+"Potassium, K",mg,0,0,0
+"Sodium, Na",mg,1,0,3
+"Zinc, Zn",mg,0.00,0.00,0.00
+Vitamins
+Lipids
+"Fatty acids, total trans",g,0.000,0.000,0.000
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:41 EST
+"Nutrient data for: 23345, Beef, loin, tenderloin roast, boneless, separable lean and fat, trimmed to 0"" fat, all grades, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 roast = 481.0g",
+Proximates
+"Water",g,64.35,54.70,309.52
+"Energy",kcal,183,156,880
+"Protein",g,27.31,23.21,131.36
+"Total lipid (fat)",g,8.14,6.92,39.15
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,13,11,63
+"Iron, Fe",mg,3.20,2.72,15.39
+"Magnesium, Mg",mg,18,15,87
+"Phosphorus, P",mg,254,216,1222
+"Potassium, K",mg,346,294,1664
+"Sodium, Na",mg,56,48,269
+"Zinc, Zn",mg,4.16,3.54,20.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.061,0.052,0.293
+"Riboflavin",mg,0.391,0.332,1.881
+"Niacin",mg,5.556,4.723,26.724
+"Vitamin B-6",mg,0.681,0.579,3.276
+"Folate, DFE",µg,7,6,34
+"Vitamin B-12",µg,4.06,3.45,19.53
+"Vitamin A, RAE",µg,6,5,29
+"Vitamin A, IU",IU,20,17,96
+"Vitamin E (alpha-tocopherol)",mg,0.10,0.09,0.48
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.5
+"Vitamin D",IU,2,2,10
+"Vitamin K (phylloquinone)",µg,1.6,1.4,7.7
+Lipids
+"Fatty acids, total saturated",g,3.245,2.758,15.608
+"Fatty acids, total monounsaturated",g,3.550,3.018,17.075
+"Fatty acids, total polyunsaturated",g,0.590,0.501,2.838
+"Fatty acids, total trans",g,0.446,0.379,2.145
+"Cholesterol",mg,84,71,404
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

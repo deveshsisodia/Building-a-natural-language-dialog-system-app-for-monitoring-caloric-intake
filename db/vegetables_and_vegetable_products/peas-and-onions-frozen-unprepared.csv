@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:25 EST
+"Nutrient data for: 11326, Peas and onions, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 69.0g","1 package (10 oz) = 284.0g",
+Proximates
+"Water",g,81.50,56.23,231.46
+"Energy",kcal,70,48,199
+"Protein",g,3.98,2.75,11.30
+"Total lipid (fat)",g,0.32,0.22,0.91
+"Carbohydrate, by difference",g,13.51,9.32,38.37
+"Fiber, total dietary",g,3.5,2.4,9.9
+Minerals
+"Calcium, Ca",mg,23,16,65
+"Iron, Fe",mg,1.54,1.06,4.37
+"Magnesium, Mg",mg,21,14,60
+"Phosphorus, P",mg,59,41,168
+"Potassium, K",mg,203,140,577
+"Sodium, Na",mg,61,42,173
+"Zinc, Zn",mg,0.48,0.33,1.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,14.0,9.7,39.8
+"Thiamin",mg,0.297,0.205,0.843
+"Riboflavin",mg,0.114,0.079,0.324
+"Niacin",mg,1.720,1.187,4.885
+"Vitamin B-6",mg,0.144,0.099,0.409
+"Folate, DFE",µg,45,31,128
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,27,19,77
+"Vitamin A, IU",IU,544,375,1545
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.057,0.039,0.162
+"Fatty acids, total monounsaturated",g,0.031,0.021,0.088
+"Fatty acids, total polyunsaturated",g,0.148,0.102,0.420
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

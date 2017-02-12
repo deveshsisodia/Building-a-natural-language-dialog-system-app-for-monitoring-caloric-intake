@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:44 EST
+"Nutrient data for: 13977, Beef, plate, inside skirt steak, separable lean only, trimmed to 0"" fat, all grades, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,61.77,52.50
+"Energy",kcal,205,174
+"Protein",g,26.66,22.66
+"Total lipid (fat)",g,10.06,8.55
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,11,9
+"Iron, Fe",mg,2.83,2.41
+"Magnesium, Mg",mg,24,20
+"Phosphorus, P",mg,236,201
+"Potassium, K",mg,295,251
+"Sodium, Na",mg,76,65
+"Zinc, Zn",mg,7.43,6.32
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.092,0.078
+"Riboflavin",mg,0.194,0.165
+"Niacin",mg,3.820,3.247
+"Vitamin B-6",mg,0.327,0.278
+"Folate, DFE",µg,7,6
+"Vitamin B-12",µg,3.80,3.23
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.09
+Lipids
+"Fatty acids, total saturated",g,3.850,3.272
+"Fatty acids, total monounsaturated",g,5.220,4.437
+"Fatty acids, total polyunsaturated",g,0.360,0.306
+"Cholesterol",mg,85,72
+Amino Acids
+Other
+"Caffeine",mg,0,0

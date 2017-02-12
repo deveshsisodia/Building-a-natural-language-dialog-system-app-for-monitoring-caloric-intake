@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:30 EST
+"Nutrient data for: 11953, Squash, zucchini, baby, raw"
+Nutrient,Unit,1Value per 100 g,"1 large = 16.0g","1 medium = 11.0g",
+Proximates
+"Water",g,92.73,14.84,10.20
+"Energy",kcal,21,3,2
+"Protein",g,2.71,0.43,0.30
+"Total lipid (fat)",g,0.40,0.06,0.04
+"Carbohydrate, by difference",g,3.11,0.50,0.34
+"Fiber, total dietary",g,1.1,0.2,0.1
+Minerals
+"Calcium, Ca",mg,21,3,2
+"Iron, Fe",mg,0.79,0.13,0.09
+"Magnesium, Mg",mg,33,5,4
+"Phosphorus, P",mg,93,15,10
+"Potassium, K",mg,459,73,50
+"Sodium, Na",mg,3,0,0
+"Zinc, Zn",mg,0.83,0.13,0.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,34.1,5.5,3.8
+"Thiamin",mg,0.042,0.007,0.005
+"Riboflavin",mg,0.036,0.006,0.004
+"Niacin",mg,0.705,0.113,0.078
+"Vitamin B-6",mg,0.142,0.023,0.016
+"Folate, DFE",µg,20,3,2
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,25,4,3
+"Vitamin A, IU",IU,490,78,54
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.083,0.013,0.009
+"Fatty acids, total monounsaturated",g,0.031,0.005,0.003
+"Fatty acids, total polyunsaturated",g,0.169,0.027,0.019
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

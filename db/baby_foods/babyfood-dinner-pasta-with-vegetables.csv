@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:43 EST
+"Nutrient data for: 03077, Babyfood, dinner, pasta with vegetables"
+Nutrient,Unit,1Value per 100 g,"1 jar, Gerber (4 oz) = 113.0g",
+Proximates
+"Water",g,87.30,98.65
+"Energy",kcal,60,68
+"Protein",g,1.70,1.92
+"Total lipid (fat)",g,2.10,2.37
+"Carbohydrate, by difference",g,8.40,9.49
+"Fiber, total dietary",g,1.5,1.7
+"Sugars, total",g,1.20,1.36
+Minerals
+"Calcium, Ca",mg,14,16
+"Iron, Fe",mg,0.50,0.56
+"Magnesium, Mg",mg,24,27
+"Phosphorus, P",mg,50,56
+"Potassium, K",mg,133,150
+"Sodium, Na",mg,11,12
+"Zinc, Zn",mg,0.40,0.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.9,3.3
+"Thiamin",mg,0.060,0.068
+"Riboflavin",mg,0.050,0.057
+"Niacin",mg,0.560,0.633
+"Vitamin B-6",mg,0.110,0.124
+"Folate, DFE",µg,9,10
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,41,46
+"Vitamin A, IU",IU,555,627
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.26
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.1,2.4
+Lipids
+"Fatty acids, total saturated",g,1.230,1.390
+"Fatty acids, total monounsaturated",g,0.580,0.655
+"Fatty acids, total polyunsaturated",g,0.144,0.163
+"Cholesterol",mg,5,6
+Amino Acids
+Other
+"Caffeine",mg,0,0

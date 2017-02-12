@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:30 EST
+"Nutrient data for: 11873, Swamp cabbage (skunk cabbage), cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 98.0g",
+Proximates
+"Water",g,92.93,91.07
+"Energy",kcal,20,20
+"Protein",g,2.08,2.04
+"Total lipid (fat)",g,0.24,0.24
+"Carbohydrate, by difference",g,3.70,3.63
+"Fiber, total dietary",g,1.9,1.9
+Minerals
+"Calcium, Ca",mg,54,53
+"Iron, Fe",mg,1.32,1.29
+"Magnesium, Mg",mg,30,29
+"Phosphorus, P",mg,42,41
+"Potassium, K",mg,284,278
+"Sodium, Na",mg,358,351
+"Zinc, Zn",mg,0.16,0.16
+Vitamins
+"Vitamin C, total ascorbic acid",mg,16.0,15.7
+"Thiamin",mg,0.050,0.049
+"Riboflavin",mg,0.080,0.078
+"Niacin",mg,0.500,0.490
+"Vitamin B-6",mg,0.081,0.079
+"Folate, DFE",µg,35,34
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,260,255
+"Vitamin A, IU",IU,5200,5096
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:02 EST
+"Nutrient data for: 08653, Cereals ready-to-eat, KELLOGG'S RICE KRISPIES, Gluten Free"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,3.60,1.08
+"Energy",kcal,371,111
+"Protein",g,7.80,2.34
+"Total lipid (fat)",g,2.30,0.69
+"Carbohydrate, by difference",g,82.40,24.72
+"Fiber, total dietary",g,2.7,0.8
+"Sugars, total",g,3.70,1.11
+Minerals
+"Calcium, Ca",mg,10,3
+"Iron, Fe",mg,30.00,9.00
+"Magnesium, Mg",mg,149,45
+"Phosphorus, P",mg,292,88
+"Potassium, K",mg,280,84
+"Sodium, Na",mg,614,184
+"Zinc, Zn",mg,2.10,0.63
+Vitamins
+"Vitamin C, total ascorbic acid",mg,50.0,15.0
+"Thiamin",mg,1.250,0.375
+"Riboflavin",mg,1.420,0.426
+"Niacin",mg,16.700,5.010
+"Vitamin B-6",mg,1.670,0.501
+"Folate, DFE",µg,1131,339
+"Vitamin B-12",µg,5.00,1.50
+"Vitamin A, IU",IU,4167,1250
+"Vitamin E (alpha-tocopherol)",mg,11.25,3.38
+"Vitamin D (D2 + D3)",µg,5.0,1.5
+"Vitamin D",IU,200,60
+Lipids
+"Fatty acids, total saturated",g,0.500,0.150
+"Fatty acids, total monounsaturated",g,0.800,0.240
+"Fatty acids, total polyunsaturated",g,0.800,0.240
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:21 EST
+"Nutrient data for: 14036, Beverages, CYTOSPORT, Muscle Milk, ready-to-drink"
+Nutrient,Unit,1Value per 100 g,"14.0 fl oz = 414.0g",
+Proximates
+"Water",g,88.80,367.63
+"Energy",kcal,49,203
+"Protein",g,5.87,24.30
+"Total lipid (fat)",g,2.01,8.32
+"Carbohydrate, by difference",g,2.06,8.53
+"Fiber, total dietary",g,0.2,0.8
+"Sugars, total",g,0.78,3.23
+Minerals
+"Calcium, Ca",mg,69,286
+"Iron, Fe",mg,1.30,5.38
+"Magnesium, Mg",mg,20,83
+"Phosphorus, P",mg,101,418
+"Potassium, K",mg,198,820
+"Sodium, Na",mg,95,393
+"Zinc, Zn",mg,1.05,4.35
+Vitamins
+"Vitamin C, total ascorbic acid",mg,27.6,114.3
+"Thiamin",mg,0.133,0.551
+"Riboflavin",mg,0.139,0.575
+"Niacin",mg,1.416,5.862
+"Vitamin B-6",mg,0.224,0.927
+"Folate, DFE",µg,56,232
+"Vitamin B-12",µg,0.69,2.86
+"Vitamin A, RAE",µg,88,364
+"Vitamin A, IU",IU,365,1511
+"Vitamin E (alpha-tocopherol)",mg,0.83,3.44
+"Vitamin D (D2 + D3)",µg,0.7,2.9
+"Vitamin D",IU,28,116
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.221,0.915
+"Fatty acids, total monounsaturated",g,0.884,3.660
+"Fatty acids, total polyunsaturated",g,0.221,0.915
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,2,8
+Amino Acids
+Other
+"Caffeine",mg,0,0

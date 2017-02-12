@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:15 EST
+"Nutrient data for: 20087, Wheat, sprouted"
+Nutrient,Unit,1Value per 100 g,"1 cup = 108.0g",
+Proximates
+"Water",g,47.75,51.57
+"Energy",kcal,198,214
+"Protein",g,7.49,8.09
+"Total lipid (fat)",g,1.27,1.37
+"Carbohydrate, by difference",g,42.53,45.93
+"Fiber, total dietary",g,1.1,1.2
+Minerals
+"Calcium, Ca",mg,28,30
+"Iron, Fe",mg,2.14,2.31
+"Magnesium, Mg",mg,82,89
+"Phosphorus, P",mg,200,216
+"Potassium, K",mg,169,183
+"Sodium, Na",mg,16,17
+"Zinc, Zn",mg,1.65,1.78
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.6,2.8
+"Thiamin",mg,0.225,0.243
+"Riboflavin",mg,0.155,0.167
+"Niacin",mg,3.087,3.334
+"Vitamin B-6",mg,0.265,0.286
+"Folate, DFE",µg,38,41
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.206,0.222
+"Fatty acids, total monounsaturated",g,0.151,0.163
+"Fatty acids, total polyunsaturated",g,0.557,0.602
+"Cholesterol",mg,0,0
+Amino Acids
+Other

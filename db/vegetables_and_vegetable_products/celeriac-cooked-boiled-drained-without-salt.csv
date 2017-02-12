@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:19 EST
+"Nutrient data for: 11142, Celeriac, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup pieces = 155.0g",
+Proximates
+"Water",g,92.30,143.06
+"Energy",kcal,27,42
+"Protein",g,0.96,1.49
+"Total lipid (fat)",g,0.19,0.29
+"Carbohydrate, by difference",g,5.90,9.14
+"Fiber, total dietary",g,1.2,1.9
+Minerals
+"Calcium, Ca",mg,26,40
+"Iron, Fe",mg,0.43,0.67
+"Magnesium, Mg",mg,12,19
+"Phosphorus, P",mg,66,102
+"Potassium, K",mg,173,268
+"Sodium, Na",mg,61,95
+"Zinc, Zn",mg,0.20,0.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.6,5.6
+"Thiamin",mg,0.027,0.042
+"Riboflavin",mg,0.037,0.057
+"Niacin",mg,0.427,0.662
+"Vitamin B-6",mg,0.101,0.157
+"Folate, DFE",µg,3,5
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

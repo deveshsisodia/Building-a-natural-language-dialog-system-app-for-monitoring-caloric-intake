@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:29 EST
+"Nutrient data for: 11471, Squash, summer, crookneck and straightneck, canned, drained, solid, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, diced = 210.0g","1 cup, mashed = 240.0g","1 cup slices = 216.0g","1 slice = 8.0g","1 can (303 x 406) = 241.0g",
+Proximates
+"Water",g,96.04,201.68,230.50,207.45,7.68,231.46
+"Energy",kcal,13,27,31,28,1,31
+"Protein",g,0.61,1.28,1.46,1.32,0.05,1.47
+"Total lipid (fat)",g,0.07,0.15,0.17,0.15,0.01,0.17
+"Carbohydrate, by difference",g,2.96,6.22,7.10,6.39,0.24,7.13
+"Fiber, total dietary",g,1.4,2.9,3.4,3.0,0.1,3.4
+"Sugars, total",g,1.19,2.50,2.86,2.57,0.10,2.87
+Minerals
+"Calcium, Ca",mg,12,25,29,26,1,29
+"Iron, Fe",mg,0.71,1.49,1.70,1.53,0.06,1.71
+"Magnesium, Mg",mg,13,27,31,28,1,31
+"Phosphorus, P",mg,21,44,50,45,2,51
+"Potassium, K",mg,96,202,230,207,8,231
+"Sodium, Na",mg,5,10,12,11,0,12
+"Zinc, Zn",mg,0.29,0.61,0.70,0.63,0.02,0.70
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.7,5.7,6.5,5.8,0.2,6.5
+"Thiamin",mg,0.016,0.034,0.038,0.035,0.001,0.039
+"Riboflavin",mg,0.027,0.057,0.065,0.058,0.002,0.065
+"Niacin",mg,0.418,0.878,1.003,0.903,0.033,1.007
+"Vitamin B-6",mg,0.042,0.088,0.101,0.091,0.003,0.101
+"Folate, DFE",µg,10,21,24,22,1,24
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,5,10,12,11,0,12
+"Vitamin A, IU",IU,102,214,245,220,8,246
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.25,0.29,0.26,0.01,0.29
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,2.8,5.9,6.7,6.0,0.2,6.7
+Lipids
+"Fatty acids, total saturated",g,0.015,0.032,0.036,0.032,0.001,0.036
+"Fatty acids, total monounsaturated",g,0.005,0.011,0.012,0.011,0.000,0.012
+"Fatty acids, total polyunsaturated",g,0.031,0.065,0.074,0.067,0.002,0.075
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

@@ -1,0 +1,31 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:43 EST
+"Nutrient data for: 28389, PEPPERIDGE FARM, White Bread"
+Nutrient,Unit,1Value per 100 g,"1 serving = 45.0g",
+Proximates
+"Water",g,33.80,15.21
+"Energy",kcal,280,126
+"Protein",g,0.01,0.00
+"Total lipid (fat)",g,5.10,2.29
+"Carbohydrate, by difference",g,50.20,22.59
+"Fiber, total dietary",g,1.6,0.7
+"Sugars, total",g,5.10,2.29
+Minerals
+"Calcium, Ca",mg,301,135
+"Iron, Fe",mg,3.60,1.62
+"Sodium, Na",mg,511,230
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,0.5
+"Thiamin",mg,0.400,0.180
+"Riboflavin",mg,0.200,0.090
+"Niacin",mg,4.000,1.800
+"Vitamin A, IU",IU,100,45
+Lipids
+"Fatty acids, total saturated",g,1.300,0.585
+"Fatty acids, total monounsaturated",g,1.300,0.585
+"Fatty acids, total polyunsaturated",g,1.300,0.585
+"Fatty acids, total trans",g,0.900,0.405
+"Cholesterol",mg,1,0
+Amino Acids
+Other

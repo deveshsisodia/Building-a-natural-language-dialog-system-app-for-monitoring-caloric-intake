@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:03 EST
+"Nutrient data for: 08355, Cereals ready-to-eat, QUAKER, MOTHER'S COCOA BUMPERS"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 33.0g",
+Proximates
+"Water",g,2.50,0.82
+"Energy",kcal,382,126
+"Protein",g,4.21,1.39
+"Total lipid (fat)",g,1.61,0.53
+"Carbohydrate, by difference",g,89.91,29.67
+"Fiber, total dietary",g,2.7,0.9
+"Sugars, total",g,43.12,14.23
+Minerals
+"Calcium, Ca",mg,16,5
+"Iron, Fe",mg,2.06,0.68
+"Magnesium, Mg",mg,61,20
+"Phosphorus, P",mg,166,55
+"Potassium, K",mg,226,75
+"Sodium, Na",mg,452,149
+"Zinc, Zn",mg,1.11,0.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1
+"Thiamin",mg,0.150,0.050
+"Riboflavin",mg,0.050,0.017
+"Niacin",mg,1.060,0.350
+"Vitamin B-6",mg,0.040,0.013
+"Folate, DFE",µg,15,5
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,9,3
+"Vitamin A, IU",IU,186,61
+"Vitamin E (alpha-tocopherol)",mg,2.60,0.86
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.310,0.102
+"Fatty acids, total monounsaturated",g,0.320,0.106
+"Fatty acids, total polyunsaturated",g,0.660,0.218
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

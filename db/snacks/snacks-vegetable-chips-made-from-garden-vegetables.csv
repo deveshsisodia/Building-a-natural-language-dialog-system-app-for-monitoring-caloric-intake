@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 25040, Snacks, vegetable chips, made from garden vegetables"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,6.31,1.79
+"Energy",kcal,473,134
+"Protein",g,5.32,1.51
+"Total lipid (fat)",g,23.30,6.61
+"Carbohydrate, by difference",g,60.43,17.13
+"Fiber, total dietary",g,4.7,1.3
+"Sugars, total",g,4.04,1.15
+Minerals
+"Calcium, Ca",mg,52,15
+"Iron, Fe",mg,1.55,0.44
+"Magnesium, Mg",mg,53,15
+"Phosphorus, P",mg,130,37
+"Potassium, K",mg,838,238
+"Sodium, Na",mg,357,101
+"Zinc, Zn",mg,0.50,0.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.9,1.4
+"Thiamin",mg,0.133,0.038
+"Riboflavin",mg,0.059,0.017
+"Niacin",mg,2.767,0.784
+"Vitamin B-6",mg,0.545,0.155
+"Folate, DFE",µg,16,5
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,9,3
+"Vitamin A, IU",IU,170,48
+"Vitamin E (alpha-tocopherol)",mg,4.84,1.37
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,17.5,5.0
+Lipids
+"Fatty acids, total saturated",g,1.762,0.500
+"Fatty acids, total monounsaturated",g,14.566,4.129
+"Fatty acids, total polyunsaturated",g,6.602,1.872
+"Fatty acids, total trans",g,0.091,0.026
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(a)"Made with potatoes, tomatoes, spinach and beets."

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:27 EST
+"Nutrient data for: 36620, Restaurant, Chinese, shrimp and vegetables"
+Nutrient,Unit,1Value per 100 g,"1 order = 601.0g",
+Proximates
+"Water",g,84.06,505.20
+"Energy",kcal,78,469
+"Protein",g,5.90,35.46
+"Total lipid (fat)",g,4.05,24.34
+"Carbohydrate, by difference",g,4.52,27.17
+"Fiber, total dietary",g,1.4,8.4
+"Sugars, total",g,2.16,12.98
+Minerals
+"Calcium, Ca",mg,36,216
+"Iron, Fe",mg,0.72,4.33
+"Magnesium, Mg",mg,16,96
+"Phosphorus, P",mg,74,445
+"Potassium, K",mg,192,1154
+"Sodium, Na",mg,375,2254
+"Zinc, Zn",mg,0.49,2.94
+Vitamins
+"Vitamin C, total ascorbic acid",mg,11.3,67.9
+"Thiamin",mg,0.030,0.180
+"Riboflavin",mg,0.033,0.198
+"Niacin",mg,0.935,5.619
+"Vitamin B-6",mg,0.125,0.751
+"Vitamin B-12",µg,0.21,1.26
+"Vitamin A, RAE",µg,66,397
+"Vitamin A, IU",IU,1320,7933
+"Vitamin E (alpha-tocopherol)",mg,0.99,5.95
+"Vitamin K (phylloquinone)",µg,52.0,312.5
+Lipids
+"Fatty acids, total saturated",g,0.633,3.804
+"Fatty acids, total monounsaturated",g,0.817,4.910
+"Fatty acids, total polyunsaturated",g,1.984,11.924
+"Fatty acids, total trans",g,0.021,0.126
+"Cholesterol",mg,36,216
+Amino Acids
+Other
+Footnotes
+(b)"Ingredients and amount of sauce vary by restaurant. Most dishes analyzed included carrots and broccoli."
+(a)"Rice was not included in analyses."

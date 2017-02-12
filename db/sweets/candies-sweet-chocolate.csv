@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:38 EST
+"Nutrient data for: 19081, Candies, sweet chocolate"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 bar (1.45 oz) = 41.0g",
+Proximates
+"Water",g,0.50,0.14,0.20
+"Energy",kcal,507,144,208
+"Protein",g,3.90,1.11,1.60
+"Total lipid (fat)",g,34.20,9.70,14.02
+"Carbohydrate, by difference",g,60.40,17.12,24.76
+"Fiber, total dietary",g,5.5,1.6,2.3
+"Sugars, total",g,51.48,14.59,21.11
+Minerals
+"Calcium, Ca",mg,24,7,10
+"Iron, Fe",mg,2.76,0.78,1.13
+"Magnesium, Mg",mg,113,32,46
+"Phosphorus, P",mg,147,42,60
+"Potassium, K",mg,290,82,119
+"Sodium, Na",mg,16,5,7
+"Zinc, Zn",mg,1.50,0.43,0.61
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.020,0.006,0.008
+"Riboflavin",mg,0.240,0.068,0.098
+"Niacin",mg,0.670,0.190,0.275
+"Vitamin B-6",mg,0.043,0.012,0.018
+"Folate, DFE",µg,3,1,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.26,0.07,0.11
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,6.3,1.8,2.6
+Lipids
+"Fatty acids, total saturated",g,20.080,5.693,8.233
+"Fatty acids, total monounsaturated",g,11.220,3.181,4.600
+"Fatty acids, total polyunsaturated",g,0.990,0.281,0.406
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,66,19,27

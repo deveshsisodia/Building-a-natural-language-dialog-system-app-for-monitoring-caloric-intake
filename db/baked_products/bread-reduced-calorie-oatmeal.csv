@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:31 EST
+"Nutrient data for: 18051, Bread, reduced-calorie, oatmeal"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice = 23.0g",
+Proximates
+"Water",g,44.00,12.47,10.12
+"Energy",kcal,210,60,48
+"Protein",g,7.60,2.15,1.75
+"Total lipid (fat)",g,3.50,0.99,0.81
+"Carbohydrate, by difference",g,43.30,12.28,9.96
+Minerals
+"Calcium, Ca",mg,115,33,26
+"Iron, Fe",mg,2.30,0.65,0.53
+"Magnesium, Mg",mg,24,7,6
+"Phosphorus, P",mg,100,28,23
+"Potassium, K",mg,124,35,29
+"Sodium, Na",mg,388,110,89
+"Zinc, Zn",mg,0.83,0.24,0.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1,0.0
+"Thiamin",mg,0.348,0.099,0.080
+"Riboflavin",mg,0.280,0.079,0.064
+"Niacin",mg,3.030,0.859,0.697
+"Vitamin B-6",mg,0.045,0.013,0.010
+"Folate, DFE",µg,70,20,16
+"Vitamin B-12",µg,0.10,0.03,0.02
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,6,2,1
+Lipids
+"Fatty acids, total saturated",g,0.599,0.170,0.138
+"Fatty acids, total monounsaturated",g,0.822,0.233,0.189
+"Fatty acids, total polyunsaturated",g,1.351,0.383,0.311
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:08 EST
+"Nutrient data for: 12121, Nuts, hazelnuts or filberts, blanched"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,5.79,1.64
+"Energy",kcal,629,178
+"Protein",g,13.70,3.88
+"Total lipid (fat)",g,61.15,17.34
+"Carbohydrate, by difference",g,17.00,4.82
+"Fiber, total dietary",g,11.0,3.1
+"Sugars, total",g,3.49,0.99
+Minerals
+"Calcium, Ca",mg,149,42
+"Iron, Fe",mg,3.30,0.94
+"Magnesium, Mg",mg,160,45
+"Phosphorus, P",mg,310,88
+"Potassium, K",mg,658,187
+"Sodium, Na",mg,0,0
+"Zinc, Zn",mg,2.20,0.62
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.0,0.6
+"Thiamin",mg,0.475,0.135
+"Riboflavin",mg,0.110,0.031
+"Niacin",mg,1.550,0.439
+"Vitamin B-6",mg,0.585,0.166
+"Folate, DFE",µg,78,22
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,2,1
+"Vitamin A, IU",IU,40,11
+"Vitamin E (alpha-tocopherol)",mg,17.50,4.96
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,4.669,1.324
+"Fatty acids, total monounsaturated",g,48.192,13.662
+"Fatty acids, total polyunsaturated",g,5.558,1.576
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+Footnotes
+(a)"Unroasted"

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:35 EST
+"Nutrient data for: 23090, Beef, chuck for stew, separable lean and fat, all grades, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 lb = 453.6g",
+Proximates
+"Water",g,60.08,51.07,272.52
+"Energy",kcal,191,162,866
+"Protein",g,32.41,27.55,147.01
+"Total lipid (fat)",g,6.82,5.80,30.94
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,16,14,73
+"Iron, Fe",mg,2.96,2.52,13.43
+"Magnesium, Mg",mg,23,20,104
+"Phosphorus, P",mg,228,194,1034
+"Potassium, K",mg,319,271,1447
+"Sodium, Na",mg,67,57,304
+"Zinc, Zn",mg,8.32,7.07,37.74
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.075,0.064,0.340
+"Riboflavin",mg,0.250,0.212,1.134
+"Niacin",mg,4.117,3.499,18.675
+"Vitamin B-6",mg,0.511,0.434,2.318
+"Folate, DFE",µg,8,7,36
+"Vitamin B-12",µg,2.73,2.32,12.38
+"Vitamin A, RAE",µg,2,2,9
+"Vitamin A, IU",IU,6,5,27
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.09,0.50
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.5
+"Vitamin D",IU,5,4,23
+"Vitamin K (phylloquinone)",µg,1.6,1.4,7.3
+Lipids
+"Fatty acids, total saturated",g,2.800,2.380,12.701
+"Fatty acids, total monounsaturated",g,3.500,2.975,15.876
+"Fatty acids, total polyunsaturated",g,0.450,0.383,2.041
+"Fatty acids, total trans",g,0.366,0.311,1.660
+"Cholesterol",mg,99,84,449
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

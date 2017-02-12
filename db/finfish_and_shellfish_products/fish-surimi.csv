@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:04 EST
+"Nutrient data for: 15109, Fish, surimi"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","3.0 oz = 85.0g",
+Proximates
+"Water",g,76.34,21.64,64.89
+"Energy",kcal,99,28,84
+"Protein",g,15.18,4.30,12.90
+"Total lipid (fat)",g,0.90,0.26,0.77
+"Carbohydrate, by difference",g,6.85,1.94,5.82
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,9,3,8
+"Iron, Fe",mg,0.26,0.07,0.22
+"Magnesium, Mg",mg,43,12,37
+"Phosphorus, P",mg,282,80,240
+"Potassium, K",mg,112,32,95
+"Sodium, Na",mg,143,41,122
+"Zinc, Zn",mg,0.33,0.09,0.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.020,0.006,0.017
+"Riboflavin",mg,0.021,0.006,0.018
+"Niacin",mg,0.220,0.062,0.187
+"Vitamin B-6",mg,0.030,0.009,0.025
+"Folate, DFE",µg,2,1,2
+"Vitamin B-12",µg,1.60,0.45,1.36
+"Vitamin A, RAE",µg,20,6,17
+"Vitamin A, IU",IU,67,19,57
+"Vitamin E (alpha-tocopherol)",mg,0.63,0.18,0.54
+"Vitamin K (phylloquinone)",µg,0.1,0.0,0.1
+Lipids
+"Fatty acids, total saturated",g,0.191,0.054,0.162
+"Fatty acids, total monounsaturated",g,0.149,0.042,0.127
+"Fatty acids, total polyunsaturated",g,0.443,0.126,0.377
+"Cholesterol",mg,30,9,26
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

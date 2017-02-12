@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:07 EST
+"Nutrient data for: 01215, Cheese product, pasteurized process, American, reduced fat, fortified with vitamin D"
+Nutrient,Unit,1Value per 100 g,"1 slice 3/4 oz = 21.0g","1 slice 2/3 oz = 19.0g",
+Proximates
+"Water",g,51.80,10.88,9.84
+"Energy",kcal,240,50,46
+"Protein",g,17.60,3.70,3.34
+"Total lipid (fat)",g,14.10,2.96,2.68
+"Carbohydrate, by difference",g,10.60,2.23,2.01
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,8.02,1.68,1.52
+Minerals
+"Calcium, Ca",mg,529,111,101
+"Iron, Fe",mg,0.20,0.04,0.04
+"Magnesium, Mg",mg,33,7,6
+"Phosphorus, P",mg,829,174,158
+"Potassium, K",mg,330,69,63
+"Sodium, Na",mg,1201,252,228
+"Zinc, Zn",mg,2.36,0.50,0.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.070,0.015,0.013
+"Riboflavin",mg,0.480,0.101,0.091
+"Niacin",mg,0.180,0.038,0.034
+"Vitamin B-6",mg,0.080,0.017,0.015
+"Folate, DFE",µg,18,4,3
+"Vitamin B-12",µg,1.11,0.23,0.21
+"Vitamin A, RAE",µg,250,52,48
+"Vitamin A, IU",IU,945,198,180
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.06,0.05
+"Vitamin D (D2 + D3)",µg,5.3,1.1,1.0
+"Vitamin D",IU,212,45,40
+"Vitamin K (phylloquinone)",µg,2.6,0.5,0.5
+Lipids
+"Fatty acids, total saturated",g,8.850,1.859,1.681
+"Fatty acids, total monounsaturated",g,4.130,0.867,0.785
+"Fatty acids, total polyunsaturated",g,0.410,0.086,0.078
+"Cholesterol",mg,53,11,10
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

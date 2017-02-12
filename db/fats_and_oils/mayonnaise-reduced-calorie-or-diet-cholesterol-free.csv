@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:17 EST
+"Nutrient data for: 42138, Mayonnaise, reduced-calorie or diet, cholesterol-free"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 14.6g","1 cup = 231.0g",
+Proximates
+"Water",g,56.00,8.18,129.36
+"Energy",kcal,333,49,769
+"Protein",g,0.90,0.13,2.08
+"Total lipid (fat)",g,33.30,4.86,76.92
+"Carbohydrate, by difference",g,6.70,0.98,15.48
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,4.20,0.61,9.70
+Minerals
+"Calcium, Ca",mg,0,0,0
+"Iron, Fe",mg,0.00,0.00,0.00
+"Magnesium, Mg",mg,0,0,0
+"Phosphorus, P",mg,0,0,0
+"Potassium, K",mg,67,10,155
+"Sodium, Na",mg,733,107,1693
+"Zinc, Zn",mg,0.00,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000
+"Riboflavin",mg,0.000,0.000,0.000
+"Niacin",mg,0.000,0.000,0.000
+"Vitamin B-6",mg,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,6.43,0.94,14.85
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,24.7,3.6,57.1
+Lipids
+"Fatty acids, total saturated",g,4.618,0.674,10.668
+"Fatty acids, total monounsaturated",g,7.707,1.125,17.803
+"Fatty acids, total polyunsaturated",g,19.500,2.847,45.045
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

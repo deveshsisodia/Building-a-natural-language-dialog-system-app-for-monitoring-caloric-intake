@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:58 EST
+"Nutrient data for: 13341, Beef, variety meats and by-products, tripe, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","4.0 oz = 113.0g",
+Proximates
+"Water",g,84.16,23.86,95.10
+"Energy",kcal,85,24,96
+"Protein",g,12.07,3.42,13.64
+"Total lipid (fat)",g,3.69,1.05,4.17
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,69,20,78
+"Iron, Fe",mg,0.59,0.17,0.67
+"Magnesium, Mg",mg,13,4,15
+"Phosphorus, P",mg,64,18,72
+"Potassium, K",mg,67,19,76
+"Sodium, Na",mg,97,27,110
+"Zinc, Zn",mg,1.42,0.40,1.60
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000
+"Riboflavin",mg,0.064,0.018,0.072
+"Niacin",mg,0.881,0.250,0.996
+"Vitamin B-6",mg,0.014,0.004,0.016
+"Folate, DFE",µg,5,1,6
+"Vitamin B-12",µg,1.39,0.39,1.57
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.09,0.03,0.10
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.291,0.366,1.459
+"Fatty acids, total monounsaturated",g,1.533,0.435,1.732
+"Fatty acids, total polyunsaturated",g,0.180,0.051,0.203
+"Fatty acids, total trans",g,0.150,0.043,0.169
+"Cholesterol",mg,122,35,138
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

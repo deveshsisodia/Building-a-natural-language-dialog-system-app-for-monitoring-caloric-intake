@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:00 EST
+"Nutrient data for: 16237, SILK Chocolate, soymilk"
+Nutrient,Unit,1Value per 100 g,"1 cup = 243.0g",
+Proximates
+"Water",g,86.39,209.93
+"Energy",kcal,58,141
+"Protein",g,2.06,5.01
+"Total lipid (fat)",g,1.44,3.50
+"Carbohydrate, by difference",g,9.47,23.01
+"Fiber, total dietary",g,0.8,1.9
+"Sugars, total",g,7.82,19.00
+Minerals
+"Calcium, Ca",mg,123,299
+"Iron, Fe",mg,0.59,1.43
+"Magnesium, Mg",mg,16,39
+"Potassium, K",mg,144,350
+"Sodium, Na",mg,41,100
+"Zinc, Zn",mg,0.25,0.61
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Riboflavin",mg,0.210,0.510
+"Vitamin B-12",µg,1.23,2.99
+"Vitamin A, IU",IU,206,501
+"Vitamin D (D2 + D3)",µg,1.2,2.9
+"Vitamin D",IU,49,119
+Lipids
+"Fatty acids, total saturated",g,0.206,0.501
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

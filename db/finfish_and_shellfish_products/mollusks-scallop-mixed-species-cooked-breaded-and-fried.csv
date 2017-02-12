@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:07 EST
+"Nutrient data for: 15173, Mollusks, scallop, mixed species, cooked, breaded and fried"
+Nutrient,Unit,1Value per 100 g,"2.0 large = 31.0g",
+Proximates
+"Water",g,58.44,18.12
+"Energy",kcal,216,67
+"Protein",g,18.07,5.60
+"Total lipid (fat)",g,10.94,3.39
+"Carbohydrate, by difference",g,10.13,3.14
+Minerals
+"Calcium, Ca",mg,42,13
+"Iron, Fe",mg,0.82,0.25
+"Magnesium, Mg",mg,59,18
+"Phosphorus, P",mg,236,73
+"Potassium, K",mg,333,103
+"Sodium, Na",mg,464,144
+"Zinc, Zn",mg,1.06,0.33
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.3,0.7
+"Thiamin",mg,0.042,0.013
+"Riboflavin",mg,0.110,0.034
+"Niacin",mg,1.505,0.467
+"Vitamin B-6",mg,0.140,0.043
+"Folate, DFE",µg,50,16
+"Vitamin B-12",µg,1.32,0.41
+"Vitamin A, RAE",µg,22,7
+"Vitamin A, IU",IU,75,23
+Lipids
+"Fatty acids, total saturated",g,2.669,0.827
+"Fatty acids, total monounsaturated",g,4.498,1.394
+"Fatty acids, total polyunsaturated",g,2.856,0.885
+"Cholesterol",mg,54,17
+Amino Acids
+Other

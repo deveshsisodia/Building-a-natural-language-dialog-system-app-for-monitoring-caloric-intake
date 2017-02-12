@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:14 EST
+"Nutrient data for: 20140, Spelt, uncooked"
+Nutrient,Unit,1Value per 100 g,"1 cup = 174.0g",
+Proximates
+"Water",g,11.02,19.17
+"Energy",kcal,338,588
+"Protein",g,14.57,25.35
+"Total lipid (fat)",g,2.43,4.23
+"Carbohydrate, by difference",g,70.19,122.13
+"Fiber, total dietary",g,10.7,18.6
+"Sugars, total",g,6.82,11.87
+Minerals
+"Calcium, Ca",mg,27,47
+"Iron, Fe",mg,4.44,7.73
+"Magnesium, Mg",mg,136,237
+"Phosphorus, P",mg,401,698
+"Potassium, K",mg,388,675
+"Sodium, Na",mg,8,14
+"Zinc, Zn",mg,3.28,5.71
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.364,0.633
+"Riboflavin",mg,0.113,0.197
+"Niacin",mg,6.843,11.907
+"Vitamin B-6",mg,0.230,0.400
+"Folate, DFE",µg,45,78
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,10,17
+"Vitamin E (alpha-tocopherol)",mg,0.79,1.37
+"Vitamin K (phylloquinone)",µg,3.6,6.3
+Lipids
+"Fatty acids, total saturated",g,0.406,0.706
+"Fatty acids, total monounsaturated",g,0.445,0.774
+"Fatty acids, total polyunsaturated",g,1.258,2.189
+"Cholesterol",mg,0,0
+Amino Acids
+Other

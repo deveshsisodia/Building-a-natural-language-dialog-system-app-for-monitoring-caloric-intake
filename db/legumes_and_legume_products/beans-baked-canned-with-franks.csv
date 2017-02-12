@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:56 EST
+"Nutrient data for: 16008, Beans, baked, canned, with franks"
+Nutrient,Unit,1Value per 100 g,"1 cup = 259.0g",
+Proximates
+"Water",g,69.34,179.59
+"Energy",kcal,142,368
+"Protein",g,6.75,17.48
+"Total lipid (fat)",g,6.57,17.02
+"Carbohydrate, by difference",g,15.39,39.86
+"Fiber, total dietary",g,6.9,17.9
+"Sugars, total",g,6.53,16.91
+Minerals
+"Calcium, Ca",mg,48,124
+"Iron, Fe",mg,1.73,4.48
+"Magnesium, Mg",mg,28,73
+"Phosphorus, P",mg,104,269
+"Potassium, K",mg,235,609
+"Sodium, Na",mg,430,1114
+"Zinc, Zn",mg,1.87,4.84
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.3,6.0
+"Thiamin",mg,0.058,0.150
+"Riboflavin",mg,0.056,0.145
+"Niacin",mg,0.901,2.334
+"Vitamin B-6",mg,0.046,0.119
+"Folate, DFE",µg,30,78
+"Vitamin B-12",µg,0.34,0.88
+"Vitamin A, RAE",µg,4,10
+"Vitamin A, IU",IU,87,225
+"Vitamin E (alpha-tocopherol)",mg,0.16,0.41
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.0,2.6
+Lipids
+"Fatty acids, total saturated",g,2.352,6.092
+"Fatty acids, total monounsaturated",g,2.830,7.330
+"Fatty acids, total polyunsaturated",g,0.836,2.165
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,6,16
+Amino Acids
+Other
+"Caffeine",mg,0,0

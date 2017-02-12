@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:32 EST
+"Nutrient data for: 21024, Fast foods, french toast sticks"
+Nutrient,Unit,1Value per 100 g,"3.0 pieces = 65.0g","5.0 pieces = 109.0g",
+Proximates
+"Water",g,33.57,21.82,36.59
+"Energy",kcal,340,221,371
+"Protein",g,6.00,3.90,6.54
+"Total lipid (fat)",g,17.74,11.53,19.34
+"Carbohydrate, by difference",g,41.21,26.79,44.92
+"Fiber, total dietary",g,1.4,0.9,1.5
+"Sugars, total",g,9.89,6.43,10.78
+Minerals
+"Calcium, Ca",mg,53,34,58
+"Iron, Fe",mg,1.92,1.25,2.09
+"Magnesium, Mg",mg,19,12,21
+"Phosphorus, P",mg,87,57,95
+"Potassium, K",mg,111,72,121
+"Sodium, Na",mg,400,260,436
+"Zinc, Zn",mg,0.51,0.33,0.56
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.284,0.185,0.310
+"Riboflavin",mg,0.175,0.114,0.191
+"Niacin",mg,2.575,1.674,2.807
+"Vitamin B-6",mg,0.053,0.034,0.058
+"Folate, DFE",µg,212,138,231
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,5,3,5
+"Vitamin E (alpha-tocopherol)",mg,0.88,0.57,0.96
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,14.5,9.4,15.8
+Lipids
+"Fatty acids, total saturated",g,3.989,2.593,4.348
+"Fatty acids, total monounsaturated",g,9.502,6.176,10.357
+"Fatty acids, total polyunsaturated",g,2.566,1.668,2.797
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

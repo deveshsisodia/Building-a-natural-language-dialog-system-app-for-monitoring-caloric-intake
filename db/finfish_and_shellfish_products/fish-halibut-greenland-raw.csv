@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:58 EST
+"Nutrient data for: 15038, Fish, halibut, Greenland, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","0.5 fillet = 204.0g",
+Proximates
+"Water",g,70.27,59.73,143.35
+"Energy",kcal,186,158,379
+"Protein",g,14.37,12.21,29.31
+"Total lipid (fat)",g,13.84,11.76,28.23
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,3,3,6
+"Iron, Fe",mg,0.66,0.56,1.35
+"Magnesium, Mg",mg,26,22,53
+"Phosphorus, P",mg,164,139,335
+"Potassium, K",mg,268,228,547
+"Sodium, Na",mg,80,68,163
+"Zinc, Zn",mg,0.40,0.34,0.82
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.060,0.051,0.122
+"Riboflavin",mg,0.080,0.068,0.163
+"Niacin",mg,1.500,1.275,3.060
+"Vitamin B-6",mg,0.420,0.357,0.857
+"Folate, DFE",µg,1,1,2
+"Vitamin B-12",µg,1.00,0.85,2.04
+"Vitamin A, RAE",µg,14,12,29
+"Vitamin A, IU",IU,47,40,96
+"Vitamin E (alpha-tocopherol)",mg,0.73,0.62,1.49
+"Vitamin D (D2 + D3)",µg,27.4,23.3,55.9
+"Vitamin D",IU,1097,932,2238
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.2
+Lipids
+"Fatty acids, total saturated",g,2.419,2.056,4.935
+"Fatty acids, total monounsaturated",g,8.378,7.121,17.091
+"Fatty acids, total polyunsaturated",g,1.367,1.162,2.789
+"Cholesterol",mg,46,39,94
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

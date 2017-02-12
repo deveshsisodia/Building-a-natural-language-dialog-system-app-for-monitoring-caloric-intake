@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:56 EST
+"Nutrient data for: 15007, Fish, butterfish, raw"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 32.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,74.13,23.72,63.01
+"Energy",kcal,146,47,124
+"Protein",g,17.28,5.53,14.69
+"Total lipid (fat)",g,8.02,2.57,6.82
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,22,7,19
+"Iron, Fe",mg,0.50,0.16,0.42
+"Magnesium, Mg",mg,25,8,21
+"Phosphorus, P",mg,240,77,204
+"Potassium, K",mg,375,120,319
+"Sodium, Na",mg,89,28,76
+"Zinc, Zn",mg,0.77,0.25,0.65
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.120,0.038,0.102
+"Riboflavin",mg,0.150,0.048,0.128
+"Niacin",mg,4.500,1.440,3.825
+"Vitamin B-6",mg,0.300,0.096,0.255
+"Folate, DFE",µg,15,5,13
+"Vitamin B-12",µg,1.90,0.61,1.61
+"Vitamin A, RAE",µg,30,10,26
+"Vitamin A, IU",IU,100,32,85
+Lipids
+"Fatty acids, total saturated",g,3.380,1.082,2.873
+"Fatty acids, total monounsaturated",g,3.380,1.082,2.873
+"Fatty acids, total polyunsaturated",g,0.590,0.189,0.501
+"Cholesterol",mg,65,21,55
+Amino Acids
+Other

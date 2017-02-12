@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:34 EST
+"Nutrient data for: 19116, Candies, marshmallows"
+Nutrient,Unit,1Value per 100 g,"1 cup of miniature = 50.0g","10.0 miniatures = 7.0g","1 regular = 7.2g",
+Proximates
+"Water",g,16.40,8.20,1.15,1.18
+"Energy",kcal,318,159,22,23
+"Protein",g,1.80,0.90,0.13,0.13
+"Total lipid (fat)",g,0.20,0.10,0.01,0.01
+"Carbohydrate, by difference",g,81.30,40.65,5.69,5.85
+"Fiber, total dietary",g,0.1,0.1,0.0,0.0
+"Sugars, total",g,57.56,28.78,4.03,4.14
+Minerals
+"Calcium, Ca",mg,3,2,0,0
+"Iron, Fe",mg,0.23,0.12,0.02,0.02
+"Magnesium, Mg",mg,2,1,0,0
+"Phosphorus, P",mg,8,4,1,1
+"Potassium, K",mg,5,2,0,0
+"Sodium, Na",mg,80,40,6,6
+"Zinc, Zn",mg,0.04,0.02,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.001,0.000,0.000,0.000
+"Riboflavin",mg,0.001,0.000,0.000,0.000
+"Niacin",mg,0.078,0.039,0.005,0.006
+"Vitamin B-6",mg,0.003,0.002,0.000,0.000
+"Folate, DFE",µg,1,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.056,0.028,0.004,0.004
+"Fatty acids, total monounsaturated",g,0.080,0.040,0.006,0.006
+"Fatty acids, total polyunsaturated",g,0.047,0.024,0.003,0.003
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

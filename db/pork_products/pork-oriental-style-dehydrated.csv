@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:50 EST
+"Nutrient data for: 43297, Pork, oriental style, dehydrated"
+Nutrient,Unit,1Value per 100 g,"1 cup = 22.0g",
+Proximates
+"Water",g,21.80,4.80
+"Energy",kcal,615,135
+"Protein",g,11.80,2.60
+"Total lipid (fat)",g,62.40,13.73
+"Carbohydrate, by difference",g,1.40,0.31
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,10,2
+"Iron, Fe",mg,0.50,0.11
+"Magnesium, Mg",mg,11,2
+"Phosphorus, P",mg,128,28
+"Potassium, K",mg,139,31
+"Sodium, Na",mg,685,151
+"Zinc, Zn",mg,1.15,0.25
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.450,0.099
+"Riboflavin",mg,0.140,0.031
+"Niacin",mg,2.100,0.462
+"Vitamin B-6",mg,0.200,0.044
+"Folate, DFE",µg,2,0
+"Vitamin B-12",µg,0.30,0.07
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.36,0.08
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,23.056,5.072
+"Fatty acids, total monounsaturated",g,28.555,6.282
+"Fatty acids, total polyunsaturated",g,7.320,1.610
+"Cholesterol",mg,67,15
+Amino Acids
+Other
+"Caffeine",mg,0,0

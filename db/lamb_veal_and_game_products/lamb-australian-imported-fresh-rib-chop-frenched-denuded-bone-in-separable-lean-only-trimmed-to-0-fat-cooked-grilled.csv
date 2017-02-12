@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:55 EST
+"Nutrient data for: 17461, Lamb, Australian, imported, fresh, rib chop, frenched, denuded, bone-in, separable lean only, trimmed to 0"" fat, cooked, grilled"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 chop = 43.0g",
+Proximates
+"Water",g,55.36,47.06,23.80
+"Energy",kcal,236,201,101
+"Protein",g,33.17,28.19,14.26
+"Total lipid (fat)",g,11.50,9.78,4.95
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,10,8,4
+"Iron, Fe",mg,2.46,2.09,1.06
+"Magnesium, Mg",mg,28,24,12
+"Phosphorus, P",mg,220,187,95
+"Potassium, K",mg,294,250,126
+"Sodium, Na",mg,85,72,37
+"Zinc, Zn",mg,3.79,3.22,1.63
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.160,0.136,0.069
+"Riboflavin",mg,0.430,0.365,0.185
+"Niacin",mg,9.140,7.769,3.930
+"Vitamin B-6",mg,0.593,0.504,0.255
+"Vitamin B-12",µg,1.78,1.51,0.77
+"Vitamin A, RAE",µg,5,4,2
+"Vitamin A, IU",IU,15,13,6
+"Vitamin E (alpha-tocopherol)",mg,0.40,0.34,0.17
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,5.627,4.783,2.420
+"Fatty acids, total monounsaturated",g,4.695,3.991,2.019
+"Fatty acids, total polyunsaturated",g,0.635,0.540,0.273
+"Fatty acids, total trans",g,0.622,0.529,0.267
+"Cholesterol",mg,103,88,44
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

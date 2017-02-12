@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:41 EST
+"Nutrient data for: 43506, Frozen novelties, ice cream type, chocolate or caramel covered, with nuts"
+Nutrient,Unit,1Value per 100 g,"1 bar = 54.0g",
+Proximates
+"Water",g,43.10,23.27
+"Energy",kcal,323,174
+"Protein",g,4.40,2.38
+"Total lipid (fat)",g,20.20,10.91
+"Carbohydrate, by difference",g,30.90,16.69
+"Fiber, total dietary",g,0.6,0.3
+"Sugars, total",g,30.00,16.20
+Minerals
+"Calcium, Ca",mg,252,136
+"Iron, Fe",mg,0.72,0.39
+"Magnesium, Mg",mg,29,16
+"Phosphorus, P",mg,114,62
+"Potassium, K",mg,238,129
+"Sodium, Na",mg,92,50
+"Zinc, Zn",mg,0.63,0.34
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.4
+"Thiamin",mg,0.040,0.022
+"Riboflavin",mg,0.180,0.097
+"Niacin",mg,0.960,0.518
+"Vitamin B-6",mg,0.220,0.119
+"Folate, DFE",µg,11,6
+"Vitamin B-12",µg,0.38,0.21
+"Vitamin A, RAE",µg,48,26
+"Vitamin A, IU",IU,220,119
+"Vitamin E (alpha-tocopherol)",mg,0.42,0.23
+"Vitamin D (D2 + D3)",µg,0.2,0.1
+"Vitamin D",IU,7,4
+"Vitamin K (phylloquinone)",µg,1.3,0.7
+Lipids
+"Fatty acids, total saturated",g,12.658,6.835
+"Fatty acids, total monounsaturated",g,4.977,2.688
+"Fatty acids, total polyunsaturated",g,1.469,0.793
+"Cholesterol",mg,1,1
+Amino Acids
+Other
+"Caffeine",mg,3,2

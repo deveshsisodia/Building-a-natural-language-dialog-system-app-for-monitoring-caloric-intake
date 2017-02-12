@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:41 EST
+"Nutrient data for: 10901, Pork, cured, ham with natural juices, spiral slice, boneless, separable lean and fat, unheated"
+Nutrient,Unit,1Value per 100 g,"1 oz spiral slice = 28.35g","1 lb spiral slice = 453.6g",
+Proximates
+"Water",g,70.62,20.02,320.33
+"Energy",kcal,129,37,585
+"Protein",g,18.66,5.29,84.64
+"Total lipid (fat)",g,5.75,1.63,26.08
+"Carbohydrate, by difference",g,1.18,0.33,5.35
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,1.18,0.33,5.35
+Minerals
+"Calcium, Ca",mg,4,1,18
+"Iron, Fe",mg,0.75,0.21,3.40
+"Magnesium, Mg",mg,19,5,86
+"Phosphorus, P",mg,276,78,1252
+"Potassium, K",mg,310,88,1406
+"Sodium, Na",mg,881,250,3996
+"Zinc, Zn",mg,1.63,0.46,7.39
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.391,0.111,1.774
+"Riboflavin",mg,0.187,0.053,0.848
+"Niacin",mg,5.575,1.581,25.288
+"Vitamin B-6",mg,0.356,0.101,1.615
+"Folate, DFE",µg,1,0,5
+"Vitamin B-12",µg,0.43,0.12,1.95
+"Vitamin A, RAE",µg,12,3,54
+"Vitamin A, IU",IU,39,11,177
+"Vitamin E (alpha-tocopherol)",mg,0.20,0.06,0.91
+"Vitamin D (D2 + D3)",µg,0.7,0.2,3.2
+"Vitamin D",IU,27,8,122
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.833,0.520,8.314
+"Fatty acids, total monounsaturated",g,2.513,0.712,11.399
+"Fatty acids, total polyunsaturated",g,0.902,0.256,4.091
+"Fatty acids, total trans",g,0.042,0.012,0.191
+"Cholesterol",mg,57,16,259
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

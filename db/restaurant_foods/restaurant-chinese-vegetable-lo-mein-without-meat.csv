@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:27 EST
+"Nutrient data for: 36625, Restaurant, Chinese, vegetable lo mein, without meat"
+Nutrient,Unit,1Value per 100 g,"1 order = 741.0g","1 cup = 136.0g",
+Proximates
+"Water",g,71.33,528.56,97.01
+"Energy",kcal,121,897,165
+"Protein",g,4.77,35.35,6.49
+"Total lipid (fat)",g,2.35,17.41,3.20
+"Carbohydrate, by difference",g,20.16,149.39,27.42
+"Fiber, total dietary",g,1.3,9.6,1.8
+"Sugars, total",g,2.63,19.49,3.58
+Minerals
+"Calcium, Ca",mg,21,156,29
+"Iron, Fe",mg,1.07,7.93,1.46
+"Magnesium, Mg",mg,14,104,19
+"Phosphorus, P",mg,45,333,61
+"Potassium, K",mg,105,778,143
+"Sodium, Na",mg,430,3186,585
+"Zinc, Zn",mg,0.36,2.67,0.49
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.7,12.6,2.3
+"Thiamin",mg,0.047,0.348,0.064
+"Riboflavin",mg,0.124,0.919,0.169
+"Niacin",mg,0.810,6.002,1.102
+"Vitamin B-6",mg,0.068,0.504,0.092
+"Folate, DFE",µg,28,207,38
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,9,67,12
+"Vitamin A, IU",IU,179,1326,243
+"Vitamin E (alpha-tocopherol)",mg,0.30,2.22,0.41
+"Vitamin D (D2 + D3)",µg,0.1,0.7,0.1
+"Vitamin D",IU,4,30,5
+"Vitamin K (phylloquinone)",µg,12.7,94.1,17.3
+Lipids
+"Fatty acids, total saturated",g,0.464,3.438,0.631
+"Fatty acids, total monounsaturated",g,0.592,4.387,0.805
+"Fatty acids, total polyunsaturated",g,1.291,9.566,1.756
+"Fatty acids, total trans",g,0.008,0.059,0.011
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Type and proportion of ingredients vary by restaurant."

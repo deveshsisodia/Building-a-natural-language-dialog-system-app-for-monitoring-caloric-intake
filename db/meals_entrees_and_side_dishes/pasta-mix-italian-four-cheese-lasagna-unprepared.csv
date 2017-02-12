@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:25 EST
+"Nutrient data for: 32017, Pasta mix, Italian four cheese lasagna, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 package = 117.0g","1 packet = 42.0g",
+Proximates
+"Water",g,8.07,9.44,3.39
+"Energy",kcal,355,415,149
+"Protein",g,12.53,14.66,5.26
+"Total lipid (fat)",g,2.70,3.16,1.13
+"Carbohydrate, by difference",g,70.26,82.20,29.51
+"Fiber, total dietary",g,2.6,3.0,1.1
+"Sugars, total",g,6.70,7.84,2.81
+Minerals
+"Calcium, Ca",mg,55,64,23
+"Iron, Fe",mg,3.12,3.65,1.31
+"Magnesium, Mg",mg,42,49,18
+"Phosphorus, P",mg,162,190,68
+"Potassium, K",mg,271,317,114
+"Sodium, Na",mg,2093,2449,879
+"Zinc, Zn",mg,0.98,1.15,0.41
+Vitamins
+"Thiamin",mg,0.813,0.951,0.341
+"Riboflavin",mg,0.537,0.628,0.226
+"Niacin",mg,6.067,7.098,2.548
+"Vitamin B-6",mg,0.153,0.179,0.064
+"Vitamin B-12",µg,0.52,0.61,0.22
+"Vitamin A, RAE",µg,38,44,16
+"Vitamin A, IU",IU,126,147,53
+"Vitamin E (alpha-tocopherol)",mg,0.54,0.63,0.23
+Lipids
+"Fatty acids, total saturated",g,0.697,0.815,0.293
+"Fatty acids, total monounsaturated",g,0.546,0.639,0.229
+"Fatty acids, total polyunsaturated",g,0.519,0.607,0.218
+"Fatty acids, total trans",g,0.099,0.116,0.042
+"Cholesterol",mg,1,1,0
+Amino Acids
+Other

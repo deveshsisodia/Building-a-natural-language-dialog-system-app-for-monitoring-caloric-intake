@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:52 EST
+"Nutrient data for: 17348, Game meat, deer, top round, separable lean only, 1"" steak, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"1 steak ( yield from 134.9 g raw meat ) = 102.0g","1 serving ( 3 oz ) = 85.0g",
+Proximates
+"Water",g,66.10,67.42,56.18
+"Energy",kcal,152,155,129
+"Protein",g,31.47,32.10,26.75
+"Total lipid (fat)",g,1.92,1.96,1.63
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,4,4,3
+"Iron, Fe",mg,4.23,4.31,3.60
+"Magnesium, Mg",mg,30,31,26
+"Phosphorus, P",mg,272,277,231
+"Potassium, K",mg,377,385,320
+"Sodium, Na",mg,45,46,38
+"Zinc, Zn",mg,3.67,3.74,3.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.250,0.255,0.212
+"Riboflavin",mg,0.500,0.510,0.425
+"Niacin",mg,8.400,8.568,7.140
+"Vitamin B-6",mg,0.710,0.724,0.603
+"Folate, DFE",µg,10,10,8
+"Vitamin B-12",µg,2.27,2.32,1.93
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.64,0.65,0.54
+Lipids
+"Fatty acids, total saturated",g,1.030,1.051,0.875
+"Fatty acids, total monounsaturated",g,0.412,0.420,0.350
+"Fatty acids, total polyunsaturated",g,0.121,0.123,0.103
+"Cholesterol",mg,85,87,72
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

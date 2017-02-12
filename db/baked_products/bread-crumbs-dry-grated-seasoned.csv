@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:30 EST
+"Nutrient data for: 18376, Bread crumbs, dry, grated, seasoned"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cup = 120.0g",
+Proximates
+"Water",g,6.35,1.80,7.62
+"Energy",kcal,383,109,460
+"Protein",g,14.13,4.01,16.96
+"Total lipid (fat)",g,5.48,1.55,6.58
+"Carbohydrate, by difference",g,68.49,19.42,82.19
+"Fiber, total dietary",g,4.9,1.4,5.9
+"Sugars, total",g,5.74,1.63,6.89
+Minerals
+"Calcium, Ca",mg,182,52,218
+"Iron, Fe",mg,4.92,1.39,5.90
+"Magnesium, Mg",mg,46,13,55
+"Phosphorus, P",mg,177,50,212
+"Potassium, K",mg,231,65,277
+"Sodium, Na",mg,1336,379,1603
+"Zinc, Zn",mg,1.43,0.41,1.72
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.7,0.8,3.2
+"Thiamin",mg,0.961,0.272,1.153
+"Riboflavin",mg,0.415,0.118,0.498
+"Niacin",mg,6.161,1.747,7.393
+"Vitamin B-6",mg,0.171,0.048,0.205
+"Folate, DFE",µg,183,52,220
+"Vitamin B-12",µg,0.35,0.10,0.42
+"Vitamin A, RAE",µg,10,3,12
+"Vitamin A, IU",IU,193,55,232
+"Vitamin E (alpha-tocopherol)",mg,0.26,0.07,0.31
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,46.0,13.0,55.2
+Lipids
+"Fatty acids, total saturated",g,1.391,0.394,1.669
+"Fatty acids, total monounsaturated",g,1.168,0.331,1.402
+"Fatty acids, total polyunsaturated",g,2.300,0.652,2.760
+"Cholesterol",mg,1,0,1
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

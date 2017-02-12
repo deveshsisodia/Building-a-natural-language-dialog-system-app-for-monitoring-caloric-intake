@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08267, Cereals ready-to-eat, GENERAL MILLS, FROSTED CHEERIOS"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 27.0g",
+Proximates
+"Water",g,2.20,0.59
+"Energy",kcal,376,102
+"Protein",g,9.00,2.43
+"Total lipid (fat)",g,4.69,1.27
+"Carbohydrate, by difference",g,79.80,21.55
+"Fiber, total dietary",g,7.5,2.0
+"Sugars, total",g,32.00,8.64
+Minerals
+"Calcium, Ca",mg,370,100
+"Iron, Fe",mg,16.70,4.51
+"Magnesium, Mg",mg,89,24
+"Phosphorus, P",mg,296,80
+"Potassium, K",mg,254,69
+"Sodium, Na",mg,553,149
+"Zinc, Zn",mg,13.89,3.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,22.2,6.0
+"Thiamin",mg,1.390,0.375
+"Riboflavin",mg,1.600,0.432
+"Niacin",mg,18.500,4.995
+"Vitamin B-6",mg,1.850,0.500
+"Folate, DFE",µg,1246,336
+"Vitamin B-12",µg,5.59,1.51
+"Vitamin A, RAE",µg,554,150
+"Vitamin A, IU",IU,1852,500
+"Vitamin E (alpha-tocopherol)",mg,0.33,0.09
+"Vitamin D (D2 + D3)",µg,3.7,1.0
+"Vitamin D",IU,148,40
+"Vitamin K (phylloquinone)",µg,1.5,0.4
+Lipids
+"Fatty acids, total saturated",g,1.100,0.297
+"Fatty acids, total monounsaturated",g,1.700,0.459
+"Fatty acids, total polyunsaturated",g,1.790,0.483
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

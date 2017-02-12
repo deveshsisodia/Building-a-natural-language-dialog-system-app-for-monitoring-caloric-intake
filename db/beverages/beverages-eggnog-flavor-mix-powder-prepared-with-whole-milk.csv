@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:21 EST
+"Nutrient data for: 14245, Beverages, Eggnog-flavor mix, powder, prepared with whole milk"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 272.0g",
+Proximates
+"Water",g,79.16,215.32
+"Energy",kcal,95,258
+"Protein",g,2.93,7.97
+"Total lipid (fat)",g,3.02,8.21
+"Carbohydrate, by difference",g,14.20,38.62
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,12.66,34.44
+Minerals
+"Calcium, Ca",mg,92,250
+"Iron, Fe",mg,0.12,0.33
+"Magnesium, Mg",mg,10,27
+"Phosphorus, P",mg,77,209
+"Potassium, K",mg,121,329
+"Sodium, Na",mg,55,150
+"Zinc, Zn",mg,0.35,0.95
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.040,0.109
+"Riboflavin",mg,0.166,0.452
+"Niacin",mg,0.112,0.305
+"Vitamin B-6",mg,0.033,0.090
+"Folate, DFE",µg,5,14
+"Vitamin B-12",µg,0.39,1.06
+"Vitamin A, RAE",µg,26,71
+"Vitamin A, IU",IU,94,256
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.16
+"Vitamin K (phylloquinone)",µg,0.2,0.5
+Lipids
+"Fatty acids, total saturated",g,1.701,4.627
+"Fatty acids, total monounsaturated",g,0.767,2.086
+"Fatty acids, total polyunsaturated",g,0.186,0.506
+"Cholesterol",mg,11,30
+Amino Acids
+Other
+"Caffeine",mg,0,0

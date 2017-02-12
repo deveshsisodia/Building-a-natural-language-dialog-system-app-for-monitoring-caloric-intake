@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:57 EST
+"Nutrient data for: 15015, Fish, cod, Atlantic, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 fillet = 231.0g",
+Proximates
+"Water",g,81.22,69.04,187.62
+"Energy",kcal,82,70,189
+"Protein",g,17.81,15.14,41.14
+"Total lipid (fat)",g,0.67,0.57,1.55
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,16,14,37
+"Iron, Fe",mg,0.38,0.32,0.88
+"Magnesium, Mg",mg,32,27,74
+"Phosphorus, P",mg,203,173,469
+"Potassium, K",mg,413,351,954
+"Sodium, Na",mg,54,46,125
+"Zinc, Zn",mg,0.45,0.38,1.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.8,2.3
+"Thiamin",mg,0.076,0.065,0.176
+"Riboflavin",mg,0.065,0.055,0.150
+"Niacin",mg,2.063,1.754,4.766
+"Vitamin B-6",mg,0.245,0.208,0.566
+"Folate, DFE",µg,7,6,16
+"Vitamin B-12",µg,0.91,0.77,2.10
+"Vitamin A, RAE",µg,12,10,28
+"Vitamin A, IU",IU,40,34,92
+"Vitamin E (alpha-tocopherol)",mg,0.64,0.54,1.48
+"Vitamin D (D2 + D3)",µg,0.9,0.8,2.1
+"Vitamin D",IU,36,31,83
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.2
+Lipids
+"Fatty acids, total saturated",g,0.131,0.111,0.303
+"Fatty acids, total monounsaturated",g,0.094,0.080,0.217
+"Fatty acids, total polyunsaturated",g,0.231,0.196,0.534
+"Cholesterol",mg,43,37,99
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

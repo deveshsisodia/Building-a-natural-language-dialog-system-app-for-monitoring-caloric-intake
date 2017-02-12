@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:49 EST
+"Nutrient data for: 10106, Pork, fresh, variety meats and by-products, kidneys, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 kidney = 233.0g",
+Proximates
+"Water",g,80.06,22.70,186.54
+"Energy",kcal,100,28,233
+"Protein",g,16.46,4.67,38.35
+"Total lipid (fat)",g,3.25,0.92,7.57
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,9,3,21
+"Iron, Fe",mg,4.89,1.39,11.39
+"Magnesium, Mg",mg,17,5,40
+"Phosphorus, P",mg,204,58,475
+"Potassium, K",mg,229,65,534
+"Sodium, Na",mg,121,34,282
+"Zinc, Zn",mg,2.75,0.78,6.41
+Vitamins
+"Vitamin C, total ascorbic acid",mg,13.3,3.8,31.0
+"Thiamin",mg,0.340,0.096,0.792
+"Riboflavin",mg,1.697,0.481,3.954
+"Niacin",mg,8.207,2.327,19.122
+"Vitamin B-6",mg,0.440,0.125,1.025
+"Folate, DFE",µg,42,12,98
+"Vitamin B-12",µg,8.49,2.41,19.78
+"Vitamin A, RAE",µg,59,17,137
+"Vitamin A, IU",IU,198,56,461
+Lipids
+"Fatty acids, total saturated",g,1.040,0.295,2.423
+"Fatty acids, total monounsaturated",g,1.070,0.303,2.493
+"Fatty acids, total polyunsaturated",g,0.260,0.074,0.606
+"Cholesterol",mg,319,90,743
+Amino Acids
+Other

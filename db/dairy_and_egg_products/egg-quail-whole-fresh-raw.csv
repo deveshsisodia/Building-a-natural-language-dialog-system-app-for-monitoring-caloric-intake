@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:08 EST
+"Nutrient data for: 01140, Egg, quail, whole, fresh, raw"
+Nutrient,Unit,1Value per 100 g,"1 egg = 9.0g",
+Proximates
+"Water",g,74.35,6.69
+"Energy",kcal,158,14
+"Protein",g,13.05,1.17
+"Total lipid (fat)",g,11.09,1.00
+"Carbohydrate, by difference",g,0.41,0.04
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.40,0.04
+Minerals
+"Calcium, Ca",mg,64,6
+"Iron, Fe",mg,3.65,0.33
+"Magnesium, Mg",mg,13,1
+"Phosphorus, P",mg,226,20
+"Potassium, K",mg,132,12
+"Sodium, Na",mg,141,13
+"Zinc, Zn",mg,1.47,0.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.130,0.012
+"Riboflavin",mg,0.790,0.071
+"Niacin",mg,0.150,0.013
+"Vitamin B-6",mg,0.150,0.013
+"Folate, DFE",µg,66,6
+"Vitamin B-12",µg,1.58,0.14
+"Vitamin A, RAE",µg,156,14
+"Vitamin A, IU",IU,543,49
+"Vitamin E (alpha-tocopherol)",mg,1.08,0.10
+"Vitamin D (D2 + D3)",µg,1.4,0.1
+"Vitamin D",IU,55,5
+"Vitamin K (phylloquinone)",µg,0.3,0.0
+Lipids
+"Fatty acids, total saturated",g,3.557,0.320
+"Fatty acids, total monounsaturated",g,4.324,0.389
+"Fatty acids, total polyunsaturated",g,1.324,0.119
+"Cholesterol",mg,844,76
+Amino Acids
+Other
+"Caffeine",mg,0,0

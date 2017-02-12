@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:01 EST
+"Nutrient data for: 15069, Fish, pompano, florida, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 88.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,62.97,55.41,53.52
+"Energy",kcal,211,186,179
+"Protein",g,23.69,20.85,20.14
+"Total lipid (fat)",g,12.14,10.68,10.32
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,43,38,37
+"Iron, Fe",mg,0.67,0.59,0.57
+"Magnesium, Mg",mg,31,27,26
+"Phosphorus, P",mg,341,300,290
+"Potassium, K",mg,636,560,541
+"Sodium, Na",mg,76,67,65
+"Zinc, Zn",mg,0.69,0.61,0.59
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.680,0.598,0.578
+"Riboflavin",mg,0.150,0.132,0.128
+"Niacin",mg,3.800,3.344,3.230
+"Vitamin B-6",mg,0.230,0.202,0.196
+"Folate, DFE",µg,17,15,14
+"Vitamin B-12",µg,1.20,1.06,1.02
+"Vitamin A, RAE",µg,36,32,31
+"Vitamin A, IU",IU,120,106,102
+Lipids
+"Fatty acids, total saturated",g,4.499,3.959,3.824
+"Fatty acids, total monounsaturated",g,3.315,2.917,2.818
+"Fatty acids, total polyunsaturated",g,1.458,1.283,1.239
+"Cholesterol",mg,64,56,54
+Amino Acids
+Other

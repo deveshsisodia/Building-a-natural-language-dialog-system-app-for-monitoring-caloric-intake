@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:00 EST
+"Nutrient data for: 16402, Pigeon peas (red gram), mature seeds, cooked, boiled, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 168.0g",
+Proximates
+"Water",g,68.55,115.16
+"Energy",kcal,121,203
+"Protein",g,6.76,11.36
+"Total lipid (fat)",g,0.38,0.64
+"Carbohydrate, by difference",g,23.25,39.06
+"Fiber, total dietary",g,6.7,11.3
+Minerals
+"Calcium, Ca",mg,43,72
+"Iron, Fe",mg,1.11,1.86
+"Magnesium, Mg",mg,46,77
+"Phosphorus, P",mg,119,200
+"Potassium, K",mg,384,645
+"Sodium, Na",mg,241,405
+"Zinc, Zn",mg,0.90,1.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.146,0.245
+"Riboflavin",mg,0.059,0.099
+"Niacin",mg,0.781,1.312
+"Vitamin B-6",mg,0.050,0.084
+"Folate, DFE",µg,111,186
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,3,5
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.083,0.139
+"Fatty acids, total monounsaturated",g,0.003,0.005
+"Fatty acids, total polyunsaturated",g,0.205,0.344
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:38 EST
+"Nutrient data for: 05195, Turkey, all classes, wing, meat and skin, raw"
+Nutrient,Unit,1Value per 100 g,"1 unit (yield from 1 lb ready-to-cook turkey) = 33.0g","1 wing, bone removed = 256.0g",
+Proximates
+"Water",g,66.49,21.94,170.21
+"Energy",kcal,197,65,504
+"Protein",g,20.22,6.67,51.76
+"Total lipid (fat)",g,12.32,4.07,31.54
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,14,5,36
+"Iron, Fe",mg,1.26,0.42,3.23
+"Magnesium, Mg",mg,21,7,54
+"Phosphorus, P",mg,165,54,422
+"Potassium, K",mg,240,79,614
+"Sodium, Na",mg,55,18,141
+"Zinc, Zn",mg,1.54,0.51,3.94
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.050,0.017,0.128
+"Riboflavin",mg,0.110,0.036,0.282
+"Niacin",mg,4.425,1.460,11.328
+"Vitamin B-6",mg,0.410,0.135,1.050
+"Folate, DFE",µg,7,2,18
+"Vitamin B-12",µg,0.39,0.13,1.00
+"Vitamin A, RAE",µg,3,1,8
+"Vitamin A, IU",IU,11,4,28
+Lipids
+"Fatty acids, total saturated",g,3.280,1.082,8.397
+"Fatty acids, total monounsaturated",g,4.970,1.640,12.723
+"Fatty acids, total polyunsaturated",g,2.860,0.944,7.322
+"Cholesterol",mg,70,23,179
+Amino Acids
+Other

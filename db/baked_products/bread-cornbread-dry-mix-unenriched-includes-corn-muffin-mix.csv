@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:29 EST
+"Nutrient data for: 18412, Bread, cornbread, dry mix, unenriched (includes corn muffin mix)"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 package (8.5 oz) = 241.0g",
+Proximates
+"Water",g,7.80,2.21,18.80
+"Energy",kcal,418,119,1007
+"Protein",g,7.00,1.98,16.87
+"Total lipid (fat)",g,12.20,3.46,29.40
+"Carbohydrate, by difference",g,69.50,19.70,167.50
+"Fiber, total dietary",g,6.5,1.8,15.7
+Minerals
+"Calcium, Ca",mg,57,16,137
+"Iron, Fe",mg,0.59,0.17,1.42
+"Magnesium, Mg",mg,24,7,58
+"Phosphorus, P",mg,489,139,1178
+"Potassium, K",mg,113,32,272
+"Sodium, Na",mg,1111,315,2678
+"Zinc, Zn",mg,0.57,0.16,1.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0,0.2
+"Thiamin",mg,0.046,0.013,0.111
+"Riboflavin",mg,0.020,0.006,0.048
+"Niacin",mg,0.937,0.266,2.258
+"Vitamin B-6",mg,0.128,0.036,0.308
+"Folate, DFE",µg,11,3,27
+"Vitamin B-12",µg,0.09,0.03,0.22
+"Vitamin A, RAE",µg,6,2,14
+"Vitamin A, IU",IU,115,33,277
+Lipids
+"Fatty acids, total saturated",g,3.091,0.876,7.449
+"Fatty acids, total monounsaturated",g,6.719,1.905,16.193
+"Fatty acids, total polyunsaturated",g,1.682,0.477,4.054
+"Cholesterol",mg,2,1,5
+Amino Acids
+Other

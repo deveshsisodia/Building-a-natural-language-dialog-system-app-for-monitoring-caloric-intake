@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:13 EST
+"Nutrient data for: 20135, Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry"
+Nutrient,Unit,1Value per 100 g,"1 cup spaghetti = 91.0g","1 cup elbows = 122.0g","1 cup penne = 95.0g","1 cup farfalle = 81.0g","1 cup rotini = 96.0g","1 cup shells = 64.0g","1 cup lasagne = 90.0g",
+Proximates
+"Water",g,8.85,8.05,10.80,8.41,7.17,8.50,5.66,7.96
+"Energy",kcal,362,329,442,344,293,348,232,326
+"Protein",g,13.51,12.29,16.48,12.83,10.94,12.97,8.65,12.16
+"Total lipid (fat)",g,2.68,2.44,3.27,2.55,2.17,2.57,1.72,2.41
+"Carbohydrate, by difference",g,73.10,66.52,89.18,69.44,59.21,70.18,46.78,65.79
+"Fiber, total dietary",g,10.1,9.2,12.3,9.6,8.2,9.7,6.5,9.1
+"Sugars, total",g,2.60,2.37,3.17,2.47,2.11,2.50,1.66,2.34
+Minerals
+"Calcium, Ca",mg,27,25,33,26,22,26,17,24
+"Iron, Fe",mg,3.33,3.03,4.06,3.16,2.70,3.20,2.13,3.00
+"Magnesium, Mg",mg,104,95,127,99,84,100,67,94
+"Phosphorus, P",mg,287,261,350,273,232,276,184,258
+"Potassium, K",mg,366,333,447,348,296,351,234,329
+"Sodium, Na",mg,11,10,13,10,9,11,7,10
+"Zinc, Zn",mg,2.40,2.18,2.93,2.28,1.94,2.30,1.54,2.16
+Vitamins
+"Thiamin",mg,0.371,0.338,0.453,0.352,0.301,0.356,0.237,0.334
+"Riboflavin",mg,0.193,0.176,0.235,0.183,0.156,0.185,0.124,0.174
+"Niacin",mg,7.948,7.233,9.697,7.551,6.438,7.630,5.087,7.153
+"Vitamin B-6",mg,0.280,0.255,0.342,0.266,0.227,0.269,0.179,0.252
+"Folate, DFE",µg,59,54,72,56,48,57,38,53
+"Vitamin E (alpha-tocopherol)",mg,0.17,0.15,0.21,0.16,0.14,0.16,0.11,0.15
+"Vitamin K (phylloquinone)",µg,0.9,0.8,1.1,0.9,0.7,0.9,0.6,0.8
+Lipids
+"Fatty acids, total saturated",g,0.351,0.319,0.428,0.333,0.284,0.337,0.225,0.316
+"Fatty acids, total monounsaturated",g,0.281,0.256,0.343,0.267,0.228,0.270,0.180,0.253
+"Fatty acids, total polyunsaturated",g,0.928,0.844,1.132,0.882,0.752,0.891,0.594,0.835
+"Fatty acids, total trans",g,0.002,0.002,0.002,0.002,0.002,0.002,0.001,0.002
+Amino Acids
+Other

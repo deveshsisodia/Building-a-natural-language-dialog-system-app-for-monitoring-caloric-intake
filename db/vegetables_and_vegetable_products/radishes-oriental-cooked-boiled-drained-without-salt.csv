@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:29 EST
+"Nutrient data for: 11431, Radishes, oriental, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, sliced = 147.0g",
+Proximates
+"Water",g,95.04,139.71
+"Energy",kcal,17,25
+"Protein",g,0.67,0.98
+"Total lipid (fat)",g,0.24,0.35
+"Carbohydrate, by difference",g,3.43,5.04
+"Fiber, total dietary",g,1.6,2.4
+"Sugars, total",g,1.83,2.69
+Minerals
+"Calcium, Ca",mg,17,25
+"Iron, Fe",mg,0.15,0.22
+"Magnesium, Mg",mg,9,13
+"Phosphorus, P",mg,24,35
+"Potassium, K",mg,285,419
+"Sodium, Na",mg,13,19
+"Zinc, Zn",mg,0.13,0.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,15.1,22.2
+"Thiamin",mg,0.000,0.000
+"Riboflavin",mg,0.023,0.034
+"Niacin",mg,0.150,0.221
+"Vitamin B-6",mg,0.038,0.056
+"Folate, DFE",µg,17,25
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.4
+Lipids
+"Fatty acids, total saturated",g,0.073,0.107
+"Fatty acids, total monounsaturated",g,0.040,0.059
+"Fatty acids, total polyunsaturated",g,0.108,0.159
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

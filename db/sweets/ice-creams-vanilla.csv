@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:43 EST
+"Nutrient data for: 19095, Ice creams, vanilla"
+Nutrient,Unit,1Value per 100 g,"1 serving 1/2 cup = 66.0g",
+Proximates
+"Water",g,61.00,40.26
+"Energy",kcal,207,137
+"Protein",g,3.50,2.31
+"Total lipid (fat)",g,11.00,7.26
+"Carbohydrate, by difference",g,23.60,15.58
+"Fiber, total dietary",g,0.7,0.5
+"Sugars, total",g,21.22,14.01
+Minerals
+"Calcium, Ca",mg,128,84
+"Iron, Fe",mg,0.09,0.06
+"Magnesium, Mg",mg,14,9
+"Phosphorus, P",mg,105,69
+"Potassium, K",mg,199,131
+"Sodium, Na",mg,80,53
+"Zinc, Zn",mg,0.69,0.46
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.4
+"Thiamin",mg,0.041,0.027
+"Riboflavin",mg,0.240,0.158
+"Niacin",mg,0.116,0.077
+"Vitamin B-6",mg,0.048,0.032
+"Folate, DFE",µg,5,3
+"Vitamin B-12",µg,0.39,0.26
+"Vitamin A, RAE",µg,118,78
+"Vitamin A, IU",IU,421,278
+"Vitamin E (alpha-tocopherol)",mg,0.30,0.20
+"Vitamin D (D2 + D3)",µg,0.2,0.1
+"Vitamin D",IU,8,5
+"Vitamin K (phylloquinone)",µg,0.3,0.2
+Lipids
+"Fatty acids, total saturated",g,6.790,4.481
+"Fatty acids, total monounsaturated",g,2.969,1.960
+"Fatty acids, total polyunsaturated",g,0.452,0.298
+"Cholesterol",mg,44,29
+Amino Acids
+Other
+"Caffeine",mg,0,0

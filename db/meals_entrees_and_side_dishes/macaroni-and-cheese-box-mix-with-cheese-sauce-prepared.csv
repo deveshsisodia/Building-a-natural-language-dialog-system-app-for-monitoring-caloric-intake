@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:24 EST
+"Nutrient data for: 32005, Macaroni and cheese, box mix with cheese sauce, prepared"
+Nutrient,Unit,1Value per 100 g,"1 cup prepared = 189.0g",
+Proximates
+"Water",g,63.59,120.19
+"Energy",kcal,164,310
+"Protein",g,6.68,12.63
+"Total lipid (fat)",g,4.99,9.43
+"Carbohydrate, by difference",g,23.10,43.66
+"Fiber, total dietary",g,1.2,2.3
+"Sugars, total",g,1.57,2.97
+Minerals
+"Calcium, Ca",mg,85,161
+"Iron, Fe",mg,1.17,2.21
+"Magnesium, Mg",mg,15,28
+"Phosphorus, P",mg,234,442
+"Potassium, K",mg,80,151
+"Sodium, Na",mg,460,869
+"Zinc, Zn",mg,0.65,1.23
+Vitamins
+"Thiamin",mg,0.155,0.293
+"Riboflavin",mg,0.090,0.170
+"Niacin",mg,1.150,2.173
+"Vitamin B-6",mg,0.025,0.047
+"Vitamin B-12",µg,0.27,0.51
+"Vitamin A, RAE",µg,22,42
+"Vitamin A, IU",IU,72,136
+"Vitamin E (alpha-tocopherol)",mg,0.54,1.02
+Lipids
+"Fatty acids, total saturated",g,1.636,3.092
+"Fatty acids, total monounsaturated",g,2.216,4.188
+"Fatty acids, total polyunsaturated",g,1.044,1.973
+"Fatty acids, total trans",g,0.092,0.174
+"Cholesterol",mg,8,15
+Amino Acids
+Other

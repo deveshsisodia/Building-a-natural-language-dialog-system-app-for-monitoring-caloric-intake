@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:41 EST
+"Nutrient data for: 19871, Frozen novelties, No Sugar Added, FUDGSICLE pops"
+Nutrient,Unit,1Value per 100 g,"1 serving = 84.0g",
+Proximates
+"Water",g,69.93,58.74
+"Energy",kcal,124,104
+"Protein",g,3.67,3.08
+"Total lipid (fat)",g,1.87,1.57
+"Carbohydrate, by difference",g,23.11,19.41
+"Fiber, total dietary",g,1.5,1.3
+"Sugars, total",g,5.10,4.28
+Minerals
+"Calcium, Ca",mg,231,194
+"Iron, Fe",mg,1.58,1.33
+"Magnesium, Mg",mg,27,23
+"Phosphorus, P",mg,160,134
+"Potassium, K",mg,253,213
+"Sodium, Na",mg,96,81
+"Zinc, Zn",mg,0.55,0.46
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.070,0.059
+"Riboflavin",mg,0.230,0.193
+"Niacin",mg,0.175,0.147
+"Vitamin B-6",mg,0.058,0.049
+"Folate, DFE",µg,6,5
+"Vitamin B-12",µg,0.07,0.06
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.30,0.25
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,0.984,0.827
+"Fatty acids, total monounsaturated",g,0.649,0.545
+"Fatty acids, total polyunsaturated",g,0.149,0.125
+"Fatty acids, total trans",g,0.003,0.003
+"Cholesterol",mg,2,2
+Amino Acids
+Other
+"Caffeine",mg,4,3

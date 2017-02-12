@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:04 EST
+"Nutrient data for: 08143, Cereals, WHEATENA, cooked with water"
+Nutrient,Unit,1Value per 100 g,"1 cup = 243.0g","0.75 cup = 182.0g",
+Proximates
+"Water",g,85.40,207.52,155.43
+"Energy",kcal,56,136,102
+"Protein",g,2.00,4.86,3.64
+"Total lipid (fat)",g,0.50,1.22,0.91
+"Carbohydrate, by difference",g,11.80,28.67,21.48
+"Fiber, total dietary",g,2.7,6.6,4.9
+Minerals
+"Calcium, Ca",mg,80,194,146
+"Iron, Fe",mg,0.56,1.36,1.02
+"Magnesium, Mg",mg,20,49,36
+"Phosphorus, P",mg,60,146,109
+"Potassium, K",mg,77,187,140
+"Sodium, Na",mg,2,5,4
+"Zinc, Zn",mg,0.69,1.68,1.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.010,0.024,0.018
+"Riboflavin",mg,0.020,0.049,0.036
+"Niacin",mg,0.550,1.337,1.001
+"Vitamin B-6",mg,0.019,0.046,0.035
+"Folate, DFE",µg,7,17,13
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.075,0.182,0.137
+"Fatty acids, total monounsaturated",g,0.071,0.173,0.129
+"Fatty acids, total polyunsaturated",g,0.252,0.612,0.459
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

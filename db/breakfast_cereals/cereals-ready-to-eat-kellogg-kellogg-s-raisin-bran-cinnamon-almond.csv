@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08696, Cereals ready-to-eat, KELLOGG, KELLOGG'S RAISIN BRAN, Cinnamon Almond"
+Nutrient,Unit,1Value per 100 g,"1.25 cup (1 NLEA serving) = 58.0g",
+Proximates
+"Water",g,5.67,3.29
+"Energy",kcal,347,201
+"Protein",g,7.40,4.29
+"Total lipid (fat)",g,2.90,1.68
+"Carbohydrate, by difference",g,81.19,47.09
+"Fiber, total dietary",g,9.2,5.3
+"Sugars, total",g,31.29,18.15
+Minerals
+"Calcium, Ca",mg,47,27
+"Iron, Fe",mg,7.80,4.52
+"Magnesium, Mg",mg,106,61
+"Phosphorus, P",mg,252,146
+"Potassium, K",mg,449,260
+"Sodium, Na",mg,373,216
+"Zinc, Zn",mg,2.70,1.57
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.0,1.2
+"Thiamin",mg,0.640,0.371
+"Riboflavin",mg,0.730,0.423
+"Niacin",mg,8.600,4.988
+"Vitamin B-6",mg,0.860,0.499
+"Vitamin B-12",µg,3.00,1.74
+"Vitamin A, IU",IU,909,527
+"Vitamin D (D2 + D3)",µg,1.8,1.0
+"Vitamin D",IU,73,42
+Lipids
+"Fatty acids, total saturated",g,0.400,0.232
+"Fatty acids, total monounsaturated",g,1.200,0.696
+"Fatty acids, total polyunsaturated",g,1.000,0.580
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:56 EST
+"Nutrient data for: 15013, Fish, cisco, raw"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 79.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,78.93,62.35,67.09
+"Energy",kcal,98,77,83
+"Protein",g,18.99,15.00,16.14
+"Total lipid (fat)",g,1.91,1.51,1.62
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,12,9,10
+"Iron, Fe",mg,0.40,0.32,0.34
+"Magnesium, Mg",mg,17,13,14
+"Phosphorus, P",mg,152,120,129
+"Potassium, K",mg,354,280,301
+"Sodium, Na",mg,55,43,47
+"Zinc, Zn",mg,0.37,0.29,0.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.088,0.070,0.075
+"Riboflavin",mg,0.100,0.079,0.085
+"Niacin",mg,2.510,1.983,2.133
+"Vitamin B-6",mg,0.300,0.237,0.255
+"Folate, DFE",µg,15,12,13
+"Vitamin B-12",µg,1.00,0.79,0.85
+"Vitamin A, RAE",µg,30,24,26
+"Vitamin A, IU",IU,100,79,85
+Lipids
+"Fatty acids, total saturated",g,0.421,0.333,0.358
+"Fatty acids, total monounsaturated",g,0.469,0.371,0.399
+"Fatty acids, total polyunsaturated",g,0.613,0.484,0.521
+"Cholesterol",mg,50,40,42
+Amino Acids
+Other

@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:44 EST
+"Nutrient data for: 23469, Beef, New Zealand, imported, striploin, separable lean and fat, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 113.0g",
+Proximates
+"Water",g,60.78,68.68
+"Energy",kcal,252,285
+"Protein",g,18.49,20.89
+"Total lipid (fat)",g,19.53,22.07
+"Carbohydrate, by difference",g,0.60,0.68
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,7,8
+"Iron, Fe",mg,1.38,1.56
+"Magnesium, Mg",mg,17,19
+"Phosphorus, P",mg,153,173
+"Potassium, K",mg,268,303
+"Sodium, Na",mg,43,49
+"Zinc, Zn",mg,2.31,2.61
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.063,0.071
+"Riboflavin",mg,0.075,0.085
+"Niacin",mg,3.569,4.033
+"Vitamin B-6",mg,0.265,0.299
+"Vitamin B-12",µg,0.61,0.69
+"Vitamin A, RAE",µg,10,11
+"Vitamin A, IU",IU,33,37
+"Vitamin E (alpha-tocopherol)",mg,0.28,0.32
+"Vitamin D (D2 + D3)",µg,0.2,0.2
+"Vitamin D",IU,8,9
+Lipids
+"Fatty acids, total saturated",g,8.064,9.112
+"Fatty acids, total monounsaturated",g,6.937,7.839
+"Fatty acids, total polyunsaturated",g,0.515,0.582
+"Fatty acids, total trans",g,0.616,0.696
+"Cholesterol",mg,57,64
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:14 EST
+"Nutrient data for: 07021, Dutch brand loaf, chicken, pork and beef"
+Nutrient,Unit,1Value per 100 g,"1 slice = 38.0g",
+Proximates
+"Water",g,58.10,22.08
+"Energy",kcal,273,104
+"Protein",g,12.00,4.56
+"Total lipid (fat)",g,22.91,8.71
+"Carbohydrate, by difference",g,3.93,1.49
+"Fiber, total dietary",g,0.3,0.1
+"Sugars, total",g,0.90,0.34
+Minerals
+"Calcium, Ca",mg,7,3
+"Iron, Fe",mg,0.16,0.06
+"Magnesium, Mg",mg,15,6
+"Phosphorus, P",mg,119,45
+"Potassium, K",mg,210,80
+"Sodium, Na",mg,786,299
+"Zinc, Zn",mg,2.53,0.96
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.4,0.5
+"Thiamin",mg,0.134,0.051
+"Riboflavin",mg,0.134,0.051
+"Niacin",mg,3.384,1.286
+"Vitamin B-6",mg,0.236,0.090
+"Folate, DFE",µg,11,4
+"Vitamin B-12",µg,0.90,0.34
+"Vitamin A, RAE",µg,33,13
+"Vitamin A, IU",IU,110,42
+"Vitamin E (alpha-tocopherol)",mg,0.26,0.10
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.2,0.5
+Lipids
+"Fatty acids, total saturated",g,8.806,3.346
+"Fatty acids, total monounsaturated",g,11.132,4.230
+"Fatty acids, total polyunsaturated",g,2.972,1.129
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,60,23
+Amino Acids
+Other
+"Caffeine",mg,0,0

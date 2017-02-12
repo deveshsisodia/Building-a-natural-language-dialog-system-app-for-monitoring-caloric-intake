@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:41 EST
+"Nutrient data for: 03997, Babyfood, Baby MUM MUM Rice Biscuits"
+Nutrient,Unit,1Value per 100 g,"4.0 biscuit = 8.0g",
+Proximates
+"Water",g,2.42,0.19
+"Energy",kcal,391,31
+"Protein",g,12.50,1.00
+"Total lipid (fat)",g,0.87,0.07
+"Carbohydrate, by difference",g,83.21,6.66
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,12.50,1.00
+Minerals
+"Calcium, Ca",mg,0,0
+"Iron, Fe",mg,0.00,0.00
+"Magnesium, Mg",mg,47,4
+"Phosphorus, P",mg,127,10
+"Potassium, K",mg,504,40
+"Sodium, Na",mg,313,25
+"Zinc, Zn",mg,0.65,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.174,0.014
+"Riboflavin",mg,0.037,0.003
+"Niacin",mg,2.896,0.232
+"Vitamin B-6",mg,0.571,0.046
+"Folate, DFE",µg,14,1
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,1,0
+"Vitamin E (alpha-tocopherol)",mg,0.17,0.01
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.238,0.019
+"Fatty acids, total monounsaturated",g,0.224,0.018
+"Fatty acids, total polyunsaturated",g,0.255,0.020
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

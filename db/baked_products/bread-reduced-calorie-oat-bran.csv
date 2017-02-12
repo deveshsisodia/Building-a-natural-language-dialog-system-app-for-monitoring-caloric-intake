@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:31 EST
+"Nutrient data for: 18049, Bread, reduced-calorie, oat bran"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice = 23.0g",
+Proximates
+"Water",g,46.00,13.04,10.58
+"Energy",kcal,201,57,46
+"Protein",g,8.00,2.27,1.84
+"Total lipid (fat)",g,3.20,0.91,0.74
+"Carbohydrate, by difference",g,41.30,11.71,9.50
+"Fiber, total dietary",g,12.0,3.4,2.8
+"Sugars, total",g,3.52,1.00,0.81
+Minerals
+"Calcium, Ca",mg,57,16,13
+"Iron, Fe",mg,3.15,0.89,0.72
+"Magnesium, Mg",mg,55,16,13
+"Phosphorus, P",mg,139,39,32
+"Potassium, K",mg,102,29,23
+"Sodium, Na",mg,459,130,106
+"Zinc, Zn",mg,1.05,0.30,0.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.354,0.100,0.081
+"Riboflavin",mg,0.203,0.058,0.047
+"Niacin",mg,3.763,1.067,0.865
+"Vitamin B-6",mg,0.103,0.029,0.024
+"Folate, DFE",µg,114,32,26
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,2,1,0
+"Vitamin E (alpha-tocopherol)",mg,0.28,0.08,0.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.7,0.5,0.4
+Lipids
+"Fatty acids, total saturated",g,0.445,0.126,0.102
+"Fatty acids, total monounsaturated",g,0.684,0.194,0.157
+"Fatty acids, total polyunsaturated",g,1.670,0.473,0.384
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

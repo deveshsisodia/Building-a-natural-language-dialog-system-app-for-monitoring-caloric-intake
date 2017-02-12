@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:06 EST
+"Nutrient data for: 01026, Cheese, mozzarella, whole milk"
+Nutrient,Unit,1Value per 100 g,"1 cup, shredded = 112.0g","1 oz = 28.35g","6.0 slices = 170.0g",
+Proximates
+"Water",g,50.01,56.01,14.18,85.02
+"Energy",kcal,300,336,85,510
+"Protein",g,22.17,24.83,6.29,37.69
+"Total lipid (fat)",g,22.35,25.03,6.34,38.00
+"Carbohydrate, by difference",g,2.19,2.45,0.62,3.72
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,1.03,1.15,0.29,1.75
+Minerals
+"Calcium, Ca",mg,505,566,143,858
+"Iron, Fe",mg,0.44,0.49,0.12,0.75
+"Magnesium, Mg",mg,20,22,6,34
+"Phosphorus, P",mg,354,396,100,602
+"Potassium, K",mg,76,85,22,129
+"Sodium, Na",mg,627,702,178,1066
+"Zinc, Zn",mg,2.92,3.27,0.83,4.96
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.030,0.034,0.009,0.051
+"Riboflavin",mg,0.283,0.317,0.080,0.481
+"Niacin",mg,0.104,0.116,0.029,0.177
+"Vitamin B-6",mg,0.037,0.041,0.010,0.063
+"Folate, DFE",µg,7,8,2,12
+"Vitamin B-12",µg,2.28,2.55,0.65,3.88
+"Vitamin A, RAE",µg,179,200,51,304
+"Vitamin A, IU",IU,676,757,192,1149
+"Vitamin E (alpha-tocopherol)",mg,0.19,0.21,0.05,0.32
+"Vitamin D (D2 + D3)",µg,0.4,0.4,0.1,0.7
+"Vitamin D",IU,16,18,5,27
+"Vitamin K (phylloquinone)",µg,2.3,2.6,0.7,3.9
+Lipids
+"Fatty acids, total saturated",g,13.152,14.730,3.729,22.358
+"Fatty acids, total monounsaturated",g,6.573,7.362,1.863,11.174
+"Fatty acids, total polyunsaturated",g,0.765,0.857,0.217,1.301
+"Cholesterol",mg,79,88,22,134
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:19 EST
+"Nutrient data for: 11130, Carrots, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"0.5 cup slices = 64.0g","1 package (10 oz) = 284.0g",
+Proximates
+"Water",g,90.04,57.63,255.71
+"Energy",kcal,36,23,102
+"Protein",g,0.78,0.50,2.22
+"Total lipid (fat)",g,0.46,0.29,1.31
+"Carbohydrate, by difference",g,7.90,5.06,22.44
+"Fiber, total dietary",g,3.3,2.1,9.4
+"Sugars, total",g,4.76,3.05,13.52
+Minerals
+"Calcium, Ca",mg,36,23,102
+"Iron, Fe",mg,0.44,0.28,1.25
+"Magnesium, Mg",mg,12,8,34
+"Phosphorus, P",mg,33,21,94
+"Potassium, K",mg,235,150,667
+"Sodium, Na",mg,68,44,193
+"Zinc, Zn",mg,0.33,0.21,0.94
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.5,1.6,7.1
+"Thiamin",mg,0.044,0.028,0.125
+"Riboflavin",mg,0.037,0.024,0.105
+"Niacin",mg,0.464,0.297,1.318
+"Vitamin B-6",mg,0.095,0.061,0.270
+"Folate, DFE",µg,10,6,28
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,710,454,2016
+"Vitamin A, IU",IU,14210,9094,40356
+"Vitamin E (alpha-tocopherol)",mg,0.57,0.36,1.62
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,17.6,11.3,50.0
+Lipids
+"Fatty acids, total saturated",g,0.047,0.030,0.133
+"Fatty acids, total monounsaturated",g,0.014,0.009,0.040
+"Fatty acids, total polyunsaturated",g,0.263,0.168,0.747
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

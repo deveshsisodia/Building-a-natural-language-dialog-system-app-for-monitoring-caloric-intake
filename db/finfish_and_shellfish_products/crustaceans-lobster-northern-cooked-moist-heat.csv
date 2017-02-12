@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:55 EST
+"Nutrient data for: 15148, Crustaceans, lobster, northern, cooked, moist heat"
+Nutrient,Unit,1Value per 100 g,"1 cup = 145.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,78.11,113.26,66.39
+"Energy",kcal,89,129,76
+"Protein",g,19.00,27.55,16.15
+"Total lipid (fat)",g,0.86,1.25,0.73
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,96,139,82
+"Iron, Fe",mg,0.29,0.42,0.25
+"Magnesium, Mg",mg,43,62,37
+"Phosphorus, P",mg,185,268,157
+"Potassium, K",mg,230,334,196
+"Sodium, Na",mg,486,705,413
+"Zinc, Zn",mg,4.05,5.87,3.44
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.023,0.033,0.020
+"Riboflavin",mg,0.017,0.025,0.014
+"Niacin",mg,1.830,2.654,1.556
+"Vitamin B-6",mg,0.119,0.173,0.101
+"Folate, DFE",µg,11,16,9
+"Vitamin B-12",µg,1.43,2.07,1.22
+"Vitamin A, RAE",µg,1,1,1
+"Vitamin A, IU",IU,4,6,3
+"Vitamin E (alpha-tocopherol)",mg,1.00,1.45,0.85
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,1,1,1
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.208,0.302,0.177
+"Fatty acids, total monounsaturated",g,0.253,0.367,0.215
+"Fatty acids, total polyunsaturated",g,0.340,0.493,0.289
+"Fatty acids, total trans",g,0.013,0.019,0.011
+"Cholesterol",mg,146,212,124
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

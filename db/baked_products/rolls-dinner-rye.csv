@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:45 EST
+"Nutrient data for: 18346, Rolls, dinner, rye"
+Nutrient,Unit,1Value per 100 g,"1 large (approx 3-1/2"" to 4"" dia) = 43.0g","1 medium = 36.0g","1 small (2-3/8"" dia) = 28.0g",
+Proximates
+"Water",g,30.10,12.94,10.84,8.43
+"Energy",kcal,286,123,103,80
+"Protein",g,10.30,4.43,3.71,2.88
+"Total lipid (fat)",g,3.40,1.46,1.22,0.95
+"Carbohydrate, by difference",g,53.10,22.83,19.12,14.87
+"Fiber, total dietary",g,4.9,2.1,1.8,1.4
+"Sugars, total",g,1.17,0.50,0.42,0.33
+Minerals
+"Calcium, Ca",mg,30,13,11,8
+"Iron, Fe",mg,2.70,1.16,0.97,0.76
+"Magnesium, Mg",mg,54,23,19,15
+"Phosphorus, P",mg,159,68,57,45
+"Potassium, K",mg,180,77,65,50
+"Sodium, Na",mg,650,280,234,182
+"Zinc, Zn",mg,0.97,0.42,0.35,0.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.380,0.163,0.137,0.106
+"Riboflavin",mg,0.270,0.116,0.097,0.076
+"Niacin",mg,3.900,1.677,1.404,1.092
+"Vitamin B-6",mg,0.062,0.027,0.022,0.017
+"Folate, DFE",µg,153,66,55,43
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,8,3,3,2
+"Vitamin E (alpha-tocopherol)",mg,0.34,0.15,0.12,0.10
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,3.1,1.3,1.1,0.9
+Lipids
+"Fatty acids, total saturated",g,0.605,0.260,0.218,0.169
+"Fatty acids, total monounsaturated",g,1.236,0.531,0.445,0.346
+"Fatty acids, total polyunsaturated",g,0.708,0.304,0.255,0.198
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

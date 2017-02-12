@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:54 EST
+"Nutrient data for: 19408, Snacks, pork skins, barbecue-flavor"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","0.5 oz = 14.2g",
+Proximates
+"Water",g,2.10,0.60,0.30
+"Energy",kcal,538,153,76
+"Protein",g,57.90,16.41,8.22
+"Total lipid (fat)",g,31.80,9.02,4.52
+"Carbohydrate, by difference",g,1.60,0.45,0.23
+Minerals
+"Calcium, Ca",mg,43,12,6
+"Iron, Fe",mg,1.04,0.29,0.15
+"Magnesium, Mg",mg,0,0,0
+"Phosphorus, P",mg,220,62,31
+"Potassium, K",mg,180,51,26
+"Sodium, Na",mg,2667,756,379
+"Zinc, Zn",mg,0.71,0.20,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.5,0.4,0.2
+"Thiamin",mg,0.084,0.024,0.012
+"Riboflavin",mg,0.432,0.122,0.061
+"Niacin",mg,3.355,0.951,0.476
+"Vitamin B-6",mg,0.156,0.044,0.022
+"Folate, DFE",µg,31,9,4
+"Vitamin B-12",µg,0.13,0.04,0.02
+"Vitamin A, RAE",µg,65,18,9
+"Vitamin A, IU",IU,667,189,95
+Lipids
+"Fatty acids, total saturated",g,11.560,3.277,1.642
+"Fatty acids, total monounsaturated",g,15.030,4.261,2.134
+"Fatty acids, total polyunsaturated",g,3.450,0.978,0.490
+"Cholesterol",mg,115,33,16
+Amino Acids
+Other

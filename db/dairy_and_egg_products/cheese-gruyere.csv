@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:06 EST
+"Nutrient data for: 01023, Cheese, gruyere"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice (1 oz) = 28.0g","1 cubic inch = 15.0g","1 cup, diced = 132.0g","1 cup, shredded = 108.0g","1 package (6 oz) = 170.0g",
+Proximates
+"Water",g,33.19,9.41,9.29,4.98,43.81,35.85,56.42
+"Energy",kcal,413,117,116,62,545,446,702
+"Protein",g,29.81,8.45,8.35,4.47,39.35,32.19,50.68
+"Total lipid (fat)",g,32.34,9.17,9.06,4.85,42.69,34.93,54.98
+"Carbohydrate, by difference",g,0.36,0.10,0.10,0.05,0.48,0.39,0.61
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.36,0.10,0.10,0.05,0.48,0.39,0.61
+Minerals
+"Calcium, Ca",mg,1011,287,283,152,1335,1092,1719
+"Iron, Fe",mg,0.17,0.05,0.05,0.03,0.22,0.18,0.29
+"Magnesium, Mg",mg,36,10,10,5,48,39,61
+"Phosphorus, P",mg,605,172,169,91,799,653,1028
+"Potassium, K",mg,81,23,23,12,107,87,138
+"Sodium, Na",mg,714,202,200,107,942,771,1214
+"Zinc, Zn",mg,3.90,1.11,1.09,0.58,5.15,4.21,6.63
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.060,0.017,0.017,0.009,0.079,0.065,0.102
+"Riboflavin",mg,0.279,0.079,0.078,0.042,0.368,0.301,0.474
+"Niacin",mg,0.106,0.030,0.030,0.016,0.140,0.114,0.180
+"Vitamin B-6",mg,0.081,0.023,0.023,0.012,0.107,0.087,0.138
+"Folate, DFE",µg,10,3,3,2,13,11,17
+"Vitamin B-12",µg,1.60,0.45,0.45,0.24,2.11,1.73,2.72
+"Vitamin A, RAE",µg,271,77,76,41,358,293,461
+"Vitamin A, IU",IU,948,269,265,142,1251,1024,1612
+"Vitamin E (alpha-tocopherol)",mg,0.28,0.08,0.08,0.04,0.37,0.30,0.48
+"Vitamin D (D2 + D3)",µg,0.6,0.2,0.2,0.1,0.8,0.6,1.0
+"Vitamin D",IU,24,7,7,4,32,26,41
+"Vitamin K (phylloquinone)",µg,2.7,0.8,0.8,0.4,3.6,2.9,4.6
+Lipids
+"Fatty acids, total saturated",g,18.913,5.362,5.296,2.837,24.965,20.426,32.152
+"Fatty acids, total monounsaturated",g,10.043,2.847,2.812,1.506,13.257,10.846,17.073
+"Fatty acids, total polyunsaturated",g,1.733,0.491,0.485,0.260,2.288,1.872,2.946
+"Cholesterol",mg,110,31,31,16,145,119,187
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

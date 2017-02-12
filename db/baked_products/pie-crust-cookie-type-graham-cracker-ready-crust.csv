@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:44 EST
+"Nutrient data for: 18942, Pie Crust, Cookie-type, Graham Cracker, Ready Crust"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 crust = 183.0g",
+Proximates
+"Water",g,4.37,1.24,8.00
+"Energy",kcal,501,142,917
+"Protein",g,5.10,1.45,9.33
+"Total lipid (fat)",g,24.83,7.04,45.44
+"Carbohydrate, by difference",g,64.30,18.23,117.67
+"Fiber, total dietary",g,1.9,0.5,3.5
+"Sugars, total",g,18.13,5.14,33.18
+Minerals
+"Calcium, Ca",mg,29,8,53
+"Iron, Fe",mg,2.60,0.74,4.76
+"Magnesium, Mg",mg,23,7,42
+"Phosphorus, P",mg,117,33,214
+"Potassium, K",mg,113,32,207
+"Sodium, Na",mg,471,134,862
+"Zinc, Zn",mg,1.25,0.35,2.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.184,0.052,0.337
+"Riboflavin",mg,0.213,0.060,0.390
+"Niacin",mg,3.220,0.913,5.893
+"Vitamin B-6",mg,0.076,0.022,0.139
+"Folate, DFE",µg,97,27,178
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,1,0,2
+"Vitamin E (alpha-tocopherol)",mg,1.85,0.52,3.39
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,21.8,6.2,39.9
+Lipids
+"Fatty acids, total saturated",g,4.999,1.417,9.148
+"Fatty acids, total monounsaturated",g,16.928,4.799,30.978
+"Fatty acids, total polyunsaturated",g,1.671,0.474,3.058
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

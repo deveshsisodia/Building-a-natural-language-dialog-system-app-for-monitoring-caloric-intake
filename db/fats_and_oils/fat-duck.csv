@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:15 EST
+"Nutrient data for: 04574, Fat, duck"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 12.8g","1 cup = 205.0g",
+Proximates
+"Water",g,0.20,0.03,0.41
+"Energy",kcal,882,113,1808
+"Protein",g,0.00,0.00,0.00
+"Total lipid (fat)",g,99.80,12.77,204.59
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,0,0,0
+"Iron, Fe",mg,0.00,0.00,0.00
+"Magnesium, Mg",mg,0,0,0
+"Phosphorus, P",mg,0,0,0
+"Potassium, K",mg,0,0,0
+"Sodium, Na",mg,0,0,0
+"Zinc, Zn",mg,0.00,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000
+"Riboflavin",mg,0.000,0.000,0.000
+"Niacin",mg,0.000,0.000,0.000
+"Vitamin B-6",mg,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,2.70,0.35,5.54
+"Vitamin D (D2 + D3)",µg,4.8,0.6,9.8
+"Vitamin D",IU,191,24,392
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,33.200,4.250,68.060
+"Fatty acids, total monounsaturated",g,49.300,6.310,101.065
+"Fatty acids, total polyunsaturated",g,12.900,1.651,26.445
+"Cholesterol",mg,100,13,205
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

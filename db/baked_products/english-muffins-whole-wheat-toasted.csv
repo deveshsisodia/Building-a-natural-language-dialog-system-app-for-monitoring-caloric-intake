@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:38 EST
+"Nutrient data for: 18267, English muffins, whole-wheat, toasted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 muffin = 61.0g",
+Proximates
+"Water",g,41.00,11.62,25.01
+"Energy",kcal,221,63,135
+"Protein",g,9.60,2.72,5.86
+"Total lipid (fat)",g,2.30,0.65,1.40
+"Carbohydrate, by difference",g,44.10,12.50,26.90
+"Fiber, total dietary",g,7.3,2.1,4.5
+"Sugars, total",g,8.79,2.49,5.36
+Minerals
+"Calcium, Ca",mg,288,82,176
+"Iron, Fe",mg,2.66,0.75,1.62
+"Magnesium, Mg",mg,77,22,47
+"Phosphorus, P",mg,307,87,187
+"Potassium, K",mg,228,65,139
+"Sodium, Na",mg,396,112,242
+"Zinc, Zn",mg,1.74,0.49,1.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.261,0.074,0.159
+"Riboflavin",mg,0.137,0.039,0.084
+"Niacin",mg,3.336,0.946,2.035
+"Vitamin B-6",mg,0.159,0.045,0.097
+"Folate, DFE",µg,45,13,27
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.44,0.12,0.27
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.1,0.3,0.7
+Lipids
+"Fatty acids, total saturated",g,0.363,0.103,0.221
+"Fatty acids, total monounsaturated",g,0.557,0.158,0.340
+"Fatty acids, total polyunsaturated",g,0.908,0.257,0.554
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

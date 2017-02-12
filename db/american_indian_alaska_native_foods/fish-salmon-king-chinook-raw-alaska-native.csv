@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:28 EST
+"Nutrient data for: 35153, Fish, salmon, king (chinook), raw (Alaska Native)"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,65.96,
+"Energy",kcal,187,
+"Protein",g,20.25,
+"Total lipid (fat)",g,11.73,
+"Carbohydrate, by difference",g,0.00,
+"Fiber, total dietary",g,0.0,
+"Sugars, total",g,0.00,
+Minerals
+"Calcium, Ca",mg,42,
+"Iron, Fe",mg,0.79,
+"Magnesium, Mg",mg,24,
+"Phosphorus, P",mg,208,
+"Potassium, K",mg,370,
+"Sodium, Na",mg,48,
+"Zinc, Zn",mg,0.52,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,
+"Thiamin",mg,0.161,
+"Riboflavin",mg,0.169,
+"Niacin",mg,8.415,
+"Vitamin B-6",mg,0.271,
+"Vitamin B-12",µg,7.38,
+"Vitamin A, RAE",µg,136,
+"Vitamin A, IU",IU,453,
+"Vitamin E (alpha-tocopherol)",mg,1.49,
+"Vitamin K (phylloquinone)",µg,0.3,
+Lipids
+"Fatty acids, total saturated",g,1.870,
+"Fatty acids, total monounsaturated",g,4.090,
+"Fatty acids, total polyunsaturated",g,1.599,
+"Cholesterol",mg,61,
+Amino Acids
+Other
+"Caffeine",mg,0,

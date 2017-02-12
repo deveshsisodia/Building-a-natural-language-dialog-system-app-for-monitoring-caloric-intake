@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:06 EST
+"Nutrient data for: 01267, Cheese, mexican, queso cotija"
+Nutrient,Unit,1Value per 100 g,"2.0 tsp = 5.0g",
+Proximates
+"Water",g,38.00,1.90
+"Energy",kcal,366,18
+"Protein",g,20.00,1.00
+"Total lipid (fat)",g,30.00,1.50
+"Carbohydrate, by difference",g,3.97,0.20
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,800,40
+"Iron, Fe",mg,0.00,0.00
+"Magnesium, Mg",mg,38,2
+"Phosphorus, P",mg,729,36
+"Potassium, K",mg,125,6
+"Sodium, Na",mg,1400,70
+"Zinc, Zn",mg,3.87,0.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.029,0.001
+"Riboflavin",mg,0.486,0.024
+"Niacin",mg,0.114,0.006
+"Vitamin B-6",mg,0.049,0.002
+"Folate, DFE",µg,10,0
+"Vitamin B-12",µg,2.26,0.11
+"Vitamin A, RAE",µg,229,11
+"Vitamin A, IU",IU,865,43
+"Vitamin E (alpha-tocopherol)",mg,0.25,0.01
+"Vitamin D (D2 + D3)",µg,0.5,0.0
+"Vitamin D",IU,21,1
+"Vitamin K (phylloquinone)",µg,1.9,0.1
+Lipids
+"Fatty acids, total saturated",g,17.500,0.875
+"Fatty acids, total monounsaturated",g,8.333,0.417
+"Fatty acids, total polyunsaturated",g,1.187,0.059
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,100,5
+Amino Acids
+Other
+"Caffeine",mg,0,0

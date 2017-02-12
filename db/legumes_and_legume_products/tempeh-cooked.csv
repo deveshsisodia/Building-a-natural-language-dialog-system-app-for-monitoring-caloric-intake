@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:01 EST
+"Nutrient data for: 16174, Tempeh, cooked"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,59.56,
+"Energy",kcal,195,
+"Protein",g,19.91,
+"Total lipid (fat)",g,11.38,
+"Carbohydrate, by difference",g,7.62,
+Minerals
+"Calcium, Ca",mg,96,
+"Iron, Fe",mg,2.13,
+"Magnesium, Mg",mg,77,
+"Phosphorus, P",mg,253,
+"Potassium, K",mg,401,
+"Sodium, Na",mg,14,
+"Zinc, Zn",mg,1.57,
+Vitamins
+"Thiamin",mg,0.054,
+"Riboflavin",mg,0.357,
+"Niacin",mg,2.135,
+"Vitamin B-6",mg,0.199,
+"Folate, DFE",µg,21,
+"Vitamin B-12",µg,0.14,
+"Vitamin D (D2 + D3)",µg,0.0,
+"Vitamin D",IU,0,
+Lipids
+"Fatty acids, total saturated",g,3.400,
+"Fatty acids, total monounsaturated",g,3.745,
+"Fatty acids, total polyunsaturated",g,2.638,
+"Fatty acids, total trans",g,0.000,
+Amino Acids
+Other

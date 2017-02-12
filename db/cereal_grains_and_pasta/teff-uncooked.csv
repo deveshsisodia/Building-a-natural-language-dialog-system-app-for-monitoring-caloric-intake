@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:14 EST
+"Nutrient data for: 20142, Teff, uncooked"
+Nutrient,Unit,1Value per 100 g,"1 cup = 193.0g",
+Proximates
+"Water",g,8.82,17.02
+"Energy",kcal,367,708
+"Protein",g,13.30,25.67
+"Total lipid (fat)",g,2.38,4.59
+"Carbohydrate, by difference",g,73.13,141.14
+"Fiber, total dietary",g,8.0,15.4
+"Sugars, total",g,1.84,3.55
+Minerals
+"Calcium, Ca",mg,180,347
+"Iron, Fe",mg,7.63,14.73
+"Magnesium, Mg",mg,184,355
+"Phosphorus, P",mg,429,828
+"Potassium, K",mg,427,824
+"Sodium, Na",mg,12,23
+"Zinc, Zn",mg,3.63,7.01
+Vitamins
+"Thiamin",mg,0.390,0.753
+"Riboflavin",mg,0.270,0.521
+"Niacin",mg,3.363,6.491
+"Vitamin B-6",mg,0.482,0.930
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,9,17
+"Vitamin E (alpha-tocopherol)",mg,0.08,0.15
+"Vitamin K (phylloquinone)",µg,1.9,3.7
+Lipids
+"Fatty acids, total saturated",g,0.449,0.867
+"Fatty acids, total monounsaturated",g,0.589,1.137
+"Fatty acids, total polyunsaturated",g,1.071,2.067
+Amino Acids
+Other

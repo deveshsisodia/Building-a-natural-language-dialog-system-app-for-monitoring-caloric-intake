@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:28 EST
+"Nutrient data for: 35204, Chokecherries, raw, pitted (Northern Plains Indians)"
+Nutrient,Unit,1Value per 100 g,"1 cup = 154.0g",
+Proximates
+"Water",g,60.72,93.51
+"Energy",kcal,162,249
+"Protein",g,3.04,4.68
+"Total lipid (fat)",g,1.69,2.60
+"Carbohydrate, by difference",g,33.62,51.77
+"Fiber, total dietary",g,20.0,30.8
+"Sugars, total",g,9.37,14.43
+Minerals
+"Calcium, Ca",mg,60,92
+"Iron, Fe",mg,0.69,1.06
+"Magnesium, Mg",mg,27,42
+"Phosphorus, P",mg,67,103
+"Potassium, K",mg,379,584
+"Sodium, Na",mg,5,8
+"Zinc, Zn",mg,0.33,0.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.5,8.5
+"Thiamin",mg,0.034,0.052
+"Riboflavin",mg,0.173,0.266
+"Niacin",mg,0.628,0.967
+"Vitamin B-6",mg,0.198,0.305
+"Vitamin A, RAE",µg,8,12
+"Vitamin A, IU",IU,168,259
+"Vitamin E (alpha-tocopherol)",mg,0.35,0.54
+"Vitamin K (phylloquinone)",µg,21.1,32.5
+Lipids
+Amino Acids
+Other
+Footnotes
+(a)"Includes only 5-methyltetrahydrofolate."

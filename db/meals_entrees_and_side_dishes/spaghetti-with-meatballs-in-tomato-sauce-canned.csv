@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:26 EST
+"Nutrient data for: 22912, Spaghetti, with meatballs in tomato sauce, canned"
+Nutrient,Unit,1Value per 100 g,"1 cup = 246.0g","1 can = 411.0g",
+Proximates
+"Water",g,78.80,193.85,323.87
+"Energy",kcal,100,246,411
+"Protein",g,4.37,10.75,17.96
+"Total lipid (fat)",g,4.11,10.11,16.89
+"Carbohydrate, by difference",g,11.45,28.17,47.06
+"Fiber, total dietary",g,2.7,6.6,11.1
+"Sugars, total",g,2.91,7.16,11.96
+Minerals
+"Calcium, Ca",mg,29,71,119
+"Iron, Fe",mg,1.03,2.53,4.23
+"Magnesium, Mg",mg,13,32,53
+"Phosphorus, P",mg,57,140,234
+"Potassium, K",mg,217,534,892
+"Sodium, Na",mg,280,689,1151
+"Zinc, Zn",mg,0.51,1.25,2.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.9,4.7,7.8
+"Thiamin",mg,0.081,0.199,0.333
+"Riboflavin",mg,0.066,0.162,0.271
+"Niacin",mg,2.017,4.962,8.290
+"Vitamin B-6",mg,0.069,0.170,0.284
+"Folate, DFE",µg,29,71,119
+"Vitamin B-12",µg,0.19,0.47,0.78
+"Vitamin A, RAE",µg,17,42,70
+"Vitamin A, IU",IU,264,649,1085
+"Vitamin E (alpha-tocopherol)",mg,0.50,1.23,2.06
+"Vitamin D (D2 + D3)",µg,0.2,0.5,0.8
+"Vitamin D",IU,8,20,33
+"Vitamin K (phylloquinone)",µg,1.8,4.4,7.4
+Lipids
+"Fatty acids, total saturated",g,1.459,3.589,5.996
+"Fatty acids, total monounsaturated",g,1.633,4.017,6.712
+"Fatty acids, total polyunsaturated",g,0.563,1.385,2.314
+"Fatty acids, total trans",g,0.113,0.278,0.464
+"Cholesterol",mg,7,17,29
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

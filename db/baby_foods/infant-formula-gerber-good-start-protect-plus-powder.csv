@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:48 EST
+"Nutrient data for: 33867, Infant formula, GERBER, GOOD START, PROTECT PLUS, powder"
+Nutrient,Unit,1Value per 100 g,"1 scoop = 9.4g",
+Proximates
+"Water",g,2.00,0.19
+"Energy",kcal,512,48
+"Protein",g,11.30,1.06
+"Total lipid (fat)",g,26.10,2.45
+"Carbohydrate, by difference",g,57.00,5.36
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,57.00,5.36
+Minerals
+"Calcium, Ca",mg,343,32
+"Iron, Fe",mg,7.70,0.72
+"Magnesium, Mg",mg,36,3
+"Phosphorus, P",mg,195,18
+"Potassium, K",mg,553,52
+"Sodium, Na",mg,138,13
+"Zinc, Zn",mg,4.10,0.39
+Vitamins
+"Vitamin C, total ascorbic acid",mg,51.0,4.8
+"Thiamin",mg,0.512,0.048
+"Riboflavin",mg,0.717,0.067
+"Niacin",mg,5.376,0.505
+"Vitamin B-6",mg,0.384,0.036
+"Folate, DFE",µg,131,12
+"Vitamin B-12",µg,1.70,0.16
+"Vitamin A, RAE",µg,465,44
+"Vitamin A, IU",IU,1550,146
+"Vitamin E (alpha-tocopherol)",mg,4.50,0.42
+"Vitamin D (D2 + D3)",µg,7.7,0.7
+"Vitamin D",IU,307,29
+"Vitamin K (phylloquinone)",µg,41.0,3.9
+Lipids
+"Fatty acids, total saturated",g,10.936,1.028
+"Fatty acids, total monounsaturated",g,9.490,0.892
+"Fatty acids, total polyunsaturated",g,5.055,0.475
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

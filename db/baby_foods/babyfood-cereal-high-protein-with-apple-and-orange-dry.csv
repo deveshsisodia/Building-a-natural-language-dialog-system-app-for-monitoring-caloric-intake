@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:41 EST
+"Nutrient data for: 03211, Babyfood, cereal, high protein, with apple and orange, dry"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 2.4g","0.5 oz = 14.2g",
+Proximates
+"Water",g,5.30,0.13,0.75
+"Energy",kcal,374,9,53
+"Protein",g,25.40,0.61,3.61
+"Total lipid (fat)",g,6.50,0.16,0.92
+"Carbohydrate, by difference",g,57.60,1.38,8.18
+"Fiber, total dietary",g,7.1,0.2,1.0
+Minerals
+"Calcium, Ca",mg,751,18,107
+"Iron, Fe",mg,47.50,1.14,6.75
+"Magnesium, Mg",mg,159,4,23
+"Phosphorus, P",mg,539,13,77
+"Potassium, K",mg,1330,32,189
+"Sodium, Na",mg,104,2,15
+"Zinc, Zn",mg,2.70,0.06,0.38
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.1,0.1,0.4
+"Thiamin",mg,3.790,0.091,0.538
+"Riboflavin",mg,4.330,0.104,0.615
+"Niacin",mg,23.830,0.572,3.384
+"Vitamin B-6",mg,0.351,0.008,0.050
+"Folate, DFE",µg,190,5,27
+"Vitamin B-12",µg,0.30,0.01,0.04
+"Vitamin A, RAE",µg,3,0,0
+"Vitamin A, IU",IU,54,1,8
+Lipids
+"Fatty acids, total saturated",g,0.960,0.023,0.136
+"Fatty acids, total monounsaturated",g,1.231,0.030,0.175
+"Fatty acids, total polyunsaturated",g,3.429,0.082,0.487
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

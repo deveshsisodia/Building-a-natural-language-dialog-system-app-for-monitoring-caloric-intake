@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:58 EST
+"Nutrient data for: 16158, Hummus, commercial"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 cup = 246.0g",
+Proximates
+"Water",g,66.59,9.99,163.81
+"Energy",kcal,166,25,408
+"Protein",g,7.90,1.19,19.43
+"Total lipid (fat)",g,9.60,1.44,23.62
+"Carbohydrate, by difference",g,14.29,2.14,35.15
+"Fiber, total dietary",g,6.0,0.9,14.8
+Minerals
+"Calcium, Ca",mg,38,6,93
+"Iron, Fe",mg,2.44,0.37,6.00
+"Magnesium, Mg",mg,71,11,175
+"Phosphorus, P",mg,176,26,433
+"Potassium, K",mg,228,34,561
+"Sodium, Na",mg,379,57,932
+"Zinc, Zn",mg,1.83,0.27,4.50
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.180,0.027,0.443
+"Riboflavin",mg,0.064,0.010,0.157
+"Niacin",mg,0.582,0.087,1.432
+"Vitamin B-6",mg,0.200,0.030,0.492
+"Folate, DFE",µg,83,12,204
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, IU",IU,30,4,74
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.437,0.216,3.535
+"Fatty acids, total monounsaturated",g,4.039,0.606,9.936
+"Fatty acids, total polyunsaturated",g,3.613,0.542,8.888
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

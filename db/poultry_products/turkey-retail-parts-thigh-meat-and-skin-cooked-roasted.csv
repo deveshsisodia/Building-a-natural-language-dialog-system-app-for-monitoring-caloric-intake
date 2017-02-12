@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:40 EST
+"Nutrient data for: 05743, Turkey, retail parts, thigh, meat and skin, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 thigh = 348.0g",
+Proximates
+"Water",g,65.12,55.35,226.62
+"Energy",kcal,183,156,637
+"Protein",g,23.95,20.36,83.35
+"Total lipid (fat)",g,9.50,8.07,33.06
+"Carbohydrate, by difference",g,0.41,0.35,1.43
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,4,3,14
+"Iron, Fe",mg,1.50,1.27,5.22
+"Magnesium, Mg",mg,21,18,73
+"Phosphorus, P",mg,187,159,651
+"Potassium, K",mg,273,232,950
+"Sodium, Na",mg,101,86,351
+"Zinc, Zn",mg,3.00,2.55,10.44
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.047,0.040,0.164
+"Riboflavin",mg,0.297,0.252,1.034
+"Niacin",mg,6.446,5.479,22.432
+"Vitamin B-6",mg,0.444,0.377,1.545
+"Folate, DFE",µg,8,7,28
+"Vitamin B-12",µg,1.67,1.42,5.81
+"Vitamin A, RAE",µg,14,12,49
+"Vitamin A, IU",IU,46,39,160
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.06,0.24
+"Vitamin D (D2 + D3)",µg,0.3,0.3,1.0
+"Vitamin D",IU,13,11,45
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,2.960,2.516,10.301
+"Fatty acids, total monounsaturated",g,3.593,3.054,12.504
+"Fatty acids, total polyunsaturated",g,2.949,2.507,10.263
+"Fatty acids, total trans",g,0.138,0.117,0.480
+"Cholesterol",mg,116,99,404
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:22 EST
+"Nutrient data for: 22537, HOT POCKETS Ham 'N Cheese Stuffed Sandwich, frozen"
+Nutrient,Unit,1Value per 100 g,"1 serving (1 hot pocket) = 127.0g","1 package yields = 256.0g",
+Proximates
+"Water",g,48.96,62.18,125.34
+"Energy",kcal,241,306,617
+"Protein",g,9.16,11.63,23.45
+"Total lipid (fat)",g,9.14,11.61,23.40
+"Carbohydrate, by difference",g,30.55,38.80,78.21
+"Fiber, total dietary",g,1.5,1.9,3.8
+"Sugars, total",g,7.60,9.65,19.46
+Minerals
+"Calcium, Ca",mg,152,193,389
+"Iron, Fe",mg,2.00,2.54,5.12
+"Magnesium, Mg",mg,18,23,46
+"Phosphorus, P",mg,168,213,430
+"Potassium, K",mg,188,239,481
+"Sodium, Na",mg,504,640,1290
+"Zinc, Zn",mg,0.95,1.21,2.43
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.1,0.3
+"Thiamin",mg,0.417,0.530,1.068
+"Riboflavin",mg,0.273,0.347,0.699
+"Niacin",mg,3.425,4.350,8.768
+"Vitamin B-6",mg,0.095,0.121,0.243
+"Folate, DFE",µg,84,107,215
+"Vitamin B-12",µg,0.35,0.44,0.90
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.29,0.37,0.74
+"Vitamin D (D2 + D3)",µg,0.2,0.3,0.5
+"Vitamin D",IU,10,13,26
+"Vitamin K (phylloquinone)",µg,0.8,1.0,2.0
+Lipids
+"Fatty acids, total saturated",g,3.545,4.502,9.075
+"Fatty acids, total monounsaturated",g,2.547,3.235,6.520
+"Fatty acids, total polyunsaturated",g,1.936,2.459,4.956
+"Fatty acids, total trans",g,0.180,0.229,0.461
+"Cholesterol",mg,23,29,59
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

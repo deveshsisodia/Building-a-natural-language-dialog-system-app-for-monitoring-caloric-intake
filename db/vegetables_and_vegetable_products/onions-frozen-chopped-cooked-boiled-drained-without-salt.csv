@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:24 EST
+"Nutrient data for: 11288, Onions, frozen, chopped, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 tbsp chopped = 15.0g","0.5 cup, chopped or diced = 105.0g",
+Proximates
+"Water",g,92.24,13.84,96.85
+"Energy",kcal,28,4,29
+"Protein",g,0.77,0.12,0.81
+"Total lipid (fat)",g,0.10,0.01,0.10
+"Carbohydrate, by difference",g,6.59,0.99,6.92
+"Fiber, total dietary",g,1.8,0.3,1.9
+"Sugars, total",g,2.90,0.43,3.04
+Minerals
+"Calcium, Ca",mg,16,2,17
+"Iron, Fe",mg,0.30,0.04,0.32
+"Magnesium, Mg",mg,6,1,6
+"Phosphorus, P",mg,19,3,20
+"Potassium, K",mg,108,16,113
+"Sodium, Na",mg,12,2,13
+"Zinc, Zn",mg,0.07,0.01,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.6,0.4,2.7
+"Thiamin",mg,0.023,0.003,0.024
+"Riboflavin",mg,0.025,0.004,0.026
+"Niacin",mg,0.139,0.021,0.146
+"Vitamin B-6",mg,0.069,0.010,0.072
+"Folate, DFE",µg,13,2,14
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,2,0,2
+"Vitamin E (alpha-tocopherol)",mg,0.01,0.00,0.01
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.0,0.3
+Lipids
+"Fatty acids, total saturated",g,0.016,0.002,0.017
+"Fatty acids, total monounsaturated",g,0.013,0.002,0.014
+"Fatty acids, total polyunsaturated",g,0.038,0.006,0.040
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

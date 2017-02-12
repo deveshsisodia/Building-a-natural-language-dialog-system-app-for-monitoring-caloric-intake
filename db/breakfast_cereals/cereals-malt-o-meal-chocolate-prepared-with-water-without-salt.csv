@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08512, Cereals, MALT-O-MEAL, chocolate, prepared with water, without salt"
+Nutrient,Unit,1Value per 100 g,"1 serving (3 T dry cereal plus 1 cup water) = 268.0g",
+Proximates
+"Water",g,89.15,238.92
+"Energy",kcal,47,126
+"Protein",g,1.37,3.67
+"Total lipid (fat)",g,0.10,0.27
+"Carbohydrate, by difference",g,9.22,24.71
+"Fiber, total dietary",g,0.4,1.1
+"Sugars, total",g,2.17,5.82
+Minerals
+"Calcium, Ca",mg,49,131
+"Iron, Fe",mg,5.59,14.98
+"Magnesium, Mg",mg,4,11
+"Phosphorus, P",mg,16,43
+"Potassium, K",mg,32,86
+"Sodium, Na",mg,1,3
+"Zinc, Zn",mg,0.20,0.54
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.150,0.402
+"Riboflavin",mg,0.150,0.402
+"Niacin",mg,2.650,7.102
+"Vitamin B-6",mg,0.270,0.724
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.72
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.030,0.080
+"Fatty acids, total monounsaturated",g,0.010,0.027
+"Fatty acids, total polyunsaturated",g,0.020,0.054
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

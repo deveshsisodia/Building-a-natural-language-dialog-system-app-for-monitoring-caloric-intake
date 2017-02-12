@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:55 EST
+"Nutrient data for: 15139, Crustaceans, crab, blue, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 crab = 21.0g",
+Proximates
+"Water",g,79.02,67.17,16.59
+"Energy",kcal,87,74,18
+"Protein",g,18.06,15.35,3.79
+"Total lipid (fat)",g,1.08,0.92,0.23
+"Carbohydrate, by difference",g,0.04,0.03,0.01
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,89,76,19
+"Iron, Fe",mg,0.74,0.63,0.16
+"Magnesium, Mg",mg,34,29,7
+"Phosphorus, P",mg,229,195,48
+"Potassium, K",mg,329,280,69
+"Sodium, Na",mg,293,249,62
+"Zinc, Zn",mg,3.54,3.01,0.74
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.0,2.5,0.6
+"Thiamin",mg,0.080,0.068,0.017
+"Riboflavin",mg,0.040,0.034,0.008
+"Niacin",mg,2.700,2.295,0.567
+"Vitamin B-6",mg,0.150,0.128,0.032
+"Folate, DFE",µg,44,37,9
+"Vitamin B-12",µg,9.00,7.65,1.89
+"Vitamin A, RAE",µg,2,2,0
+"Vitamin A, IU",IU,5,4,1
+Lipids
+"Fatty acids, total saturated",g,0.222,0.189,0.047
+"Fatty acids, total monounsaturated",g,0.192,0.163,0.040
+"Fatty acids, total polyunsaturated",g,0.387,0.329,0.081
+"Cholesterol",mg,78,66,16
+Amino Acids
+Other

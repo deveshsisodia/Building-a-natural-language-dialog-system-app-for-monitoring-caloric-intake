@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:46 EST
+"Nutrient data for: 03002, Babyfood, meat, beef, strained"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 14.7g","1 oz = 28.35g","1 jar = 71.0g",
+Proximates
+"Water",g,82.44,12.12,23.37,58.53
+"Energy",kcal,81,12,23,58
+"Protein",g,12.03,1.77,3.41,8.54
+"Total lipid (fat)",g,2.52,0.37,0.71,1.79
+"Carbohydrate, by difference",g,2.43,0.36,0.69,1.73
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,5,1,1,4
+"Iron, Fe",mg,0.98,0.14,0.28,0.70
+"Magnesium, Mg",mg,11,2,3,8
+"Phosphorus, P",mg,93,14,26,66
+"Potassium, K",mg,187,27,53,133
+"Sodium, Na",mg,41,6,12,29
+"Zinc, Zn",mg,2.22,0.33,0.63,1.58
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.1,0.3,0.6,1.5
+"Thiamin",mg,0.013,0.002,0.004,0.009
+"Riboflavin",mg,0.135,0.020,0.038,0.096
+"Niacin",mg,2.495,0.367,0.707,1.771
+"Vitamin B-6",mg,0.039,0.006,0.011,0.028
+"Folate, DFE",µg,8,1,2,6
+"Vitamin B-12",µg,1.26,0.19,0.36,0.89
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.37,0.05,0.10,0.26
+"Vitamin D (D2 + D3)",µg,0.4,0.1,0.1,0.3
+"Vitamin D",IU,15,2,4,11
+"Vitamin K (phylloquinone)",µg,0.6,0.1,0.2,0.4
+Lipids
+"Fatty acids, total saturated",g,1.180,0.173,0.335,0.838
+"Fatty acids, total monounsaturated",g,0.950,0.140,0.269,0.674
+"Fatty acids, total polyunsaturated",g,0.160,0.024,0.045,0.114
+"Cholesterol",mg,51,7,14,36
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

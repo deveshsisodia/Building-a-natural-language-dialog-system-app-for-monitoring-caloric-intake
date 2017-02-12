@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:41 EST
+"Nutrient data for: 03290, Babyfood, carrots and beef, strained"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 jar NFS = 113.0g","1 jar Gerber Second Food (4 oz) = 113.0g",
+Proximates
+"Water",g,87.30,13.10,98.65,98.65
+"Energy",kcal,59,9,67,67
+"Protein",g,3.40,0.51,3.84,3.84
+"Total lipid (fat)",g,2.50,0.38,2.83,2.83
+"Carbohydrate, by difference",g,5.70,0.85,6.44,6.44
+"Fiber, total dietary",g,2.6,0.4,2.9,2.9
+"Sugars, total",g,2.04,0.31,2.31,2.31
+Minerals
+"Calcium, Ca",mg,22,3,25,25
+"Iron, Fe",mg,0.50,0.07,0.56,0.56
+"Magnesium, Mg",mg,13,2,15,15
+"Phosphorus, P",mg,45,7,51,51
+"Potassium, K",mg,226,34,255,255
+"Sodium, Na",mg,69,10,78,78
+"Zinc, Zn",mg,0.80,0.12,0.90,0.90
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,0.1,0.9,0.9
+"Thiamin",mg,0.020,0.003,0.023,0.023
+"Riboflavin",mg,0.060,0.009,0.068,0.068
+"Niacin",mg,0.930,0.140,1.051,1.051
+"Vitamin B-6",mg,0.100,0.015,0.113,0.113
+"Folate, DFE",µg,17,3,19,19
+"Vitamin B-12",µg,0.30,0.04,0.34,0.34
+"Vitamin A, RAE",µg,723,108,817,817
+"Vitamin A, IU",IU,14452,2168,16331,16331
+"Vitamin E (alpha-tocopherol)",mg,0.65,0.10,0.73,0.73
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,1,0,1,1
+"Vitamin K (phylloquinone)",µg,7.4,1.1,8.4,8.4
+Lipids
+"Fatty acids, total saturated",g,0.960,0.144,1.085,1.085
+"Fatty acids, total monounsaturated",g,1.060,0.159,1.198,1.198
+"Fatty acids, total polyunsaturated",g,0.130,0.020,0.147,0.147
+"Cholesterol",mg,8,1,9,9
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

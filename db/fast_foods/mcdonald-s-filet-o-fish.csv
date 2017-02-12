@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:35 EST
+"Nutrient data for: 21232, McDONALD'S, FILET-O-FISH"
+Nutrient,Unit,1Value per 100 g,"1 sandwich = 134.0g",
+Proximates
+"Water",g,45.76,61.32
+"Energy",kcal,282,378
+"Protein",g,11.26,15.09
+"Total lipid (fat)",g,14.64,19.62
+"Carbohydrate, by difference",g,26.39,35.36
+"Fiber, total dietary",g,1.4,1.9
+"Sugars, total",g,3.67,4.92
+Minerals
+"Calcium, Ca",mg,120,161
+"Iron, Fe",mg,1.56,2.09
+"Magnesium, Mg",mg,27,36
+"Phosphorus, P",mg,137,184
+"Potassium, K",mg,220,295
+"Sodium, Na",mg,434,582
+"Zinc, Zn",mg,0.58,0.78
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.4
+"Thiamin",mg,0.211,0.283
+"Riboflavin",mg,0.130,0.174
+"Niacin",mg,2.220,2.975
+"Vitamin B-12",µg,1.08,1.45
+"Vitamin E (alpha-tocopherol)",mg,1.17,1.57
+"Vitamin K (phylloquinone)",µg,4.9,6.6
+Lipids
+"Fatty acids, total saturated",g,2.833,3.796
+"Fatty acids, total monounsaturated",g,4.005,5.367
+"Fatty acids, total polyunsaturated",g,5.952,7.976
+"Fatty acids, total trans",g,0.128,0.172
+"Cholesterol",mg,32,43
+Amino Acids
+Other

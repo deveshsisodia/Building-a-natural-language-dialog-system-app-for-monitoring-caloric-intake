@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:08 EST
+"Nutrient data for: 12116, Nuts, coconut cream, canned, sweetened"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 19.0g","1 cup = 296.0g",
+Proximates
+"Water",g,28.97,5.50,85.75
+"Energy",kcal,357,68,1057
+"Protein",g,1.17,0.22,3.46
+"Total lipid (fat)",g,16.31,3.10,48.28
+"Carbohydrate, by difference",g,53.21,10.11,157.50
+"Fiber, total dietary",g,0.2,0.0,0.6
+"Sugars, total",g,51.50,9.79,152.44
+Minerals
+"Calcium, Ca",mg,4,1,12
+"Iron, Fe",mg,0.13,0.02,0.38
+"Magnesium, Mg",mg,17,3,50
+"Phosphorus, P",mg,22,4,65
+"Potassium, K",mg,101,19,299
+"Sodium, Na",mg,36,7,107
+"Zinc, Zn",mg,0.60,0.11,1.78
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.022,0.004,0.065
+"Riboflavin",mg,0.040,0.008,0.118
+"Niacin",mg,0.038,0.007,0.112
+"Vitamin B-6",mg,0.029,0.006,0.086
+"Folate, DFE",µg,14,3,41
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.02,0.38
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.0,0.3
+Lipids
+"Fatty acids, total saturated",g,15.472,2.940,45.797
+"Fatty acids, total monounsaturated",g,0.679,0.129,2.010
+"Fatty acids, total polyunsaturated",g,0.159,0.030,0.471
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

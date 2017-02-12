@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:43 EST
+"Nutrient data for: 43373, Babyfood, dinner, chicken and noodle with vegetables, toddler"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 16.0g","1 jar NFS = 170.0g","1 jar Beech-Nut Table Time (6 oz) = 170.0g",
+Proximates
+"Water",g,85.30,13.65,145.01,145.01
+"Energy",kcal,66,11,112,112
+"Protein",g,3.80,0.61,6.46,6.46
+"Total lipid (fat)",g,1.70,0.27,2.89,2.89
+"Carbohydrate, by difference",g,8.89,1.42,15.11,15.11
+"Fiber, total dietary",g,0.6,0.1,1.0,1.0
+"Sugars, total",g,0.82,0.13,1.39,1.39
+Minerals
+"Calcium, Ca",mg,11,2,19,19
+"Iron, Fe",mg,0.40,0.06,0.68,0.68
+"Magnesium, Mg",mg,10,2,17,17
+"Phosphorus, P",mg,42,7,71,71
+"Potassium, K",mg,95,15,162,162
+"Sodium, Na",mg,194,31,330,330
+"Zinc, Zn",mg,0.41,0.07,0.70,0.70
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.7,0.3,2.9,2.9
+"Thiamin",mg,0.040,0.006,0.068,0.068
+"Riboflavin",mg,0.050,0.008,0.085,0.085
+"Niacin",mg,1.230,0.197,2.091,2.091
+"Vitamin B-6",mg,0.060,0.010,0.102,0.102
+"Folate, DFE",µg,12,2,20,20
+"Vitamin B-12",µg,0.14,0.02,0.24,0.24
+"Vitamin A, RAE",µg,98,16,167,167
+"Vitamin A, IU",IU,1950,312,3315,3315
+"Vitamin E (alpha-tocopherol)",mg,0.19,0.03,0.32,0.32
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,2,0,3,3
+"Vitamin K (phylloquinone)",µg,3.3,0.5,5.6,5.6
+Lipids
+"Fatty acids, total saturated",g,0.461,0.074,0.784,0.784
+"Fatty acids, total monounsaturated",g,0.632,0.101,1.074,1.074
+"Fatty acids, total polyunsaturated",g,0.392,0.063,0.666,0.666
+"Cholesterol",mg,28,4,48,48
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

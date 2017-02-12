@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:25 EST
+"Nutrient data for: 11632, Peppers, jalapeno, canned, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 136.0g","1 cup, sliced = 104.0g","1 pepper = 22.0g",
+Proximates
+"Water",g,88.89,120.89,92.45,19.56
+"Energy",kcal,27,37,28,6
+"Protein",g,0.92,1.25,0.96,0.20
+"Total lipid (fat)",g,0.94,1.28,0.98,0.21
+"Carbohydrate, by difference",g,4.74,6.45,4.93,1.04
+"Fiber, total dietary",g,2.6,3.5,2.7,0.6
+"Sugars, total",g,2.14,2.91,2.23,0.47
+Minerals
+"Calcium, Ca",mg,23,31,24,5
+"Iron, Fe",mg,1.88,2.56,1.96,0.41
+"Magnesium, Mg",mg,15,20,16,3
+"Phosphorus, P",mg,18,24,19,4
+"Potassium, K",mg,193,262,201,42
+"Sodium, Na",mg,1671,2273,1738,368
+"Zinc, Zn",mg,0.34,0.46,0.35,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,10.0,13.6,10.4,2.2
+"Thiamin",mg,0.043,0.058,0.045,0.009
+"Riboflavin",mg,0.038,0.052,0.040,0.008
+"Niacin",mg,0.403,0.548,0.419,0.089
+"Vitamin B-6",mg,0.190,0.258,0.198,0.042
+"Folate, DFE",µg,14,19,15,3
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,85,116,88,19
+"Vitamin A, IU",IU,1700,2312,1768,374
+"Vitamin E (alpha-tocopherol)",mg,0.69,0.94,0.72,0.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,12.9,17.5,13.4,2.8
+Lipids
+"Fatty acids, total saturated",g,0.097,0.132,0.101,0.021
+"Fatty acids, total monounsaturated",g,0.053,0.072,0.055,0.012
+"Fatty acids, total polyunsaturated",g,0.514,0.699,0.535,0.113
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

@@ -1,0 +1,31 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:43 EST
+"Nutrient data for: 28384, PEPPERIDGE FARM, Farmhouse Sourdough Bread"
+Nutrient,Unit,1Value per 100 g,"1 serving = 43.0g",
+Proximates
+"Water",g,35.30,15.18
+"Energy",kcal,269,116
+"Protein",g,0.01,0.00
+"Total lipid (fat)",g,3.53,1.52
+"Carbohydrate, by difference",g,50.30,21.63
+"Fiber, total dietary",g,1.6,0.7
+"Sugars, total",g,4.70,2.02
+Minerals
+"Calcium, Ca",mg,51,22
+"Iron, Fe",mg,2.84,1.22
+"Sodium, Na",mg,491,211
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.4
+"Thiamin",mg,0.300,0.129
+"Riboflavin",mg,0.350,0.150
+"Niacin",mg,3.840,1.651
+"Vitamin A, IU",IU,99,43
+Lipids
+"Fatty acids, total saturated",g,0.880,0.378
+"Fatty acids, total monounsaturated",g,0.720,0.310
+"Fatty acids, total polyunsaturated",g,1.700,0.731
+"Fatty acids, total trans",g,0.070,0.030
+"Cholesterol",mg,1,0
+Amino Acids
+Other

@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:02 EST
+"Nutrient data for: 17354, Lamb, New Zealand, imported, Intermuscular fat, cooked"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,29.57,
+"Energy",kcal,596,
+"Protein",g,8.53,
+"Total lipid (fat)",g,62.44,
+"Carbohydrate, by difference",g,0.00,
+"Fiber, total dietary",g,0.0,
+"Sugars, total",g,0.00,
+Minerals
+"Calcium, Ca",mg,6,
+"Iron, Fe",mg,1.39,
+"Magnesium, Mg",mg,12,
+"Phosphorus, P",mg,118,
+"Potassium, K",mg,198,
+"Sodium, Na",mg,52,
+"Zinc, Zn",mg,1.77,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,
+"Thiamin",mg,0.131,
+"Riboflavin",mg,0.104,
+"Niacin",mg,1.740,
+"Vitamin B-6",mg,0.067,
+"Vitamin B-12",µg,0.70,
+"Vitamin A, RAE",µg,34,
+"Vitamin A, IU",IU,113,
+"Vitamin E (alpha-tocopherol)",mg,0.94,
+"Vitamin D (D2 + D3)",µg,0.2,
+"Vitamin D",IU,9,
+Lipids
+"Fatty acids, total saturated",g,26.327,
+"Fatty acids, total monounsaturated",g,17.839,
+"Fatty acids, total polyunsaturated",g,2.114,
+"Fatty acids, total trans",g,3.611,
+"Cholesterol",mg,82,
+Amino Acids
+Other
+"Caffeine",mg,0,

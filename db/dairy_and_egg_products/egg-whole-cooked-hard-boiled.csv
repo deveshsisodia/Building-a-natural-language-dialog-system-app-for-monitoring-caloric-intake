@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:08 EST
+"Nutrient data for: 01129, Egg, whole, cooked, hard-boiled"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 136.0g","1 tbsp = 8.5g","1 large = 50.0g",
+Proximates
+"Water",g,74.62,101.48,6.34,37.31
+"Energy",kcal,155,211,13,78
+"Protein",g,12.58,17.11,1.07,6.29
+"Total lipid (fat)",g,10.61,14.43,0.90,5.30
+"Carbohydrate, by difference",g,1.12,1.52,0.10,0.56
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,1.12,1.52,0.10,0.56
+Minerals
+"Calcium, Ca",mg,50,68,4,25
+"Iron, Fe",mg,1.19,1.62,0.10,0.59
+"Magnesium, Mg",mg,10,14,1,5
+"Phosphorus, P",mg,172,234,15,86
+"Potassium, K",mg,126,171,11,63
+"Sodium, Na",mg,124,169,11,62
+"Zinc, Zn",mg,1.05,1.43,0.09,0.53
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.066,0.090,0.006,0.033
+"Riboflavin",mg,0.513,0.698,0.044,0.257
+"Niacin",mg,0.064,0.087,0.005,0.032
+"Vitamin B-6",mg,0.121,0.165,0.010,0.060
+"Folate, DFE",µg,44,60,4,22
+"Vitamin B-12",µg,1.11,1.51,0.09,0.56
+"Vitamin A, RAE",µg,149,203,13,74
+"Vitamin A, IU",IU,520,707,44,260
+"Vitamin E (alpha-tocopherol)",mg,1.03,1.40,0.09,0.52
+"Vitamin D (D2 + D3)",µg,2.2,3.0,0.2,1.1
+"Vitamin D",IU,87,118,7,44
+"Vitamin K (phylloquinone)",µg,0.3,0.4,0.0,0.1
+Lipids
+"Fatty acids, total saturated",g,3.267,4.443,0.278,1.633
+"Fatty acids, total monounsaturated",g,4.077,5.545,0.347,2.038
+"Fatty acids, total polyunsaturated",g,1.414,1.923,0.120,0.707
+"Cholesterol",mg,373,507,32,186
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

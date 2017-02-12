@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:52 EST
+"Nutrient data for: 25017, Formulated bar, POWER BAR, chocolate"
+Nutrient,Unit,1Value per 100 g,"1 bar = 68.0g",
+Proximates
+"Water",g,9.83,6.68
+"Energy",kcal,363,247
+"Protein",g,14.15,9.62
+"Total lipid (fat)",g,3.11,2.11
+"Carbohydrate, by difference",g,69.63,47.35
+"Fiber, total dietary",g,5.7,3.9
+"Sugars, total",g,30.07,20.45
+Minerals
+"Calcium, Ca",mg,504,343
+"Iron, Fe",mg,11.70,7.96
+"Magnesium, Mg",mg,248,169
+"Phosphorus, P",mg,614,418
+"Potassium, K",mg,362,246
+"Sodium, Na",mg,308,209
+"Zinc, Zn",mg,9.96,6.77
+Vitamins
+"Vitamin C, total ascorbic acid",mg,92.3,62.8
+"Thiamin",mg,8.060,5.481
+"Riboflavin",mg,1.920,1.306
+"Niacin",mg,32.600,22.168
+"Vitamin B-6",mg,2.200,1.496
+"Folate, DFE",µg,1046,711
+"Vitamin B-12",µg,5.60,3.81
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,8.28,5.63
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.1,0.7
+Lipids
+"Fatty acids, total saturated",g,1.320,0.898
+"Fatty acids, total monounsaturated",g,1.050,0.714
+"Fatty acids, total polyunsaturated",g,0.589,0.401
+"Fatty acids, total trans",g,0.010,0.007
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

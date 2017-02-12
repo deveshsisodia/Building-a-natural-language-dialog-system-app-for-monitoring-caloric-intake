@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:29 EST
+"Nutrient data for: 21255, BURGER KING, DOUBLE WHOPPER, with cheese"
+Nutrient,Unit,1Value per 100 g,"1 item = 399.0g",
+Proximates
+"Water",g,53.28,212.59
+"Energy",kcal,266,1061
+"Protein",g,14.47,57.74
+"Total lipid (fat)",g,17.06,68.07
+"Carbohydrate, by difference",g,13.52,53.94
+"Fiber, total dietary",g,1.6,6.4
+"Sugars, total",g,3.61,14.40
+Minerals
+"Calcium, Ca",mg,78,311
+"Iron, Fe",mg,5.30,21.15
+"Magnesium, Mg",mg,19,76
+"Phosphorus, P",mg,128,511
+"Potassium, K",mg,189,754
+"Sodium, Na",mg,387,1544
+"Zinc, Zn",mg,3.50,13.96
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.8
+"Thiamin",mg,0.267,1.065
+"Riboflavin",mg,0.210,0.838
+"Niacin",mg,3.000,11.970
+"Vitamin B-6",mg,0.112,0.447
+"Folate, DFE",µg,42,168
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.24
+"Vitamin K (phylloquinone)",µg,11.5,45.9
+Lipids
+"Fatty acids, total saturated",g,6.998,27.922
+"Fatty acids, total monounsaturated",g,6.298,25.129
+"Fatty acids, total polyunsaturated",g,2.987,11.918
+"Fatty acids, total trans",g,0.620,2.474
+"Cholesterol",mg,47,188
+Amino Acids
+Other

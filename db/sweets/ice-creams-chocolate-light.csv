@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:42 EST
+"Nutrient data for: 19114, Ice creams, chocolate, light"
+Nutrient,Unit,1Value per 100 g,"1 serving = 68.0g","1 unit = 100.0g",
+Proximates
+"Water",g,61.43,41.77,61.43
+"Energy",kcal,187,127,187
+"Protein",g,5.00,3.40,5.00
+"Total lipid (fat)",g,7.19,4.89,7.19
+"Carbohydrate, by difference",g,25.70,17.48,25.70
+"Fiber, total dietary",g,0.8,0.5,0.8
+"Sugars, total",g,24.71,16.80,24.71
+Minerals
+"Calcium, Ca",mg,159,108,159
+"Iron, Fe",mg,0.69,0.47,0.69
+"Magnesium, Mg",mg,20,14,20
+"Phosphorus, P",mg,83,56,83
+"Potassium, K",mg,170,116,170
+"Sodium, Na",mg,71,48,71
+"Zinc, Zn",mg,0.43,0.29,0.43
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.2,0.8,1.2
+"Thiamin",mg,0.023,0.016,0.023
+"Riboflavin",mg,0.129,0.088,0.129
+"Niacin",mg,0.126,0.086,0.126
+"Vitamin B-6",mg,0.023,0.016,0.023
+"Folate, DFE",µg,4,3,4
+"Vitamin B-12",µg,0.14,0.10,0.14
+"Vitamin A, RAE",µg,71,48,71
+"Vitamin A, IU",IU,425,289,425
+"Vitamin E (alpha-tocopherol)",mg,0.20,0.14,0.20
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.1
+"Vitamin D",IU,5,3,5
+"Vitamin K (phylloquinone)",µg,0.6,0.4,0.6
+Lipids
+"Fatty acids, total saturated",g,4.380,2.978,4.380
+"Fatty acids, total monounsaturated",g,2.055,1.397,2.055
+"Fatty acids, total polyunsaturated",g,0.241,0.164,0.241
+"Cholesterol",mg,28,19,28
+Amino Acids
+Other
+"Caffeine",mg,2,1,2

@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:07 EST
+"Nutrient data for: 12100, Nuts, chestnuts, european, dried, peeled"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,9.00,2.55
+"Energy",kcal,369,105
+"Protein",g,5.01,1.42
+"Total lipid (fat)",g,3.91,1.11
+"Carbohydrate, by difference",g,78.43,22.23
+Minerals
+"Calcium, Ca",mg,64,18
+"Iron, Fe",mg,2.39,0.68
+"Magnesium, Mg",mg,74,21
+"Phosphorus, P",mg,137,39
+"Potassium, K",mg,991,281
+"Sodium, Na",mg,37,10
+"Zinc, Zn",mg,0.35,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,15.1,4.3
+"Thiamin",mg,0.354,0.100
+"Riboflavin",mg,0.054,0.015
+"Niacin",mg,0.854,0.242
+"Vitamin B-6",mg,0.666,0.189
+"Folate, DFE",µg,110,31
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.736,0.209
+"Fatty acids, total monounsaturated",g,1.349,0.382
+"Fatty acids, total polyunsaturated",g,1.546,0.438
+"Cholesterol",mg,0,0
+Amino Acids
+Other

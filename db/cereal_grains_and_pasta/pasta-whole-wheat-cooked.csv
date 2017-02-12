@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:13 EST
+"Nutrient data for: 20125, Pasta, whole-wheat, cooked"
+Nutrient,Unit,1Value per 100 g,"1 cup spaghetti not packed = 117.0g","1 cup spaghetti packed = 151.0g","1 cup elbows = 117.0g","1 cup penne = 97.0g","1 cup shells = 105.0g","1 cup lasagne = 116.0g","1 cup rotini = 107.0g","1 cup farfalle = 107.0g",
+Proximates
+"Water",g,61.80,72.31,93.32,72.31,59.95,64.89,71.69,66.13,66.13
+"Energy",kcal,149,174,225,174,145,156,173,159,159
+"Protein",g,5.99,7.01,9.04,7.01,5.81,6.29,6.95,6.41,6.41
+"Total lipid (fat)",g,1.71,2.00,2.58,2.00,1.66,1.80,1.98,1.83,1.83
+"Carbohydrate, by difference",g,30.07,35.18,45.41,35.18,29.17,31.57,34.88,32.17,32.17
+"Fiber, total dietary",g,3.9,4.6,5.9,4.6,3.8,4.1,4.5,4.2,4.2
+"Sugars, total",g,0.75,0.88,1.13,0.88,0.73,0.79,0.87,0.80,0.80
+Minerals
+"Calcium, Ca",mg,13,15,20,15,13,14,15,14,14
+"Iron, Fe",mg,1.72,2.01,2.60,2.01,1.67,1.81,2.00,1.84,1.84
+"Magnesium, Mg",mg,54,63,82,63,52,57,63,58,58
+"Phosphorus, P",mg,127,149,192,149,123,133,147,136,136
+"Potassium, K",mg,96,112,145,112,93,101,111,103,103
+"Sodium, Na",mg,4,5,6,5,4,4,5,4,4
+"Zinc, Zn",mg,1.34,1.57,2.02,1.57,1.30,1.41,1.55,1.43,1.43
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.156,0.183,0.236,0.183,0.151,0.164,0.181,0.167,0.167
+"Riboflavin",mg,0.099,0.116,0.149,0.116,0.096,0.104,0.115,0.106,0.106
+"Niacin",mg,3.126,3.657,4.720,3.657,3.032,3.282,3.626,3.345,3.345
+"Vitamin B-6",mg,0.093,0.109,0.140,0.109,0.090,0.098,0.108,0.100,0.100
+"Folate, DFE",µg,21,25,32,25,20,22,24,22,22
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0,0,0,0
+"Vitamin A, IU",IU,4,5,6,5,4,4,5,4,4
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.27,0.35,0.27,0.22,0.24,0.27,0.25,0.25
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.6,0.7,0.9,0.7,0.6,0.6,0.7,0.6,0.6
+Lipids
+"Fatty acids, total saturated",g,0.243,0.284,0.367,0.284,0.236,0.255,0.282,0.260,0.260
+"Fatty acids, total monounsaturated",g,0.176,0.206,0.266,0.206,0.171,0.185,0.204,0.188,0.188
+"Fatty acids, total polyunsaturated",g,0.574,0.672,0.867,0.672,0.557,0.603,0.666,0.614,0.614
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0,0,0

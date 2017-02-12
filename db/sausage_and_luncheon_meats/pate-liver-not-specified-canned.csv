@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:17 EST
+"Nutrient data for: 07055, Pate, liver, not specified, canned"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 13.0g","1 oz = 28.35g",
+Proximates
+"Water",g,53.90,7.01,15.28
+"Energy",kcal,319,41,90
+"Protein",g,14.20,1.85,4.03
+"Total lipid (fat)",g,28.00,3.64,7.94
+"Carbohydrate, by difference",g,1.50,0.20,0.43
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,70,9,20
+"Iron, Fe",mg,5.50,0.71,1.56
+"Magnesium, Mg",mg,13,2,4
+"Phosphorus, P",mg,200,26,57
+"Potassium, K",mg,138,18,39
+"Sodium, Na",mg,697,91,198
+"Zinc, Zn",mg,2.85,0.37,0.81
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.0,0.3,0.6
+"Thiamin",mg,0.030,0.004,0.009
+"Riboflavin",mg,0.600,0.078,0.170
+"Niacin",mg,3.300,0.429,0.936
+"Vitamin B-6",mg,0.060,0.008,0.017
+"Folate, DFE",µg,60,8,17
+"Vitamin B-12",µg,3.20,0.42,0.91
+"Vitamin A, RAE",µg,991,129,281
+"Vitamin A, IU",IU,3300,429,936
+Lipids
+"Fatty acids, total saturated",g,9.570,1.244,2.713
+"Fatty acids, total monounsaturated",g,12.360,1.607,3.504
+"Fatty acids, total polyunsaturated",g,3.160,0.411,0.896
+"Cholesterol",mg,255,33,72
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

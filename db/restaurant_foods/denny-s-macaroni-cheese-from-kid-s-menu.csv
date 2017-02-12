@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:26 EST
+"Nutrient data for: 36613, DENNY'S, macaroni & cheese, from kid's menu"
+Nutrient,Unit,1Value per 100 g,"1 serving = 180.0g","1 cup = 134.0g",
+Proximates
+"Water",g,67.38,121.28,90.29
+"Energy",kcal,150,270,201
+"Protein",g,5.19,9.34,6.95
+"Total lipid (fat)",g,4.92,8.86,6.59
+"Carbohydrate, by difference",g,21.16,38.09,28.35
+"Fiber, total dietary",g,1.2,2.2,1.6
+"Sugars, total",g,4.20,7.56,5.63
+Minerals
+"Calcium, Ca",mg,83,149,111
+"Iron, Fe",mg,0.79,1.42,1.06
+"Magnesium, Mg",mg,23,41,31
+"Phosphorus, P",mg,113,203,151
+"Potassium, K",mg,165,297,221
+"Sodium, Na",mg,300,540,402
+"Zinc, Zn",mg,0.58,1.04,0.78
+Vitamins
+"Thiamin",mg,0.100,0.180,0.134
+"Riboflavin",mg,0.283,0.509,0.379
+"Niacin",mg,0.870,1.566,1.166
+"Vitamin B-6",mg,0.077,0.139,0.103
+"Vitamin B-12",µg,0.19,0.34,0.25
+"Vitamin A, RAE",µg,15,27,20
+"Vitamin A, IU",IU,58,104,78
+"Vitamin E (alpha-tocopherol)",mg,0.53,0.95,0.71
+"Vitamin K (phylloquinone)",µg,3.0,5.4,4.0
+Lipids
+"Fatty acids, total saturated",g,1.384,2.491,1.855
+"Fatty acids, total monounsaturated",g,2.046,3.683,2.742
+"Fatty acids, total polyunsaturated",g,1.010,1.818,1.353
+"Fatty acids, total trans",g,0.070,0.126,0.094
+"Cholesterol",mg,7,13,9
+Amino Acids
+Other

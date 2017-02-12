@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:07 EST
+"Nutrient data for: 43398, Cheese, pasteurized process, cheddar or American, low sodium"
+Nutrient,Unit,1Value per 100 g,"1 cup, diced = 140.0g","1 cup, shredded = 113.0g","1 cubic inch = 18.0g","1 slice = 21.0g",
+Proximates
+"Water",g,42.80,59.92,48.36,7.70,8.99
+"Energy",kcal,376,526,425,68,79
+"Protein",g,22.20,31.08,25.09,4.00,4.66
+"Total lipid (fat)",g,31.19,43.67,35.24,5.61,6.55
+"Carbohydrate, by difference",g,1.60,2.24,1.81,0.29,0.34
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.45,0.63,0.51,0.08,0.09
+Minerals
+"Calcium, Ca",mg,616,862,696,111,129
+"Iron, Fe",mg,0.39,0.55,0.44,0.07,0.08
+"Magnesium, Mg",mg,22,31,25,4,5
+"Phosphorus, P",mg,745,1043,842,134,156
+"Potassium, K",mg,162,227,183,29,34
+"Sodium, Na",mg,7,10,8,1,1
+"Zinc, Zn",mg,2.99,4.19,3.38,0.54,0.63
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.030,0.042,0.034,0.005,0.006
+"Riboflavin",mg,0.350,0.490,0.395,0.063,0.073
+"Niacin",mg,0.070,0.098,0.079,0.013,0.015
+"Vitamin B-6",mg,0.070,0.098,0.079,0.013,0.015
+"Folate, DFE",µg,8,11,9,1,2
+"Vitamin B-12",µg,0.70,0.98,0.79,0.13,0.15
+"Vitamin A, RAE",µg,254,356,287,46,53
+"Vitamin A, IU",IU,959,1343,1084,173,201
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.38,0.31,0.05,0.06
+"Vitamin D (D2 + D3)",µg,0.6,0.8,0.7,0.1,0.1
+"Vitamin D",IU,23,32,26,4,5
+"Vitamin K (phylloquinone)",µg,2.6,3.6,2.9,0.5,0.5
+Lipids
+"Fatty acids, total saturated",g,19.651,27.511,22.206,3.537,4.127
+"Fatty acids, total monounsaturated",g,8.932,12.505,10.093,1.608,1.876
+"Fatty acids, total polyunsaturated",g,0.988,1.383,1.116,0.178,0.207
+"Cholesterol",mg,94,132,106,17,20
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

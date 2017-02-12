@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 19820, Snacks, sesame sticks, wheat-based, unsalted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","2.0 oz = 57.0g",
+Proximates
+"Water",g,2.00,0.57,1.14
+"Energy",kcal,541,153,308
+"Protein",g,10.90,3.09,6.21
+"Total lipid (fat)",g,36.70,10.40,20.92
+"Carbohydrate, by difference",g,46.50,13.18,26.50
+Minerals
+"Calcium, Ca",mg,170,48,97
+"Iron, Fe",mg,0.74,0.21,0.42
+"Magnesium, Mg",mg,45,13,26
+"Phosphorus, P",mg,138,39,79
+"Potassium, K",mg,177,50,101
+"Sodium, Na",mg,29,8,17
+"Zinc, Zn",mg,1.17,0.33,0.67
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.123,0.035,0.070
+"Riboflavin",mg,0.063,0.018,0.036
+"Niacin",mg,1.552,0.440,0.885
+"Vitamin B-6",mg,0.086,0.024,0.049
+"Folate, DFE",µg,22,6,13
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,4,1,2
+"Vitamin A, IU",IU,88,25,50
+Lipids
+"Fatty acids, total saturated",g,6.480,1.837,3.694
+"Fatty acids, total monounsaturated",g,10.910,3.093,6.219
+"Fatty acids, total polyunsaturated",g,17.420,4.939,9.929
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

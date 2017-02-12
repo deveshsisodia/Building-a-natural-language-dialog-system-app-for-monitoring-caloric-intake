@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:49 EST
+"Nutrient data for: 03926, Infant formula, NESTLE, GOOD START ESSENTIALS SOY, with iron, liquid concentrate, not reconstituted"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 31.4g",
+Proximates
+"Water",g,75.40,23.68
+"Energy",kcal,128,40
+"Protein",g,3.20,1.00
+"Total lipid (fat)",g,6.50,2.04
+"Carbohydrate, by difference",g,14.10,4.43
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,11.20,3.52
+Minerals
+"Calcium, Ca",mg,133,42
+"Iron, Fe",mg,2.29,0.72
+"Magnesium, Mg",mg,14,4
+"Phosphorus, P",mg,80,25
+"Potassium, K",mg,146,46
+"Sodium, Na",mg,46,14
+"Zinc, Zn",mg,1.14,0.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,15.2,4.8
+"Thiamin",mg,0.076,0.024
+"Riboflavin",mg,0.119,0.037
+"Niacin",mg,1.650,0.518
+"Vitamin B-6",mg,0.076,0.024
+"Folate, DFE",µg,35,11
+"Vitamin B-12",µg,0.38,0.12
+"Vitamin A, RAE",µg,100,31
+"Vitamin A, IU",IU,381,120
+"Vitamin E (alpha-tocopherol)",mg,1.86,0.58
+"Vitamin D (D2 + D3)",µg,2.0,0.6
+"Vitamin D",IU,82,26
+"Vitamin K (phylloquinone)",µg,10.2,3.2
+Lipids
+"Fatty acids, total saturated",g,2.800,0.879
+"Fatty acids, total monounsaturated",g,2.030,0.637
+"Fatty acids, total polyunsaturated",g,1.317,0.414
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

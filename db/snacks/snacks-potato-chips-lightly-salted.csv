@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:54 EST
+"Nutrient data for: 25064, Snacks, potato chips, lightly salted"
+Nutrient,Unit,1Value per 100 g,"23.0 pieces = 28.0g","1 bag = 227.0g",
+Proximates
+"Water",g,1.35,0.38,3.06
+"Energy",kcal,560,157,1271
+"Protein",g,6.72,1.88,15.25
+"Total lipid (fat)",g,35.39,9.91,80.34
+"Carbohydrate, by difference",g,53.54,14.99,121.54
+"Fiber, total dietary",g,4.2,1.2,9.5
+"Sugars, total",g,0.34,0.10,0.77
+Minerals
+"Calcium, Ca",mg,24,7,54
+"Iron, Fe",mg,1.43,0.40,3.25
+"Magnesium, Mg",mg,62,17,141
+"Phosphorus, P",mg,148,41,336
+"Potassium, K",mg,1304,365,2960
+"Sodium, Na",mg,187,52,424
+"Zinc, Zn",mg,1.51,0.42,3.43
+Vitamins
+"Vitamin C, total ascorbic acid",mg,27.3,7.6,62.0
+"Thiamin",mg,0.158,0.044,0.359
+"Riboflavin",mg,0.173,0.048,0.393
+"Niacin",mg,5.476,1.533,12.431
+"Vitamin B-6",mg,0.651,0.182,1.478
+"Folate, DFE",µg,58,16,132
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,7.72,2.16,17.52
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,22.1,6.2,50.2
+Lipids
+"Fatty acids, total saturated",g,5.490,1.537,12.462
+"Fatty acids, total monounsaturated",g,14.938,4.183,33.909
+"Fatty acids, total polyunsaturated",g,12.416,3.476,28.184
+"Fatty acids, total trans",g,0.215,0.060,0.488
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Sodium has taken from the recent analytical one.(lightly salted)"

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:13 EST
+"Nutrient data for: 13357, Beef, cured, sausage, cooked, smoked"
+Nutrient,Unit,1Value per 100 g,"1 sausage = 43.0g","1 oz = 28.35g",
+Proximates
+"Water",g,53.56,23.03,15.18
+"Energy",kcal,312,134,88
+"Protein",g,14.11,6.07,4.00
+"Total lipid (fat)",g,26.91,11.57,7.63
+"Carbohydrate, by difference",g,2.42,1.04,0.69
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,7,3,2
+"Iron, Fe",mg,1.76,0.76,0.50
+"Magnesium, Mg",mg,13,6,4
+"Phosphorus, P",mg,105,45,30
+"Potassium, K",mg,176,76,50
+"Sodium, Na",mg,1131,486,321
+"Zinc, Zn",mg,2.80,1.20,0.79
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.050,0.021,0.014
+"Riboflavin",mg,0.140,0.060,0.040
+"Niacin",mg,3.190,1.372,0.904
+"Vitamin B-6",mg,0.110,0.047,0.031
+"Folate, DFE",µg,4,2,1
+"Vitamin B-12",µg,1.86,0.80,0.53
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,11.440,4.919,3.243
+"Fatty acids, total monounsaturated",g,12.970,5.577,3.677
+"Fatty acids, total polyunsaturated",g,1.050,0.452,0.298
+"Cholesterol",mg,67,29,19
+Amino Acids
+Other

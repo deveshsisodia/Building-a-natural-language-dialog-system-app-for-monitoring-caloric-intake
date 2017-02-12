@@ -1,0 +1,34 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:30 EST
+"Nutrient data for: 28307, Bread, naan, plain, commercially prepared, refrigerated"
+Nutrient,Unit,1Value per 100 g,"1 piece = 90.0g",
+Proximates
+"Water",g,32.60,29.34
+"Energy",kcal,291,262
+"Protein",g,9.62,8.66
+"Total lipid (fat)",g,5.65,5.09
+"Carbohydrate, by difference",g,50.43,45.39
+"Fiber, total dietary",g,2.2,2.0
+"Sugars, total",g,3.55,3.19
+Minerals
+"Calcium, Ca",mg,84,76
+"Iron, Fe",mg,3.25,2.92
+"Magnesium, Mg",mg,27,24
+"Phosphorus, P",mg,100,90
+"Potassium, K",mg,125,112
+"Sodium, Na",mg,465,418
+"Zinc, Zn",mg,0.81,0.73
+Vitamins
+"Thiamin",mg,0.780,0.702
+"Riboflavin",mg,0.510,0.459
+"Niacin",mg,5.840,5.256
+"Vitamin B-6",mg,0.095,0.086
+"Vitamin E (alpha-tocopherol)",mg,0.79,0.71
+Lipids
+"Fatty acids, total saturated",g,1.393,1.254
+"Fatty acids, total monounsaturated",g,1.801,1.621
+"Fatty acids, total polyunsaturated",g,2.098,1.888
+"Fatty acids, total trans",g,0.042,0.038
+Amino Acids
+Other

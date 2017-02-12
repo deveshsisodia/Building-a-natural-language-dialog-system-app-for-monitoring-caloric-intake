@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:11 EST
+"Nutrient data for: 20001, Amaranth grain, uncooked"
+Nutrient,Unit,1Value per 100 g,"1 cup = 193.0g",
+Proximates
+"Water",g,11.29,21.79
+"Energy",kcal,371,716
+"Protein",g,13.56,26.17
+"Total lipid (fat)",g,7.02,13.55
+"Carbohydrate, by difference",g,65.25,125.93
+"Fiber, total dietary",g,6.7,12.9
+"Sugars, total",g,1.69,3.26
+Minerals
+"Calcium, Ca",mg,159,307
+"Iron, Fe",mg,7.61,14.69
+"Magnesium, Mg",mg,248,479
+"Phosphorus, P",mg,557,1075
+"Potassium, K",mg,508,980
+"Sodium, Na",mg,4,8
+"Zinc, Zn",mg,2.87,5.54
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.2,8.1
+"Thiamin",mg,0.116,0.224
+"Riboflavin",mg,0.200,0.386
+"Niacin",mg,0.923,1.781
+"Vitamin B-6",mg,0.591,1.141
+"Folate, DFE",µg,82,158
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,2,4
+"Vitamin E (alpha-tocopherol)",mg,1.19,2.30
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.459,2.816
+"Fatty acids, total monounsaturated",g,1.685,3.252
+"Fatty acids, total polyunsaturated",g,2.778,5.362
+"Cholesterol",mg,0,0
+Amino Acids
+Other

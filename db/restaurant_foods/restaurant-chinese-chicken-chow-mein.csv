@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:27 EST
+"Nutrient data for: 36623, Restaurant, Chinese, chicken chow mein"
+Nutrient,Unit,1Value per 100 g,"1 order = 604.0g",
+Proximates
+"Water",g,81.01,489.30
+"Energy",kcal,85,513
+"Protein",g,6.76,40.83
+"Total lipid (fat)",g,2.80,16.91
+"Carbohydrate, by difference",g,8.29,50.07
+"Fiber, total dietary",g,1.0,6.0
+"Sugars, total",g,1.74,10.51
+Minerals
+"Calcium, Ca",mg,21,127
+"Iron, Fe",mg,0.67,4.05
+"Magnesium, Mg",mg,11,66
+"Phosphorus, P",mg,54,326
+"Potassium, K",mg,124,749
+"Sodium, Na",mg,311,1878
+"Zinc, Zn",mg,0.32,1.93
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.0,12.1
+"Thiamin",mg,0.031,0.187
+"Riboflavin",mg,0.023,0.139
+"Niacin",mg,1.468,8.867
+"Vitamin B-6",mg,0.175,1.057
+"Vitamin B-12",µg,0.07,0.42
+"Vitamin A, RAE",µg,19,115
+"Vitamin A, IU",IU,362,2186
+"Vitamin E (alpha-tocopherol)",mg,0.43,2.60
+"Vitamin K (phylloquinone)",µg,22.0,132.9
+Lipids
+"Fatty acids, total saturated",g,0.490,2.960
+"Fatty acids, total monounsaturated",g,0.613,3.703
+"Fatty acids, total polyunsaturated",g,1.226,7.405
+"Fatty acids, total trans",g,0.017,0.103
+"Cholesterol",mg,16,97
+Amino Acids
+Other
+Footnotes
+(a)"Rice was not included in analyses."
+(b)"Ingredients and amount of sauce vary by restaurant.  May include onions, cabbage, carrots and/or broccoli."

@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:58 EST
+"Nutrient data for: 23503, USDA Commodity, beef, patties (100%), frozen, cooked"
+Nutrient,Unit,1Value per 100 g,"1 patty = 64.0g",
+Proximates
+"Water",g,58.77,37.61
+"Energy",kcal,249,159
+"Protein",g,22.98,14.71
+"Total lipid (fat)",g,16.37,10.48
+"Carbohydrate, by difference",g,0.91,0.58
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,8,5
+"Iron, Fe",mg,2.55,1.63
+"Magnesium, Mg",mg,19,12
+"Phosphorus, P",mg,183,117
+"Potassium, K",mg,233,149
+"Sodium, Na",mg,66,42
+"Zinc, Zn",mg,5.26,3.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.051,0.033
+"Riboflavin",mg,0.186,0.119
+"Niacin",mg,2.940,1.882
+"Vitamin B-6",mg,0.167,0.107
+"Folate, DFE",µg,8,5
+"Vitamin B-12",µg,3.50,2.24
+"Vitamin A, RAE",µg,11,7
+"Vitamin A, IU",IU,35,22
+Lipids
+"Fatty acids, total saturated",g,6.252,4.001
+"Fatty acids, total monounsaturated",g,8.081,5.172
+"Fatty acids, total polyunsaturated",g,0.589,0.377
+"Cholesterol",mg,86,55
+Amino Acids
+Other
+"Caffeine",mg,0,0

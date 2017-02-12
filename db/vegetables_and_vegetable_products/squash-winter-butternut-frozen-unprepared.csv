@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:30 EST
+"Nutrient data for: 11487, Squash, winter, butternut, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"0.33 package (12 oz) = 113.0g","1 package (12 oz) = 340.0g","1 package (4 lb) = 1814.0g",
+Proximates
+"Water",g,82.50,93.22,280.50,1496.55
+"Energy",kcal,57,64,194,1034
+"Protein",g,1.76,1.99,5.98,31.93
+"Total lipid (fat)",g,0.10,0.11,0.34,1.81
+"Carbohydrate, by difference",g,14.41,16.28,48.99,261.40
+"Fiber, total dietary",g,1.3,1.5,4.4,23.6
+"Sugars, total",g,2.83,3.20,9.62,51.34
+Minerals
+"Calcium, Ca",mg,29,33,99,526
+"Iron, Fe",mg,0.88,0.99,2.99,15.96
+"Magnesium, Mg",mg,14,16,48,254
+"Phosphorus, P",mg,22,25,75,399
+"Potassium, K",mg,212,240,721,3846
+"Sodium, Na",mg,2,2,7,36
+"Zinc, Zn",mg,0.17,0.19,0.58,3.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.2,7.0,21.1,112.5
+"Thiamin",mg,0.090,0.102,0.306,1.633
+"Riboflavin",mg,0.059,0.067,0.201,1.070
+"Niacin",mg,0.740,0.836,2.516,13.424
+"Vitamin B-6",mg,0.110,0.124,0.374,1.995
+"Folate, DFE",µg,24,27,82,435
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,240,271,816,4354
+"Vitamin A, IU",IU,4790,5413,16286,86891
+"Vitamin E (alpha-tocopherol)",mg,1.85,2.09,6.29,33.56
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,1.4,1.6,4.8,25.4
+Lipids
+"Fatty acids, total saturated",g,0.021,0.024,0.071,0.381
+"Fatty acids, total monounsaturated",g,0.007,0.008,0.024,0.127
+"Fatty acids, total polyunsaturated",g,0.042,0.047,0.143,0.762
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

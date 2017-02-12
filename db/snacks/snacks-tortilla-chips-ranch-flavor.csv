@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 19058, Snacks, tortilla chips, ranch-flavor"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 bag (7 oz) = 198.0g",
+Proximates
+"Water",g,3.14,0.89,6.22
+"Energy",kcal,501,142,992
+"Protein",g,7.19,2.04,14.24
+"Total lipid (fat)",g,24.63,6.98,48.77
+"Carbohydrate, by difference",g,62.74,17.79,124.23
+"Fiber, total dietary",g,4.0,1.1,7.9
+"Sugars, total",g,3.03,0.86,6.00
+Minerals
+"Calcium, Ca",mg,134,38,265
+"Iron, Fe",mg,1.38,0.39,2.73
+"Magnesium, Mg",mg,87,25,172
+"Phosphorus, P",mg,252,71,499
+"Potassium, K",mg,259,73,513
+"Sodium, Na",mg,519,147,1028
+"Zinc, Zn",mg,1.43,0.41,2.83
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.048,0.014,0.095
+"Riboflavin",mg,0.060,0.017,0.119
+"Niacin",mg,1.300,0.369,2.574
+"Vitamin B-6",mg,0.200,0.057,0.396
+"Vitamin K (phylloquinone)",µg,1.4,0.4,2.8
+Lipids
+"Fatty acids, total saturated",g,3.539,1.003,7.007
+"Fatty acids, total monounsaturated",g,7.047,1.998,13.953
+"Fatty acids, total polyunsaturated",g,13.528,3.835,26.785
+"Fatty acids, total trans",g,0.345,0.098,0.683
+Amino Acids
+Other

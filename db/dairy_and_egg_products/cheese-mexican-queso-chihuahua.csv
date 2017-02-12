@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:06 EST
+"Nutrient data for: 01167, Cheese, mexican, queso chihuahua"
+Nutrient,Unit,1Value per 100 g,"1 cup, diced = 132.0g","1 cup, shredded = 113.0g","1 oz = 28.35g","1 cubic inch = 17.0g","1 slice (1 oz) = 28.0g",
+Proximates
+"Water",g,39.13,51.65,44.22,11.09,6.65,10.96
+"Energy",kcal,374,494,423,106,64,105
+"Protein",g,21.56,28.46,24.36,6.11,3.67,6.04
+"Total lipid (fat)",g,29.68,39.18,33.54,8.41,5.05,8.31
+"Carbohydrate, by difference",g,5.56,7.34,6.28,1.58,0.95,1.56
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,5.56,7.34,6.28,1.58,0.95,1.56
+Minerals
+"Calcium, Ca",mg,651,859,736,185,111,182
+"Iron, Fe",mg,0.47,0.62,0.53,0.13,0.08,0.13
+"Magnesium, Mg",mg,23,30,26,7,4,6
+"Phosphorus, P",mg,442,583,499,125,75,124
+"Potassium, K",mg,52,69,59,15,9,15
+"Sodium, Na",mg,617,814,697,175,105,173
+"Zinc, Zn",mg,3.50,4.62,3.96,0.99,0.59,0.98
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.018,0.024,0.020,0.005,0.003,0.005
+"Riboflavin",mg,0.225,0.297,0.254,0.064,0.038,0.063
+"Niacin",mg,0.150,0.198,0.169,0.043,0.025,0.042
+"Vitamin B-6",mg,0.055,0.073,0.062,0.016,0.009,0.015
+"Folate, DFE",µg,2,3,2,1,0,1
+"Vitamin B-12",µg,1.03,1.36,1.16,0.29,0.18,0.29
+"Vitamin A, RAE",µg,56,74,63,16,10,16
+"Vitamin A, IU",IU,193,255,218,55,33,54
+"Vitamin E (alpha-tocopherol)",mg,0.26,0.34,0.29,0.07,0.04,0.07
+"Vitamin D (D2 + D3)",µg,0.5,0.7,0.6,0.1,0.1,0.1
+"Vitamin D",IU,22,29,25,6,4,6
+"Vitamin K (phylloquinone)",µg,2.5,3.3,2.8,0.7,0.4,0.7
+Lipids
+"Fatty acids, total saturated",g,18.843,24.873,21.293,5.342,3.203,5.276
+"Fatty acids, total monounsaturated",g,8.443,11.145,9.541,2.394,1.435,2.364
+"Fatty acids, total polyunsaturated",g,0.892,1.177,1.008,0.253,0.152,0.250
+"Cholesterol",mg,105,139,119,30,18,29
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

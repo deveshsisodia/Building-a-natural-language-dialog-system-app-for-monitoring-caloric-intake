@@ -1,0 +1,29 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:22 EST
+"Nutrient data for: 14231, Beverages, KRAFT, coffee, instant, French Vanilla Cafe"
+Nutrient,Unit,1Value per 100 g,"1 NLEA Serving = 14.0g",
+Proximates
+"Water",g,1.50,0.21
+"Energy",kcal,481,67
+"Protein",g,2.50,0.35
+"Total lipid (fat)",g,19.20,2.69
+"Carbohydrate, by difference",g,74.60,10.44
+"Fiber, total dietary",g,1.4,0.2
+"Sugars, total",g,54.30,7.60
+Minerals
+"Calcium, Ca",mg,12,2
+"Iron, Fe",mg,0.33,0.05
+"Phosphorus, P",mg,203,28
+"Potassium, K",mg,546,76
+"Sodium, Na",mg,399,56
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Vitamin A, IU",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,4.600,0.644
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+Footnotes
+(a)"Contains other proximate components."

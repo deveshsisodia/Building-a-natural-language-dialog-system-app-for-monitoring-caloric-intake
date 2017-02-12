@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:28 EST
+"Nutrient data for: 11414, Potato salad, home-prepared"
+Nutrient,Unit,1Value per 100 g,"1 cup = 250.0g",
+Proximates
+"Water",g,76.00,190.00
+"Energy",kcal,143,358
+"Protein",g,2.68,6.70
+"Total lipid (fat)",g,8.20,20.50
+"Carbohydrate, by difference",g,11.17,27.93
+"Fiber, total dietary",g,1.3,3.2
+Minerals
+"Calcium, Ca",mg,19,48
+"Iron, Fe",mg,0.65,1.62
+"Magnesium, Mg",mg,15,38
+"Phosphorus, P",mg,52,130
+"Potassium, K",mg,254,635
+"Sodium, Na",mg,529,1322
+"Zinc, Zn",mg,0.31,0.78
+Vitamins
+"Vitamin C, total ascorbic acid",mg,10.0,25.0
+"Thiamin",mg,0.077,0.193
+"Riboflavin",mg,0.060,0.150
+"Niacin",mg,0.890,2.225
+"Vitamin B-6",mg,0.141,0.352
+"Folate, DFE",µg,7,18
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,32,80
+"Vitamin A, IU",IU,157,392
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.429,3.572
+"Fatty acids, total monounsaturated",g,2.480,6.200
+"Fatty acids, total polyunsaturated",g,3.737,9.342
+"Cholesterol",mg,68,170
+Amino Acids
+Other
+Footnotes
+(a)"Recipe:  Potatoes, 62%; egg, 12%; mayonnaise, 8%; celery, 7%; sweet pickle relish, 6%; onion, 2%; green pepper, 1%; pimiento, 1%; salt, 1%; and dry mustard."

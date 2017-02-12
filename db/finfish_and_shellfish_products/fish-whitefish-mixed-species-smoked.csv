@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:06 EST
+"Nutrient data for: 15131, Fish, whitefish, mixed species, smoked"
+Nutrient,Unit,1Value per 100 g,"1 cup, cooked = 136.0g","1 oz, boneless = 28.35g","1 cubic inch, boneless = 17.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,70.83,96.33,20.08,12.04,60.21
+"Energy",kcal,108,147,31,18,92
+"Protein",g,23.40,31.82,6.63,3.98,19.89
+"Total lipid (fat)",g,0.93,1.26,0.26,0.16,0.79
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,18,24,5,3,15
+"Iron, Fe",mg,0.50,0.68,0.14,0.09,0.42
+"Magnesium, Mg",mg,23,31,7,4,20
+"Phosphorus, P",mg,132,180,37,22,112
+"Potassium, K",mg,423,575,120,72,360
+"Sodium, Na",mg,1019,1386,289,173,866
+"Zinc, Zn",mg,0.49,0.67,0.14,0.08,0.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.032,0.044,0.009,0.005,0.027
+"Riboflavin",mg,0.101,0.137,0.029,0.017,0.086
+"Niacin",mg,2.400,3.264,0.680,0.408,2.040
+"Vitamin B-6",mg,0.389,0.529,0.110,0.066,0.331
+"Folate, DFE",µg,7,10,2,1,6
+"Vitamin B-12",µg,3.26,4.43,0.92,0.55,2.77
+"Vitamin A, RAE",µg,57,78,16,10,48
+"Vitamin A, IU",IU,190,258,54,32,162
+"Vitamin E (alpha-tocopherol)",mg,0.21,0.29,0.06,0.04,0.18
+"Vitamin D (D2 + D3)",µg,12.8,17.4,3.6,2.2,10.9
+"Vitamin D",IU,512,696,145,87,435
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.0,0.0,0.1
+Lipids
+"Fatty acids, total saturated",g,0.228,0.310,0.065,0.039,0.194
+"Fatty acids, total monounsaturated",g,0.278,0.378,0.079,0.047,0.236
+"Fatty acids, total polyunsaturated",g,0.293,0.398,0.083,0.050,0.249
+"Cholesterol",mg,33,45,9,6,28
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

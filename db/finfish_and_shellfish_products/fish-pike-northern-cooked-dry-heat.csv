@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:00 EST
+"Nutrient data for: 15063, Fish, pike, northern, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","0.5 fillet = 155.0g",
+Proximates
+"Water",g,72.97,62.02,113.10
+"Energy",kcal,113,96,175
+"Protein",g,24.69,20.99,38.27
+"Total lipid (fat)",g,0.88,0.75,1.36
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,73,62,113
+"Iron, Fe",mg,0.71,0.60,1.10
+"Magnesium, Mg",mg,40,34,62
+"Phosphorus, P",mg,282,240,437
+"Potassium, K",mg,331,281,513
+"Sodium, Na",mg,49,42,76
+"Zinc, Zn",mg,0.86,0.73,1.33
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.8,3.2,5.9
+"Thiamin",mg,0.067,0.057,0.104
+"Riboflavin",mg,0.077,0.065,0.119
+"Niacin",mg,2.800,2.380,4.340
+"Vitamin B-6",mg,0.135,0.115,0.209
+"Folate, DFE",µg,17,14,26
+"Vitamin B-12",µg,2.30,1.95,3.56
+"Vitamin A, RAE",µg,24,20,37
+"Vitamin A, IU",IU,81,69,126
+Lipids
+"Fatty acids, total saturated",g,0.151,0.128,0.234
+"Fatty acids, total monounsaturated",g,0.201,0.171,0.312
+"Fatty acids, total polyunsaturated",g,0.259,0.220,0.401
+"Cholesterol",mg,50,42,78
+Amino Acids
+Other

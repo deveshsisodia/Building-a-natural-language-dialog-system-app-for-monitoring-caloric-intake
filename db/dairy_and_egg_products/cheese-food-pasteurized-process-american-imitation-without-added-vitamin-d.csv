@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:05 EST
+"Nutrient data for: 44048, Cheese food, pasteurized process, American, imitation, without added vitamin D"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,55.50,15.73
+"Energy",kcal,257,73
+"Protein",g,4.08,1.16
+"Total lipid (fat)",g,19.50,5.53
+"Carbohydrate, by difference",g,16.18,4.59
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,8.21,2.33
+Minerals
+"Calcium, Ca",mg,649,184
+"Iron, Fe",mg,0.68,0.19
+"Magnesium, Mg",mg,10,3
+"Phosphorus, P",mg,596,169
+"Potassium, K",mg,126,36
+"Sodium, Na",mg,1297,368
+"Zinc, Zn",mg,0.21,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.000,0.000
+"Riboflavin",mg,0.090,0.026
+"Niacin",mg,0.060,0.017
+"Vitamin B-6",mg,0.027,0.008
+"Folate, DFE",µg,8,2
+"Vitamin B-12",µg,0.71,0.20
+"Vitamin A, RAE",µg,45,13
+"Vitamin A, IU",IU,900,255
+"Vitamin E (alpha-tocopherol)",mg,2.15,0.61
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,36.7,10.4
+Lipids
+"Fatty acids, total saturated",g,7.996,2.267
+"Fatty acids, total monounsaturated",g,3.108,0.881
+"Fatty acids, total polyunsaturated",g,7.536,2.136
+"Fatty acids, total trans",g,0.131,0.037
+"Cholesterol",mg,6,2
+Amino Acids
+Other
+"Caffeine",mg,0,0

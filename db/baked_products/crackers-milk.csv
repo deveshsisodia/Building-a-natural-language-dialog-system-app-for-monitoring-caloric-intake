@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:36 EST
+"Nutrient data for: 18223, Crackers, milk"
+Nutrient,Unit,1Value per 100 g,"0.5 oz = 14.2g","1 cracker = 11.0g",
+Proximates
+"Water",g,4.70,0.67,0.52
+"Energy",kcal,446,63,49
+"Protein",g,7.60,1.08,0.84
+"Total lipid (fat)",g,13.77,1.96,1.51
+"Carbohydrate, by difference",g,71.73,10.19,7.89
+"Fiber, total dietary",g,3.4,0.5,0.4
+"Sugars, total",g,10.32,1.47,1.14
+Minerals
+"Calcium, Ca",mg,172,24,19
+"Iron, Fe",mg,3.58,0.51,0.39
+"Magnesium, Mg",mg,22,3,2
+"Phosphorus, P",mg,303,43,33
+"Potassium, K",mg,114,16,13
+"Sodium, Na",mg,687,98,76
+"Zinc, Zn",mg,0.67,0.10,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.0,0.0
+"Thiamin",mg,0.538,0.076,0.059
+"Riboflavin",mg,0.418,0.059,0.046
+"Niacin",mg,4.430,0.629,0.487
+"Vitamin B-6",mg,0.037,0.005,0.004
+"Folate, DFE",µg,139,20,15
+"Vitamin B-12",µg,0.08,0.01,0.01
+"Vitamin A, RAE",µg,16,2,2
+"Vitamin A, IU",IU,58,8,6
+"Vitamin E (alpha-tocopherol)",mg,1.22,0.17,0.13
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,3.8,0.5,0.4
+Lipids
+"Fatty acids, total saturated",g,2.912,0.414,0.320
+"Fatty acids, total monounsaturated",g,5.485,0.779,0.603
+"Fatty acids, total polyunsaturated",g,4.867,0.691,0.535
+"Cholesterol",mg,11,2,1
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:56 EST
+"Nutrient data for: 15012, Fish, caviar, black and red, granular"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 16.0g","1 oz = 28.35g",
+Proximates
+"Water",g,47.50,7.60,13.47
+"Energy",kcal,264,42,75
+"Protein",g,24.60,3.94,6.97
+"Total lipid (fat)",g,17.90,2.86,5.07
+"Carbohydrate, by difference",g,4.00,0.64,1.13
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,275,44,78
+"Iron, Fe",mg,11.88,1.90,3.37
+"Magnesium, Mg",mg,300,48,85
+"Phosphorus, P",mg,356,57,101
+"Potassium, K",mg,181,29,51
+"Sodium, Na",mg,1500,240,425
+"Zinc, Zn",mg,0.95,0.15,0.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.190,0.030,0.054
+"Riboflavin",mg,0.620,0.099,0.176
+"Niacin",mg,0.120,0.019,0.034
+"Vitamin B-6",mg,0.320,0.051,0.091
+"Folate, DFE",µg,50,8,14
+"Vitamin B-12",µg,20.00,3.20,5.67
+"Vitamin A, RAE",µg,271,43,77
+"Vitamin A, IU",IU,905,145,257
+"Vitamin E (alpha-tocopherol)",mg,1.89,0.30,0.54
+"Vitamin D (D2 + D3)",µg,2.9,0.5,0.8
+"Vitamin D",IU,117,19,33
+"Vitamin K (phylloquinone)",µg,0.6,0.1,0.2
+Lipids
+"Fatty acids, total saturated",g,4.060,0.650,1.151
+"Fatty acids, total monounsaturated",g,4.631,0.741,1.313
+"Fatty acids, total polyunsaturated",g,7.405,1.185,2.099
+"Cholesterol",mg,588,94,167
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

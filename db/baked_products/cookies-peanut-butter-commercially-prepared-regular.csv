@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:34 EST
+"Nutrient data for: 18185, Cookies, peanut butter, commercially prepared, regular"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cookie = 31.0g",
+Proximates
+"Water",g,7.28,2.06,2.26
+"Energy",kcal,473,134,147
+"Protein",g,8.92,2.53,2.77
+"Total lipid (fat)",g,23.82,6.75,7.38
+"Carbohydrate, by difference",g,58.15,16.49,18.03
+"Fiber, total dietary",g,2.1,0.6,0.7
+"Sugars, total",g,28.58,8.10,8.86
+Minerals
+"Calcium, Ca",mg,41,12,13
+"Iron, Fe",mg,2.11,0.60,0.65
+"Magnesium, Mg",mg,44,12,14
+"Phosphorus, P",mg,156,44,48
+"Potassium, K",mg,202,57,63
+"Sodium, Na",mg,463,131,144
+"Zinc, Zn",mg,0.86,0.24,0.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.208,0.059,0.064
+"Riboflavin",mg,0.208,0.059,0.064
+"Niacin",mg,3.860,1.094,1.197
+"Vitamin B-6",mg,0.122,0.035,0.038
+"Folate, DFE",µg,78,22,24
+"Vitamin B-12",µg,0.04,0.01,0.01
+"Vitamin A, RAE",µg,9,3,3
+"Vitamin A, IU",IU,32,9,10
+"Vitamin E (alpha-tocopherol)",mg,3.53,1.00,1.09
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,4.4,1.2,1.4
+Lipids
+"Fatty acids, total saturated",g,6.751,1.914,2.093
+"Fatty acids, total monounsaturated",g,10.800,3.062,3.348
+"Fatty acids, total polyunsaturated",g,3.610,1.023,1.119
+"Fatty acids, total trans",g,1.250,0.354,0.388
+"Cholesterol",mg,27,8,8
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

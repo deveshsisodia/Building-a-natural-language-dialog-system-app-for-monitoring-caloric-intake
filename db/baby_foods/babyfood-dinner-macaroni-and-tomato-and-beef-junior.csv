@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:43 EST
+"Nutrient data for: 03045, Babyfood, dinner, macaroni and tomato and beef, junior"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 16.0g","1 oz = 28.35g","1 jar = 170.0g","1 jar Beech-Nut Stage 3 (6 oz) = 170.0g","1 jar Gerber Third Foods (6 oz) = 170.0g",
+Proximates
+"Water",g,86.70,13.87,24.58,147.39,147.39,147.39
+"Energy",kcal,59,9,17,100,100,100
+"Protein",g,2.50,0.40,0.71,4.25,4.25,4.25
+"Total lipid (fat)",g,1.10,0.18,0.31,1.87,1.87,1.87
+"Carbohydrate, by difference",g,9.40,1.50,2.66,15.98,15.98,15.98
+"Fiber, total dietary",g,1.1,0.2,0.3,1.9,1.9,1.9
+"Sugars, total",g,2.43,0.39,0.69,4.13,4.13,4.13
+Minerals
+"Calcium, Ca",mg,14,2,4,24,24,24
+"Iron, Fe",mg,0.36,0.06,0.10,0.61,0.61,0.61
+"Magnesium, Mg",mg,7,1,2,12,12,12
+"Phosphorus, P",mg,44,7,12,75,75,75
+"Potassium, K",mg,72,12,20,122,122,122
+"Sodium, Na",mg,35,6,10,60,60,60
+"Zinc, Zn",mg,0.36,0.06,0.10,0.61,0.61,0.61
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.5,0.2,0.4,2.5,2.5,2.5
+"Thiamin",mg,0.048,0.008,0.014,0.082,0.082,0.082
+"Riboflavin",mg,0.055,0.009,0.016,0.093,0.093,0.093
+"Niacin",mg,0.751,0.120,0.213,1.277,1.277,1.277
+"Vitamin B-6",mg,0.047,0.008,0.013,0.080,0.080,0.080
+"Folate, DFE",µg,11,2,3,19,19,19
+"Vitamin B-12",µg,0.24,0.04,0.07,0.41,0.41,0.41
+"Vitamin A, RAE",µg,35,6,10,60,60,60
+"Vitamin A, IU",IU,691,111,196,1175,1175,1175
+"Vitamin E (alpha-tocopherol)",mg,0.81,0.13,0.23,1.38,1.38,1.38
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,1,0,0,2,2,2
+"Vitamin K (phylloquinone)",µg,6.7,1.1,1.9,11.4,11.4,11.4
+Lipids
+"Fatty acids, total saturated",g,0.411,0.066,0.117,0.699,0.699,0.699
+"Fatty acids, total monounsaturated",g,0.447,0.072,0.127,0.760,0.760,0.760
+"Fatty acids, total polyunsaturated",g,0.079,0.013,0.022,0.134,0.134,0.134
+"Cholesterol",mg,4,1,1,7,7,7
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

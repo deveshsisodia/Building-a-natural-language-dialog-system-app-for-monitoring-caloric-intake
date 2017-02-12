@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:40 EST
+"Nutrient data for: 10927, Pork, cured, ham with natural juices, spiral slice, boneless, separable lean and fat, heated, roasted"
+Nutrient,Unit,1Value per 100 g,"1 slice = 145.0g","1 roast = 920.0g","1 serving (3 oz) = 85.0g",
+Proximates
+"Water",g,68.53,99.37,630.48,58.25
+"Energy",kcal,139,202,1279,118
+"Protein",g,22.18,32.16,204.06,18.85
+"Total lipid (fat)",g,5.10,7.39,46.92,4.33
+"Carbohydrate, by difference",g,1.06,1.54,9.75,0.90
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,1.06,1.54,9.75,0.90
+Minerals
+"Calcium, Ca",mg,4,6,37,3
+"Iron, Fe",mg,0.83,1.20,7.64,0.71
+"Magnesium, Mg",mg,22,32,202,19
+"Phosphorus, P",mg,308,447,2834,262
+"Potassium, K",mg,345,500,3174,293
+"Sodium, Na",mg,977,1417,8988,830
+"Zinc, Zn",mg,1.80,2.61,16.56,1.53
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.463,0.671,4.260,0.394
+"Riboflavin",mg,0.226,0.328,2.079,0.192
+"Niacin",mg,6.619,9.598,60.895,5.626
+"Vitamin B-6",mg,0.422,0.612,3.882,0.359
+"Folate, DFE",µg,1,1,9,1
+"Vitamin B-12",µg,0.50,0.72,4.60,0.42
+"Vitamin A, RAE",µg,13,19,120,11
+"Vitamin A, IU",IU,43,62,396,37
+"Vitamin E (alpha-tocopherol)",mg,0.19,0.28,1.75,0.16
+"Vitamin D (D2 + D3)",µg,0.8,1.2,7.4,0.7
+"Vitamin D",IU,33,48,304,28
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.950,1.377,8.740,0.807
+"Fatty acids, total monounsaturated",g,1.925,2.791,17.710,1.636
+"Fatty acids, total polyunsaturated",g,0.625,0.906,5.750,0.531
+"Fatty acids, total trans",g,0.010,0.014,0.092,0.009
+"Cholesterol",mg,64,93,589,54
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

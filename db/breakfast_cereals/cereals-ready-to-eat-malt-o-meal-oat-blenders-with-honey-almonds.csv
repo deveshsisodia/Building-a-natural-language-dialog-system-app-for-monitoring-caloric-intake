@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:02 EST
+"Nutrient data for: 08675, Cereals ready-to-eat, MALT-O-MEAL, OAT BLENDERS with honey & almonds"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,3.10,0.93
+"Energy",kcal,379,114
+"Protein",g,7.80,2.34
+"Total lipid (fat)",g,4.88,1.46
+"Carbohydrate, by difference",g,77.26,23.18
+"Fiber, total dietary",g,6.1,1.8
+"Sugars, total",g,20.26,6.08
+Minerals
+"Calcium, Ca",mg,33,10
+"Iron, Fe",mg,41.38,12.41
+"Magnesium, Mg",mg,61,18
+"Phosphorus, P",mg,204,61
+"Potassium, K",mg,240,72
+"Sodium, Na",mg,453,136
+"Zinc, Zn",mg,17.87,5.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,29.6,8.9
+"Thiamin",mg,2.090,0.627
+"Riboflavin",mg,1.990,0.597
+"Niacin",mg,23.510,7.053
+"Vitamin B-6",mg,2.690,0.807
+"Folate, DFE",µg,1121,336
+"Vitamin B-12",µg,7.55,2.27
+"Vitamin A, IU",IU,1876,563
+"Vitamin E (alpha-tocopherol)",mg,1.37,0.41
+"Vitamin D (D2 + D3)",µg,3.6,1.1
+"Vitamin D",IU,144,43
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.620,0.186
+"Fatty acids, total monounsaturated",g,2.250,0.675
+"Fatty acids, total polyunsaturated",g,1.350,0.405
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

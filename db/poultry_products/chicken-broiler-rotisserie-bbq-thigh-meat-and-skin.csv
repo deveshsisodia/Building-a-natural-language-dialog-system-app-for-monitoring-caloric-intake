@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:22 EST
+"Nutrient data for: 05361, Chicken, broiler, rotisserie, BBQ, thigh meat and skin"
+Nutrient,Unit,1Value per 100 g,"1 thigh = 95.0g",
+Proximates
+"Water",g,61.41,58.34
+"Energy",kcal,226,215
+"Protein",g,22.51,21.38
+"Total lipid (fat)",g,15.08,14.33
+"Carbohydrate, by difference",g,0.12,0.11
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.12,0.11
+Minerals
+"Calcium, Ca",mg,16,15
+"Iron, Fe",mg,0.95,0.90
+"Magnesium, Mg",mg,21,20
+"Phosphorus, P",mg,218,207
+"Potassium, K",mg,255,242
+"Sodium, Na",mg,335,318
+"Zinc, Zn",mg,1.78,1.69
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.055,0.052
+"Riboflavin",mg,0.227,0.216
+"Niacin",mg,5.732,5.445
+"Vitamin B-6",mg,0.191,0.181
+"Folate, DFE",µg,8,8
+"Vitamin B-12",µg,0.47,0.45
+"Vitamin A, RAE",µg,20,19
+"Vitamin A, IU",IU,67,64
+"Vitamin E (alpha-tocopherol)",mg,0.46,0.44
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,3.927,3.731
+"Fatty acids, total monounsaturated",g,6.446,6.124
+"Fatty acids, total polyunsaturated",g,2.038,1.936
+"Fatty acids, total trans",g,0.078,0.074
+"Cholesterol",mg,127,121
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:26 EST
+"Nutrient data for: 11944, Pickle relish, hot dog"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","0.5 cup = 122.0g",
+Proximates
+"Water",g,71.65,10.75,87.41
+"Energy",kcal,91,14,111
+"Protein",g,1.50,0.23,1.83
+"Total lipid (fat)",g,0.46,0.07,0.56
+"Carbohydrate, by difference",g,23.35,3.50,28.49
+"Fiber, total dietary",g,1.5,0.2,1.8
+Minerals
+"Calcium, Ca",mg,5,1,6
+"Iron, Fe",mg,1.25,0.19,1.52
+"Magnesium, Mg",mg,19,3,23
+"Phosphorus, P",mg,40,6,49
+"Potassium, K",mg,78,12,95
+"Sodium, Na",mg,1091,164,1331
+"Zinc, Zn",mg,0.21,0.03,0.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.1,1.2
+"Thiamin",mg,0.040,0.006,0.049
+"Riboflavin",mg,0.040,0.006,0.049
+"Niacin",mg,0.500,0.075,0.610
+"Vitamin B-6",mg,0.015,0.002,0.018
+"Folate, DFE",µg,1,0,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,8,1,10
+"Vitamin A, IU",IU,167,25,204
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.044,0.007,0.054
+"Fatty acids, total monounsaturated",g,0.227,0.034,0.277
+"Fatty acids, total polyunsaturated",g,0.110,0.017,0.134
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

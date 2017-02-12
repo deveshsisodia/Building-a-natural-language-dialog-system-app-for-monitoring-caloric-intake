@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:08 EST
+"Nutrient data for: 12142, Nuts, pecans"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 109.0g","1 cup, halves = 99.0g","1 oz (19 halves) = 28.35g",
+Proximates
+"Water",g,3.52,3.84,3.48,1.00
+"Energy",kcal,691,753,684,196
+"Protein",g,9.17,10.00,9.08,2.60
+"Total lipid (fat)",g,71.97,78.45,71.25,20.40
+"Carbohydrate, by difference",g,13.86,15.11,13.72,3.93
+"Fiber, total dietary",g,9.6,10.5,9.5,2.7
+"Sugars, total",g,3.97,4.33,3.93,1.13
+Minerals
+"Calcium, Ca",mg,70,76,69,20
+"Iron, Fe",mg,2.53,2.76,2.50,0.72
+"Magnesium, Mg",mg,121,132,120,34
+"Phosphorus, P",mg,277,302,274,79
+"Potassium, K",mg,410,447,406,116
+"Sodium, Na",mg,0,0,0,0
+"Zinc, Zn",mg,4.53,4.94,4.48,1.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,1.2,1.1,0.3
+"Thiamin",mg,0.660,0.719,0.653,0.187
+"Riboflavin",mg,0.130,0.142,0.129,0.037
+"Niacin",mg,1.167,1.272,1.155,0.331
+"Vitamin B-6",mg,0.210,0.229,0.208,0.060
+"Folate, DFE",µg,22,24,22,6
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,3,3,3,1
+"Vitamin A, IU",IU,56,61,55,16
+"Vitamin E (alpha-tocopherol)",mg,1.40,1.53,1.39,0.40
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,3.5,3.8,3.5,1.0
+Lipids
+"Fatty acids, total saturated",g,6.180,6.736,6.118,1.752
+"Fatty acids, total monounsaturated",g,40.801,44.473,40.393,11.567
+"Fatty acids, total polyunsaturated",g,21.614,23.559,21.398,6.128
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0
+Footnotes
+(b)"Other phytosterols = 32.8 mg/100g; these include delta 5-avenasterol (14.3), campestanol (2.8), brassicasterol (0.5), and other minor phytosterols (15.1 mg)."
+(a)"Unroasted"

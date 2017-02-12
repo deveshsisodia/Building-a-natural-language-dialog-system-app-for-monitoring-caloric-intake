@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:35 EST
+"Nutrient data for: 18400, Crackers, matzo, egg and onion"
+Nutrient,Unit,1Value per 100 g,"0.5 oz = 14.2g","1 matzo = 28.0g",
+Proximates
+"Water",g,7.20,1.02,2.02
+"Energy",kcal,391,56,109
+"Protein",g,10.00,1.42,2.80
+"Total lipid (fat)",g,3.90,0.55,1.09
+"Carbohydrate, by difference",g,77.10,10.95,21.59
+"Fiber, total dietary",g,5.0,0.7,1.4
+Minerals
+"Calcium, Ca",mg,36,5,10
+"Iron, Fe",mg,4.37,0.62,1.22
+"Magnesium, Mg",mg,30,4,8
+"Phosphorus, P",mg,89,13,25
+"Potassium, K",mg,83,12,23
+"Sodium, Na",mg,285,40,80
+"Zinc, Zn",mg,0.73,0.10,0.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.0,0.1
+"Thiamin",mg,0.558,0.079,0.156
+"Riboflavin",mg,0.437,0.062,0.122
+"Niacin",mg,4.891,0.695,1.369
+"Vitamin B-6",mg,0.111,0.016,0.031
+"Folate, DFE",µg,262,37,73
+"Vitamin B-12",µg,0.22,0.03,0.06
+"Vitamin A, RAE",µg,7,1,2
+"Vitamin A, IU",IU,24,3,7
+Lipids
+"Fatty acids, total saturated",g,0.936,0.133,0.262
+"Fatty acids, total monounsaturated",g,0.987,0.140,0.276
+"Fatty acids, total polyunsaturated",g,1.001,0.142,0.280
+"Cholesterol",mg,45,6,13
+Amino Acids
+Other

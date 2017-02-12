@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:16 EST
+"Nutrient data for: 11730, Beans, snap, yellow, frozen, all styles, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 cup = 121.0g","1 package (10 oz) = 284.0g",
+Proximates
+"Water",g,89.88,108.75,255.26
+"Energy",kcal,33,40,94
+"Protein",g,1.80,2.18,5.11
+"Total lipid (fat)",g,0.21,0.25,0.60
+"Carbohydrate, by difference",g,7.58,9.17,21.53
+"Fiber, total dietary",g,2.8,3.4,8.0
+"Sugars, total",g,2.22,2.69,6.30
+Minerals
+"Calcium, Ca",mg,42,51,119
+"Iron, Fe",mg,0.86,1.04,2.44
+"Magnesium, Mg",mg,22,27,62
+"Phosphorus, P",mg,32,39,91
+"Potassium, K",mg,186,225,528
+"Sodium, Na",mg,3,4,9
+"Zinc, Zn",mg,0.26,0.31,0.74
+Vitamins
+"Vitamin C, total ascorbic acid",mg,12.9,15.6,36.6
+"Thiamin",mg,0.099,0.120,0.281
+"Riboflavin",mg,0.092,0.111,0.261
+"Niacin",mg,0.499,0.604,1.417
+"Vitamin B-6",mg,0.042,0.051,0.119
+"Folate, DFE",µg,15,18,43
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,7,8,20
+"Vitamin A, IU",IU,132,160,375
+"Vitamin E (alpha-tocopherol)",mg,0.05,0.06,0.14
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,45.0,54.5,127.8
+Lipids
+"Fatty acids, total saturated",g,0.047,0.057,0.133
+"Fatty acids, total monounsaturated",g,0.008,0.010,0.023
+"Fatty acids, total polyunsaturated",g,0.108,0.131,0.307
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

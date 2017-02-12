@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:12 EST
+"Nutrient data for: 07001, Barbecue loaf, pork, beef"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice (5-7/8"" x 3-1/2"" x 1/16"") = 23.0g",
+Proximates
+"Water",g,64.82,18.38,14.91
+"Energy",kcal,173,49,40
+"Protein",g,15.84,4.49,3.64
+"Total lipid (fat)",g,8.90,2.52,2.05
+"Carbohydrate, by difference",g,6.40,1.81,1.47
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,55,16,13
+"Iron, Fe",mg,1.16,0.33,0.27
+"Magnesium, Mg",mg,17,5,4
+"Phosphorus, P",mg,132,37,30
+"Potassium, K",mg,329,93,76
+"Sodium, Na",mg,1334,378,307
+"Zinc, Zn",mg,2.46,0.70,0.57
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.360,0.102,0.083
+"Riboflavin",mg,0.248,0.070,0.057
+"Niacin",mg,2.266,0.642,0.521
+"Vitamin B-6",mg,0.260,0.074,0.060
+"Folate, DFE",µg,9,3,2
+"Vitamin B-12",µg,1.68,0.48,0.39
+"Vitamin A, RAE",µg,3,1,1
+"Vitamin A, IU",IU,68,19,16
+"Vitamin D (D2 + D3)",µg,0.9,0.3,0.2
+"Vitamin D",IU,36,10,8
+Lipids
+"Fatty acids, total saturated",g,3.170,0.899,0.729
+"Fatty acids, total monounsaturated",g,4.140,1.174,0.952
+"Fatty acids, total polyunsaturated",g,0.810,0.230,0.186
+"Cholesterol",mg,37,10,9
+Amino Acids
+Other

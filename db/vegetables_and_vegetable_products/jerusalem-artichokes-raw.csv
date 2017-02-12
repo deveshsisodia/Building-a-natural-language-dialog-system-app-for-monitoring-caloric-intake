@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:22 EST
+"Nutrient data for: 11226, Jerusalem-artichokes, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup slices = 150.0g",
+Proximates
+"Water",g,78.01,117.02
+"Energy",kcal,73,110
+"Protein",g,2.00,3.00
+"Total lipid (fat)",g,0.01,0.01
+"Carbohydrate, by difference",g,17.44,26.16
+"Fiber, total dietary",g,1.6,2.4
+"Sugars, total",g,9.60,14.40
+Minerals
+"Calcium, Ca",mg,14,21
+"Iron, Fe",mg,3.40,5.10
+"Magnesium, Mg",mg,17,26
+"Phosphorus, P",mg,78,117
+"Potassium, K",mg,429,644
+"Sodium, Na",mg,4,6
+"Zinc, Zn",mg,0.12,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.0,6.0
+"Thiamin",mg,0.200,0.300
+"Riboflavin",mg,0.060,0.090
+"Niacin",mg,1.300,1.950
+"Vitamin B-6",mg,0.077,0.116
+"Folate, DFE",µg,13,20
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1,2
+"Vitamin A, IU",IU,20,30
+"Vitamin E (alpha-tocopherol)",mg,0.19,0.28
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.004,0.006
+"Fatty acids, total polyunsaturated",g,0.001,0.002
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

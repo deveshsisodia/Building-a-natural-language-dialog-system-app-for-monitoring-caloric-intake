@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:17 EST
+"Nutrient data for: 04611, Margarine, regular, 80% fat, composite, tub, with salt"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 14.2g","1 cup = 227.0g",
+Proximates
+"Water",g,17.07,2.42,38.75
+"Energy",kcal,713,101,1619
+"Protein",g,0.22,0.03,0.50
+"Total lipid (fat)",g,80.17,11.38,181.99
+"Carbohydrate, by difference",g,0.75,0.11,1.70
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,3,0,7
+"Iron, Fe",mg,0.00,0.00,0.00
+"Magnesium, Mg",mg,1,0,2
+"Phosphorus, P",mg,5,1,11
+"Potassium, K",mg,17,2,39
+"Sodium, Na",mg,657,93,1491
+"Zinc, Zn",mg,0.00,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0,0.2
+"Thiamin",mg,0.000,0.000,0.000
+"Riboflavin",mg,0.000,0.000,0.000
+"Niacin",mg,0.000,0.000,0.000
+"Vitamin B-6",mg,0.000,0.000,0.000
+"Folate, DFE",µg,1,0,2
+"Vitamin B-12",µg,0.08,0.01,0.18
+"Vitamin A, RAE",µg,819,116,1859
+"Vitamin A, IU",IU,3571,507,8106
+"Vitamin E (alpha-tocopherol)",mg,15.43,2.19,35.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,91.7,13.0,208.2
+Lipids
+"Fatty acids, total saturated",g,14.224,2.020,32.288
+"Fatty acids, total monounsaturated",g,36.435,5.174,82.707
+"Fatty acids, total polyunsaturated",g,26.741,3.797,60.702
+"Fatty acids, total trans",g,5.827,0.827,13.227
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

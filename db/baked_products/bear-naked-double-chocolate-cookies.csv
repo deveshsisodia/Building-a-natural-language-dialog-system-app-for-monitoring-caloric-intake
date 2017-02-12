@@ -1,0 +1,34 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:29 EST
+"Nutrient data for: 18993, BEAR NAKED, Double Chocolate Cookies"
+Nutrient,Unit,1Value per 100 g,"1 cookie = 30.0g",
+Proximates
+"Water",g,7.50,2.25
+"Energy",kcal,423,127
+"Protein",g,6.60,1.98
+"Total lipid (fat)",g,16.90,5.07
+"Carbohydrate, by difference",g,66.90,20.07
+"Fiber, total dietary",g,7.0,2.1
+"Sugars, total",g,35.20,10.56
+Minerals
+"Iron, Fe",mg,3.70,1.11
+"Magnesium, Mg",mg,54,16
+"Phosphorus, P",mg,88,26
+"Potassium, K",mg,471,141
+"Sodium, Na",mg,200,60
+"Zinc, Zn",mg,0.80,0.24
+Vitamins
+"Thiamin",mg,0.070,0.021
+"Riboflavin",mg,0.040,0.012
+"Niacin",mg,0.300,0.090
+"Vitamin D (D2 + D3)",µg,0.2,0.1
+"Vitamin D",IU,8,2
+Lipids
+"Fatty acids, total saturated",g,4.100,1.230
+"Fatty acids, total monounsaturated",g,8.400,2.520
+"Fatty acids, total polyunsaturated",g,4.200,1.260
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

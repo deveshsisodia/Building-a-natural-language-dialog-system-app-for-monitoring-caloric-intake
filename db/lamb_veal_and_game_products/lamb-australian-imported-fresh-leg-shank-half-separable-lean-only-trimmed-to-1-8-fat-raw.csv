@@ -1,0 +1,32 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:54 EST
+"Nutrient data for: 17296, Lamb, Australian, imported, fresh, leg, shank half, separable lean only, trimmed to 1/8"" fat, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g","3.0 oz = 85.0g",
+Proximates
+"Water",g,74.08,21.00,336.03,62.97
+"Energy",kcal,133,38,603,113
+"Protein",g,20.45,5.80,92.76,17.38
+"Total lipid (fat)",g,5.10,1.45,23.13,4.33
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,7,2,32,6
+"Iron, Fe",mg,1.61,0.46,7.30,1.37
+"Magnesium, Mg",mg,22,6,100,19
+"Phosphorus, P",mg,191,54,866,162
+"Potassium, K",mg,329,93,1492,280
+"Sodium, Na",mg,81,23,367,69
+"Zinc, Zn",mg,4.50,1.28,20.41,3.83
+Vitamins
+"Thiamin",mg,0.155,0.044,0.703,0.132
+"Riboflavin",mg,0.320,0.091,1.452,0.272
+"Niacin",mg,5.560,1.576,25.220,4.726
+"Vitamin B-6",mg,0.406,0.115,1.842,0.345
+"Vitamin B-12",µg,3.01,0.85,13.65,2.56
+Lipids
+"Fatty acids, total saturated",g,2.008,0.569,9.108,1.707
+"Fatty acids, total monounsaturated",g,2.157,0.612,9.784,1.833
+"Fatty acids, total polyunsaturated",g,0.246,0.070,1.116,0.209
+"Cholesterol",mg,64,18,290,54
+Amino Acids
+Other

@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:00 EST
+"Nutrient data for: 16096, Peanuts, virginia, oil-roasted, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 143.0g","1 oz = 28.35g",
+Proximates
+"Water",g,2.17,3.10,0.62
+"Energy",kcal,578,827,164
+"Protein",g,25.87,36.99,7.33
+"Total lipid (fat)",g,48.62,69.53,13.78
+"Carbohydrate, by difference",g,19.86,28.40,5.63
+"Fiber, total dietary",g,8.9,12.7,2.5
+Minerals
+"Calcium, Ca",mg,86,123,24
+"Iron, Fe",mg,1.67,2.39,0.47
+"Magnesium, Mg",mg,188,269,53
+"Phosphorus, P",mg,506,724,143
+"Potassium, K",mg,652,932,185
+"Sodium, Na",mg,433,619,123
+"Zinc, Zn",mg,6.62,9.47,1.88
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.276,0.395,0.078
+"Riboflavin",mg,0.112,0.160,0.032
+"Niacin",mg,14.700,21.021,4.167
+"Vitamin B-6",mg,0.254,0.363,0.072
+"Folate, DFE",µg,125,179,35
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,6.345,9.073,1.799
+"Fatty acids, total monounsaturated",g,25.222,36.067,7.150
+"Fatty acids, total polyunsaturated",g,14.669,20.977,4.159
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

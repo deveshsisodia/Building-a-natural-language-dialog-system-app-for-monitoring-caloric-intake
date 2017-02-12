@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:31 EST
+"Nutrient data for: 18064, Bread, wheat"
+Nutrient,Unit,1Value per 100 g,"1 slice = 29.0g",
+Proximates
+"Water",g,35.25,10.22
+"Energy",kcal,274,79
+"Protein",g,10.67,3.09
+"Total lipid (fat)",g,4.53,1.31
+"Carbohydrate, by difference",g,47.54,13.79
+"Fiber, total dietary",g,4.0,1.2
+"Sugars, total",g,5.73,1.66
+Minerals
+"Calcium, Ca",mg,125,36
+"Iron, Fe",mg,3.60,1.04
+"Magnesium, Mg",mg,41,12
+"Phosphorus, P",mg,129,37
+"Potassium, K",mg,141,41
+"Sodium, Na",mg,473,137
+"Zinc, Zn",mg,1.04,0.30
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1
+"Thiamin",mg,0.411,0.119
+"Riboflavin",mg,0.252,0.073
+"Niacin",mg,5.590,1.621
+"Vitamin B-6",mg,0.111,0.032
+"Folate, DFE",µg,99,29
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,2,1
+"Vitamin E (alpha-tocopherol)",mg,0.19,0.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,4.9,1.4
+Lipids
+"Fatty acids, total saturated",g,0.697,0.202
+"Fatty acids, total monounsaturated",g,0.612,0.177
+"Fatty acids, total polyunsaturated",g,1.615,0.468
+"Fatty acids, total trans",g,0.033,0.010
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

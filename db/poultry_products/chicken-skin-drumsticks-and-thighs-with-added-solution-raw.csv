@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:38 EST
+"Nutrient data for: 05685, Chicken, skin (drumsticks and thighs), with added solution, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,50.37,14.28
+"Energy",kcal,386,109
+"Protein",g,11.11,3.15
+"Total lipid (fat)",g,37.90,10.74
+"Carbohydrate, by difference",g,0.01,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,7,2
+"Iron, Fe",mg,0.51,0.14
+"Magnesium, Mg",mg,7,2
+"Phosphorus, P",mg,88,25
+"Potassium, K",mg,101,29
+"Sodium, Na",mg,139,39
+"Zinc, Zn",mg,0.62,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.035,0.010
+"Riboflavin",mg,0.060,0.017
+"Niacin",mg,2.655,0.753
+"Vitamin B-6",mg,0.113,0.032
+"Folate, DFE",µg,2,1
+"Vitamin B-12",µg,0.68,0.19
+"Vitamin A, RAE",µg,56,16
+"Vitamin A, IU",IU,186,53
+"Vitamin E (alpha-tocopherol)",mg,0.44,0.12
+"Vitamin D (D2 + D3)",µg,0.4,0.1
+"Vitamin D",IU,14,4
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,10.565,2.995
+"Fatty acids, total monounsaturated",g,17.099,4.848
+"Fatty acids, total polyunsaturated",g,8.195,2.323
+"Fatty acids, total trans",g,0.231,0.065
+"Cholesterol",mg,113,32
+Amino Acids
+Other
+"Caffeine",mg,0,0

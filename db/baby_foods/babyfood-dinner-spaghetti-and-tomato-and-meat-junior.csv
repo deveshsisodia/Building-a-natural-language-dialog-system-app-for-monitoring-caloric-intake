@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:43 EST
+"Nutrient data for: 03050, Babyfood, dinner, spaghetti and tomato and meat, junior"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 16.0g","1 oz = 28.35g","1 jar = 170.0g","1 jar Beech-Nut Stage 3 (6 oz) = 170.0g","1 jar Gerber Third Foods (6 oz) = 170.0g","1 jar Heinz Junior-3 (6 oz) = 170.0g",
+Proximates
+"Water",g,84.17,13.47,23.86,143.09,143.09,143.09,143.09
+"Energy",kcal,68,11,19,116,116,116,116
+"Protein",g,2.57,0.41,0.73,4.37,4.37,4.37,4.37
+"Total lipid (fat)",g,1.37,0.22,0.39,2.33,2.33,2.33,2.33
+"Carbohydrate, by difference",g,11.42,1.83,3.24,19.41,19.41,19.41,19.41
+"Fiber, total dietary",g,1.1,0.2,0.3,1.9,1.9,1.9,1.9
+"Sugars, total",g,2.72,0.44,0.77,4.62,4.62,4.62,4.62
+Minerals
+"Calcium, Ca",mg,15,2,4,26,26,26,26
+"Iron, Fe",mg,0.53,0.08,0.15,0.90,0.90,0.90,0.90
+"Magnesium, Mg",mg,11,2,3,19,19,19,19
+"Phosphorus, P",mg,35,6,10,60,60,60,60
+"Potassium, K",mg,122,20,35,207,207,207,207
+"Sodium, Na",mg,30,5,9,51,51,51,51
+"Zinc, Zn",mg,0.53,0.08,0.15,0.90,0.90,0.90,0.90
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.0,0.1,0.3,0.3,0.3,0.3
+"Thiamin",mg,0.048,0.008,0.014,0.082,0.082,0.082,0.082
+"Riboflavin",mg,0.068,0.011,0.019,0.116,0.116,0.116,0.116
+"Niacin",mg,0.967,0.155,0.274,1.644,1.644,1.644,1.644
+"Vitamin B-6",mg,0.064,0.010,0.018,0.109,0.109,0.109,0.109
+"Folate, DFE",µg,44,7,12,75,75,75,75
+"Vitamin B-12",µg,0.03,0.00,0.01,0.05,0.05,0.05,0.05
+"Vitamin A, RAE",µg,63,10,18,107,107,107,107
+"Vitamin A, IU",IU,1255,201,356,2134,2134,2134,2134
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.01,0.02,0.12,0.12,0.12,0.12
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,1,0,0,2,2,2,2
+"Vitamin K (phylloquinone)",µg,0.8,0.1,0.2,1.4,1.4,1.4,1.4
+Lipids
+"Fatty acids, total saturated",g,0.543,0.087,0.154,0.923,0.923,0.923,0.923
+"Fatty acids, total monounsaturated",g,0.497,0.080,0.141,0.845,0.845,0.845,0.845
+"Fatty acids, total polyunsaturated",g,0.185,0.030,0.052,0.315,0.315,0.315,0.315
+"Cholesterol",mg,5,1,1,8,8,8,8
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0
+Footnotes
+(a)"Vitamin A values range widely due to differences in cultivar and proportion of carrots."
+(b)"Vitamin A values range widely due to differences in cultivar and proportion of carrots."

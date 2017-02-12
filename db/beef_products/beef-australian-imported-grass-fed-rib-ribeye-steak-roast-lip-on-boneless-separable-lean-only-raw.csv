@@ -1,0 +1,30 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:31 EST
+"Nutrient data for: 23307, Beef, Australian, imported, grass-fed, rib, ribeye steak/roast lip-on, boneless, separable lean only, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 114.0g","1 roast = 350.0g",
+Proximates
+"Water",g,70.09,79.90,245.31
+"Energy",kcal,160,182,560
+"Protein",g,21.47,24.48,75.14
+"Total lipid (fat)",g,8.20,9.35,28.70
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,5,6,18
+"Iron, Fe",mg,1.88,2.14,6.58
+"Sodium, Na",mg,65,74,228
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,3.596,4.099,12.586
+"Fatty acids, total monounsaturated",g,3.522,4.015,12.327
+"Fatty acids, total polyunsaturated",g,0.285,0.325,0.997
+"Fatty acids, total trans",g,0.292,0.333,1.022
+"Cholesterol",mg,50,57,175
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:44 EST
+"Nutrient data for: 03118, Babyfood, fruit, apricot with tapioca, strained"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 oz = 28.35g","1 jar = 113.0g","1 jar Gerber Second Food (4 oz) = 113.0g","1 jar Heinz Strained-2 (4.25 oz) = 120.0g",
+Proximates
+"Water",g,83.10,12.46,23.56,93.90,93.90,99.72
+"Energy",kcal,60,9,17,68,68,72
+"Protein",g,0.30,0.04,0.09,0.34,0.34,0.36
+"Total lipid (fat)",g,0.00,0.00,0.00,0.00,0.00,0.00
+"Carbohydrate, by difference",g,16.30,2.44,4.62,18.42,18.42,19.56
+"Fiber, total dietary",g,1.5,0.2,0.4,1.7,1.7,1.8
+"Sugars, total",g,1.41,0.21,0.40,1.59,1.59,1.69
+Minerals
+"Calcium, Ca",mg,9,1,3,10,10,11
+"Iron, Fe",mg,0.30,0.04,0.09,0.34,0.34,0.36
+"Magnesium, Mg",mg,4,1,1,5,5,5
+"Phosphorus, P",mg,10,2,3,11,11,12
+"Potassium, K",mg,121,18,34,137,137,145
+"Sodium, Na",mg,0,0,0,0,0,0
+"Zinc, Zn",mg,0.05,0.01,0.01,0.06,0.06,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,21.6,3.2,6.1,24.4,24.4,25.9
+"Thiamin",mg,0.008,0.001,0.002,0.009,0.009,0.010
+"Riboflavin",mg,0.013,0.002,0.004,0.015,0.015,0.016
+"Niacin",mg,0.195,0.029,0.055,0.220,0.220,0.234
+"Vitamin B-6",mg,0.030,0.004,0.009,0.034,0.034,0.036
+"Folate, DFE",µg,2,0,1,2,2,2
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,36,5,10,41,41,43
+"Vitamin A, IU",IU,725,109,206,819,819,870
+"Vitamin E (alpha-tocopherol)",mg,0.10,0.01,0.03,0.11,0.11,0.12
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.4,0.1,0.1,0.5,0.5,0.5
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

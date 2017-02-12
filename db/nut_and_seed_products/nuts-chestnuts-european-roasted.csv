@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:07 EST
+"Nutrient data for: 12167, Nuts, chestnuts, european, roasted"
+Nutrient,Unit,1Value per 100 g,"1 cup = 143.0g","1 oz = 28.35g","10.0 kernels = 84.0g",
+Proximates
+"Water",g,40.48,57.89,11.48,34.00
+"Energy",kcal,245,350,69,206
+"Protein",g,3.17,4.53,0.90,2.66
+"Total lipid (fat)",g,2.20,3.15,0.62,1.85
+"Carbohydrate, by difference",g,52.96,75.73,15.01,44.49
+"Fiber, total dietary",g,5.1,7.3,1.4,4.3
+"Sugars, total",g,10.60,15.16,3.01,8.90
+Minerals
+"Calcium, Ca",mg,29,41,8,24
+"Iron, Fe",mg,0.91,1.30,0.26,0.76
+"Magnesium, Mg",mg,33,47,9,28
+"Phosphorus, P",mg,107,153,30,90
+"Potassium, K",mg,592,847,168,497
+"Sodium, Na",mg,2,3,1,2
+"Zinc, Zn",mg,0.57,0.82,0.16,0.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,26.0,37.2,7.4,21.8
+"Thiamin",mg,0.243,0.347,0.069,0.204
+"Riboflavin",mg,0.175,0.250,0.050,0.147
+"Niacin",mg,1.342,1.919,0.380,1.127
+"Vitamin B-6",mg,0.497,0.711,0.141,0.417
+"Folate, DFE",µg,70,100,20,59
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,1,0,1
+"Vitamin A, IU",IU,24,34,7,20
+"Vitamin E (alpha-tocopherol)",mg,0.50,0.71,0.14,0.42
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,7.8,11.2,2.2,6.6
+Lipids
+"Fatty acids, total saturated",g,0.414,0.592,0.117,0.348
+"Fatty acids, total monounsaturated",g,0.759,1.085,0.215,0.638
+"Fatty acids, total polyunsaturated",g,0.869,1.243,0.246,0.730
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

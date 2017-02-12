@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:56 EST
+"Nutrient data for: 19029, Topping, SMUCKER'S MAGIC SHELL"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,0.25,
+"Energy",kcal,609,
+"Protein",g,2.94,
+"Total lipid (fat)",g,44.10,
+"Carbohydrate, by difference",g,50.07,
+"Fiber, total dietary",g,2.9,
+"Sugars, total",g,47.06,
+Minerals
+"Calcium, Ca",mg,0,
+"Iron, Fe",mg,0.00,
+"Magnesium, Mg",mg,15,
+"Phosphorus, P",mg,54,
+"Potassium, K",mg,73,
+"Sodium, Na",mg,29,
+"Zinc, Zn",mg,0.45,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,
+"Thiamin",mg,0.016,
+"Riboflavin",mg,0.058,
+"Niacin",mg,0.105,
+"Vitamin B-6",mg,0.013,
+"Folate, DFE",µg,6,
+"Vitamin B-12",µg,0.08,
+"Vitamin A, RAE",µg,6,
+"Vitamin A, IU",IU,21,
+"Vitamin E (alpha-tocopherol)",mg,9.85,
+"Vitamin D (D2 + D3)",µg,0.0,
+"Vitamin D",IU,0,
+"Vitamin K (phylloquinone)",µg,1.8,
+Lipids
+"Fatty acids, total saturated",g,20.590,
+"Fatty acids, total monounsaturated",g,6.156,
+"Fatty acids, total polyunsaturated",g,15.094,
+"Fatty acids, total trans",g,0.017,
+"Cholesterol",mg,2,
+Amino Acids
+Other
+"Caffeine",mg,4,

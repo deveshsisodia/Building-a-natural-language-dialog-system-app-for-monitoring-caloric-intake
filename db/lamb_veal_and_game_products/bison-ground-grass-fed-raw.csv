@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:51 EST
+"Nutrient data for: 17149, Bison, ground, grass-fed, raw"
+Nutrient,Unit,1Value per 100 g,"1 patty (cooked from 4 oz raw) = 85.0g","1 oz = 28.35g",
+Proximates
+"Water",g,71.59,60.85,20.30
+"Energy",kcal,146,124,41
+"Protein",g,20.23,17.20,5.74
+"Total lipid (fat)",g,7.21,6.13,2.04
+"Carbohydrate, by difference",g,0.05,0.04,0.01
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,11,9,3
+"Iron, Fe",mg,2.78,2.36,0.79
+"Magnesium, Mg",mg,21,18,6
+"Phosphorus, P",mg,194,165,55
+"Potassium, K",mg,328,279,93
+"Sodium, Na",mg,70,60,20
+"Zinc, Zn",mg,4.59,3.90,1.30
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.141,0.120,0.040
+"Riboflavin",mg,0.246,0.209,0.070
+"Niacin",mg,5.322,4.524,1.509
+"Vitamin B-6",mg,0.383,0.326,0.109
+"Folate, DFE",µg,12,10,3
+"Vitamin B-12",µg,1.94,1.65,0.55
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.19,0.16,0.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.2,1.0,0.3
+Lipids
+"Fatty acids, total saturated",g,2.917,2.479,0.827
+"Fatty acids, total monounsaturated",g,2.753,2.340,0.780
+"Fatty acids, total polyunsaturated",g,0.336,0.286,0.095
+"Cholesterol",mg,55,47,16
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

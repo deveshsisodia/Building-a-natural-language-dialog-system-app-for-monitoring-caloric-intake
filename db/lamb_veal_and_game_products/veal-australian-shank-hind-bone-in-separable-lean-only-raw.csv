@@ -1,0 +1,30 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:06 EST
+"Nutrient data for: 17351, Veal, Australian, shank, hind, bone-in, separable lean only, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 roast with bone = 330.0g",
+Proximates
+"Water",g,75.38,64.07,248.75
+"Energy",kcal,122,104,403
+"Protein",g,20.37,17.31,67.22
+"Total lipid (fat)",g,4.47,3.80,14.75
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,17,14,56
+"Iron, Fe",mg,3.08,2.62,10.16
+"Sodium, Na",mg,98,83,323
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.700,1.445,5.610
+"Fatty acids, total monounsaturated",g,1.708,1.452,5.636
+"Fatty acids, total polyunsaturated",g,0.602,0.512,1.987
+"Fatty acids, total trans",g,0.142,0.121,0.469
+"Cholesterol",mg,59,50,195
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

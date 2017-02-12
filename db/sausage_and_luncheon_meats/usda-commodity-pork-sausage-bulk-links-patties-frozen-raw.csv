@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:21 EST
+"Nutrient data for: 07907, USDA Commodity, pork sausage, bulk/links/patties, frozen, raw"
+Nutrient,Unit,1Value per 100 g,"1 link = 28.0g",
+Proximates
+"Water",g,64.92,18.18
+"Energy",kcal,231,65
+"Protein",g,14.95,4.19
+"Total lipid (fat)",g,18.56,5.20
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,9,3
+"Iron, Fe",mg,0.99,0.28
+"Magnesium, Mg",mg,17,5
+"Phosphorus, P",mg,162,45
+"Potassium, K",mg,231,65
+"Sodium, Na",mg,507,142
+"Zinc, Zn",mg,2.39,0.67
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.688,0.193
+"Riboflavin",mg,0.223,0.062
+"Niacin",mg,2.619,0.733
+"Vitamin B-6",mg,0.234,0.066
+"Folate, DFE",µg,3,1
+"Vitamin B-12",µg,0.84,0.24
+"Vitamin A, RAE",µg,12,3
+"Vitamin A, IU",IU,40,11
+Lipids
+"Fatty acids, total saturated",g,4.968,1.391
+"Fatty acids, total monounsaturated",g,8.061,2.257
+"Fatty acids, total polyunsaturated",g,2.246,0.629
+"Cholesterol",mg,73,20
+Amino Acids
+Other

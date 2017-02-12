@@ -1,0 +1,31 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:19 EST
+"Nutrient data for: 14475, Beverages, ARIZONA, tea, ready-to-drink, lemon"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 30.6g","8.0 bottle 8 fl oz = 227.0g","1 bottle 12 fl oz = 368.0g","1 bottle 20 fl oz = 613.0g",
+Proximates
+"Water",g,90.15,27.59,204.64,331.75,552.62
+"Energy",kcal,39,12,89,144,239
+"Protein",g,0.00,0.00,0.00,0.00,0.00
+"Total lipid (fat)",g,0.00,0.00,0.00,0.00,0.00
+"Carbohydrate, by difference",g,9.77,2.99,22.18,35.95,59.89
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,9.63,2.95,21.86,35.44,59.03
+Minerals
+"Calcium, Ca",mg,3,1,7,11,18
+"Iron, Fe",mg,0.00,0.00,0.00,0.00,0.00
+"Magnesium, Mg",mg,1,0,2,4,6
+"Phosphorus, P",mg,1,0,2,4,6
+"Potassium, K",mg,10,3,23,37,61
+"Sodium, Na",mg,4,1,9,15,25
+"Zinc, Zn",mg,0.01,0.00,0.02,0.04,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Vitamin A, IU",IU,0,0,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,5,2,11,18,31

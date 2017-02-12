@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:38 EST
+"Nutrient data for: 19080, Candies, semisweet chocolate"
+Nutrient,Unit,1Value per 100 g,"1 serving = 14.5g","1 cup large chips = 182.0g","1 cup mini chips = 173.0g","1 oz (approx 60 pcs) = 28.35g","1 cup chips (6 oz package) = 168.0g",
+Proximates
+"Water",g,0.70,0.10,1.27,1.21,0.20,1.18
+"Energy",kcal,480,70,874,830,136,806
+"Protein",g,4.20,0.61,7.64,7.27,1.19,7.06
+"Total lipid (fat)",g,30.00,4.35,54.60,51.90,8.51,50.40
+"Carbohydrate, by difference",g,63.90,9.27,116.30,110.55,18.12,107.35
+"Fiber, total dietary",g,5.9,0.9,10.7,10.2,1.7,9.9
+"Sugars, total",g,54.50,7.90,99.19,94.28,15.45,91.56
+Minerals
+"Calcium, Ca",mg,32,5,58,55,9,54
+"Iron, Fe",mg,3.13,0.45,5.70,5.41,0.89,5.26
+"Magnesium, Mg",mg,115,17,209,199,33,193
+"Phosphorus, P",mg,132,19,240,228,37,222
+"Potassium, K",mg,365,53,664,631,103,613
+"Sodium, Na",mg,11,2,20,19,3,18
+"Zinc, Zn",mg,1.62,0.23,2.95,2.80,0.46,2.72
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.055,0.008,0.100,0.095,0.016,0.092
+"Riboflavin",mg,0.090,0.013,0.164,0.156,0.026,0.151
+"Niacin",mg,0.427,0.062,0.777,0.739,0.121,0.717
+"Vitamin B-6",mg,0.035,0.005,0.064,0.061,0.010,0.059
+"Folate, DFE",µg,13,2,24,22,4,22
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.26,0.04,0.47,0.45,0.07,0.44
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,5.6,0.8,10.2,9.7,1.6,9.4
+Lipids
+"Fatty acids, total saturated",g,17.750,2.574,32.305,30.707,5.032,29.820
+"Fatty acids, total monounsaturated",g,9.966,1.445,18.138,17.241,2.825,16.743
+"Fatty acids, total polyunsaturated",g,0.966,0.140,1.758,1.671,0.274,1.623
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,62,9,113,107,18,104

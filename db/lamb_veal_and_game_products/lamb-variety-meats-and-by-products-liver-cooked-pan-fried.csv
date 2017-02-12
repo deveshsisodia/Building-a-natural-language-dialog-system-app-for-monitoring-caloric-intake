@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:05 EST
+"Nutrient data for: 17201, Lamb, variety meats and by-products, liver, cooked, pan-fried"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 unit, cooked (yield from 1 lb raw meat) = 322.0g",
+Proximates
+"Water",g,56.20,47.77,180.96
+"Energy",kcal,238,202,766
+"Protein",g,25.53,21.70,82.21
+"Total lipid (fat)",g,12.65,10.75,40.73
+"Carbohydrate, by difference",g,3.78,3.21,12.17
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,9,8,29
+"Iron, Fe",mg,10.20,8.67,32.84
+"Magnesium, Mg",mg,23,20,74
+"Phosphorus, P",mg,427,363,1375
+"Potassium, K",mg,352,299,1133
+"Sodium, Na",mg,124,105,399
+"Zinc, Zn",mg,5.63,4.79,18.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,13.0,11.1,41.9
+"Thiamin",mg,0.350,0.297,1.127
+"Riboflavin",mg,4.590,3.901,14.780
+"Niacin",mg,16.680,14.178,53.710
+"Vitamin B-6",mg,0.950,0.807,3.059
+"Folate, DFE",µg,400,340,1288
+"Vitamin B-12",µg,85.70,72.84,275.95
+"Vitamin A, RAE",µg,7782,6615,25058
+"Vitamin A, IU",IU,25998,22098,83714
+Lipids
+"Fatty acids, total saturated",g,4.900,4.165,15.778
+"Fatty acids, total monounsaturated",g,2.640,2.244,8.501
+"Fatty acids, total polyunsaturated",g,1.890,1.607,6.086
+"Cholesterol",mg,493,419,1587
+Amino Acids
+Other

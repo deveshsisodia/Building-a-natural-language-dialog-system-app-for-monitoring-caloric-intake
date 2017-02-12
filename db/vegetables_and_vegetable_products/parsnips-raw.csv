@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:25 EST
+"Nutrient data for: 11298, Parsnips, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup slices = 133.0g",
+Proximates
+"Water",g,79.53,105.77
+"Energy",kcal,75,100
+"Protein",g,1.20,1.60
+"Total lipid (fat)",g,0.30,0.40
+"Carbohydrate, by difference",g,17.99,23.93
+"Fiber, total dietary",g,4.9,6.5
+"Sugars, total",g,4.80,6.38
+Minerals
+"Calcium, Ca",mg,36,48
+"Iron, Fe",mg,0.59,0.78
+"Magnesium, Mg",mg,29,39
+"Phosphorus, P",mg,71,94
+"Potassium, K",mg,375,499
+"Sodium, Na",mg,10,13
+"Zinc, Zn",mg,0.59,0.78
+Vitamins
+"Vitamin C, total ascorbic acid",mg,17.0,22.6
+"Thiamin",mg,0.090,0.120
+"Riboflavin",mg,0.050,0.067
+"Niacin",mg,0.700,0.931
+"Vitamin B-6",mg,0.090,0.120
+"Folate, DFE",µg,67,89
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.49,1.98
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,22.5,29.9
+Lipids
+"Fatty acids, total saturated",g,0.050,0.067
+"Fatty acids, total monounsaturated",g,0.112,0.149
+"Fatty acids, total polyunsaturated",g,0.047,0.063
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:58 EST
+"Nutrient data for: 16069, Lentils, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 192.0g","1 tablespoon = 12.0g",
+Proximates
+"Water",g,8.26,15.86,0.99
+"Energy",kcal,352,676,42
+"Protein",g,24.63,47.29,2.96
+"Total lipid (fat)",g,1.06,2.04,0.13
+"Carbohydrate, by difference",g,63.35,121.63,7.60
+"Fiber, total dietary",g,10.7,20.5,1.3
+"Sugars, total",g,2.03,3.90,0.24
+Minerals
+"Calcium, Ca",mg,35,67,4
+"Iron, Fe",mg,6.51,12.50,0.78
+"Magnesium, Mg",mg,47,90,6
+"Phosphorus, P",mg,281,540,34
+"Potassium, K",mg,677,1300,81
+"Sodium, Na",mg,6,12,1
+"Zinc, Zn",mg,3.27,6.28,0.39
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.5,8.6,0.5
+"Thiamin",mg,0.873,1.676,0.105
+"Riboflavin",mg,0.211,0.405,0.025
+"Niacin",mg,2.605,5.002,0.313
+"Vitamin B-6",mg,0.540,1.037,0.065
+"Folate, DFE",µg,479,920,57
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,2,4,0
+"Vitamin A, IU",IU,39,75,5
+"Vitamin E (alpha-tocopherol)",mg,0.49,0.94,0.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,5.0,9.6,0.6
+Lipids
+"Fatty acids, total saturated",g,0.154,0.296,0.018
+"Fatty acids, total monounsaturated",g,0.193,0.371,0.023
+"Fatty acids, total polyunsaturated",g,0.526,1.010,0.063
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

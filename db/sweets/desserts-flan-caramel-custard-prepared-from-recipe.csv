@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:40 EST
+"Nutrient data for: 19094, Desserts, flan, caramel custard, prepared-from-recipe"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 153.0g","1 recipe yield = 1531.0g",
+Proximates
+"Water",g,68.05,104.12,1041.85
+"Energy",kcal,145,222,2220
+"Protein",g,4.53,6.93,69.35
+"Total lipid (fat)",g,4.03,6.17,61.70
+"Carbohydrate, by difference",g,22.78,34.85,348.76
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,23.15,35.42,354.43
+Minerals
+"Calcium, Ca",mg,83,127,1271
+"Iron, Fe",mg,0.38,0.58,5.82
+"Magnesium, Mg",mg,9,14,138
+"Phosphorus, P",mg,96,147,1470
+"Potassium, K",mg,118,181,1807
+"Sodium, Na",mg,53,81,811
+"Zinc, Zn",mg,0.47,0.72,7.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.032,0.049,0.490
+"Riboflavin",mg,0.210,0.321,3.215
+"Niacin",mg,0.082,0.125,1.255
+"Vitamin B-6",mg,0.044,0.067,0.674
+"Folate, DFE",µg,9,14,138
+"Vitamin B-12",µg,0.36,0.55,5.51
+"Vitamin A, RAE",µg,46,70,704
+"Vitamin A, IU",IU,161,246,2465
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.35,3.52
+"Vitamin K (phylloquinone)",µg,0.2,0.3,3.1
+Lipids
+"Fatty acids, total saturated",g,1.799,2.752,27.543
+"Fatty acids, total monounsaturated",g,1.266,1.937,19.382
+"Fatty acids, total polyunsaturated",g,0.392,0.600,6.002
+"Cholesterol",mg,90,138,1378
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

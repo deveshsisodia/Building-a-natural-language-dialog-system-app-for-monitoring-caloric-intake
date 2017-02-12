@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:36 EST
+"Nutrient data for: 18457, Crackers, saltines, fat-free, low-sodium"
+Nutrient,Unit,1Value per 100 g,"3.0 saltines = 15.0g","6.0 saltines = 30.0g",
+Proximates
+"Water",g,3.40,0.51,1.02
+"Energy",kcal,393,59,118
+"Protein",g,10.50,1.57,3.15
+"Total lipid (fat)",g,1.60,0.24,0.48
+"Carbohydrate, by difference",g,82.30,12.35,24.69
+"Fiber, total dietary",g,2.7,0.4,0.8
+"Sugars, total",g,0.38,0.06,0.11
+Minerals
+"Calcium, Ca",mg,22,3,7
+"Iron, Fe",mg,7.72,1.16,2.32
+"Magnesium, Mg",mg,26,4,8
+"Phosphorus, P",mg,113,17,34
+"Potassium, K",mg,115,17,34
+"Sodium, Na",mg,849,127,255
+"Zinc, Zn",mg,0.94,0.14,0.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.518,0.078,0.155
+"Riboflavin",mg,0.590,0.088,0.177
+"Niacin",mg,5.714,0.857,1.714
+"Vitamin B-6",mg,0.085,0.013,0.026
+"Folate, DFE",µg,202,30,61
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.02,0.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,4.9,0.7,1.5
+Lipids
+"Fatty acids, total saturated",g,0.244,0.037,0.073
+"Fatty acids, total monounsaturated",g,0.142,0.021,0.043
+"Fatty acids, total polyunsaturated",g,0.685,0.103,0.206
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

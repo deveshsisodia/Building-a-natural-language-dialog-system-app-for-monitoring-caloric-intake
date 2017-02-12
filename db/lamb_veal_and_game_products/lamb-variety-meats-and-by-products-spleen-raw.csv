@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:05 EST
+"Nutrient data for: 17214, Lamb, variety meats and by-products, spleen, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","4.0 oz = 113.0g",
+Proximates
+"Water",g,78.15,22.16,88.31
+"Energy",kcal,101,29,114
+"Protein",g,17.20,4.88,19.44
+"Total lipid (fat)",g,3.10,0.88,3.50
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,9,3,10
+"Iron, Fe",mg,41.89,11.88,47.34
+"Magnesium, Mg",mg,21,6,24
+"Phosphorus, P",mg,280,79,316
+"Potassium, K",mg,358,101,405
+"Sodium, Na",mg,84,24,95
+"Zinc, Zn",mg,2.84,0.81,3.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,23.0,6.5,26.0
+"Thiamin",mg,0.047,0.013,0.053
+"Riboflavin",mg,0.348,0.099,0.393
+"Niacin",mg,7.895,2.238,8.921
+"Vitamin B-6",mg,0.110,0.031,0.124
+"Folate, DFE",µg,4,1,5
+"Vitamin B-12",µg,5.34,1.51,6.03
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.030,0.292,1.164
+"Fatty acids, total monounsaturated",g,0.810,0.230,0.915
+"Fatty acids, total polyunsaturated",g,0.230,0.065,0.260
+"Cholesterol",mg,250,71,282
+Amino Acids
+Other

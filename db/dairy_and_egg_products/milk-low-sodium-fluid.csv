@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:10 EST
+"Nutrient data for: 01089, Milk, low sodium, fluid"
+Nutrient,Unit,1Value per 100 g,"1 cup = 244.0g","1 fl oz = 30.5g","1 quart = 976.0g",
+Proximates
+"Water",g,88.20,215.21,26.90,860.83
+"Energy",kcal,61,149,19,595
+"Protein",g,3.10,7.56,0.95,30.26
+"Total lipid (fat)",g,3.46,8.44,1.06,33.77
+"Carbohydrate, by difference",g,4.46,10.88,1.36,43.53
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,4.46,10.88,1.36,43.53
+Minerals
+"Calcium, Ca",mg,101,246,31,986
+"Iron, Fe",mg,0.05,0.12,0.02,0.49
+"Magnesium, Mg",mg,5,12,2,49
+"Phosphorus, P",mg,86,210,26,839
+"Potassium, K",mg,253,617,77,2469
+"Sodium, Na",mg,3,7,1,29
+"Zinc, Zn",mg,0.38,0.93,0.12,3.71
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,2.2,0.3,8.8
+"Thiamin",mg,0.020,0.049,0.006,0.195
+"Riboflavin",mg,0.105,0.256,0.032,1.025
+"Niacin",mg,0.043,0.105,0.013,0.420
+"Vitamin B-6",mg,0.034,0.083,0.010,0.332
+"Folate, DFE",µg,5,12,2,49
+"Vitamin B-12",µg,0.36,0.88,0.11,3.51
+"Vitamin A, RAE",µg,29,71,9,283
+"Vitamin A, IU",IU,105,256,32,1025
+"Vitamin E (alpha-tocopherol)",mg,0.08,0.20,0.02,0.78
+"Vitamin D (D2 + D3)",µg,1.3,3.2,0.4,12.7
+"Vitamin D",IU,51,124,16,498
+"Vitamin K (phylloquinone)",µg,0.3,0.7,0.1,2.9
+Lipids
+"Fatty acids, total saturated",g,2.154,5.256,0.657,21.023
+"Fatty acids, total monounsaturated",g,0.999,2.438,0.305,9.750
+"Fatty acids, total polyunsaturated",g,0.128,0.312,0.039,1.249
+"Cholesterol",mg,14,34,4,137
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

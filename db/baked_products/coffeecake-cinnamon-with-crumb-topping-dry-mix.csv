@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:33 EST
+"Nutrient data for: 18107, Coffeecake, cinnamon with crumb topping, dry mix"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 package (10.5 oz) = 298.0g",
+Proximates
+"Water",g,3.30,0.94,9.83
+"Energy",kcal,436,124,1299
+"Protein",g,4.80,1.36,14.30
+"Total lipid (fat)",g,12.00,3.40,35.76
+"Carbohydrate, by difference",g,77.70,22.03,231.55
+"Fiber, total dietary",g,1.8,0.5,5.4
+"Sugars, total",g,42.52,12.05,126.71
+Minerals
+"Calcium, Ca",mg,148,42,441
+"Iron, Fe",mg,1.90,0.54,5.66
+"Magnesium, Mg",mg,19,5,57
+"Phosphorus, P",mg,256,73,763
+"Potassium, K",mg,87,25,259
+"Sodium, Na",mg,596,169,1776
+"Zinc, Zn",mg,0.34,0.10,1.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1,0.6
+"Thiamin",mg,0.291,0.082,0.867
+"Riboflavin",mg,0.130,0.037,0.387
+"Niacin",mg,2.505,0.710,7.465
+"Vitamin B-6",mg,0.044,0.012,0.131
+"Folate, DFE",µg,136,39,405
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,7,2,21
+"Vitamin A, IU",IU,24,7,72
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.03,0.36
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,5.3,1.5,15.8
+Lipids
+"Fatty acids, total saturated",g,2.957,0.838,8.812
+"Fatty acids, total monounsaturated",g,5.172,1.466,15.413
+"Fatty acids, total polyunsaturated",g,3.204,0.908,9.548
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

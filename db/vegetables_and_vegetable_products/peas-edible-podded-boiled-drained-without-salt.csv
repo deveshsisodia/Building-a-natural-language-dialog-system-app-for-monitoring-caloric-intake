@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:25 EST
+"Nutrient data for: 11301, Peas, edible-podded, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 160.0g",
+Proximates
+"Water",g,88.91,142.26
+"Energy",kcal,42,67
+"Protein",g,3.27,5.23
+"Total lipid (fat)",g,0.23,0.37
+"Carbohydrate, by difference",g,7.05,11.28
+"Fiber, total dietary",g,2.8,4.5
+"Sugars, total",g,3.99,6.38
+Minerals
+"Calcium, Ca",mg,42,67
+"Iron, Fe",mg,1.97,3.15
+"Magnesium, Mg",mg,26,42
+"Phosphorus, P",mg,55,88
+"Potassium, K",mg,240,384
+"Sodium, Na",mg,4,6
+"Zinc, Zn",mg,0.37,0.59
+Vitamins
+"Vitamin C, total ascorbic acid",mg,47.9,76.6
+"Thiamin",mg,0.128,0.205
+"Riboflavin",mg,0.076,0.122
+"Niacin",mg,0.539,0.862
+"Vitamin B-6",mg,0.144,0.230
+"Folate, DFE",µg,29,46
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,52,83
+"Vitamin A, IU",IU,1030,1648
+"Vitamin E (alpha-tocopherol)",mg,0.39,0.62
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,25.0,40.0
+Lipids
+"Fatty acids, total saturated",g,0.044,0.070
+"Fatty acids, total monounsaturated",g,0.023,0.037
+"Fatty acids, total polyunsaturated",g,0.100,0.160
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

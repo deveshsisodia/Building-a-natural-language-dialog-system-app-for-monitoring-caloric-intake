@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:55 EST
+"Nutrient data for: 15151, Crustaceans, shrimp, mixed species, cooked, moist heat (may have been previously frozen)"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","4.0 large = 22.0g",
+Proximates
+"Water",g,71.56,60.83,15.74
+"Energy",kcal,119,101,26
+"Protein",g,22.78,19.36,5.01
+"Total lipid (fat)",g,1.70,1.45,0.37
+"Carbohydrate, by difference",g,1.52,1.29,0.33
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,91,77,20
+"Iron, Fe",mg,0.32,0.27,0.07
+"Magnesium, Mg",mg,37,31,8
+"Phosphorus, P",mg,306,260,67
+"Potassium, K",mg,170,144,37
+"Sodium, Na",mg,947,805,208
+"Zinc, Zn",mg,1.63,1.39,0.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.032,0.027,0.007
+"Riboflavin",mg,0.024,0.020,0.005
+"Niacin",mg,2.678,2.276,0.589
+"Vitamin B-6",mg,0.242,0.206,0.053
+"Folate, DFE",µg,24,20,5
+"Vitamin B-12",µg,1.66,1.41,0.37
+"Vitamin A, RAE",µg,90,76,20
+"Vitamin A, IU",IU,301,256,66
+"Vitamin E (alpha-tocopherol)",mg,2.20,1.87,0.48
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.0
+"Vitamin D",IU,4,3,1
+"Vitamin K (phylloquinone)",µg,0.4,0.3,0.1
+Lipids
+"Fatty acids, total saturated",g,0.521,0.443,0.115
+"Fatty acids, total monounsaturated",g,0.361,0.307,0.079
+"Fatty acids, total polyunsaturated",g,0.590,0.501,0.130
+"Fatty acids, total trans",g,0.035,0.030,0.008
+"Cholesterol",mg,211,179,46
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Samples were obtained from 12 retail stores using a probability-based sampling plan.  Some fish had been treated during processing to retain moisture on thawing.  Untreated fish = 111 mg sodium/100g."

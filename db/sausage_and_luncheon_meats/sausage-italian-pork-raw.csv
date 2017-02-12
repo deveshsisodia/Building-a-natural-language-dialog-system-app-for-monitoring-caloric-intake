@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:19 EST
+"Nutrient data for: 07036, Sausage, Italian, pork, raw"
+Nutrient,Unit,1Value per 100 g,"1 link, 4/lb = 113.0g","1 link, 5/lb = 91.0g",
+Proximates
+"Water",g,51.08,57.72,46.48
+"Energy",kcal,346,391,315
+"Protein",g,14.25,16.10,12.97
+"Total lipid (fat)",g,31.33,35.40,28.51
+"Carbohydrate, by difference",g,0.65,0.73,0.59
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,18,20,16
+"Iron, Fe",mg,1.18,1.33,1.07
+"Magnesium, Mg",mg,14,16,13
+"Phosphorus, P",mg,142,160,129
+"Potassium, K",mg,253,286,230
+"Sodium, Na",mg,731,826,665
+"Zinc, Zn",mg,1.79,2.02,1.63
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.0,2.3,1.8
+"Thiamin",mg,0.568,0.642,0.517
+"Riboflavin",mg,0.168,0.190,0.153
+"Niacin",mg,3.250,3.672,2.958
+"Vitamin B-6",mg,0.300,0.339,0.273
+"Folate, DFE",µg,8,9,7
+"Vitamin B-12",µg,0.91,1.03,0.83
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,11.270,12.735,10.256
+"Fatty acids, total monounsaturated",g,14.340,16.204,13.049
+"Fatty acids, total polyunsaturated",g,4.030,4.554,3.667
+"Cholesterol",mg,76,86,69
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:01 EST
+"Nutrient data for: 16123, Soy sauce made from soy and wheat (shoyu)"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 16.0g","1 tsp = 5.3g","1 cup = 255.0g","1 individual packet = 8.9g",
+Proximates
+"Water",g,71.15,11.38,3.77,181.43,6.33
+"Energy",kcal,53,8,3,135,5
+"Protein",g,8.14,1.30,0.43,20.76,0.72
+"Total lipid (fat)",g,0.57,0.09,0.03,1.45,0.05
+"Carbohydrate, by difference",g,4.93,0.79,0.26,12.57,0.44
+"Fiber, total dietary",g,0.8,0.1,0.0,2.0,0.1
+"Sugars, total",g,0.40,0.06,0.02,1.02,0.04
+Minerals
+"Calcium, Ca",mg,33,5,2,84,3
+"Iron, Fe",mg,1.45,0.23,0.08,3.70,0.13
+"Magnesium, Mg",mg,74,12,4,189,7
+"Phosphorus, P",mg,166,27,9,423,15
+"Potassium, K",mg,435,70,23,1109,39
+"Sodium, Na",mg,5493,879,291,14007,489
+"Zinc, Zn",mg,0.87,0.14,0.05,2.22,0.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.033,0.005,0.002,0.084,0.003
+"Riboflavin",mg,0.165,0.026,0.009,0.421,0.015
+"Niacin",mg,2.196,0.351,0.116,5.600,0.195
+"Vitamin B-6",mg,0.148,0.024,0.008,0.377,0.013
+"Folate, DFE",µg,14,2,1,36,1
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.073,0.012,0.004,0.186,0.006
+"Fatty acids, total monounsaturated",g,0.088,0.014,0.005,0.224,0.008
+"Fatty acids, total polyunsaturated",g,0.263,0.042,0.014,0.671,0.023
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

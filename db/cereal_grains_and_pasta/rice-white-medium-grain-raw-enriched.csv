@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:14 EST
+"Nutrient data for: 20050, Rice, white, medium-grain, raw, enriched"
+Nutrient,Unit,1Value per 100 g,"1 cup = 195.0g",
+Proximates
+"Water",g,12.89,25.14
+"Energy",kcal,360,702
+"Protein",g,6.61,12.89
+"Total lipid (fat)",g,0.58,1.13
+"Carbohydrate, by difference",g,79.34,154.71
+"Fiber, total dietary",g,1.4,2.7
+Minerals
+"Calcium, Ca",mg,9,18
+"Iron, Fe",mg,4.36,8.50
+"Magnesium, Mg",mg,35,68
+"Phosphorus, P",mg,108,211
+"Potassium, K",mg,86,168
+"Sodium, Na",mg,1,2
+"Zinc, Zn",mg,1.16,2.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.578,1.127
+"Riboflavin",mg,0.048,0.094
+"Niacin",mg,5.093,9.931
+"Vitamin B-6",mg,0.145,0.283
+"Folate, DFE",µg,386,753
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.21
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.158,0.308
+"Fatty acids, total monounsaturated",g,0.181,0.353
+"Fatty acids, total polyunsaturated",g,0.155,0.302
+"Cholesterol",mg,0,0
+Amino Acids
+Other

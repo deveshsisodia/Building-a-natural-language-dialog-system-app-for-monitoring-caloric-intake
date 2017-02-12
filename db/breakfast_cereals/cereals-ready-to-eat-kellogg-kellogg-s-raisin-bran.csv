@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08060, Cereals ready-to-eat, KELLOGG, KELLOGG'S RAISIN BRAN"
+Nutrient,Unit,1Value per 100 g,"1 cup ( 1 NLEA serving) = 59.0g",
+Proximates
+"Water",g,10.40,6.14
+"Energy",kcal,318,188
+"Protein",g,7.72,4.55
+"Total lipid (fat)",g,2.72,1.60
+"Carbohydrate, by difference",g,77.29,45.60
+"Fiber, total dietary",g,11.4,6.7
+"Sugars, total",g,31.30,18.47
+Minerals
+"Calcium, Ca",mg,43,25
+"Iron, Fe",mg,12.33,7.27
+"Magnesium, Mg",mg,122,72
+"Phosphorus, P",mg,347,205
+"Potassium, K",mg,653,385
+"Sodium, Na",mg,356,210
+"Zinc, Zn",mg,3.39,2.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.753,0.444
+"Riboflavin",mg,1.080,0.637
+"Niacin",mg,13.800,8.142
+"Vitamin B-6",mg,1.843,1.087
+"Folate, DFE",µg,328,194
+"Vitamin B-12",µg,2.00,1.18
+"Vitamin A, RAE",µg,386,228
+"Vitamin A, IU",IU,1289,761
+"Vitamin E (alpha-tocopherol)",mg,0.66,0.39
+"Vitamin D (D2 + D3)",µg,3.9,2.3
+"Vitamin D",IU,155,91
+"Vitamin K (phylloquinone)",µg,2.1,1.2
+Lipids
+"Fatty acids, total saturated",g,0.480,0.283
+"Fatty acids, total monounsaturated",g,0.339,0.200
+"Fatty acids, total polyunsaturated",g,0.949,0.560
+"Fatty acids, total trans",g,0.009,0.005
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:05 EST
+"Nutrient data for: 15219, Fish, trout, mixed species, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 62.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,63.36,39.28,53.86
+"Energy",kcal,190,118,162
+"Protein",g,26.63,16.51,22.64
+"Total lipid (fat)",g,8.47,5.25,7.20
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,55,34,47
+"Iron, Fe",mg,1.92,1.19,1.63
+"Magnesium, Mg",mg,28,17,24
+"Phosphorus, P",mg,314,195,267
+"Potassium, K",mg,463,287,394
+"Sodium, Na",mg,67,42,57
+"Zinc, Zn",mg,0.85,0.53,0.72
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.3,0.4
+"Thiamin",mg,0.426,0.264,0.362
+"Riboflavin",mg,0.423,0.262,0.360
+"Niacin",mg,5.769,3.577,4.904
+"Vitamin B-6",mg,0.231,0.143,0.196
+"Folate, DFE",µg,15,9,13
+"Vitamin B-12",µg,7.49,4.64,6.37
+"Vitamin A, RAE",µg,19,12,16
+"Vitamin A, IU",IU,63,39,54
+Lipids
+"Fatty acids, total saturated",g,1.474,0.914,1.253
+"Fatty acids, total monounsaturated",g,4.172,2.587,3.546
+"Fatty acids, total polyunsaturated",g,1.922,1.192,1.634
+"Cholesterol",mg,74,46,63
+Amino Acids
+Other

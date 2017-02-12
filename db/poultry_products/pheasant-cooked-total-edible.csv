@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:38 EST
+"Nutrient data for: 43283, Pheasant, cooked, total edible"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped or diced = 140.0g",
+Proximates
+"Water",g,54.20,75.88
+"Energy",kcal,239,335
+"Protein",g,32.40,45.36
+"Total lipid (fat)",g,12.10,16.94
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,16,22
+"Iron, Fe",mg,1.43,2.00
+"Magnesium, Mg",mg,22,31
+"Phosphorus, P",mg,242,339
+"Potassium, K",mg,271,379
+"Sodium, Na",mg,43,60
+"Zinc, Zn",mg,1.37,1.92
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.3,3.2
+"Thiamin",mg,0.070,0.098
+"Riboflavin",mg,0.180,0.252
+"Niacin",mg,7.530,10.542
+"Vitamin B-6",mg,0.750,1.050
+"Folate, DFE",µg,5,7
+"Vitamin B-12",µg,0.72,1.01
+"Vitamin A, RAE",µg,57,80
+"Vitamin A, IU",IU,190,266
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.38
+"Vitamin D (D2 + D3)",µg,0.2,0.3
+"Vitamin D",IU,7,10
+"Vitamin K (phylloquinone)",µg,4.9,6.9
+Lipids
+"Fatty acids, total saturated",g,3.908,5.471
+"Fatty acids, total monounsaturated",g,5.627,7.878
+"Fatty acids, total polyunsaturated",g,1.185,1.659
+"Cholesterol",mg,89,125
+Amino Acids
+Other
+"Caffeine",mg,0,0

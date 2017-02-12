@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:11 EST
+"Nutrient data for: 20005, Barley, pearled, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 200.0g",
+Proximates
+"Water",g,10.09,20.18
+"Energy",kcal,352,704
+"Protein",g,9.91,19.82
+"Total lipid (fat)",g,1.16,2.32
+"Carbohydrate, by difference",g,77.72,155.44
+"Fiber, total dietary",g,15.6,31.2
+"Sugars, total",g,0.80,1.60
+Minerals
+"Calcium, Ca",mg,29,58
+"Iron, Fe",mg,2.50,5.00
+"Magnesium, Mg",mg,79,158
+"Phosphorus, P",mg,221,442
+"Potassium, K",mg,280,560
+"Sodium, Na",mg,9,18
+"Zinc, Zn",mg,2.13,4.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.191,0.382
+"Riboflavin",mg,0.114,0.228
+"Niacin",mg,4.604,9.208
+"Vitamin B-6",mg,0.260,0.520
+"Folate, DFE",µg,23,46
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1,2
+"Vitamin A, IU",IU,22,44
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.2,4.4
+Lipids
+"Fatty acids, total saturated",g,0.244,0.488
+"Fatty acids, total monounsaturated",g,0.149,0.298
+"Fatty acids, total polyunsaturated",g,0.560,1.120
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

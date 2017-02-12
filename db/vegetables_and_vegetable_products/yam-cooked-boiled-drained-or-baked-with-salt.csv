@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:33 EST
+"Nutrient data for: 11897, Yam, cooked, boiled, drained, or baked, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, cubes = 136.0g","0.5 cup, cubes = 68.0g",
+Proximates
+"Water",g,70.13,95.38,47.69
+"Energy",kcal,114,155,78
+"Protein",g,1.49,2.03,1.01
+"Total lipid (fat)",g,0.14,0.19,0.10
+"Carbohydrate, by difference",g,26.99,36.71,18.35
+"Fiber, total dietary",g,3.9,5.3,2.7
+"Sugars, total",g,0.49,0.67,0.33
+Minerals
+"Calcium, Ca",mg,14,19,10
+"Iron, Fe",mg,0.52,0.71,0.35
+"Magnesium, Mg",mg,18,24,12
+"Phosphorus, P",mg,49,67,33
+"Potassium, K",mg,670,911,456
+"Sodium, Na",mg,244,332,166
+"Zinc, Zn",mg,0.20,0.27,0.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,12.1,16.5,8.2
+"Thiamin",mg,0.095,0.129,0.065
+"Riboflavin",mg,0.028,0.038,0.019
+"Niacin",mg,0.552,0.751,0.375
+"Vitamin B-6",mg,0.228,0.310,0.155
+"Folate, DFE",µg,16,22,11
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,6,8,4
+"Vitamin A, IU",IU,122,166,83
+"Vitamin E (alpha-tocopherol)",mg,0.34,0.46,0.23
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,2.3,3.1,1.6
+Lipids
+"Fatty acids, total saturated",g,0.029,0.039,0.020
+"Fatty acids, total monounsaturated",g,0.005,0.007,0.003
+"Fatty acids, total polyunsaturated",g,0.060,0.082,0.041
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

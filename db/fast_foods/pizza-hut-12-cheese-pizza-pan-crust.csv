@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:37 EST
+"Nutrient data for: 21272, PIZZA HUT 12"" Cheese Pizza, Pan Crust"
+Nutrient,Unit,1Value per 100 g,"1 slice = 100.0g","1 pizza = 728.0g",
+Proximates
+"Water",g,43.40,43.40,315.95
+"Energy",kcal,280,280,2038
+"Protein",g,11.73,11.73,85.39
+"Total lipid (fat)",g,12.56,12.56,91.44
+"Carbohydrate, by difference",g,29.93,29.93,217.89
+"Fiber, total dietary",g,1.7,1.7,12.4
+"Sugars, total",g,3.21,3.21,23.37
+Minerals
+"Calcium, Ca",mg,208,208,1514
+"Iron, Fe",mg,1.86,1.86,13.54
+"Magnesium, Mg",mg,21,21,153
+"Phosphorus, P",mg,241,241,1754
+"Potassium, K",mg,168,168,1223
+"Sodium, Na",mg,624,624,4543
+"Zinc, Zn",mg,1.63,1.63,11.87
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.243,0.243,1.769
+"Riboflavin",mg,0.251,0.251,1.827
+"Niacin",mg,3.910,3.910,28.465
+"Vitamin B-6",mg,0.107,0.107,0.779
+"Vitamin B-12",µg,0.64,0.64,4.66
+"Vitamin A, RAE",µg,73,73,531
+"Vitamin A, IU",IU,260,260,1893
+"Vitamin E (alpha-tocopherol)",mg,1.06,1.06,7.72
+"Vitamin K (phylloquinone)",µg,15.5,15.5,112.8
+Lipids
+"Fatty acids, total saturated",g,5.184,5.184,37.740
+"Fatty acids, total monounsaturated",g,3.213,3.213,23.391
+"Fatty acids, total polyunsaturated",g,2.752,2.752,20.035
+"Cholesterol",mg,21,21,153
+Amino Acids
+Other

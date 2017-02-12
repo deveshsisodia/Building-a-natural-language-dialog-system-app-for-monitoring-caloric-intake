@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18095, Cake, cherry fudge with chocolate frosting"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece (1/8 cake) = 71.0g",
+Proximates
+"Water",g,46.10,13.07,32.73
+"Energy",kcal,264,75,187
+"Protein",g,2.40,0.68,1.70
+"Total lipid (fat)",g,12.50,3.54,8.88
+"Carbohydrate, by difference",g,38.00,10.77,26.98
+"Fiber, total dietary",g,0.5,0.1,0.4
+"Sugars, total",g,32.94,9.34,23.39
+Minerals
+"Calcium, Ca",mg,48,14,34
+"Iron, Fe",mg,1.10,0.31,0.78
+"Magnesium, Mg",mg,19,5,13
+"Phosphorus, P",mg,105,30,75
+"Potassium, K",mg,166,47,118
+"Sodium, Na",mg,164,46,116
+"Zinc, Zn",mg,0.28,0.08,0.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,13.6,3.9,9.7
+"Thiamin",mg,0.030,0.009,0.021
+"Riboflavin",mg,0.190,0.054,0.135
+"Niacin",mg,0.700,0.198,0.497
+"Vitamin B-6",mg,0.060,0.017,0.043
+"Folate, DFE",µg,11,3,8
+"Vitamin B-12",µg,0.21,0.06,0.15
+"Vitamin A, RAE",µg,80,23,57
+"Vitamin A, IU",IU,448,127,318
+"Vitamin E (alpha-tocopherol)",mg,0.75,0.21,0.53
+"Vitamin D (D2 + D3)",µg,0.3,0.1,0.2
+"Vitamin D",IU,14,4,10
+"Vitamin K (phylloquinone)",µg,2.4,0.7,1.7
+Lipids
+"Fatty acids, total saturated",g,5.066,1.436,3.597
+"Fatty acids, total monounsaturated",g,4.400,1.247,3.124
+"Fatty acids, total polyunsaturated",g,2.340,0.663,1.661
+"Cholesterol",mg,42,12,30
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

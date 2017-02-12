@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:00 EST
+"Nutrient data for: 17040, Lamb, domestic, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4"" fat, choice, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) = 174.0g",
+Proximates
+"Water",g,49.96,42.47,86.93
+"Energy",kcal,283,241,492
+"Protein",g,32.81,27.89,57.09
+"Total lipid (fat)",g,15.89,13.51,27.65
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,26,22,45
+"Iron, Fe",mg,2.67,2.27,4.65
+"Magnesium, Mg",mg,27,23,47
+"Phosphorus, P",mg,204,173,355
+"Potassium, K",mg,261,222,454
+"Sodium, Na",mg,79,67,137
+"Zinc, Zn",mg,7.52,6.39,13.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.060,0.051,0.104
+"Riboflavin",mg,0.230,0.196,0.400
+"Niacin",mg,5.960,5.066,10.370
+"Vitamin B-6",mg,0.120,0.102,0.209
+"Folate, DFE",µg,21,18,37
+"Vitamin B-12",µg,2.91,2.47,5.06
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.20,0.17,0.35
+Lipids
+"Fatty acids, total saturated",g,6.170,5.245,10.736
+"Fatty acids, total monounsaturated",g,6.450,5.482,11.223
+"Fatty acids, total polyunsaturated",g,1.380,1.173,2.401
+"Cholesterol",mg,117,99,204
+Amino Acids
+Other

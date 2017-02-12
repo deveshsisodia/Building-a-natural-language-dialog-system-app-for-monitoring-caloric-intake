@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:30 EST
+"Nutrient data for: 11867, Squash, winter, butternut, frozen, cooked, boiled, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, mashed = 240.0g",
+Proximates
+"Water",g,87.80,210.72
+"Energy",kcal,39,94
+"Protein",g,1.23,2.95
+"Total lipid (fat)",g,0.07,0.17
+"Carbohydrate, by difference",g,10.04,24.10
+Minerals
+"Calcium, Ca",mg,19,46
+"Iron, Fe",mg,0.58,1.39
+"Magnesium, Mg",mg,9,22
+"Phosphorus, P",mg,14,34
+"Potassium, K",mg,133,319
+"Sodium, Na",mg,238,571
+"Zinc, Zn",mg,0.12,0.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.5,8.4
+"Thiamin",mg,0.050,0.120
+"Riboflavin",mg,0.039,0.094
+"Niacin",mg,0.464,1.114
+"Vitamin B-6",mg,0.069,0.166
+"Folate, DFE",µg,16,38
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,167,401
+"Vitamin A, IU",IU,3339,8014
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.014,0.034
+"Fatty acids, total monounsaturated",g,0.005,0.012
+"Fatty acids, total polyunsaturated",g,0.029,0.070
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:47 EST
+"Nutrient data for: 03282, Babyfood, vegetables, mix vegetables junior"
+Nutrient,Unit,1Value per 100 g,"1 serving 3.5 oz serving = 99.0g","1 tbsp = 15.0g","1 oz = 28.35g","1 cup = 240.0g","1 package 7 oz = 198.0g",
+Proximates
+"Water",g,89.40,88.51,13.41,25.34,214.56,177.01
+"Energy",kcal,36,36,5,10,86,71
+"Protein",g,1.40,1.39,0.21,0.40,3.36,2.77
+"Total lipid (fat)",g,0.40,0.40,0.06,0.11,0.96,0.79
+"Carbohydrate, by difference",g,8.20,8.12,1.23,2.32,19.68,16.24
+"Fiber, total dietary",g,1.5,1.5,0.2,0.4,3.6,3.0
+"Sugars, total",g,1.78,1.76,0.27,0.50,4.27,3.52
+Minerals
+"Calcium, Ca",mg,11,11,2,3,26,22
+"Iron, Fe",mg,0.41,0.41,0.06,0.12,0.98,0.81
+"Magnesium, Mg",mg,11,11,2,3,26,22
+"Phosphorus, P",mg,25,25,4,7,60,50
+"Potassium, K",mg,170,168,26,48,408,337
+"Sodium, Na",mg,36,36,5,10,86,71
+"Zinc, Zn",mg,0.27,0.27,0.04,0.08,0.65,0.53
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.5,2.5,0.4,0.7,6.0,5.0
+"Thiamin",mg,0.029,0.029,0.004,0.008,0.070,0.057
+"Riboflavin",mg,0.032,0.032,0.005,0.009,0.077,0.063
+"Niacin",mg,0.665,0.658,0.100,0.189,1.596,1.317
+"Vitamin B-6",mg,0.081,0.080,0.012,0.023,0.194,0.160
+"Folate, DFE",µg,4,4,1,1,10,8
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,210,208,32,60,504,416
+"Vitamin A, IU",IU,4195,4153,629,1189,10068,8306
+"Vitamin E (alpha-tocopherol)",mg,0.52,0.51,0.08,0.15,1.25,1.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,7.4,7.3,1.1,2.1,17.8,14.7
+Lipids
+"Fatty acids, total saturated",g,0.079,0.078,0.012,0.022,0.190,0.156
+"Fatty acids, total monounsaturated",g,0.025,0.025,0.004,0.007,0.060,0.050
+"Fatty acids, total polyunsaturated",g,0.186,0.184,0.028,0.053,0.446,0.368
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

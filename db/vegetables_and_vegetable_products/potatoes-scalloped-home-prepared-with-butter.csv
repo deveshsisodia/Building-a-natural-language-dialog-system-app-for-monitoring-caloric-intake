@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:28 EST
+"Nutrient data for: 11372, Potatoes, scalloped, home-prepared with butter"
+Nutrient,Unit,1Value per 100 g,"1 cup = 245.0g",
+Proximates
+"Water",g,80.94,198.30
+"Energy",kcal,88,216
+"Protein",g,2.87,7.03
+"Total lipid (fat)",g,3.68,9.02
+"Carbohydrate, by difference",g,10.78,26.41
+"Fiber, total dietary",g,1.9,4.7
+Minerals
+"Calcium, Ca",mg,57,140
+"Iron, Fe",mg,0.57,1.40
+"Magnesium, Mg",mg,19,47
+"Phosphorus, P",mg,63,154
+"Potassium, K",mg,378,926
+"Sodium, Na",mg,335,821
+"Zinc, Zn",mg,0.40,0.98
+Vitamins
+"Vitamin C, total ascorbic acid",mg,10.6,26.0
+"Thiamin",mg,0.069,0.169
+"Riboflavin",mg,0.092,0.225
+"Niacin",mg,1.053,2.580
+"Vitamin B-6",mg,0.178,0.436
+"Folate, DFE",µg,13,32
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,135,331
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,2.255,5.525
+"Fatty acids, total monounsaturated",g,1.039,2.546
+"Fatty acids, total polyunsaturated",g,0.166,0.407
+"Cholesterol",mg,12,29
+Amino Acids
+Other
+Footnotes
+(a)"Recipe:  Potatoes, 59%; whole milk, 36%; butter, 2%; flour, 2%; and salt, 1%."

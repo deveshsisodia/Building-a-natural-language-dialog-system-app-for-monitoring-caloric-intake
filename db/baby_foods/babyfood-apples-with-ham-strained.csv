@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:41 EST
+"Nutrient data for: 03289, Babyfood, apples with ham, strained"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 jar NFS = 113.0g","1 jar Gerber Second Food (4 oz) = 113.0g",
+Proximates
+"Water",g,85.30,12.79,96.39,96.39
+"Energy",kcal,62,9,70,70
+"Protein",g,2.60,0.39,2.94,2.94
+"Total lipid (fat)",g,0.90,0.14,1.02,1.02
+"Carbohydrate, by difference",g,10.90,1.64,12.32,12.32
+"Fiber, total dietary",g,1.8,0.3,2.0,2.0
+"Sugars, total",g,7.98,1.20,9.02,9.02
+Minerals
+"Calcium, Ca",mg,4,1,5,5
+"Iron, Fe",mg,0.30,0.04,0.34,0.34
+"Magnesium, Mg",mg,7,1,8,8
+"Phosphorus, P",mg,34,5,38,38
+"Potassium, K",mg,120,18,136,136
+"Sodium, Na",mg,9,1,10,10
+"Zinc, Zn",mg,0.40,0.06,0.45,0.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0,0.1,0.1
+"Thiamin",mg,0.060,0.009,0.068,0.068
+"Riboflavin",mg,0.060,0.009,0.068,0.068
+"Niacin",mg,0.730,0.109,0.825,0.825
+"Vitamin B-6",mg,0.070,0.011,0.079,0.079
+"Folate, DFE",µg,2,0,2,2
+"Vitamin B-12",µg,0.02,0.00,0.02,0.02
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,6,1,7,7
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.01,0.08,0.08
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.1,0.1
+"Vitamin D",IU,3,0,3,3
+"Vitamin K (phylloquinone)",µg,0.5,0.1,0.6,0.6
+Lipids
+"Fatty acids, total saturated",g,0.250,0.037,0.282,0.282
+"Fatty acids, total monounsaturated",g,0.360,0.054,0.407,0.407
+"Fatty acids, total polyunsaturated",g,0.111,0.017,0.125,0.125
+"Cholesterol",mg,8,1,9,9
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

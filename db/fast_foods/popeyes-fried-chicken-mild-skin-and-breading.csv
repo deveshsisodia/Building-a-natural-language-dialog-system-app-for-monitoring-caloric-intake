@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:38 EST
+"Nutrient data for: 21444, POPEYES, Fried Chicken, Mild, Skin and Breading"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,29.63,
+"Energy",kcal,433,
+"Protein",g,13.96,
+"Total lipid (fat)",g,32.32,
+"Carbohydrate, by difference",g,21.54,
+"Fiber, total dietary",g,1.0,
+"Sugars, total",g,0.00,
+Minerals
+"Calcium, Ca",mg,26,
+"Iron, Fe",mg,1.73,
+"Magnesium, Mg",mg,19,
+"Phosphorus, P",mg,119,
+"Potassium, K",mg,192,
+"Sodium, Na",mg,769,
+"Zinc, Zn",mg,0.67,
+Vitamins
+"Thiamin",mg,0.165,
+"Riboflavin",mg,0.283,
+"Niacin",mg,5.353,
+"Vitamin B-6",mg,0.107,
+"Vitamin B-12",µg,0.38,
+"Vitamin A, RAE",µg,25,
+"Vitamin A, IU",IU,84,
+"Vitamin E (alpha-tocopherol)",mg,0.20,
+Lipids
+"Fatty acids, total saturated",g,11.750,
+"Fatty acids, total monounsaturated",g,14.151,
+"Fatty acids, total polyunsaturated",g,3.094,
+"Fatty acids, total trans",g,1.240,
+"Cholesterol",mg,82,
+Amino Acids
+Other

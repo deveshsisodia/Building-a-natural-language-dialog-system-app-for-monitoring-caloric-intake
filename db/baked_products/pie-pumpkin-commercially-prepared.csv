@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:44 EST
+"Nutrient data for: 18326, Pie, pumpkin, commercially prepared"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice = 133.0g","1 pie = 995.0g",
+Proximates
+"Water",g,50.39,14.29,67.02,501.38
+"Energy",kcal,243,69,323,2418
+"Protein",g,3.90,1.11,5.19,38.80
+"Total lipid (fat)",g,9.75,2.76,12.97,97.01
+"Carbohydrate, by difference",g,34.83,9.87,46.32,346.56
+"Fiber, total dietary",g,1.8,0.5,2.4,17.9
+"Sugars, total",g,18.88,5.35,25.11,187.86
+Minerals
+"Calcium, Ca",mg,64,18,85,637
+"Iron, Fe",mg,0.90,0.26,1.20,8.96
+"Magnesium, Mg",mg,14,4,19,139
+"Phosphorus, P",mg,81,23,108,806
+"Potassium, K",mg,167,47,222,1662
+"Sodium, Na",mg,239,68,318,2378
+"Zinc, Zn",mg,0.39,0.11,0.52,3.88
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.177,0.050,0.235,1.761
+"Riboflavin",mg,0.124,0.035,0.165,1.234
+"Niacin",mg,1.107,0.314,1.472,11.015
+"Vitamin B-6",mg,0.063,0.018,0.084,0.627
+"Folate, DFE",µg,37,10,49,368
+"Vitamin B-12",µg,0.35,0.10,0.47,3.48
+"Vitamin A, RAE",µg,448,127,596,4458
+"Vitamin A, IU",IU,3434,974,4567,34168
+"Vitamin E (alpha-tocopherol)",mg,0.76,0.22,1.01,7.56
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.1,1.0
+"Vitamin D",IU,2,1,3,20
+"Vitamin K (phylloquinone)",µg,13.2,3.7,17.6,131.3
+Lipids
+"Fatty acids, total saturated",g,1.988,0.564,2.644,19.781
+"Fatty acids, total monounsaturated",g,4.600,1.304,6.118,45.770
+"Fatty acids, total polyunsaturated",g,1.770,0.502,2.354,17.611
+"Cholesterol",mg,26,7,35,259
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

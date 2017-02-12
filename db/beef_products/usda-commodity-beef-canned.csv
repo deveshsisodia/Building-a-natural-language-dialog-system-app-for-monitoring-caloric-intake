@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:58 EST
+"Nutrient data for: 13166, USDA Commodity, beef, canned"
+Nutrient,Unit,1Value per 100 g,"1 serving = 45.0g","1 can = 801.0g",
+Proximates
+"Water",g,61.19,27.54,490.13
+"Energy",kcal,246,111,1970
+"Protein",g,20.52,9.23,164.37
+"Total lipid (fat)",g,17.57,7.91,140.74
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,10,4,80
+"Iron, Fe",mg,2.23,1.00,17.86
+"Magnesium, Mg",mg,16,7,128
+"Phosphorus, P",mg,140,63,1121
+"Potassium, K",mg,227,102,1818
+"Sodium, Na",mg,187,84,1498
+"Zinc, Zn",mg,4.87,2.19,39.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.024,0.011,0.192
+"Riboflavin",mg,0.168,0.076,1.346
+"Niacin",mg,4.330,1.948,34.683
+"Vitamin B-6",mg,0.168,0.076,1.346
+"Folate, DFE",µg,2,1,16
+"Vitamin B-12",µg,1.66,0.75,13.30
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.96,0.88,15.70
+"Vitamin K (phylloquinone)",µg,9.6,4.3,76.9
+Lipids
+"Fatty acids, total saturated",g,8.590,3.865,68.806
+"Fatty acids, total monounsaturated",g,7.890,3.550,63.199
+"Fatty acids, total polyunsaturated",g,0.865,0.389,6.929
+"Cholesterol",mg,77,35,617
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

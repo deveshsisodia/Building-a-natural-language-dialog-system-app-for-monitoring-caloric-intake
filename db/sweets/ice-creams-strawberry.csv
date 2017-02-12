@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:43 EST
+"Nutrient data for: 19271, Ice creams, strawberry"
+Nutrient,Unit,1Value per 100 g,"1 individual (3.5 fl oz) = 58.0g","0.5 cup (4 fl oz) = 66.0g",
+Proximates
+"Water",g,60.00,34.80,39.60
+"Energy",kcal,192,111,127
+"Protein",g,3.20,1.86,2.11
+"Total lipid (fat)",g,8.40,4.87,5.54
+"Carbohydrate, by difference",g,27.60,16.01,18.22
+"Fiber, total dietary",g,0.9,0.5,0.6
+Minerals
+"Calcium, Ca",mg,120,70,79
+"Iron, Fe",mg,0.21,0.12,0.14
+"Magnesium, Mg",mg,14,8,9
+"Phosphorus, P",mg,100,58,66
+"Potassium, K",mg,188,109,124
+"Sodium, Na",mg,60,35,40
+"Zinc, Zn",mg,0.34,0.20,0.22
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.7,4.5,5.1
+"Thiamin",mg,0.045,0.026,0.030
+"Riboflavin",mg,0.255,0.148,0.168
+"Niacin",mg,0.170,0.099,0.112
+"Vitamin B-6",mg,0.050,0.029,0.033
+"Folate, DFE",µg,12,7,8
+"Vitamin B-12",µg,0.30,0.17,0.20
+"Vitamin A, RAE",µg,96,56,63
+"Vitamin A, IU",IU,320,186,211
+Lipids
+"Fatty acids, total saturated",g,5.190,3.010,3.425
+"Cholesterol",mg,29,17,19
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

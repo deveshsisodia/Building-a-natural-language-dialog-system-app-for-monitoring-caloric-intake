@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:45 EST
+"Nutrient data for: 03093, Babyfood, green beans, dices, toddler"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 jar = 128.0g",
+Proximates
+"Water",g,92.60,26.25,118.53
+"Energy",kcal,29,8,37
+"Protein",g,1.20,0.34,1.54
+"Total lipid (fat)",g,0.20,0.06,0.26
+"Carbohydrate, by difference",g,5.70,1.62,7.30
+"Fiber, total dietary",g,1.3,0.4,1.7
+"Sugars, total",g,1.06,0.30,1.36
+Minerals
+"Calcium, Ca",mg,27,8,35
+"Iron, Fe",mg,0.40,0.11,0.51
+"Magnesium, Mg",mg,19,5,24
+"Phosphorus, P",mg,22,6,28
+"Potassium, K",mg,116,33,148
+"Sodium, Na",mg,37,10,47
+"Zinc, Zn",mg,0.10,0.03,0.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.7,0.5,2.2
+"Thiamin",mg,0.020,0.006,0.026
+"Riboflavin",mg,0.040,0.011,0.051
+"Niacin",mg,0.230,0.065,0.294
+"Vitamin B-6",mg,0.030,0.009,0.038
+"Folate, DFE",µg,32,9,41
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,24,7,31
+"Vitamin A, IU",IU,481,136,616
+"Vitamin E (alpha-tocopherol)",mg,0.31,0.09,0.40
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,11.0,3.1,14.1
+Lipids
+"Fatty acids, total saturated",g,0.044,0.012,0.056
+"Fatty acids, total monounsaturated",g,0.008,0.002,0.010
+"Fatty acids, total polyunsaturated",g,0.102,0.029,0.131
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

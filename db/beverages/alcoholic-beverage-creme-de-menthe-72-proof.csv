@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:18 EST
+"Nutrient data for: 14034, Alcoholic beverage, creme de menthe, 72 proof"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 33.6g","1 jigger 1.5 fl oz = 50.0g",
+Proximates
+"Water",g,28.30,9.51,14.15
+"Energy",kcal,371,125,186
+"Protein",g,0.00,0.00,0.00
+"Total lipid (fat)",g,0.30,0.10,0.15
+"Carbohydrate, by difference",g,41.60,13.98,20.80
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,41.60,13.98,20.80
+Minerals
+"Calcium, Ca",mg,0,0,0
+"Iron, Fe",mg,0.07,0.02,0.04
+"Magnesium, Mg",mg,0,0,0
+"Phosphorus, P",mg,0,0,0
+"Potassium, K",mg,0,0,0
+"Sodium, Na",mg,5,2,2
+"Zinc, Zn",mg,0.04,0.01,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000
+"Riboflavin",mg,0.000,0.000,0.000
+"Niacin",mg,0.003,0.001,0.002
+"Vitamin B-6",mg,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.014,0.005,0.007
+"Fatty acids, total monounsaturated",g,0.015,0.005,0.007
+"Fatty acids, total polyunsaturated",g,0.167,0.056,0.083
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:31 EST
+"Nutrient data for: 05093, Chicken, broilers or fryers, thigh, meat and skin, cooked, fried, flour"
+Nutrient,Unit,1Value per 100 g,"1 unit (yield from 1 lb ready-to-cook chicken) = 38.0g","1 thigh, bone removed = 62.0g",
+Proximates
+"Water",g,54.14,20.57,33.57
+"Energy",kcal,262,100,162
+"Protein",g,26.75,10.16,16.59
+"Total lipid (fat)",g,14.98,5.69,9.29
+"Carbohydrate, by difference",g,3.18,1.21,1.97
+"Fiber, total dietary",g,0.1,0.0,0.1
+Minerals
+"Calcium, Ca",mg,14,5,9
+"Iron, Fe",mg,1.49,0.57,0.92
+"Magnesium, Mg",mg,25,10,16
+"Phosphorus, P",mg,187,71,116
+"Potassium, K",mg,237,90,147
+"Sodium, Na",mg,88,33,55
+"Zinc, Zn",mg,2.52,0.96,1.56
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.094,0.036,0.058
+"Riboflavin",mg,0.243,0.092,0.151
+"Niacin",mg,6.946,2.639,4.307
+"Vitamin B-6",mg,0.330,0.125,0.205
+"Folate, DFE",µg,15,6,9
+"Vitamin B-12",µg,0.30,0.11,0.19
+"Vitamin A, RAE",µg,29,11,18
+"Vitamin A, IU",IU,98,37,61
+Lipids
+"Fatty acids, total saturated",g,4.090,1.554,2.536
+"Fatty acids, total monounsaturated",g,5.870,2.231,3.639
+"Fatty acids, total polyunsaturated",g,3.410,1.296,2.114
+"Cholesterol",mg,97,37,60
+Amino Acids
+Other

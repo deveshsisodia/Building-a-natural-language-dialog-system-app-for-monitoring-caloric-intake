@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:28 EST
+"Nutrient data for: 11845, Pumpkin, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, mashed = 245.0g",
+Proximates
+"Water",g,93.69,229.54
+"Energy",kcal,18,44
+"Protein",g,0.72,1.76
+"Total lipid (fat)",g,0.07,0.17
+"Carbohydrate, by difference",g,4.31,10.56
+"Fiber, total dietary",g,1.1,2.7
+"Sugars, total",g,2.08,5.10
+Minerals
+"Calcium, Ca",mg,15,37
+"Iron, Fe",mg,0.57,1.40
+"Magnesium, Mg",mg,9,22
+"Phosphorus, P",mg,30,74
+"Potassium, K",mg,230,564
+"Sodium, Na",mg,237,581
+"Zinc, Zn",mg,0.23,0.56
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.7,11.5
+"Thiamin",mg,0.031,0.076
+"Riboflavin",mg,0.078,0.191
+"Niacin",mg,0.413,1.012
+"Vitamin B-6",mg,0.044,0.108
+"Folate, DFE",µg,9,22
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,288,706
+"Vitamin A, IU",IU,5755,14100
+"Vitamin E (alpha-tocopherol)",mg,0.80,1.96
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.8,2.0
+Lipids
+"Fatty acids, total saturated",g,0.037,0.091
+"Fatty acids, total monounsaturated",g,0.009,0.022
+"Fatty acids, total polyunsaturated",g,0.004,0.010
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

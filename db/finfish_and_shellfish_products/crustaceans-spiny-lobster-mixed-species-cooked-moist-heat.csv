@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:56 EST
+"Nutrient data for: 15228, Crustaceans, spiny lobster, mixed species, cooked, moist heat"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 lobster = 163.0g",
+Proximates
+"Water",g,66.76,56.75,108.82
+"Energy",kcal,143,122,233
+"Protein",g,26.41,22.45,43.05
+"Total lipid (fat)",g,1.94,1.65,3.16
+"Carbohydrate, by difference",g,3.12,2.65,5.09
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,63,54,103
+"Iron, Fe",mg,1.41,1.20,2.30
+"Magnesium, Mg",mg,51,43,83
+"Phosphorus, P",mg,229,195,373
+"Potassium, K",mg,208,177,339
+"Sodium, Na",mg,227,193,370
+"Zinc, Zn",mg,7.27,6.18,11.85
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.1,1.8,3.4
+"Thiamin",mg,0.009,0.008,0.015
+"Riboflavin",mg,0.056,0.048,0.091
+"Niacin",mg,4.898,4.163,7.984
+"Vitamin B-6",mg,0.173,0.147,0.282
+"Folate, DFE",µg,1,1,2
+"Vitamin B-12",µg,4.04,3.43,6.59
+"Vitamin A, RAE",µg,6,5,10
+"Vitamin A, IU",IU,20,17,33
+Lipids
+"Fatty acids, total saturated",g,0.303,0.258,0.494
+"Fatty acids, total monounsaturated",g,0.353,0.300,0.575
+"Fatty acids, total polyunsaturated",g,0.756,0.643,1.232
+"Cholesterol",mg,90,76,147
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:25 EST
+"Nutrient data for: 32008, Pasta mix, classic cheeseburger macaroni, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 package = 123.0g","1 packet = 51.0g",
+Proximates
+"Water",g,9.06,11.14,4.62
+"Energy",kcal,349,429,178
+"Protein",g,11.60,14.27,5.92
+"Total lipid (fat)",g,1.88,2.31,0.96
+"Carbohydrate, by difference",g,71.51,87.96,36.47
+"Fiber, total dietary",g,2.7,3.3,1.4
+"Sugars, total",g,4.97,6.11,2.53
+Minerals
+"Calcium, Ca",mg,28,34,14
+"Iron, Fe",mg,2.75,3.38,1.40
+"Magnesium, Mg",mg,35,43,18
+"Phosphorus, P",mg,131,161,67
+"Potassium, K",mg,204,251,104
+"Sodium, Na",mg,2152,2647,1098
+"Zinc, Zn",mg,0.82,1.01,0.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.3,2.8,1.2
+"Thiamin",mg,0.860,1.058,0.439
+"Riboflavin",mg,0.433,0.533,0.221
+"Niacin",mg,5.703,7.015,2.909
+"Vitamin B-6",mg,0.127,0.156,0.065
+"Folate, DFE",µg,198,244,101
+"Vitamin B-12",µg,0.30,0.37,0.15
+"Vitamin A, RAE",µg,25,31,13
+"Vitamin A, IU",IU,371,456,189
+"Vitamin E (alpha-tocopherol)",mg,0.43,0.53,0.22
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.1,1.4,0.6
+Lipids
+"Fatty acids, total saturated",g,0.368,0.453,0.188
+"Fatty acids, total monounsaturated",g,0.292,0.359,0.149
+"Fatty acids, total polyunsaturated",g,0.497,0.611,0.253
+"Fatty acids, total trans",g,0.054,0.066,0.028
+"Cholesterol",mg,1,1,1
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

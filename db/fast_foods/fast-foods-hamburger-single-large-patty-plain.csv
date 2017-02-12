@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:33 EST
+"Nutrient data for: 21112, Fast foods, hamburger; single, large patty; plain"
+Nutrient,Unit,1Value per 100 g,"1 sandwich = 137.0g",
+Proximates
+"Water",g,42.10,57.68
+"Energy",kcal,311,426
+"Protein",g,16.51,22.62
+"Total lipid (fat)",g,16.73,22.92
+"Carbohydrate, by difference",g,23.16,31.73
+Minerals
+"Calcium, Ca",mg,54,74
+"Iron, Fe",mg,2.61,3.58
+"Magnesium, Mg",mg,20,27
+"Phosphorus, P",mg,128,175
+"Potassium, K",mg,195,267
+"Sodium, Na",mg,346,474
+"Zinc, Zn",mg,3.00,4.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.210,0.288
+"Riboflavin",mg,0.210,0.288
+"Niacin",mg,4.560,6.247
+"Vitamin B-6",mg,0.170,0.233
+"Folate, DFE",µg,59,81
+"Vitamin B-12",µg,1.50,2.06
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,6.120,8.384
+"Fatty acids, total monounsaturated",g,7.210,9.878
+"Fatty acids, total polyunsaturated",g,1.560,2.137
+"Cholesterol",mg,52,71
+Amino Acids
+Other

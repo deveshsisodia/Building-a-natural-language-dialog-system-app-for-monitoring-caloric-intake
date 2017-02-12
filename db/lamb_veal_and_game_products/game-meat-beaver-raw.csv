@@ -1,0 +1,29 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:51 EST
+"Nutrient data for: 17150, Game meat, beaver, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g",
+Proximates
+"Water",g,70.97,20.12,321.92
+"Energy",kcal,146,41,662
+"Protein",g,24.05,6.82,109.09
+"Total lipid (fat)",g,4.80,1.36,21.77
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,15,4,68
+"Iron, Fe",mg,6.90,1.96,31.30
+"Magnesium, Mg",mg,25,7,113
+"Phosphorus, P",mg,237,67,1075
+"Potassium, K",mg,348,99,1579
+"Sodium, Na",mg,51,14,231
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.0,0.6,9.1
+"Thiamin",mg,0.060,0.017,0.272
+"Riboflavin",mg,0.220,0.062,0.998
+"Niacin",mg,1.900,0.539,8.618
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+Amino Acids
+Other

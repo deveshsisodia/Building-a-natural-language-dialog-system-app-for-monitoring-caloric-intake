@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:39 EST
+"Nutrient data for: 21247, WENDY'S, french fries"
+Nutrient,Unit,1Value per 100 g,"1 kid's meal Serving = 71.0g","1 small Serving = 113.0g","1 medium Serving = 142.0g","1 large Serving = 184.0g",
+Proximates
+"Water",g,40.62,28.84,45.90,57.68,74.74
+"Energy",kcal,301,214,340,427,554
+"Protein",g,3.73,2.65,4.21,5.30,6.86
+"Total lipid (fat)",g,14.10,10.01,15.93,20.02,25.94
+"Carbohydrate, by difference",g,39.73,28.21,44.89,56.42,73.10
+"Fiber, total dietary",g,4.0,2.8,4.5,5.7,7.4
+"Sugars, total",g,0.40,0.28,0.45,0.57,0.74
+Minerals
+"Calcium, Ca",mg,16,11,18,23,29
+"Iron, Fe",mg,0.93,0.66,1.05,1.32,1.71
+"Magnesium, Mg",mg,33,23,37,47,61
+"Phosphorus, P",mg,126,89,142,179,232
+"Potassium, K",mg,625,444,706,888,1150
+"Sodium, Na",mg,219,155,247,311,403
+"Zinc, Zn",mg,0.54,0.38,0.61,0.77,0.99
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.8,2.7,4.3,5.4,7.0
+"Thiamin",mg,0.157,0.111,0.177,0.223,0.289
+"Riboflavin",mg,0.053,0.038,0.060,0.075,0.098
+"Niacin",mg,3.007,2.135,3.398,4.270,5.533
+"Vitamin B-6",mg,0.387,0.275,0.437,0.550,0.712
+"Vitamin E (alpha-tocopherol)",mg,2.00,1.42,2.26,2.84,3.68
+"Vitamin K (phylloquinone)",µg,6.4,4.5,7.2,9.1,11.8
+Lipids
+"Fatty acids, total saturated",g,2.790,1.981,3.153,3.962,5.134
+"Fatty acids, total monounsaturated",g,3.195,2.268,3.610,4.537,5.879
+"Fatty acids, total polyunsaturated",g,7.456,5.294,8.425,10.588,13.719
+"Fatty acids, total trans",g,0.062,0.044,0.070,0.088,0.114
+Amino Acids
+Other

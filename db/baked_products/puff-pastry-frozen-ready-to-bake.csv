@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:45 EST
+"Nutrient data for: 18337, Puff pastry, frozen, ready-to-bake"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 shell = 47.0g",
+Proximates
+"Water",g,8.50,2.41,4.00
+"Energy",kcal,551,156,259
+"Protein",g,7.30,2.07,3.43
+"Total lipid (fat)",g,38.10,10.80,17.91
+"Carbohydrate, by difference",g,45.10,12.79,21.20
+"Fiber, total dietary",g,1.5,0.4,0.7
+"Sugars, total",g,0.74,0.21,0.35
+Minerals
+"Calcium, Ca",mg,10,3,5
+"Iron, Fe",mg,2.56,0.73,1.20
+"Magnesium, Mg",mg,16,5,8
+"Phosphorus, P",mg,60,17,28
+"Potassium, K",mg,61,17,29
+"Sodium, Na",mg,249,71,117
+"Zinc, Zn",mg,0.53,0.15,0.25
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.398,0.113,0.187
+"Riboflavin",mg,0.283,0.080,0.133
+"Niacin",mg,4.168,1.182,1.959
+"Vitamin B-6",mg,0.021,0.006,0.010
+"Folate, DFE",µg,124,35,58
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,1,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.54,0.15,0.25
+"Vitamin K (phylloquinone)",µg,16.1,4.6,7.6
+Lipids
+"Fatty acids, total saturated",g,9.643,2.734,4.532
+"Fatty acids, total monounsaturated",g,21.597,6.123,10.151
+"Fatty acids, total polyunsaturated",g,4.894,1.387,2.300
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

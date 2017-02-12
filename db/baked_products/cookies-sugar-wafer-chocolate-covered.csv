@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:35 EST
+"Nutrient data for: 28311, Cookies, sugar wafer, chocolate-covered"
+Nutrient,Unit,1Value per 100 g,"3.0 cookie = 29.0g",
+Proximates
+"Water",g,1.73,0.50
+"Energy",kcal,526,153
+"Protein",g,3.45,1.00
+"Total lipid (fat)",g,27.59,8.00
+"Carbohydrate, by difference",g,65.99,19.14
+"Fiber, total dietary",g,3.4,1.0
+"Sugars, total",g,51.72,15.00
+Minerals
+"Calcium, Ca",mg,0,0
+"Iron, Fe",mg,1.24,0.36
+"Magnesium, Mg",mg,45,13
+"Phosphorus, P",mg,117,34
+"Potassium, K",mg,311,90
+"Sodium, Na",mg,138,40
+"Zinc, Zn",mg,0.61,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.094,0.027
+"Riboflavin",mg,0.215,0.062
+"Niacin",mg,0.642,0.186
+"Vitamin B-6",mg,0.048,0.014
+"Folate, DFE",µg,23,7
+"Vitamin B-12",µg,0.15,0.04
+"Vitamin A, RAE",µg,1,0
+"Vitamin A, IU",IU,2,1
+"Vitamin E (alpha-tocopherol)",mg,2.16,0.63
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,6.9,2.0
+Lipids
+"Fatty acids, total saturated",g,17.241,5.000
+"Fatty acids, total monounsaturated",g,4.866,1.411
+"Fatty acids, total polyunsaturated",g,4.176,1.211
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,5,1

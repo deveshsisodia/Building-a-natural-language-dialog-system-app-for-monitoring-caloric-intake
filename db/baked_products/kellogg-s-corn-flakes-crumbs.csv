@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:40 EST
+"Nutrient data for: 28162, KELLOGG'S, Corn Flakes Crumbs"
+Nutrient,Unit,1Value per 100 g,"6.0 tbsp = 33.0g",
+Proximates
+"Water",g,3.00,0.99
+"Energy",kcal,367,121
+"Protein",g,7.50,2.48
+"Total lipid (fat)",g,0.40,0.13
+"Carbohydrate, by difference",g,84.40,27.85
+"Fiber, total dietary",g,1.2,0.4
+"Sugars, total",g,9.30,3.07
+Minerals
+"Iron, Fe",mg,13.30,4.39
+"Magnesium, Mg",mg,40,13
+"Phosphorus, P",mg,87,29
+"Potassium, K",mg,169,56
+"Sodium, Na",mg,638,211
+"Zinc, Zn",mg,1.00,0.33
+Vitamins
+"Thiamin",mg,2.020,0.667
+"Riboflavin",mg,2.600,0.858
+"Niacin",mg,4.800,1.584
+"Vitamin B-6",mg,0.600,0.198
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,64,21
+"Vitamin A, IU",IU,212,70
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.100,0.033
+"Fatty acids, total monounsaturated",g,0.100,0.033
+"Fatty acids, total polyunsaturated",g,0.200,0.066
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

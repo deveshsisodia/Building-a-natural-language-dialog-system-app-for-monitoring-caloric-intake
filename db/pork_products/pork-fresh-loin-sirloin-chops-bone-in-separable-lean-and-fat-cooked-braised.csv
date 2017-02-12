@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:45 EST
+"Nutrient data for: 10053, Pork, fresh, loin, sirloin (chops), bone-in, separable lean and fat, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 chop = 180.0g",
+Proximates
+"Water",g,58.88,50.05,105.98
+"Energy",kcal,234,199,421
+"Protein",g,28.81,24.49,51.86
+"Total lipid (fat)",g,12.31,10.46,22.16
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,12,10,22
+"Iron, Fe",mg,0.71,0.60,1.28
+"Magnesium, Mg",mg,24,20,43
+"Phosphorus, P",mg,285,242,513
+"Potassium, K",mg,400,340,720
+"Sodium, Na",mg,58,49,104
+"Zinc, Zn",mg,1.97,1.67,3.55
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.633,0.538,1.139
+"Riboflavin",mg,0.264,0.224,0.475
+"Niacin",mg,7.537,6.406,13.567
+"Vitamin B-6",mg,0.507,0.431,0.913
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.63,0.54,1.13
+"Vitamin A, RAE",µg,4,3,7
+"Vitamin A, IU",IU,13,11,23
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.19,0.40
+"Vitamin D (D2 + D3)",µg,0.6,0.5,1.1
+"Vitamin D",IU,22,19,40
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,4.294,3.650,7.729
+"Fatty acids, total monounsaturated",g,5.180,4.403,9.324
+"Fatty acids, total polyunsaturated",g,2.160,1.836,3.888
+"Fatty acids, total trans",g,0.078,0.066,0.140
+"Cholesterol",mg,87,74,157
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

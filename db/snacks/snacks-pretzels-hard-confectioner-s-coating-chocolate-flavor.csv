@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 19048, Snacks, pretzels, hard, confectioner's coating, chocolate-flavor"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 pretzel = 11.0g",
+Proximates
+"Water",g,2.50,0.71,0.28
+"Energy",kcal,457,130,50
+"Protein",g,7.50,2.13,0.82
+"Total lipid (fat)",g,16.70,4.73,1.84
+"Carbohydrate, by difference",g,70.90,20.10,7.80
+"Fiber, total dietary",g,2.4,0.7,0.3
+"Sugars, total",g,38.80,11.00,4.27
+Minerals
+"Calcium, Ca",mg,74,21,8
+"Iron, Fe",mg,2.00,0.57,0.22
+"Magnesium, Mg",mg,41,12,5
+"Phosphorus, P",mg,145,41,16
+"Potassium, K",mg,225,64,25
+"Sodium, Na",mg,569,161,63
+"Zinc, Zn",mg,0.92,0.26,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.1,0.1
+"Thiamin",mg,0.099,0.028,0.011
+"Riboflavin",mg,0.200,0.057,0.022
+"Niacin",mg,0.800,0.227,0.088
+"Vitamin B-6",mg,0.172,0.049,0.019
+"Folate, DFE",µg,9,3,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.62,0.18,0.07
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,11.1,3.1,1.2
+Lipids
+"Fatty acids, total saturated",g,7.680,2.177,0.845
+"Fatty acids, total monounsaturated",g,5.390,1.528,0.593
+"Fatty acids, total polyunsaturated",g,2.150,0.610,0.236
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,8,2,1

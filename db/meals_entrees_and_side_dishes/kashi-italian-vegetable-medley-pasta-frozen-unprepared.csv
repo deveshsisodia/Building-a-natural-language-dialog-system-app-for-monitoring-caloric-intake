@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:22 EST
+"Nutrient data for: 32030, KASHI Italian Vegetable Medley Pasta, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"0.5 package = 298.0g",
+Proximates
+"Water",g,75.00,223.50
+"Energy",kcal,106,316
+"Protein",g,4.70,14.01
+"Total lipid (fat)",g,2.60,7.75
+"Carbohydrate, by difference",g,16.30,48.57
+"Fiber, total dietary",g,2.7,8.0
+"Sugars, total",g,2.90,8.64
+Minerals
+"Calcium, Ca",mg,62,185
+"Iron, Fe",mg,1.20,3.58
+"Phosphorus, P",mg,25,74
+"Potassium, K",mg,209,623
+"Sodium, Na",mg,215,641
+"Zinc, Zn",mg,0.20,0.60
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.000,0.000
+"Riboflavin",mg,0.000,0.000
+"Niacin",mg,0.300,0.894
+"Vitamin B-6",mg,0.040,0.119
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,0,0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.300,3.874
+"Fatty acids, total monounsaturated",g,0.300,0.894
+"Fatty acids, total polyunsaturated",g,0.100,0.298
+"Fatty acids, total trans",g,0.100,0.298
+"Cholesterol",mg,7,21
+Amino Acids
+Other

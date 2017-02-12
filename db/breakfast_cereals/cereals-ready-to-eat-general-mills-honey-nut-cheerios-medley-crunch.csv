@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08670, Cereals ready-to-eat, GENERAL MILLS, HONEY NUT CHEERIOS, MEDLEY CRUNCH"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,2.70,0.81
+"Energy",kcal,387,116
+"Protein",g,9.10,2.73
+"Total lipid (fat)",g,5.40,1.62
+"Carbohydrate, by difference",g,79.50,23.85
+"Fiber, total dietary",g,7.5,2.2
+"Sugars, total",g,29.10,8.73
+Minerals
+"Calcium, Ca",mg,323,97
+"Iron, Fe",mg,14.50,4.35
+"Magnesium, Mg",mg,103,31
+"Phosphorus, P",mg,258,77
+"Potassium, K",mg,345,104
+"Sodium, Na",mg,385,116
+"Zinc, Zn",mg,12.10,3.63
+Vitamins
+"Vitamin C, total ascorbic acid",mg,19.4,5.8
+"Thiamin",mg,1.200,0.360
+"Riboflavin",mg,1.390,0.417
+"Niacin",mg,16.100,4.830
+"Vitamin B-6",mg,1.610,0.483
+"Vitamin B-12",µg,4.80,1.44
+"Vitamin A, IU",IU,1613,484
+"Vitamin D (D2 + D3)",µg,3.2,1.0
+"Vitamin D",IU,129,39
+Lipids
+"Fatty acids, total saturated",g,0.890,0.267
+"Fatty acids, total monounsaturated",g,2.290,0.687
+"Fatty acids, total polyunsaturated",g,1.890,0.567
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

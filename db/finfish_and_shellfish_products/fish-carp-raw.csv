@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:56 EST
+"Nutrient data for: 15008, Fish, carp, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 fillet = 218.0g",
+Proximates
+"Water",g,76.31,64.86,166.36
+"Energy",kcal,127,108,277
+"Protein",g,17.83,15.16,38.87
+"Total lipid (fat)",g,5.60,4.76,12.21
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,41,35,89
+"Iron, Fe",mg,1.24,1.05,2.70
+"Magnesium, Mg",mg,29,25,63
+"Phosphorus, P",mg,415,353,905
+"Potassium, K",mg,333,283,726
+"Sodium, Na",mg,49,42,107
+"Zinc, Zn",mg,1.48,1.26,3.23
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.6,1.4,3.5
+"Thiamin",mg,0.115,0.098,0.251
+"Riboflavin",mg,0.055,0.047,0.120
+"Niacin",mg,1.640,1.394,3.575
+"Vitamin B-6",mg,0.190,0.161,0.414
+"Folate, DFE",µg,15,13,33
+"Vitamin B-12",µg,1.53,1.30,3.34
+"Vitamin A, RAE",µg,9,8,20
+"Vitamin A, IU",IU,30,26,65
+"Vitamin E (alpha-tocopherol)",mg,0.63,0.54,1.37
+"Vitamin D (D2 + D3)",µg,24.7,21.0,53.8
+"Vitamin D",IU,988,840,2154
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.2
+Lipids
+"Fatty acids, total saturated",g,1.083,0.921,2.361
+"Fatty acids, total monounsaturated",g,2.328,1.979,5.075
+"Fatty acids, total polyunsaturated",g,1.431,1.216,3.120
+"Cholesterol",mg,66,56,144
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

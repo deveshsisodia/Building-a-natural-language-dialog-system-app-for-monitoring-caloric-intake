@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:22 EST
+"Nutrient data for: 11228, Jew's ear, (pepeao), raw"
+Nutrient,Unit,1Value per 100 g,"1 cup slices = 99.0g","1 piece = 6.0g",
+Proximates
+"Water",g,92.59,91.66,5.56
+"Energy",kcal,25,25,2
+"Protein",g,0.48,0.48,0.03
+"Total lipid (fat)",g,0.04,0.04,0.00
+"Carbohydrate, by difference",g,6.75,6.68,0.41
+Minerals
+"Calcium, Ca",mg,16,16,1
+"Iron, Fe",mg,0.56,0.55,0.03
+"Magnesium, Mg",mg,25,25,2
+"Phosphorus, P",mg,14,14,1
+"Potassium, K",mg,43,43,3
+"Sodium, Na",mg,9,9,1
+"Zinc, Zn",mg,0.66,0.65,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.6,0.0
+"Thiamin",mg,0.081,0.080,0.005
+"Riboflavin",mg,0.204,0.202,0.012
+"Niacin",mg,0.070,0.069,0.004
+"Vitamin B-6",mg,0.088,0.087,0.005
+"Folate, DFE",µg,19,19,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

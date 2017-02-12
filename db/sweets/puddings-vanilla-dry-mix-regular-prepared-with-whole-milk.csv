@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:48 EST
+"Nutrient data for: 19207, Puddings, vanilla, dry mix, regular, prepared with whole milk"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 140.0g","1 package yield (2 cups) = 559.0g",
+Proximates
+"Water",g,74.49,104.29,416.40
+"Energy",kcal,113,158,632
+"Protein",g,2.80,3.92,15.65
+"Total lipid (fat)",g,2.90,4.06,16.21
+"Carbohydrate, by difference",g,18.92,26.49,105.76
+"Fiber, total dietary",g,0.1,0.1,0.6
+"Sugars, total",g,17.09,23.93,95.53
+Minerals
+"Calcium, Ca",mg,99,139,553
+"Iron, Fe",mg,0.04,0.06,0.22
+"Magnesium, Mg",mg,9,13,50
+"Phosphorus, P",mg,74,104,414
+"Potassium, K",mg,119,167,665
+"Sodium, Na",mg,156,218,872
+"Zinc, Zn",mg,0.33,0.46,1.84
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.036,0.050,0.201
+"Riboflavin",mg,0.149,0.209,0.833
+"Niacin",mg,0.078,0.109,0.436
+"Vitamin B-6",mg,0.028,0.039,0.157
+"Folate, DFE",µg,4,6,22
+"Vitamin B-12",µg,0.31,0.43,1.73
+"Vitamin A, RAE",µg,40,56,224
+"Vitamin A, IU",IU,141,197,788
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.08,0.34
+"Vitamin D (D2 + D3)",µg,1.1,1.5,6.1
+"Vitamin D",IU,45,63,252
+"Vitamin K (phylloquinone)",µg,0.2,0.3,1.1
+Lipids
+"Fatty acids, total saturated",g,1.643,2.300,9.184
+"Fatty acids, total monounsaturated",g,0.714,1.000,3.991
+"Fatty acids, total polyunsaturated",g,0.197,0.276,1.101
+"Cholesterol",mg,9,13,50
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

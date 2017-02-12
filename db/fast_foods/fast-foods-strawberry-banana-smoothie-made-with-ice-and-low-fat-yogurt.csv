@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:33 EST
+"Nutrient data for: 21521, Fast foods, strawberry banana smoothie made with ice and low-fat yogurt"
+Nutrient,Unit,1Value per 100 g,"12.0 fl oz = 347.0g",
+Proximates
+"Water",g,83.61,290.13
+"Energy",kcal,65,226
+"Protein",g,0.86,2.98
+"Total lipid (fat)",g,0.14,0.49
+"Carbohydrate, by difference",g,15.05,52.22
+"Fiber, total dietary",g,0.9,3.1
+"Sugars, total",g,12.68,44.00
+Minerals
+"Calcium, Ca",mg,20,69
+"Iron, Fe",mg,0.14,0.49
+"Magnesium, Mg",mg,11,38
+"Phosphorus, P",mg,11,38
+"Potassium, K",mg,131,455
+"Sodium, Na",mg,14,49
+"Zinc, Zn",mg,0.09,0.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.2,18.0
+"Thiamin",mg,0.023,0.080
+"Riboflavin",mg,0.028,0.097
+"Niacin",mg,0.217,0.753
+"Vitamin B-6",mg,0.108,0.375
+"Folate, DFE",µg,8,28
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,2,7
+"Vitamin A, IU",IU,20,69
+"Vitamin E (alpha-tocopherol)",mg,0.03,0.10
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.3,1.0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.049,0.170
+"Fatty acids, total polyunsaturated",g,0.052,0.180
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,1,3
+Amino Acids
+Other
+"Caffeine",mg,0,0

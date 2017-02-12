@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:03 EST
+"Nutrient data for: 15089, Fish, sardine, Pacific, canned in tomato sauce, drained solids with bone"
+Nutrient,Unit,1Value per 100 g,"1 cup = 89.0g","1 can = 370.0g","1 sardine = 38.0g",
+Proximates
+"Water",g,66.86,59.51,247.38,25.41
+"Energy",kcal,185,165,684,70
+"Protein",g,20.86,18.57,77.18,7.93
+"Total lipid (fat)",g,10.45,9.30,38.66,3.97
+"Carbohydrate, by difference",g,0.54,0.48,2.00,0.21
+"Fiber, total dietary",g,0.1,0.1,0.4,0.0
+"Sugars, total",g,0.43,0.38,1.59,0.16
+Minerals
+"Calcium, Ca",mg,240,214,888,91
+"Iron, Fe",mg,2.30,2.05,8.51,0.87
+"Magnesium, Mg",mg,34,30,126,13
+"Phosphorus, P",mg,366,326,1354,139
+"Potassium, K",mg,341,303,1262,130
+"Sodium, Na",mg,414,368,1532,157
+"Zinc, Zn",mg,1.40,1.25,5.18,0.53
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.9,3.7,0.4
+"Thiamin",mg,0.044,0.039,0.163,0.017
+"Riboflavin",mg,0.233,0.207,0.862,0.089
+"Niacin",mg,4.200,3.738,15.540,1.596
+"Vitamin B-6",mg,0.123,0.109,0.455,0.047
+"Folate, DFE",µg,24,21,89,9
+"Vitamin B-12",µg,9.00,8.01,33.30,3.42
+"Vitamin A, RAE",µg,34,30,126,13
+"Vitamin A, IU",IU,151,134,559,57
+"Vitamin E (alpha-tocopherol)",mg,1.38,1.23,5.11,0.52
+"Vitamin D (D2 + D3)",µg,4.8,4.3,17.8,1.8
+"Vitamin D",IU,193,172,714,73
+"Vitamin K (phylloquinone)",µg,0.4,0.4,1.5,0.2
+Lipids
+"Fatty acids, total saturated",g,2.684,2.389,9.931,1.020
+"Fatty acids, total monounsaturated",g,4.818,4.288,17.827,1.831
+"Fatty acids, total polyunsaturated",g,2.111,1.879,7.811,0.802
+"Cholesterol",mg,61,54,226,23
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

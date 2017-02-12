@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18110, Cake, fruitcake, commercially prepared"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece = 43.0g",
+Proximates
+"Water",g,25.30,7.17,10.88
+"Energy",kcal,324,92,139
+"Protein",g,2.90,0.82,1.25
+"Total lipid (fat)",g,9.10,2.58,3.91
+"Carbohydrate, by difference",g,61.60,17.46,26.49
+"Fiber, total dietary",g,3.7,1.0,1.6
+"Sugars, total",g,27.42,7.77,11.79
+Minerals
+"Calcium, Ca",mg,33,9,14
+"Iron, Fe",mg,2.07,0.59,0.89
+"Magnesium, Mg",mg,16,5,7
+"Phosphorus, P",mg,52,15,22
+"Potassium, K",mg,153,43,66
+"Sodium, Na",mg,101,29,43
+"Zinc, Zn",mg,0.27,0.08,0.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.1,0.2
+"Thiamin",mg,0.050,0.014,0.021
+"Riboflavin",mg,0.099,0.028,0.043
+"Niacin",mg,0.791,0.224,0.340
+"Vitamin B-6",mg,0.046,0.013,0.020
+"Folate, DFE",µg,32,9,14
+"Vitamin B-12",µg,0.01,0.00,0.00
+"Vitamin A, RAE",µg,7,2,3
+"Vitamin A, IU",IU,22,6,9
+"Vitamin E (alpha-tocopherol)",mg,0.90,0.26,0.39
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.5,0.4,0.6
+Lipids
+"Fatty acids, total saturated",g,1.048,0.297,0.451
+"Fatty acids, total monounsaturated",g,4.200,1.191,1.806
+"Fatty acids, total polyunsaturated",g,3.323,0.942,1.429
+"Cholesterol",mg,5,1,2
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

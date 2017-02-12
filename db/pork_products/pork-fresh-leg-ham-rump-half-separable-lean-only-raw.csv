@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:42 EST
+"Nutrient data for: 10014, Pork, fresh, leg (ham), rump half, separable lean only, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 lb = 453.6g","1 roast = 3952.0g",
+Proximates
+"Water",g,74.78,63.56,339.20,2955.31
+"Energy",kcal,120,102,544,4742
+"Protein",g,21.81,18.54,98.93,861.93
+"Total lipid (fat)",g,2.93,2.49,13.29,115.79
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,12,10,54,474
+"Iron, Fe",mg,0.67,0.57,3.04,26.48
+"Magnesium, Mg",mg,22,19,100,869
+"Phosphorus, P",mg,235,200,1066,9287
+"Potassium, K",mg,359,305,1628,14188
+"Sodium, Na",mg,76,65,345,3004
+"Zinc, Zn",mg,1.85,1.57,8.39,73.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.545,0.463,2.472,21.538
+"Riboflavin",mg,0.340,0.289,1.542,13.437
+"Niacin",mg,6.042,5.136,27.407,238.780
+"Vitamin B-6",mg,0.557,0.473,2.527,22.013
+"Folate, DFE",µg,0,0,0,0
+"Vitamin B-12",µg,0.36,0.31,1.63,14.23
+"Vitamin A, RAE",µg,2,2,9,79
+"Vitamin A, IU",IU,7,6,32,277
+"Vitamin E (alpha-tocopherol)",mg,0.16,0.14,0.73,6.32
+"Vitamin D (D2 + D3)",µg,0.3,0.3,1.4,11.9
+"Vitamin D",IU,11,9,50,435
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.947,0.805,4.296,37.425
+"Fatty acids, total monounsaturated",g,1.148,0.976,5.207,45.369
+"Fatty acids, total polyunsaturated",g,0.615,0.523,2.790,24.305
+"Fatty acids, total trans",g,0.019,0.016,0.086,0.751
+"Cholesterol",mg,62,53,281,2450
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

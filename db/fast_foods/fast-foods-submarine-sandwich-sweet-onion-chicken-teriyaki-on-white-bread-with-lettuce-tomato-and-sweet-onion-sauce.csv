@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:34 EST
+"Nutrient data for: 21151, Fast foods, submarine sandwich, sweet onion chicken teriyaki on white bread with lettuce, tomato and sweet onion sauce"
+Nutrient,Unit,1Value per 100 g,"6.0 inch sub = 228.0g","12.0 inch sub = 457.0g",
+Proximates
+"Water",g,62.40,142.27,285.17
+"Energy",kcal,155,353,708
+"Protein",g,10.91,24.87,49.86
+"Total lipid (fat)",g,2.37,5.40,10.83
+"Carbohydrate, by difference",g,22.54,51.39,103.01
+"Fiber, total dietary",g,1.2,2.7,5.5
+"Sugars, total",g,6.06,13.82,27.69
+Minerals
+"Calcium, Ca",mg,142,324,649
+"Iron, Fe",mg,1.52,3.47,6.95
+"Magnesium, Mg",mg,23,52,105
+"Phosphorus, P",mg,139,317,635
+"Potassium, K",mg,285,650,1302
+"Sodium, Na",mg,305,695,1394
+"Zinc, Zn",mg,0.64,1.46,2.92
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,2.5,5.0
+"Thiamin",mg,0.273,0.622,1.248
+"Riboflavin",mg,0.213,0.486,0.973
+"Niacin",mg,5.063,11.544,23.138
+"Vitamin B-6",mg,0.282,0.643,1.289
+"Folate, DFE",µg,82,187,375
+"Vitamin B-12",µg,0.11,0.25,0.50
+"Vitamin A, RAE",µg,3,7,14
+"Vitamin A, IU",IU,56,128,256
+"Vitamin E (alpha-tocopherol)",mg,0.38,0.87,1.74
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,1,2,5
+"Vitamin K (phylloquinone)",µg,4.2,9.6,19.2
+Lipids
+"Fatty acids, total saturated",g,0.505,1.151,2.308
+"Fatty acids, total monounsaturated",g,0.642,1.464,2.934
+"Fatty acids, total polyunsaturated",g,0.831,1.895,3.798
+"Fatty acids, total trans",g,0.012,0.027,0.055
+"Cholesterol",mg,22,50,101
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

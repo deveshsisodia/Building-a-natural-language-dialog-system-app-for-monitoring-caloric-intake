@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:19 EST
+"Nutrient data for: 11135, Cauliflower, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup chopped (1/2"" pieces) = 107.0g","1 floweret = 13.0g","1 head large (6-7"" dia.) = 840.0g","1 head medium (5-6"" dia.) = 588.0g","1 head small (4"" dia.) = 265.0g",
+Proximates
+"Water",g,92.07,98.51,11.97,773.39,541.37,243.99
+"Energy",kcal,25,27,3,210,147,66
+"Protein",g,1.92,2.05,0.25,16.13,11.29,5.09
+"Total lipid (fat)",g,0.28,0.30,0.04,2.35,1.65,0.74
+"Carbohydrate, by difference",g,4.97,5.32,0.65,41.75,29.22,13.17
+"Fiber, total dietary",g,2.0,2.1,0.3,16.8,11.8,5.3
+"Sugars, total",g,1.91,2.04,0.25,16.04,11.23,5.06
+Minerals
+"Calcium, Ca",mg,22,24,3,185,129,58
+"Iron, Fe",mg,0.42,0.45,0.05,3.53,2.47,1.11
+"Magnesium, Mg",mg,15,16,2,126,88,40
+"Phosphorus, P",mg,44,47,6,370,259,117
+"Potassium, K",mg,299,320,39,2512,1758,792
+"Sodium, Na",mg,30,32,4,252,176,80
+"Zinc, Zn",mg,0.27,0.29,0.04,2.27,1.59,0.72
+Vitamins
+"Vitamin C, total ascorbic acid",mg,48.2,51.6,6.3,404.9,283.4,127.7
+"Thiamin",mg,0.050,0.054,0.007,0.420,0.294,0.133
+"Riboflavin",mg,0.060,0.064,0.008,0.504,0.353,0.159
+"Niacin",mg,0.507,0.542,0.066,4.259,2.981,1.344
+"Vitamin B-6",mg,0.184,0.197,0.024,1.546,1.082,0.488
+"Folate, DFE",µg,57,61,7,479,335,151
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.08,0.09,0.01,0.67,0.47,0.21
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,15.5,16.6,2.0,130.2,91.1,41.1
+Lipids
+"Fatty acids, total saturated",g,0.130,0.139,0.017,1.092,0.764,0.345
+"Fatty acids, total monounsaturated",g,0.034,0.036,0.004,0.286,0.200,0.090
+"Fatty acids, total polyunsaturated",g,0.031,0.033,0.004,0.260,0.182,0.082
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:53 EST
+"Nutrient data for: 25056, Snacks, granola bar, QUAKER, DIPPS, all flavors"
+Nutrient,Unit,1Value per 100 g,"1 bar = 31.0g",
+Proximates
+"Water",g,5.56,1.72
+"Energy",kcal,480,149
+"Protein",g,7.52,2.33
+"Total lipid (fat)",g,20.42,6.33
+"Carbohydrate, by difference",g,64.96,20.14
+"Fiber, total dietary",g,3.2,1.0
+"Sugars, total",g,37.61,11.66
+Minerals
+"Calcium, Ca",mg,65,20
+"Iron, Fe",mg,1.16,0.36
+"Magnesium, Mg",mg,55,17
+"Phosphorus, P",mg,162,50
+"Potassium, K",mg,231,72
+"Sodium, Na",mg,269,83
+"Zinc, Zn",mg,1.20,0.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.1
+"Thiamin",mg,0.132,0.041
+"Riboflavin",mg,0.097,0.030
+"Niacin",mg,1.007,0.312
+"Vitamin B-6",mg,0.115,0.036
+"Folate, DFE",µg,12,4
+"Vitamin B-12",µg,0.06,0.02
+"Vitamin A, RAE",µg,4,1
+"Vitamin A, IU",IU,15,5
+"Vitamin E (alpha-tocopherol)",mg,4.19,1.30
+"Vitamin D (D2 + D3)",µg,0.1,0.0
+"Vitamin D",IU,3,1
+"Vitamin K (phylloquinone)",µg,2.0,0.6
+Lipids
+"Fatty acids, total saturated",g,8.693,2.695
+"Fatty acids, total monounsaturated",g,3.499,1.085
+"Fatty acids, total polyunsaturated",g,7.051,2.186
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

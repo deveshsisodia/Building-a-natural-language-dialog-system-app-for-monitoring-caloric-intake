@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:42 EST
+"Nutrient data for: 43004, Babyfood, dessert, banana pudding, strained"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 jar NFS = 113.0g","1 jar Beech-Nut Stage 2 (4 oz) = 113.0g","1 jar Heinz Strained-2 (4.25 oz) = 120.0g",
+Proximates
+"Water",g,83.50,12.53,94.36,94.36,100.20
+"Energy",kcal,68,10,77,77,82
+"Protein",g,1.00,0.15,1.13,1.13,1.20
+"Total lipid (fat)",g,0.80,0.12,0.90,0.90,0.96
+"Carbohydrate, by difference",g,14.14,2.12,15.98,15.98,16.97
+"Fiber, total dietary",g,0.8,0.1,0.9,0.9,1.0
+"Sugars, total",g,10.55,1.58,11.92,11.92,12.66
+Minerals
+"Calcium, Ca",mg,11,2,12,12,13
+"Iron, Fe",mg,0.30,0.04,0.34,0.34,0.36
+"Magnesium, Mg",mg,5,1,6,6,6
+"Phosphorus, P",mg,34,5,38,38,41
+"Potassium, K",mg,90,14,102,102,108
+"Sodium, Na",mg,54,8,61,61,65
+"Zinc, Zn",mg,0.12,0.02,0.14,0.14,0.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,12.0,1.8,13.6,13.6,14.4
+"Thiamin",mg,0.010,0.002,0.011,0.011,0.012
+"Riboflavin",mg,0.060,0.009,0.068,0.068,0.072
+"Niacin",mg,0.160,0.024,0.181,0.181,0.192
+"Vitamin B-6",mg,0.130,0.020,0.147,0.147,0.156
+"Folate, DFE",µg,6,1,7,7,7
+"Vitamin B-12",µg,0.01,0.00,0.01,0.01,0.01
+"Vitamin A, RAE",µg,1,0,1,1,1
+"Vitamin A, IU",IU,19,3,21,21,23
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.01,0.08,0.08,0.08
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.1,0.1,0.1
+"Vitamin D",IU,5,1,6,6,6
+"Vitamin K (phylloquinone)",µg,0.2,0.0,0.2,0.2,0.2
+Lipids
+"Fatty acids, total saturated",g,0.264,0.040,0.298,0.298,0.317
+"Fatty acids, total monounsaturated",g,0.277,0.042,0.313,0.313,0.332
+"Fatty acids, total polyunsaturated",g,0.111,0.017,0.125,0.125,0.133
+"Cholesterol",mg,29,4,33,33,35
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

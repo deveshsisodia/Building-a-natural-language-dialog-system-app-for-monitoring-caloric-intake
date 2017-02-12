@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:21 EST
+"Nutrient data for: 04704, Salad dressing, poppyseed, creamy"
+Nutrient,Unit,1Value per 100 g,"2.0 tbsp = 33.0g",
+Proximates
+"Water",g,38.85,12.82
+"Energy",kcal,399,132
+"Protein",g,0.92,0.30
+"Total lipid (fat)",g,33.33,11.00
+"Carbohydrate, by difference",g,23.73,7.83
+"Fiber, total dietary",g,0.3,0.1
+"Sugars, total",g,23.39,7.72
+Minerals
+"Calcium, Ca",mg,59,19
+"Iron, Fe",mg,0.25,0.08
+"Magnesium, Mg",mg,9,3
+"Phosphorus, P",mg,49,16
+"Potassium, K",mg,61,20
+"Sodium, Na",mg,933,308
+"Zinc, Zn",mg,0.25,0.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.1
+"Thiamin",mg,0.024,0.008
+"Riboflavin",mg,0.058,0.019
+"Niacin",mg,0.047,0.016
+"Vitamin B-6",mg,0.022,0.007
+"Folate, DFE",µg,3,1
+"Vitamin B-12",µg,0.09,0.03
+"Vitamin A, RAE",µg,51,17
+"Vitamin A, IU",IU,180,59
+"Vitamin E (alpha-tocopherol)",mg,2.36,0.78
+"Vitamin D (D2 + D3)",µg,0.1,0.0
+"Vitamin D",IU,4,1
+"Vitamin K (phylloquinone)",µg,50.2,16.6
+Lipids
+"Fatty acids, total saturated",g,6.061,2.000
+"Fatty acids, total monounsaturated",g,8.207,2.708
+"Fatty acids, total polyunsaturated",g,17.326,5.718
+"Fatty acids, total trans",g,0.144,0.048
+"Cholesterol",mg,15,5
+Amino Acids
+Other
+"Caffeine",mg,0,0

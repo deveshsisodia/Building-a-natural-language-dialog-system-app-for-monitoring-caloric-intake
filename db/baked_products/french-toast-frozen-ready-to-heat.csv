@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:38 EST
+"Nutrient data for: 18268, French toast, frozen, ready-to-heat"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece = 59.0g",
+Proximates
+"Water",g,52.60,14.91,31.03
+"Energy",kcal,213,60,126
+"Protein",g,7.40,2.10,4.37
+"Total lipid (fat)",g,6.10,1.73,3.60
+"Carbohydrate, by difference",g,32.10,9.10,18.94
+"Fiber, total dietary",g,1.1,0.3,0.6
+Minerals
+"Calcium, Ca",mg,107,30,63
+"Iron, Fe",mg,2.21,0.63,1.30
+"Magnesium, Mg",mg,17,5,10
+"Phosphorus, P",mg,139,39,82
+"Potassium, K",mg,134,38,79
+"Sodium, Na",mg,495,140,292
+"Zinc, Zn",mg,0.77,0.22,0.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.1,0.2
+"Thiamin",mg,0.277,0.079,0.163
+"Riboflavin",mg,0.381,0.108,0.225
+"Niacin",mg,2.722,0.772,1.606
+"Vitamin B-6",mg,0.496,0.141,0.293
+"Folate, DFE",µg,72,20,42
+"Vitamin B-12",µg,1.68,0.48,0.99
+"Vitamin A, RAE",µg,54,15,32
+"Vitamin A, IU",IU,187,53,110
+Lipids
+"Fatty acids, total saturated",g,1.533,0.435,0.904
+"Fatty acids, total monounsaturated",g,2.040,0.578,1.204
+"Fatty acids, total polyunsaturated",g,1.227,0.348,0.724
+"Cholesterol",mg,82,23,48
+Amino Acids
+Other

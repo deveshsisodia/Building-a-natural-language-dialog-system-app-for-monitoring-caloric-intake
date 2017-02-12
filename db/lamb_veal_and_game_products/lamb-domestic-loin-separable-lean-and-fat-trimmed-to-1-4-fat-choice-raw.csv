@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:58 EST
+"Nutrient data for: 17023, Lamb, domestic, loin, separable lean and fat, trimmed to 1/4"" fat, choice, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 120 g) = 95.0g",
+Proximates
+"Water",g,56.55,16.03,53.72
+"Energy",kcal,310,88,294
+"Protein",g,16.32,4.63,15.50
+"Total lipid (fat)",g,26.63,7.55,25.30
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,15,4,14
+"Iron, Fe",mg,1.61,0.46,1.53
+"Magnesium, Mg",mg,21,6,20
+"Phosphorus, P",mg,152,43,144
+"Potassium, K",mg,214,61,203
+"Sodium, Na",mg,56,16,53
+"Zinc, Zn",mg,2.53,0.72,2.40
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.110,0.031,0.104
+"Riboflavin",mg,0.210,0.060,0.199
+"Niacin",mg,6.470,1.834,6.146
+"Vitamin B-6",mg,0.130,0.037,0.123
+"Folate, DFE",µg,17,5,16
+"Vitamin B-12",µg,2.04,0.58,1.94
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.18,0.05,0.17
+Lipids
+"Fatty acids, total saturated",g,11.760,3.334,11.172
+"Fatty acids, total monounsaturated",g,10.940,3.101,10.393
+"Fatty acids, total polyunsaturated",g,2.080,0.590,1.976
+"Cholesterol",mg,74,21,70
+Amino Acids
+Other

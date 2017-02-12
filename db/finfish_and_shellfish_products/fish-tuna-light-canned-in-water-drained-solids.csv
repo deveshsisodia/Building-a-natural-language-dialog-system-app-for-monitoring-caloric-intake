@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:05 EST
+"Nutrient data for: 15121, Fish, tuna, light, canned in water, drained solids"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","3.0 oz = 85.0g","1 can = 165.0g","1 cup, solid or chunks = 154.0g","1 can (12.5 oz), drained = 315.0g",
+Proximates
+"Water",g,78.14,22.15,66.42,128.93,120.34,246.14
+"Energy",kcal,86,24,73,142,132,271
+"Protein",g,19.44,5.51,16.52,32.08,29.94,61.24
+"Total lipid (fat)",g,0.96,0.27,0.82,1.58,1.48,3.02
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,17,5,14,28,26,54
+"Iron, Fe",mg,1.63,0.46,1.39,2.69,2.51,5.13
+"Magnesium, Mg",mg,23,7,20,38,35,72
+"Phosphorus, P",mg,139,39,118,229,214,438
+"Potassium, K",mg,179,51,152,295,276,564
+"Sodium, Na",mg,247,70,210,408,380,778
+"Zinc, Zn",mg,0.69,0.20,0.59,1.14,1.06,2.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.030,0.009,0.025,0.050,0.046,0.094
+"Riboflavin",mg,0.084,0.024,0.071,0.139,0.129,0.265
+"Niacin",mg,10.136,2.874,8.616,16.724,15.609,31.928
+"Vitamin B-6",mg,0.319,0.090,0.271,0.526,0.491,1.005
+"Folate, DFE",µg,4,1,3,7,6,13
+"Vitamin B-12",µg,2.55,0.72,2.17,4.21,3.93,8.03
+"Vitamin A, RAE",µg,17,5,14,28,26,54
+"Vitamin A, IU",IU,57,16,48,94,88,180
+"Vitamin E (alpha-tocopherol)",mg,0.33,0.09,0.28,0.54,0.51,1.04
+"Vitamin D (D2 + D3)",µg,1.2,0.3,1.0,2.0,1.8,3.8
+"Vitamin D",IU,47,13,40,78,72,148
+"Vitamin K (phylloquinone)",µg,0.2,0.1,0.2,0.3,0.3,0.6
+Lipids
+"Fatty acids, total saturated",g,0.211,0.060,0.179,0.348,0.325,0.665
+"Fatty acids, total monounsaturated",g,0.107,0.030,0.091,0.177,0.165,0.337
+"Fatty acids, total polyunsaturated",g,0.277,0.079,0.235,0.457,0.427,0.873
+"Fatty acids, total trans",g,0.002,0.001,0.002,0.003,0.003,0.006
+"Cholesterol",mg,36,10,31,59,55,113
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

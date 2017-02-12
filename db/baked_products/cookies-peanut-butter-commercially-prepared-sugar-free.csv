@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:34 EST
+"Nutrient data for: 28301, Cookies, peanut butter, commercially prepared, sugar free"
+Nutrient,Unit,1Value per 100 g,"1 serving 3 cookies = 29.0g",
+Proximates
+"Water",g,6.17,1.79
+"Energy",kcal,523,152
+"Protein",g,10.34,3.00
+"Total lipid (fat)",g,31.03,9.00
+"Carbohydrate, by difference",g,50.52,14.65
+"Fiber, total dietary",g,3.4,1.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,0,0
+"Iron, Fe",mg,2.48,0.72
+"Magnesium, Mg",mg,49,14
+"Phosphorus, P",mg,132,38
+"Potassium, K",mg,202,59
+"Sodium, Na",mg,448,130
+"Zinc, Zn",mg,1.05,0.30
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.340,0.099
+"Riboflavin",mg,0.222,0.064
+"Niacin",mg,5.538,1.606
+"Vitamin B-6",mg,0.112,0.032
+"Folate, DFE",µg,117,34
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,1,0
+"Vitamin E (alpha-tocopherol)",mg,3.51,1.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,34.8,10.1
+Lipids
+"Fatty acids, total saturated",g,8.621,2.500
+"Fatty acids, total monounsaturated",g,7.735,2.243
+"Fatty acids, total polyunsaturated",g,11.486,3.331
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,17,5
+Amino Acids
+Other
+"Caffeine",mg,0,0

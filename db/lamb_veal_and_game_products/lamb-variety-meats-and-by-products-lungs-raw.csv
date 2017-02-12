@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:05 EST
+"Nutrient data for: 17205, Lamb, variety meats and by-products, lungs, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","4.0 oz = 113.0g",
+Proximates
+"Water",g,79.70,22.59,90.06
+"Energy",kcal,95,27,107
+"Protein",g,16.70,4.73,18.87
+"Total lipid (fat)",g,2.60,0.74,2.94
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,10,3,11
+"Iron, Fe",mg,6.40,1.81,7.23
+"Magnesium, Mg",mg,14,4,16
+"Phosphorus, P",mg,219,62,247
+"Potassium, K",mg,238,67,269
+"Sodium, Na",mg,157,45,177
+"Zinc, Zn",mg,1.80,0.51,2.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,31.0,8.8,35.0
+"Thiamin",mg,0.048,0.014,0.054
+"Riboflavin",mg,0.237,0.067,0.268
+"Niacin",mg,4.124,1.169,4.660
+"Vitamin B-6",mg,0.110,0.031,0.124
+"Folate, DFE",µg,12,3,14
+"Vitamin B-12",µg,3.93,1.11,4.44
+"Vitamin A, RAE",µg,27,8,31
+"Vitamin A, IU",IU,89,25,101
+Lipids
+"Fatty acids, total saturated",g,0.890,0.252,1.006
+"Fatty acids, total monounsaturated",g,0.670,0.190,0.757
+"Fatty acids, total polyunsaturated",g,0.350,0.099,0.395
+Amino Acids
+Other

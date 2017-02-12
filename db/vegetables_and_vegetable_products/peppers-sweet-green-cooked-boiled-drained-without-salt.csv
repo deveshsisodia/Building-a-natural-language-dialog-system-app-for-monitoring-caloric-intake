@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:26 EST
+"Nutrient data for: 11334, Peppers, sweet, green, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped or strips = 135.0g","1 tablespoon, chopped = 11.6g",
+Proximates
+"Water",g,91.87,124.02,10.66
+"Energy",kcal,28,38,3
+"Protein",g,0.92,1.24,0.11
+"Total lipid (fat)",g,0.20,0.27,0.02
+"Carbohydrate, by difference",g,6.70,9.04,0.78
+"Fiber, total dietary",g,1.2,1.6,0.1
+"Sugars, total",g,3.19,4.31,0.37
+Minerals
+"Calcium, Ca",mg,9,12,1
+"Iron, Fe",mg,0.46,0.62,0.05
+"Magnesium, Mg",mg,10,14,1
+"Phosphorus, P",mg,18,24,2
+"Potassium, K",mg,166,224,19
+"Sodium, Na",mg,2,3,0
+"Zinc, Zn",mg,0.12,0.16,0.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,74.4,100.4,8.6
+"Thiamin",mg,0.059,0.080,0.007
+"Riboflavin",mg,0.030,0.041,0.003
+"Niacin",mg,0.477,0.644,0.055
+"Vitamin B-6",mg,0.233,0.315,0.027
+"Folate, DFE",µg,16,22,2
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,23,31,3
+"Vitamin A, IU",IU,468,632,54
+"Vitamin E (alpha-tocopherol)",mg,0.50,0.68,0.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,9.8,13.2,1.1
+Lipids
+"Fatty acids, total saturated",g,0.029,0.039,0.003
+"Fatty acids, total monounsaturated",g,0.013,0.018,0.002
+"Fatty acids, total polyunsaturated",g,0.106,0.143,0.012
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

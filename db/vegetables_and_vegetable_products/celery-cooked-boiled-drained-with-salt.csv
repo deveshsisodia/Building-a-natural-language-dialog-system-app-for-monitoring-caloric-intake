@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:19 EST
+"Nutrient data for: 11764, Celery, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, diced = 150.0g","2.0 stalks = 75.0g",
+Proximates
+"Water",g,94.11,141.16,70.58
+"Energy",kcal,18,27,14
+"Protein",g,0.83,1.25,0.62
+"Total lipid (fat)",g,0.16,0.24,0.12
+"Carbohydrate, by difference",g,4.00,6.00,3.00
+"Fiber, total dietary",g,1.6,2.4,1.2
+"Sugars, total",g,2.37,3.56,1.78
+Minerals
+"Calcium, Ca",mg,42,63,32
+"Iron, Fe",mg,0.42,0.63,0.32
+"Magnesium, Mg",mg,12,18,9
+"Phosphorus, P",mg,25,38,19
+"Potassium, K",mg,284,426,213
+"Sodium, Na",mg,327,490,245
+"Zinc, Zn",mg,0.14,0.21,0.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.1,9.2,4.6
+"Thiamin",mg,0.043,0.064,0.032
+"Riboflavin",mg,0.047,0.070,0.035
+"Niacin",mg,0.319,0.479,0.239
+"Vitamin B-6",mg,0.086,0.129,0.064
+"Folate, DFE",µg,22,33,16
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,26,39,20
+"Vitamin A, IU",IU,521,782,391
+"Vitamin E (alpha-tocopherol)",mg,0.35,0.53,0.26
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,37.8,56.7,28.4
+Lipids
+"Fatty acids, total saturated",g,0.040,0.060,0.030
+"Fatty acids, total monounsaturated",g,0.030,0.045,0.022
+"Fatty acids, total polyunsaturated",g,0.075,0.113,0.056
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

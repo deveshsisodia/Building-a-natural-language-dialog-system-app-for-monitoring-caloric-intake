@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08687, Cereals, QUAKER, Weight Control Instant Oatmeal, banana bread"
+Nutrient,Unit,1Value per 100 g,"1 packet (1 NLEA serving) = 45.0g",
+Proximates
+"Water",g,9.04,4.07
+"Energy",kcal,361,162
+"Protein",g,16.50,7.42
+"Total lipid (fat)",g,6.16,2.77
+"Carbohydrate, by difference",g,64.42,28.99
+"Fiber, total dietary",g,12.6,5.7
+"Sugars, total",g,1.29,0.58
+Minerals
+"Calcium, Ca",mg,243,109
+"Iron, Fe",mg,8.78,3.95
+"Magnesium, Mg",mg,117,53
+"Phosphorus, P",mg,396,178
+"Potassium, K",mg,327,147
+"Sodium, Na",mg,619,279
+"Zinc, Zn",mg,2.60,1.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0
+"Thiamin",mg,0.735,0.331
+"Riboflavin",mg,0.865,0.389
+"Niacin",mg,10.177,4.580
+"Vitamin B-6",mg,1.018,0.458
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,2544,1145
+"Vitamin E (alpha-tocopherol)",mg,0.55,0.25
+Lipids
+"Fatty acids, total saturated",g,1.188,0.535
+"Fatty acids, total monounsaturated",g,2.185,0.983
+"Fatty acids, total polyunsaturated",g,1.807,0.813
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,1,0
+Amino Acids
+Other

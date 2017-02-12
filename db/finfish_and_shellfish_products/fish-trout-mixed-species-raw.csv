@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:05 EST
+"Nutrient data for: 15114, Fish, trout, mixed species, raw"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 79.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,71.42,56.42,60.71
+"Energy",kcal,148,117,126
+"Protein",g,20.77,16.41,17.65
+"Total lipid (fat)",g,6.61,5.22,5.62
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,43,34,37
+"Iron, Fe",mg,1.50,1.19,1.27
+"Magnesium, Mg",mg,22,17,19
+"Phosphorus, P",mg,245,194,208
+"Potassium, K",mg,361,285,307
+"Sodium, Na",mg,52,41,44
+"Zinc, Zn",mg,0.66,0.52,0.56
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.4,0.4
+"Thiamin",mg,0.350,0.276,0.297
+"Riboflavin",mg,0.330,0.261,0.281
+"Niacin",mg,4.500,3.555,3.825
+"Vitamin B-6",mg,0.200,0.158,0.170
+"Folate, DFE",µg,13,10,11
+"Vitamin B-12",µg,7.79,6.15,6.62
+"Vitamin A, RAE",µg,17,13,14
+"Vitamin A, IU",IU,57,45,48
+"Vitamin E (alpha-tocopherol)",mg,0.20,0.16,0.17
+"Vitamin D (D2 + D3)",µg,3.9,3.1,3.3
+"Vitamin D",IU,155,122,132
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,1.149,0.908,0.977
+"Fatty acids, total monounsaturated",g,3.254,2.571,2.766
+"Fatty acids, total polyunsaturated",g,1.499,1.184,1.274
+"Cholesterol",mg,58,46,49
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

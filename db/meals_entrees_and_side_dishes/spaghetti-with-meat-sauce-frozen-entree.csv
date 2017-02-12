@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:26 EST
+"Nutrient data for: 22401, Spaghetti with meat sauce, frozen entree"
+Nutrient,Unit,1Value per 100 g,"1 serving = 283.0g","1 oz = 28.35g",
+Proximates
+"Water",g,77.82,220.23,22.06
+"Energy",kcal,90,255,26
+"Protein",g,5.05,14.29,1.43
+"Total lipid (fat)",g,1.01,2.86,0.29
+"Carbohydrate, by difference",g,15.24,43.13,4.32
+"Fiber, total dietary",g,1.8,5.1,0.5
+"Sugars, total",g,2.60,7.36,0.74
+Minerals
+"Calcium, Ca",mg,18,51,5
+"Iron, Fe",mg,1.25,3.54,0.35
+"Magnesium, Mg",mg,15,42,4
+"Phosphorus, P",mg,49,139,14
+"Potassium, K",mg,144,408,41
+"Sodium, Na",mg,238,674,67
+"Zinc, Zn",mg,0.51,1.44,0.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.4,15.3,1.5
+"Thiamin",mg,0.122,0.345,0.035
+"Riboflavin",mg,1.333,3.772,0.378
+"Niacin",mg,0.177,0.501,0.050
+"Vitamin B-6",mg,0.070,0.198,0.020
+"Folate, DFE",µg,72,204,20
+"Vitamin B-12",µg,0.06,0.17,0.02
+"Vitamin A, RAE",µg,9,25,3
+"Vitamin A, IU",IU,174,492,49
+"Vitamin E (alpha-tocopherol)",mg,0.50,1.42,0.14
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.7,2.0,0.2
+Lipids
+"Fatty acids, total saturated",g,0.350,0.990,0.099
+"Fatty acids, total monounsaturated",g,0.330,0.934,0.094
+"Fatty acids, total polyunsaturated",g,0.320,0.906,0.091
+"Cholesterol",mg,6,17,2
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

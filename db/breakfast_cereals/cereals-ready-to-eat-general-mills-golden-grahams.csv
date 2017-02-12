@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08035, Cereals ready-to-eat, GENERAL MILLS, GOLDEN GRAHAMS"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 31.0g",
+Proximates
+"Water",g,2.20,0.68
+"Energy",kcal,374,116
+"Protein",g,5.30,1.64
+"Total lipid (fat)",g,3.20,0.99
+"Carbohydrate, by difference",g,85.10,26.38
+"Fiber, total dietary",g,5.6,1.7
+"Sugars, total",g,35.00,10.85
+Minerals
+"Calcium, Ca",mg,323,100
+"Iron, Fe",mg,14.50,4.50
+"Magnesium, Mg",mg,26,8
+"Phosphorus, P",mg,129,40
+"Potassium, K",mg,206,64
+"Sodium, Na",mg,772,239
+"Zinc, Zn",mg,12.10,3.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,19.4,6.0
+"Thiamin",mg,1.200,0.372
+"Riboflavin",mg,1.400,0.434
+"Niacin",mg,16.100,4.991
+"Vitamin B-6",mg,1.613,0.500
+"Folate, DFE",µg,535,166
+"Vitamin B-12",µg,4.80,1.49
+"Vitamin A, RAE",µg,472,146
+"Vitamin A, IU",IU,1613,500
+"Vitamin E (alpha-tocopherol)",mg,0.64,0.20
+"Vitamin D (D2 + D3)",µg,3.2,1.0
+"Vitamin D",IU,129,40
+"Vitamin K (phylloquinone)",µg,2.0,0.6
+Lipids
+"Fatty acids, total saturated",g,0.400,0.124
+"Fatty acids, total monounsaturated",g,1.600,0.496
+"Fatty acids, total polyunsaturated",g,1.000,0.310
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

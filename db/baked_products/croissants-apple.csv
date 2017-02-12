@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:36 EST
+"Nutrient data for: 18240, Croissants, apple"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 croissant, medium = 57.0g",
+Proximates
+"Water",g,45.60,12.93,25.99
+"Energy",kcal,254,72,145
+"Protein",g,7.40,2.10,4.22
+"Total lipid (fat)",g,8.70,2.47,4.96
+"Carbohydrate, by difference",g,37.10,10.52,21.15
+"Fiber, total dietary",g,2.5,0.7,1.4
+Minerals
+"Calcium, Ca",mg,30,9,17
+"Iron, Fe",mg,1.10,0.31,0.63
+"Magnesium, Mg",mg,13,4,7
+"Phosphorus, P",mg,58,16,33
+"Potassium, K",mg,90,26,51
+"Sodium, Na",mg,274,78,156
+"Zinc, Zn",mg,1.03,0.29,0.59
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.1,0.3
+"Thiamin",mg,0.232,0.066,0.132
+"Riboflavin",mg,0.164,0.046,0.093
+"Niacin",mg,1.600,0.454,0.912
+"Vitamin B-6",mg,0.032,0.009,0.018
+"Folate, DFE",µg,88,25,50
+"Vitamin B-12",µg,0.20,0.06,0.11
+"Vitamin A, RAE",µg,94,27,54
+"Vitamin A, IU",IU,380,108,217
+Lipids
+"Fatty acids, total saturated",g,4.994,1.416,2.847
+"Fatty acids, total monounsaturated",g,2.393,0.678,1.364
+"Fatty acids, total polyunsaturated",g,0.628,0.178,0.358
+"Cholesterol",mg,31,9,18
+Amino Acids
+Other

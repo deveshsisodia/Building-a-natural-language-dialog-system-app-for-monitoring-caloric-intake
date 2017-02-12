@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:02 EST
+"Nutrient data for: 43570, Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, honey roasted"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,5.00,1.50
+"Energy",kcal,401,120
+"Protein",g,7.12,2.14
+"Total lipid (fat)",g,5.46,1.64
+"Carbohydrate, by difference",g,81.19,24.36
+"Fiber, total dietary",g,4.2,1.3
+"Sugars, total",g,19.79,5.94
+Minerals
+"Calcium, Ca",mg,23,7
+"Iron, Fe",mg,34.82,10.45
+"Magnesium, Mg",mg,50,15
+"Phosphorus, P",mg,156,47
+"Potassium, K",mg,209,63
+"Sodium, Na",mg,454,136
+"Zinc, Zn",mg,5.03,1.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,1.223,0.367
+"Riboflavin",mg,1.250,0.375
+"Niacin",mg,17.800,5.340
+"Vitamin B-6",mg,2.640,0.792
+"Folate, DFE",µg,1120,336
+"Vitamin B-12",µg,9.67,2.90
+"Vitamin A, RAE",µg,806,242
+"Vitamin A, IU",IU,2731,819
+"Vitamin E (alpha-tocopherol)",mg,1.22,0.37
+"Vitamin D (D2 + D3)",µg,4.6,1.4
+"Vitamin D",IU,183,55
+"Vitamin K (phylloquinone)",µg,3.0,0.9
+Lipids
+"Fatty acids, total saturated",g,0.640,0.192
+"Fatty acids, total monounsaturated",g,2.831,0.849
+"Fatty acids, total polyunsaturated",g,1.307,0.392
+"Fatty acids, total trans",g,0.016,0.005
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

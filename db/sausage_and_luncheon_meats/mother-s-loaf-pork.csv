@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:16 EST
+"Nutrient data for: 07061, Mother's loaf, pork"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice (4-1/4"" x 4-1/4"" x 1/16"") = 21.0g",
+Proximates
+"Water",g,54.90,15.56,11.53
+"Energy",kcal,282,80,59
+"Protein",g,12.07,3.42,2.53
+"Total lipid (fat)",g,22.30,6.32,4.68
+"Carbohydrate, by difference",g,7.53,2.13,1.58
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,43,12,9
+"Iron, Fe",mg,1.32,0.37,0.28
+"Magnesium, Mg",mg,16,5,3
+"Phosphorus, P",mg,129,37,27
+"Potassium, K",mg,225,64,47
+"Sodium, Na",mg,1127,320,237
+"Zinc, Zn",mg,1.43,0.41,0.30
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.3,0.2
+"Thiamin",mg,0.550,0.156,0.116
+"Riboflavin",mg,0.170,0.048,0.036
+"Niacin",mg,3.123,0.885,0.656
+"Vitamin B-6",mg,0.180,0.051,0.038
+"Folate, DFE",µg,8,2,2
+"Vitamin B-12",µg,1.05,0.30,0.22
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin D (D2 + D3)",µg,1.0,0.3,0.2
+"Vitamin D",IU,40,11,8
+Lipids
+"Fatty acids, total saturated",g,7.950,2.254,1.670
+"Fatty acids, total monounsaturated",g,10.340,2.931,2.171
+"Fatty acids, total polyunsaturated",g,2.580,0.731,0.542
+"Cholesterol",mg,45,13,9
+Amino Acids
+Other

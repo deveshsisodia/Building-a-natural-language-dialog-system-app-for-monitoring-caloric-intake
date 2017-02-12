@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:06 EST
+"Nutrient data for: 17092, Veal, composite of trimmed retail cuts, separable fat, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g",
+Proximates
+"Water",g,24.77,7.02,112.36
+"Energy",kcal,638,181,2894
+"Protein",g,6.02,1.71,27.31
+"Total lipid (fat)",g,67.83,19.23,307.68
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,7,2,32
+"Iron, Fe",mg,0.60,0.17,2.72
+"Magnesium, Mg",mg,5,1,23
+"Phosphorus, P",mg,73,21,331
+"Potassium, K",mg,107,30,485
+"Sodium, Na",mg,26,7,118
+"Zinc, Zn",mg,0.54,0.15,2.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.020,0.006,0.091
+"Riboflavin",mg,0.080,0.023,0.363
+"Niacin",mg,2.370,0.672,10.750
+"Vitamin B-6",mg,0.150,0.043,0.680
+"Folate, DFE",µg,4,1,18
+"Vitamin B-12",µg,0.43,0.12,1.95
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.31,0.09,1.41
+Lipids
+"Fatty acids, total saturated",g,32.920,9.333,149.325
+"Fatty acids, total monounsaturated",g,28.440,8.063,129.004
+"Fatty acids, total polyunsaturated",g,3.280,0.930,14.878
+"Cholesterol",mg,73,21,331
+Amino Acids
+Other

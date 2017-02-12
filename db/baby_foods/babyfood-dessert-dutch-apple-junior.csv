@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:42 EST
+"Nutrient data for: 03221, Babyfood, dessert, dutch apple, junior"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 jar = 170.0g",
+Proximates
+"Water",g,80.32,22.77,136.54
+"Energy",kcal,79,22,134
+"Protein",g,0.20,0.06,0.34
+"Total lipid (fat)",g,0.16,0.05,0.27
+"Carbohydrate, by difference",g,19.18,5.44,32.61
+"Fiber, total dietary",g,1.4,0.4,2.4
+"Sugars, total",g,17.89,5.07,30.41
+Minerals
+"Calcium, Ca",mg,3,1,5
+"Iron, Fe",mg,0.11,0.03,0.19
+"Magnesium, Mg",mg,4,1,7
+"Phosphorus, P",mg,7,2,12
+"Potassium, K",mg,67,19,114
+"Sodium, Na",mg,3,1,5
+"Zinc, Zn",mg,0.03,0.01,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,18.0,5.1,30.6
+"Thiamin",mg,0.010,0.003,0.017
+"Riboflavin",mg,0.012,0.003,0.020
+"Niacin",mg,0.048,0.014,0.082
+"Vitamin B-6",mg,0.017,0.005,0.029
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,0,2
+"Vitamin A, IU",IU,18,5,31
+"Vitamin E (alpha-tocopherol)",mg,0.04,0.01,0.07
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.5,0.1,0.8
+Lipids
+"Fatty acids, total saturated",g,0.025,0.007,0.043
+"Fatty acids, total monounsaturated",g,0.006,0.002,0.010
+"Fatty acids, total polyunsaturated",g,0.045,0.013,0.076
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

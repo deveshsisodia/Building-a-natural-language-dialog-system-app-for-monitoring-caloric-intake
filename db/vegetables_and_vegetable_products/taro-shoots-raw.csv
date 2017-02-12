@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:31 EST
+"Nutrient data for: 11522, Taro shoots, raw"
+Nutrient,Unit,1Value per 100 g,"0.5 cup slices = 43.0g","1 shoot = 83.0g",
+Proximates
+"Water",g,95.82,41.20,79.53
+"Energy",kcal,11,5,9
+"Protein",g,0.92,0.40,0.76
+"Total lipid (fat)",g,0.09,0.04,0.07
+"Carbohydrate, by difference",g,2.32,1.00,1.93
+Minerals
+"Calcium, Ca",mg,12,5,10
+"Iron, Fe",mg,0.60,0.26,0.50
+"Magnesium, Mg",mg,8,3,7
+"Phosphorus, P",mg,28,12,23
+"Potassium, K",mg,332,143,276
+"Sodium, Na",mg,1,0,1
+"Zinc, Zn",mg,0.51,0.22,0.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,21.0,9.0,17.4
+"Thiamin",mg,0.040,0.017,0.033
+"Riboflavin",mg,0.050,0.021,0.042
+"Niacin",mg,0.800,0.344,0.664
+"Vitamin B-6",mg,0.111,0.048,0.092
+"Folate, DFE",µg,3,1,2
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,3,1,2
+"Vitamin A, IU",IU,50,22,42
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.018,0.008,0.015
+"Fatty acids, total monounsaturated",g,0.007,0.003,0.006
+"Fatty acids, total polyunsaturated",g,0.037,0.016,0.031
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:00 EST
+"Nutrient data for: 16103, Refried beans, canned, traditional style (includes USDA commodity)"
+Nutrient,Unit,1Value per 100 g,"1 cup = 238.0g","1 can = 442.0g",
+Proximates
+"Water",g,77.75,185.04,343.65
+"Energy",kcal,90,214,398
+"Protein",g,4.98,11.85,22.01
+"Total lipid (fat)",g,2.01,4.78,8.88
+"Carbohydrate, by difference",g,13.55,32.25,59.89
+"Fiber, total dietary",g,3.7,8.8,16.4
+"Sugars, total",g,0.54,1.29,2.39
+Minerals
+"Calcium, Ca",mg,29,69,128
+"Iron, Fe",mg,1.44,3.43,6.36
+"Magnesium, Mg",mg,35,83,155
+"Phosphorus, P",mg,92,219,407
+"Potassium, K",mg,319,759,1410
+"Sodium, Na",mg,370,881,1635
+"Zinc, Zn",mg,0.58,1.38,2.56
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.0,14.3,26.5
+"Thiamin",mg,0.076,0.181,0.336
+"Riboflavin",mg,0.079,0.188,0.349
+"Niacin",mg,0.367,0.873,1.622
+"Vitamin B-6",mg,0.103,0.245,0.455
+"Folate, DFE",µg,11,26,49
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.09,0.21,0.40
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,2.1,5.0,9.3
+Lipids
+"Fatty acids, total saturated",g,0.631,1.502,2.789
+"Fatty acids, total monounsaturated",g,0.601,1.430,2.656
+"Fatty acids, total polyunsaturated",g,0.543,1.292,2.400
+"Fatty acids, total trans",g,0.016,0.038,0.071
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

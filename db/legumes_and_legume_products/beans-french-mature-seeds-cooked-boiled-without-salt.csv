@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:56 EST
+"Nutrient data for: 16023, Beans, french, mature seeds, cooked, boiled, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 177.0g",
+Proximates
+"Water",g,66.57,117.83
+"Energy",kcal,129,228
+"Protein",g,7.05,12.48
+"Total lipid (fat)",g,0.76,1.35
+"Carbohydrate, by difference",g,24.02,42.52
+"Fiber, total dietary",g,9.4,16.6
+Minerals
+"Calcium, Ca",mg,63,112
+"Iron, Fe",mg,1.08,1.91
+"Magnesium, Mg",mg,56,99
+"Phosphorus, P",mg,102,181
+"Potassium, K",mg,370,655
+"Sodium, Na",mg,6,11
+"Zinc, Zn",mg,0.64,1.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.2,2.1
+"Thiamin",mg,0.130,0.230
+"Riboflavin",mg,0.062,0.110
+"Niacin",mg,0.546,0.966
+"Vitamin B-6",mg,0.105,0.186
+"Folate, DFE",µg,75,133
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,3,5
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.083,0.147
+"Fatty acids, total monounsaturated",g,0.052,0.092
+"Fatty acids, total polyunsaturated",g,0.453,0.802
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

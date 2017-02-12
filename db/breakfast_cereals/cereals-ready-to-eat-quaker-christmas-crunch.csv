@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:03 EST
+"Nutrient data for: 08550, Cereals ready-to-eat, QUAKER, Christmas Crunch"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 26.0g",
+Proximates
+"Water",g,2.50,0.65
+"Energy",kcal,397,103
+"Protein",g,4.44,1.15
+"Total lipid (fat)",g,4.83,1.26
+"Carbohydrate, by difference",g,85.92,22.34
+"Fiber, total dietary",g,2.6,0.7
+"Sugars, total",g,44.31,11.52
+Minerals
+"Calcium, Ca",mg,11,3
+"Iron, Fe",mg,19.78,5.14
+"Magnesium, Mg",mg,55,14
+"Phosphorus, P",mg,168,44
+"Potassium, K",mg,186,48
+"Sodium, Na",mg,724,188
+"Zinc, Zn",mg,16.36,4.25
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0
+"Thiamin",mg,1.635,0.425
+"Riboflavin",mg,1.846,0.480
+"Niacin",mg,21.736,5.651
+"Vitamin B-6",mg,2.179,0.567
+"Folate, DFE",µg,2600,676
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,27,7
+"Vitamin A, IU",IU,148,38
+"Vitamin E (alpha-tocopherol)",mg,0.42,0.11
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.1,0.3
+Lipids
+"Fatty acids, total saturated",g,3.081,0.801
+"Fatty acids, total monounsaturated",g,0.627,0.163
+"Fatty acids, total polyunsaturated",g,0.751,0.195
+"Fatty acids, total trans",g,0.019,0.005
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

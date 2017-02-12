@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:09 EST
+"Nutrient data for: 12147, Nuts, pine nuts, dried"
+Nutrient,Unit,1Value per 100 g,"1 cup = 135.0g","1 oz (167 kernels) = 28.35g","10.0 nuts = 1.7g",
+Proximates
+"Water",g,2.28,3.08,0.65,0.04
+"Energy",kcal,673,909,191,11
+"Protein",g,13.69,18.48,3.88,0.23
+"Total lipid (fat)",g,68.37,92.30,19.38,1.16
+"Carbohydrate, by difference",g,13.08,17.66,3.71,0.22
+"Fiber, total dietary",g,3.7,5.0,1.0,0.1
+"Sugars, total",g,3.59,4.85,1.02,0.06
+Minerals
+"Calcium, Ca",mg,16,22,5,0
+"Iron, Fe",mg,5.53,7.47,1.57,0.09
+"Magnesium, Mg",mg,251,339,71,4
+"Phosphorus, P",mg,575,776,163,10
+"Potassium, K",mg,597,806,169,10
+"Sodium, Na",mg,2,3,1,0
+"Zinc, Zn",mg,6.45,8.71,1.83,0.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,1.1,0.2,0.0
+"Thiamin",mg,0.364,0.491,0.103,0.006
+"Riboflavin",mg,0.227,0.306,0.064,0.004
+"Niacin",mg,4.387,5.922,1.244,0.075
+"Vitamin B-6",mg,0.094,0.127,0.027,0.002
+"Folate, DFE",µg,34,46,10,1
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,1,0,0
+"Vitamin A, IU",IU,29,39,8,0
+"Vitamin E (alpha-tocopherol)",mg,9.33,12.60,2.65,0.16
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,53.9,72.8,15.3,0.9
+Lipids
+"Fatty acids, total saturated",g,4.899,6.614,1.389,0.083
+"Fatty acids, total monounsaturated",g,18.764,25.331,5.320,0.319
+"Fatty acids, total polyunsaturated",g,34.071,45.996,9.659,0.579
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0
+Footnotes
+(a)"Includes  pignolia (Pinus pinea) and Korean (Pinus koraiensis)."
+(b)"Other phytosterols total 84.1 mg/100g; these include delta 5-avenasterol (40.1), sitostanol (5.9), campestanol (3.9), and other minor phytosterols (34.2 mg)."

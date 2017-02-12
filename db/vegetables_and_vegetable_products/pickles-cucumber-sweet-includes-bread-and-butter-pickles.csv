@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:26 EST
+"Nutrient data for: 11940, Pickles, cucumber, sweet (includes bread and butter pickles)"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 160.0g","1 cup sliced or chips = 153.0g","1 large Gherkin (3"" long) = 35.0g","1 Gherkin (2-3/4"" long) = 25.0g","1 midget Gherkin (2-1/8"" long) = 6.0g","1 chip = 7.5g","1 small Gherkin (2-1/2"" long) = 15.0g","1 spear Gherkin = 20.0g",
+Proximates
+"Water",g,76.20,121.92,116.59,26.67,19.05,4.57,5.71,11.43,15.24
+"Energy",kcal,91,146,139,32,23,5,7,14,18
+"Protein",g,0.58,0.93,0.89,0.20,0.14,0.03,0.04,0.09,0.12
+"Total lipid (fat)",g,0.41,0.66,0.63,0.14,0.10,0.02,0.03,0.06,0.08
+"Carbohydrate, by difference",g,21.15,33.84,32.36,7.40,5.29,1.27,1.59,3.17,4.23
+"Fiber, total dietary",g,1.0,1.6,1.5,0.3,0.2,0.1,0.1,0.1,0.2
+"Sugars, total",g,18.27,29.23,27.95,6.39,4.57,1.10,1.37,2.74,3.65
+Minerals
+"Calcium, Ca",mg,61,98,93,21,15,4,5,9,12
+"Iron, Fe",mg,0.25,0.40,0.38,0.09,0.06,0.01,0.02,0.04,0.05
+"Magnesium, Mg",mg,7,11,11,2,2,0,1,1,1
+"Phosphorus, P",mg,18,29,28,6,4,1,1,3,4
+"Potassium, K",mg,100,160,153,35,25,6,8,15,20
+"Sodium, Na",mg,457,731,699,160,114,27,34,69,91
+"Zinc, Zn",mg,0.12,0.19,0.18,0.04,0.03,0.01,0.01,0.02,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,1.1,1.1,0.2,0.2,0.0,0.1,0.1,0.1
+"Thiamin",mg,0.025,0.040,0.038,0.009,0.006,0.002,0.002,0.004,0.005
+"Riboflavin",mg,0.030,0.048,0.046,0.011,0.007,0.002,0.002,0.004,0.006
+"Niacin",mg,0.115,0.184,0.176,0.040,0.029,0.007,0.009,0.017,0.023
+"Vitamin B-6",mg,0.024,0.038,0.037,0.008,0.006,0.001,0.002,0.004,0.005
+"Folate, DFE",µg,1,2,2,0,0,0,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,38,61,58,13,10,2,3,6,8
+"Vitamin A, IU",IU,764,1222,1169,267,191,46,57,115,153
+"Vitamin E (alpha-tocopherol)",mg,0.36,0.58,0.55,0.13,0.09,0.02,0.03,0.05,0.07
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,47.1,75.4,72.1,16.5,11.8,2.8,3.5,7.1,9.4
+Lipids
+"Fatty acids, total saturated",g,0.067,0.107,0.103,0.023,0.017,0.004,0.005,0.010,0.013
+"Fatty acids, total monounsaturated",g,0.004,0.006,0.006,0.001,0.001,0.000,0.000,0.001,0.001
+"Fatty acids, total polyunsaturated",g,0.106,0.170,0.162,0.037,0.026,0.006,0.008,0.016,0.021
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0,0,0

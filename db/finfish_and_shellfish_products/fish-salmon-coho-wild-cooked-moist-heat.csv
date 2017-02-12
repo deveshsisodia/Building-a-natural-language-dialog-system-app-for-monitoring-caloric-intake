@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:03 EST
+"Nutrient data for: 15082, Fish, salmon, coho, wild, cooked, moist heat"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","0.5 fillet = 155.0g",
+Proximates
+"Water",g,65.39,55.58,101.35
+"Energy",kcal,184,156,285
+"Protein",g,27.36,23.26,42.41
+"Total lipid (fat)",g,7.50,6.38,11.62
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,46,39,71
+"Iron, Fe",mg,0.71,0.60,1.10
+"Magnesium, Mg",mg,35,30,54
+"Phosphorus, P",mg,298,253,462
+"Potassium, K",mg,455,387,705
+"Sodium, Na",mg,53,45,82
+"Zinc, Zn",mg,0.52,0.44,0.81
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.8,1.6
+"Thiamin",mg,0.115,0.098,0.178
+"Riboflavin",mg,0.159,0.135,0.246
+"Niacin",mg,7.779,6.612,12.057
+"Vitamin B-6",mg,0.556,0.473,0.862
+"Folate, DFE",µg,9,8,14
+"Vitamin B-12",µg,4.48,3.81,6.94
+"Vitamin A, RAE",µg,32,27,50
+"Vitamin A, IU",IU,108,92,167
+Lipids
+"Fatty acids, total saturated",g,1.595,1.356,2.472
+"Fatty acids, total monounsaturated",g,2.702,2.297,4.188
+"Fatty acids, total polyunsaturated",g,2.521,2.143,3.908
+"Cholesterol",mg,57,48,88
+Amino Acids
+Other

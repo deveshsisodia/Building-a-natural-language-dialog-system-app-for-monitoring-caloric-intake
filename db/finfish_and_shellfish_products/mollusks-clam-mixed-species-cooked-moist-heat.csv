@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:06 EST
+"Nutrient data for: 15159, Mollusks, clam, mixed species, cooked, moist heat"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","20.0 small = 190.0g",
+Proximates
+"Water",g,63.64,54.09,120.92
+"Energy",kcal,148,126,281
+"Protein",g,25.55,21.72,48.55
+"Total lipid (fat)",g,1.95,1.66,3.71
+"Carbohydrate, by difference",g,5.13,4.36,9.75
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,92,78,175
+"Iron, Fe",mg,2.81,2.39,5.34
+"Magnesium, Mg",mg,18,15,34
+"Phosphorus, P",mg,338,287,642
+"Potassium, K",mg,628,534,1193
+"Sodium, Na",mg,1202,1022,2284
+"Zinc, Zn",mg,2.73,2.32,5.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,22.1,18.8,42.0
+"Thiamin",mg,0.150,0.128,0.285
+"Riboflavin",mg,0.426,0.362,0.809
+"Niacin",mg,3.354,2.851,6.373
+"Vitamin B-6",mg,0.110,0.093,0.209
+"Folate, DFE",µg,29,25,55
+"Vitamin B-12",µg,98.89,84.06,187.89
+"Vitamin A, RAE",µg,171,145,325
+"Vitamin A, IU",IU,570,484,1083
+Lipids
+"Fatty acids, total saturated",g,0.188,0.160,0.357
+"Fatty acids, total monounsaturated",g,0.172,0.146,0.327
+"Fatty acids, total polyunsaturated",g,0.552,0.469,1.049
+"Cholesterol",mg,67,57,127
+Amino Acids
+Other
+Footnotes
+(a)"Samples were obtained from 12 retail stores using a probability-based sampling plan.  Some fish had been treated during processing to retain moisture on thawing.  Untreated fish = 112 mg sodium/100g."

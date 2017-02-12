@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:40 EST
+"Nutrient data for: 28134, KEEBLER, TOASTEDS, Party Pack Cracker Assortment"
+Nutrient,Unit,1Value per 100 g,"5.0 crackers = 16.0g",
+Proximates
+"Water",g,2.50,0.40
+"Energy",kcal,483,77
+"Protein",g,6.50,1.04
+"Total lipid (fat)",g,23.00,3.68
+"Carbohydrate, by difference",g,64.40,10.30
+"Fiber, total dietary",g,2.9,0.5
+"Sugars, total",g,7.20,1.15
+Minerals
+"Magnesium, Mg",mg,13,2
+"Phosphorus, P",mg,261,42
+"Potassium, K",mg,153,24
+"Sodium, Na",mg,904,145
+"Zinc, Zn",mg,0.50,0.08
+Vitamins
+"Thiamin",mg,0.570,0.091
+"Riboflavin",mg,0.300,0.048
+"Niacin",mg,3.700,0.592
+"Vitamin B-6",mg,0.050,0.008
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,3.800,0.608
+"Fatty acids, total monounsaturated",g,5.800,0.928
+"Fatty acids, total polyunsaturated",g,13.100,2.096
+"Fatty acids, total trans",g,0.200,0.032
+"Cholesterol",mg,1,0
+Amino Acids
+Other

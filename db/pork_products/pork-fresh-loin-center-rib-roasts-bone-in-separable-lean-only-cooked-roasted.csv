@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:44 EST
+"Nutrient data for: 10051, Pork, fresh, loin, center rib (roasts), bone-in, separable lean only, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 roast = 783.0g",
+Proximates
+"Water",g,61.44,52.22,481.08
+"Energy",kcal,206,175,1613
+"Protein",g,28.82,24.50,225.66
+"Total lipid (fat)",g,9.21,7.83,72.11
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,13,11,102
+"Iron, Fe",mg,1.02,0.87,7.99
+"Magnesium, Mg",mg,22,19,172
+"Phosphorus, P",mg,244,207,1911
+"Potassium, K",mg,287,244,2247
+"Sodium, Na",mg,95,81,744
+"Zinc, Zn",mg,3.09,2.63,24.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.552,0.469,4.322
+"Riboflavin",mg,0.312,0.265,2.443
+"Niacin",mg,10.003,8.503,78.323
+"Vitamin B-6",mg,0.516,0.439,4.040
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.89,0.76,6.97
+"Vitamin A, RAE",µg,3,3,23
+"Vitamin A, IU",IU,9,8,70
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.20,1.80
+"Vitamin D (D2 + D3)",µg,0.6,0.5,4.7
+"Vitamin D",IU,24,20,188
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,3.254,2.766,25.479
+"Fatty acids, total monounsaturated",g,3.830,3.256,29.989
+"Fatty acids, total polyunsaturated",g,1.453,1.235,11.377
+"Fatty acids, total trans",g,0.054,0.046,0.423
+"Cholesterol",mg,78,66,611
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

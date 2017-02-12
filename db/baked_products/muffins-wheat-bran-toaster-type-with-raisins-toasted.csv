@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:42 EST
+"Nutrient data for: 18388, Muffins, wheat bran, toaster-type with raisins, toasted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 muffin, toaster = 34.0g",
+Proximates
+"Water",g,27.00,7.65,9.18
+"Energy",kcal,313,89,106
+"Protein",g,5.50,1.56,1.87
+"Total lipid (fat)",g,9.40,2.66,3.20
+"Carbohydrate, by difference",g,55.50,15.73,18.87
+"Fiber, total dietary",g,8.2,2.3,2.8
+"Sugars, total",g,23.07,6.54,7.84
+Minerals
+"Calcium, Ca",mg,39,11,13
+"Iron, Fe",mg,2.83,0.80,0.96
+"Magnesium, Mg",mg,21,6,7
+"Phosphorus, P",mg,284,81,97
+"Potassium, K",mg,177,50,60
+"Sodium, Na",mg,527,149,179
+"Zinc, Zn",mg,0.44,0.12,0.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.204,0.058,0.069
+"Riboflavin",mg,0.287,0.081,0.098
+"Niacin",mg,2.317,0.657,0.788
+"Vitamin B-6",mg,0.056,0.016,0.019
+"Folate, DFE",µg,46,13,16
+"Vitamin B-12",µg,0.02,0.01,0.01
+"Vitamin A, RAE",µg,56,16,19
+"Vitamin A, IU",IU,190,54,65
+"Vitamin E (alpha-tocopherol)",mg,0.98,0.28,0.33
+"Vitamin K (phylloquinone)",µg,17.4,4.9,5.9
+Lipids
+"Fatty acids, total saturated",g,1.500,0.425,0.510
+"Fatty acids, total monounsaturated",g,2.221,0.630,0.755
+"Fatty acids, total polyunsaturated",g,4.918,1.394,1.672
+"Cholesterol",mg,9,3,3
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

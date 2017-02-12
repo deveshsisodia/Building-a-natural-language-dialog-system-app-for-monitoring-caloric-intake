@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:40 EST
+"Nutrient data for: 19166, Cocoa, dry powder, unsweetened, processed with alkali"
+Nutrient,Unit,1Value per 100 g,"1 cup = 86.0g","1 tbsp = 5.4g",
+Proximates
+"Water",g,2.70,2.32,0.15
+"Energy",kcal,220,189,12
+"Protein",g,18.10,15.57,0.98
+"Total lipid (fat)",g,13.10,11.27,0.71
+"Carbohydrate, by difference",g,58.30,50.14,3.15
+"Fiber, total dietary",g,29.8,25.6,1.6
+"Sugars, total",g,1.76,1.51,0.10
+Minerals
+"Calcium, Ca",mg,111,95,6
+"Iron, Fe",mg,15.52,13.35,0.84
+"Magnesium, Mg",mg,476,409,26
+"Phosphorus, P",mg,728,626,39
+"Potassium, K",mg,2509,2158,135
+"Sodium, Na",mg,19,16,1
+"Zinc, Zn",mg,6.37,5.48,0.34
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.110,0.095,0.006
+"Riboflavin",mg,0.460,0.396,0.025
+"Niacin",mg,2.400,2.064,0.130
+"Vitamin B-6",mg,0.118,0.101,0.006
+"Folate, DFE",µg,32,28,2
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.10,0.09,0.01
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,2.4,2.1,0.1
+Lipids
+"Fatty acids, total saturated",g,7.760,6.674,0.419
+"Fatty acids, total monounsaturated",g,4.390,3.775,0.237
+"Fatty acids, total polyunsaturated",g,0.420,0.361,0.023
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,78,67,4

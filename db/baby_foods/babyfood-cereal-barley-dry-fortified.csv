@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:41 EST
+"Nutrient data for: 03181, Babyfood, cereal, barley, dry fortified"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 2.4g","0.5 oz = 15.0g",
+Proximates
+"Water",g,6.80,0.16,1.02
+"Energy",kcal,376,9,56
+"Protein",g,13.20,0.32,1.98
+"Total lipid (fat)",g,6.60,0.16,0.99
+"Carbohydrate, by difference",g,69.40,1.67,10.41
+"Fiber, total dietary",g,6.6,0.2,1.0
+"Sugars, total",g,13.20,0.32,1.98
+Minerals
+"Calcium, Ca",mg,643,15,96
+"Iron, Fe",mg,48.21,1.16,7.23
+"Magnesium, Mg",mg,115,3,17
+"Phosphorus, P",mg,333,8,50
+"Potassium, K",mg,467,11,70
+"Sodium, Na",mg,33,1,5
+"Zinc, Zn",mg,3.13,0.08,0.47
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.892,0.021,0.134
+"Riboflavin",mg,1.070,0.026,0.161
+"Niacin",mg,14.280,0.343,2.142
+"Vitamin B-6",mg,0.714,0.017,0.107
+"Folate, DFE",µg,287,7,43
+"Vitamin B-12",µg,3.57,0.09,0.54
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,5.00,0.12,0.75
+"Vitamin D (D2 + D3)",µg,7.1,0.2,1.1
+"Vitamin D",IU,286,7,43
+"Vitamin K (phylloquinone)",µg,2.3,0.1,0.3
+Lipids
+"Fatty acids, total saturated",g,0.894,0.021,0.134
+"Fatty acids, total monounsaturated",g,1.450,0.035,0.217
+"Fatty acids, total polyunsaturated",g,3.859,0.093,0.579
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

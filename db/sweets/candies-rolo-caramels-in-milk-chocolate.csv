@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:38 EST
+"Nutrient data for: 19152, Candies, ROLO Caramels in Milk Chocolate"
+Nutrient,Unit,1Value per 100 g,"1 package 1 package = 48.0g","7.0 pieces = 42.0g",
+Proximates
+"Water",g,4.60,2.21,1.93
+"Energy",kcal,474,228,199
+"Protein",g,5.08,2.44,2.13
+"Total lipid (fat)",g,20.93,10.05,8.79
+"Carbohydrate, by difference",g,67.95,32.62,28.54
+"Fiber, total dietary",g,0.9,0.4,0.4
+"Sugars, total",g,63.93,30.69,26.85
+Minerals
+"Calcium, Ca",mg,145,70,61
+"Iron, Fe",mg,0.42,0.20,0.18
+"Magnesium, Mg",mg,0,0,0
+"Phosphorus, P",mg,71,34,30
+"Potassium, K",mg,188,90,79
+"Sodium, Na",mg,188,90,79
+"Zinc, Zn",mg,0.00,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,0.4,0.4
+"Thiamin",mg,0.020,0.010,0.008
+"Riboflavin",mg,0.120,0.058,0.050
+"Niacin",mg,0.040,0.019,0.017
+"Vitamin B-6",mg,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.33,0.16,0.14
+"Vitamin A, RAE",µg,34,16,14
+"Vitamin A, IU",IU,121,58,51
+"Vitamin E (alpha-tocopherol)",mg,1.10,0.53,0.46
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,3.2,1.5,1.3
+Lipids
+"Fatty acids, total saturated",g,14.542,6.980,6.108
+"Fatty acids, total monounsaturated",g,2.104,1.010,0.884
+"Fatty acids, total polyunsaturated",g,0.265,0.127,0.111
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,12,6,5
+Amino Acids
+Other
+"Caffeine",mg,6,3,3

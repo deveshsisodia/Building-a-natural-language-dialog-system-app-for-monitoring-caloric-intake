@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:55 EST
+"Nutrient data for: 13915, Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8"" fat, prime, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 steak, excluding refuse (yield from 1 raw steak, with refuse, weighing 242 g) = 227.0g",
+Proximates
+"Water",g,58.42,49.66,132.61
+"Energy",kcal,281,239,638
+"Protein",g,19.00,16.15,43.13
+"Total lipid (fat)",g,22.17,18.84,50.33
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,6,5,14
+"Iron, Fe",mg,1.58,1.34,3.59
+"Magnesium, Mg",mg,18,15,41
+"Phosphorus, P",mg,163,139,370
+"Potassium, K",mg,295,251,670
+"Sodium, Na",mg,53,45,120
+"Zinc, Zn",mg,3.14,2.67,7.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.090,0.076,0.204
+"Riboflavin",mg,0.140,0.119,0.318
+"Niacin",mg,3.880,3.298,8.808
+"Vitamin B-6",mg,0.390,0.331,0.885
+"Folate, DFE",µg,6,5,14
+"Vitamin B-12",µg,2.75,2.34,6.24
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,9.080,7.718,20.612
+"Fatty acids, total monounsaturated",g,9.780,8.313,22.201
+"Fatty acids, total polyunsaturated",g,0.800,0.680,1.816
+"Cholesterol",mg,67,57,152
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

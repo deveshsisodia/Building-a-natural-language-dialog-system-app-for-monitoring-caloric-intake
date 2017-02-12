@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:41 EST
+"Nutrient data for: 18999, KELLOGG'S, EGGO, Mini Muffin Tops, Blueberry"
+Nutrient,Unit,1Value per 100 g,"1 set = 46.0g",
+Proximates
+"Water",g,35.29,16.23
+"Energy",kcal,293,135
+"Protein",g,5.00,2.30
+"Total lipid (fat)",g,10.20,4.69
+"Carbohydrate, by difference",g,45.80,21.07
+"Fiber, total dietary",g,1.0,0.5
+"Sugars, total",g,18.10,8.33
+Minerals
+"Calcium, Ca",mg,217,100
+"Iron, Fe",mg,5.90,2.71
+"Magnesium, Mg",mg,13,6
+"Phosphorus, P",mg,342,157
+"Potassium, K",mg,66,30
+"Sodium, Na",mg,586,270
+"Zinc, Zn",mg,0.40,0.18
+Vitamins
+"Thiamin",mg,0.330,0.152
+"Riboflavin",mg,0.370,0.170
+"Niacin",mg,4.300,1.978
+"Vitamin B-6",mg,0.430,0.198
+"Vitamin B-12",µg,1.30,0.60
+"Vitamin A, RAE",µg,326,150
+"Vitamin A, IU",IU,1087,500
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.1,0.0
+"Vitamin D",IU,2,1
+Lipids
+"Fatty acids, total saturated",g,2.800,1.288
+"Fatty acids, total monounsaturated",g,2.500,1.150
+"Fatty acids, total polyunsaturated",g,4.000,1.840
+"Fatty acids, total trans",g,0.200,0.092
+"Cholesterol",mg,28,13
+Amino Acids
+Other

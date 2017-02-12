@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:28 EST
+"Nutrient data for: 36050, Restaurant, Mexican, cheese enchilada"
+Nutrient,Unit,1Value per 100 g,"1 serving serving size varied from 1 to 3 enchiladas = 244.0g","1 enchilada = 137.0g","2.0 enchilada = 257.0g","3.0 enchilada = 365.0g",
+Proximates
+"Water",g,52.38,127.81,71.76,134.62,191.19
+"Energy",kcal,273,666,374,702,996
+"Protein",g,11.24,27.43,15.40,28.89,41.03
+"Total lipid (fat)",g,18.47,45.07,25.30,47.47,67.42
+"Carbohydrate, by difference",g,15.45,37.70,21.17,39.71,56.39
+"Fiber, total dietary",g,1.9,4.6,2.6,4.9,6.9
+"Sugars, total",g,2.60,6.34,3.56,6.68,9.49
+Minerals
+"Calcium, Ca",mg,314,766,430,807,1146
+"Iron, Fe",mg,0.66,1.61,0.90,1.70,2.41
+"Magnesium, Mg",mg,29,71,40,75,106
+"Phosphorus, P",mg,268,654,367,689,978
+"Potassium, K",mg,140,342,192,360,511
+"Sodium, Na",mg,528,1288,723,1357,1927
+"Zinc, Zn",mg,1.83,4.47,2.51,4.70,6.68
+Vitamins
+"Thiamin",mg,0.063,0.154,0.086,0.162,0.230
+"Riboflavin",mg,0.223,0.544,0.306,0.573,0.814
+"Niacin",mg,0.627,1.530,0.859,1.611,2.289
+"Vitamin B-6",mg,0.122,0.298,0.167,0.314,0.445
+"Vitamin B-12",µg,0.86,2.10,1.18,2.21,3.14
+"Vitamin A, RAE",µg,205,500,281,527,748
+"Vitamin A, IU",IU,988,2411,1354,2539,3606
+"Vitamin E (alpha-tocopherol)",mg,1.28,3.12,1.75,3.29,4.67
+Lipids
+"Fatty acids, total saturated",g,8.365,20.411,11.460,21.498,30.532
+"Fatty acids, total monounsaturated",g,4.686,11.434,6.420,12.043,17.104
+"Fatty acids, total polyunsaturated",g,2.746,6.700,3.762,7.057,10.023
+"Fatty acids, total trans",g,0.540,1.318,0.740,1.388,1.971
+"Cholesterol",mg,42,102,58,108,153
+Amino Acids
+Other

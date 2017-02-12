@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:49 EST
+"Nutrient data for: 19334, Sugars, brown"
+Nutrient,Unit,1Value per 100 g,"1 tsp unpacked = 3.0g","1 cup packed = 220.0g","1 cup unpacked = 145.0g","1 tsp packed = 4.6g","1 tsp brownulated = 3.2g",
+Proximates
+"Water",g,1.34,0.04,2.95,1.94,0.06,0.04
+"Energy",kcal,380,11,836,551,17,12
+"Protein",g,0.12,0.00,0.26,0.17,0.01,0.00
+"Total lipid (fat)",g,0.00,0.00,0.00,0.00,0.00,0.00
+"Carbohydrate, by difference",g,98.09,2.94,215.80,142.23,4.51,3.14
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,97.02,2.91,213.44,140.68,4.46,3.10
+Minerals
+"Calcium, Ca",mg,83,2,183,120,4,3
+"Iron, Fe",mg,0.71,0.02,1.56,1.03,0.03,0.02
+"Magnesium, Mg",mg,9,0,20,13,0,0
+"Phosphorus, P",mg,4,0,9,6,0,0
+"Potassium, K",mg,133,4,293,193,6,4
+"Sodium, Na",mg,28,1,62,41,1,1
+"Zinc, Zn",mg,0.03,0.00,0.07,0.04,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000,0.000,0.000,0.000
+"Riboflavin",mg,0.000,0.000,0.000,0.000,0.000,0.000
+"Niacin",mg,0.110,0.003,0.242,0.160,0.005,0.004
+"Vitamin B-6",mg,0.041,0.001,0.090,0.059,0.002,0.001
+"Folate, DFE",µg,1,0,2,1,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:59 EST
+"Nutrient data for: 16081, Mung beans, mature seeds, cooked, boiled, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 202.0g",
+Proximates
+"Water",g,72.66,146.77
+"Energy",kcal,105,212
+"Protein",g,7.02,14.18
+"Total lipid (fat)",g,0.38,0.77
+"Carbohydrate, by difference",g,19.15,38.68
+"Fiber, total dietary",g,7.6,15.4
+"Sugars, total",g,2.00,4.04
+Minerals
+"Calcium, Ca",mg,27,55
+"Iron, Fe",mg,1.40,2.83
+"Magnesium, Mg",mg,48,97
+"Phosphorus, P",mg,99,200
+"Potassium, K",mg,266,537
+"Sodium, Na",mg,2,4
+"Zinc, Zn",mg,0.84,1.70
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,2.0
+"Thiamin",mg,0.164,0.331
+"Riboflavin",mg,0.061,0.123
+"Niacin",mg,0.577,1.166
+"Vitamin B-6",mg,0.067,0.135
+"Folate, DFE",µg,159,321
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1,2
+"Vitamin A, IU",IU,24,48
+"Vitamin E (alpha-tocopherol)",mg,0.15,0.30
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.7,5.5
+Lipids
+"Fatty acids, total saturated",g,0.116,0.234
+"Fatty acids, total monounsaturated",g,0.054,0.109
+"Fatty acids, total polyunsaturated",g,0.128,0.259
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

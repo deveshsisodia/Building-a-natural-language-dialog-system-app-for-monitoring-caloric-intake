@@ -1,0 +1,31 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:43 EST
+"Nutrient data for: 28383, PEPPERIDGE FARM, Whole Grain 100% Whole Wheat Bread"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,36.90,
+"Energy",kcal,263,
+"Protein",g,0.01,
+"Total lipid (fat)",g,3.50,
+"Carbohydrate, by difference",g,47.20,
+"Fiber, total dietary",g,9.3,
+"Sugars, total",g,7.40,
+Minerals
+"Calcium, Ca",mg,94,
+"Iron, Fe",mg,2.80,
+"Sodium, Na",mg,248,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,
+"Thiamin",mg,0.200,
+"Riboflavin",mg,0.200,
+"Niacin",mg,0.500,
+"Vitamin A, IU",IU,100,
+Lipids
+"Fatty acids, total saturated",g,0.700,
+"Fatty acids, total monounsaturated",g,0.700,
+"Fatty acids, total polyunsaturated",g,1.900,
+"Fatty acids, total trans",g,0.000,
+"Cholesterol",mg,1,
+Amino Acids
+Other

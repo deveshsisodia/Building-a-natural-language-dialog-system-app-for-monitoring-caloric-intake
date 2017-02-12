@@ -1,0 +1,29 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:34 EST
+"Nutrient data for: 28335, Cookies, gluten-free, vanilla sandwich, with creme filling"
+Nutrient,Unit,1Value per 100 g,"3.0 cookies = 44.0g",
+Proximates
+"Water",g,1.67,0.73
+"Energy",kcal,493,217
+"Protein",g,2.66,1.17
+"Total lipid (fat)",g,20.47,9.01
+"Carbohydrate, by difference",g,74.61,32.83
+"Fiber, total dietary",g,0.5,0.2
+"Sugars, total",g,46.68,20.54
+Minerals
+"Calcium, Ca",mg,14,6
+"Iron, Fe",mg,0.34,0.15
+"Magnesium, Mg",mg,13,6
+"Phosphorus, P",mg,39,17
+"Potassium, K",mg,105,46
+"Sodium, Na",mg,201,88
+"Zinc, Zn",mg,0.23,0.10
+Vitamins
+Lipids
+"Fatty acids, total saturated",g,7.006,3.083
+"Fatty acids, total monounsaturated",g,8.251,3.630
+"Fatty acids, total polyunsaturated",g,2.851,1.254
+"Fatty acids, total trans",g,0.057,0.025
+Amino Acids
+Other

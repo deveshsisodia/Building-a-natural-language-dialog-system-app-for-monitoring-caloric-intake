@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:37 EST
+"Nutrient data for: 19132, Candies, milk chocolate, with almonds"
+Nutrient,Unit,1Value per 100 g,"1 bar (1.45 oz) = 41.0g","1 bar (1.55 oz) = 44.0g",
+Proximates
+"Water",g,1.50,0.61,0.66
+"Energy",kcal,526,216,231
+"Protein",g,9.00,3.69,3.96
+"Total lipid (fat)",g,34.40,14.10,15.14
+"Carbohydrate, by difference",g,53.40,21.89,23.50
+"Fiber, total dietary",g,6.2,2.5,2.7
+"Sugars, total",g,43.90,18.00,19.32
+Minerals
+"Calcium, Ca",mg,224,92,99
+"Iron, Fe",mg,1.63,0.67,0.72
+"Magnesium, Mg",mg,90,37,40
+"Phosphorus, P",mg,264,108,116
+"Potassium, K",mg,444,182,195
+"Sodium, Na",mg,74,30,33
+"Zinc, Zn",mg,1.34,0.55,0.59
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1,0.1
+"Thiamin",mg,0.060,0.025,0.026
+"Riboflavin",mg,0.435,0.178,0.191
+"Niacin",mg,0.742,0.304,0.326
+"Vitamin B-6",mg,0.045,0.018,0.020
+"Folate, DFE",µg,13,5,6
+"Vitamin B-12",µg,0.67,0.27,0.29
+"Vitamin A, RAE",µg,52,21,23
+"Vitamin A, IU",IU,175,72,77
+"Vitamin E (alpha-tocopherol)",mg,3.14,1.29,1.38
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,5.1,2.1,2.2
+Lipids
+"Fatty acids, total saturated",g,17.701,7.257,7.788
+"Fatty acids, total monounsaturated",g,11.960,4.904,5.262
+"Fatty acids, total polyunsaturated",g,3.019,1.238,1.328
+"Cholesterol",mg,19,8,8
+Amino Acids
+Other
+"Caffeine",mg,18,7,8

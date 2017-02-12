@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:21 EST
+"Nutrient data for: 11220, Gourd, dishcloth (towelgourd), raw"
+Nutrient,Unit,1Value per 100 g,"1 cup (1"" pieces) = 95.0g","1 gourd = 178.0g",
+Proximates
+"Water",g,93.85,89.16,167.05
+"Energy",kcal,20,19,36
+"Protein",g,1.20,1.14,2.14
+"Total lipid (fat)",g,0.20,0.19,0.36
+"Carbohydrate, by difference",g,4.35,4.13,7.74
+"Fiber, total dietary",g,1.1,1.0,2.0
+"Sugars, total",g,2.02,1.92,3.60
+Minerals
+"Calcium, Ca",mg,20,19,36
+"Iron, Fe",mg,0.36,0.34,0.64
+"Magnesium, Mg",mg,14,13,25
+"Phosphorus, P",mg,32,30,57
+"Potassium, K",mg,139,132,247
+"Sodium, Na",mg,3,3,5
+"Zinc, Zn",mg,0.07,0.07,0.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,12.0,11.4,21.4
+"Thiamin",mg,0.050,0.048,0.089
+"Riboflavin",mg,0.060,0.057,0.107
+"Niacin",mg,0.400,0.380,0.712
+"Vitamin B-6",mg,0.043,0.041,0.077
+"Folate, DFE",µg,7,7,12
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, IU",IU,410,390,730
+"Vitamin E (alpha-tocopherol)",mg,0.10,0.10,0.18
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.7,0.7,1.2
+Lipids
+"Fatty acids, total saturated",g,0.016,0.015,0.028
+"Fatty acids, total monounsaturated",g,0.037,0.035,0.066
+"Fatty acids, total polyunsaturated",g,0.087,0.083,0.155
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

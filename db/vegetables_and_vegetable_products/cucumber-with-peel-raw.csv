@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:21 EST
+"Nutrient data for: 11205, Cucumber, with peel, raw"
+Nutrient,Unit,1Value per 100 g,"0.5 cup slices = 52.0g","1 cucumber (8-1/4"") = 301.0g",
+Proximates
+"Water",g,95.23,49.52,286.64
+"Energy",kcal,15,8,45
+"Protein",g,0.65,0.34,1.96
+"Total lipid (fat)",g,0.11,0.06,0.33
+"Carbohydrate, by difference",g,3.63,1.89,10.93
+"Fiber, total dietary",g,0.5,0.3,1.5
+"Sugars, total",g,1.67,0.87,5.03
+Minerals
+"Calcium, Ca",mg,16,8,48
+"Iron, Fe",mg,0.28,0.15,0.84
+"Magnesium, Mg",mg,13,7,39
+"Phosphorus, P",mg,24,12,72
+"Potassium, K",mg,147,76,442
+"Sodium, Na",mg,2,1,6
+"Zinc, Zn",mg,0.20,0.10,0.60
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.8,1.5,8.4
+"Thiamin",mg,0.027,0.014,0.081
+"Riboflavin",mg,0.033,0.017,0.099
+"Niacin",mg,0.098,0.051,0.295
+"Vitamin B-6",mg,0.040,0.021,0.120
+"Folate, DFE",µg,7,4,21
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,5,3,15
+"Vitamin A, IU",IU,105,55,316
+"Vitamin E (alpha-tocopherol)",mg,0.03,0.02,0.09
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,16.4,8.5,49.4
+Lipids
+"Fatty acids, total saturated",g,0.037,0.019,0.111
+"Fatty acids, total monounsaturated",g,0.005,0.003,0.015
+"Fatty acids, total polyunsaturated",g,0.032,0.017,0.096
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

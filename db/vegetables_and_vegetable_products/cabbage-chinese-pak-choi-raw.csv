@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:17 EST
+"Nutrient data for: 11116, Cabbage, chinese (pak-choi), raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, shredded = 70.0g","1 head = 840.0g","1 leaf = 14.0g",
+Proximates
+"Water",g,95.32,66.72,800.69,13.34
+"Energy",kcal,13,9,109,2
+"Protein",g,1.50,1.05,12.60,0.21
+"Total lipid (fat)",g,0.20,0.14,1.68,0.03
+"Carbohydrate, by difference",g,2.18,1.53,18.31,0.31
+"Fiber, total dietary",g,1.0,0.7,8.4,0.1
+"Sugars, total",g,1.18,0.83,9.91,0.17
+Minerals
+"Calcium, Ca",mg,105,74,882,15
+"Iron, Fe",mg,0.80,0.56,6.72,0.11
+"Magnesium, Mg",mg,19,13,160,3
+"Phosphorus, P",mg,37,26,311,5
+"Potassium, K",mg,252,176,2117,35
+"Sodium, Na",mg,65,46,546,9
+"Zinc, Zn",mg,0.19,0.13,1.60,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,45.0,31.5,378.0,6.3
+"Thiamin",mg,0.040,0.028,0.336,0.006
+"Riboflavin",mg,0.070,0.049,0.588,0.010
+"Niacin",mg,0.500,0.350,4.200,0.070
+"Vitamin B-6",mg,0.194,0.136,1.630,0.027
+"Folate, DFE",µg,66,46,554,9
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,223,156,1873,31
+"Vitamin A, IU",IU,4468,3128,37531,626
+"Vitamin E (alpha-tocopherol)",mg,0.09,0.06,0.76,0.01
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,45.5,31.9,382.2,6.4
+Lipids
+"Fatty acids, total saturated",g,0.027,0.019,0.227,0.004
+"Fatty acids, total monounsaturated",g,0.015,0.011,0.126,0.002
+"Fatty acids, total polyunsaturated",g,0.096,0.067,0.806,0.013
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

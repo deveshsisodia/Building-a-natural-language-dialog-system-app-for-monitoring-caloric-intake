@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 19415, Snacks, potato sticks"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","0.5 cup = 18.0g",
+Proximates
+"Water",g,2.20,0.62,0.40
+"Energy",kcal,522,148,94
+"Protein",g,6.70,1.90,1.21
+"Total lipid (fat)",g,34.40,9.75,6.19
+"Carbohydrate, by difference",g,53.30,15.11,9.59
+"Fiber, total dietary",g,3.4,1.0,0.6
+"Sugars, total",g,0.22,0.06,0.04
+Minerals
+"Calcium, Ca",mg,18,5,3
+"Iron, Fe",mg,2.27,0.64,0.41
+"Magnesium, Mg",mg,64,18,12
+"Phosphorus, P",mg,172,49,31
+"Potassium, K",mg,1237,351,223
+"Sodium, Na",mg,633,179,114
+"Zinc, Zn",mg,0.99,0.28,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,47.3,13.4,8.5
+"Thiamin",mg,0.096,0.027,0.017
+"Riboflavin",mg,0.116,0.033,0.021
+"Niacin",mg,4.785,1.357,0.861
+"Vitamin B-6",mg,0.320,0.091,0.058
+"Folate, DFE",µg,40,11,7
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,9.11,2.58,1.64
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,22.1,6.3,4.0
+Lipids
+"Fatty acids, total saturated",g,8.880,2.517,1.598
+"Fatty acids, total monounsaturated",g,6.160,1.746,1.109
+"Fatty acids, total polyunsaturated",g,17.900,5.075,3.222
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:38 EST
+"Nutrient data for: 21416, POPEYES, Coleslaw"
+Nutrient,Unit,1Value per 100 g,"1 package = 120.0g","1 cup = 190.0g",
+Proximates
+"Water",g,72.84,87.41,138.40
+"Energy",kcal,161,193,306
+"Protein",g,0.98,1.18,1.86
+"Total lipid (fat)",g,11.18,13.42,21.24
+"Carbohydrate, by difference",g,14.12,16.94,26.83
+"Fiber, total dietary",g,1.7,2.0,3.2
+"Sugars, total",g,10.83,13.00,20.58
+Minerals
+"Calcium, Ca",mg,31,37,59
+"Iron, Fe",mg,0.23,0.28,0.44
+"Magnesium, Mg",mg,7,8,13
+"Phosphorus, P",mg,20,24,38
+"Potassium, K",mg,118,142,224
+"Sodium, Na",mg,218,262,414
+"Zinc, Zn",mg,0.12,0.14,0.23
+Vitamins
+"Vitamin C, total ascorbic acid",mg,14.7,17.6,27.9
+"Thiamin",mg,0.015,0.018,0.029
+"Riboflavin",mg,0.025,0.030,0.048
+"Niacin",mg,0.206,0.247,0.391
+"Vitamin B-6",mg,0.102,0.122,0.194
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,56,67,106
+"Vitamin A, IU",IU,185,222,352
+Lipids
+"Fatty acids, total saturated",g,1.887,2.264,3.585
+"Fatty acids, total monounsaturated",g,3.339,4.007,6.344
+"Fatty acids, total polyunsaturated",g,5.852,7.022,11.119
+"Fatty acids, total trans",g,0.044,0.053,0.084
+"Cholesterol",mg,7,8,13
+Amino Acids
+Other

@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:40 EST
+"Nutrient data for: 28143, KEEBLER, TOWN HOUSE, Reduced Fat Crackers"
+Nutrient,Unit,1Value per 100 g,"6.0 crackers = 15.0g",
+Proximates
+"Water",g,2.65,0.40
+"Energy",kcal,431,65
+"Protein",g,6.60,0.99
+"Total lipid (fat)",g,11.30,1.70
+"Carbohydrate, by difference",g,77.10,11.56
+"Fiber, total dietary",g,2.2,0.3
+"Sugars, total",g,8.40,1.26
+Minerals
+"Magnesium, Mg",mg,0,0
+"Phosphorus, P",mg,220,33
+"Potassium, K",mg,133,20
+"Sodium, Na",mg,868,130
+"Zinc, Zn",mg,0.00,0.00
+Vitamins
+"Thiamin",mg,0.690,0.103
+"Riboflavin",mg,0.360,0.054
+"Niacin",mg,4.200,0.630
+"Vitamin B-6",mg,0.000,0.000
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,2.000,0.300
+"Fatty acids, total monounsaturated",g,2.600,0.390
+"Fatty acids, total polyunsaturated",g,6.500,0.975
+"Fatty acids, total trans",g,0.100,0.015
+"Cholesterol",mg,1,0
+Amino Acids
+Other

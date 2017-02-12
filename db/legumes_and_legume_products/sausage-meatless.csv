@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:00 EST
+"Nutrient data for: 16107, Sausage, meatless"
+Nutrient,Unit,1Value per 100 g,"1 link = 25.0g","1 patty = 38.0g","1 slice = 28.0g",
+Proximates
+"Water",g,50.40,12.60,19.15,14.11
+"Energy",kcal,255,64,97,71
+"Protein",g,20.28,5.07,7.71,5.68
+"Total lipid (fat)",g,18.16,4.54,6.90,5.08
+"Carbohydrate, by difference",g,8.09,2.02,3.07,2.27
+"Fiber, total dietary",g,2.8,0.7,1.1,0.8
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,63,16,24,18
+"Iron, Fe",mg,3.72,0.93,1.41,1.04
+"Magnesium, Mg",mg,36,9,14,10
+"Phosphorus, P",mg,225,56,86,63
+"Potassium, K",mg,231,58,88,65
+"Sodium, Na",mg,888,222,337,249
+"Zinc, Zn",mg,1.46,0.36,0.55,0.41
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,2.343,0.586,0.890,0.656
+"Riboflavin",mg,0.402,0.101,0.153,0.113
+"Niacin",mg,11.195,2.799,4.254,3.135
+"Vitamin B-6",mg,0.828,0.207,0.315,0.232
+"Folate, DFE",µg,26,6,10,7
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,2.10,0.53,0.80,0.59
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,2.926,0.732,1.112,0.819
+"Fatty acids, total monounsaturated",g,4.498,1.125,1.709,1.259
+"Fatty acids, total polyunsaturated",g,9.279,2.320,3.526,2.598
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:25 EST
+"Nutrient data for: 32010, Pasta mix, Italian lasagna, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 package = 141.0g","1 packet = 79.0g",
+Proximates
+"Water",g,7.94,11.20,6.27
+"Energy",kcal,356,502,281
+"Protein",g,10.90,15.37,8.61
+"Total lipid (fat)",g,1.97,2.78,1.56
+"Carbohydrate, by difference",g,73.77,104.02,58.28
+"Fiber, total dietary",g,2.8,3.9,2.2
+"Sugars, total",g,11.27,15.89,8.90
+Minerals
+"Calcium, Ca",mg,52,73,41
+"Iron, Fe",mg,2.87,4.05,2.27
+"Magnesium, Mg",mg,37,52,29
+"Phosphorus, P",mg,124,175,98
+"Potassium, K",mg,277,391,219
+"Sodium, Na",mg,1850,2608,1462
+"Zinc, Zn",mg,0.84,1.18,0.66
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,1.3,0.7
+"Thiamin",mg,0.700,0.987,0.553
+"Riboflavin",mg,0.427,0.602,0.337
+"Niacin",mg,5.577,7.864,4.406
+"Vitamin B-6",mg,0.160,0.226,0.126
+"Folate, DFE",µg,187,264,148
+"Vitamin B-12",µg,0.19,0.27,0.15
+"Vitamin A, RAE",µg,10,14,8
+"Vitamin A, IU",IU,141,199,111
+"Vitamin E (alpha-tocopherol)",mg,0.81,1.14,0.64
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,12.9,18.2,10.2
+Lipids
+"Fatty acids, total saturated",g,0.443,0.625,0.350
+"Fatty acids, total monounsaturated",g,0.423,0.596,0.334
+"Fatty acids, total polyunsaturated",g,0.415,0.585,0.328
+"Fatty acids, total trans",g,0.089,0.125,0.070
+"Cholesterol",mg,1,1,1
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

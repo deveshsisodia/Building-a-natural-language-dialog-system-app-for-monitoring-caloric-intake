@@ -1,0 +1,28 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:01 EST
+"Nutrient data for: 15266, Fish, pollock, Alaska, raw (not previously frozen)"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,81.99,69.69
+"Energy",kcal,70,60
+"Protein",g,17.17,14.59
+"Total lipid (fat)",g,0.19,0.16
+"Carbohydrate, by difference",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,12,10
+"Iron, Fe",mg,0.27,0.23
+"Magnesium, Mg",mg,34,29
+"Phosphorus, P",mg,190,162
+"Potassium, K",mg,331,281
+"Sodium, Na",mg,159,135
+"Zinc, Zn",mg,0.40,0.34
+Vitamins
+Lipids
+"Fatty acids, total saturated",g,0.039,0.033
+"Fatty acids, total monounsaturated",g,0.043,0.037
+"Fatty acids, total polyunsaturated",g,0.072,0.061
+"Fatty acids, total trans",g,0.001,0.001
+"Cholesterol",mg,61,52
+Amino Acids
+Other

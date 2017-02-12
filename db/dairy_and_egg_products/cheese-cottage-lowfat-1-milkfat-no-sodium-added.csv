@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:05 EST
+"Nutrient data for: 43352, Cheese, cottage, lowfat, 1% milkfat, no sodium added"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 113.0g","1 cup = 226.0g",
+Proximates
+"Water",g,83.50,94.36,188.71
+"Energy",kcal,72,81,163
+"Protein",g,12.40,14.01,28.02
+"Total lipid (fat)",g,1.00,1.13,2.26
+"Carbohydrate, by difference",g,2.70,3.05,6.10
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,2.70,3.05,6.10
+Minerals
+"Calcium, Ca",mg,61,69,138
+"Iron, Fe",mg,0.14,0.16,0.32
+"Magnesium, Mg",mg,5,6,11
+"Phosphorus, P",mg,134,151,303
+"Potassium, K",mg,86,97,194
+"Sodium, Na",mg,13,15,29
+"Zinc, Zn",mg,0.38,0.43,0.86
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.020,0.023,0.045
+"Riboflavin",mg,0.160,0.181,0.362
+"Niacin",mg,0.130,0.147,0.294
+"Vitamin B-6",mg,0.070,0.079,0.158
+"Folate, DFE",µg,12,14,27
+"Vitamin B-12",µg,0.63,0.71,1.42
+"Vitamin A, RAE",µg,11,12,25
+"Vitamin A, IU",IU,40,45,90
+"Vitamin E (alpha-tocopherol)",mg,0.01,0.01,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.2
+Lipids
+"Fatty acids, total saturated",g,0.632,0.714,1.428
+"Fatty acids, total monounsaturated",g,0.284,0.321,0.642
+"Fatty acids, total polyunsaturated",g,0.031,0.035,0.070
+"Cholesterol",mg,4,5,9
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

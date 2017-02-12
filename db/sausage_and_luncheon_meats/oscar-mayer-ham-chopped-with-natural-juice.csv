@@ -1,0 +1,34 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:17 EST
+"Nutrient data for: 07212, OSCAR MAYER, Ham (chopped with natural juice)"
+Nutrient,Unit,1Value per 100 g,"1 serving (1 slice) = 28.0g",
+Proximates
+"Water",g,65.25,18.27
+"Energy",kcal,180,50
+"Protein",g,16.30,4.56
+"Total lipid (fat)",g,11.15,3.12
+"Carbohydrate, by difference",g,3.65,1.02
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,2.20,0.62
+Minerals
+"Calcium, Ca",mg,9,3
+"Iron, Fe",mg,1.30,0.36
+"Magnesium, Mg",mg,23,6
+"Phosphorus, P",mg,219,61
+"Potassium, K",mg,260,73
+"Sodium, Na",mg,1249,350
+"Zinc, Zn",mg,2.25,0.63
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Folate, DFE",µg,3,1
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,4.056,1.136
+"Fatty acids, total monounsaturated",g,5.829,1.632
+"Fatty acids, total polyunsaturated",g,1.275,0.357
+"Cholesterol",mg,59,17
+Amino Acids
+Other
+"Caffeine",mg,0,0

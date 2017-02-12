@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:42 EST
+"Nutrient data for: 18274, Muffins, blueberry, commercially prepared (Includes mini-muffins)"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 mini (1-1/4"" dia) = 17.0g","1 small (2-3/4"" dia x 2"") = 66.0g","1 medium = 113.0g","1 large (3-1/4"" dia x 2-3/4"") = 139.0g","1 extra large = 168.0g","1 muffin = 31.0g",
+Proximates
+"Water",g,24.96,7.08,4.24,16.47,28.20,34.69,41.93,7.74
+"Energy",kcal,375,106,64,248,424,521,630,116
+"Protein",g,4.49,1.27,0.76,2.96,5.07,6.24,7.54,1.39
+"Total lipid (fat)",g,16.07,4.56,2.73,10.61,18.16,22.34,27.00,4.98
+"Carbohydrate, by difference",g,53.00,15.03,9.01,34.98,59.89,73.67,89.04,16.43
+"Fiber, total dietary",g,1.1,0.3,0.2,0.7,1.2,1.5,1.8,0.3
+"Sugars, total",g,31.47,8.92,5.35,20.77,35.56,43.74,52.87,9.76
+Minerals
+"Calcium, Ca",mg,44,12,7,29,50,61,74,14
+"Iron, Fe",mg,1.30,0.37,0.22,0.86,1.47,1.81,2.18,0.40
+"Magnesium, Mg",mg,10,3,2,7,11,14,17,3
+"Phosphorus, P",mg,146,41,25,96,165,203,245,45
+"Potassium, K",mg,121,34,21,80,137,168,203,38
+"Sodium, Na",mg,336,95,57,222,380,467,564,104
+"Zinc, Zn",mg,0.37,0.10,0.06,0.24,0.42,0.51,0.62,0.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,0.3,0.2,0.6,1.0,1.3,1.5,0.3
+"Thiamin",mg,0.168,0.048,0.029,0.111,0.190,0.234,0.282,0.052
+"Riboflavin",mg,0.163,0.046,0.028,0.108,0.184,0.227,0.274,0.051
+"Niacin",mg,1.418,0.402,0.241,0.936,1.602,1.971,2.382,0.440
+"Vitamin B-6",mg,0.040,0.011,0.007,0.026,0.045,0.056,0.067,0.012
+"Folate, DFE",µg,73,21,12,48,82,101,123,23
+"Vitamin B-12",µg,0.16,0.05,0.03,0.11,0.18,0.22,0.27,0.05
+"Vitamin A, RAE",µg,21,6,4,14,24,29,35,7
+"Vitamin A, IU",IU,73,21,12,48,82,101,123,23
+"Vitamin E (alpha-tocopherol)",mg,1.63,0.46,0.28,1.08,1.84,2.27,2.74,0.51
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.0,0.1,0.1,0.1,0.2,0.0
+"Vitamin D",IU,4,1,1,3,5,6,7,1
+"Vitamin K (phylloquinone)",µg,39.2,11.1,6.7,25.9,44.3,54.5,65.9,12.2
+Lipids
+"Fatty acids, total saturated",g,2.844,0.806,0.483,1.877,3.214,3.953,4.778,0.882
+"Fatty acids, total monounsaturated",g,4.822,1.367,0.820,3.183,5.449,6.703,8.101,1.495
+"Fatty acids, total polyunsaturated",g,8.103,2.297,1.378,5.348,9.156,11.263,13.613,2.512
+"Fatty acids, total trans",g,0.200,0.057,0.034,0.132,0.226,0.278,0.336,0.062
+"Cholesterol",mg,30,9,5,20,34,42,50,9
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0,0

@@ -1,0 +1,45 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:07 EST
+"Nutrient data for: 12087, Nuts, cashew nuts, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,5.20,1.47
+"Energy",kcal,553,157
+"Protein",g,18.22,5.17
+"Total lipid (fat)",g,43.85,12.43
+"Carbohydrate, by difference",g,30.19,8.56
+"Fiber, total dietary",g,3.3,0.9
+"Sugars, total",g,5.91,1.68
+Minerals
+"Calcium, Ca",mg,37,10
+"Iron, Fe",mg,6.68,1.89
+"Magnesium, Mg",mg,292,83
+"Phosphorus, P",mg,593,168
+"Potassium, K",mg,660,187
+"Sodium, Na",mg,12,3
+"Zinc, Zn",mg,5.78,1.64
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.1
+"Thiamin",mg,0.423,0.120
+"Riboflavin",mg,0.058,0.016
+"Niacin",mg,1.062,0.301
+"Vitamin B-6",mg,0.417,0.118
+"Folate, DFE",µg,25,7
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.90,0.26
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,34.1,9.7
+Lipids
+"Fatty acids, total saturated",g,7.783,2.206
+"Fatty acids, total monounsaturated",g,23.797,6.746
+"Fatty acids, total polyunsaturated",g,7.845,2.224
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+Footnotes
+(a)"Raw cashews have been heat-treated to safely remove kernel from shell, but not further roasted."
+(b)"Other phytosterols = 29 mg/100g; these include 2 mg campestanol, 14 mg delta-5-avenasterol, and 13 mg other minor sterols."

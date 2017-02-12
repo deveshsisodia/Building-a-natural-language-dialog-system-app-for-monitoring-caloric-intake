@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:15 EST
+"Nutrient data for: 04706, Dressing, honey mustard, fat-free"
+Nutrient,Unit,1Value per 100 g,"2.0 tbsp (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,56.17,16.85
+"Energy",kcal,169,51
+"Protein",g,1.07,0.32
+"Total lipid (fat)",g,1.47,0.44
+"Carbohydrate, by difference",g,38.43,11.53
+"Fiber, total dietary",g,1.2,0.4
+"Sugars, total",g,17.75,5.33
+Minerals
+"Calcium, Ca",mg,24,7
+"Iron, Fe",mg,0.36,0.11
+"Magnesium, Mg",mg,13,4
+"Phosphorus, P",mg,37,11
+"Potassium, K",mg,69,21
+"Sodium, Na",mg,1004,301
+"Zinc, Zn",mg,0.29,0.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.1,0.6
+"Thiamin",mg,0.043,0.013
+"Riboflavin",mg,0.021,0.006
+"Niacin",mg,0.151,0.045
+"Vitamin B-6",mg,0.053,0.016
+"Folate, DFE",µg,9,3
+"Vitamin B-12",µg,0.02,0.01
+"Vitamin A, RAE",µg,5,2
+"Vitamin A, IU",IU,18,5
+"Vitamin E (alpha-tocopherol)",mg,0.80,0.24
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.1
+Lipids
+"Fatty acids, total saturated",g,0.349,0.105
+"Fatty acids, total monounsaturated",g,0.708,0.212
+"Fatty acids, total polyunsaturated",g,0.287,0.086
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,1,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

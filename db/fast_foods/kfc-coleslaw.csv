@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:34 EST
+"Nutrient data for: 21420, KFC, Coleslaw"
+Nutrient,Unit,1Value per 100 g,"1 package = 112.0g","1 cup = 191.0g",
+Proximates
+"Water",g,73.99,82.87,141.32
+"Energy",kcal,144,161,275
+"Protein",g,0.91,1.02,1.74
+"Total lipid (fat)",g,8.64,9.68,16.50
+"Carbohydrate, by difference",g,15.65,17.53,29.89
+"Fiber, total dietary",g,2.0,2.2,3.8
+"Sugars, total",g,13.54,15.16,25.86
+Minerals
+"Calcium, Ca",mg,28,31,53
+"Iron, Fe",mg,0.21,0.24,0.40
+"Magnesium, Mg",mg,9,10,17
+"Phosphorus, P",mg,20,22,38
+"Potassium, K",mg,140,157,267
+"Sodium, Na",mg,189,212,361
+"Zinc, Zn",mg,0.15,0.17,0.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,14.6,16.4,27.9
+"Thiamin",mg,0.037,0.041,0.071
+"Riboflavin",mg,0.015,0.017,0.029
+"Niacin",mg,0.206,0.231,0.393
+"Vitamin B-6",mg,0.121,0.136,0.231
+"Vitamin B-12",µg,0.03,0.03,0.06
+"Vitamin A, RAE",µg,1,1,2
+"Vitamin A, IU",IU,4,4,8
+"Vitamin E (alpha-tocopherol)",mg,0.54,0.60,1.03
+"Vitamin K (phylloquinone)",µg,70.9,79.4,135.4
+Lipids
+"Fatty acids, total saturated",g,1.303,1.459,2.489
+"Fatty acids, total monounsaturated",g,1.963,2.199,3.749
+"Fatty acids, total polyunsaturated",g,4.888,5.475,9.336
+"Fatty acids, total trans",g,0.031,0.035,0.059
+"Cholesterol",mg,2,2,4
+Amino Acids
+Other

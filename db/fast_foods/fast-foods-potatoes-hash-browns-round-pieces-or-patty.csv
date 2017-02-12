@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:33 EST
+"Nutrient data for: 21026, Fast foods, potatoes, hash browns, round pieces or patty"
+Nutrient,Unit,1Value per 100 g,"1 round piece = 5.5g","1 patty = 53.0g","1 serving 14 round pieces = 77.0g","1 serving 29 round pieces = 160.0g",
+Proximates
+"Water",g,49.27,2.71,26.11,37.94,78.83
+"Energy",kcal,272,15,144,209,435
+"Protein",g,2.58,0.14,1.37,1.99,4.13
+"Total lipid (fat)",g,17.04,0.94,9.03,13.12,27.26
+"Carbohydrate, by difference",g,28.88,1.59,15.31,22.24,46.21
+"Fiber, total dietary",g,2.7,0.1,1.4,2.1,4.3
+"Sugars, total",g,0.56,0.03,0.30,0.43,0.90
+Minerals
+"Calcium, Ca",mg,19,1,10,15,30
+"Iron, Fe",mg,0.60,0.03,0.32,0.46,0.96
+"Magnesium, Mg",mg,21,1,11,16,34
+"Phosphorus, P",mg,98,5,52,75,157
+"Potassium, K",mg,355,20,188,273,568
+"Sodium, Na",mg,566,31,300,436,906
+"Zinc, Zn",mg,0.36,0.02,0.19,0.28,0.58
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.4,0.3,2.9,4.2,8.6
+"Thiamin",mg,0.137,0.008,0.073,0.105,0.219
+"Riboflavin",mg,0.038,0.002,0.020,0.029,0.061
+"Niacin",mg,1.838,0.101,0.974,1.415,2.941
+"Vitamin B-6",mg,0.186,0.010,0.099,0.143,0.298
+"Folate, DFE",µg,12,1,6,9,19
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,2,0,1,2,3
+"Vitamin E (alpha-tocopherol)",mg,2.62,0.14,1.39,2.02,4.19
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,9.9,0.5,5.2,7.6,15.8
+Lipids
+"Fatty acids, total saturated",g,2.540,0.140,1.346,1.956,4.064
+"Fatty acids, total monounsaturated",g,7.827,0.430,4.148,6.027,12.523
+"Fatty acids, total polyunsaturated",g,5.665,0.312,3.002,4.362,9.064
+"Fatty acids, total trans",g,0.056,0.003,0.030,0.043,0.090
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

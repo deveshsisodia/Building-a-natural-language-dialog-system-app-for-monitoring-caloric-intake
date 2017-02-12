@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:44 EST
+"Nutrient data for: 23421, Beef, New Zealand, imported, variety meats and by-products, kidney, cooked, boiled"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,66.44,56.47
+"Energy",kcal,157,133
+"Protein",g,27.28,23.19
+"Total lipid (fat)",g,5.27,4.48
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,14,12
+"Iron, Fe",mg,5.70,4.84
+"Magnesium, Mg",mg,18,15
+"Phosphorus, P",mg,338,287
+"Potassium, K",mg,144,122
+"Sodium, Na",mg,123,105
+"Zinc, Zn",mg,2.60,2.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.403,0.343
+"Riboflavin",mg,2.945,2.503
+"Niacin",mg,3.903,3.318
+"Vitamin B-6",mg,0.254,0.216
+"Vitamin B-12",µg,21.35,18.15
+"Vitamin A, RAE",µg,104,88
+"Vitamin A, IU",IU,347,295
+"Vitamin E (alpha-tocopherol)",mg,1.53,1.30
+"Vitamin D (D2 + D3)",µg,0.8,0.7
+"Vitamin D",IU,33,28
+Lipids
+"Fatty acids, total saturated",g,1.173,0.997
+"Fatty acids, total monounsaturated",g,0.650,0.552
+"Fatty acids, total polyunsaturated",g,1.238,1.052
+"Fatty acids, total trans",g,0.055,0.047
+"Cholesterol",mg,1002,852
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:42 EST
+"Nutrient data for: 18275, Muffins, blueberry, dry mix"
+Nutrient,Unit,1Value per 100 g,"1 serving = 43.0g","1 package, mix + drained berries = 356.0g","1 oz = 28.35g",
+Proximates
+"Water",g,30.18,12.98,107.44,8.56
+"Energy",kcal,293,126,1043,83
+"Protein",g,3.48,1.50,12.39,0.99
+"Total lipid (fat)",g,3.25,1.40,11.57,0.92
+"Carbohydrate, by difference",g,61.00,26.23,217.16,17.29
+"Fiber, total dietary",g,1.4,0.6,5.0,0.4
+"Sugars, total",g,32.73,14.07,116.52,9.28
+Minerals
+"Calcium, Ca",mg,18,8,64,5
+"Iron, Fe",mg,1.62,0.70,5.77,0.46
+"Magnesium, Mg",mg,13,6,46,4
+"Phosphorus, P",mg,220,95,783,62
+"Potassium, K",mg,48,21,171,14
+"Sodium, Na",mg,479,206,1705,136
+"Zinc, Zn",mg,0.33,0.14,1.17,0.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.3,1.0,8.2,0.7
+"Thiamin",mg,0.232,0.100,0.826,0.066
+"Riboflavin",mg,0.232,0.100,0.826,0.066
+"Niacin",mg,1.857,0.799,6.611,0.526
+"Vitamin B-6",mg,0.082,0.035,0.292,0.023
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,0,4,0
+"Vitamin A, IU",IU,18,8,64,5
+Lipids
+"Fatty acids, total saturated",g,1.161,0.499,4.133,0.329
+"Fatty acids, total monounsaturated",g,0.696,0.299,2.478,0.197
+"Fatty acids, total polyunsaturated",g,1.307,0.562,4.653,0.371
+"Fatty acids, total trans",g,0.227,0.098,0.808,0.064
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other

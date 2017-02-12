@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:28 EST
+"Nutrient data for: 35136, Cornmeal, white (Navajo)"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,5.42,
+"Energy",kcal,398,
+"Protein",g,10.99,
+"Total lipid (fat)",g,5.04,
+"Carbohydrate, by difference",g,77.14,
+"Fiber, total dietary",g,10.4,
+"Sugars, total",g,1.46,
+Minerals
+"Calcium, Ca",mg,11,
+"Iron, Fe",mg,3.79,
+"Magnesium, Mg",mg,125,
+"Phosphorus, P",mg,280,
+"Potassium, K",mg,443,
+"Sodium, Na",mg,4,
+"Zinc, Zn",mg,3.24,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,
+"Thiamin",mg,0.310,
+"Riboflavin",mg,0.137,
+"Niacin",mg,2.800,
+"Vitamin B-6",mg,0.583,
+"Folate, DFE",µg,32,
+"Vitamin E (alpha-tocopherol)",mg,0.37,
+"Vitamin K (phylloquinone)",µg,0.4,
+Lipids
+"Fatty acids, total saturated",g,0.853,
+"Fatty acids, total monounsaturated",g,1.532,
+"Fatty acids, total polyunsaturated",g,2.078,
+Amino Acids
+Other

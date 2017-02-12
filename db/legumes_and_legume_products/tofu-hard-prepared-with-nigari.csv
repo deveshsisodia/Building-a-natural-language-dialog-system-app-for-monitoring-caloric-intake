@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:01 EST
+"Nutrient data for: 16160, Tofu, hard, prepared with nigari"
+Nutrient,Unit,1Value per 100 g,"0.25 block = 122.0g",
+Proximates
+"Water",g,71.12,86.77
+"Energy",kcal,145,177
+"Protein",g,12.68,15.47
+"Total lipid (fat)",g,9.99,12.19
+"Carbohydrate, by difference",g,4.39,5.36
+"Fiber, total dietary",g,0.6,0.7
+Minerals
+"Calcium, Ca",mg,345,421
+"Iron, Fe",mg,2.75,3.35
+"Magnesium, Mg",mg,53,65
+"Phosphorus, P",mg,231,282
+"Potassium, K",mg,146,178
+"Sodium, Na",mg,2,2
+"Zinc, Zn",mg,1.66,2.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.4
+"Thiamin",mg,0.042,0.051
+"Riboflavin",mg,0.077,0.094
+"Niacin",mg,0.639,0.780
+"Vitamin B-6",mg,0.039,0.048
+"Folate, DFE",µg,22,27
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.445,1.763
+"Fatty acids, total monounsaturated",g,2.205,2.690
+"Fatty acids, total polyunsaturated",g,5.638,6.878
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+Footnotes
+(c)"Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly."
+(a)"Descriptive terms (soft, firm, extra firm) vary in usage between manufacturers as there are no standards for the various types of tofu."
+(b)"Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly."

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:01 EST
+"Nutrient data for: 16118, Soy flour, low-fat"
+Nutrient,Unit,1Value per 100 g,"1 cup, stirred = 88.0g","1 tbsp = 5.5g",
+Proximates
+"Water",g,4.61,4.06,0.25
+"Energy",kcal,372,327,20
+"Protein",g,49.81,43.83,2.74
+"Total lipid (fat)",g,8.90,7.83,0.49
+"Carbohydrate, by difference",g,30.63,26.95,1.68
+"Fiber, total dietary",g,16.0,14.1,0.9
+"Sugars, total",g,9.33,8.21,0.51
+Minerals
+"Calcium, Ca",mg,285,251,16
+"Iron, Fe",mg,8.20,7.22,0.45
+"Magnesium, Mg",mg,285,251,16
+"Phosphorus, P",mg,675,594,37
+"Potassium, K",mg,2090,1839,115
+"Sodium, Na",mg,9,8,0
+"Zinc, Zn",mg,4.10,3.61,0.23
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,1.088,0.957,0.060
+"Riboflavin",mg,0.280,0.246,0.015
+"Niacin",mg,2.950,2.596,0.162
+"Vitamin B-6",mg,1.050,0.924,0.058
+"Folate, DFE",µg,289,254,16
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,2,2,0
+"Vitamin A, IU",IU,40,35,2
+"Vitamin E (alpha-tocopherol)",mg,0.55,0.48,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,3.9,3.4,0.2
+Lipids
+"Fatty acids, total saturated",g,1.290,1.135,0.071
+"Fatty acids, total monounsaturated",g,1.460,1.285,0.080
+"Fatty acids, total polyunsaturated",g,4.215,3.709,0.232
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:31 EST
+"Nutrient data for: 43365, Tomato and vegetable juice, low sodium"
+Nutrient,Unit,1Value per 100 g,"1 cup = 242.0g","1 fl oz = 30.2g",
+Proximates
+"Water",g,93.50,226.27,28.24
+"Energy",kcal,22,53,7
+"Protein",g,0.60,1.45,0.18
+"Total lipid (fat)",g,0.10,0.24,0.03
+"Carbohydrate, by difference",g,4.59,11.11,1.39
+"Fiber, total dietary",g,0.8,1.9,0.2
+"Sugars, total",g,3.28,7.94,0.99
+Minerals
+"Calcium, Ca",mg,11,27,3
+"Iron, Fe",mg,0.42,1.02,0.13
+"Magnesium, Mg",mg,11,27,3
+"Phosphorus, P",mg,17,41,5
+"Potassium, K",mg,193,467,58
+"Sodium, Na",mg,58,140,18
+"Zinc, Zn",mg,0.20,0.48,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,27.7,67.0,8.4
+"Thiamin",mg,0.040,0.097,0.012
+"Riboflavin",mg,0.030,0.073,0.009
+"Niacin",mg,0.730,1.767,0.220
+"Vitamin B-6",mg,0.140,0.339,0.042
+"Folate, DFE",µg,21,51,6
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,78,189,24
+"Vitamin A, IU",IU,1558,3770,471
+"Vitamin E (alpha-tocopherol)",mg,0.32,0.77,0.10
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,5.3,12.8,1.6
+Lipids
+"Fatty acids, total saturated",g,0.014,0.034,0.004
+"Fatty acids, total monounsaturated",g,0.016,0.039,0.005
+"Fatty acids, total polyunsaturated",g,0.042,0.102,0.013
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

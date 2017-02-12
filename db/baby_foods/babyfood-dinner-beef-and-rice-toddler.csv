@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:42 EST
+"Nutrient data for: 03049, Babyfood, dinner, beef and rice, toddler"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 jar = 170.0g",
+Proximates
+"Water",g,81.90,23.22,139.23
+"Energy",kcal,82,23,139
+"Protein",g,5.00,1.42,8.50
+"Total lipid (fat)",g,2.90,0.82,4.93
+"Carbohydrate, by difference",g,8.80,2.49,14.96
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,11,3,19
+"Iron, Fe",mg,0.69,0.20,1.17
+"Magnesium, Mg",mg,8,2,14
+"Phosphorus, P",mg,35,10,60
+"Potassium, K",mg,120,34,204
+"Sodium, Na",mg,32,9,54
+"Zinc, Zn",mg,0.92,0.26,1.56
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.9,1.1,6.6
+"Thiamin",mg,0.016,0.005,0.027
+"Riboflavin",mg,0.069,0.020,0.117
+"Niacin",mg,1.343,0.381,2.283
+"Vitamin B-6",mg,0.139,0.039,0.236
+"Folate, DFE",µg,6,2,10
+"Vitamin B-12",µg,0.51,0.14,0.87
+"Vitamin A, RAE",µg,25,7,42
+"Vitamin A, IU",IU,502,142,853
+Lipids
+Amino Acids
+Other

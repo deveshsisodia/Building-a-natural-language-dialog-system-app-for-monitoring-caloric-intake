@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:07 EST
+"Nutrient data for: 15167, Mollusks, oyster, eastern, wild, raw"
+Nutrient,Unit,1Value per 100 g,"6.0 medium = 84.0g","1 cup = 248.0g",
+Proximates
+"Water",g,89.04,74.79,220.82
+"Energy",kcal,51,43,126
+"Protein",g,5.71,4.80,14.16
+"Total lipid (fat)",g,1.71,1.44,4.24
+"Carbohydrate, by difference",g,2.72,2.28,6.75
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.62,0.52,1.54
+Minerals
+"Calcium, Ca",mg,59,50,146
+"Iron, Fe",mg,4.61,3.87,11.43
+"Magnesium, Mg",mg,18,15,45
+"Phosphorus, P",mg,97,81,241
+"Potassium, K",mg,156,131,387
+"Sodium, Na",mg,85,71,211
+"Zinc, Zn",mg,39.30,33.01,97.46
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.018,0.015,0.045
+"Riboflavin",mg,0.090,0.076,0.223
+"Niacin",mg,0.925,0.777,2.294
+"Vitamin B-6",mg,0.031,0.026,0.077
+"Folate, DFE",µg,7,6,17
+"Vitamin B-12",µg,8.75,7.35,21.70
+"Vitamin A, RAE",µg,13,11,32
+"Vitamin A, IU",IU,44,37,109
+"Vitamin E (alpha-tocopherol)",mg,0.85,0.71,2.11
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,1,1,2
+"Vitamin K (phylloquinone)",µg,1.0,0.8,2.5
+Lipids
+"Fatty acids, total saturated",g,0.474,0.398,1.176
+"Fatty acids, total monounsaturated",g,0.253,0.213,0.627
+"Fatty acids, total polyunsaturated",g,0.528,0.444,1.309
+"Fatty acids, total trans",g,0.034,0.029,0.084
+"Cholesterol",mg,40,34,99
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

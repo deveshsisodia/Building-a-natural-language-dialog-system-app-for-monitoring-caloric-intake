@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:58 EST
+"Nutrient data for: 17236, Lamb, domestic, loin, separable lean and fat, trimmed to 1/8"" fat, choice, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 steak, excluding refuse (yield from 1 raw steak, with refuse, weighing 102 g) = 79.0g",
+Proximates
+"Water",g,59.55,16.88,47.04
+"Energy",kcal,279,79,220
+"Protein",g,17.18,4.87,13.57
+"Total lipid (fat)",g,22.75,6.45,17.97
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,14,4,11
+"Iron, Fe",mg,1.66,0.47,1.31
+"Magnesium, Mg",mg,22,6,17
+"Phosphorus, P",mg,159,45,126
+"Potassium, K",mg,226,64,179
+"Sodium, Na",mg,59,17,47
+"Zinc, Zn",mg,2.65,0.75,2.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.120,0.034,0.095
+"Riboflavin",mg,0.210,0.060,0.166
+"Niacin",mg,6.480,1.837,5.119
+"Vitamin B-6",mg,0.140,0.040,0.111
+"Folate, DFE",µg,18,5,14
+"Vitamin B-12",µg,2.07,0.59,1.64
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,9.950,2.821,7.860
+"Fatty acids, total monounsaturated",g,9.340,2.648,7.379
+"Fatty acids, total polyunsaturated",g,1.790,0.507,1.414
+"Cholesterol",mg,72,20,57
+Amino Acids
+Other

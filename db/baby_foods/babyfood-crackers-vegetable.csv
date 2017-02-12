@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:42 EST
+"Nutrient data for: 03209, Babyfood, crackers, vegetable"
+Nutrient,Unit,1Value per 100 g,"1 cracker = 0.7g",
+Proximates
+"Water",g,2.00,0.01
+"Energy",kcal,477,3
+"Protein",g,8.40,0.06
+"Total lipid (fat)",g,19.60,0.14
+"Carbohydrate, by difference",g,66.85,0.47
+"Fiber, total dietary",g,4.0,0.0
+"Sugars, total",g,13.00,0.09
+Minerals
+"Calcium, Ca",mg,41,0
+"Iron, Fe",mg,4.20,0.03
+"Magnesium, Mg",mg,37,0
+"Phosphorus, P",mg,198,1
+"Potassium, K",mg,245,2
+"Sodium, Na",mg,571,4
+"Zinc, Zn",mg,0.90,0.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,50.5,0.4
+"Thiamin",mg,0.350,0.002
+"Riboflavin",mg,0.330,0.002
+"Niacin",mg,4.050,0.028
+"Vitamin B-6",mg,0.120,0.001
+"Folate, DFE",µg,135,1
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,179,1
+"Vitamin A, IU",IU,3571,25
+"Vitamin E (alpha-tocopherol)",mg,8.05,0.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,7.1,0.0
+Lipids
+"Fatty acids, total saturated",g,1.966,0.014
+"Fatty acids, total monounsaturated",g,15.779,0.110
+"Fatty acids, total polyunsaturated",g,1.022,0.007
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

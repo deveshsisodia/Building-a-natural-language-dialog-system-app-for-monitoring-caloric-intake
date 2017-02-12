@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:21 EST
+"Nutrient data for: 11957, Fennel, bulb, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, sliced = 87.0g","1 bulb = 234.0g",
+Proximates
+"Water",g,90.21,78.48,211.09
+"Energy",kcal,31,27,73
+"Protein",g,1.24,1.08,2.90
+"Total lipid (fat)",g,0.20,0.17,0.47
+"Carbohydrate, by difference",g,7.30,6.35,17.08
+"Fiber, total dietary",g,3.1,2.7,7.3
+"Sugars, total",g,3.93,3.42,9.20
+Minerals
+"Calcium, Ca",mg,49,43,115
+"Iron, Fe",mg,0.73,0.64,1.71
+"Magnesium, Mg",mg,17,15,40
+"Phosphorus, P",mg,50,44,117
+"Potassium, K",mg,414,360,969
+"Sodium, Na",mg,52,45,122
+"Zinc, Zn",mg,0.20,0.17,0.47
+Vitamins
+"Vitamin C, total ascorbic acid",mg,12.0,10.4,28.1
+"Thiamin",mg,0.010,0.009,0.023
+"Riboflavin",mg,0.032,0.028,0.075
+"Niacin",mg,0.640,0.557,1.498
+"Vitamin B-6",mg,0.047,0.041,0.110
+"Folate, DFE",µg,27,23,63
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,48,42,112
+"Vitamin A, IU",IU,963,838,2253
+"Vitamin E (alpha-tocopherol)",mg,0.58,0.50,1.36
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,62.8,54.6,147.0
+Lipids
+"Fatty acids, total saturated",g,0.090,0.078,0.211
+"Fatty acids, total monounsaturated",g,0.068,0.059,0.159
+"Fatty acids, total polyunsaturated",g,0.169,0.147,0.395
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

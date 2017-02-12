@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:09 EST
+"Nutrient data for: 01097, Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 31.9g","1 cup = 256.0g","0.5 cup = 128.0g",
+Proximates
+"Water",g,79.40,25.33,203.26,101.63
+"Energy",kcal,78,25,200,100
+"Protein",g,7.55,2.41,19.33,9.66
+"Total lipid (fat)",g,0.20,0.06,0.51,0.26
+"Carbohydrate, by difference",g,11.35,3.62,29.06,14.53
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,11.35,3.62,29.06,14.53
+Minerals
+"Calcium, Ca",mg,290,93,742,371
+"Iron, Fe",mg,0.29,0.09,0.74,0.37
+"Magnesium, Mg",mg,27,9,69,35
+"Phosphorus, P",mg,195,62,499,250
+"Potassium, K",mg,332,106,850,425
+"Sodium, Na",mg,115,37,294,147
+"Zinc, Zn",mg,0.90,0.29,2.30,1.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.2,0.4,3.1,1.5
+"Thiamin",mg,0.045,0.014,0.115,0.058
+"Riboflavin",mg,0.309,0.099,0.791,0.396
+"Niacin",mg,0.174,0.056,0.445,0.223
+"Vitamin B-6",mg,0.055,0.018,0.141,0.070
+"Folate, DFE",µg,9,3,23,12
+"Vitamin B-12",µg,0.24,0.08,0.61,0.31
+"Vitamin A, RAE",µg,118,38,302,151
+"Vitamin A, IU",IU,394,126,1009,504
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,2.0,0.6,5.1,2.6
+"Vitamin D",IU,79,25,202,101
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.121,0.039,0.310,0.155
+"Fatty acids, total monounsaturated",g,0.062,0.020,0.159,0.079
+"Fatty acids, total polyunsaturated",g,0.006,0.002,0.015,0.008
+"Cholesterol",mg,4,1,10,5
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

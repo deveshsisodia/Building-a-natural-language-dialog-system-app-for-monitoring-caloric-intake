@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:22 EST
+"Nutrient data for: 11252, Lettuce, iceberg (includes crisphead types), raw"
+Nutrient,Unit,1Value per 100 g,"1 cup shredded = 72.0g","1 cup, chopped (1/2"" pieces, loosely packed) = 57.0g","1 head, large = 755.0g","1 head, medium (6"" dia) = 539.0g","1 head, small = 324.0g","1 leaf, large = 15.0g","1 leaf, medium = 8.0g","1 leaf, small = 5.0g","1 NLEA Serving = 89.0g",
+Proximates
+"Water",g,95.64,68.86,54.51,722.08,515.50,309.87,14.35,7.65,4.78,85.12
+"Energy",kcal,14,10,8,106,75,45,2,1,1,12
+"Protein",g,0.90,0.65,0.51,6.79,4.85,2.92,0.14,0.07,0.04,0.80
+"Total lipid (fat)",g,0.14,0.10,0.08,1.06,0.75,0.45,0.02,0.01,0.01,0.12
+"Carbohydrate, by difference",g,2.97,2.14,1.69,22.42,16.01,9.62,0.45,0.24,0.15,2.64
+"Fiber, total dietary",g,1.2,0.9,0.7,9.1,6.5,3.9,0.2,0.1,0.1,1.1
+"Sugars, total",g,1.97,1.42,1.12,14.87,10.62,6.38,0.30,0.16,0.10,1.75
+Minerals
+"Calcium, Ca",mg,18,13,10,136,97,58,3,1,1,16
+"Iron, Fe",mg,0.41,0.30,0.23,3.10,2.21,1.33,0.06,0.03,0.02,0.36
+"Magnesium, Mg",mg,7,5,4,53,38,23,1,1,0,6
+"Phosphorus, P",mg,20,14,11,151,108,65,3,2,1,18
+"Potassium, K",mg,141,102,80,1065,760,457,21,11,7,125
+"Sodium, Na",mg,10,7,6,76,54,32,2,1,0,9
+"Zinc, Zn",mg,0.15,0.11,0.09,1.13,0.81,0.49,0.02,0.01,0.01,0.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.8,2.0,1.6,21.1,15.1,9.1,0.4,0.2,0.1,2.5
+"Thiamin",mg,0.041,0.030,0.023,0.310,0.221,0.133,0.006,0.003,0.002,0.036
+"Riboflavin",mg,0.025,0.018,0.014,0.189,0.135,0.081,0.004,0.002,0.001,0.022
+"Niacin",mg,0.123,0.089,0.070,0.929,0.663,0.399,0.018,0.010,0.006,0.109
+"Vitamin B-6",mg,0.042,0.030,0.024,0.317,0.226,0.136,0.006,0.003,0.002,0.037
+"Folate, DFE",µg,29,21,17,219,156,94,4,2,1,26
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,25,18,14,189,135,81,4,2,1,22
+"Vitamin A, IU",IU,502,361,286,3790,2706,1626,75,40,25,447
+"Vitamin E (alpha-tocopherol)",mg,0.18,0.13,0.10,1.36,0.97,0.58,0.03,0.01,0.01,0.16
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,24.1,17.4,13.7,182.0,129.9,78.1,3.6,1.9,1.2,21.4
+Lipids
+"Fatty acids, total saturated",g,0.018,0.013,0.010,0.136,0.097,0.058,0.003,0.001,0.001,0.016
+"Fatty acids, total monounsaturated",g,0.006,0.004,0.003,0.045,0.032,0.019,0.001,0.000,0.000,0.005
+"Fatty acids, total polyunsaturated",g,0.074,0.053,0.042,0.559,0.399,0.240,0.011,0.006,0.004,0.066
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0,0,0,0

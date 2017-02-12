@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18459, Breakfast tart, low fat"
+Nutrient,Unit,1Value per 100 g,"1 tart = 52.0g",
+Proximates
+"Water",g,12.04,6.26
+"Energy",kcal,372,193
+"Protein",g,3.99,2.07
+"Total lipid (fat)",g,5.99,3.11
+"Carbohydrate, by difference",g,76.80,39.94
+"Fiber, total dietary",g,1.5,0.8
+"Sugars, total",g,4.87,2.53
+Minerals
+"Calcium, Ca",mg,44,23
+"Iron, Fe",mg,3.42,1.78
+"Magnesium, Mg",mg,44,23
+"Phosphorus, P",mg,93,48
+"Potassium, K",mg,66,34
+"Sodium, Na",mg,361,188
+"Zinc, Zn",mg,0.28,0.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.8,2.0
+"Thiamin",mg,0.285,0.148
+"Riboflavin",mg,0.549,0.285
+"Niacin",mg,3.800,1.976
+"Vitamin B-6",mg,0.380,0.198
+"Folate, DFE",µg,133,69
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,285,148
+"Vitamin A, IU",IU,950,494
+"Vitamin E (alpha-tocopherol)",mg,0.53,0.28
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.4,0.2
+Lipids
+"Fatty acids, total saturated",g,1.393,0.724
+"Fatty acids, total monounsaturated",g,3.338,1.736
+"Fatty acids, total polyunsaturated",g,0.878,0.457
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

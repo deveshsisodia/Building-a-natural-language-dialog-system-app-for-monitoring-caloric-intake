@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:02 EST
+"Nutrient data for: 08500, Cereals ready-to-eat, MALT-O-MEAL, Frosted Mini SPOONERS"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 55.0g",
+Proximates
+"Water",g,5.50,3.02
+"Energy",kcal,354,195
+"Protein",g,9.09,5.00
+"Total lipid (fat)",g,1.94,1.07
+"Carbohydrate, by difference",g,81.81,45.00
+"Fiber, total dietary",g,10.9,6.0
+"Sugars, total",g,20.00,11.00
+Minerals
+"Calcium, Ca",mg,29,16
+"Iron, Fe",mg,29.45,16.20
+"Magnesium, Mg",mg,100,55
+"Phosphorus, P",mg,273,150
+"Potassium, K",mg,327,180
+"Sodium, Na",mg,18,10
+"Zinc, Zn",mg,6.82,3.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.680,0.374
+"Riboflavin",mg,0.760,0.418
+"Niacin",mg,9.090,5.000
+"Vitamin B-6",mg,0.910,0.501
+"Folate, DFE",µg,1216,669
+"Vitamin B-12",µg,2.73,1.50
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.86,0.47
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.6,0.9
+Lipids
+"Fatty acids, total saturated",g,0.228,0.125
+"Fatty acids, total monounsaturated",g,0.797,0.438
+"Fatty acids, total polyunsaturated",g,0.721,0.397
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

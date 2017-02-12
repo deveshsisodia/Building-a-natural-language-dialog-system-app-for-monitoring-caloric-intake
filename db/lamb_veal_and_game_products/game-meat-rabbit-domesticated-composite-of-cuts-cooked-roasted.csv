@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:53 EST
+"Nutrient data for: 17178, Game meat, rabbit, domesticated, composite of cuts, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked (yield from 1 lb raw meat, boneless) = 313.0g",
+Proximates
+"Water",g,60.61,51.52,189.71
+"Energy",kcal,197,167,617
+"Protein",g,29.06,24.70,90.96
+"Total lipid (fat)",g,8.05,6.84,25.20
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,19,16,59
+"Iron, Fe",mg,2.27,1.93,7.11
+"Magnesium, Mg",mg,21,18,66
+"Phosphorus, P",mg,263,224,823
+"Potassium, K",mg,383,326,1199
+"Sodium, Na",mg,47,40,147
+"Zinc, Zn",mg,2.27,1.93,7.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.090,0.076,0.282
+"Riboflavin",mg,0.210,0.178,0.657
+"Niacin",mg,8.430,7.165,26.386
+"Vitamin B-6",mg,0.470,0.399,1.471
+"Folate, DFE",µg,11,9,34
+"Vitamin B-12",µg,8.30,7.06,25.98
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,2.400,2.040,7.512
+"Fatty acids, total monounsaturated",g,2.170,1.844,6.792
+"Fatty acids, total polyunsaturated",g,1.560,1.326,4.883
+"Cholesterol",mg,82,70,257
+Amino Acids
+Other

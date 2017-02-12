@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:17 EST
+"Nutrient data for: 04617, Margarine, regular, 80% fat, composite, stick, without salt"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 14.2g","1 cup = 227.0g","1 pat (1"" sq, 1/3"" high) = 5.0g","1 stick = 113.0g",
+Proximates
+"Water",g,16.52,2.35,37.50,0.83,18.67
+"Energy",kcal,717,102,1628,36,810
+"Protein",g,0.16,0.02,0.36,0.01,0.18
+"Total lipid (fat)",g,80.71,11.46,183.21,4.04,91.20
+"Carbohydrate, by difference",g,0.70,0.10,1.59,0.04,0.79
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,3,0,7,0,3
+"Iron, Fe",mg,0.06,0.01,0.14,0.00,0.07
+"Magnesium, Mg",mg,3,0,7,0,3
+"Phosphorus, P",mg,5,1,11,0,6
+"Potassium, K",mg,18,3,41,1,20
+"Sodium, Na",mg,2,0,5,0,2
+"Zinc, Zn",mg,0.00,0.00,0.00,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.0,0.5,0.0,0.2
+"Thiamin",mg,0.010,0.001,0.023,0.000,0.011
+"Riboflavin",mg,0.037,0.005,0.084,0.002,0.042
+"Niacin",mg,0.023,0.003,0.052,0.001,0.026
+"Vitamin B-6",mg,0.009,0.001,0.020,0.000,0.010
+"Folate, DFE",µg,1,0,2,0,1
+"Vitamin B-12",µg,0.10,0.01,0.23,0.01,0.11
+"Vitamin A, RAE",µg,819,116,1859,41,925
+"Vitamin A, IU",IU,3577,508,8120,179,4042
+"Vitamin E (alpha-tocopherol)",mg,9.00,1.28,20.43,0.45,10.17
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,93.0,13.2,211.1,4.7,105.1
+Lipids
+"Fatty acids, total saturated",g,15.189,2.157,34.479,0.759,17.164
+"Fatty acids, total monounsaturated",g,38.877,5.521,88.251,1.944,43.931
+"Fatty acids, total polyunsaturated",g,24.302,3.451,55.166,1.215,27.461
+"Fatty acids, total trans",g,14.890,2.114,33.800,0.745,16.826
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

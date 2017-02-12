@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:51 EST
+"Nutrient data for: 23605, Beef, round, bottom round, steak, separable lean only, trimmed to 1/8"" fat, all grades, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g",
+Proximates
+"Water",g,57.54,16.31,261.00
+"Energy",kcal,216,61,980
+"Protein",g,34.34,9.74,155.77
+"Total lipid (fat)",g,7.73,2.19,35.06
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,7,2,32
+"Iron, Fe",mg,2.87,0.81,13.02
+"Magnesium, Mg",mg,23,7,104
+"Phosphorus, P",mg,217,62,984
+"Potassium, K",mg,282,80,1279
+"Sodium, Na",mg,45,13,204
+"Zinc, Zn",mg,5.90,1.67,26.76
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.078,0.022,0.354
+"Riboflavin",mg,0.194,0.055,0.880
+"Niacin",mg,6.169,1.749,27.983
+"Vitamin B-6",mg,0.461,0.131,2.091
+"Folate, DFE",µg,11,3,50
+"Vitamin B-12",µg,1.89,0.54,8.57
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.45,0.13,2.04
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.5
+"Vitamin D",IU,5,1,23
+"Vitamin K (phylloquinone)",µg,1.6,0.5,7.3
+Lipids
+"Fatty acids, total saturated",g,2.663,0.755,12.079
+"Fatty acids, total monounsaturated",g,3.230,0.916,14.651
+"Fatty acids, total polyunsaturated",g,0.331,0.094,1.501
+"Cholesterol",mg,94,27,426
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

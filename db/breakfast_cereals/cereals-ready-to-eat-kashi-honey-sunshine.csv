@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08610, Cereals ready-to-eat, KASHI Honey Sunshine"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,2.50,0.75
+"Energy",kcal,332,100
+"Protein",g,7.80,2.34
+"Total lipid (fat)",g,4.09,1.23
+"Carbohydrate, by difference",g,82.00,24.60
+"Fiber, total dietary",g,17.9,5.4
+"Sugars, total",g,20.29,6.09
+Minerals
+"Calcium, Ca",mg,29,9
+"Iron, Fe",mg,3.00,0.90
+"Magnesium, Mg",mg,79,24
+"Phosphorus, P",mg,171,51
+"Potassium, K",mg,269,81
+"Sodium, Na",mg,446,134
+"Zinc, Zn",mg,1.39,0.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.310,0.093
+"Riboflavin",mg,0.150,0.045
+"Niacin",mg,3.200,0.960
+"Vitamin B-6",mg,0.030,0.009
+"Folate, DFE",µg,15,4
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,6,2
+"Vitamin A, IU",IU,113,34
+"Vitamin E (alpha-tocopherol)",mg,44.22,13.27
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.4,0.7
+Lipids
+"Fatty acids, total saturated",g,0.600,0.180
+"Fatty acids, total monounsaturated",g,1.100,0.330
+"Fatty acids, total polyunsaturated",g,1.500,0.450
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(a)"Added vitamin E is RRR alpha tocopherol."

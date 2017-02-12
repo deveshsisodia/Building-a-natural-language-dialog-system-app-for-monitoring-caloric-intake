@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:46 EST
+"Nutrient data for: 28295, Tortillas, ready-to-bake or -fry, whole wheat"
+Nutrient,Unit,1Value per 100 g,"1 tortilla 1 serving = 41.0g",
+Proximates
+"Water",g,30.15,12.36
+"Energy",kcal,310,127
+"Protein",g,9.76,4.00
+"Total lipid (fat)",g,9.76,4.00
+"Carbohydrate, by difference",g,45.89,18.81
+"Fiber, total dietary",g,9.8,4.0
+"Sugars, total",g,2.44,1.00
+Minerals
+"Calcium, Ca",mg,244,100
+"Iron, Fe",mg,2.63,1.08
+"Magnesium, Mg",mg,85,35
+"Phosphorus, P",mg,346,142
+"Potassium, K",mg,262,107
+"Sodium, Na",mg,512,210
+"Zinc, Zn",mg,1.92,0.79
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.823,0.337
+"Riboflavin",mg,0.289,0.118
+"Niacin",mg,4.858,1.992
+"Vitamin B-6",mg,0.312,0.128
+"Folate, DFE",µg,138,57
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,5,2
+"Vitamin E (alpha-tocopherol)",mg,0.90,0.37
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,4.5,1.8
+Lipids
+"Fatty acids, total saturated",g,4.878,2.000
+"Fatty acids, total monounsaturated",g,3.062,1.255
+"Fatty acids, total polyunsaturated",g,0.992,0.407
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

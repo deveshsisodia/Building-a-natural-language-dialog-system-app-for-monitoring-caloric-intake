@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:44 EST
+"Nutrient data for: 03079, Babyfood, dinner, vegetables and noodles and turkey, strained"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 jar = 113.0g",
+Proximates
+"Water",g,90.30,25.60,102.04
+"Energy",kcal,44,12,50
+"Protein",g,1.20,0.34,1.36
+"Total lipid (fat)",g,1.20,0.34,1.36
+"Carbohydrate, by difference",g,6.80,1.93,7.68
+"Fiber, total dietary",g,1.1,0.3,1.2
+Minerals
+"Calcium, Ca",mg,32,9,36
+"Iron, Fe",mg,0.19,0.05,0.21
+"Magnesium, Mg",mg,8,2,9
+"Phosphorus, P",mg,25,7,28
+"Potassium, K",mg,63,18,71
+"Sodium, Na",mg,21,6,24
+"Zinc, Zn",mg,0.27,0.08,0.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,0.2,0.9
+"Thiamin",mg,0.018,0.005,0.020
+"Riboflavin",mg,0.044,0.012,0.050
+"Niacin",mg,0.250,0.071,0.282
+"Vitamin B-6",mg,0.016,0.005,0.018
+"Folate, DFE",µg,2,1,2
+"Vitamin B-12",µg,0.10,0.03,0.11
+"Vitamin A, RAE",µg,50,14,56
+"Vitamin A, IU",IU,991,281,1120
+Lipids
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:31 EST
+"Nutrient data for: 02042, Spices, thyme, dried"
+Nutrient,Unit,1Value per 100 g,"1 tsp, leaves = 1.0g","1 tbsp, leaves = 2.7g","1 tsp, ground = 1.4g","1 tbsp, ground = 4.3g",
+Proximates
+"Water",g,7.79,0.08,0.21,0.11,0.33
+"Energy",kcal,276,3,7,4,12
+"Protein",g,9.11,0.09,0.25,0.13,0.39
+"Total lipid (fat)",g,7.43,0.07,0.20,0.10,0.32
+"Carbohydrate, by difference",g,63.94,0.64,1.73,0.90,2.75
+"Fiber, total dietary",g,37.0,0.4,1.0,0.5,1.6
+"Sugars, total",g,1.71,0.02,0.05,0.02,0.07
+Minerals
+"Calcium, Ca",mg,1890,19,51,26,81
+"Iron, Fe",mg,123.60,1.24,3.34,1.73,5.31
+"Magnesium, Mg",mg,220,2,6,3,9
+"Phosphorus, P",mg,201,2,5,3,9
+"Potassium, K",mg,814,8,22,11,35
+"Sodium, Na",mg,55,1,1,1,2
+"Zinc, Zn",mg,6.18,0.06,0.17,0.09,0.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,50.0,0.5,1.4,0.7,2.1
+"Thiamin",mg,0.513,0.005,0.014,0.007,0.022
+"Riboflavin",mg,0.399,0.004,0.011,0.006,0.017
+"Niacin",mg,4.940,0.049,0.133,0.069,0.212
+"Vitamin B-6",mg,0.550,0.006,0.015,0.008,0.024
+"Folate, DFE",µg,274,3,7,4,12
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,190,2,5,3,8
+"Vitamin A, IU",IU,3800,38,103,53,163
+"Vitamin E (alpha-tocopherol)",mg,7.48,0.07,0.20,0.10,0.32
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,1714.5,17.1,46.3,24.0,73.7
+Lipids
+"Fatty acids, total saturated",g,2.730,0.027,0.074,0.038,0.117
+"Fatty acids, total monounsaturated",g,0.470,0.005,0.013,0.007,0.020
+"Fatty acids, total polyunsaturated",g,1.190,0.012,0.032,0.017,0.051
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

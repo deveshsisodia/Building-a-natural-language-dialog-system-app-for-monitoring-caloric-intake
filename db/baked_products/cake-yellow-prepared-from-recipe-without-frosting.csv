@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18146, Cake, yellow, prepared from recipe without frosting"
+Nutrient,Unit,1Value per 100 g,"1 piece (1/12 of 8"" dia) = 68.0g","1 cake, 2-layer (8"" dia) = 817.0g",
+Proximates
+"Water",g,25.10,17.07,205.07
+"Energy",kcal,361,245,2949
+"Protein",g,5.30,3.60,43.30
+"Total lipid (fat)",g,14.60,9.93,119.28
+"Carbohydrate, by difference",g,53.00,36.04,433.01
+"Fiber, total dietary",g,0.7,0.5,5.7
+Minerals
+"Calcium, Ca",mg,146,99,1193
+"Iron, Fe",mg,1.64,1.12,13.40
+"Magnesium, Mg",mg,12,8,98
+"Phosphorus, P",mg,117,80,956
+"Potassium, K",mg,91,62,743
+"Sodium, Na",mg,343,233,2802
+"Zinc, Zn",mg,0.45,0.31,3.68
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1,1.6
+"Thiamin",mg,0.183,0.124,1.495
+"Riboflavin",mg,0.233,0.158,1.904
+"Niacin",mg,1.456,0.990,11.896
+"Vitamin B-6",mg,0.036,0.024,0.294
+"Folate, DFE",µg,51,35,417
+"Vitamin B-12",µg,0.16,0.11,1.31
+"Vitamin A, RAE",µg,40,27,327
+"Vitamin A, IU",IU,139,95,1136
+Lipids
+"Fatty acids, total saturated",g,3.924,2.668,32.059
+"Fatty acids, total monounsaturated",g,6.229,4.236,50.891
+"Fatty acids, total polyunsaturated",g,3.570,2.428,29.167
+"Cholesterol",mg,54,37,441
+Amino Acids
+Other

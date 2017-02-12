@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:31 EST
+"Nutrient data for: 21095, Fast foods, cheeseburger; double, regular, patty and bun; with condiments and vegetables"
+Nutrient,Unit,1Value per 100 g,"1 sandwich = 228.0g",
+Proximates
+"Water",g,46.56,106.16
+"Energy",kcal,285,650
+"Protein",g,13.04,29.73
+"Total lipid (fat)",g,15.47,35.27
+"Carbohydrate, by difference",g,23.30,53.12
+Minerals
+"Calcium, Ca",mg,74,169
+"Iron, Fe",mg,2.07,4.72
+"Magnesium, Mg",mg,16,36
+"Phosphorus, P",mg,153,349
+"Potassium, K",mg,171,390
+"Sodium, Na",mg,404,921
+"Zinc, Zn",mg,1.81,4.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.2,2.7
+"Thiamin",mg,0.250,0.570
+"Riboflavin",mg,0.190,0.433
+"Niacin",mg,3.660,8.345
+"Vitamin B-6",mg,0.120,0.274
+"Folate, DFE",µg,58,132
+"Vitamin B-12",µg,0.91,2.07
+"Vitamin A, IU",IU,163,372
+"Vitamin E (alpha-tocopherol)",mg,0.87,1.98
+Lipids
+"Fatty acids, total saturated",g,5.600,12.768
+"Fatty acids, total monounsaturated",g,5.543,12.638
+"Fatty acids, total polyunsaturated",g,2.792,6.366
+"Cholesterol",mg,41,93
+Amino Acids
+Other

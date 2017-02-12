@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:19 EST
+"Nutrient data for: 07918, Sausage, summer, pork and beef, sticks, with cheddar cheese"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,36.20,10.26
+"Energy",kcal,426,121
+"Protein",g,19.43,5.51
+"Total lipid (fat)",g,37.91,10.75
+"Carbohydrate, by difference",g,1.82,0.52
+"Fiber, total dietary",g,0.2,0.1
+"Sugars, total",g,0.12,0.03
+Minerals
+"Calcium, Ca",mg,81,23
+"Iron, Fe",mg,2.26,0.64
+"Magnesium, Mg",mg,13,4
+"Phosphorus, P",mg,178,50
+"Potassium, K",mg,206,58
+"Sodium, Na",mg,1483,420
+"Zinc, Zn",mg,2.25,0.64
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.249,0.071
+"Riboflavin",mg,0.160,0.045
+"Niacin",mg,2.900,0.822
+"Vitamin B-6",mg,0.130,0.037
+"Folate, DFE",µg,7,2
+"Vitamin B-12",µg,1.73,0.49
+"Vitamin A, RAE",µg,225,64
+"Vitamin A, IU",IU,749,212
+"Vitamin D (D2 + D3)",µg,0.3,0.1
+"Vitamin D",IU,12,3
+Lipids
+"Fatty acids, total saturated",g,10.470,2.968
+"Fatty acids, total monounsaturated",g,13.680,3.878
+"Fatty acids, total polyunsaturated",g,3.020,0.856
+"Cholesterol",mg,89,25
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:14 EST
+"Nutrient data for: 07019, Chorizo, pork and beef"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 link (4"" long) = 60.0g",
+Proximates
+"Water",g,31.85,9.03,19.11
+"Energy",kcal,455,129,273
+"Protein",g,24.10,6.83,14.46
+"Total lipid (fat)",g,38.27,10.85,22.96
+"Carbohydrate, by difference",g,1.86,0.53,1.12
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,8,2,5
+"Iron, Fe",mg,1.59,0.45,0.95
+"Magnesium, Mg",mg,18,5,11
+"Phosphorus, P",mg,150,43,90
+"Potassium, K",mg,398,113,239
+"Sodium, Na",mg,1235,350,741
+"Zinc, Zn",mg,3.41,0.97,2.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.630,0.179,0.378
+"Riboflavin",mg,0.300,0.085,0.180
+"Niacin",mg,5.131,1.455,3.079
+"Vitamin B-6",mg,0.530,0.150,0.318
+"Folate, DFE",µg,2,1,1
+"Vitamin B-12",µg,2.00,0.57,1.20
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.06,0.13
+"Vitamin D (D2 + D3)",µg,1.5,0.4,0.9
+"Vitamin D",IU,61,17,37
+"Vitamin K (phylloquinone)",µg,1.6,0.5,1.0
+Lipids
+"Fatty acids, total saturated",g,14.380,4.077,8.628
+"Fatty acids, total monounsaturated",g,18.400,5.216,11.040
+"Fatty acids, total polyunsaturated",g,3.460,0.981,2.076
+"Cholesterol",mg,88,25,53
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

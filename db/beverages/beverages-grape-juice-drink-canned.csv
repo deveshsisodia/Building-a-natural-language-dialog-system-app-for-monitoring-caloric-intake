@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:22 EST
+"Nutrient data for: 14282, Beverages, grape juice drink, canned"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 31.3g","6.0 fl oz = 188.0g","8.0 fl oz = 250.0g","1 serving = 227.0g",
+Proximates
+"Water",g,85.30,26.70,160.36,213.25,193.63
+"Energy",kcal,57,18,107,142,129
+"Protein",g,0.00,0.00,0.00,0.00,0.00
+"Total lipid (fat)",g,0.00,0.00,0.00,0.00,0.00
+"Carbohydrate, by difference",g,14.55,4.55,27.35,36.38,33.03
+"Fiber, total dietary",g,0.1,0.0,0.2,0.2,0.2
+"Sugars, total",g,14.11,4.42,26.53,35.27,32.03
+Minerals
+"Calcium, Ca",mg,7,2,13,18,16
+"Iron, Fe",mg,0.13,0.04,0.24,0.33,0.30
+"Magnesium, Mg",mg,6,2,11,15,14
+"Phosphorus, P",mg,6,2,11,15,14
+"Potassium, K",mg,33,10,62,82,75
+"Sodium, Na",mg,9,3,17,22,20
+"Zinc, Zn",mg,0.03,0.01,0.06,0.07,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,26.5,8.3,49.8,66.2,60.2
+"Thiamin",mg,0.225,0.070,0.423,0.562,0.511
+"Riboflavin",mg,0.354,0.111,0.666,0.885,0.804
+"Niacin",mg,0.142,0.044,0.267,0.355,0.322
+"Vitamin B-6",mg,0.035,0.011,0.066,0.087,0.079
+"Folate, DFE",µg,1,0,2,2,2
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,4,1,8,10,9
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.2,0.1,0.4,0.5,0.5
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

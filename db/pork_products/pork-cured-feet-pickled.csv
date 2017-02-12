@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:37 EST
+"Nutrient data for: 10132, Pork, cured, feet, pickled"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g",
+Proximates
+"Water",g,75.00,21.26,340.20
+"Energy",kcal,140,40,635
+"Protein",g,11.63,3.30,52.75
+"Total lipid (fat)",g,10.02,2.84,45.45
+"Carbohydrate, by difference",g,0.01,0.00,0.05
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,32,9,145
+"Iron, Fe",mg,0.31,0.09,1.41
+"Magnesium, Mg",mg,11,3,50
+"Phosphorus, P",mg,87,25,395
+"Potassium, K",mg,13,4,59
+"Sodium, Na",mg,946,268,4291
+"Zinc, Zn",mg,0.20,0.06,0.91
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.006,0.002,0.027
+"Riboflavin",mg,0.015,0.004,0.068
+"Niacin",mg,0.220,0.062,0.998
+"Vitamin B-6",mg,0.007,0.002,0.032
+"Folate, DFE",µg,1,0,5
+"Vitamin B-12",µg,0.21,0.06,0.95
+"Vitamin A, RAE",µg,11,3,50
+"Vitamin A, IU",IU,37,10,168
+"Vitamin E (alpha-tocopherol)",mg,0.21,0.06,0.95
+"Vitamin D (D2 + D3)",µg,0.4,0.1,1.8
+"Vitamin D",IU,16,5,73
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,2.945,0.835,13.359
+"Fatty acids, total monounsaturated",g,5.677,1.609,25.751
+"Fatty acids, total polyunsaturated",g,0.784,0.222,3.556
+"Fatty acids, total trans",g,0.065,0.018,0.295
+"Cholesterol",mg,83,24,376
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

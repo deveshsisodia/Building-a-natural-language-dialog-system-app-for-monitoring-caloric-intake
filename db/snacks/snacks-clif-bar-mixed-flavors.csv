@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:53 EST
+"Nutrient data for: 25051, Snacks, CLIF BAR, mixed flavors"
+Nutrient,Unit,1Value per 100 g,"1 bar = 68.0g",
+Proximates
+"Water",g,11.00,7.48
+"Energy",kcal,346,235
+"Protein",g,14.71,10.00
+"Total lipid (fat)",g,5.88,4.00
+"Carbohydrate, by difference",g,65.44,44.50
+"Fiber, total dietary",g,7.4,5.0
+"Sugars, total",g,31.62,21.50
+Minerals
+"Calcium, Ca",mg,368,250
+"Iron, Fe",mg,6.62,4.50
+"Magnesium, Mg",mg,147,100
+"Phosphorus, P",mg,294,200
+"Potassium, K",mg,412,280
+"Sodium, Na",mg,195,133
+"Zinc, Zn",mg,4.41,3.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,88.2,60.0
+"Thiamin",mg,0.551,0.375
+"Riboflavin",mg,0.375,0.255
+"Niacin",mg,4.412,3.000
+"Vitamin B-6",mg,0.588,0.400
+"Folate, DFE",µg,118,80
+"Vitamin B-12",µg,1.32,0.90
+"Vitamin A, RAE",µg,1,1
+"Vitamin A, IU",IU,20,14
+"Vitamin E (alpha-tocopherol)",mg,0.24,0.16
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,36.8,25.0
+Lipids
+"Fatty acids, total saturated",g,1.471,1.000
+"Fatty acids, total monounsaturated",g,1.093,0.743
+"Fatty acids, total polyunsaturated",g,2.182,1.484
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

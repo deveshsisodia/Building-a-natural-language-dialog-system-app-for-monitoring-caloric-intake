@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18092, Cake, pudding-type, carrot, dry mix"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 package (18 oz) = 510.0g",
+Proximates
+"Water",g,3.60,1.02,18.36
+"Energy",kcal,415,118,2116
+"Protein",g,5.10,1.45,26.01
+"Total lipid (fat)",g,9.80,2.78,49.98
+"Carbohydrate, by difference",g,79.20,22.45,403.92
+Minerals
+"Calcium, Ca",mg,172,49,877
+"Iron, Fe",mg,1.80,0.51,9.18
+"Magnesium, Mg",mg,8,2,41
+"Phosphorus, P",mg,247,70,1260
+"Potassium, K",mg,169,48,862
+"Sodium, Na",mg,567,161,2892
+"Zinc, Zn",mg,0.20,0.06,1.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.2,0.3,6.1
+"Thiamin",mg,0.265,0.075,1.352
+"Riboflavin",mg,0.170,0.048,0.867
+"Niacin",mg,2.205,0.625,11.245
+"Vitamin B-6",mg,0.079,0.022,0.403
+"Folate, DFE",µg,104,29,530
+"Vitamin B-12",µg,0.04,0.01,0.20
+"Vitamin A, RAE",µg,97,27,495
+"Vitamin A, IU",IU,1930,547,9843
+Lipids
+"Fatty acids, total saturated",g,1.472,0.417,7.507
+"Fatty acids, total monounsaturated",g,4.036,1.144,20.584
+"Fatty acids, total polyunsaturated",g,3.702,1.050,18.880
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:16 EST
+"Nutrient data for: 11011, Asparagus, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 134.0g","1 spear, small (5"" long or less) = 12.0g","1 spear, medium (5-1/4"" to 7"" long) = 16.0g","1 spear, large (7-1/4"" to 8-1/2"") = 20.0g","1 spear, extra large (8-3/4"" to 10"" long) = 24.0g","1 spear tip (2"" long or less) = 3.5g",
+Proximates
+"Water",g,93.22,124.91,11.19,14.92,18.64,22.37,3.26
+"Energy",kcal,20,27,2,3,4,5,1
+"Protein",g,2.20,2.95,0.26,0.35,0.44,0.53,0.08
+"Total lipid (fat)",g,0.12,0.16,0.01,0.02,0.02,0.03,0.00
+"Carbohydrate, by difference",g,3.88,5.20,0.47,0.62,0.78,0.93,0.14
+"Fiber, total dietary",g,2.1,2.8,0.3,0.3,0.4,0.5,0.1
+"Sugars, total",g,1.88,2.52,0.23,0.30,0.38,0.45,0.07
+Minerals
+"Calcium, Ca",mg,24,32,3,4,5,6,1
+"Iron, Fe",mg,2.14,2.87,0.26,0.34,0.43,0.51,0.07
+"Magnesium, Mg",mg,14,19,2,2,3,3,0
+"Phosphorus, P",mg,52,70,6,8,10,12,2
+"Potassium, K",mg,202,271,24,32,40,48,7
+"Sodium, Na",mg,2,3,0,0,0,0,0
+"Zinc, Zn",mg,0.54,0.72,0.06,0.09,0.11,0.13,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.6,7.5,0.7,0.9,1.1,1.3,0.2
+"Thiamin",mg,0.143,0.192,0.017,0.023,0.029,0.034,0.005
+"Riboflavin",mg,0.141,0.189,0.017,0.023,0.028,0.034,0.005
+"Niacin",mg,0.978,1.311,0.117,0.156,0.196,0.235,0.034
+"Vitamin B-6",mg,0.091,0.122,0.011,0.015,0.018,0.022,0.003
+"Folate, DFE",µg,52,70,6,8,10,12,2
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,38,51,5,6,8,9,1
+"Vitamin A, IU",IU,756,1013,91,121,151,181,26
+"Vitamin E (alpha-tocopherol)",mg,1.13,1.51,0.14,0.18,0.23,0.27,0.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,41.6,55.7,5.0,6.7,8.3,10.0,1.5
+Lipids
+"Fatty acids, total saturated",g,0.040,0.054,0.005,0.006,0.008,0.010,0.001
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.050,0.067,0.006,0.008,0.010,0.012,0.002
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

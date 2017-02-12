@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:56 EST
+"Nutrient data for: 19365, Toppings, marshmallow cream"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 jar = 198.0g",
+Proximates
+"Water",g,19.80,5.61,39.20
+"Energy",kcal,322,91,638
+"Protein",g,0.80,0.23,1.58
+"Total lipid (fat)",g,0.30,0.09,0.59
+"Carbohydrate, by difference",g,79.00,22.40,156.42
+"Fiber, total dietary",g,0.1,0.0,0.2
+"Sugars, total",g,46.80,13.27,92.66
+Minerals
+"Calcium, Ca",mg,3,1,6
+"Iron, Fe",mg,0.22,0.06,0.44
+"Magnesium, Mg",mg,2,1,4
+"Phosphorus, P",mg,8,2,16
+"Potassium, K",mg,5,1,10
+"Sodium, Na",mg,80,23,158
+"Zinc, Zn",mg,0.04,0.01,0.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.001,0.000,0.002
+"Riboflavin",mg,0.001,0.000,0.002
+"Niacin",mg,0.076,0.022,0.150
+"Vitamin B-6",mg,0.002,0.001,0.004
+"Folate, DFE",µg,1,0,2
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,1,0,2
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.056,0.016,0.111
+"Fatty acids, total monounsaturated",g,0.080,0.023,0.158
+"Fatty acids, total polyunsaturated",g,0.047,0.013,0.093
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

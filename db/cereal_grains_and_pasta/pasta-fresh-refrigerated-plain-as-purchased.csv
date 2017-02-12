@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:13 EST
+"Nutrient data for: 20093, Pasta, fresh-refrigerated, plain, as purchased"
+Nutrient,Unit,1Value per 100 g,"4.5 oz = 128.0g",
+Proximates
+"Water",g,31.00,39.68
+"Energy",kcal,288,369
+"Protein",g,11.31,14.48
+"Total lipid (fat)",g,2.30,2.94
+"Carbohydrate, by difference",g,54.73,70.05
+Minerals
+"Calcium, Ca",mg,15,19
+"Iron, Fe",mg,3.35,4.29
+"Magnesium, Mg",mg,46,59
+"Phosphorus, P",mg,163,209
+"Potassium, K",mg,179,229
+"Sodium, Na",mg,26,33
+"Zinc, Zn",mg,1.22,1.56
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.705,0.902
+"Riboflavin",mg,0.439,0.562
+"Niacin",mg,3.350,4.288
+"Vitamin B-6",mg,0.093,0.119
+"Folate, DFE",µg,284,364
+"Vitamin B-12",µg,0.31,0.40
+"Vitamin A, RAE",µg,14,18
+"Vitamin A, IU",IU,47,60
+Lipids
+"Fatty acids, total saturated",g,0.328,0.420
+"Fatty acids, total monounsaturated",g,0.271,0.347
+"Fatty acids, total polyunsaturated",g,0.942,1.206
+"Cholesterol",mg,73,93
+Amino Acids
+Other

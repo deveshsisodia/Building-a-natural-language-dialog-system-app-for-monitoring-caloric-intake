@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:35 EST
+"Nutrient data for: 23139, Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0"" fat, select, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece = 340.0g",
+Proximates
+"Water",g,67.17,57.09,228.38
+"Energy",kcal,196,167,666
+"Protein",g,19.10,16.24,64.94
+"Total lipid (fat)",g,13.33,11.33,45.32
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,14,12,48
+"Iron, Fe",mg,1.97,1.67,6.70
+"Magnesium, Mg",mg,16,14,54
+"Phosphorus, P",mg,172,146,585
+"Potassium, K",mg,271,230,921
+"Sodium, Na",mg,77,65,262
+"Zinc, Zn",mg,5.89,5.01,20.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.070,0.060,0.238
+"Riboflavin",mg,0.157,0.133,0.534
+"Niacin",mg,3.950,3.357,13.430
+"Vitamin B-6",mg,0.338,0.287,1.149
+"Folate, DFE",µg,3,3,10
+"Vitamin B-12",µg,2.80,2.38,9.52
+"Vitamin A, RAE",µg,4,3,14
+"Vitamin A, IU",IU,14,12,48
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.10,0.41
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.3
+"Vitamin D",IU,4,3,14
+"Vitamin K (phylloquinone)",µg,1.5,1.3,5.1
+Lipids
+"Fatty acids, total saturated",g,5.805,4.934,19.737
+"Fatty acids, total monounsaturated",g,6.482,5.510,22.039
+"Fatty acids, total polyunsaturated",g,0.591,0.502,2.009
+"Fatty acids, total trans",g,0.915,0.778,3.111
+"Cholesterol",mg,71,60,241
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:14 EST
+"Nutrient data for: 20070, Triticale flour, whole-grain"
+Nutrient,Unit,1Value per 100 g,"1 cup = 130.0g",
+Proximates
+"Water",g,10.01,13.01
+"Energy",kcal,338,439
+"Protein",g,13.18,17.13
+"Total lipid (fat)",g,1.81,2.35
+"Carbohydrate, by difference",g,73.14,95.08
+"Fiber, total dietary",g,14.6,19.0
+Minerals
+"Calcium, Ca",mg,35,46
+"Iron, Fe",mg,2.59,3.37
+"Magnesium, Mg",mg,153,199
+"Phosphorus, P",mg,321,417
+"Potassium, K",mg,466,606
+"Sodium, Na",mg,2,3
+"Zinc, Zn",mg,2.66,3.46
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.378,0.491
+"Riboflavin",mg,0.132,0.172
+"Niacin",mg,2.860,3.718
+"Vitamin B-6",mg,0.403,0.524
+"Folate, DFE",µg,74,96
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.90,1.17
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.318,0.413
+"Fatty acids, total monounsaturated",g,0.183,0.238
+"Fatty acids, total polyunsaturated",g,0.794,1.032
+"Cholesterol",mg,0,0
+Amino Acids
+Other

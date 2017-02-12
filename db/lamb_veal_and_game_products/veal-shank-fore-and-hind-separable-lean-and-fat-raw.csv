@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:08 EST
+"Nutrient data for: 17276, Veal, shank (fore and hind), separable lean and fat, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g",
+Proximates
+"Water",g,76.92,21.81,348.91
+"Energy",kcal,113,32,513
+"Protein",g,19.15,5.43,86.86
+"Total lipid (fat)",g,3.48,0.99,15.79
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,20,6,91
+"Iron, Fe",mg,0.76,0.22,3.45
+"Magnesium, Mg",mg,21,6,95
+"Phosphorus, P",mg,191,54,866
+"Potassium, K",mg,314,89,1424
+"Sodium, Na",mg,84,24,381
+"Zinc, Zn",mg,3.99,1.13,18.10
+Vitamins
+"Thiamin",mg,0.079,0.022,0.358
+"Riboflavin",mg,0.268,0.076,1.216
+"Niacin",mg,7.458,2.114,33.829
+"Vitamin B-6",mg,0.437,0.124,1.982
+"Folate, DFE",µg,15,4,68
+"Vitamin B-12",µg,1.36,0.39,6.17
+Lipids
+"Fatty acids, total saturated",g,1.060,0.301,4.808
+"Fatty acids, total monounsaturated",g,1.257,0.356,5.702
+"Fatty acids, total polyunsaturated",g,0.363,0.103,1.647
+"Cholesterol",mg,75,21,340
+Amino Acids
+Other

@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08615, Cereals ready-to-eat, KELLOGG'S CRUNCHY NUT Golden Honey Nut flakes"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 31.0g",
+Proximates
+"Water",g,2.50,0.78
+"Energy",kcal,385,119
+"Protein",g,6.70,2.08
+"Total lipid (fat)",g,3.90,1.21
+"Carbohydrate, by difference",g,83.30,25.82
+"Fiber, total dietary",g,2.4,0.7
+"Sugars, total",g,33.50,10.38
+Minerals
+"Calcium, Ca",mg,20,6
+"Iron, Fe",mg,14.50,4.50
+"Magnesium, Mg",mg,24,7
+"Phosphorus, P",mg,62,19
+"Potassium, K",mg,137,42
+"Sodium, Na",mg,442,137
+"Zinc, Zn",mg,0.60,0.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,20.0,6.2
+"Thiamin",mg,1.210,0.375
+"Riboflavin",mg,1.370,0.425
+"Niacin",mg,16.100,4.991
+"Vitamin B-6",mg,1.610,0.499
+"Folate, DFE",µg,530,164
+"Vitamin B-12",µg,4.80,1.49
+"Vitamin A, IU",IU,1667,517
+"Vitamin D (D2 + D3)",µg,3.3,1.0
+"Vitamin D",IU,133,41
+Lipids
+"Fatty acids, total saturated",g,0.600,0.186
+"Fatty acids, total monounsaturated",g,2.800,0.868
+"Fatty acids, total polyunsaturated",g,0.400,0.124
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:41 EST
+"Nutrient data for: 28190, KELLOGG'S, SPECIAL K, Multigrain Crackers"
+Nutrient,Unit,1Value per 100 g,"24.0 crackers = 30.0g",
+Proximates
+"Water",g,2.50,0.75
+"Energy",kcal,401,120
+"Protein",g,9.00,2.70
+"Total lipid (fat)",g,9.40,2.82
+"Carbohydrate, by difference",g,75.40,22.62
+"Fiber, total dietary",g,8.6,2.6
+"Sugars, total",g,20.80,6.24
+Minerals
+"Iron, Fe",mg,2.50,0.75
+"Magnesium, Mg",mg,30,9
+"Phosphorus, P",mg,97,29
+"Potassium, K",mg,243,73
+"Sodium, Na",mg,848,254
+"Zinc, Zn",mg,1.10,0.33
+Vitamins
+"Thiamin",mg,0.350,0.105
+"Riboflavin",mg,0.190,0.057
+"Niacin",mg,2.700,0.810
+"Vitamin B-6",mg,0.120,0.036
+Lipids
+"Fatty acids, total saturated",g,1.400,0.420
+"Fatty acids, total monounsaturated",g,2.200,0.660
+"Fatty acids, total polyunsaturated",g,4.900,1.470
+"Fatty acids, total trans",g,0.100,0.030
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18140, Cake, yellow, commercially prepared, with chocolate frosting, in-store bakery"
+Nutrient,Unit,1Value per 100 g,"1 piece (1/12 of a cake) = 144.0g","1 cake = 1729.0g","1 piece (1/8 of 18 oz cake) = 64.0g","1 oz = 28.35g",
+Proximates
+"Water",g,22.38,32.23,386.95,14.32,6.34
+"Energy",kcal,379,546,6553,243,107
+"Protein",g,3.16,4.55,54.64,2.02,0.90
+"Total lipid (fat)",g,17.75,25.56,306.90,11.36,5.03
+"Carbohydrate, by difference",g,55.36,79.72,957.17,35.43,15.69
+"Fiber, total dietary",g,1.5,2.2,25.9,1.0,0.4
+"Sugars, total",g,39.22,56.48,678.11,25.10,11.12
+Minerals
+"Calcium, Ca",mg,32,46,553,20,9
+"Iron, Fe",mg,2.03,2.92,35.10,1.30,0.58
+"Magnesium, Mg",mg,20,29,346,13,6
+"Phosphorus, P",mg,138,199,2386,88,39
+"Potassium, K",mg,187,269,3233,120,53
+"Sodium, Na",mg,310,446,5360,198,88
+"Zinc, Zn",mg,0.42,0.60,7.26,0.27,0.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.043,0.062,0.743,0.028,0.012
+"Riboflavin",mg,0.093,0.134,1.608,0.060,0.026
+"Niacin",mg,0.800,1.152,13.832,0.512,0.227
+"Vitamin B-6",mg,0.000,0.000,0.000,0.000,0.000
+"Folate, DFE",µg,32,46,553,20,9
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,7,10,121,4,2
+"Vitamin A, IU",IU,26,37,450,17,7
+"Vitamin E (alpha-tocopherol)",mg,4.50,6.48,77.81,2.88,1.28
+"Vitamin D (D2 + D3)",µg,0.2,0.3,3.5,0.1,0.1
+"Vitamin D",IU,6,9,104,4,2
+"Vitamin K (phylloquinone)",µg,25.1,36.1,434.0,16.1,7.1
+Lipids
+"Fatty acids, total saturated",g,5.793,8.342,100.161,3.708,1.642
+"Fatty acids, total monounsaturated",g,7.214,10.388,124.730,4.617,2.045
+"Fatty acids, total polyunsaturated",g,4.728,6.808,81.747,3.026,1.340
+"Fatty acids, total trans",g,1.313,1.891,22.702,0.840,0.372
+"Cholesterol",mg,16,23,277,10,5
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

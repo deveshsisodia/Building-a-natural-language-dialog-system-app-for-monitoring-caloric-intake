@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:12 EST
+"Nutrient data for: 20109, Noodles, egg, dry, enriched"
+Nutrient,Unit,1Value per 100 g,"1 cup = 38.0g","2.0 oz = 57.0g",
+Proximates
+"Water",g,9.01,3.42,5.14
+"Energy",kcal,384,146,219
+"Protein",g,14.16,5.38,8.07
+"Total lipid (fat)",g,4.44,1.69,2.53
+"Carbohydrate, by difference",g,71.27,27.08,40.62
+"Fiber, total dietary",g,3.3,1.3,1.9
+"Sugars, total",g,1.88,0.71,1.07
+Minerals
+"Calcium, Ca",mg,35,13,20
+"Iron, Fe",mg,4.01,1.52,2.29
+"Magnesium, Mg",mg,58,22,33
+"Phosphorus, P",mg,241,92,137
+"Potassium, K",mg,244,93,139
+"Sodium, Na",mg,21,8,12
+"Zinc, Zn",mg,1.92,0.73,1.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,1.133,0.431,0.646
+"Riboflavin",mg,0.426,0.162,0.243
+"Niacin",mg,8.387,3.187,4.781
+"Vitamin B-6",mg,0.216,0.082,0.123
+"Folate, DFE",µg,370,141,211
+"Vitamin B-12",µg,0.29,0.11,0.17
+"Vitamin A, RAE",µg,17,6,10
+"Vitamin A, IU",IU,62,24,35
+"Vitamin E (alpha-tocopherol)",mg,0.37,0.14,0.21
+"Vitamin D (D2 + D3)",µg,0.3,0.1,0.2
+"Vitamin D",IU,11,4,6
+"Vitamin K (phylloquinone)",µg,0.5,0.2,0.3
+Lipids
+"Fatty acids, total saturated",g,1.180,0.448,0.673
+"Fatty acids, total monounsaturated",g,1.252,0.476,0.714
+"Fatty acids, total polyunsaturated",g,1.331,0.506,0.759
+"Fatty acids, total trans",g,0.061,0.023,0.035
+"Cholesterol",mg,84,32,48
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08689, Cereals, QUAKER, oatmeal, REAL MEDLEYS, blueberry hazelnut, dry"
+Nutrient,Unit,1Value per 100 g,"1 package (1 NLEA serving) = 70.0g",
+Proximates
+"Water",g,7.47,5.23
+"Energy",kcal,386,270
+"Protein",g,9.81,6.87
+"Total lipid (fat)",g,9.80,6.86
+"Carbohydrate, by difference",g,69.47,48.63
+"Fiber, total dietary",g,7.7,5.4
+"Sugars, total",g,18.71,13.10
+Minerals
+"Calcium, Ca",mg,64,45
+"Iron, Fe",mg,3.08,2.16
+"Magnesium, Mg",mg,98,69
+"Phosphorus, P",mg,287,201
+"Potassium, K",mg,317,222
+"Sodium, Na",mg,337,236
+"Zinc, Zn",mg,2.15,1.50
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.8,2.0
+"Thiamin",mg,0.352,0.246
+"Riboflavin",mg,0.115,0.081
+"Niacin",mg,1.557,1.090
+"Vitamin B-6",mg,0.127,0.089
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,20,14
+"Vitamin E (alpha-tocopherol)",mg,0.45,0.32
+Lipids
+"Fatty acids, total saturated",g,1.648,1.154
+"Fatty acids, total monounsaturated",g,3.742,2.619
+"Fatty acids, total polyunsaturated",g,2.863,2.004
+"Fatty acids, total trans",g,0.026,0.018
+"Cholesterol",mg,1,1
+Amino Acids
+Other

@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:51 EST
+"Nutrient data for: 17335, Game meat, bison, ribeye, separable lean only, 1"" steak, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"1 serving ( 3 oz ) = 85.0g","1 steak ( yield from 232.8 g raw meat ) = 179.0g",
+Proximates
+"Water",g,64.48,54.81,115.42
+"Energy",kcal,177,150,317
+"Protein",g,29.45,25.03,52.72
+"Total lipid (fat)",g,5.67,4.82,10.15
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,7,6,13
+"Iron, Fe",mg,2.88,2.45,5.16
+"Magnesium, Mg",mg,26,22,47
+"Phosphorus, P",mg,238,202,426
+"Potassium, K",mg,371,315,664
+"Sodium, Na",mg,52,44,93
+"Zinc, Zn",mg,5.01,4.26,8.97
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.137,0.116,0.245
+"Riboflavin",mg,0.307,0.261,0.550
+"Niacin",mg,6.687,5.684,11.970
+"Vitamin B-6",mg,0.475,0.404,0.850
+"Folate, DFE",µg,18,15,32
+"Vitamin B-12",µg,1.29,1.10,2.31
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.21,0.18,0.38
+Lipids
+"Fatty acids, total saturated",g,2.419,2.056,4.330
+"Fatty acids, total monounsaturated",g,2.213,1.881,3.961
+"Fatty acids, total polyunsaturated",g,0.266,0.226,0.476
+"Cholesterol",mg,79,67,141
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

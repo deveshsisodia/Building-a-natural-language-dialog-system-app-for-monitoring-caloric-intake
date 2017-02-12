@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:29 EST
+"Nutrient data for: 21386, BURGER KING, french toast sticks"
+Nutrient,Unit,1Value per 100 g,"1 stick = 21.0g","1 serving 5 sticks = 107.0g",
+Proximates
+"Water",g,33.57,7.05,35.92
+"Energy",kcal,349,73,373
+"Protein",g,6.00,1.26,6.42
+"Total lipid (fat)",g,17.74,3.73,18.98
+"Carbohydrate, by difference",g,41.21,8.65,44.09
+"Fiber, total dietary",g,1.4,0.3,1.5
+"Sugars, total",g,9.89,2.08,10.58
+Minerals
+"Calcium, Ca",mg,53,11,57
+"Iron, Fe",mg,1.92,0.40,2.05
+"Magnesium, Mg",mg,19,4,20
+"Phosphorus, P",mg,87,18,93
+"Potassium, K",mg,111,23,119
+"Sodium, Na",mg,428,90,458
+"Zinc, Zn",mg,0.51,0.11,0.55
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.284,0.060,0.304
+"Riboflavin",mg,0.175,0.037,0.187
+"Niacin",mg,2.575,0.541,2.755
+"Vitamin B-6",mg,0.053,0.011,0.057
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin E (alpha-tocopherol)",mg,0.88,0.18,0.94
+"Vitamin K (phylloquinone)",µg,14.5,3.0,15.5
+Lipids
+"Fatty acids, total saturated",g,3.989,0.838,4.268
+"Fatty acids, total monounsaturated",g,9.502,1.995,10.167
+"Fatty acids, total polyunsaturated",g,2.566,0.539,2.746
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

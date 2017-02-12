@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:39 EST
+"Nutrient data for: 21248, WENDY'S, Frosty Dairy Dessert"
+Nutrient,Unit,1Value per 100 g,"1 junior 6 oz. cup = 113.0g","1 small 12 oz. cup = 227.0g","1 medium 16 oz. cup = 298.0g",
+Proximates
+"Water",g,69.25,78.25,157.20,206.37
+"Energy",kcal,132,149,300,393
+"Protein",g,3.49,3.94,7.92,10.40
+"Total lipid (fat)",g,2.60,2.94,5.90,7.75
+"Carbohydrate, by difference",g,23.62,26.69,53.62,70.39
+"Fiber, total dietary",g,3.3,3.7,7.5,9.8
+Minerals
+"Calcium, Ca",mg,128,145,291,381
+"Iron, Fe",mg,1.04,1.18,2.36,3.10
+"Magnesium, Mg",mg,20,23,45,60
+"Phosphorus, P",mg,112,127,254,334
+"Potassium, K",mg,185,209,420,551
+"Sodium, Na",mg,98,111,222,292
+"Zinc, Zn",mg,0.44,0.50,1.00,1.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.060,0.068,0.136,0.179
+"Riboflavin",mg,0.720,0.814,1.634,2.146
+"Niacin",mg,0.348,0.393,0.790,1.037
+"Vitamin B-6",mg,0.000,0.000,0.000,0.000
+"Vitamin B-12",µg,0.59,0.67,1.34,1.76
+"Vitamin K (phylloquinone)",µg,0.4,0.5,0.9,1.2
+Lipids
+"Fatty acids, total saturated",g,1.635,1.848,3.711,4.872
+"Fatty acids, total monounsaturated",g,0.692,0.782,1.571,2.062
+"Fatty acids, total polyunsaturated",g,0.117,0.132,0.266,0.349
+"Cholesterol",mg,16,18,36,48
+Amino Acids
+Other

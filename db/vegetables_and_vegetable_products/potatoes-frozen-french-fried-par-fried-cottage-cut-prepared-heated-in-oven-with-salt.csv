@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:27 EST
+"Nutrient data for: 11840, Potatoes, frozen, french fried, par fried, cottage-cut, prepared, heated in oven, with salt"
+Nutrient,Unit,1Value per 100 g,"10.0 strips = 50.0g","1 package (9 oz) yields = 198.0g",
+Proximates
+"Water",g,52.90,26.45,104.74
+"Energy",kcal,218,109,432
+"Protein",g,3.44,1.72,6.81
+"Total lipid (fat)",g,8.20,4.10,16.24
+"Carbohydrate, by difference",g,34.03,17.02,67.38
+"Fiber, total dietary",g,3.2,1.6,6.3
+Minerals
+"Calcium, Ca",mg,10,5,20
+"Iron, Fe",mg,1.49,0.74,2.95
+"Magnesium, Mg",mg,22,11,44
+"Phosphorus, P",mg,65,32,129
+"Potassium, K",mg,480,240,950
+"Sodium, Na",mg,281,140,556
+"Zinc, Zn",mg,0.41,0.20,0.81
+Vitamins
+"Vitamin C, total ascorbic acid",mg,9.5,4.8,18.8
+"Thiamin",mg,0.119,0.059,0.236
+"Riboflavin",mg,0.031,0.015,0.061
+"Niacin",mg,2.413,1.206,4.778
+"Vitamin B-6",mg,0.243,0.121,0.481
+"Folate, DFE",µg,17,8,34
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,3.894,1.947,7.710
+"Fatty acids, total monounsaturated",g,3.328,1.664,6.589
+"Fatty acids, total polyunsaturated",g,0.615,0.307,1.218
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

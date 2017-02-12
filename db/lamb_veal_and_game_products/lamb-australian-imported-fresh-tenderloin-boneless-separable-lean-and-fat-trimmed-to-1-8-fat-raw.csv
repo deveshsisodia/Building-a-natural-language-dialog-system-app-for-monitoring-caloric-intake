@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:56 EST
+"Nutrient data for: 17460, Lamb, Australian, imported, fresh, tenderloin, boneless, separable lean and fat, trimmed to 1/8"" fat, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 114.0g","1 roast = 146.0g",
+Proximates
+"Water",g,71.83,81.89,104.87
+"Energy",kcal,143,163,209
+"Protein",g,23.23,26.48,33.92
+"Total lipid (fat)",g,5.52,6.29,8.06
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,2,2,3
+"Iron, Fe",mg,2.25,2.56,3.29
+"Magnesium, Mg",mg,26,30,38
+"Phosphorus, P",mg,208,237,304
+"Potassium, K",mg,308,351,450
+"Sodium, Na",mg,73,83,107
+"Zinc, Zn",mg,2.30,2.62,3.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.145,0.165,0.212
+"Riboflavin",mg,0.376,0.429,0.549
+"Niacin",mg,8.394,9.569,12.255
+"Vitamin B-6",mg,0.550,0.627,0.803
+"Vitamin B-12",µg,2.10,2.39,3.07
+"Vitamin A, RAE",µg,1,1,1
+"Vitamin A, IU",IU,5,6,7
+"Vitamin E (alpha-tocopherol)",mg,0.50,0.57,0.73
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,2.255,2.571,3.292
+"Fatty acids, total monounsaturated",g,2.087,2.379,3.047
+"Fatty acids, total polyunsaturated",g,0.460,0.524,0.672
+"Fatty acids, total trans",g,0.277,0.316,0.404
+"Cholesterol",mg,76,87,111
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

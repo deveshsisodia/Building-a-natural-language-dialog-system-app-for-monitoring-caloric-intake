@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:52 EST
+"Nutrient data for: 25045, Formulated bar, high fiber, chewy, oats and chocolate"
+Nutrient,Unit,1Value per 100 g,"1 bar = 40.0g",
+Proximates
+"Water",g,12.04,4.82
+"Energy",kcal,350,140
+"Protein",g,5.00,2.00
+"Total lipid (fat)",g,10.00,4.00
+"Carbohydrate, by difference",g,69.78,27.91
+"Fiber, total dietary",g,22.5,9.0
+"Sugars, total",g,25.00,10.00
+Minerals
+"Calcium, Ca",mg,250,100
+"Iron, Fe",mg,0.90,0.36
+"Magnesium, Mg",mg,190,76
+"Phosphorus, P",mg,419,168
+"Potassium, K",mg,447,179
+"Sodium, Na",mg,350,140
+"Zinc, Zn",mg,1.96,0.78
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.2,0.5
+"Thiamin",mg,0.688,0.275
+"Riboflavin",mg,0.091,0.036
+"Niacin",mg,7.903,3.161
+"Vitamin B-6",mg,0.963,0.385
+"Folate, DFE",µg,43,17
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.47,0.59
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.6,1.0
+Lipids
+"Fatty acids, total saturated",g,3.397,1.359
+"Fatty acids, total monounsaturated",g,3.522,1.409
+"Fatty acids, total polyunsaturated",g,2.334,0.934
+"Fatty acids, total trans",g,0.007,0.003
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,3,1

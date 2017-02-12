@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:18 EST
+"Nutrient data for: 07069, Salami, cooked, beef and pork"
+Nutrient,Unit,1Value per 100 g,"1 slice round = 12.3g",
+Proximates
+"Water",g,45.19,5.56
+"Energy",kcal,336,41
+"Protein",g,21.85,2.69
+"Total lipid (fat)",g,25.90,3.19
+"Carbohydrate, by difference",g,2.40,0.30
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.96,0.12
+Minerals
+"Calcium, Ca",mg,15,2
+"Iron, Fe",mg,1.56,0.19
+"Magnesium, Mg",mg,19,2
+"Phosphorus, P",mg,191,23
+"Potassium, K",mg,316,39
+"Sodium, Na",mg,1740,214
+"Zinc, Zn",mg,2.93,0.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.367,0.045
+"Riboflavin",mg,0.357,0.044
+"Niacin",mg,6.053,0.745
+"Vitamin B-6",mg,0.459,0.056
+"Folate, DFE",µg,3,0
+"Vitamin B-12",µg,1.52,0.19
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.03
+"Vitamin D (D2 + D3)",µg,1.0,0.1
+"Vitamin D",IU,41,5
+"Vitamin K (phylloquinone)",µg,3.2,0.4
+Lipids
+"Fatty acids, total saturated",g,9.316,1.146
+"Fatty acids, total monounsaturated",g,11.127,1.369
+"Fatty acids, total polyunsaturated",g,2.529,0.311
+"Fatty acids, total trans",g,0.586,0.072
+"Cholesterol",mg,89,11
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:42 EST
+"Nutrient data for: 18284, Muffins, wheat bran, dry mix"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 package (7 oz) = 198.0g",
+Proximates
+"Water",g,4.80,1.36,9.50
+"Energy",kcal,396,112,784
+"Protein",g,7.10,2.01,14.06
+"Total lipid (fat)",g,12.00,3.40,23.76
+"Carbohydrate, by difference",g,73.00,20.70,144.54
+Minerals
+"Calcium, Ca",mg,36,10,71
+"Iron, Fe",mg,3.60,1.02,7.13
+"Magnesium, Mg",mg,87,25,172
+"Phosphorus, P",mg,480,136,950
+"Potassium, K",mg,200,57,396
+"Sodium, Na",mg,700,198,1386
+"Zinc, Zn",mg,1.50,0.43,2.97
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.360,0.102,0.713
+"Riboflavin",mg,0.280,0.079,0.554
+"Niacin",mg,5.000,1.417,9.900
+"Vitamin B-6",mg,0.282,0.080,0.558
+"Folate, DFE",µg,128,36,253
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,2.939,0.833,5.819
+"Fatty acids, total monounsaturated",g,6.403,1.815,12.678
+"Fatty acids, total polyunsaturated",g,1.904,0.540,3.770
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

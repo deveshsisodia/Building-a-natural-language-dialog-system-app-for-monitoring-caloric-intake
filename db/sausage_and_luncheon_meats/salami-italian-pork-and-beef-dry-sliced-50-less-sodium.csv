@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:19 EST
+"Nutrient data for: 07941, Salami, Italian, pork and beef, dry, sliced, 50% less sodium"
+Nutrient,Unit,1Value per 100 g,"1 serving 5 slices = 28.0g",
+Proximates
+"Water",g,40.50,11.34
+"Energy",kcal,350,98
+"Protein",g,21.80,6.10
+"Total lipid (fat)",g,26.40,7.39
+"Carbohydrate, by difference",g,6.40,1.79
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,8,2
+"Iron, Fe",mg,1.51,0.42
+"Magnesium, Mg",mg,17,5
+"Phosphorus, P",mg,142,40
+"Potassium, K",mg,378,106
+"Sodium, Na",mg,936,262
+"Zinc, Zn",mg,3.23,0.90
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.600,0.168
+"Riboflavin",mg,0.285,0.080
+"Niacin",mg,4.867,1.363
+"Vitamin B-6",mg,0.500,0.140
+"Folate, DFE",µg,2,1
+"Vitamin B-12",µg,1.90,0.53
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.3,0.4
+Lipids
+"Fatty acids, total saturated",g,9.750,2.730
+"Fatty acids, total monounsaturated",g,13.200,3.696
+"Fatty acids, total polyunsaturated",g,2.290,0.641
+"Cholesterol",mg,89,25
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,45 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:58 EST
+"Nutrient data for: 16137, Hummus, home prepared"
+Nutrient,Unit,1Value per 100 g,"1 tablespoon = 15.0g","1 cup = 246.0g",
+Proximates
+"Water",g,64.87,9.73,159.58
+"Energy",kcal,177,27,435
+"Protein",g,4.86,0.73,11.96
+"Total lipid (fat)",g,8.59,1.29,21.13
+"Carbohydrate, by difference",g,20.12,3.02,49.50
+"Fiber, total dietary",g,4.0,0.6,9.8
+"Sugars, total",g,0.27,0.04,0.66
+Minerals
+"Calcium, Ca",mg,49,7,121
+"Iron, Fe",mg,1.56,0.23,3.84
+"Magnesium, Mg",mg,29,4,71
+"Phosphorus, P",mg,110,16,271
+"Potassium, K",mg,173,26,426
+"Sodium, Na",mg,242,36,595
+"Zinc, Zn",mg,1.09,0.16,2.68
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.9,1.2,19.4
+"Thiamin",mg,0.089,0.013,0.219
+"Riboflavin",mg,0.052,0.008,0.128
+"Niacin",mg,0.399,0.060,0.982
+"Vitamin B-6",mg,0.399,0.060,0.982
+"Folate, DFE",µg,59,9,145
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,5,1,12
+"Vitamin E (alpha-tocopherol)",mg,0.75,0.11,1.84
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,3.0,0.5,7.4
+Lipids
+"Fatty acids, total saturated",g,1.141,0.171,2.807
+"Fatty acids, total monounsaturated",g,4.865,0.730,11.968
+"Fatty acids, total polyunsaturated",g,2.109,0.316,5.188
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Recipe:  Chickpeas, 79%; lemon juice, 10%; sesame seeds, 5%; olive oil, 5%; and garlic, 1%"

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:13 EST
+"Nutrient data for: 07954, Beef sausage, pre-cooked"
+Nutrient,Unit,1Value per 100 g,"1 serving = 48.0g",
+Proximates
+"Water",g,43.75,21.00
+"Energy",kcal,405,194
+"Protein",g,15.50,7.44
+"Total lipid (fat)",g,37.57,18.03
+"Carbohydrate, by difference",g,0.03,0.01
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,15,7
+"Iron, Fe",mg,1.53,0.73
+"Magnesium, Mg",mg,13,6
+"Phosphorus, P",mg,185,89
+"Potassium, K",mg,234,112
+"Sodium, Na",mg,822,395
+"Zinc, Zn",mg,2.92,1.40
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.3
+"Thiamin",mg,0.028,0.013
+"Riboflavin",mg,0.117,0.056
+"Niacin",mg,3.210,1.541
+"Vitamin B-6",mg,0.192,0.092
+"Folate, DFE",µg,5,2
+"Vitamin B-12",µg,2.03,0.97
+"Vitamin A, RAE",µg,25,12
+"Vitamin A, IU",IU,114,55
+"Vitamin E (alpha-tocopherol)",mg,0.49,0.24
+"Vitamin D (D2 + D3)",µg,0.6,0.3
+"Vitamin D",IU,25,12
+"Vitamin K (phylloquinone)",µg,2.1,1.0
+Lipids
+"Fatty acids, total saturated",g,15.098,7.247
+"Fatty acids, total monounsaturated",g,16.387,7.866
+"Fatty acids, total polyunsaturated",g,1.025,0.492
+"Fatty acids, total trans",g,2.420,1.162
+"Cholesterol",mg,83,40
+Amino Acids
+Other
+"Caffeine",mg,0,0

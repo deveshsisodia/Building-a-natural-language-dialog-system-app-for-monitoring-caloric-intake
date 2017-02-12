@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:24 EST
+"Nutrient data for: 11295, Onion rings, breaded, par fried, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"6.0 rings = 85.0g","1 package (16 oz) = 454.0g","1 package (9 oz) = 255.0g",
+Proximates
+"Water",g,51.22,43.54,232.54,130.61
+"Energy",kcal,258,219,1171,658
+"Protein",g,3.15,2.68,14.30,8.03
+"Total lipid (fat)",g,14.10,11.98,64.01,35.95
+"Carbohydrate, by difference",g,30.53,25.95,138.61,77.85
+"Fiber, total dietary",g,1.8,1.5,8.2,4.6
+Minerals
+"Calcium, Ca",mg,46,39,209,117
+"Iron, Fe",mg,0.93,0.79,4.22,2.37
+"Magnesium, Mg",mg,14,12,64,36
+"Phosphorus, P",mg,49,42,222,125
+"Potassium, K",mg,190,162,863,484
+"Sodium, Na",mg,246,209,1117,627
+"Zinc, Zn",mg,0.36,0.31,1.63,0.92
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.6,3.9,20.9,11.7
+"Thiamin",mg,0.100,0.085,0.454,0.255
+"Riboflavin",mg,0.079,0.067,0.359,0.201
+"Niacin",mg,0.693,0.589,3.146,1.767
+"Vitamin B-6",mg,0.132,0.112,0.599,0.337
+"Folate, DFE",µg,68,58,309,173
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+Lipids
+"Fatty acids, total saturated",g,4.534,3.854,20.584,11.562
+"Fatty acids, total monounsaturated",g,5.738,4.877,26.051,14.632
+"Fatty acids, total polyunsaturated",g,2.700,2.295,12.258,6.885
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other

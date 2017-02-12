@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:01 EST
+"Nutrient data for: 16427, Tofu, raw, regular, prepared with calcium sulfate"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 124.0g","0.25 block = 116.0g",
+Proximates
+"Water",g,84.55,104.84,98.08
+"Energy",kcal,76,94,88
+"Protein",g,8.08,10.02,9.37
+"Total lipid (fat)",g,4.78,5.93,5.54
+"Carbohydrate, by difference",g,1.87,2.32,2.17
+"Fiber, total dietary",g,0.3,0.4,0.3
+"Sugars, total",g,0.62,0.77,0.72
+Minerals
+"Calcium, Ca",mg,350,434,406
+"Iron, Fe",mg,5.36,6.65,6.22
+"Magnesium, Mg",mg,30,37,35
+"Phosphorus, P",mg,97,120,113
+"Potassium, K",mg,121,150,140
+"Sodium, Na",mg,7,9,8
+"Zinc, Zn",mg,0.80,0.99,0.93
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.1,0.1
+"Thiamin",mg,0.081,0.100,0.094
+"Riboflavin",mg,0.052,0.064,0.060
+"Niacin",mg,0.195,0.242,0.226
+"Vitamin B-6",mg,0.047,0.058,0.055
+"Folate, DFE",µg,15,19,17
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, IU",IU,85,105,99
+"Vitamin E (alpha-tocopherol)",mg,0.01,0.01,0.01
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,2.4,3.0,2.8
+Lipids
+"Fatty acids, total saturated",g,0.691,0.857,0.802
+"Fatty acids, total monounsaturated",g,1.056,1.309,1.225
+"Fatty acids, total polyunsaturated",g,2.699,3.347,3.131
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

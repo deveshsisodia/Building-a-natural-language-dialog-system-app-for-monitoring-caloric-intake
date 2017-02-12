@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 19411, Snacks, potato chips, plain, salted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.0g","22.0 chips = 28.0g","1 oz = 28.35g","1 bag (8 oz) = 227.0g",
+Proximates
+"Water",g,1.86,0.52,0.52,0.53,4.22
+"Energy",kcal,532,149,149,151,1208
+"Protein",g,6.39,1.79,1.79,1.81,14.51
+"Total lipid (fat)",g,33.98,9.51,9.51,9.63,77.13
+"Carbohydrate, by difference",g,53.83,15.07,15.07,15.26,122.19
+"Fiber, total dietary",g,3.1,0.9,0.9,0.9,7.0
+"Sugars, total",g,0.33,0.09,0.09,0.09,0.75
+Minerals
+"Calcium, Ca",mg,21,6,6,6,48
+"Iron, Fe",mg,1.28,0.36,0.36,0.36,2.91
+"Magnesium, Mg",mg,63,18,18,18,143
+"Phosphorus, P",mg,153,43,43,43,347
+"Potassium, K",mg,1196,335,335,339,2715
+"Sodium, Na",mg,527,148,148,149,1196
+"Zinc, Zn",mg,1.09,0.31,0.31,0.31,2.47
+Vitamins
+"Vitamin C, total ascorbic acid",mg,21.6,6.0,6.0,6.1,49.0
+"Thiamin",mg,0.213,0.060,0.060,0.060,0.484
+"Riboflavin",mg,0.088,0.025,0.025,0.025,0.200
+"Niacin",mg,4.762,1.333,1.333,1.350,10.810
+"Vitamin B-6",mg,0.531,0.149,0.149,0.151,1.205
+"Folate, DFE",µg,29,8,8,8,66
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,10.45,2.93,2.93,2.96,23.72
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,22.1,6.2,6.2,6.3,50.2
+Lipids
+"Fatty acids, total saturated",g,3.400,0.952,0.952,0.964,7.718
+"Fatty acids, total monounsaturated",g,18.963,5.310,5.310,5.376,43.046
+"Fatty acids, total polyunsaturated",g,8.282,2.319,2.319,2.348,18.800
+"Fatty acids, total trans",g,0.084,0.024,0.024,0.024,0.191
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

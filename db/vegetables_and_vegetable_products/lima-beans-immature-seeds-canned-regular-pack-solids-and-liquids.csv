@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:23 EST
+"Nutrient data for: 11033, Lima beans, immature seeds, canned, regular pack, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 124.0g","1 can (303 x 406) = 454.0g",
+Proximates
+"Water",g,81.17,100.65,368.51
+"Energy",kcal,71,88,322
+"Protein",g,4.07,5.05,18.48
+"Total lipid (fat)",g,0.29,0.36,1.32
+"Carbohydrate, by difference",g,13.33,16.53,60.52
+"Fiber, total dietary",g,3.6,4.5,16.3
+Minerals
+"Calcium, Ca",mg,28,35,127
+"Iron, Fe",mg,1.61,2.00,7.31
+"Magnesium, Mg",mg,34,42,154
+"Phosphorus, P",mg,71,88,322
+"Potassium, K",mg,285,353,1294
+"Sodium, Na",mg,252,312,1144
+"Zinc, Zn",mg,0.64,0.79,2.91
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.3,9.1,33.1
+"Thiamin",mg,0.029,0.036,0.132
+"Riboflavin",mg,0.043,0.053,0.195
+"Niacin",mg,0.532,0.660,2.415
+"Vitamin B-6",mg,0.062,0.077,0.281
+"Folate, DFE",µg,16,20,73
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,8,10,36
+"Vitamin A, IU",IU,150,186,681
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.066,0.082,0.300
+"Fatty acids, total monounsaturated",g,0.016,0.020,0.073
+"Fatty acids, total polyunsaturated",g,0.139,0.172,0.631
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

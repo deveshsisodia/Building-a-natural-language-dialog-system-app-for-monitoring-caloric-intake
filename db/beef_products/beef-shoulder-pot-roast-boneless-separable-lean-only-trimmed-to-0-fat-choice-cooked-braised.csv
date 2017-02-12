@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:56 EST
+"Nutrient data for: 23081, Beef, shoulder pot roast, boneless, separable lean only, trimmed to 0"" fat, choice, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 roast = 793.0g",
+Proximates
+"Water",g,60.05,51.04,476.20
+"Energy",kcal,200,170,1586
+"Protein",g,31.32,26.62,248.37
+"Total lipid (fat)",g,8.30,7.06,65.82
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,13,11,103
+"Iron, Fe",mg,3.76,3.20,29.82
+"Magnesium, Mg",mg,25,21,198
+"Phosphorus, P",mg,234,199,1856
+"Potassium, K",mg,358,304,2839
+"Sodium, Na",mg,60,51,476
+"Zinc, Zn",mg,9.39,7.98,74.46
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.080,0.068,0.634
+"Riboflavin",mg,0.282,0.240,2.236
+"Niacin",mg,4.923,4.185,39.039
+"Vitamin B-6",mg,0.512,0.435,4.060
+"Folate, DFE",µg,8,7,63
+"Vitamin B-12",µg,3.38,2.87,26.80
+"Vitamin A, RAE",µg,1,1,8
+"Vitamin A, IU",IU,5,4,40
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.11,1.03
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.8
+"Vitamin D",IU,6,5,48
+"Vitamin K (phylloquinone)",µg,1.6,1.4,12.7
+Lipids
+"Fatty acids, total saturated",g,2.835,2.410,22.482
+"Fatty acids, total monounsaturated",g,3.757,3.193,29.793
+"Fatty acids, total polyunsaturated",g,0.470,0.399,3.727
+"Fatty acids, total trans",g,0.307,0.261,2.435
+"Cholesterol",mg,97,82,769
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

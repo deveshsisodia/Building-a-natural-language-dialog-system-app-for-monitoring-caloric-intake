@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:24 EST
+"Nutrient data for: 14026, Beverages, THE COCA-COLA COMPANY, NOS Zero, energy drink, sugar-free with guarana, fortified with vitamins B6 and B12"
+Nutrient,Unit,1Value per 100 g,"16.0 fl oz = 480.0g",
+Proximates
+"Water",g,98.35,472.08
+"Energy",kcal,4,19
+"Protein",g,0.00,0.00
+"Total lipid (fat)",g,0.00,0.00
+"Carbohydrate, by difference",g,1.03,4.94
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,0,0
+"Iron, Fe",mg,0.00,0.00
+"Magnesium, Mg",mg,0,0
+"Phosphorus, P",mg,0,0
+"Potassium, K",mg,0,0
+"Sodium, Na",mg,85,408
+"Zinc, Zn",mg,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.000,0.000
+"Riboflavin",mg,0.000,0.000
+"Niacin",mg,0.000,0.000
+"Vitamin B-6",mg,0.833,3.998
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,2.50,12.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,34,163

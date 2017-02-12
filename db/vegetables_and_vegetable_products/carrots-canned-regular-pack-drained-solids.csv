@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:19 EST
+"Nutrient data for: 11128, Carrots, canned, regular pack, drained solids"
+Nutrient,Unit,1Value per 100 g,"1 cup, sliced = 146.0g","1 cup, mashed = 228.0g","1 slice = 2.8g","1 can (303 x 406) = 284.0g",
+Proximates
+"Water",g,92.95,135.71,211.93,2.60,263.98
+"Energy",kcal,25,36,57,1,71
+"Protein",g,0.64,0.93,1.46,0.02,1.82
+"Total lipid (fat)",g,0.19,0.28,0.43,0.01,0.54
+"Carbohydrate, by difference",g,5.54,8.09,12.63,0.16,15.73
+"Fiber, total dietary",g,1.5,2.2,3.4,0.0,4.3
+"Sugars, total",g,2.48,3.62,5.65,0.07,7.04
+Minerals
+"Calcium, Ca",mg,25,36,57,1,71
+"Iron, Fe",mg,0.64,0.93,1.46,0.02,1.82
+"Magnesium, Mg",mg,8,12,18,0,23
+"Phosphorus, P",mg,24,35,55,1,68
+"Potassium, K",mg,179,261,408,5,508
+"Sodium, Na",mg,242,353,552,7,687
+"Zinc, Zn",mg,0.26,0.38,0.59,0.01,0.74
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.7,3.9,6.2,0.1,7.7
+"Thiamin",mg,0.018,0.026,0.041,0.001,0.051
+"Riboflavin",mg,0.030,0.044,0.068,0.001,0.085
+"Niacin",mg,0.552,0.806,1.259,0.015,1.568
+"Vitamin B-6",mg,0.112,0.164,0.255,0.003,0.318
+"Folate, DFE",µg,9,13,21,0,26
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,558,815,1272,16,1585
+"Vitamin A, IU",IU,11170,16308,25468,313,31723
+"Vitamin E (alpha-tocopherol)",mg,0.74,1.08,1.69,0.02,2.10
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,9.8,14.3,22.3,0.3,27.8
+Lipids
+"Fatty acids, total saturated",g,0.036,0.053,0.082,0.001,0.102
+"Fatty acids, total monounsaturated",g,0.009,0.013,0.021,0.000,0.026
+"Fatty acids, total polyunsaturated",g,0.092,0.134,0.210,0.003,0.261
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

@@ -1,0 +1,28 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:37 EST
+"Nutrient data for: 19145, Candies, NESTLE, CRUNCH Bar and Dessert Topping"
+Nutrient,Unit,1Value per 100 g,"1 bar 1.55 oz = 44.0g","1 bar 0.5 oz = 14.2g","1 serving 4 fun size bars = 41.0g","2.0 tbsp = 24.0g",
+Proximates
+"Water",g,0.65,0.29,0.09,0.27,0.16
+"Energy",kcal,500,220,71,205,120
+"Protein",g,5.00,2.20,0.71,2.05,1.20
+"Total lipid (fat)",g,26.00,11.44,3.69,10.66,6.24
+"Carbohydrate, by difference",g,67.00,29.48,9.51,27.47,16.08
+"Fiber, total dietary",g,1.9,0.8,0.3,0.8,0.5
+"Sugars, total",g,55.00,24.20,7.81,22.55,13.20
+Minerals
+"Calcium, Ca",mg,100,44,14,41,24
+"Iron, Fe",mg,0.70,0.31,0.10,0.29,0.17
+"Potassium, K",mg,305,134,43,125,73
+"Sodium, Na",mg,150,66,21,62,36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.2,0.1,0.2,0.1
+"Vitamin A, IU",IU,107,47,15,44,26
+Lipids
+"Fatty acids, total saturated",g,16.000,7.040,2.272,6.560,3.840
+"Fatty acids, total trans",g,0.137,0.060,0.019,0.056,0.033
+"Cholesterol",mg,13,6,2,5,3
+Amino Acids
+Other
+"Caffeine",mg,30,13,4,12,7

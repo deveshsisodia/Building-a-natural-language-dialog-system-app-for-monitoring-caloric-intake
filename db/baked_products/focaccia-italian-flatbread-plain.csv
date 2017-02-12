@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:38 EST
+"Nutrient data for: 18973, Focaccia, Italian flatbread, plain"
+Nutrient,Unit,1Value per 100 g,"1 piece = 57.0g",
+Proximates
+"Water",g,45.91,26.17
+"Energy",kcal,249,142
+"Protein",g,8.77,5.00
+"Total lipid (fat)",g,7.89,4.50
+"Carbohydrate, by difference",g,35.82,20.42
+"Fiber, total dietary",g,1.8,1.0
+"Sugars, total",g,1.75,1.00
+Minerals
+"Calcium, Ca",mg,35,20
+"Iron, Fe",mg,3.16,1.80
+"Magnesium, Mg",mg,20,11
+"Phosphorus, P",mg,128,73
+"Potassium, K",mg,114,65
+"Sodium, Na",mg,561,320
+"Zinc, Zn",mg,1.33,0.76
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.470,0.268
+"Riboflavin",mg,0.301,0.172
+"Niacin",mg,3.670,2.092
+"Vitamin B-6",mg,0.113,0.064
+"Folate, DFE",µg,175,100
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,2,1
+"Vitamin E (alpha-tocopherol)",mg,1.42,0.81
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,5.7,3.2
+Lipids
+"Fatty acids, total saturated",g,0.877,0.500
+"Fatty acids, total monounsaturated",g,5.670,3.232
+"Fatty acids, total polyunsaturated",g,0.994,0.567
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

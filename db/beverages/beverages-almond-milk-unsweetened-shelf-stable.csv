@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:19 EST
+"Nutrient data for: 14091, Beverages, almond milk, unsweetened, shelf stable"
+Nutrient,Unit,1Value per 100 g,"1 cup = 262.0g",
+Proximates
+"Water",g,97.05,254.27
+"Energy",kcal,15,39
+"Protein",g,0.59,1.55
+"Total lipid (fat)",g,1.10,2.88
+"Carbohydrate, by difference",g,0.58,1.52
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,197,516
+"Iron, Fe",mg,0.35,0.92
+"Magnesium, Mg",mg,7,18
+"Phosphorus, P",mg,10,26
+"Potassium, K",mg,67,176
+"Sodium, Na",mg,71,186
+"Zinc, Zn",mg,0.07,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.060,0.157
+"Riboflavin",mg,0.047,0.123
+"Niacin",mg,0.075,0.196
+"Vitamin B-6",mg,0.015,0.039
+"Folate, DFE",µg,1,3
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,43,113
+"Vitamin A, IU",IU,142,372
+"Vitamin E (alpha-tocopherol)",mg,2.81,7.36
+"Vitamin D (D2 + D3)",µg,1.0,2.6
+"Vitamin D",IU,42,110
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.708,1.855
+"Fatty acids, total polyunsaturated",g,0.236,0.618
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

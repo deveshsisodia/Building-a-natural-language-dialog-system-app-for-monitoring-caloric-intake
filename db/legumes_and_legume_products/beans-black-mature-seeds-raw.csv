@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:56 EST
+"Nutrient data for: 16014, Beans, black, mature seeds, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 194.0g","1 tbsp = 12.1g",
+Proximates
+"Water",g,11.02,21.38,1.33
+"Energy",kcal,341,662,41
+"Protein",g,21.60,41.90,2.61
+"Total lipid (fat)",g,1.42,2.75,0.17
+"Carbohydrate, by difference",g,62.36,120.98,7.55
+"Fiber, total dietary",g,15.5,30.1,1.9
+"Sugars, total",g,2.12,4.11,0.26
+Minerals
+"Calcium, Ca",mg,123,239,15
+"Iron, Fe",mg,5.02,9.74,0.61
+"Magnesium, Mg",mg,171,332,21
+"Phosphorus, P",mg,352,683,43
+"Potassium, K",mg,1483,2877,179
+"Sodium, Na",mg,5,10,1
+"Zinc, Zn",mg,3.65,7.08,0.44
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.900,1.746,0.109
+"Riboflavin",mg,0.193,0.374,0.023
+"Niacin",mg,1.955,3.793,0.237
+"Vitamin B-6",mg,0.286,0.555,0.035
+"Folate, DFE",µg,444,861,54
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,17,33,2
+"Vitamin E (alpha-tocopherol)",mg,0.21,0.41,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,5.6,10.9,0.7
+Lipids
+"Fatty acids, total saturated",g,0.366,0.710,0.044
+"Fatty acids, total monounsaturated",g,0.123,0.239,0.015
+"Fatty acids, total polyunsaturated",g,0.610,1.183,0.074
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

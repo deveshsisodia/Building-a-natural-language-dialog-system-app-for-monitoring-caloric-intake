@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:38 EST
+"Nutrient data for: 28032, GIRL SCOUTS, Samoas Cookies"
+Nutrient,Unit,1Value per 100 g,"2.0 cookies = 29.0g",
+Proximates
+"Water",g,5.70,1.65
+"Energy",kcal,489,142
+"Protein",g,3.50,1.01
+"Total lipid (fat)",g,25.80,7.48
+"Carbohydrate, by difference",g,64.10,18.59
+"Fiber, total dietary",g,4.4,1.3
+"Sugars, total",g,35.80,10.38
+Minerals
+"Iron, Fe",mg,3.20,0.93
+"Magnesium, Mg",mg,30,9
+"Phosphorus, P",mg,76,22
+"Potassium, K",mg,195,57
+"Sodium, Na",mg,182,53
+"Zinc, Zn",mg,0.50,0.14
+Vitamins
+"Thiamin",mg,0.140,0.041
+"Riboflavin",mg,0.120,0.035
+"Niacin",mg,1.200,0.348
+"Vitamin B-6",mg,0.050,0.015
+Lipids
+"Fatty acids, total saturated",g,17.700,5.133
+"Fatty acids, total monounsaturated",g,2.800,0.812
+"Fatty acids, total polyunsaturated",g,3.700,1.073
+"Fatty acids, total trans",g,0.200,0.058
+"Cholesterol",mg,2,1
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:24 EST
+"Nutrient data for: 11804, Okra, frozen, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"0.5 cup slices = 92.0g","1 package (10 oz) yields = 255.0g",
+Proximates
+"Water",g,91.12,83.83,232.36
+"Energy",kcal,34,31,87
+"Protein",g,1.63,1.50,4.16
+"Total lipid (fat)",g,0.24,0.22,0.61
+"Carbohydrate, by difference",g,6.41,5.90,16.35
+"Fiber, total dietary",g,2.1,1.9,5.4
+"Sugars, total",g,2.87,2.64,7.32
+Minerals
+"Calcium, Ca",mg,74,68,189
+"Iron, Fe",mg,0.52,0.48,1.33
+"Magnesium, Mg",mg,40,37,102
+"Phosphorus, P",mg,37,34,94
+"Potassium, K",mg,184,169,469
+"Sodium, Na",mg,239,220,609
+"Zinc, Zn",mg,0.49,0.45,1.25
+Vitamins
+"Vitamin C, total ascorbic acid",mg,9.6,8.8,24.5
+"Thiamin",mg,0.073,0.067,0.186
+"Riboflavin",mg,0.096,0.088,0.245
+"Niacin",mg,0.616,0.567,1.571
+"Vitamin B-6",mg,0.037,0.034,0.094
+"Folate, DFE",µg,100,92,255
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,15,14,38
+"Vitamin A, IU",IU,305,281,778
+"Vitamin E (alpha-tocopherol)",mg,0.32,0.29,0.82
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,47.8,44.0,121.9
+Lipids
+"Fatty acids, total saturated",g,0.063,0.058,0.161
+"Fatty acids, total monounsaturated",g,0.040,0.037,0.102
+"Fatty acids, total polyunsaturated",g,0.064,0.059,0.163
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

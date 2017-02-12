@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:29 EST
+"Nutrient data for: 35144, Stew, dumpling with mutton (Navajo)"
+Nutrient,Unit,1Value per 100 g,"1 serving = 308.0g",
+Proximates
+"Water",g,79.21,243.97
+"Energy",kcal,101,311
+"Protein",g,8.71,26.83
+"Total lipid (fat)",g,3.78,11.64
+"Carbohydrate, by difference",g,8.03,24.73
+"Sugars, total",g,0.21,0.65
+Minerals
+"Calcium, Ca",mg,14,43
+"Iron, Fe",mg,1.79,5.51
+"Magnesium, Mg",mg,8,25
+"Phosphorus, P",mg,63,194
+"Potassium, K",mg,82,253
+"Sodium, Na",mg,46,142
+"Zinc, Zn",mg,1.85,5.70
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.065,0.200
+"Riboflavin",mg,0.091,0.280
+"Niacin",mg,2.005,6.175
+"Vitamin B-6",mg,0.041,0.126
+"Vitamin B-12",µg,0.82,2.53
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.37,1.14
+"Vitamin K (phylloquinone)",µg,1.7,5.2
+Lipids
+"Fatty acids, total saturated",g,1.709,5.264
+"Fatty acids, total monounsaturated",g,1.533,4.722
+"Fatty acids, total polyunsaturated",g,0.274,0.844
+"Cholesterol",mg,28,86
+Amino Acids
+Other
+Footnotes
+(a)"Weight of serving based on limited sampling and may vary widely."

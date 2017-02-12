@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:26 EST
+"Nutrient data for: 11948, Pickles, cucumber, sweet, low sodium (includes bread and butter pickles)"
+Nutrient,Unit,1Value per 100 g,"1 slice = 6.0g","1 medium = 35.0g","1 small = 15.0g","1 large = 35.0g","1 cup, sliced = 170.0g","1 cup, chopped or diced = 160.0g",
+Proximates
+"Water",g,65.26,3.92,22.84,9.79,22.84,110.94,104.42
+"Energy",kcal,122,7,43,18,43,207,195
+"Protein",g,0.37,0.02,0.13,0.06,0.13,0.63,0.59
+"Total lipid (fat)",g,0.26,0.02,0.09,0.04,0.09,0.44,0.42
+"Carbohydrate, by difference",g,33.73,2.02,11.81,5.06,11.81,57.34,53.97
+"Fiber, total dietary",g,1.1,0.1,0.4,0.2,0.4,1.9,1.8
+"Sugars, total",g,26.68,1.60,9.34,4.00,9.34,45.36,42.69
+Minerals
+"Calcium, Ca",mg,4,0,1,1,1,7,6
+"Iron, Fe",mg,0.59,0.04,0.21,0.09,0.21,1.00,0.94
+"Magnesium, Mg",mg,4,0,1,1,1,7,6
+"Phosphorus, P",mg,12,1,4,2,4,20,19
+"Potassium, K",mg,32,2,11,5,11,54,51
+"Sodium, Na",mg,18,1,6,3,6,31,29
+"Zinc, Zn",mg,0.08,0.00,0.03,0.01,0.03,0.14,0.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.2,0.1,0.4,0.2,0.4,2.0,1.9
+"Thiamin",mg,0.009,0.001,0.003,0.001,0.003,0.015,0.014
+"Riboflavin",mg,0.032,0.002,0.011,0.005,0.011,0.054,0.051
+"Niacin",mg,0.174,0.010,0.061,0.026,0.061,0.296,0.278
+"Vitamin B-6",mg,0.015,0.001,0.005,0.002,0.005,0.025,0.024
+"Folate, DFE",µg,1,0,0,0,0,2,2
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,56,3,20,8,20,95,90
+"Vitamin A, IU",IU,1116,67,391,167,391,1897,1786
+"Vitamin E (alpha-tocopherol)",mg,0.53,0.03,0.19,0.08,0.19,0.90,0.85
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,76.7,4.6,26.8,11.5,26.8,130.4,122.7
+Lipids
+"Fatty acids, total saturated",g,0.067,0.004,0.023,0.010,0.023,0.114,0.107
+"Fatty acids, total monounsaturated",g,0.004,0.000,0.001,0.001,0.001,0.007,0.006
+"Fatty acids, total polyunsaturated",g,0.106,0.006,0.037,0.016,0.037,0.180,0.170
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

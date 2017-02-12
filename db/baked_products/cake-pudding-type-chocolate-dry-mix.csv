@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18097, Cake, pudding-type, chocolate, dry mix"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 package (18.25 oz) = 517.0g",
+Proximates
+"Water",g,3.90,1.11,20.16
+"Energy",kcal,391,111,2021
+"Protein",g,4.60,1.30,23.78
+"Total lipid (fat)",g,8.14,2.31,42.08
+"Carbohydrate, by difference",g,80.16,22.73,414.43
+"Fiber, total dietary",g,2.3,0.7,11.9
+"Sugars, total",g,39.53,11.21,204.37
+Minerals
+"Calcium, Ca",mg,133,38,688
+"Iron, Fe",mg,2.92,0.83,15.10
+"Magnesium, Mg",mg,41,12,212
+"Phosphorus, P",mg,286,81,1479
+"Potassium, K",mg,337,96,1742
+"Sodium, Na",mg,767,217,3965
+"Zinc, Zn",mg,0.78,0.22,4.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0,0.5
+"Thiamin",mg,0.210,0.060,1.086
+"Riboflavin",mg,0.170,0.048,0.879
+"Niacin",mg,2.417,0.685,12.496
+"Vitamin B-6",mg,0.031,0.009,0.160
+"Folate, DFE",µg,85,24,439
+"Vitamin B-12",µg,0.50,0.14,2.58
+"Vitamin A, RAE",µg,1,0,5
+"Vitamin A, IU",IU,2,1,10
+"Vitamin E (alpha-tocopherol)",mg,0.65,0.18,3.36
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,2.2,0.6,11.4
+Lipids
+"Fatty acids, total saturated",g,2.022,0.573,10.454
+"Fatty acids, total monounsaturated",g,2.803,0.795,14.492
+"Fatty acids, total polyunsaturated",g,2.269,0.643,11.731
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,6,2,31

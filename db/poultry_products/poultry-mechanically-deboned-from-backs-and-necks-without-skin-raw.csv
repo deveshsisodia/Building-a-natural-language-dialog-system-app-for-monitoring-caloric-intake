@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:38 EST
+"Nutrient data for: 05302, Poultry, mechanically deboned, from backs and necks without skin, raw"
+Nutrient,Unit,1Value per 100 g,"0.5 lb = 227.0g",
+Proximates
+"Water",g,69.29,157.29
+"Energy",kcal,199,452
+"Protein",g,13.79,31.30
+"Total lipid (fat)",g,15.48,35.14
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,123,279
+"Iron, Fe",mg,1.73,3.93
+"Magnesium, Mg",mg,13,30
+"Phosphorus, P",mg,154,350
+"Potassium, K",mg,128,291
+"Sodium, Na",mg,51,116
+"Zinc, Zn",mg,1.82,4.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.0,6.8
+"Thiamin",mg,0.071,0.161
+"Riboflavin",mg,0.175,0.397
+"Niacin",mg,6.246,14.178
+"Vitamin B-6",mg,0.320,0.726
+"Folate, DFE",µg,9,20
+"Vitamin B-12",µg,0.35,0.79
+"Vitamin A, RAE",µg,32,73
+"Vitamin A, IU",IU,107,243
+Lipids
+"Fatty acids, total saturated",g,4.710,10.692
+"Fatty acids, total monounsaturated",g,7.410,16.821
+"Fatty acids, total polyunsaturated",g,2.280,5.176
+"Cholesterol",mg,104,236
+Amino Acids
+Other

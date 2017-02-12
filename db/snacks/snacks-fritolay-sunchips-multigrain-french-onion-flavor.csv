@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:53 EST
+"Nutrient data for: 25022, Snacks, FRITOLAY, SUNCHIPS, multigrain, French onion flavor"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,2.04,0.58
+"Energy",kcal,496,141
+"Protein",g,8.68,2.46
+"Total lipid (fat)",g,22.15,6.28
+"Carbohydrate, by difference",g,65.49,18.57
+"Fiber, total dietary",g,7.8,2.2
+"Sugars, total",g,8.82,2.50
+Minerals
+"Calcium, Ca",mg,42,12
+"Iron, Fe",mg,1.55,0.44
+"Magnesium, Mg",mg,67,19
+"Phosphorus, P",mg,215,61
+"Potassium, K",mg,257,73
+"Sodium, Na",mg,467,132
+"Zinc, Zn",mg,1.38,0.39
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,0.3
+"Thiamin",mg,0.187,0.053
+"Riboflavin",mg,0.018,0.005
+"Niacin",mg,2.399,0.680
+"Vitamin B-6",mg,0.289,0.082
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,2.469,0.700
+"Fatty acids, total monounsaturated",g,12.698,3.600
+"Fatty acids, total polyunsaturated",g,6.513,1.846
+"Fatty acids, total trans",g,0.095,0.027
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

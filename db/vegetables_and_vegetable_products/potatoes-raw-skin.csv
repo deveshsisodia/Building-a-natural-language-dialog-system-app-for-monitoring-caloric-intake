@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:28 EST
+"Nutrient data for: 11362, Potatoes, raw, skin"
+Nutrient,Unit,1Value per 100 g,"1 skin = 38.0g",
+Proximates
+"Water",g,83.29,31.65
+"Energy",kcal,58,22
+"Protein",g,2.57,0.98
+"Total lipid (fat)",g,0.10,0.04
+"Carbohydrate, by difference",g,12.44,4.73
+"Fiber, total dietary",g,2.5,0.9
+Minerals
+"Calcium, Ca",mg,30,11
+"Iron, Fe",mg,3.24,1.23
+"Magnesium, Mg",mg,23,9
+"Phosphorus, P",mg,38,14
+"Potassium, K",mg,413,157
+"Sodium, Na",mg,10,4
+"Zinc, Zn",mg,0.35,0.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,11.4,4.3
+"Thiamin",mg,0.021,0.008
+"Riboflavin",mg,0.038,0.014
+"Niacin",mg,1.033,0.393
+"Vitamin B-6",mg,0.239,0.091
+"Folate, DFE",µg,17,6
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.026,0.010
+"Fatty acids, total monounsaturated",g,0.002,0.001
+"Fatty acids, total polyunsaturated",g,0.043,0.016
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

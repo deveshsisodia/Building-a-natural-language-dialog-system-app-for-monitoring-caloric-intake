@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:00 EST
+"Nutrient data for: 17361, Lamb, New Zealand, imported, chump, boneless, separable lean only, cooked, fast roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,70.59,60.00
+"Energy",kcal,142,121
+"Protein",g,23.69,20.14
+"Total lipid (fat)",g,5.27,4.48
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,4,3
+"Iron, Fe",mg,1.73,1.47
+"Magnesium, Mg",mg,25,21
+"Phosphorus, P",mg,205,174
+"Potassium, K",mg,339,288
+"Sodium, Na",mg,61,52
+"Zinc, Zn",mg,3.24,2.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.138,0.117
+"Riboflavin",mg,0.188,0.160
+"Niacin",mg,3.571,3.035
+"Vitamin B-6",mg,0.175,0.149
+"Vitamin B-12",µg,2.06,1.75
+"Vitamin A, RAE",µg,5,4
+"Vitamin A, IU",IU,17,14
+"Vitamin E (alpha-tocopherol)",mg,0.33,0.28
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,1,1
+Lipids
+"Fatty acids, total saturated",g,1.769,1.504
+"Fatty acids, total monounsaturated",g,1.295,1.101
+"Fatty acids, total polyunsaturated",g,0.344,0.292
+"Fatty acids, total trans",g,0.139,0.118
+"Cholesterol",mg,74,63
+Amino Acids
+Other
+"Caffeine",mg,0,0

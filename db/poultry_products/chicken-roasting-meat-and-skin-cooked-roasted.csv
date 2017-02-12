@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:38 EST
+"Nutrient data for: 05112, Chicken, roasting, meat and skin, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 unit (yield from 1 lb ready-to-cook chicken) = 210.0g","0.5 chicken, bone removed = 480.0g",
+Proximates
+"Water",g,62.10,52.78,130.41,298.08
+"Energy",kcal,223,190,468,1070
+"Protein",g,23.97,20.37,50.34,115.06
+"Total lipid (fat)",g,13.39,11.38,28.12,64.27
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,12,10,25,58
+"Iron, Fe",mg,1.26,1.07,2.65,6.05
+"Magnesium, Mg",mg,20,17,42,96
+"Phosphorus, P",mg,179,152,376,859
+"Potassium, K",mg,211,179,443,1013
+"Sodium, Na",mg,73,62,153,350
+"Zinc, Zn",mg,1.45,1.23,3.04,6.96
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.057,0.048,0.120,0.274
+"Riboflavin",mg,0.143,0.122,0.300,0.686
+"Niacin",mg,7.418,6.305,15.578,35.606
+"Vitamin B-6",mg,0.350,0.297,0.735,1.680
+"Folate, DFE",µg,5,4,10,24
+"Vitamin B-12",µg,0.27,0.23,0.57,1.30
+"Vitamin A, IU",IU,83,71,174,398
+Lipids
+"Fatty acids, total saturated",g,3.740,3.179,7.854,17.952
+"Fatty acids, total monounsaturated",g,5.400,4.590,11.340,25.920
+"Fatty acids, total polyunsaturated",g,2.920,2.482,6.132,14.016
+"Cholesterol",mg,76,65,160,365
+Amino Acids
+Other

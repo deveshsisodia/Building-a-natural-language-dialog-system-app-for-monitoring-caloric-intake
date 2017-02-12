@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:00 EST
+"Nutrient data for: 17055, Lamb, domestic, shoulder, blade, separable lean only, trimmed to 1/4"" fat, choice, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g",
+Proximates
+"Water",g,72.36,20.51,328.22
+"Energy",kcal,151,43,685
+"Protein",g,19.29,5.47,87.50
+"Total lipid (fat)",g,7.63,2.16,34.61
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,16,5,73
+"Iron, Fe",mg,1.62,0.46,7.35
+"Magnesium, Mg",mg,24,7,109
+"Phosphorus, P",mg,183,52,830
+"Potassium, K",mg,268,76,1216
+"Sodium, Na",mg,70,20,318
+"Zinc, Zn",mg,5.11,1.45,23.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.120,0.034,0.544
+"Riboflavin",mg,0.220,0.062,0.998
+"Niacin",mg,5.190,1.471,23.542
+"Vitamin B-6",mg,0.160,0.045,0.726
+"Folate, DFE",µg,23,7,104
+"Vitamin B-12",µg,2.83,0.80,12.84
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.06,1.00
+Lipids
+"Fatty acids, total saturated",g,2.730,0.774,12.383
+"Fatty acids, total monounsaturated",g,3.070,0.870,13.926
+"Fatty acids, total polyunsaturated",g,0.700,0.198,3.175
+"Cholesterol",mg,67,19,304
+Amino Acids
+Other

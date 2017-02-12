@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:26 EST
+"Nutrient data for: 11943, Pimento, canned"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 12.0g","1 cup = 192.0g","1 slice = 1.0g","1 pimiento, whole = 66.0g",
+Proximates
+"Water",g,93.10,11.17,178.75,0.93,61.45
+"Energy",kcal,23,3,44,0,15
+"Protein",g,1.10,0.13,2.11,0.01,0.73
+"Total lipid (fat)",g,0.30,0.04,0.58,0.00,0.20
+"Carbohydrate, by difference",g,5.10,0.61,9.79,0.05,3.37
+"Fiber, total dietary",g,1.9,0.2,3.6,0.0,1.3
+"Sugars, total",g,2.71,0.33,5.20,0.03,1.79
+Minerals
+"Calcium, Ca",mg,6,1,12,0,4
+"Iron, Fe",mg,1.68,0.20,3.23,0.02,1.11
+"Magnesium, Mg",mg,6,1,12,0,4
+"Phosphorus, P",mg,17,2,33,0,11
+"Potassium, K",mg,158,19,303,2,104
+"Sodium, Na",mg,14,2,27,0,9
+"Zinc, Zn",mg,0.19,0.02,0.36,0.00,0.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,84.9,10.2,163.0,0.8,56.0
+"Thiamin",mg,0.017,0.002,0.033,0.000,0.011
+"Riboflavin",mg,0.060,0.007,0.115,0.001,0.040
+"Niacin",mg,0.615,0.074,1.181,0.006,0.406
+"Vitamin B-6",mg,0.215,0.026,0.413,0.002,0.142
+"Folate, DFE",µg,6,1,12,0,4
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,133,16,255,1,88
+"Vitamin A, IU",IU,2655,319,5098,27,1752
+"Vitamin E (alpha-tocopherol)",mg,0.69,0.08,1.32,0.01,0.46
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,8.3,1.0,15.9,0.1,5.5
+Lipids
+"Fatty acids, total saturated",g,0.045,0.005,0.086,0.000,0.030
+"Fatty acids, total monounsaturated",g,0.020,0.002,0.038,0.000,0.013
+"Fatty acids, total polyunsaturated",g,0.161,0.019,0.309,0.002,0.106
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

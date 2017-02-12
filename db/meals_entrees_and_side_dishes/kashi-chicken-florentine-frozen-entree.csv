@@ -1,0 +1,29 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:22 EST
+"Nutrient data for: 22983, KASHI, Chicken Florentine, Frozen Entree"
+Nutrient,Unit,1Value per 100 g,"1 package = 283.0g",
+Proximates
+"Water",g,76.40,216.21
+"Energy",kcal,106,300
+"Protein",g,7.90,22.36
+"Total lipid (fat)",g,3.40,9.62
+"Carbohydrate, by difference",g,11.00,31.13
+"Fiber, total dietary",g,1.8,5.1
+"Sugars, total",g,0.50,1.42
+Minerals
+"Calcium, Ca",mg,52,147
+"Iron, Fe",mg,0.70,1.98
+"Sodium, Na",mg,194,549
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.4,12.5
+"Vitamin A, RAE",µg,306,866
+"Vitamin A, IU",IU,1020,2887
+Lipids
+"Fatty acids, total saturated",g,1.500,4.245
+"Fatty acids, total monounsaturated",g,1.100,3.113
+"Fatty acids, total polyunsaturated",g,0.700,1.981
+"Fatty acids, total trans",g,0.100,0.283
+"Cholesterol",mg,16,45
+Amino Acids
+Other

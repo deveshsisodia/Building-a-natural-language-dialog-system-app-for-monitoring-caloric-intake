@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:13 EST
+"Nutrient data for: 43384, Beef, bologna, reduced sodium"
+Nutrient,Unit,1Value per 100 g,"1 cup pieces = 138.0g","1 slice, medium = 28.0g","1 slice, thick = 43.0g","1 slice, thin = 14.0g",
+Proximates
+"Water",g,54.80,75.62,15.34,23.56,7.67
+"Energy",kcal,310,428,87,133,43
+"Protein",g,11.70,16.15,3.28,5.03,1.64
+"Total lipid (fat)",g,28.40,39.19,7.95,12.21,3.98
+"Carbohydrate, by difference",g,2.00,2.76,0.56,0.86,0.28
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,12,17,3,5,2
+"Iron, Fe",mg,1.40,1.93,0.39,0.60,0.20
+"Magnesium, Mg",mg,10,14,3,4,1
+"Phosphorus, P",mg,82,113,23,35,11
+"Potassium, K",mg,155,214,43,67,22
+"Sodium, Na",mg,682,941,191,293,95
+"Zinc, Zn",mg,2.00,2.76,0.56,0.86,0.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.060,0.083,0.017,0.026,0.008
+"Riboflavin",mg,0.130,0.179,0.036,0.056,0.018
+"Niacin",mg,2.630,3.629,0.736,1.131,0.368
+"Vitamin B-6",mg,0.180,0.248,0.050,0.077,0.025
+"Folate, DFE",µg,5,7,1,2,1
+"Vitamin B-12",µg,1.41,1.95,0.39,0.61,0.20
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.19,0.26,0.05,0.08,0.03
+"Vitamin D (D2 + D3)",µg,0.7,1.0,0.2,0.3,0.1
+"Vitamin D",IU,28,39,8,12,4
+"Vitamin K (phylloquinone)",µg,0.3,0.4,0.1,0.1,0.0
+Lipids
+"Fatty acids, total saturated",g,11.676,16.113,3.269,5.021,1.635
+"Fatty acids, total monounsaturated",g,13.299,18.353,3.724,5.719,1.862
+"Fatty acids, total polyunsaturated",g,1.051,1.450,0.294,0.452,0.147
+"Cholesterol",mg,56,77,16,24,8
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

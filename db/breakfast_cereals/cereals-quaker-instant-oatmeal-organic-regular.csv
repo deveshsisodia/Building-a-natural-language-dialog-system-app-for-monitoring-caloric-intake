@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08640, Cereals, QUAKER, Instant Oatmeal Organic, Regular"
+Nutrient,Unit,1Value per 100 g,"1 packet = 41.0g",
+Proximates
+"Water",g,8.80,3.61
+"Energy",kcal,367,150
+"Protein",g,16.00,6.56
+"Total lipid (fat)",g,6.30,2.58
+"Carbohydrate, by difference",g,67.00,27.47
+"Fiber, total dietary",g,9.8,4.0
+"Sugars, total",g,1.00,0.41
+Minerals
+"Calcium, Ca",mg,52,21
+"Iron, Fe",mg,4.20,1.72
+"Magnesium, Mg",mg,148,61
+"Phosphorus, P",mg,474,194
+"Potassium, K",mg,350,144
+"Sodium, Na",mg,4,2
+"Zinc, Zn",mg,3.07,1.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.730,0.299
+"Riboflavin",mg,0.140,0.057
+"Niacin",mg,0.780,0.320
+"Vitamin B-6",mg,0.120,0.049
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.47,0.19
+Lipids
+"Fatty acids, total saturated",g,1.110,0.455
+"Fatty acids, total monounsaturated",g,1.980,0.812
+"Fatty acids, total polyunsaturated",g,2.300,0.943
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

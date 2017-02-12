@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:26 EST
+"Nutrient data for: 36004, APPLEBEE'S, mozzarella sticks"
+Nutrient,Unit,1Value per 100 g,"1 piece = 32.0g","1 serving = 289.0g",
+Proximates
+"Water",g,40.65,13.01,117.48
+"Energy",kcal,316,101,913
+"Protein",g,14.87,4.76,42.97
+"Total lipid (fat)",g,18.37,5.88,53.09
+"Carbohydrate, by difference",g,22.87,7.32,66.09
+"Fiber, total dietary",g,2.1,0.7,6.1
+"Sugars, total",g,2.80,0.90,8.09
+Minerals
+"Calcium, Ca",mg,319,102,922
+"Iron, Fe",mg,0.43,0.14,1.24
+"Magnesium, Mg",mg,20,6,58
+"Phosphorus, P",mg,307,98,887
+"Potassium, K",mg,106,34,306
+"Sodium, Na",mg,838,268,2422
+"Zinc, Zn",mg,2.00,0.64,5.78
+Vitamins
+"Thiamin",mg,0.073,0.023,0.211
+"Riboflavin",mg,0.260,0.083,0.751
+"Niacin",mg,0.660,0.211,1.907
+"Vitamin B-6",mg,0.067,0.021,0.194
+"Vitamin B-12",µg,0.99,0.32,2.86
+"Vitamin A, RAE",µg,113,36,327
+"Vitamin A, IU",IU,432,138,1248
+"Vitamin E (alpha-tocopherol)",mg,0.71,0.23,2.05
+"Vitamin K (phylloquinone)",µg,22.2,7.1,64.2
+Lipids
+"Fatty acids, total saturated",g,6.730,2.154,19.450
+"Fatty acids, total monounsaturated",g,4.217,1.349,12.187
+"Fatty acids, total polyunsaturated",g,4.580,1.466,13.236
+"Fatty acids, total trans",g,0.363,0.116,1.049
+"Cholesterol",mg,33,11,95
+Amino Acids
+Other

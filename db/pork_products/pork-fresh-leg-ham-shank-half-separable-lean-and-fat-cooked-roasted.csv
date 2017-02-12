@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:42 EST
+"Nutrient data for: 10017, Pork, fresh, leg (ham), shank half, separable lean and fat, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 roast = 2900.0g",
+Proximates
+"Water",g,60.37,51.31,1750.73
+"Energy",kcal,232,197,6728
+"Protein",g,25.96,22.07,752.84
+"Total lipid (fat)",g,13.42,11.41,389.18
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,15,13,435
+"Iron, Fe",mg,0.87,0.74,25.23
+"Magnesium, Mg",mg,22,19,638
+"Phosphorus, P",mg,242,206,7018
+"Potassium, K",mg,345,293,10005
+"Sodium, Na",mg,81,69,2349
+"Zinc, Zn",mg,2.42,2.06,70.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.411,0.349,11.919
+"Riboflavin",mg,0.352,0.299,10.208
+"Niacin",mg,7.457,6.338,216.253
+"Vitamin B-6",mg,0.442,0.376,12.818
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.50,0.42,14.50
+"Vitamin A, RAE",µg,4,3,116
+"Vitamin A, IU",IU,14,12,406
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.20,6.67
+"Vitamin D (D2 + D3)",µg,0.6,0.5,17.4
+"Vitamin D",IU,22,19,638
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,4.609,3.918,133.661
+"Fatty acids, total monounsaturated",g,5.819,4.946,168.751
+"Fatty acids, total polyunsaturated",g,2.440,2.074,70.760
+"Fatty acids, total trans",g,0.093,0.079,2.697
+"Cholesterol",mg,91,77,2639
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

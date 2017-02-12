@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:46 EST
+"Nutrient data for: 18450, Tortillas, ready-to-bake or -fry, flour, without added calcium"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 tortilla, medium (approx 6"" dia) = 32.0g","1 tortilla (approx 10"" dia) = 72.0g","1 tortilla (approx 12"" dia) = 117.0g","1 tortilla (approx 7-8"" dia) = 49.0g",
+Proximates
+"Water",g,26.80,7.60,8.58,19.30,31.36,13.13
+"Energy",kcal,325,92,104,234,380,159
+"Protein",g,8.70,2.47,2.78,6.26,10.18,4.26
+"Total lipid (fat)",g,7.10,2.01,2.27,5.11,8.31,3.48
+"Carbohydrate, by difference",g,55.60,15.76,17.79,40.03,65.05,27.24
+"Fiber, total dietary",g,3.3,0.9,1.1,2.4,3.9,1.6
+Minerals
+"Calcium, Ca",mg,39,11,12,28,46,19
+"Iron, Fe",mg,3.30,0.94,1.06,2.38,3.86,1.62
+"Magnesium, Mg",mg,26,7,8,19,30,13
+"Phosphorus, P",mg,124,35,40,89,145,61
+"Potassium, K",mg,131,37,42,94,153,64
+"Sodium, Na",mg,478,136,153,344,559,234
+"Zinc, Zn",mg,0.71,0.20,0.23,0.51,0.83,0.35
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.531,0.151,0.170,0.382,0.621,0.260
+"Riboflavin",mg,0.293,0.083,0.094,0.211,0.343,0.144
+"Niacin",mg,3.572,1.013,1.143,2.572,4.179,1.750
+"Vitamin B-6",mg,0.050,0.014,0.016,0.036,0.059,0.025
+"Folate, DFE",µg,201,57,64,145,235,98
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.745,0.495,0.558,1.256,2.042,0.855
+"Fatty acids, total monounsaturated",g,3.768,1.068,1.206,2.713,4.409,1.846
+"Fatty acids, total polyunsaturated",g,1.063,0.301,0.340,0.765,1.244,0.521
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other

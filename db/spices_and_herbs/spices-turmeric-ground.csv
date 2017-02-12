@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:31 EST
+"Nutrient data for: 02043, Spices, turmeric, ground"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 3.0g","1 tbsp = 9.4g",
+Proximates
+"Water",g,12.85,0.39,1.21
+"Energy",kcal,312,9,29
+"Protein",g,9.68,0.29,0.91
+"Total lipid (fat)",g,3.25,0.10,0.31
+"Carbohydrate, by difference",g,67.14,2.01,6.31
+"Fiber, total dietary",g,22.7,0.7,2.1
+"Sugars, total",g,3.21,0.10,0.30
+Minerals
+"Calcium, Ca",mg,168,5,16
+"Iron, Fe",mg,55.00,1.65,5.17
+"Magnesium, Mg",mg,208,6,20
+"Phosphorus, P",mg,299,9,28
+"Potassium, K",mg,2080,62,196
+"Sodium, Na",mg,27,1,3
+"Zinc, Zn",mg,4.50,0.14,0.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.0,0.1
+"Thiamin",mg,0.058,0.002,0.005
+"Riboflavin",mg,0.150,0.004,0.014
+"Niacin",mg,1.350,0.041,0.127
+"Vitamin B-6",mg,0.107,0.003,0.010
+"Folate, DFE",µg,20,1,2
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,4.43,0.13,0.42
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,13.4,0.4,1.3
+Lipids
+"Fatty acids, total saturated",g,1.838,0.055,0.173
+"Fatty acids, total monounsaturated",g,0.449,0.013,0.042
+"Fatty acids, total polyunsaturated",g,0.756,0.023,0.071
+"Fatty acids, total trans",g,0.056,0.002,0.005
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

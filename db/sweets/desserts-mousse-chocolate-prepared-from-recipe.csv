@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:40 EST
+"Nutrient data for: 19182, Desserts, mousse, chocolate, prepared-from-recipe"
+Nutrient,Unit,1Value per 100 g,"1 recipe yield = 808.0g","0.5 cup = 202.0g",
+Proximates
+"Water",g,62.94,508.56,127.14
+"Energy",kcal,225,1818,454
+"Protein",g,4.14,33.45,8.36
+"Total lipid (fat)",g,16.00,129.28,32.32
+"Carbohydrate, by difference",g,16.07,129.85,32.46
+"Fiber, total dietary",g,0.6,4.8,1.2
+"Sugars, total",g,14.81,119.66,29.92
+Minerals
+"Calcium, Ca",mg,96,776,194
+"Iron, Fe",mg,0.55,4.44,1.11
+"Magnesium, Mg",mg,20,162,40
+"Phosphorus, P",mg,117,945,236
+"Potassium, K",mg,143,1155,289
+"Sodium, Na",mg,38,307,77
+"Zinc, Zn",mg,0.64,5.17,1.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.8,0.2
+"Thiamin",mg,0.045,0.364,0.091
+"Riboflavin",mg,0.205,1.656,0.414
+"Niacin",mg,0.146,1.180,0.295
+"Vitamin B-6",mg,0.058,0.469,0.117
+"Folate, DFE",µg,15,121,30
+"Vitamin B-12",µg,0.47,3.80,0.95
+"Vitamin A, RAE",µg,140,1131,283
+"Vitamin A, IU",IU,509,4113,1028
+"Vitamin E (alpha-tocopherol)",mg,0.51,4.12,1.03
+"Vitamin K (phylloquinone)",µg,1.6,12.9,3.2
+Lipids
+"Fatty acids, total saturated",g,9.151,73.940,18.485
+"Fatty acids, total monounsaturated",g,5.027,40.618,10.155
+"Fatty acids, total polyunsaturated",g,0.879,7.102,1.776
+"Cholesterol",mg,140,1131,283
+Amino Acids
+Other
+"Caffeine",mg,7,57,14

@@ -1,0 +1,47 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:10 EST
+"Nutrient data for: 12038, Seeds, sunflower seed kernels, oil roasted, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 135.0g","1 oz = 28.35g",
+Proximates
+"Water",g,1.54,2.08,0.44
+"Energy",kcal,592,799,168
+"Protein",g,20.06,27.08,5.69
+"Total lipid (fat)",g,51.30,69.25,14.54
+"Carbohydrate, by difference",g,22.89,30.90,6.49
+"Fiber, total dietary",g,10.6,14.3,3.0
+"Sugars, total",g,3.11,4.20,0.88
+Minerals
+"Calcium, Ca",mg,87,117,25
+"Iron, Fe",mg,4.28,5.78,1.21
+"Magnesium, Mg",mg,127,171,36
+"Phosphorus, P",mg,1139,1538,323
+"Potassium, K",mg,483,652,137
+"Sodium, Na",mg,3,4,1
+"Zinc, Zn",mg,5.21,7.03,1.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,1.5,0.3
+"Thiamin",mg,0.320,0.432,0.091
+"Riboflavin",mg,0.280,0.378,0.079
+"Niacin",mg,4.130,5.575,1.171
+"Vitamin B-6",mg,0.792,1.069,0.225
+"Folate, DFE",µg,234,316,66
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,9,12,3
+"Vitamin E (alpha-tocopherol)",mg,36.33,49.05,10.30
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,3.1,4.2,0.9
+Lipids
+"Fatty acids, total saturated",g,7.068,9.542,2.004
+"Fatty acids, total monounsaturated",g,8.063,10.885,2.286
+"Fatty acids, total polyunsaturated",g,34.294,46.297,9.722
+"Fatty acids, total trans",g,0.158,0.213,0.045
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Fat and fatty acids based on 25% roasted in cottonseed oil and 75% roasted in sunflower oil"
+(b)"Tocopherols and tocotrienols based on seeds roasted in NuSun sunflower oil"

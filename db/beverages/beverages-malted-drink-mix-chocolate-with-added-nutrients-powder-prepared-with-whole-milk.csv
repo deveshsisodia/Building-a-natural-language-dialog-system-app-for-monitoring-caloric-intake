@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:22 EST
+"Nutrient data for: 14316, Beverages, Malted drink mix, chocolate, with added nutrients, powder, prepared with whole milk"
+Nutrient,Unit,1Value per 100 g,"1 cup (8 fl oz) = 265.0g",
+Proximates
+"Water",g,81.26,215.34
+"Energy",kcal,87,231
+"Protein",g,3.29,8.72
+"Total lipid (fat)",g,3.26,8.64
+"Carbohydrate, by difference",g,11.19,29.65
+"Fiber, total dietary",g,0.4,1.1
+"Sugars, total",g,10.49,27.80
+Minerals
+"Calcium, Ca",mg,139,368
+"Iron, Fe",mg,1.42,3.76
+"Magnesium, Mg",mg,17,45
+"Phosphorus, P",mg,109,289
+"Potassium, K",mg,217,575
+"Sodium, Na",mg,87,231
+"Zinc, Zn",mg,0.43,1.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,12.0,31.8
+"Thiamin",mg,0.287,0.761
+"Riboflavin",mg,0.484,1.283
+"Niacin",mg,4.164,11.035
+"Vitamin B-6",mg,0.383,1.015
+"Folate, DFE",µg,5,13
+"Vitamin B-12",µg,0.42,1.11
+"Vitamin A, RAE",µg,357,946
+"Vitamin A, IU",IU,1199,3177
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.19
+"Vitamin D (D2 + D3)",µg,3.1,8.2
+"Vitamin D",IU,123,326
+"Vitamin K (phylloquinone)",µg,0.3,0.8
+Lipids
+"Fatty acids, total saturated",g,1.873,4.963
+"Fatty acids, total monounsaturated",g,0.823,2.181
+"Fatty acids, total polyunsaturated",g,0.205,0.543
+"Cholesterol",mg,10,26
+Amino Acids
+Other
+"Caffeine",mg,2,5

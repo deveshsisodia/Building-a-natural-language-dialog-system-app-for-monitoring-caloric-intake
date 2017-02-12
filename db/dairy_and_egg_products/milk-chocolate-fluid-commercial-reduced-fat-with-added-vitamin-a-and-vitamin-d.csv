@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:09 EST
+"Nutrient data for: 01103, Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D"
+Nutrient,Unit,1Value per 100 g,"1 cup = 250.0g","1 fl oz = 31.2g","1 quart = 1000.0g",
+Proximates
+"Water",g,82.17,205.43,25.64,821.70
+"Energy",kcal,76,190,24,760
+"Protein",g,2.99,7.47,0.93,29.90
+"Total lipid (fat)",g,1.90,4.75,0.59,19.00
+"Carbohydrate, by difference",g,12.13,30.32,3.78,121.30
+"Fiber, total dietary",g,0.7,1.8,0.2,7.0
+"Sugars, total",g,9.55,23.88,2.98,95.50
+Minerals
+"Calcium, Ca",mg,109,272,34,1090
+"Iron, Fe",mg,0.24,0.60,0.07,2.40
+"Magnesium, Mg",mg,14,35,4,140
+"Phosphorus, P",mg,102,255,32,1020
+"Potassium, K",mg,169,422,53,1690
+"Sodium, Na",mg,66,165,21,660
+"Zinc, Zn",mg,0.39,0.97,0.12,3.90
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.045,0.113,0.014,0.450
+"Riboflavin",mg,0.183,0.458,0.057,1.830
+"Niacin",mg,0.164,0.410,0.051,1.640
+"Vitamin B-6",mg,0.024,0.060,0.007,0.240
+"Folate, DFE",µg,2,5,1,20
+"Vitamin B-12",µg,0.33,0.82,0.10,3.30
+"Vitamin A, RAE",µg,64,160,20,640
+"Vitamin A, IU",IU,227,568,71,2270
+"Vitamin E (alpha-tocopherol)",mg,0.04,0.10,0.01,0.40
+"Vitamin D (D2 + D3)",µg,1.2,3.0,0.4,12.0
+"Vitamin D",IU,49,122,15,490
+"Vitamin K (phylloquinone)",µg,0.2,0.5,0.1,2.0
+Lipids
+"Fatty acids, total saturated",g,1.177,2.942,0.367,11.770
+"Fatty acids, total monounsaturated",g,0.455,1.137,0.142,4.550
+"Fatty acids, total polyunsaturated",g,0.089,0.223,0.028,0.890
+"Cholesterol",mg,8,20,2,80
+Amino Acids
+Other
+"Caffeine",mg,1,2,0,10

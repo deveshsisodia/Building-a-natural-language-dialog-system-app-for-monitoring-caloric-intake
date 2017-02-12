@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:17 EST
+"Nutrient data for: 11089, Broadbeans, immature seeds, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,83.70,
+"Energy",kcal,62,
+"Protein",g,4.80,
+"Total lipid (fat)",g,0.50,
+"Carbohydrate, by difference",g,10.10,
+"Fiber, total dietary",g,3.6,
+Minerals
+"Calcium, Ca",mg,18,
+"Iron, Fe",mg,1.50,
+"Magnesium, Mg",mg,31,
+"Phosphorus, P",mg,73,
+"Potassium, K",mg,193,
+"Sodium, Na",mg,41,
+"Zinc, Zn",mg,0.47,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,19.8,
+"Thiamin",mg,0.128,
+"Riboflavin",mg,0.090,
+"Niacin",mg,1.200,
+"Vitamin B-6",mg,0.029,
+"Folate, DFE",µg,58,
+"Vitamin B-12",µg,0.00,
+"Vitamin A, RAE",µg,14,
+"Vitamin A, IU",IU,270,
+"Vitamin D (D2 + D3)",µg,0.0,
+"Vitamin D",IU,0,
+Lipids
+"Fatty acids, total saturated",g,0.142,
+"Fatty acids, total monounsaturated",g,0.020,
+"Fatty acids, total polyunsaturated",g,0.303,
+"Fatty acids, total trans",g,0.000,
+"Cholesterol",mg,0,
+Amino Acids
+Other

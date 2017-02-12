@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:03 EST
+"Nutrient data for: 08435, Cereals ready-to-eat, UNCLE SAM CEREAL"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 55.0g",
+Proximates
+"Water",g,4.43,2.44
+"Energy",kcal,346,190
+"Protein",g,15.98,8.79
+"Total lipid (fat)",g,11.60,6.38
+"Carbohydrate, by difference",g,65.78,36.18
+"Fiber, total dietary",g,20.3,11.2
+"Sugars, total",g,1.56,0.86
+Minerals
+"Calcium, Ca",mg,95,52
+"Iron, Fe",mg,4.03,2.22
+"Magnesium, Mg",mg,206,113
+"Phosphorus, P",mg,374,206
+"Potassium, K",mg,446,245
+"Sodium, Na",mg,206,113
+"Zinc, Zn",mg,3.87,2.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.4,1.3
+"Thiamin",mg,0.679,0.373
+"Riboflavin",mg,0.127,0.070
+"Niacin",mg,4.803,2.642
+"Vitamin B-6",mg,0.956,0.526
+"Folate, DFE",µg,53,29
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.90,0.49
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.8,1.0
+Lipids
+"Fatty acids, total saturated",g,0.946,0.520
+"Fatty acids, total monounsaturated",g,1.419,0.780
+"Fatty acids, total polyunsaturated",g,5.987,3.293
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

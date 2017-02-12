@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:58 EST
+"Nutrient data for: 15042, Fish, herring, Atlantic, kippered"
+Nutrient,Unit,1Value per 100 g,"1 oz, boneless = 28.35g","1 cubic inch, boneless = 17.0g","1 fillet, large (7"" x 2-1/4"" x 1/4"") = 65.0g","1 fillet, medium (5"" x 1-3/4"" x 1/4"") = 40.0g","1 fillet, small (2-3/8"" x 1-3/8"" x 1/4"") = 20.0g",
+Proximates
+"Water",g,59.70,16.92,10.15,38.80,23.88,11.94
+"Energy",kcal,217,62,37,141,87,43
+"Protein",g,24.58,6.97,4.18,15.98,9.83,4.92
+"Total lipid (fat)",g,12.37,3.51,2.10,8.04,4.95,2.47
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,84,24,14,55,34,17
+"Iron, Fe",mg,1.51,0.43,0.26,0.98,0.60,0.30
+"Magnesium, Mg",mg,46,13,8,30,18,9
+"Phosphorus, P",mg,325,92,55,211,130,65
+"Potassium, K",mg,447,127,76,291,179,89
+"Sodium, Na",mg,918,260,156,597,367,184
+"Zinc, Zn",mg,1.36,0.39,0.23,0.88,0.54,0.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.3,0.2,0.7,0.4,0.2
+"Thiamin",mg,0.126,0.036,0.021,0.082,0.050,0.025
+"Riboflavin",mg,0.319,0.090,0.054,0.207,0.128,0.064
+"Niacin",mg,4.402,1.248,0.748,2.861,1.761,0.880
+"Vitamin B-6",mg,0.413,0.117,0.070,0.268,0.165,0.083
+"Folate, DFE",µg,14,4,2,9,6,3
+"Vitamin B-12",µg,18.70,5.30,3.18,12.15,7.48,3.74
+"Vitamin A, RAE",µg,40,11,7,26,16,8
+"Vitamin A, IU",IU,135,38,23,88,54,27
+"Vitamin E (alpha-tocopherol)",mg,1.54,0.44,0.26,1.00,0.62,0.31
+"Vitamin D (D2 + D3)",µg,2.2,0.6,0.4,1.4,0.9,0.4
+"Vitamin D",IU,86,24,15,56,34,17
+"Vitamin K (phylloquinone)",µg,0.1,0.0,0.0,0.1,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,2.791,0.791,0.474,1.814,1.116,0.558
+"Fatty acids, total monounsaturated",g,5.112,1.449,0.869,3.323,2.045,1.022
+"Fatty acids, total polyunsaturated",g,2.919,0.828,0.496,1.897,1.168,0.584
+"Cholesterol",mg,82,23,14,53,33,16
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

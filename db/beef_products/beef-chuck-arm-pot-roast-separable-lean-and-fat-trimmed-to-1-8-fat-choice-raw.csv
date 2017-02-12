@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:34 EST
+"Nutrient data for: 13811, Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8"" fat, choice, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 roast = 1801.0g","1 lb = 453.6g",
+Proximates
+"Water",g,61.78,17.51,1112.66,280.23
+"Energy",kcal,249,71,4484,1129
+"Protein",g,19.14,5.43,344.71,86.82
+"Total lipid (fat)",g,18.57,5.26,334.45,84.23
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,16,5,288,73
+"Iron, Fe",mg,1.73,0.49,31.16,7.85
+"Magnesium, Mg",mg,19,5,342,86
+"Phosphorus, P",mg,171,48,3080,776
+"Potassium, K",mg,290,82,5223,1315
+"Sodium, Na",mg,63,18,1135,286
+"Zinc, Zn",mg,4.56,1.29,82.13,20.68
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.064,0.018,1.153,0.290
+"Riboflavin",mg,0.143,0.041,2.575,0.649
+"Niacin",mg,4.328,1.227,77.947,19.632
+"Vitamin B-6",mg,0.425,0.120,7.654,1.928
+"Folate, DFE",µg,10,3,180,45
+"Vitamin B-12",µg,1.79,0.51,32.24,8.12
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.41,0.12,7.38,1.86
+"Vitamin K (phylloquinone)",µg,1.6,0.5,28.8,7.3
+Lipids
+"Fatty acids, total saturated",g,7.492,2.124,134.931,33.984
+"Fatty acids, total monounsaturated",g,7.950,2.254,143.180,36.061
+"Fatty acids, total polyunsaturated",g,0.706,0.200,12.715,3.202
+"Cholesterol",mg,89,25,1603,404
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

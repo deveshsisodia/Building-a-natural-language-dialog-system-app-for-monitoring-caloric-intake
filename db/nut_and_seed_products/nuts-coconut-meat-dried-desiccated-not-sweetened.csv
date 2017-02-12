@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:08 EST
+"Nutrient data for: 12108, Nuts, coconut meat, dried (desiccated), not sweetened"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,3.00,0.85
+"Energy",kcal,660,187
+"Protein",g,6.88,1.95
+"Total lipid (fat)",g,64.53,18.29
+"Carbohydrate, by difference",g,23.65,6.70
+"Fiber, total dietary",g,16.3,4.6
+"Sugars, total",g,7.35,2.08
+Minerals
+"Calcium, Ca",mg,26,7
+"Iron, Fe",mg,3.32,0.94
+"Magnesium, Mg",mg,90,26
+"Phosphorus, P",mg,206,58
+"Potassium, K",mg,543,154
+"Sodium, Na",mg,37,10
+"Zinc, Zn",mg,2.01,0.57
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.5,0.4
+"Thiamin",mg,0.060,0.017
+"Riboflavin",mg,0.100,0.028
+"Niacin",mg,0.603,0.171
+"Vitamin B-6",mg,0.300,0.085
+"Folate, DFE",µg,9,3
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.44,0.12
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.1
+Lipids
+"Fatty acids, total saturated",g,57.218,16.221
+"Fatty acids, total monounsaturated",g,2.745,0.778
+"Fatty acids, total polyunsaturated",g,0.706,0.200
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

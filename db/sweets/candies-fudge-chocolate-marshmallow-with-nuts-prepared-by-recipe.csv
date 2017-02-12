@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:33 EST
+"Nutrient data for: 19301, Candies, fudge, chocolate marshmallow, with nuts, prepared-by-recipe"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,7.12,2.02
+"Energy",kcal,474,134
+"Protein",g,3.24,0.92
+"Total lipid (fat)",g,21.11,5.98
+"Carbohydrate, by difference",g,67.69,19.19
+"Fiber, total dietary",g,2.1,0.6
+Minerals
+"Calcium, Ca",mg,49,14
+"Iron, Fe",mg,1.11,0.31
+"Magnesium, Mg",mg,46,13
+"Phosphorus, P",mg,88,25
+"Potassium, K",mg,170,48
+"Sodium, Na",mg,79,22
+"Zinc, Zn",mg,0.76,0.22
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.1
+"Thiamin",mg,0.042,0.012
+"Riboflavin",mg,0.082,0.023
+"Niacin",mg,0.232,0.066
+"Vitamin B-6",mg,0.054,0.015
+"Folate, DFE",µg,11,3
+"Vitamin B-12",µg,0.03,0.01
+"Vitamin A, RAE",µg,68,19
+"Vitamin A, IU",IU,228,65
+"Vitamin E (alpha-tocopherol)",mg,0.59,0.17
+"Vitamin K (phylloquinone)",µg,2.4,0.7
+Lipids
+"Fatty acids, total saturated",g,10.378,2.942
+"Fatty acids, total monounsaturated",g,5.506,1.561
+"Fatty acids, total polyunsaturated",g,4.081,1.157
+"Fatty acids, total trans",g,0.297,0.084
+"Cholesterol",mg,23,7
+Amino Acids
+Other
+"Caffeine",mg,16,5

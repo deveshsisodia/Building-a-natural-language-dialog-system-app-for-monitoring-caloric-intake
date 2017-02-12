@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:34 EST
+"Nutrient data for: 18182, Cookies, oatmeal, refrigerated dough"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 portion, dough for 1 cookie = 16.0g",
+Proximates
+"Water",g,15.30,4.34,2.45
+"Energy",kcal,424,120,68
+"Protein",g,5.40,1.53,0.86
+"Total lipid (fat)",g,18.90,5.36,3.02
+"Carbohydrate, by difference",g,59.10,16.75,9.46
+"Fiber, total dietary",g,2.5,0.7,0.4
+Minerals
+"Calcium, Ca",mg,31,9,5
+"Iron, Fe",mg,2.14,0.61,0.34
+"Magnesium, Mg",mg,28,8,4
+"Phosphorus, P",mg,104,29,17
+"Potassium, K",mg,147,42,24
+"Sodium, Na",mg,294,83,47
+"Zinc, Zn",mg,0.64,0.18,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.234,0.066,0.037
+"Riboflavin",mg,0.148,0.042,0.024
+"Niacin",mg,1.865,0.529,0.298
+"Vitamin B-6",mg,0.041,0.012,0.007
+"Folate, DFE",µg,53,15,8
+"Vitamin B-12",µg,0.04,0.01,0.01
+"Vitamin A, RAE",µg,4,1,1
+"Vitamin A, IU",IU,70,20,11
+Lipids
+"Fatty acids, total saturated",g,4.751,1.347,0.760
+"Fatty acids, total monounsaturated",g,10.531,2.986,1.685
+"Fatty acids, total polyunsaturated",g,2.592,0.735,0.415
+"Cholesterol",mg,24,7,4
+Amino Acids
+Other

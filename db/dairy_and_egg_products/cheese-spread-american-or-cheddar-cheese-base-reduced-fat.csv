@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:07 EST
+"Nutrient data for: 01259, Cheese spread, American or Cheddar cheese base, reduced fat"
+Nutrient,Unit,1Value per 100 g,"1 piece = 21.0g","1 package = 566.0g",
+Proximates
+"Water",g,61.82,12.98,349.90
+"Energy",kcal,176,37,996
+"Protein",g,13.41,2.82,75.90
+"Total lipid (fat)",g,8.88,1.86,50.26
+"Carbohydrate, by difference",g,10.71,2.25,60.62
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,7.06,1.48,39.96
+Minerals
+"Calcium, Ca",mg,557,117,3153
+"Iron, Fe",mg,0.36,0.08,2.04
+"Magnesium, Mg",mg,27,6,153
+"Phosphorus, P",mg,931,196,5269
+"Potassium, K",mg,250,52,1415
+"Sodium, Na",mg,1102,231,6237
+"Zinc, Zn",mg,1.81,0.38,10.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.038,0.008,0.215
+"Riboflavin",mg,0.442,0.093,2.502
+"Niacin",mg,0.153,0.032,0.866
+"Vitamin B-6",mg,0.099,0.021,0.560
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,1.17,0.25,6.62
+"Vitamin A, RAE",µg,185,39,1047
+"Vitamin A, IU",IU,656,138,3713
+"Vitamin E (alpha-tocopherol)",mg,0.46,0.10,2.60
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,5.647,1.186,31.962
+"Fatty acids, total monounsaturated",g,2.458,0.516,13.912
+"Fatty acids, total polyunsaturated",g,0.415,0.087,2.349
+"Fatty acids, total trans",g,0.327,0.069,1.851
+"Cholesterol",mg,38,8,215
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

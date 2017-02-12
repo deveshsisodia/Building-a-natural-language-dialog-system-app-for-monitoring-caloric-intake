@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:01 EST
+"Nutrient data for: 16125, Soy sauce made from hydrolyzed vegetable protein"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 18.0g","1 tsp = 6.0g","0.25 cup = 58.0g",
+Proximates
+"Water",g,68.02,12.24,4.08,39.45
+"Energy",kcal,60,11,4,35
+"Protein",g,7.00,1.26,0.42,4.06
+"Total lipid (fat)",g,0.51,0.09,0.03,0.30
+"Carbohydrate, by difference",g,7.84,1.41,0.47,4.55
+"Fiber, total dietary",g,0.5,0.1,0.0,0.3
+"Sugars, total",g,1.30,0.23,0.08,0.75
+Minerals
+"Calcium, Ca",mg,17,3,1,10
+"Iron, Fe",mg,0.33,0.06,0.02,0.19
+"Magnesium, Mg",mg,29,5,2,17
+"Phosphorus, P",mg,94,17,6,55
+"Potassium, K",mg,447,80,27,259
+"Sodium, Na",mg,6820,1228,409,3956
+"Zinc, Zn",mg,0.23,0.04,0.01,0.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.042,0.008,0.003,0.024
+"Riboflavin",mg,0.109,0.020,0.007,0.063
+"Niacin",mg,2.828,0.509,0.170,1.640
+"Vitamin B-6",mg,0.143,0.026,0.009,0.083
+"Folate, DFE",µg,13,2,1,8
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.040,0.007,0.002,0.023
+"Fatty acids, total monounsaturated",g,0.060,0.011,0.004,0.035
+"Fatty acids, total polyunsaturated",g,0.147,0.026,0.009,0.085
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

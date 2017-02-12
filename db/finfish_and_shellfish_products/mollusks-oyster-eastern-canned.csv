@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:07 EST
+"Nutrient data for: 15170, Mollusks, oyster, eastern, canned"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 cup, undrained = 248.0g","1 oz, drained = 23.0g","1 can (12 oz), oysters and liquid = 272.0g","1 oyster = 8.0g","1 cup, drained = 162.0g",
+Proximates
+"Water",g,85.14,72.37,211.15,19.58,231.58,6.81,137.93
+"Energy",kcal,68,58,169,16,185,5,110
+"Protein",g,7.06,6.00,17.51,1.62,19.20,0.56,11.44
+"Total lipid (fat)",g,2.47,2.10,6.13,0.57,6.72,0.20,4.00
+"Carbohydrate, by difference",g,3.91,3.32,9.70,0.90,10.64,0.31,6.33
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,45,38,112,10,122,4,73
+"Iron, Fe",mg,6.70,5.70,16.62,1.54,18.22,0.54,10.85
+"Magnesium, Mg",mg,54,46,134,12,147,4,87
+"Phosphorus, P",mg,139,118,345,32,378,11,225
+"Potassium, K",mg,229,195,568,53,623,18,371
+"Sodium, Na",mg,112,95,278,26,305,9,181
+"Zinc, Zn",mg,90.95,77.31,225.56,20.92,247.38,7.28,147.34
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.0,4.2,12.4,1.1,13.6,0.4,8.1
+"Thiamin",mg,0.150,0.128,0.372,0.034,0.408,0.012,0.243
+"Riboflavin",mg,0.166,0.141,0.412,0.038,0.452,0.013,0.269
+"Niacin",mg,1.244,1.057,3.085,0.286,3.384,0.100,2.015
+"Vitamin B-6",mg,0.095,0.081,0.236,0.022,0.258,0.008,0.154
+"Folate, DFE",µg,9,8,22,2,24,1,15
+"Vitamin B-12",µg,19.13,16.26,47.44,4.40,52.03,1.53,30.99
+"Vitamin A, RAE",µg,90,76,223,21,245,7,146
+"Vitamin A, IU",IU,300,255,744,69,816,24,486
+"Vitamin E (alpha-tocopherol)",mg,0.85,0.72,2.11,0.20,2.31,0.07,1.38
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,1,1,2,0,3,0,2
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.2,0.0,0.3,0.0,0.2
+Lipids
+"Fatty acids, total saturated",g,0.631,0.536,1.565,0.145,1.716,0.050,1.022
+"Fatty acids, total monounsaturated",g,0.250,0.212,0.620,0.058,0.680,0.020,0.405
+"Fatty acids, total polyunsaturated",g,0.739,0.628,1.833,0.170,2.010,0.059,1.197
+"Cholesterol",mg,55,47,136,13,150,4,89
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

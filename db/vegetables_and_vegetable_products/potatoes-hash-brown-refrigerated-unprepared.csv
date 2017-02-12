@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:28 EST
+"Nutrient data for: 31021, Potatoes, hash brown, refrigerated, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 cup unprepared = 159.0g",
+Proximates
+"Water",g,77.82,123.73
+"Energy",kcal,84,134
+"Protein",g,1.75,2.78
+"Total lipid (fat)",g,0.08,0.13
+"Carbohydrate, by difference",g,19.16,30.46
+"Fiber, total dietary",g,1.8,2.9
+"Sugars, total",g,0.91,1.45
+Minerals
+"Calcium, Ca",mg,6,10
+"Iron, Fe",mg,0.48,0.76
+"Magnesium, Mg",mg,19,30
+"Phosphorus, P",mg,70,111
+"Potassium, K",mg,425,676
+"Sodium, Na",mg,42,67
+"Zinc, Zn",mg,0.38,0.60
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.9,7.8
+"Thiamin",mg,0.027,0.043
+"Riboflavin",mg,0.022,0.035
+"Niacin",mg,1.777,2.825
+"Vitamin B-6",mg,0.257,0.409
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.11
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.4,0.6
+Lipids
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

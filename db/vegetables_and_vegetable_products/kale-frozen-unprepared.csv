@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:22 EST
+"Nutrient data for: 11235, Kale, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"0.333 package (10 oz) = 94.0g","1 package (10 oz) = 284.0g",
+Proximates
+"Water",g,91.12,85.65,258.78
+"Energy",kcal,28,26,80
+"Protein",g,2.66,2.50,7.55
+"Total lipid (fat)",g,0.46,0.43,1.31
+"Carbohydrate, by difference",g,4.90,4.61,13.92
+"Fiber, total dietary",g,2.0,1.9,5.7
+Minerals
+"Calcium, Ca",mg,136,128,386
+"Iron, Fe",mg,0.93,0.87,2.64
+"Magnesium, Mg",mg,18,17,51
+"Phosphorus, P",mg,29,27,82
+"Potassium, K",mg,333,313,946
+"Sodium, Na",mg,15,14,43
+"Zinc, Zn",mg,0.18,0.17,0.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,39.3,36.9,111.6
+"Thiamin",mg,0.056,0.053,0.159
+"Riboflavin",mg,0.112,0.105,0.318
+"Niacin",mg,0.698,0.656,1.982
+"Vitamin B-6",mg,0.090,0.085,0.256
+"Folate, DFE",µg,17,16,48
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,313,294,889
+"Vitamin A, IU",IU,6253,5878,17759
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.059,0.055,0.168
+"Fatty acids, total monounsaturated",g,0.034,0.032,0.097
+"Fatty acids, total polyunsaturated",g,0.219,0.206,0.622
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

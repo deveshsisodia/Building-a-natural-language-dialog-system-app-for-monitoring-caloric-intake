@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:31 EST
+"Nutrient data for: 18416, Bread, white, commercially prepared, low sodium, no salt"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cup, crumbs = 45.0g","1 cup, cubes = 35.0g","1 slice, large = 30.0g","1 slice = 25.0g","1 slice, thin = 20.0g",
+Proximates
+"Water",g,36.70,10.40,16.52,12.85,11.01,9.18,7.34
+"Energy",kcal,267,76,120,93,80,67,53
+"Protein",g,8.20,2.32,3.69,2.87,2.46,2.05,1.64
+"Total lipid (fat)",g,3.60,1.02,1.62,1.26,1.08,0.90,0.72
+"Carbohydrate, by difference",g,49.60,14.06,22.32,17.36,14.88,12.40,9.92
+"Fiber, total dietary",g,2.3,0.7,1.0,0.8,0.7,0.6,0.5
+"Sugars, total",g,4.31,1.22,1.94,1.51,1.29,1.08,0.86
+Minerals
+"Calcium, Ca",mg,108,31,49,38,32,27,22
+"Iron, Fe",mg,3.03,0.86,1.36,1.06,0.91,0.76,0.61
+"Magnesium, Mg",mg,24,7,11,8,7,6,5
+"Phosphorus, P",mg,94,27,42,33,28,24,19
+"Potassium, K",mg,119,34,54,42,36,30,24
+"Sodium, Na",mg,298,84,134,104,89,74,60
+"Zinc, Zn",mg,0.62,0.18,0.28,0.22,0.19,0.15,0.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.472,0.134,0.212,0.165,0.142,0.118,0.094
+"Riboflavin",mg,0.341,0.097,0.153,0.119,0.102,0.085,0.068
+"Niacin",mg,3.969,1.125,1.786,1.389,1.191,0.992,0.794
+"Vitamin B-6",mg,0.064,0.018,0.029,0.022,0.019,0.016,0.013
+"Folate, DFE",µg,171,48,77,60,51,43,34
+"Vitamin B-12",µg,0.03,0.01,0.01,0.01,0.01,0.01,0.01
+"Vitamin A, RAE",µg,0,0,0,0,0,0,0
+"Vitamin A, IU",IU,1,0,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.06,0.10,0.08,0.07,0.06,0.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,3.1,0.9,1.4,1.1,0.9,0.8,0.6
+Lipids
+"Fatty acids, total saturated",g,0.811,0.230,0.365,0.284,0.243,0.203,0.162
+"Fatty acids, total monounsaturated",g,1.612,0.457,0.725,0.564,0.484,0.403,0.322
+"Fatty acids, total polyunsaturated",g,0.744,0.211,0.335,0.260,0.223,0.186,0.149
+"Cholesterol",mg,1,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

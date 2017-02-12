@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:36 EST
+"Nutrient data for: 05143, Duck, domesticated, liver, raw"
+Nutrient,Unit,1Value per 100 g,"1 liver = 44.0g","1 unit (yield from 1 lb ready-to-cook duck) = 10.0g",
+Proximates
+"Water",g,71.78,31.58,7.18
+"Energy",kcal,136,60,14
+"Protein",g,18.74,8.25,1.87
+"Total lipid (fat)",g,4.64,2.04,0.46
+"Carbohydrate, by difference",g,3.53,1.55,0.35
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,11,5,1
+"Iron, Fe",mg,30.53,13.43,3.05
+"Magnesium, Mg",mg,24,11,2
+"Phosphorus, P",mg,269,118,27
+"Potassium, K",mg,230,101,23
+"Sodium, Na",mg,140,62,14
+"Zinc, Zn",mg,3.07,1.35,0.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.5,2.0,0.5
+"Thiamin",mg,0.562,0.247,0.056
+"Riboflavin",mg,0.892,0.392,0.089
+"Niacin",mg,6.500,2.860,0.650
+"Vitamin B-6",mg,0.760,0.334,0.076
+"Folate, DFE",µg,738,325,74
+"Vitamin B-12",µg,54.00,23.76,5.40
+"Vitamin A, RAE",µg,11984,5273,1198
+"Vitamin A, IU",IU,39907,17559,3991
+Lipids
+"Fatty acids, total saturated",g,1.440,0.634,0.144
+"Fatty acids, total monounsaturated",g,0.710,0.312,0.071
+"Fatty acids, total polyunsaturated",g,0.630,0.277,0.063
+"Cholesterol",mg,515,227,52
+Amino Acids
+Other

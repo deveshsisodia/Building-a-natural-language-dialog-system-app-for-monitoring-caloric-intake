@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:20 EST
+"Nutrient data for: 04133, Salad dressing, french, home recipe"
+Nutrient,Unit,1Value per 100 g,"1 tablespoon = 14.0g","1 cup = 220.0g",
+Proximates
+"Water",g,24.20,3.39,53.24
+"Energy",kcal,631,88,1388
+"Protein",g,0.10,0.01,0.22
+"Total lipid (fat)",g,70.20,9.83,154.44
+"Carbohydrate, by difference",g,3.40,0.48,7.48
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,6,1,13
+"Iron, Fe",mg,0.20,0.03,0.44
+"Magnesium, Mg",mg,0,0,0
+"Phosphorus, P",mg,3,0,7
+"Potassium, K",mg,24,3,53
+"Sodium, Na",mg,658,92,1448
+"Zinc, Zn",mg,0.00,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.1,1.3
+"Thiamin",mg,0.010,0.001,0.022
+"Riboflavin",mg,0.020,0.003,0.044
+"Niacin",mg,0.130,0.018,0.286
+"Vitamin B-6",mg,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,26,4,57
+"Vitamin A, IU",IU,514,72,1131
+"Vitamin E (alpha-tocopherol)",mg,8.00,1.12,17.60
+Lipids
+"Fatty acids, total saturated",g,12.600,1.764,27.720
+"Fatty acids, total monounsaturated",g,20.700,2.898,45.540
+"Fatty acids, total polyunsaturated",g,33.700,4.718,74.140
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

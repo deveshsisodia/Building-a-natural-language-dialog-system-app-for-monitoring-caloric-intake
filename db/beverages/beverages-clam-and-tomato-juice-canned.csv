@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:20 EST
+"Nutrient data for: 14187, Beverages, Clam and tomato juice, canned"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 30.2g","1 can (5.5 oz) = 166.0g",
+Proximates
+"Water",g,87.40,26.39,145.08
+"Energy",kcal,48,14,80
+"Protein",g,0.60,0.18,1.00
+"Total lipid (fat)",g,0.20,0.06,0.33
+"Carbohydrate, by difference",g,10.95,3.31,18.18
+"Fiber, total dietary",g,0.4,0.1,0.7
+"Sugars, total",g,3.31,1.00,5.49
+Minerals
+"Calcium, Ca",mg,8,2,13
+"Iron, Fe",mg,0.15,0.05,0.25
+"Magnesium, Mg",mg,5,2,8
+"Phosphorus, P",mg,11,3,18
+"Potassium, K",mg,89,27,148
+"Sodium, Na",mg,362,109,601
+"Zinc, Zn",mg,0.08,0.02,0.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.0,1.5,8.3
+"Thiamin",mg,0.021,0.006,0.035
+"Riboflavin",mg,0.012,0.004,0.020
+"Niacin",mg,0.231,0.070,0.383
+"Vitamin B-6",mg,0.061,0.018,0.101
+"Folate, DFE",µg,8,2,13
+"Vitamin B-12",µg,0.03,0.01,0.05
+"Vitamin A, RAE",µg,7,2,12
+"Vitamin A, IU",IU,149,45,247
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.03,0.18
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:00 EST
+"Nutrient data for: 16093, Peanuts, valencia, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 146.0g","1 oz = 28.35g",
+Proximates
+"Water",g,4.26,6.22,1.21
+"Energy",kcal,570,832,162
+"Protein",g,25.09,36.63,7.11
+"Total lipid (fat)",g,47.58,69.47,13.49
+"Carbohydrate, by difference",g,20.91,30.53,5.93
+"Fiber, total dietary",g,8.7,12.7,2.5
+Minerals
+"Calcium, Ca",mg,62,91,18
+"Iron, Fe",mg,2.09,3.05,0.59
+"Magnesium, Mg",mg,184,269,52
+"Phosphorus, P",mg,336,491,95
+"Potassium, K",mg,332,485,94
+"Sodium, Na",mg,1,1,0
+"Zinc, Zn",mg,3.34,4.88,0.95
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.639,0.933,0.181
+"Riboflavin",mg,0.300,0.438,0.085
+"Niacin",mg,12.875,18.797,3.650
+"Vitamin B-6",mg,0.340,0.496,0.096
+"Folate, DFE",µg,246,359,70
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,7.329,10.700,2.078
+"Fatty acids, total monounsaturated",g,21.414,31.264,6.071
+"Fatty acids, total polyunsaturated",g,16.500,24.090,4.678
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

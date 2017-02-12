@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:21 EST
+"Nutrient data for: 22928, Burrito, beef and bean, microwaved"
+Nutrient,Unit,1Value per 100 g,"1 burrito cooked = 116.0g","1 oz = 28.35g",
+Proximates
+"Water",g,38.14,44.24,10.81
+"Energy",kcal,298,346,84
+"Protein",g,8.73,10.13,2.47
+"Total lipid (fat)",g,11.94,13.85,3.38
+"Carbohydrate, by difference",g,38.95,45.18,11.04
+"Fiber, total dietary",g,6.9,8.0,2.0
+"Sugars, total",g,1.36,1.58,0.39
+Minerals
+"Calcium, Ca",mg,39,45,11
+"Iron, Fe",mg,3.12,3.62,0.88
+"Magnesium, Mg",mg,36,42,10
+"Phosphorus, P",mg,97,113,27
+"Potassium, K",mg,271,314,77
+"Sodium, Na",mg,659,764,187
+"Zinc, Zn",mg,1.24,1.44,0.35
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,1.2,0.3
+"Thiamin",mg,0.461,0.535,0.131
+"Riboflavin",mg,0.230,0.267,0.065
+"Niacin",mg,3.566,4.137,1.011
+"Vitamin B-6",mg,0.132,0.153,0.037
+"Folate, DFE",µg,113,131,32
+"Vitamin B-12",µg,0.14,0.16,0.04
+"Vitamin A, RAE",µg,13,15,4
+"Vitamin A, IU",IU,261,303,74
+"Vitamin E (alpha-tocopherol)",mg,0.79,0.92,0.22
+"Vitamin K (phylloquinone)",µg,7.5,8.7,2.1
+Lipids
+"Fatty acids, total saturated",g,4.072,4.724,1.154
+"Fatty acids, total monounsaturated",g,5.035,5.841,1.427
+"Fatty acids, total polyunsaturated",g,1.763,2.045,0.500
+"Cholesterol",mg,9,10,3
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

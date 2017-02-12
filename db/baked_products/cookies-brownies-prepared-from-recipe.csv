@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:33 EST
+"Nutrient data for: 18154, Cookies, brownies, prepared from recipe"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 brownie (2"" square) = 24.0g",
+Proximates
+"Water",g,12.60,3.57,3.02
+"Energy",kcal,466,132,112
+"Protein",g,6.20,1.76,1.49
+"Total lipid (fat)",g,29.10,8.25,6.98
+"Carbohydrate, by difference",g,50.20,14.23,12.05
+Minerals
+"Calcium, Ca",mg,57,16,14
+"Iron, Fe",mg,1.84,0.52,0.44
+"Magnesium, Mg",mg,53,15,13
+"Phosphorus, P",mg,132,37,32
+"Potassium, K",mg,176,50,42
+"Sodium, Na",mg,343,97,82
+"Zinc, Zn",mg,0.97,0.27,0.23
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.1,0.1
+"Thiamin",mg,0.141,0.040,0.034
+"Riboflavin",mg,0.190,0.054,0.046
+"Niacin",mg,0.982,0.278,0.236
+"Vitamin B-6",mg,0.094,0.027,0.023
+"Folate, DFE",µg,39,11,9
+"Vitamin B-12",µg,0.16,0.05,0.04
+"Vitamin A, RAE",µg,176,50,42
+"Vitamin A, IU",IU,827,234,198
+Lipids
+"Fatty acids, total saturated",g,7.319,2.075,1.757
+"Fatty acids, total monounsaturated",g,10.839,3.073,2.601
+"Fatty acids, total polyunsaturated",g,9.412,2.668,2.259
+"Cholesterol",mg,73,21,18
+Amino Acids
+Other

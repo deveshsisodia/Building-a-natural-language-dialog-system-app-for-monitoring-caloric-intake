@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:32 EST
+"Nutrient data for: 31035, Vegetable juice, BOLTHOUSE FARMS, DAILY GREENS"
+Nutrient,Unit,1Value per 100 g,"1 cup = 269.0g",
+Proximates
+"Water",g,90.60,243.71
+"Energy",kcal,31,83
+"Protein",g,0.49,1.32
+"Total lipid (fat)",g,0.04,0.11
+"Carbohydrate, by difference",g,8.13,21.87
+"Fiber, total dietary",g,1.2,3.2
+"Sugars, total",g,5.37,14.45
+Minerals
+"Calcium, Ca",mg,110,296
+"Iron, Fe",mg,3.85,10.36
+"Magnesium, Mg",mg,11,30
+"Phosphorus, P",mg,90,242
+"Potassium, K",mg,224,603
+"Sodium, Na",mg,15,40
+"Zinc, Zn",mg,3.47,9.33
+Vitamins
+"Vitamin C, total ascorbic acid",mg,10.1,27.2
+"Thiamin",mg,0.060,0.161
+"Riboflavin",mg,0.025,0.067
+"Niacin",mg,0.200,0.538
+"Vitamin B-6",mg,0.320,0.861
+"Folate, DFE",µg,63,169
+"Vitamin B-12",µg,0.97,2.61
+"Vitamin A, RAE",µg,602,1619
+"Vitamin A, IU",IU,2048,5509
+"Vitamin E (alpha-tocopherol)",mg,0.28,0.75
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,11.7,31.5
+Lipids
+"Fatty acids, total saturated",g,0.015,0.040
+"Fatty acids, total monounsaturated",g,0.009,0.024
+"Fatty acids, total polyunsaturated",g,0.015,0.040
+"Fatty acids, total trans",g,0.001,0.003
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:41 EST
+"Nutrient data for: 42285, Babyfood, cereal, brown rice, dry, instant"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 3.7g",
+Proximates
+"Water",g,1.00,0.04
+"Energy",kcal,406,15
+"Protein",g,8.70,0.32
+"Total lipid (fat)",g,3.00,0.11
+"Carbohydrate, by difference",g,85.98,3.18
+"Fiber, total dietary",g,6.5,0.2
+"Sugars, total",g,0.72,0.03
+Minerals
+"Calcium, Ca",mg,55,2
+"Iron, Fe",mg,47.60,1.76
+"Magnesium, Mg",mg,28,1
+"Phosphorus, P",mg,272,10
+"Potassium, K",mg,386,14
+"Sodium, Na",mg,12,0
+"Zinc, Zn",mg,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.930,0.034
+"Riboflavin",mg,0.170,0.006
+"Niacin",mg,16.000,0.592
+"Vitamin B-6",mg,0.980,0.036
+"Folate, DFE",µg,15,1
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.65,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.7,0.0
+Lipids
+"Fatty acids, total saturated",g,0.610,0.023
+"Fatty acids, total monounsaturated",g,1.085,0.040
+"Fatty acids, total polyunsaturated",g,1.072,0.040
+"Fatty acids, total trans",g,0.001,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

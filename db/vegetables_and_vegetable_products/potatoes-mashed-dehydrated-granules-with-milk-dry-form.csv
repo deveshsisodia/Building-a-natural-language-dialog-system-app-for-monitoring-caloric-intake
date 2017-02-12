@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:28 EST
+"Nutrient data for: 11382, Potatoes, mashed, dehydrated, granules with milk, dry form"
+Nutrient,Unit,1Value per 100 g,"1 cup = 200.0g",
+Proximates
+"Water",g,6.30,12.60
+"Energy",kcal,357,714
+"Protein",g,10.90,21.80
+"Total lipid (fat)",g,1.10,2.20
+"Carbohydrate, by difference",g,77.70,155.40
+"Fiber, total dietary",g,6.6,13.2
+"Sugars, total",g,3.37,6.74
+Minerals
+"Calcium, Ca",mg,142,284
+"Iron, Fe",mg,3.50,7.00
+"Magnesium, Mg",mg,74,148
+"Phosphorus, P",mg,237,474
+"Potassium, K",mg,1848,3696
+"Sodium, Na",mg,82,164
+"Zinc, Zn",mg,1.20,2.40
+Vitamins
+"Vitamin C, total ascorbic acid",mg,16.0,32.0
+"Thiamin",mg,0.190,0.380
+"Riboflavin",mg,0.300,0.600
+"Niacin",mg,4.200,8.400
+"Vitamin B-6",mg,0.887,1.774
+"Folate, DFE",µg,30,60
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,18,36
+"Vitamin A, IU",IU,75,150
+"Vitamin E (alpha-tocopherol)",mg,0.03,0.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,8.7,17.4
+Lipids
+"Fatty acids, total saturated",g,0.461,0.922
+"Fatty acids, total monounsaturated",g,0.152,0.304
+"Fatty acids, total polyunsaturated",g,0.285,0.570
+"Cholesterol",mg,2,4
+Amino Acids
+Other
+"Caffeine",mg,0,0

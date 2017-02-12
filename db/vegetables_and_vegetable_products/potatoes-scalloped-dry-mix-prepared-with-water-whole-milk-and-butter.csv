@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:28 EST
+"Nutrient data for: 11387, Potatoes, scalloped, dry mix, prepared with water, whole milk and butter"
+Nutrient,Unit,1Value per 100 g,"1 cup (unprepared) = 245.0g","0.167 package (5.5 oz) yields = 137.0g","1 package yield, 5.5 oz = 822.0g",
+Proximates
+"Water",g,79.17,193.97,108.46,650.78
+"Energy",kcal,93,228,127,764
+"Protein",g,2.12,5.19,2.90,17.43
+"Total lipid (fat)",g,4.30,10.54,5.89,35.35
+"Carbohydrate, by difference",g,12.77,31.29,17.49,104.97
+"Fiber, total dietary",g,1.1,2.7,1.5,9.0
+Minerals
+"Calcium, Ca",mg,36,88,49,296
+"Iron, Fe",mg,0.38,0.93,0.52,3.12
+"Magnesium, Mg",mg,14,34,19,115
+"Phosphorus, P",mg,56,137,77,460
+"Potassium, K",mg,203,497,278,1669
+"Sodium, Na",mg,341,835,467,2803
+"Zinc, Zn",mg,0.25,0.61,0.34,2.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.3,8.1,4.5,27.1
+"Thiamin",mg,0.019,0.047,0.026,0.156
+"Riboflavin",mg,0.056,0.137,0.077,0.460
+"Niacin",mg,1.029,2.521,1.410,8.458
+"Vitamin B-6",mg,0.042,0.103,0.058,0.345
+"Folate, DFE",µg,10,24,14,82
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,35,86,48,288
+"Vitamin A, IU",IU,148,363,203,1217
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+Lipids
+"Fatty acids, total saturated",g,2.633,6.451,3.607,21.643
+"Fatty acids, total monounsaturated",g,1.213,2.972,1.662,9.971
+"Fatty acids, total polyunsaturated",g,0.194,0.475,0.266,1.595
+"Cholesterol",mg,11,27,15,90
+Amino Acids
+Other

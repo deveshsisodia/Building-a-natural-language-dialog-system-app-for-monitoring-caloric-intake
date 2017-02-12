@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:39 EST
+"Nutrient data for: 13346, Beef, cured, corned beef, brisket, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g",
+Proximates
+"Water",g,66.56,18.87,301.92
+"Energy",kcal,198,56,898
+"Protein",g,14.68,4.16,66.59
+"Total lipid (fat)",g,14.90,4.22,67.59
+"Carbohydrate, by difference",g,0.14,0.04,0.64
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,7,2,32
+"Iron, Fe",mg,1.69,0.48,7.67
+"Magnesium, Mg",mg,14,4,64
+"Phosphorus, P",mg,117,33,531
+"Potassium, K",mg,297,84,1347
+"Sodium, Na",mg,1217,345,5520
+"Zinc, Zn",mg,2.85,0.81,12.93
+Vitamins
+"Vitamin C, total ascorbic acid",mg,27.0,7.7,122.5
+"Thiamin",mg,0.043,0.012,0.195
+"Riboflavin",mg,0.157,0.045,0.712
+"Niacin",mg,3.660,1.038,16.602
+"Vitamin B-6",mg,0.290,0.082,1.315
+"Folate, DFE",µg,5,1,23
+"Vitamin B-12",µg,1.78,0.50,8.07
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,4.730,1.341,21.455
+"Fatty acids, total monounsaturated",g,7.180,2.036,32.568
+"Fatty acids, total polyunsaturated",g,0.530,0.150,2.404
+"Cholesterol",mg,54,15,245
+Amino Acids
+Other

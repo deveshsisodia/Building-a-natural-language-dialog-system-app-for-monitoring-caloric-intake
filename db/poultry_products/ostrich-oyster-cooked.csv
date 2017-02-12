@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:38 EST
+"Nutrient data for: 05652, Ostrich, oyster, cooked"
+Nutrient,Unit,1Value per 100 g,"1 serving ( 3 oz ) = 85.0g",
+Proximates
+"Water",g,67.55,57.42
+"Energy",kcal,159,135
+"Protein",g,28.81,24.49
+"Total lipid (fat)",g,3.97,3.37
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,6,5
+"Iron, Fe",mg,4.90,4.17
+"Magnesium, Mg",mg,29,25
+"Phosphorus, P",mg,281,239
+"Potassium, K",mg,409,348
+"Sodium, Na",mg,81,69
+"Zinc, Zn",mg,4.94,4.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.235,0.200
+"Riboflavin",mg,0.296,0.252
+"Niacin",mg,7.224,6.140
+"Vitamin B-6",mg,0.551,0.468
+"Folate, DFE",µg,16,14
+"Vitamin B-12",µg,6.32,5.37
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.20
+Lipids
+"Fatty acids, total saturated",g,1.690,1.437
+"Fatty acids, total monounsaturated",g,1.450,1.232
+"Fatty acids, total polyunsaturated",g,0.510,0.433
+"Cholesterol",mg,90,76
+Amino Acids
+Other
+"Caffeine",mg,0,0

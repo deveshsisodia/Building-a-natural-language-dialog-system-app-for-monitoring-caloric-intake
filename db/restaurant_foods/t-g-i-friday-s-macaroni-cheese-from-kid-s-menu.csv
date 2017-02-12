@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:28 EST
+"Nutrient data for: 36009, T.G.I. FRIDAY'S, macaroni & cheese, from kid's menu"
+Nutrient,Unit,1Value per 100 g,"1 cup = 144.0g","1 serving = 236.0g",
+Proximates
+"Water",g,72.51,104.41,171.12
+"Energy",kcal,121,174,286
+"Protein",g,5.03,7.24,11.87
+"Total lipid (fat)",g,3.45,4.97,8.14
+"Carbohydrate, by difference",g,17.40,25.06,41.06
+"Fiber, total dietary",g,1.0,1.4,2.4
+"Sugars, total",g,1.65,2.38,3.89
+Minerals
+"Calcium, Ca",mg,89,128,210
+"Iron, Fe",mg,0.53,0.76,1.25
+"Magnesium, Mg",mg,14,20,33
+"Phosphorus, P",mg,131,189,309
+"Potassium, K",mg,88,127,208
+"Sodium, Na",mg,482,694,1138
+"Zinc, Zn",mg,0.58,0.84,1.37
+Vitamins
+"Thiamin",mg,0.083,0.120,0.196
+"Riboflavin",mg,0.207,0.298,0.489
+"Niacin",mg,0.617,0.888,1.456
+"Vitamin B-6",mg,0.034,0.049,0.080
+"Vitamin B-12",µg,0.12,0.17,0.28
+"Vitamin A, RAE",µg,25,36,59
+"Vitamin A, IU",IU,92,132,217
+"Vitamin E (alpha-tocopherol)",mg,1.20,1.73,2.83
+Lipids
+"Fatty acids, total saturated",g,1.630,2.347,3.847
+"Fatty acids, total monounsaturated",g,0.899,1.295,2.122
+"Fatty acids, total polyunsaturated",g,0.720,1.037,1.699
+"Fatty acids, total trans",g,0.097,0.140,0.229
+"Cholesterol",mg,8,12,19
+Amino Acids
+Other

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:20 EST
+"Nutrient data for: 42230, Salad Dressing, coleslaw dressing, reduced fat"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 17.0g","1 cup = 269.0g",
+Proximates
+"Water",g,37.00,6.29,99.53
+"Energy",kcal,329,56,885
+"Protein",g,0.00,0.00,0.00
+"Total lipid (fat)",g,20.00,3.40,53.80
+"Carbohydrate, by difference",g,40.00,6.80,107.60
+"Fiber, total dietary",g,0.4,0.1,1.1
+"Sugars, total",g,38.73,6.58,104.18
+Minerals
+"Calcium, Ca",mg,36,6,97
+"Iron, Fe",mg,0.26,0.04,0.70
+"Magnesium, Mg",mg,5,1,13
+"Phosphorus, P",mg,30,5,81
+"Potassium, K",mg,50,8,134
+"Sodium, Na",mg,1600,272,4304
+"Zinc, Zn",mg,0.18,0.03,0.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.010,0.002,0.027
+"Riboflavin",mg,0.010,0.002,0.027
+"Niacin",mg,0.250,0.043,0.672
+"Vitamin B-6",mg,0.020,0.003,0.054
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.10,0.02,0.27
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,1,0,3
+"Vitamin E (alpha-tocopherol)",mg,1.84,0.31,4.95
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,39.5,6.7,106.3
+Lipids
+"Fatty acids, total saturated",g,2.980,0.507,8.016
+"Fatty acids, total monounsaturated",g,8.600,1.462,23.134
+"Fatty acids, total polyunsaturated",g,7.520,1.278,20.229
+"Cholesterol",mg,25,4,67
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

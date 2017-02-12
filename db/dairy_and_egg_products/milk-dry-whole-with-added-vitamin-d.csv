@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:09 EST
+"Nutrient data for: 01090, Milk, dry, whole, with added vitamin D"
+Nutrient,Unit,1Value per 100 g,"0.25 cup = 32.0g","1 cup = 128.0g",
+Proximates
+"Water",g,2.47,0.79,3.16
+"Energy",kcal,496,159,635
+"Protein",g,26.32,8.42,33.69
+"Total lipid (fat)",g,26.71,8.55,34.19
+"Carbohydrate, by difference",g,38.42,12.29,49.18
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,38.42,12.29,49.18
+Minerals
+"Calcium, Ca",mg,912,292,1167
+"Iron, Fe",mg,0.47,0.15,0.60
+"Magnesium, Mg",mg,85,27,109
+"Phosphorus, P",mg,776,248,993
+"Potassium, K",mg,1330,426,1702
+"Sodium, Na",mg,371,119,475
+"Zinc, Zn",mg,3.34,1.07,4.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.6,2.8,11.0
+"Thiamin",mg,0.283,0.091,0.362
+"Riboflavin",mg,1.205,0.386,1.542
+"Niacin",mg,0.646,0.207,0.827
+"Vitamin B-6",mg,0.302,0.097,0.387
+"Folate, DFE",µg,37,12,47
+"Vitamin B-12",µg,3.25,1.04,4.16
+"Vitamin A, RAE",µg,258,83,330
+"Vitamin A, IU",IU,934,299,1196
+"Vitamin E (alpha-tocopherol)",mg,0.58,0.19,0.74
+"Vitamin D (D2 + D3)",µg,10.5,3.4,13.4
+"Vitamin D",IU,420,134,538
+"Vitamin K (phylloquinone)",µg,2.2,0.7,2.8
+Lipids
+"Fatty acids, total saturated",g,16.742,5.357,21.430
+"Fatty acids, total monounsaturated",g,7.924,2.536,10.143
+"Fatty acids, total polyunsaturated",g,0.665,0.213,0.851
+"Cholesterol",mg,97,31,124
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:32 EST
+"Nutrient data for: 11581, Vegetables, mixed, canned, drained solids"
+Nutrient,Unit,1Value per 100 g,"1 cup = 163.0g",
+Proximates
+"Water",g,87.01,141.83
+"Energy",kcal,49,80
+"Protein",g,2.59,4.22
+"Total lipid (fat)",g,0.25,0.41
+"Carbohydrate, by difference",g,9.26,15.09
+"Fiber, total dietary",g,3.0,4.9
+"Sugars, total",g,2.41,3.93
+Minerals
+"Calcium, Ca",mg,27,44
+"Iron, Fe",mg,1.05,1.71
+"Magnesium, Mg",mg,16,26
+"Phosphorus, P",mg,42,68
+"Potassium, K",mg,291,474
+"Sodium, Na",mg,214,349
+"Zinc, Zn",mg,0.41,0.67
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.0,8.2
+"Thiamin",mg,0.046,0.075
+"Riboflavin",mg,0.048,0.078
+"Niacin",mg,0.577,0.941
+"Vitamin B-6",mg,0.079,0.129
+"Folate, DFE",µg,24,39
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,583,950
+"Vitamin A, IU",IU,11651,18991
+"Vitamin E (alpha-tocopherol)",mg,0.29,0.47
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,18.2,29.7
+Lipids
+"Fatty acids, total saturated",g,0.051,0.083
+"Fatty acids, total monounsaturated",g,0.016,0.026
+"Fatty acids, total polyunsaturated",g,0.119,0.194
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(a)"Mixture includes carrots, green peas, snap beans, and lima beans."

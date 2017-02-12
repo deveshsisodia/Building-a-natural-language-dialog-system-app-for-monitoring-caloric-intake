@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:57 EST
+"Nutrient data for: 16336, Beans, kidney, royal red, mature seeds, cooked, boiled with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 177.0g",
+Proximates
+"Water",g,66.99,118.57
+"Energy",kcal,123,218
+"Protein",g,9.49,16.80
+"Total lipid (fat)",g,0.17,0.30
+"Carbohydrate, by difference",g,21.85,38.67
+"Fiber, total dietary",g,9.3,16.5
+Minerals
+"Calcium, Ca",mg,44,78
+"Iron, Fe",mg,2.77,4.90
+"Magnesium, Mg",mg,42,74
+"Phosphorus, P",mg,142,251
+"Potassium, K",mg,378,669
+"Sodium, Na",mg,241,427
+"Zinc, Zn",mg,0.90,1.59
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.2,2.1
+"Thiamin",mg,0.095,0.168
+"Riboflavin",mg,0.067,0.119
+"Niacin",mg,0.552,0.977
+"Vitamin B-6",mg,0.104,0.184
+"Folate, DFE",µg,74,131
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,3,5
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.024,0.042
+"Fatty acids, total monounsaturated",g,0.013,0.023
+"Fatty acids, total polyunsaturated",g,0.093,0.165
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

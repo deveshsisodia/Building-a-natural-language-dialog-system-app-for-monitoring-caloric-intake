@@ -1,0 +1,31 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:21 EST
+"Nutrient data for: 04011, Salad dressing, KRAFT Mayo Light Mayonnaise"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g",
+Proximates
+"Water",g,55.40,8.31
+"Energy",kcal,334,50
+"Protein",g,0.60,0.09
+"Total lipid (fat)",g,32.90,4.93
+"Carbohydrate, by difference",g,8.50,1.27
+"Fiber, total dietary",g,0.1,0.0
+"Sugars, total",g,4.20,0.63
+Minerals
+"Calcium, Ca",mg,6,1
+"Iron, Fe",mg,0.20,0.03
+"Phosphorus, P",mg,58,9
+"Potassium, K",mg,52,8
+"Sodium, Na",mg,633,95
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.0
+"Vitamin A, IU",IU,185,28
+"Vitamin K (phylloquinone)",µg,155.1,23.3
+Lipids
+"Fatty acids, total saturated",g,5.000,0.750
+"Cholesterol",mg,35,5
+Amino Acids
+Other
+Footnotes
+(b)"Added nutrient"
+(a)"Contains other proximate components."

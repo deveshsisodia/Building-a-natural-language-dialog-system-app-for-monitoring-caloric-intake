@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:55 EST
+"Nutrient data for: 15142, Crustaceans, crab, blue, crab cakes, home recipe"
+Nutrient,Unit,1Value per 100 g,"1 cake = 60.0g",
+Proximates
+"Water",g,71.00,42.60
+"Energy",kcal,155,93
+"Protein",g,20.21,12.13
+"Total lipid (fat)",g,7.52,4.51
+"Carbohydrate, by difference",g,0.48,0.29
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,105,63
+"Iron, Fe",mg,1.08,0.65
+"Magnesium, Mg",mg,33,20
+"Phosphorus, P",mg,213,128
+"Potassium, K",mg,324,194
+"Sodium, Na",mg,330,198
+"Zinc, Zn",mg,4.09,2.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.8,1.7
+"Thiamin",mg,0.090,0.054
+"Riboflavin",mg,0.080,0.048
+"Niacin",mg,2.900,1.740
+"Vitamin B-6",mg,0.170,0.102
+"Folate, DFE",µg,61,37
+"Vitamin B-12",µg,5.94,3.56
+"Vitamin A, RAE",µg,57,34
+"Vitamin A, IU",IU,252,151
+Lipids
+"Fatty acids, total saturated",g,1.483,0.890
+"Fatty acids, total monounsaturated",g,2.815,1.689
+"Fatty acids, total polyunsaturated",g,2.273,1.364
+"Cholesterol",mg,150,90
+Amino Acids
+Other

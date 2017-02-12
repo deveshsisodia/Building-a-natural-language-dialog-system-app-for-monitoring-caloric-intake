@@ -1,0 +1,45 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:08 EST
+"Nutrient data for: 12104, Nuts, coconut meat, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, shredded = 80.0g","1 medium = 397.0g","1 piece (2"" x 2"" x 1/2"") = 45.0g",
+Proximates
+"Water",g,46.99,37.59,186.55,21.15
+"Energy",kcal,354,283,1405,159
+"Protein",g,3.33,2.66,13.22,1.50
+"Total lipid (fat)",g,33.49,26.79,132.96,15.07
+"Carbohydrate, by difference",g,15.23,12.18,60.46,6.85
+"Fiber, total dietary",g,9.0,7.2,35.7,4.0
+"Sugars, total",g,6.23,4.98,24.73,2.80
+Minerals
+"Calcium, Ca",mg,14,11,56,6
+"Iron, Fe",mg,2.43,1.94,9.65,1.09
+"Magnesium, Mg",mg,32,26,127,14
+"Phosphorus, P",mg,113,90,449,51
+"Potassium, K",mg,356,285,1413,160
+"Sodium, Na",mg,20,16,79,9
+"Zinc, Zn",mg,1.10,0.88,4.37,0.50
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.3,2.6,13.1,1.5
+"Thiamin",mg,0.066,0.053,0.262,0.030
+"Riboflavin",mg,0.020,0.016,0.079,0.009
+"Niacin",mg,0.540,0.432,2.144,0.243
+"Vitamin B-6",mg,0.054,0.043,0.214,0.024
+"Folate, DFE",µg,26,21,103,12
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.24,0.19,0.95,0.11
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.2,0.2,0.8,0.1
+Lipids
+"Fatty acids, total saturated",g,29.698,23.758,117.901,13.364
+"Fatty acids, total monounsaturated",g,1.425,1.140,5.657,0.641
+"Fatty acids, total polyunsaturated",g,0.366,0.293,1.453,0.165
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0
+Footnotes
+(a)"From mature coconut."

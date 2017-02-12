@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:06 EST
+"Nutrient data for: 01029, Cheese, mozzarella, low moisture, part-skim"
+Nutrient,Unit,1Value per 100 g,"1 cup, diced = 132.0g","1 cup, shredded = 113.0g","1 oz = 28.35g","1 cubic inch = 18.0g","1 slice (1 oz) = 28.0g",
+Proximates
+"Water",g,47.07,62.13,53.19,13.34,8.47,13.18
+"Energy",kcal,295,389,333,84,53,83
+"Protein",g,23.75,31.35,26.84,6.73,4.28,6.65
+"Total lipid (fat)",g,19.78,26.11,22.35,5.61,3.56,5.54
+"Carbohydrate, by difference",g,5.58,7.37,6.31,1.58,1.00,1.56
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,1.90,2.51,2.15,0.54,0.34,0.53
+Minerals
+"Calcium, Ca",mg,697,920,788,198,125,195
+"Iron, Fe",mg,0.22,0.29,0.25,0.06,0.04,0.06
+"Magnesium, Mg",mg,27,36,31,8,5,8
+"Phosphorus, P",mg,548,723,619,155,99,153
+"Potassium, K",mg,188,248,212,53,34,53
+"Sodium, Na",mg,666,879,753,189,120,186
+"Zinc, Zn",mg,3.62,4.78,4.09,1.03,0.65,1.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.024,0.032,0.027,0.007,0.004,0.007
+"Riboflavin",mg,0.353,0.466,0.399,0.100,0.064,0.099
+"Niacin",mg,0.111,0.147,0.125,0.031,0.020,0.031
+"Vitamin B-6",mg,0.100,0.132,0.113,0.028,0.018,0.028
+"Folate, DFE",µg,27,36,31,8,5,8
+"Vitamin B-12",µg,1.68,2.22,1.90,0.48,0.30,0.47
+"Vitamin A, RAE",µg,223,294,252,63,40,62
+"Vitamin A, IU",IU,829,1094,937,235,149,232
+"Vitamin E (alpha-tocopherol)",mg,0.50,0.66,0.56,0.14,0.09,0.14
+"Vitamin D (D2 + D3)",µg,0.4,0.5,0.5,0.1,0.1,0.1
+"Vitamin D",IU,15,20,17,4,3,4
+"Vitamin K (phylloquinone)",µg,1.3,1.7,1.5,0.4,0.2,0.4
+Lipids
+"Fatty acids, total saturated",g,11.295,14.909,12.763,3.202,2.033,3.163
+"Fatty acids, total monounsaturated",g,5.741,7.578,6.487,1.628,1.033,1.607
+"Fatty acids, total polyunsaturated",g,1.019,1.345,1.151,0.289,0.183,0.285
+"Fatty acids, total trans",g,0.720,0.950,0.814,0.204,0.130,0.202
+"Cholesterol",mg,64,84,72,18,12,18
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

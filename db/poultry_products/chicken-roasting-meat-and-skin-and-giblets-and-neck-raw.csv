@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:38 EST
+"Nutrient data for: 05109, Chicken, roasting, meat and skin and giblets and neck, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 chicken = 1509.0g",
+Proximates
+"Water",g,65.98,56.08,995.64
+"Energy",kcal,213,181,3214
+"Protein",g,17.09,14.53,257.89
+"Total lipid (fat)",g,15.46,13.14,233.29
+"Carbohydrate, by difference",g,0.09,0.08,1.36
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,10,8,151
+"Iron, Fe",mg,1.37,1.16,20.67
+"Magnesium, Mg",mg,19,16,287
+"Phosphorus, P",mg,165,140,2490
+"Potassium, K",mg,196,167,2958
+"Sodium, Na",mg,69,59,1041
+"Zinc, Zn",mg,1.28,1.09,19.32
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.4,2.0,36.2
+"Thiamin",mg,0.059,0.050,0.890
+"Riboflavin",mg,0.171,0.145,2.580
+"Niacin",mg,6.427,5.463,96.983
+"Vitamin B-6",mg,0.320,0.272,4.829
+"Folate, DFE",µg,26,22,392
+"Vitamin B-12",µg,0.99,0.84,14.94
+"Vitamin A, RAE",µg,253,215,3818
+"Vitamin A, IU",IU,843,717,12721
+Lipids
+"Fatty acids, total saturated",g,4.410,3.749,66.547
+"Fatty acids, total monounsaturated",g,6.390,5.431,96.425
+"Fatty acids, total polyunsaturated",g,3.330,2.831,50.250
+"Cholesterol",mg,86,73,1298
+Amino Acids
+Other

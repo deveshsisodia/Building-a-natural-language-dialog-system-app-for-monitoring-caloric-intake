@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:32 EST
+"Nutrient data for: 13958, Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0"" fat, select, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 roast = 252.0g",
+Proximates
+"Water",g,70.73,60.12,178.24
+"Energy",kcal,157,133,396
+"Protein",g,20.64,17.54,52.01
+"Total lipid (fat)",g,7.68,6.53,19.35
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,24,20,60
+"Iron, Fe",mg,1.51,1.28,3.81
+"Magnesium, Mg",mg,21,18,53
+"Phosphorus, P",mg,194,165,489
+"Potassium, K",mg,321,273,809
+"Sodium, Na",mg,53,45,134
+"Zinc, Zn",mg,3.54,3.01,8.92
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.074,0.063,0.186
+"Riboflavin",mg,0.112,0.095,0.282
+"Niacin",mg,5.516,4.689,13.900
+"Vitamin B-6",mg,0.570,0.484,1.436
+"Folate, DFE",µg,11,9,28
+"Vitamin B-12",µg,0.98,0.83,2.47
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.31,0.26,0.78
+"Vitamin K (phylloquinone)",µg,1.2,1.0,3.0
+Lipids
+"Fatty acids, total saturated",g,2.822,2.399,7.111
+"Fatty acids, total monounsaturated",g,3.816,3.244,9.616
+"Fatty acids, total polyunsaturated",g,0.354,0.301,0.892
+"Cholesterol",mg,65,55,164
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

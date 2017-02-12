@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 19050, Snacks, pretzels, hard, whole-wheat including both salted and unsalted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","2.0 oz = 57.0g",
+Proximates
+"Water",g,3.90,1.11,2.22
+"Energy",kcal,362,103,206
+"Protein",g,11.10,3.15,6.33
+"Total lipid (fat)",g,2.60,0.74,1.48
+"Carbohydrate, by difference",g,81.30,23.05,46.34
+"Fiber, total dietary",g,7.7,2.2,4.4
+Minerals
+"Calcium, Ca",mg,28,8,16
+"Iron, Fe",mg,2.69,0.76,1.53
+"Magnesium, Mg",mg,30,9,17
+"Phosphorus, P",mg,125,35,71
+"Potassium, K",mg,430,122,245
+"Sodium, Na",mg,203,58,116
+"Zinc, Zn",mg,0.62,0.18,0.35
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.3,0.6
+"Thiamin",mg,0.440,0.125,0.251
+"Riboflavin",mg,0.291,0.082,0.166
+"Niacin",mg,6.537,1.853,3.726
+"Vitamin B-6",mg,0.274,0.078,0.156
+"Folate, DFE",µg,54,15,31
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.560,0.159,0.319
+"Fatty acids, total monounsaturated",g,1.030,0.292,0.587
+"Fatty acids, total polyunsaturated",g,0.830,0.235,0.473
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

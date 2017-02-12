@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:26 EST
+"Nutrient data for: 36030, DENNY'S, hash browns"
+Nutrient,Unit,1Value per 100 g,"1 serving = 124.0g","1 cup = 94.0g",
+Proximates
+"Water",g,59.85,74.21,56.26
+"Energy",kcal,197,244,185
+"Protein",g,2.49,3.09,2.34
+"Total lipid (fat)",g,8.99,11.15,8.45
+"Carbohydrate, by difference",g,26.59,32.97,24.99
+"Fiber, total dietary",g,2.7,3.3,2.5
+"Sugars, total",g,1.38,1.71,1.30
+Minerals
+"Calcium, Ca",mg,17,21,16
+"Iron, Fe",mg,0.56,0.69,0.53
+"Magnesium, Mg",mg,26,32,24
+"Phosphorus, P",mg,71,88,67
+"Potassium, K",mg,416,516,391
+"Sodium, Na",mg,468,580,440
+"Zinc, Zn",mg,0.29,0.36,0.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.007,0.009,0.007
+"Riboflavin",mg,0.048,0.060,0.045
+"Niacin",mg,2.170,2.691,2.040
+"Vitamin B-6",mg,0.203,0.252,0.191
+"Vitamin E (alpha-tocopherol)",mg,0.55,0.68,0.52
+"Vitamin K (phylloquinone)",µg,32.6,40.4,30.6
+Lipids
+"Fatty acids, total saturated",g,1.689,2.094,1.588
+"Fatty acids, total monounsaturated",g,2.035,2.523,1.913
+"Fatty acids, total polyunsaturated",g,5.029,6.236,4.727
+"Fatty acids, total trans",g,0.048,0.060,0.045
+Amino Acids
+Other

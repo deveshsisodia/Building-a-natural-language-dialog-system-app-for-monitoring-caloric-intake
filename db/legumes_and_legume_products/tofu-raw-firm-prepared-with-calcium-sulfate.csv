@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:01 EST
+"Nutrient data for: 16426, Tofu, raw, firm, prepared with calcium sulfate"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 126.0g","0.25 block = 81.0g",
+Proximates
+"Water",g,69.83,87.99,56.56
+"Energy",kcal,144,181,117
+"Protein",g,17.27,21.76,13.99
+"Total lipid (fat)",g,8.72,10.99,7.06
+"Carbohydrate, by difference",g,2.78,3.50,2.25
+"Fiber, total dietary",g,2.3,2.9,1.9
+Minerals
+"Calcium, Ca",mg,683,861,553
+"Iron, Fe",mg,2.66,3.35,2.15
+"Magnesium, Mg",mg,58,73,47
+"Phosphorus, P",mg,190,239,154
+"Potassium, K",mg,237,299,192
+"Sodium, Na",mg,14,18,11
+"Zinc, Zn",mg,1.57,1.98,1.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.3,0.2
+"Thiamin",mg,0.158,0.199,0.128
+"Riboflavin",mg,0.102,0.129,0.083
+"Niacin",mg,0.381,0.480,0.309
+"Vitamin B-6",mg,0.092,0.116,0.075
+"Folate, DFE",µg,29,37,23
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, IU",IU,166,209,134
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.261,1.589,1.021
+"Fatty acids, total monounsaturated",g,1.925,2.425,1.559
+"Fatty acids, total polyunsaturated",g,4.921,6.200,3.986
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

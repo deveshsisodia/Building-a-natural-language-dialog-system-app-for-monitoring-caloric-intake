@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:31 EST
+"Nutrient data for: 02051, Vanilla extract, imitation, alcohol"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 4.2g","1 tbsp = 13.0g",
+Proximates
+"Water",g,64.46,2.71,8.38
+"Energy",kcal,237,10,31
+"Protein",g,0.05,0.00,0.01
+"Total lipid (fat)",g,0.00,0.00,0.00
+"Carbohydrate, by difference",g,2.41,0.10,0.31
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,0,0,0
+"Iron, Fe",mg,0.13,0.01,0.02
+"Magnesium, Mg",mg,5,0,1
+"Phosphorus, P",mg,22,1,3
+"Potassium, K",mg,98,4,13
+"Sodium, Na",mg,4,0,1
+"Zinc, Zn",mg,0.06,0.00,0.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.008,0.000,0.001
+"Riboflavin",mg,0.071,0.003,0.009
+"Niacin",mg,0.318,0.013,0.041
+"Vitamin B-6",mg,0.019,0.001,0.002
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

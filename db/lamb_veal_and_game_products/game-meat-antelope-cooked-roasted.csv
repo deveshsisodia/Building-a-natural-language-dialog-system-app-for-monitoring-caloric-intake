@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:51 EST
+"Nutrient data for: 17145, Game meat, antelope, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked (yield from 1 lb raw meat, boneless) = 340.0g",
+Proximates
+"Water",g,65.90,56.02,224.06
+"Energy",kcal,150,128,510
+"Protein",g,29.45,25.03,100.13
+"Total lipid (fat)",g,2.67,2.27,9.08
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,4,3,14
+"Iron, Fe",mg,4.20,3.57,14.28
+"Magnesium, Mg",mg,28,24,95
+"Phosphorus, P",mg,210,178,714
+"Potassium, K",mg,372,316,1265
+"Sodium, Na",mg,54,46,184
+"Zinc, Zn",mg,1.68,1.43,5.71
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.260,0.221,0.884
+"Riboflavin",mg,0.730,0.620,2.482
+"Folate, DFE",µg,9,8,31
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.970,0.825,3.298
+"Fatty acids, total monounsaturated",g,0.630,0.535,2.142
+"Fatty acids, total polyunsaturated",g,0.580,0.493,1.972
+"Cholesterol",mg,126,107,428
+Amino Acids
+Other

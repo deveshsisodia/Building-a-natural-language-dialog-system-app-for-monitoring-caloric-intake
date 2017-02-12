@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:21 EST
+"Nutrient data for: 22975, Chicken, nuggets, white meat, precooked, frozen, not reheated"
+Nutrient,Unit,1Value per 100 g,"1 serving = 82.0g","1 piece = 20.0g",
+Proximates
+"Water",g,51.90,42.56,10.38
+"Energy",kcal,261,214,52
+"Protein",g,14.36,11.78,2.87
+"Total lipid (fat)",g,15.42,12.64,3.08
+"Carbohydrate, by difference",g,16.24,13.32,3.25
+"Fiber, total dietary",g,0.7,0.6,0.1
+"Sugars, total",g,1.27,1.04,0.25
+Minerals
+"Calcium, Ca",mg,38,31,8
+"Iron, Fe",mg,1.43,1.17,0.29
+"Magnesium, Mg",mg,35,29,7
+"Phosphorus, P",mg,213,175,43
+"Potassium, K",mg,281,230,56
+"Sodium, Na",mg,538,441,108
+"Zinc, Zn",mg,0.75,0.61,0.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.106,0.087,0.021
+"Riboflavin",mg,0.055,0.045,0.011
+"Niacin",mg,6.736,5.524,1.347
+"Vitamin B-6",mg,0.331,0.271,0.066
+"Folate, DFE",µg,5,4,1
+"Vitamin B-12",µg,0.23,0.19,0.05
+"Vitamin A, RAE",µg,16,13,3
+"Vitamin A, IU",IU,53,43,11
+"Vitamin E (alpha-tocopherol)",mg,1.18,0.97,0.24
+"Vitamin K (phylloquinone)",µg,10.0,8.2,2.0
+Lipids
+"Fatty acids, total saturated",g,3.366,2.760,0.673
+"Fatty acids, total monounsaturated",g,4.667,3.827,0.933
+"Fatty acids, total polyunsaturated",g,6.168,5.058,1.234
+"Fatty acids, total trans",g,0.082,0.067,0.016
+"Cholesterol",mg,34,28,7
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

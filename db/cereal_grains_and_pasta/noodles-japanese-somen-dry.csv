@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:12 EST
+"Nutrient data for: 20116, Noodles, japanese, somen, dry"
+Nutrient,Unit,1Value per 100 g,"2.0 oz = 57.0g",
+Proximates
+"Water",g,9.21,5.25
+"Energy",kcal,356,203
+"Protein",g,11.35,6.47
+"Total lipid (fat)",g,0.81,0.46
+"Carbohydrate, by difference",g,74.10,42.24
+"Fiber, total dietary",g,4.3,2.5
+Minerals
+"Calcium, Ca",mg,23,13
+"Iron, Fe",mg,1.32,0.75
+"Magnesium, Mg",mg,28,16
+"Phosphorus, P",mg,80,46
+"Potassium, K",mg,164,93
+"Sodium, Na",mg,1840,1049
+"Zinc, Zn",mg,0.45,0.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.101,0.058
+"Riboflavin",mg,0.026,0.015
+"Niacin",mg,0.875,0.499
+"Vitamin B-6",mg,0.050,0.029
+"Folate, DFE",µg,14,8
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.115,0.066
+"Fatty acids, total monounsaturated",g,0.095,0.054
+"Fatty acids, total polyunsaturated",g,0.330,0.188
+"Cholesterol",mg,0,0
+Amino Acids
+Other

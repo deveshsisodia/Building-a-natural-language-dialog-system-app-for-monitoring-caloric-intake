@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:21 EST
+"Nutrient data for: 04017, Salad dressing, thousand island, commercial, regular"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 16.0g","1 cup = 250.0g","1 serving (2 tbsp) = 30.0g",
+Proximates
+"Water",g,46.51,7.44,116.28,13.95
+"Energy",kcal,379,61,948,114
+"Protein",g,1.09,0.17,2.73,0.33
+"Total lipid (fat)",g,35.06,5.61,87.65,10.52
+"Carbohydrate, by difference",g,14.64,2.34,36.60,4.39
+"Fiber, total dietary",g,0.8,0.1,2.0,0.2
+"Sugars, total",g,15.18,2.43,37.95,4.55
+Minerals
+"Calcium, Ca",mg,17,3,42,5
+"Iron, Fe",mg,1.18,0.19,2.95,0.35
+"Magnesium, Mg",mg,8,1,20,2
+"Phosphorus, P",mg,27,4,68,8
+"Potassium, K",mg,107,17,268,32
+"Sodium, Na",mg,962,154,2405,289
+"Zinc, Zn",mg,0.26,0.04,0.65,0.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,1.445,0.231,3.612,0.433
+"Riboflavin",mg,0.058,0.009,0.145,0.017
+"Niacin",mg,0.418,0.067,1.045,0.125
+"Vitamin B-6",mg,0.000,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,14,2,35,4
+"Vitamin A, IU",IU,213,34,532,64
+"Vitamin E (alpha-tocopherol)",mg,4.00,0.64,10.00,1.20
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,69.1,11.1,172.8,20.7
+Lipids
+"Fatty acids, total saturated",g,5.092,0.815,12.730,1.528
+"Fatty acids, total monounsaturated",g,7.881,1.261,19.703,2.364
+"Fatty acids, total polyunsaturated",g,18.220,2.915,45.550,5.466
+"Cholesterol",mg,26,4,65,8
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:20 EST
+"Nutrient data for: 11910, Corn, sweet, white, frozen, kernels cut off cob, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 cup = 165.0g","1 package (10 oz) = 284.0g",
+Proximates
+"Water",g,75.00,123.75,213.00
+"Energy",kcal,88,145,250
+"Protein",g,3.02,4.98,8.58
+"Total lipid (fat)",g,0.77,1.27,2.19
+"Carbohydrate, by difference",g,20.73,34.20,58.87
+"Fiber, total dietary",g,2.9,4.8,8.2
+"Sugars, total",g,9.09,15.00,25.82
+Minerals
+"Calcium, Ca",mg,4,7,11
+"Iron, Fe",mg,0.41,0.68,1.16
+"Magnesium, Mg",mg,18,30,51
+"Phosphorus, P",mg,70,116,199
+"Potassium, K",mg,213,351,605
+"Sodium, Na",mg,3,5,9
+"Zinc, Zn",mg,0.37,0.61,1.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.3,10.4,17.9
+"Thiamin",mg,0.083,0.137,0.236
+"Riboflavin",mg,0.070,0.116,0.199
+"Niacin",mg,1.726,2.848,4.902
+"Vitamin B-6",mg,0.178,0.294,0.506
+"Folate, DFE",µg,36,59,102
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,3,5,9
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.5,0.9
+Lipids
+"Fatty acids, total saturated",g,0.184,0.304,0.523
+"Fatty acids, total monounsaturated",g,0.182,0.300,0.517
+"Fatty acids, total polyunsaturated",g,0.342,0.564,0.971
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:52 EST
+"Nutrient data for: 17338, Game meat, elk, ground, raw"
+Nutrient,Unit,1Value per 100 g,"1 patty ( yield from 102.2 g raw meat ) = 102.0g",
+Proximates
+"Water",g,68.84,70.22
+"Energy",kcal,172,175
+"Protein",g,21.76,22.20
+"Total lipid (fat)",g,8.82,9.00
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,12,12
+"Iron, Fe",mg,2.75,2.81
+"Magnesium, Mg",mg,22,22
+"Phosphorus, P",mg,195,199
+"Potassium, K",mg,322,328
+"Sodium, Na",mg,79,81
+"Zinc, Zn",mg,5.40,5.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.125,0.128
+"Riboflavin",mg,0.260,0.265
+"Niacin",mg,4.890,4.988
+"Vitamin B-6",mg,0.336,0.343
+"Folate, DFE",µg,7,7
+"Vitamin B-12",µg,2.13,2.17
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.28,0.29
+Lipids
+"Fatty acids, total saturated",g,3.469,3.538
+"Fatty acids, total monounsaturated",g,2.507,2.557
+"Fatty acids, total polyunsaturated",g,0.415,0.423
+"Cholesterol",mg,66,67
+Amino Acids
+Other
+"Caffeine",mg,0,0

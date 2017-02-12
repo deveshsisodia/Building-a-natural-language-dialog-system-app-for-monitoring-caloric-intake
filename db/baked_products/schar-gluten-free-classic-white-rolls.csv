@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:45 EST
+"Nutrient data for: 28368, SCHAR, Gluten-Free, Classic White Rolls"
+Nutrient,Unit,1Value per 100 g,"1 roll = 78.0g",
+Proximates
+"Water",g,42.00,32.76
+"Energy",kcal,239,186
+"Protein",g,3.34,2.61
+"Total lipid (fat)",g,2.65,2.07
+"Carbohydrate, by difference",g,50.47,39.37
+"Fiber, total dietary",g,5.1,4.0
+"Sugars, total",g,6.87,5.36
+Minerals
+"Calcium, Ca",mg,180,140
+"Iron, Fe",mg,3.57,2.78
+"Magnesium, Mg",mg,13,10
+"Phosphorus, P",mg,50,39
+"Potassium, K",mg,76,59
+"Sodium, Na",mg,593,463
+"Zinc, Zn",mg,0.56,0.44
+Vitamins
+"Thiamin",mg,0.615,0.480
+"Riboflavin",mg,0.480,0.374
+"Niacin",mg,3.875,3.022
+"Vitamin B-6",mg,0.037,0.029
+Lipids
+"Fatty acids, total saturated",g,0.215,0.168
+"Fatty acids, total monounsaturated",g,1.353,1.055
+"Fatty acids, total polyunsaturated",g,0.637,0.497
+"Fatty acids, total trans",g,0.008,0.006
+Amino Acids
+Other

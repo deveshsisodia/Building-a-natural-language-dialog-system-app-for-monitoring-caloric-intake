@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:50 EST
+"Nutrient data for: 10974, Pork, ground, 72% lean / 28% fat, cooked, crumbles"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 113.0g",
+Proximates
+"Water",g,41.67,47.09
+"Energy",kcal,393,444
+"Protein",g,22.83,25.80
+"Total lipid (fat)",g,32.93,37.21
+"Carbohydrate, by difference",g,1.39,1.57
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,20,23
+"Iron, Fe",mg,1.15,1.30
+"Magnesium, Mg",mg,19,21
+"Phosphorus, P",mg,192,217
+"Potassium, K",mg,280,316
+"Sodium, Na",mg,94,106
+"Zinc, Zn",mg,2.58,2.92
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.341,0.385
+"Riboflavin",mg,0.488,0.551
+"Niacin",mg,7.522,8.500
+"Vitamin B-6",mg,0.508,0.574
+"Folate, DFE",µg,2,2
+"Vitamin B-12",µg,1.17,1.32
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.35,0.40
+"Vitamin D (D2 + D3)",µg,0.8,0.9
+"Vitamin D",IU,34,38
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,11.311,12.781
+"Fatty acids, total monounsaturated",g,15.326,17.318
+"Fatty acids, total polyunsaturated",g,4.323,4.885
+"Fatty acids, total trans",g,0.256,0.289
+"Cholesterol",mg,100,113
+Amino Acids
+Other
+"Caffeine",mg,0,0

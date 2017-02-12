@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:19 EST
+"Nutrient data for: 04053, Oil, olive, salad or cooking"
+Nutrient,Unit,1Value per 100 g,"1 tablespoon = 13.5g","1 cup = 216.0g","1 tsp = 4.5g",
+Proximates
+"Water",g,0.00,0.00,0.00,0.00
+"Energy",kcal,884,119,1909,40
+"Protein",g,0.00,0.00,0.00,0.00
+"Total lipid (fat)",g,100.00,13.50,216.00,4.50
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,1,0,2,0
+"Iron, Fe",mg,0.56,0.08,1.21,0.03
+"Magnesium, Mg",mg,0,0,0,0
+"Phosphorus, P",mg,0,0,0,0
+"Potassium, K",mg,1,0,2,0
+"Sodium, Na",mg,2,0,4,0
+"Zinc, Zn",mg,0.00,0.00,0.00,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000,0.000
+"Riboflavin",mg,0.000,0.000,0.000,0.000
+"Niacin",mg,0.000,0.000,0.000,0.000
+"Vitamin B-6",mg,0.000,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,14.35,1.94,31.00,0.65
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,60.2,8.1,130.0,2.7
+Lipids
+"Fatty acids, total saturated",g,13.808,1.864,29.825,0.621
+"Fatty acids, total monounsaturated",g,72.961,9.850,157.596,3.283
+"Fatty acids, total polyunsaturated",g,10.523,1.421,22.730,0.474
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

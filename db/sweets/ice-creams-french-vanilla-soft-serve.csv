@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:43 EST
+"Nutrient data for: 19090, Ice creams, french vanilla, soft-serve"
+Nutrient,Unit,1Value per 100 g,"0.5 cup (4 fl oz) = 86.0g",
+Proximates
+"Water",g,59.80,51.43
+"Energy",kcal,222,191
+"Protein",g,4.10,3.53
+"Total lipid (fat)",g,13.00,11.18
+"Carbohydrate, by difference",g,22.20,19.09
+"Fiber, total dietary",g,0.7,0.6
+"Sugars, total",g,21.16,18.20
+Minerals
+"Calcium, Ca",mg,131,113
+"Iron, Fe",mg,0.21,0.18
+"Magnesium, Mg",mg,12,10
+"Phosphorus, P",mg,116,100
+"Potassium, K",mg,177,152
+"Sodium, Na",mg,61,52
+"Zinc, Zn",mg,0.52,0.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,0.7
+"Thiamin",mg,0.049,0.042
+"Riboflavin",mg,0.182,0.157
+"Niacin",mg,0.095,0.082
+"Vitamin B-6",mg,0.048,0.041
+"Folate, DFE",µg,9,8
+"Vitamin B-12",µg,0.50,0.43
+"Vitamin A, RAE",µg,162,139
+"Vitamin A, IU",IU,589,507
+"Vitamin E (alpha-tocopherol)",mg,0.61,0.52
+"Vitamin D (D2 + D3)",µg,0.7,0.6
+"Vitamin D",IU,29,25
+"Vitamin K (phylloquinone)",µg,0.9,0.8
+Lipids
+"Fatty acids, total saturated",g,7.480,6.433
+"Fatty acids, total monounsaturated",g,3.490,3.001
+"Fatty acids, total polyunsaturated",g,0.450,0.387
+"Cholesterol",mg,91,78
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:23 EST
+"Nutrient data for: 05051, Chicken, broilers or fryers, back, meat and skin, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"1 unit (yield from 1 lb ready-to-cook chicken) = 32.0g","0.5 back, bone removed = 53.0g",
+Proximates
+"Water",g,53.52,17.13,28.37
+"Energy",kcal,300,96,159
+"Protein",g,25.95,8.30,13.75
+"Total lipid (fat)",g,20.97,6.71,11.11
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,21,7,11
+"Iron, Fe",mg,1.42,0.45,0.75
+"Magnesium, Mg",mg,20,6,11
+"Phosphorus, P",mg,154,49,82
+"Potassium, K",mg,210,67,111
+"Sodium, Na",mg,87,28,46
+"Zinc, Zn",mg,2.25,0.72,1.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.061,0.020,0.032
+"Riboflavin",mg,0.195,0.062,0.103
+"Niacin",mg,6.718,2.150,3.561
+"Vitamin B-6",mg,0.270,0.086,0.143
+"Folate, DFE",µg,6,2,3
+"Vitamin B-12",µg,0.27,0.09,0.14
+"Vitamin A, RAE",µg,105,34,56
+"Vitamin A, IU",IU,348,111,184
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.09,0.14
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.1
+"Vitamin D",IU,2,1,1
+"Vitamin K (phylloquinone)",µg,4.9,1.6,2.6
+Lipids
+"Fatty acids, total saturated",g,5.820,1.862,3.085
+"Fatty acids, total monounsaturated",g,8.290,2.653,4.394
+"Fatty acids, total polyunsaturated",g,4.620,1.478,2.449
+"Cholesterol",mg,88,28,47
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

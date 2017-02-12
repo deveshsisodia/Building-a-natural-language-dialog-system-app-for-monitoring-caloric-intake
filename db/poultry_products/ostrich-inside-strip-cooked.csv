@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:38 EST
+"Nutrient data for: 05647, Ostrich, inside strip, cooked"
+Nutrient,Unit,1Value per 100 g,"1 serving ( 3 oz ) = 85.0g",
+Proximates
+"Water",g,66.53,56.55
+"Energy",kcal,164,139
+"Protein",g,29.37,24.96
+"Total lipid (fat)",g,4.26,3.62
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,5,4
+"Iron, Fe",mg,4.80,4.08
+"Magnesium, Mg",mg,26,22
+"Phosphorus, P",mg,253,215
+"Potassium, K",mg,366,311
+"Sodium, Na",mg,73,62
+"Zinc, Zn",mg,4.90,4.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.240,0.204
+"Riboflavin",mg,0.301,0.256
+"Niacin",mg,7.364,6.259
+"Vitamin B-6",mg,0.562,0.478
+"Folate, DFE",µg,16,14
+"Vitamin B-12",µg,6.44,5.47
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.24,0.20
+Lipids
+"Fatty acids, total saturated",g,1.710,1.454
+"Fatty acids, total monounsaturated",g,1.740,1.479
+"Fatty acids, total polyunsaturated",g,0.740,0.629
+"Cholesterol",mg,97,82
+Amino Acids
+Other
+"Caffeine",mg,0,0

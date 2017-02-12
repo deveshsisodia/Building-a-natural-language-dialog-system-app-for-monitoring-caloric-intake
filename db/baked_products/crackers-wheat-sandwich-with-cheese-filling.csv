@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:36 EST
+"Nutrient data for: 18233, Crackers, wheat, sandwich, with cheese filling"
+Nutrient,Unit,1Value per 100 g,"0.5 oz = 14.2g","1 cracker, sandwich = 7.0g",
+Proximates
+"Water",g,3.20,0.45,0.22
+"Energy",kcal,497,71,35
+"Protein",g,9.80,1.39,0.69
+"Total lipid (fat)",g,25.00,3.55,1.75
+"Carbohydrate, by difference",g,58.20,8.26,4.07
+"Fiber, total dietary",g,3.1,0.4,0.2
+Minerals
+"Calcium, Ca",mg,204,29,14
+"Iron, Fe",mg,2.62,0.37,0.18
+"Magnesium, Mg",mg,54,8,4
+"Phosphorus, P",mg,382,54,27
+"Potassium, K",mg,306,43,21
+"Sodium, Na",mg,839,119,59
+"Zinc, Zn",mg,0.87,0.12,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.5,0.2,0.1
+"Thiamin",mg,0.358,0.051,0.025
+"Riboflavin",mg,0.427,0.061,0.030
+"Niacin",mg,3.185,0.452,0.223
+"Vitamin B-6",mg,0.261,0.037,0.018
+"Folate, DFE",µg,96,14,7
+"Vitamin B-12",µg,0.12,0.02,0.01
+"Vitamin A, RAE",µg,21,3,1
+"Vitamin A, IU",IU,71,10,5
+Lipids
+"Fatty acids, total saturated",g,4.129,0.586,0.289
+"Fatty acids, total monounsaturated",g,10.351,1.470,0.725
+"Fatty acids, total polyunsaturated",g,9.166,1.302,0.642
+"Cholesterol",mg,7,1,0
+Amino Acids
+Other

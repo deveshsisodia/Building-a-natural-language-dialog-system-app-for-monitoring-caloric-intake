@@ -1,0 +1,31 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:43 EST
+"Nutrient data for: 28387, PEPPERIDGE FARM, Hamburger Buns w/Sesame"
+Nutrient,Unit,1Value per 100 g,"1 serving = 53.0g",
+Proximates
+"Water",g,33.20,17.60
+"Energy",kcal,280,148
+"Protein",g,0.01,0.01
+"Total lipid (fat)",g,4.08,2.16
+"Carbohydrate, by difference",g,49.90,26.45
+"Fiber, total dietary",g,3.1,1.6
+"Sugars, total",g,7.21,3.82
+Minerals
+"Calcium, Ca",mg,151,80
+"Iron, Fe",mg,2.21,1.17
+"Sodium, Na",mg,379,201
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.5
+"Thiamin",mg,0.320,0.170
+"Riboflavin",mg,0.300,0.159
+"Niacin",mg,3.640,1.929
+"Vitamin A, IU",IU,99,52
+Lipids
+"Fatty acids, total saturated",g,1.000,0.530
+"Fatty acids, total monounsaturated",g,0.870,0.461
+"Fatty acids, total polyunsaturated",g,2.020,1.071
+"Fatty acids, total trans",g,0.020,0.011
+"Cholesterol",mg,1,1
+Amino Acids
+Other

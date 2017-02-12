@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:03 EST
+"Nutrient data for: 42237, Cereals ready-to-eat, WEETABIX whole grain cereal"
+Nutrient,Unit,1Value per 100 g,"2.0 biscuits (1 NLEA serving) = 35.0g","1 cup = 57.0g",
+Proximates
+"Water",g,3.00,1.05,1.71
+"Energy",kcal,371,130,211
+"Protein",g,11.43,4.00,6.52
+"Total lipid (fat)",g,2.86,1.00,1.63
+"Carbohydrate, by difference",g,81.50,28.52,46.45
+"Fiber, total dietary",g,11.4,4.0,6.5
+"Sugars, total",g,5.71,2.00,3.25
+Minerals
+"Calcium, Ca",mg,57,20,32
+"Iron, Fe",mg,12.86,4.50,7.33
+"Magnesium, Mg",mg,92,32,52
+"Phosphorus, P",mg,172,60,98
+"Potassium, K",mg,429,150,245
+"Sodium, Na",mg,371,130,211
+"Zinc, Zn",mg,1.72,0.60,0.98
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,1.929,0.675,1.100
+"Riboflavin",mg,0.980,0.343,0.559
+"Niacin",mg,5.714,2.000,3.257
+"Vitamin B-6",mg,0.460,0.161,0.262
+"Folate, DFE",µg,46,16,26
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,9,3,5
+"Vitamin E (alpha-tocopherol)",mg,0.98,0.34,0.56
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.8,0.6,1.0
+Lipids
+"Fatty acids, total saturated",g,0.480,0.168,0.274
+"Fatty acids, total monounsaturated",g,0.350,0.122,0.199
+"Fatty acids, total polyunsaturated",g,1.170,0.409,0.667
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

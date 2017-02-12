@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:39 EST
+"Nutrient data for: 28066, KEEBLER, CLUB, Minis Multigrain Crackers"
+Nutrient,Unit,1Value per 100 g,"17.0 crackers = 15.0g",
+Proximates
+"Water",g,2.00,0.30
+"Energy",kcal,470,70
+"Protein",g,7.30,1.09
+"Total lipid (fat)",g,19.80,2.97
+"Carbohydrate, by difference",g,67.40,10.11
+"Fiber, total dietary",g,3.7,0.6
+"Sugars, total",g,10.70,1.60
+Minerals
+"Iron, Fe",mg,4.50,0.68
+"Magnesium, Mg",mg,39,6
+"Phosphorus, P",mg,221,33
+"Potassium, K",mg,153,23
+"Sodium, Na",mg,876,131
+"Zinc, Zn",mg,1.30,0.20
+Vitamins
+"Thiamin",mg,0.380,0.057
+"Riboflavin",mg,0.260,0.039
+"Niacin",mg,3.100,0.465
+"Vitamin B-6",mg,0.100,0.015
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,4.500,0.675
+"Fatty acids, total monounsaturated",g,4.800,0.720
+"Fatty acids, total polyunsaturated",g,9.200,1.380
+"Fatty acids, total trans",g,1.000,0.150
+"Cholesterol",mg,0,0
+Amino Acids
+Other

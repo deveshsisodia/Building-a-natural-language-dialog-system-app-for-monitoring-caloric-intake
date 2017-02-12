@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:03 EST
+"Nutrient data for: 15212, Fish, salmon, pink, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","0.5 fillet = 124.0g",
+Proximates
+"Water",g,70.65,60.05,87.61
+"Energy",kcal,153,130,190
+"Protein",g,24.58,20.89,30.48
+"Total lipid (fat)",g,5.28,4.49,6.55
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,8,7,10
+"Iron, Fe",mg,0.45,0.38,0.56
+"Magnesium, Mg",mg,32,27,40
+"Phosphorus, P",mg,313,266,388
+"Potassium, K",mg,439,373,544
+"Sodium, Na",mg,90,76,112
+"Zinc, Zn",mg,0.46,0.39,0.57
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.091,0.077,0.113
+"Riboflavin",mg,0.126,0.107,0.156
+"Niacin",mg,9.588,8.150,11.889
+"Vitamin B-6",mg,0.696,0.592,0.863
+"Folate, DFE",µg,5,4,6
+"Vitamin B-12",µg,4.73,4.02,5.87
+"Vitamin A, RAE",µg,42,36,52
+"Vitamin A, IU",IU,126,107,156
+"Vitamin E (alpha-tocopherol)",mg,0.48,0.41,0.60
+"Vitamin D (D2 + D3)",µg,13.0,11.1,16.1
+"Vitamin D",IU,522,444,647
+"Vitamin K (phylloquinone)",µg,0.5,0.4,0.6
+Lipids
+"Fatty acids, total saturated",g,0.971,0.825,1.204
+"Fatty acids, total monounsaturated",g,1.617,1.374,2.005
+"Fatty acids, total polyunsaturated",g,0.973,0.827,1.207
+"Fatty acids, total trans",g,0.041,0.035,0.051
+"Cholesterol",mg,55,47,68
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

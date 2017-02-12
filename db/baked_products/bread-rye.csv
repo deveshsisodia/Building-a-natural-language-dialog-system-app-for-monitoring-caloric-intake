@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:31 EST
+"Nutrient data for: 18060, Bread, rye"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice, regular = 32.0g","1 slice, snack-size = 7.0g","1 slice, thin = 25.0g",
+Proximates
+"Water",g,37.30,10.57,11.94,2.61,9.32
+"Energy",kcal,259,73,83,18,65
+"Protein",g,8.50,2.41,2.72,0.59,2.12
+"Total lipid (fat)",g,3.30,0.94,1.06,0.23,0.82
+"Carbohydrate, by difference",g,48.30,13.69,15.46,3.38,12.07
+"Fiber, total dietary",g,5.8,1.6,1.9,0.4,1.4
+"Sugars, total",g,3.85,1.09,1.23,0.27,0.96
+Minerals
+"Calcium, Ca",mg,73,21,23,5,18
+"Iron, Fe",mg,2.83,0.80,0.91,0.20,0.71
+"Magnesium, Mg",mg,40,11,13,3,10
+"Phosphorus, P",mg,125,35,40,9,31
+"Potassium, K",mg,166,47,53,12,42
+"Sodium, Na",mg,603,171,193,42,151
+"Zinc, Zn",mg,1.14,0.32,0.36,0.08,0.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.1,0.1,0.0,0.1
+"Thiamin",mg,0.434,0.123,0.139,0.030,0.108
+"Riboflavin",mg,0.335,0.095,0.107,0.023,0.084
+"Niacin",mg,3.805,1.079,1.218,0.266,0.951
+"Vitamin B-6",mg,0.075,0.021,0.024,0.005,0.019
+"Folate, DFE",µg,151,43,48,11,38
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,7,2,2,0,2
+"Vitamin E (alpha-tocopherol)",mg,0.33,0.09,0.11,0.02,0.08
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,1.2,0.3,0.4,0.1,0.3
+Lipids
+"Fatty acids, total saturated",g,0.626,0.177,0.200,0.044,0.157
+"Fatty acids, total monounsaturated",g,1.311,0.372,0.420,0.092,0.328
+"Fatty acids, total polyunsaturated",g,0.799,0.227,0.256,0.056,0.200
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

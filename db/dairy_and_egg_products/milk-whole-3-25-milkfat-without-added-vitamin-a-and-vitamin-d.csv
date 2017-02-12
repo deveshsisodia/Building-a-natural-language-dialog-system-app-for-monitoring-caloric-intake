@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:10 EST
+"Nutrient data for: 01211, Milk, whole, 3.25% milkfat, without added vitamin A and vitamin D"
+Nutrient,Unit,1Value per 100 g,"1 cup = 244.0g","1 tbsp = 15.0g","1 fl oz = 30.5g","1 quart = 976.0g",
+Proximates
+"Water",g,88.13,215.04,13.22,26.88,860.15
+"Energy",kcal,61,149,9,19,595
+"Protein",g,3.15,7.69,0.47,0.96,30.74
+"Total lipid (fat)",g,3.27,7.98,0.49,1.00,31.92
+"Carbohydrate, by difference",g,4.78,11.66,0.72,1.46,46.65
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,5.05,12.32,0.76,1.54,49.29
+Minerals
+"Calcium, Ca",mg,113,276,17,34,1103
+"Iron, Fe",mg,0.03,0.07,0.00,0.01,0.29
+"Magnesium, Mg",mg,10,24,2,3,98
+"Phosphorus, P",mg,84,205,13,26,820
+"Potassium, K",mg,132,322,20,40,1288
+"Sodium, Na",mg,43,105,6,13,420
+"Zinc, Zn",mg,0.37,0.90,0.06,0.11,3.61
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.046,0.112,0.007,0.014,0.449
+"Riboflavin",mg,0.169,0.412,0.025,0.052,1.649
+"Niacin",mg,0.089,0.217,0.013,0.027,0.869
+"Vitamin B-6",mg,0.036,0.088,0.005,0.011,0.351
+"Folate, DFE",µg,5,12,1,2,49
+"Vitamin B-12",µg,0.45,1.10,0.07,0.14,4.39
+"Vitamin A, RAE",µg,46,112,7,14,449
+"Vitamin A, IU",IU,162,395,24,49,1581
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.17,0.01,0.02,0.68
+"Vitamin D (D2 + D3)",µg,0.1,0.2,0.0,0.0,1.0
+"Vitamin D",IU,2,5,0,1,20
+"Vitamin K (phylloquinone)",µg,0.3,0.7,0.0,0.1,2.9
+Lipids
+"Fatty acids, total saturated",g,1.865,4.551,0.280,0.569,18.202
+"Fatty acids, total monounsaturated",g,0.812,1.981,0.122,0.248,7.925
+"Fatty acids, total polyunsaturated",g,0.195,0.476,0.029,0.059,1.903
+"Cholesterol",mg,10,24,2,3,98
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

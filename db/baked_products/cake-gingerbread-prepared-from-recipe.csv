@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18116, Cake, gingerbread, prepared from recipe"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece (1/9 of 8"" square) = 74.0g",
+Proximates
+"Water",g,28.00,7.94,20.72
+"Energy",kcal,356,101,263
+"Protein",g,3.90,1.11,2.89
+"Total lipid (fat)",g,16.40,4.65,12.14
+"Carbohydrate, by difference",g,49.20,13.95,36.41
+Minerals
+"Calcium, Ca",mg,71,20,53
+"Iron, Fe",mg,2.88,0.82,2.13
+"Magnesium, Mg",mg,70,20,52
+"Phosphorus, P",mg,54,15,40
+"Potassium, K",mg,439,124,325
+"Sodium, Na",mg,327,93,242
+"Zinc, Zn",mg,0.39,0.11,0.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0,0.1
+"Thiamin",mg,0.190,0.054,0.141
+"Riboflavin",mg,0.162,0.046,0.120
+"Niacin",mg,1.738,0.493,1.286
+"Vitamin B-6",mg,0.190,0.054,0.141
+"Folate, DFE",µg,51,14,38
+"Vitamin B-12",µg,0.06,0.02,0.04
+"Vitamin A, RAE",µg,14,4,10
+"Vitamin A, IU",IU,48,14,36
+Lipids
+"Fatty acids, total saturated",g,4.122,1.169,3.050
+"Fatty acids, total monounsaturated",g,7.124,2.020,5.272
+"Fatty acids, total polyunsaturated",g,4.216,1.195,3.120
+"Cholesterol",mg,32,9,24
+Amino Acids
+Other

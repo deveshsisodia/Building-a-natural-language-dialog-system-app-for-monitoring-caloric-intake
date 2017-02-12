@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:30 EST
+"Nutrient data for: 11499, Succotash, (corn and limas), canned, with whole kernel corn, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"1 cup = 255.0g",
+Proximates
+"Water",g,81.96,209.00
+"Energy",kcal,63,161
+"Protein",g,2.60,6.63
+"Total lipid (fat)",g,0.49,1.25
+"Carbohydrate, by difference",g,13.98,35.65
+"Fiber, total dietary",g,2.6,6.6
+Minerals
+"Calcium, Ca",mg,11,28
+"Iron, Fe",mg,0.53,1.35
+"Magnesium, Mg",mg,19,48
+"Phosphorus, P",mg,55,140
+"Potassium, K",mg,163,416
+"Sodium, Na",mg,221,564
+"Zinc, Zn",mg,0.50,1.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.6,11.7
+"Thiamin",mg,0.029,0.074
+"Riboflavin",mg,0.058,0.148
+"Niacin",mg,0.640,1.632
+"Vitamin B-6",mg,0.049,0.125
+"Folate, DFE",µg,32,82
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,7,18
+"Vitamin A, IU",IU,146,372
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.092,0.235
+"Fatty acids, total monounsaturated",g,0.096,0.245
+"Fatty acids, total polyunsaturated",g,0.236,0.602
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

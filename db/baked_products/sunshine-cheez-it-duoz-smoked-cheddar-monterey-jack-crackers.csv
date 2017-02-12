@@ -1,0 +1,32 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:45 EST
+"Nutrient data for: 28240, SUNSHINE, CHEEZ-IT, Duoz Smoked Cheddar Monterey Jack Crackers"
+Nutrient,Unit,1Value per 100 g,"25.0 crackers = 30.0g",
+Proximates
+"Water",g,2.30,0.69
+"Energy",kcal,507,152
+"Protein",g,9.00,2.70
+"Total lipid (fat)",g,25.90,7.77
+"Carbohydrate, by difference",g,60.80,18.24
+"Fiber, total dietary",g,2.2,0.7
+"Sugars, total",g,0.90,0.27
+Minerals
+"Calcium, Ca",mg,75,22
+"Iron, Fe",mg,4.00,1.20
+"Magnesium, Mg",mg,15,4
+"Phosphorus, P",mg,66,20
+"Potassium, K",mg,101,30
+"Sodium, Na",mg,898,269
+Vitamins
+"Thiamin",mg,0.570,0.171
+"Riboflavin",mg,0.340,0.102
+"Niacin",mg,4.600,1.380
+Lipids
+"Fatty acids, total saturated",g,6.100,1.830
+"Fatty acids, total monounsaturated",g,6.600,1.980
+"Fatty acids, total polyunsaturated",g,12.200,3.660
+"Fatty acids, total trans",g,0.300,0.090
+"Cholesterol",mg,3,1
+Amino Acids
+Other

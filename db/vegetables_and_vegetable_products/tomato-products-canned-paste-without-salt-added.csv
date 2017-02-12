@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:32 EST
+"Nutrient data for: 11546, Tomato products, canned, paste, without salt added"
+Nutrient,Unit,1Value per 100 g,"0.25 cup = 66.0g","1 cup = 262.0g","1 tbsp = 16.0g","1 can (6 oz) = 170.0g",
+Proximates
+"Water",g,73.50,48.51,192.57,11.76,124.95
+"Energy",kcal,82,54,215,13,139
+"Protein",g,4.32,2.85,11.32,0.69,7.34
+"Total lipid (fat)",g,0.47,0.31,1.23,0.08,0.80
+"Carbohydrate, by difference",g,18.91,12.48,49.54,3.03,32.15
+"Fiber, total dietary",g,4.1,2.7,10.7,0.7,7.0
+"Sugars, total",g,12.18,8.04,31.91,1.95,20.71
+Minerals
+"Calcium, Ca",mg,36,24,94,6,61
+"Iron, Fe",mg,2.98,1.97,7.81,0.48,5.07
+"Magnesium, Mg",mg,42,28,110,7,71
+"Phosphorus, P",mg,83,55,217,13,141
+"Potassium, K",mg,1014,669,2657,162,1724
+"Sodium, Na",mg,59,39,155,9,100
+"Zinc, Zn",mg,0.63,0.42,1.65,0.10,1.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,21.9,14.5,57.4,3.5,37.2
+"Thiamin",mg,0.060,0.040,0.157,0.010,0.102
+"Riboflavin",mg,0.153,0.101,0.401,0.024,0.260
+"Niacin",mg,3.076,2.030,8.059,0.492,5.229
+"Vitamin B-6",mg,0.216,0.143,0.566,0.035,0.367
+"Folate, DFE",µg,12,8,31,2,20
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,76,50,199,12,129
+"Vitamin A, IU",IU,1525,1006,3996,244,2592
+"Vitamin E (alpha-tocopherol)",mg,4.30,2.84,11.27,0.69,7.31
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,11.4,7.5,29.9,1.8,19.4
+Lipids
+"Fatty acids, total saturated",g,0.100,0.066,0.262,0.016,0.170
+"Fatty acids, total monounsaturated",g,0.067,0.044,0.176,0.011,0.114
+"Fatty acids, total polyunsaturated",g,0.160,0.106,0.419,0.026,0.272
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

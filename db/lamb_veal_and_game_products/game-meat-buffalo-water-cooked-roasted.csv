@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:52 EST
+"Nutrient data for: 17161, Game meat, buffalo, water, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked (yield from 1 lb raw meat, boneless) = 340.0g",
+Proximates
+"Water",g,68.81,58.49,233.95
+"Energy",kcal,131,111,445
+"Protein",g,26.83,22.81,91.22
+"Total lipid (fat)",g,1.80,1.53,6.12
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,15,13,51
+"Iron, Fe",mg,2.12,1.80,7.21
+"Magnesium, Mg",mg,33,28,112
+"Phosphorus, P",mg,220,187,748
+"Potassium, K",mg,313,266,1064
+"Sodium, Na",mg,56,48,190
+"Zinc, Zn",mg,2.54,2.16,8.64
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.030,0.025,0.102
+"Riboflavin",mg,0.250,0.212,0.850
+"Niacin",mg,6.290,5.346,21.386
+"Vitamin B-6",mg,0.460,0.391,1.564
+"Folate, DFE",µg,9,8,31
+"Vitamin B-12",µg,1.75,1.49,5.95
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.600,0.510,2.040
+"Fatty acids, total monounsaturated",g,0.550,0.468,1.870
+"Fatty acids, total polyunsaturated",g,0.360,0.306,1.224
+"Cholesterol",mg,61,52,207
+Amino Acids
+Other

@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:26 EST
+"Nutrient data for: 36612, DENNY'S, golden fried shrimp"
+Nutrient,Unit,1Value per 100 g,"1 piece = 16.0g","1 serving = 100.0g",
+Proximates
+"Water",g,41.05,6.57,41.05
+"Energy",kcal,319,51,319
+"Protein",g,13.88,2.22,13.88
+"Total lipid (fat)",g,20.01,3.20,20.01
+"Carbohydrate, by difference",g,20.93,3.35,20.93
+"Fiber, total dietary",g,1.5,0.2,1.5
+"Sugars, total",g,0.75,0.12,0.75
+Minerals
+"Calcium, Ca",mg,47,8,47
+"Iron, Fe",mg,1.54,0.25,1.54
+"Magnesium, Mg",mg,26,4,26
+"Phosphorus, P",mg,498,80,498
+"Potassium, K",mg,128,20,128
+"Sodium, Na",mg,1400,224,1400
+"Zinc, Zn",mg,0.85,0.14,0.85
+Vitamins
+"Thiamin",mg,0.180,0.029,0.180
+"Riboflavin",mg,0.250,0.040,0.250
+"Niacin",mg,2.467,0.395,2.467
+"Vitamin B-6",mg,0.085,0.014,0.085
+"Vitamin B-12",µg,0.40,0.06,0.40
+"Vitamin A, RAE",µg,2,0,2
+"Vitamin A, IU",IU,6,1,6
+"Vitamin E (alpha-tocopherol)",mg,2.61,0.42,2.61
+"Vitamin K (phylloquinone)",µg,35.3,5.6,35.3
+Lipids
+"Fatty acids, total saturated",g,3.515,0.562,3.515
+"Fatty acids, total monounsaturated",g,4.772,0.764,4.772
+"Fatty acids, total polyunsaturated",g,9.516,1.523,9.516
+"Fatty acids, total trans",g,0.178,0.028,0.178
+"Cholesterol",mg,83,13,83
+Amino Acids
+Other

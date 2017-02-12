@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:08 EST
+"Nutrient data for: 12129, Nuts, ginkgo nuts, canned"
+Nutrient,Unit,1Value per 100 g,"1 cup (78 kernels) = 155.0g","1 oz (14 kernels) = 28.35g",
+Proximates
+"Water",g,72.95,113.07,20.68
+"Energy",kcal,111,172,31
+"Protein",g,2.29,3.55,0.65
+"Total lipid (fat)",g,1.62,2.51,0.46
+"Carbohydrate, by difference",g,22.10,34.26,6.27
+"Fiber, total dietary",g,9.3,14.4,2.6
+Minerals
+"Calcium, Ca",mg,4,6,1
+"Iron, Fe",mg,0.29,0.45,0.08
+"Magnesium, Mg",mg,16,25,5
+"Phosphorus, P",mg,54,84,15
+"Potassium, K",mg,180,279,51
+"Sodium, Na",mg,307,476,87
+"Zinc, Zn",mg,0.21,0.33,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,9.1,14.1,2.6
+"Thiamin",mg,0.133,0.206,0.038
+"Riboflavin",mg,0.054,0.084,0.015
+"Niacin",mg,3.623,5.616,1.027
+"Vitamin B-6",mg,0.198,0.307,0.056
+"Folate, DFE",µg,33,51,9
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,17,26,5
+"Vitamin A, IU",IU,337,522,96
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.309,0.479,0.088
+"Fatty acids, total monounsaturated",g,0.599,0.928,0.170
+"Fatty acids, total polyunsaturated",g,0.597,0.925,0.169
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:30 EST
+"Nutrient data for: 11501, Succotash, (corn and limas), frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 cup = 156.0g","1 package (10 oz) = 284.0g",
+Proximates
+"Water",g,74.11,115.61,210.47
+"Energy",kcal,93,145,264
+"Protein",g,4.31,6.72,12.24
+"Total lipid (fat)",g,0.89,1.39,2.53
+"Carbohydrate, by difference",g,19.94,31.11,56.63
+"Fiber, total dietary",g,4.0,6.2,11.4
+Minerals
+"Calcium, Ca",mg,16,25,45
+"Iron, Fe",mg,0.94,1.47,2.67
+"Magnesium, Mg",mg,24,37,68
+"Phosphorus, P",mg,78,122,222
+"Potassium, K",mg,295,460,838
+"Sodium, Na",mg,45,70,128
+"Zinc, Zn",mg,0.47,0.73,1.33
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.5,13.3,24.1
+"Thiamin",mg,0.087,0.136,0.247
+"Riboflavin",mg,0.072,0.112,0.204
+"Niacin",mg,1.375,2.145,3.905
+"Vitamin B-6",mg,0.100,0.156,0.284
+"Folate, DFE",µg,42,66,119
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,13,20,37
+"Vitamin A, IU",IU,257,401,730
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.166,0.259,0.471
+"Fatty acids, total monounsaturated",g,0.173,0.270,0.491
+"Fatty acids, total polyunsaturated",g,0.427,0.666,1.213
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

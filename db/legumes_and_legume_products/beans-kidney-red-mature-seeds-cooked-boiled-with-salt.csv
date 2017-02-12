@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:57 EST
+"Nutrient data for: 16333, Beans, kidney, red, mature seeds, cooked, boiled, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 177.0g",
+Proximates
+"Water",g,66.94,118.48
+"Energy",kcal,127,225
+"Protein",g,8.67,15.35
+"Total lipid (fat)",g,0.50,0.89
+"Carbohydrate, by difference",g,22.80,40.36
+"Fiber, total dietary",g,7.4,13.1
+"Sugars, total",g,0.32,0.57
+Minerals
+"Calcium, Ca",mg,28,50
+"Iron, Fe",mg,2.94,5.20
+"Magnesium, Mg",mg,45,80
+"Phosphorus, P",mg,142,251
+"Potassium, K",mg,403,713
+"Sodium, Na",mg,238,421
+"Zinc, Zn",mg,1.07,1.89
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.2,2.1
+"Thiamin",mg,0.160,0.283
+"Riboflavin",mg,0.058,0.103
+"Niacin",mg,0.578,1.023
+"Vitamin B-6",mg,0.120,0.212
+"Folate, DFE",µg,130,230
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.03,0.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,8.4,14.9
+Lipids
+"Fatty acids, total saturated",g,0.072,0.127
+"Fatty acids, total monounsaturated",g,0.039,0.069
+"Fatty acids, total polyunsaturated",g,0.275,0.487
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

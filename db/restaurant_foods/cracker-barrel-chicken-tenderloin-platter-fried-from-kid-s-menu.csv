@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:26 EST
+"Nutrient data for: 36604, CRACKER BARREL, chicken tenderloin platter, fried, from kid's menu"
+Nutrient,Unit,1Value per 100 g,"1 serving = 103.0g","1 piece = 36.0g",
+Proximates
+"Water",g,42.61,43.89,15.34
+"Energy",kcal,294,303,106
+"Protein",g,18.67,19.23,6.72
+"Total lipid (fat)",g,15.41,15.87,5.55
+"Carbohydrate, by difference",g,20.24,20.85,7.29
+"Fiber, total dietary",g,1.0,1.0,0.4
+"Sugars, total",g,0.19,0.20,0.07
+Minerals
+"Calcium, Ca",mg,12,12,4
+"Iron, Fe",mg,0.58,0.60,0.21
+"Magnesium, Mg",mg,29,30,10
+"Phosphorus, P",mg,275,283,99
+"Potassium, K",mg,330,340,119
+"Sodium, Na",mg,871,897,314
+"Zinc, Zn",mg,0.67,0.69,0.24
+Vitamins
+"Thiamin",mg,0.093,0.096,0.033
+"Riboflavin",mg,0.137,0.141,0.049
+"Niacin",mg,7.010,7.220,2.524
+"Vitamin B-6",mg,0.444,0.457,0.160
+"Vitamin B-12",µg,0.13,0.13,0.05
+"Vitamin A, RAE",µg,2,2,1
+"Vitamin A, IU",IU,10,10,4
+"Vitamin E (alpha-tocopherol)",mg,1.27,1.31,0.46
+"Vitamin K (phylloquinone)",µg,33.3,34.3,12.0
+Lipids
+"Fatty acids, total saturated",g,2.830,2.915,1.019
+"Fatty acids, total monounsaturated",g,3.426,3.529,1.233
+"Fatty acids, total polyunsaturated",g,8.142,8.386,2.931
+"Fatty acids, total trans",g,0.126,0.130,0.045
+"Cholesterol",mg,42,43,15
+Amino Acids
+Other

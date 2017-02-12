@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:10 EST
+"Nutrient data for: 01112, Whey, acid, fluid"
+Nutrient,Unit,1Value per 100 g,"1 cup = 246.0g","1 quart = 984.0g",
+Proximates
+"Water",g,93.42,229.81,919.25
+"Energy",kcal,24,59,236
+"Protein",g,0.76,1.87,7.48
+"Total lipid (fat)",g,0.09,0.22,0.89
+"Carbohydrate, by difference",g,5.12,12.60,50.38
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,5.12,12.60,50.38
+Minerals
+"Calcium, Ca",mg,103,253,1014
+"Iron, Fe",mg,0.08,0.20,0.79
+"Magnesium, Mg",mg,10,25,98
+"Phosphorus, P",mg,78,192,768
+"Potassium, K",mg,143,352,1407
+"Sodium, Na",mg,48,118,472
+"Zinc, Zn",mg,0.43,1.06,4.23
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.2,1.0
+"Thiamin",mg,0.042,0.103,0.413
+"Riboflavin",mg,0.140,0.344,1.378
+"Niacin",mg,0.079,0.194,0.777
+"Vitamin B-6",mg,0.042,0.103,0.413
+"Folate, DFE",µg,2,5,20
+"Vitamin B-12",µg,0.18,0.44,1.77
+"Vitamin A, RAE",µg,2,5,20
+"Vitamin A, IU",IU,7,17,69
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.057,0.140,0.561
+"Fatty acids, total monounsaturated",g,0.025,0.062,0.246
+"Fatty acids, total polyunsaturated",g,0.004,0.010,0.039
+"Cholesterol",mg,1,2,10
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

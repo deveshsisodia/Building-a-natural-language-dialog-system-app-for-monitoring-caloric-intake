@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:35 EST
+"Nutrient data for: 19141, Candies, MARS SNACKFOOD US, M&M's Milk Chocolate Candies"
+Nutrient,Unit,1Value per 100 g,"1 package (1.69 oz) = 48.0g","1 box (1.48 oz) = 42.0g","1 cup = 208.0g","1 serving = 21.0g","10.0 pieces = 7.0g",
+Proximates
+"Water",g,1.70,0.82,0.71,3.54,0.36,0.12
+"Energy",kcal,492,236,207,1023,103,34
+"Protein",g,4.33,2.08,1.82,9.01,0.91,0.30
+"Total lipid (fat)",g,21.13,10.14,8.87,43.95,4.44,1.48
+"Carbohydrate, by difference",g,71.19,34.17,29.90,148.08,14.95,4.98
+"Fiber, total dietary",g,2.8,1.3,1.2,5.8,0.6,0.2
+"Sugars, total",g,63.68,30.57,26.75,132.45,13.37,4.46
+Minerals
+"Calcium, Ca",mg,105,50,44,218,22,7
+"Iron, Fe",mg,1.11,0.53,0.47,2.31,0.23,0.08
+"Magnesium, Mg",mg,44,21,18,92,9,3
+"Phosphorus, P",mg,146,70,61,304,31,10
+"Potassium, K",mg,261,125,110,543,55,18
+"Sodium, Na",mg,61,29,26,127,13,4
+"Zinc, Zn",mg,1.61,0.77,0.68,3.35,0.34,0.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.2,0.2,1.0,0.1,0.0
+"Thiamin",mg,0.079,0.038,0.033,0.164,0.017,0.006
+"Riboflavin",mg,0.213,0.102,0.089,0.443,0.045,0.015
+"Niacin",mg,0.270,0.130,0.113,0.562,0.057,0.019
+"Vitamin B-6",mg,0.025,0.012,0.011,0.052,0.005,0.002
+"Folate, DFE",µg,8,4,3,17,2,1
+"Vitamin B-12",µg,0.53,0.25,0.22,1.10,0.11,0.04
+"Vitamin A, RAE",µg,56,27,24,116,12,4
+"Vitamin A, IU",IU,187,90,79,389,39,13
+"Vitamin E (alpha-tocopherol)",mg,0.36,0.17,0.15,0.75,0.08,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,4.0,1.9,1.7,8.3,0.8,0.3
+Lipids
+"Fatty acids, total saturated",g,13.080,6.278,5.494,27.206,2.747,0.916
+"Fatty acids, total monounsaturated",g,5.183,2.488,2.177,10.781,1.088,0.363
+"Fatty acids, total polyunsaturated",g,0.921,0.442,0.387,1.916,0.193,0.064
+"Fatty acids, total trans",g,0.167,0.080,0.070,0.347,0.035,0.012
+"Cholesterol",mg,14,7,6,29,3,1
+Amino Acids
+Other
+"Caffeine",mg,14,7,6,29,3,1

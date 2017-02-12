@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:19 EST
+"Nutrient data for: 14033, Beverages, ABBOTT, EAS whey protein powder"
+Nutrient,Unit,1Value per 100 g,"2.0 scoop = 39.0g",
+Proximates
+"Water",g,6.61,2.58
+"Energy",kcal,385,150
+"Protein",g,66.67,26.00
+"Total lipid (fat)",g,5.13,2.00
+"Carbohydrate, by difference",g,17.95,7.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,5.13,2.00
+Minerals
+"Calcium, Ca",mg,256,100
+"Iron, Fe",mg,0.92,0.36
+"Magnesium, Mg",mg,181,71
+"Phosphorus, P",mg,643,251
+"Potassium, K",mg,564,220
+"Sodium, Na",mg,385,150
+"Zinc, Zn",mg,7.14,2.78
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,0.3
+"Thiamin",mg,0.714,0.278
+"Riboflavin",mg,0.857,0.334
+"Niacin",mg,10.000,3.900
+"Vitamin B-6",mg,1.000,0.390
+"Folate, DFE",µg,340,133
+"Vitamin B-12",µg,2.27,0.89
+"Vitamin A, RAE",µg,15,6
+"Vitamin A, IU",IU,54,21
+"Vitamin E (alpha-tocopherol)",mg,0.38,0.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.5,0.2
+Lipids
+"Fatty acids, total saturated",g,2.564,1.000
+"Fatty acids, total monounsaturated",g,0.281,0.110
+"Fatty acids, total polyunsaturated",g,0.926,0.361
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,205,80
+Amino Acids
+Other
+"Caffeine",mg,0,0

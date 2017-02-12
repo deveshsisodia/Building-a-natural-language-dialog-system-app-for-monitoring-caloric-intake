@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:17 EST
+"Nutrient data for: 11744, Broccoli, frozen, spears, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 92.0g","1 package (10 oz) yields = 250.0g",
+Proximates
+"Water",g,90.72,83.46,226.80
+"Energy",kcal,28,26,70
+"Protein",g,3.10,2.85,7.75
+"Total lipid (fat)",g,0.11,0.10,0.28
+"Carbohydrate, by difference",g,5.35,4.92,13.38
+"Fiber, total dietary",g,3.0,2.8,7.5
+"Sugars, total",g,1.44,1.32,3.60
+Minerals
+"Calcium, Ca",mg,51,47,128
+"Iron, Fe",mg,0.61,0.56,1.52
+"Magnesium, Mg",mg,20,18,50
+"Phosphorus, P",mg,55,51,138
+"Potassium, K",mg,180,166,450
+"Sodium, Na",mg,260,239,650
+"Zinc, Zn",mg,0.30,0.28,0.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,40.1,36.9,100.2
+"Thiamin",mg,0.055,0.051,0.138
+"Riboflavin",mg,0.081,0.075,0.203
+"Niacin",mg,0.458,0.421,1.145
+"Vitamin B-6",mg,0.130,0.120,0.325
+"Folate, DFE",µg,30,28,75
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,56,52,140
+"Vitamin A, IU",IU,1118,1029,2795
+"Vitamin E (alpha-tocopherol)",mg,1.32,1.21,3.30
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,99.5,91.5,248.8
+Lipids
+"Fatty acids, total saturated",g,0.018,0.017,0.045
+"Fatty acids, total monounsaturated",g,0.008,0.007,0.020
+"Fatty acids, total polyunsaturated",g,0.055,0.051,0.138
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

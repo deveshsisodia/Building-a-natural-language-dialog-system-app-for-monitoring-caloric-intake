@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:42 EST
+"Nutrient data for: 18386, Muffins, blueberry, toaster-type, toasted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 muffin, toaster = 31.0g",
+Proximates
+"Water",g,26.40,7.48,8.18
+"Energy",kcal,333,94,103
+"Protein",g,4.90,1.39,1.52
+"Total lipid (fat)",g,10.10,2.86,3.13
+"Carbohydrate, by difference",g,56.70,16.07,17.58
+"Fiber, total dietary",g,1.9,0.5,0.6
+"Sugars, total",g,12.95,3.67,4.01
+Minerals
+"Calcium, Ca",mg,14,4,4
+"Iron, Fe",mg,0.54,0.15,0.17
+"Magnesium, Mg",mg,15,4,5
+"Phosphorus, P",mg,192,54,60
+"Potassium, K",mg,88,25,27
+"Sodium, Na",mg,444,126,138
+"Zinc, Zn",mg,0.48,0.14,0.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.204,0.058,0.063
+"Riboflavin",mg,0.278,0.079,0.086
+"Niacin",mg,1.934,0.548,0.600
+"Vitamin B-6",mg,0.028,0.008,0.009
+"Folate, DFE",µg,94,27,29
+"Vitamin B-12",µg,0.01,0.00,0.00
+"Vitamin A, RAE",µg,101,29,31
+"Vitamin A, IU",IU,324,92,100
+"Vitamin E (alpha-tocopherol)",mg,0.98,0.28,0.30
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,20.8,5.9,6.4
+Lipids
+"Fatty acids, total saturated",g,1.551,0.440,0.481
+"Fatty acids, total monounsaturated",g,2.371,0.672,0.735
+"Fatty acids, total polyunsaturated",g,5.477,1.553,1.698
+"Cholesterol",mg,5,1,2
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

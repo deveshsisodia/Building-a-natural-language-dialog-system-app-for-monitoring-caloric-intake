@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08094, Cereals, QUAKER, corn grits, instant, cheddar cheese flavor, dry"
+Nutrient,Unit,1Value per 100 g,"1 packet (1 NLEA serving) = 28.0g",
+Proximates
+"Water",g,6.71,1.88
+"Energy",kcal,363,102
+"Protein",g,8.98,2.51
+"Total lipid (fat)",g,5.46,1.53
+"Carbohydrate, by difference",g,72.96,20.43
+"Fiber, total dietary",g,4.2,1.2
+"Sugars, total",g,2.76,0.77
+Minerals
+"Calcium, Ca",mg,418,117
+"Iron, Fe",mg,30.38,8.51
+"Magnesium, Mg",mg,26,7
+"Phosphorus, P",mg,80,22
+"Potassium, K",mg,132,37
+"Sodium, Na",mg,1644,460
+"Zinc, Zn",mg,0.42,0.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.740,0.207
+"Riboflavin",mg,0.670,0.188
+"Niacin",mg,7.900,2.212
+"Vitamin B-6",mg,0.170,0.048
+"Folate, DFE",µg,276,77
+"Vitamin B-12",µg,0.50,0.14
+"Vitamin A, RAE",µg,4,1
+"Vitamin A, IU",IU,16,4
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,2,1
+"Vitamin K (phylloquinone)",µg,0.5,0.1
+Lipids
+"Fatty acids, total saturated",g,1.330,0.372
+"Fatty acids, total monounsaturated",g,2.880,0.806
+"Fatty acids, total polyunsaturated",g,1.050,0.294
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,2,1
+Amino Acids
+Other
+"Caffeine",mg,0,0

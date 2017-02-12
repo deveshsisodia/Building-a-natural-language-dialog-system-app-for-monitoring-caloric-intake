@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:32 EST
+"Nutrient data for: 11548, Tomato powder"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,3.06,
+"Energy",kcal,302,
+"Protein",g,12.91,
+"Total lipid (fat)",g,0.44,
+"Carbohydrate, by difference",g,74.68,
+"Fiber, total dietary",g,16.5,
+"Sugars, total",g,43.90,
+Minerals
+"Calcium, Ca",mg,166,
+"Iron, Fe",mg,4.56,
+"Magnesium, Mg",mg,178,
+"Phosphorus, P",mg,295,
+"Potassium, K",mg,1927,
+"Sodium, Na",mg,134,
+"Zinc, Zn",mg,1.71,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,116.7,
+"Thiamin",mg,0.913,
+"Riboflavin",mg,0.761,
+"Niacin",mg,9.133,
+"Vitamin B-6",mg,0.457,
+"Folate, DFE",µg,120,
+"Vitamin B-12",µg,0.00,
+"Vitamin A, RAE",µg,862,
+"Vitamin A, IU",IU,17247,
+"Vitamin E (alpha-tocopherol)",mg,12.25,
+"Vitamin D (D2 + D3)",µg,0.0,
+"Vitamin D",IU,0,
+"Vitamin K (phylloquinone)",µg,48.8,
+Lipids
+"Fatty acids, total saturated",g,0.062,
+"Fatty acids, total monounsaturated",g,0.066,
+"Fatty acids, total polyunsaturated",g,0.179,
+"Fatty acids, total trans",g,0.000,
+"Cholesterol",mg,0,
+Amino Acids
+Other

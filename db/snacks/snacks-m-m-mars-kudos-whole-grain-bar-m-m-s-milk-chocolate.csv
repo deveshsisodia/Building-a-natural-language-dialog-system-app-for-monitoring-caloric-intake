@@ -1,0 +1,26 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:54 EST
+"Nutrient data for: 25009, Snacks, M&M MARS, KUDOS Whole Grain Bar, M&M's milk chocolate"
+Nutrient,Unit,1Value per 100 g,"1 bar = 24.0g",
+Proximates
+"Water",g,8.00,1.92
+"Energy",kcal,415,100
+"Protein",g,3.78,0.91
+"Total lipid (fat)",g,11.95,2.87
+"Carbohydrate, by difference",g,73.01,17.52
+"Fiber, total dietary",g,2.4,0.6
+"Sugars, total",g,37.81,9.07
+Minerals
+"Calcium, Ca",mg,943,226
+"Iron, Fe",mg,0.85,0.20
+"Sodium, Na",mg,341,82
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.0
+"Vitamin A, IU",IU,51,12
+Lipids
+"Fatty acids, total saturated",g,6.802,1.632
+"Fatty acids, total trans",g,0.062,0.015
+"Cholesterol",mg,4,1
+Amino Acids
+Other

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:35 EST
+"Nutrient data for: 18193, Cookies, shortbread, commercially prepared, pecan"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cookie (2"" dia) = 14.0g",
+Proximates
+"Water",g,3.30,0.94,0.46
+"Energy",kcal,542,154,76
+"Protein",g,4.90,1.39,0.69
+"Total lipid (fat)",g,32.50,9.21,4.55
+"Carbohydrate, by difference",g,58.30,16.53,8.16
+"Fiber, total dietary",g,1.8,0.5,0.3
+Minerals
+"Calcium, Ca",mg,30,9,4
+"Iron, Fe",mg,2.43,0.69,0.34
+"Magnesium, Mg",mg,18,5,3
+"Phosphorus, P",mg,85,24,12
+"Potassium, K",mg,73,21,10
+"Sodium, Na",mg,281,80,39
+"Zinc, Zn",mg,0.58,0.16,0.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.293,0.083,0.041
+"Riboflavin",mg,0.220,0.062,0.031
+"Niacin",mg,2.481,0.703,0.347
+"Vitamin B-6",mg,0.020,0.006,0.003
+"Folate, DFE",µg,102,29,14
+"Vitamin B-12",µg,0.01,0.00,0.00
+"Vitamin A, RAE",µg,1,0,0
+"Vitamin A, IU",IU,3,1,0
+Lipids
+"Fatty acids, total saturated",g,8.204,2.326,1.149
+"Fatty acids, total monounsaturated",g,18.628,5.281,2.608
+"Fatty acids, total polyunsaturated",g,4.122,1.169,0.577
+"Cholesterol",mg,33,9,5
+Amino Acids
+Other

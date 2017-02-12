@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:09 EST
+"Nutrient data for: 01153, Milk, canned, evaporated, with added vitamin A"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 31.5g","0.5 cup = 126.0g",
+Proximates
+"Water",g,74.04,23.32,93.29
+"Energy",kcal,134,42,169
+"Protein",g,6.81,2.15,8.58
+"Total lipid (fat)",g,7.56,2.38,9.53
+"Carbohydrate, by difference",g,10.04,3.16,12.65
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,261,82,329
+"Iron, Fe",mg,0.19,0.06,0.24
+"Magnesium, Mg",mg,24,8,30
+"Phosphorus, P",mg,203,64,256
+"Potassium, K",mg,303,95,382
+"Sodium, Na",mg,106,33,134
+"Zinc, Zn",mg,0.77,0.24,0.97
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.9,0.6,2.4
+"Thiamin",mg,0.047,0.015,0.059
+"Riboflavin",mg,0.316,0.100,0.398
+"Niacin",mg,0.194,0.061,0.244
+"Vitamin B-6",mg,0.050,0.016,0.063
+"Folate, DFE",µg,8,3,10
+"Vitamin B-12",µg,0.16,0.05,0.20
+"Vitamin A, IU",IU,397,125,500
+Lipids
+"Fatty acids, total saturated",g,4.591,1.446,5.785
+"Fatty acids, total monounsaturated",g,2.335,0.736,2.942
+"Fatty acids, total polyunsaturated",g,0.245,0.077,0.309
+"Cholesterol",mg,29,9,37
+Amino Acids
+Other

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:36 EST
+"Nutrient data for: 43287, Dove, cooked (includes squab)"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped or diced = 140.0g",
+Proximates
+"Water",g,62.00,86.80
+"Energy",kcal,213,298
+"Protein",g,23.90,33.46
+"Total lipid (fat)",g,13.00,18.20
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,17,24
+"Iron, Fe",mg,5.91,8.27
+"Magnesium, Mg",mg,26,36
+"Phosphorus, P",mg,332,465
+"Potassium, K",mg,256,358
+"Sodium, Na",mg,57,80
+"Zinc, Zn",mg,3.83,5.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.9,4.1
+"Thiamin",mg,0.280,0.392
+"Riboflavin",mg,0.350,0.490
+"Niacin",mg,7.600,10.640
+"Vitamin B-6",mg,0.570,0.798
+"Folate, DFE",µg,6,8
+"Vitamin B-12",µg,0.41,0.57
+"Vitamin A, RAE",µg,28,39
+"Vitamin A, IU",IU,95,133
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.08
+"Vitamin D (D2 + D3)",µg,0.2,0.3
+"Vitamin D",IU,7,10
+"Vitamin K (phylloquinone)",µg,4.0,5.6
+Lipids
+"Fatty acids, total saturated",g,3.739,5.235
+"Fatty acids, total monounsaturated",g,5.462,7.647
+"Fatty acids, total polyunsaturated",g,2.733,3.826
+"Cholesterol",mg,116,162
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:22 EST
+"Nutrient data for: 11251, Lettuce, cos or romaine, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup shredded = 47.0g","1 leaf inner = 6.0g","1 leaf outer = 28.0g","1 head = 626.0g","1 NLEA serving = 85.0g",
+Proximates
+"Water",g,94.61,44.47,5.68,26.49,592.26,80.42
+"Energy",kcal,17,8,1,5,106,14
+"Protein",g,1.23,0.58,0.07,0.34,7.70,1.05
+"Total lipid (fat)",g,0.30,0.14,0.02,0.08,1.88,0.26
+"Carbohydrate, by difference",g,3.29,1.55,0.20,0.92,20.60,2.80
+"Fiber, total dietary",g,2.1,1.0,0.1,0.6,13.1,1.8
+"Sugars, total",g,1.19,0.56,0.07,0.33,7.45,1.01
+Minerals
+"Calcium, Ca",mg,33,16,2,9,207,28
+"Iron, Fe",mg,0.97,0.46,0.06,0.27,6.07,0.82
+"Magnesium, Mg",mg,14,7,1,4,88,12
+"Phosphorus, P",mg,30,14,2,8,188,26
+"Potassium, K",mg,247,116,15,69,1546,210
+"Sodium, Na",mg,8,4,0,2,50,7
+"Zinc, Zn",mg,0.23,0.11,0.01,0.06,1.44,0.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.0,1.9,0.2,1.1,25.0,3.4
+"Thiamin",mg,0.072,0.034,0.004,0.020,0.451,0.061
+"Riboflavin",mg,0.067,0.031,0.004,0.019,0.419,0.057
+"Niacin",mg,0.313,0.147,0.019,0.088,1.959,0.266
+"Vitamin B-6",mg,0.074,0.035,0.004,0.021,0.463,0.063
+"Folate, DFE",µg,136,64,8,38,851,116
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,436,205,26,122,2729,371
+"Vitamin A, IU",IU,8710,4094,523,2439,54525,7404
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.06,0.01,0.04,0.81,0.11
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,102.5,48.2,6.2,28.7,641.6,87.1
+Lipids
+"Fatty acids, total saturated",g,0.039,0.018,0.002,0.011,0.244,0.033
+"Fatty acids, total monounsaturated",g,0.012,0.006,0.001,0.003,0.075,0.010
+"Fatty acids, total polyunsaturated",g,0.160,0.075,0.010,0.045,1.002,0.136
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

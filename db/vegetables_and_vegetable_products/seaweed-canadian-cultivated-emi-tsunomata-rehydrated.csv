@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:29 EST
+"Nutrient data for: 31020, Seaweed, Canadian Cultivated EMI-TSUNOMATA, rehydrated"
+Nutrient,Unit,1Value per 100 g,"0.25 cup = 25.0g",
+Proximates
+"Water",g,89.55,22.39
+"Energy",kcal,31,8
+"Protein",g,1.86,0.47
+"Total lipid (fat)",g,0.17,0.04
+"Carbohydrate, by difference",g,5.62,1.41
+"Fiber, total dietary",g,4.5,1.1
+Minerals
+"Calcium, Ca",mg,36,9
+"Iron, Fe",mg,8.07,2.02
+"Magnesium, Mg",mg,84,21
+"Phosphorus, P",mg,32,8
+"Potassium, K",mg,358,90
+"Sodium, Na",mg,526,132
+"Zinc, Zn",mg,0.31,0.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.5,0.9
+"Thiamin",mg,0.060,0.015
+"Riboflavin",mg,0.190,0.048
+"Niacin",mg,0.460,0.115
+"Vitamin B-6",mg,0.030,0.007
+"Folate, DFE",µg,23,6
+"Vitamin B-12",µg,0.27,0.07
+"Vitamin A, RAE",µg,49,12
+"Vitamin A, IU",IU,987,247
+"Vitamin E (alpha-tocopherol)",mg,0.67,0.17
+"Vitamin D (D2 + D3)",µg,0.4,0.1
+"Vitamin D",IU,15,4
+Lipids
+"Fatty acids, total saturated",g,0.050,0.013
+"Fatty acids, total monounsaturated",g,0.010,0.003
+"Fatty acids, total polyunsaturated",g,0.090,0.022
+"Fatty acids, total trans",g,0.000,0.000
+Amino Acids
+Other
+"Caffeine",mg,0,0

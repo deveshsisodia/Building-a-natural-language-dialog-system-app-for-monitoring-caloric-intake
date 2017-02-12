@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:02 EST
+"Nutrient data for: 16529, WORTHINGTON FriPats, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 patty = 64.0g",
+Proximates
+"Water",g,56.80,36.35
+"Energy",kcal,209,134
+"Protein",g,23.70,15.17
+"Total lipid (fat)",g,9.10,5.82
+"Carbohydrate, by difference",g,8.00,5.12
+"Fiber, total dietary",g,2.8,1.8
+"Sugars, total",g,1.40,0.90
+Minerals
+"Calcium, Ca",mg,97,62
+"Iron, Fe",mg,2.80,1.79
+"Phosphorus, P",mg,187,120
+"Potassium, K",mg,185,118
+"Sodium, Na",mg,517,331
+"Zinc, Zn",mg,1.20,0.77
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,2.800,1.792
+"Riboflavin",mg,0.300,0.192
+"Niacin",mg,4.700,3.008
+"Vitamin B-6",mg,0.900,0.576
+"Vitamin B-12",µg,1.90,1.22
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.400,0.896
+"Fatty acids, total monounsaturated",g,2.200,1.408
+"Fatty acids, total polyunsaturated",g,5.200,3.328
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,2,1
+Amino Acids
+Other

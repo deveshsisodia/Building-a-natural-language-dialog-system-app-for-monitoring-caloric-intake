@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:20 EST
+"Nutrient data for: 14538, Beverages, Cocoa mix, low calorie, powder, with added calcium, phosphorus, aspartame, without added sodium or vitamin A"
+Nutrient,Unit,1Value per 100 g,"1 envelope  Swiss Miss (.53 oz) = 15.0g","1 packet (0.675 oz) = 19.0g",
+Proximates
+"Water",g,3.40,0.51,0.65
+"Energy",kcal,359,54,68
+"Protein",g,25.10,3.77,4.77
+"Total lipid (fat)",g,3.00,0.45,0.57
+"Carbohydrate, by difference",g,58.00,8.70,11.02
+"Fiber, total dietary",g,1.1,0.2,0.2
+"Sugars, total",g,55.58,8.34,10.56
+Minerals
+"Calcium, Ca",mg,1440,216,274
+"Iron, Fe",mg,4.96,0.74,0.94
+"Magnesium, Mg",mg,208,31,40
+"Phosphorus, P",mg,1630,244,310
+"Potassium, K",mg,2702,405,513
+"Sodium, Na",mg,653,98,124
+"Zinc, Zn",mg,3.44,0.52,0.65
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.267,0.040,0.051
+"Riboflavin",mg,1.400,0.210,0.266
+"Niacin",mg,1.084,0.163,0.206
+"Vitamin B-6",mg,0.318,0.048,0.060
+"Folate, DFE",µg,27,4,5
+"Vitamin B-12",µg,2.78,0.42,0.53
+"Vitamin A, RAE",µg,479,72,91
+"Vitamin A, IU",IU,1600,240,304
+"Vitamin E (alpha-tocopherol)",mg,0.21,0.03,0.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,4.2,0.6,0.8
+Lipids
+"Fatty acids, total saturated",g,1.777,0.267,0.338
+"Fatty acids, total monounsaturated",g,0.979,0.147,0.186
+"Fatty acids, total polyunsaturated",g,0.088,0.013,0.017
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,11,2,2
+Amino Acids
+Other
+"Caffeine",mg,34,5,6

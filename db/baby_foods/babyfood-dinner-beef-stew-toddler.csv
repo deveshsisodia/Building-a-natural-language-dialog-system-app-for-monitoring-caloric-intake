@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:42 EST
+"Nutrient data for: 03052, Babyfood, dinner, beef stew, toddler"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 jar = 170.0g","1 jar Beech-Nut Table Time (6 oz) = 170.0g",
+Proximates
+"Water",g,86.90,24.64,147.73,147.73
+"Energy",kcal,51,14,87,87
+"Protein",g,5.10,1.45,8.67,8.67
+"Total lipid (fat)",g,1.20,0.34,2.04,2.04
+"Carbohydrate, by difference",g,5.50,1.56,9.35,9.35
+"Fiber, total dietary",g,1.1,0.3,1.9,1.9
+"Sugars, total",g,1.39,0.39,2.36,2.36
+Minerals
+"Calcium, Ca",mg,9,3,15,15
+"Iron, Fe",mg,0.72,0.20,1.22,1.22
+"Magnesium, Mg",mg,11,3,19,19
+"Phosphorus, P",mg,44,12,75,75
+"Potassium, K",mg,142,40,241,241
+"Sodium, Na",mg,106,30,180,180
+"Zinc, Zn",mg,0.87,0.25,1.48,1.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.0,0.9,5.1,5.1
+"Thiamin",mg,0.014,0.004,0.024,0.024
+"Riboflavin",mg,0.065,0.018,0.111,0.111
+"Niacin",mg,1.313,0.372,2.232,2.232
+"Vitamin B-6",mg,0.074,0.021,0.126,0.126
+"Folate, DFE",µg,6,2,10,10
+"Vitamin B-12",µg,0.51,0.14,0.87,0.87
+"Vitamin A, RAE",µg,82,23,139,139
+"Vitamin A, IU",IU,1649,467,2803,2803
+"Vitamin E (alpha-tocopherol)",mg,0.50,0.14,0.85,0.85
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,1,0,2,2
+"Vitamin K (phylloquinone)",µg,2.5,0.7,4.2,4.2
+Lipids
+"Fatty acids, total saturated",g,0.580,0.164,0.986,0.986
+"Fatty acids, total monounsaturated",g,0.440,0.125,0.748,0.748
+"Fatty acids, total polyunsaturated",g,0.100,0.028,0.170,0.170
+"Cholesterol",mg,13,4,22,22
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

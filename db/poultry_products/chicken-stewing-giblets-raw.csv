@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:38 EST
+"Nutrient data for: 05127, Chicken, stewing, giblets, raw"
+Nutrient,Unit,1Value per 100 g,"1 unit (yield from 1 lb ready-to-cook chicken) = 28.0g","1 giblets = 81.0g",
+Proximates
+"Water",g,69.80,19.54,56.54
+"Energy",kcal,168,47,136
+"Protein",g,17.89,5.01,14.49
+"Total lipid (fat)",g,9.21,2.58,7.46
+"Carbohydrate, by difference",g,2.13,0.60,1.73
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,10,3,8
+"Iron, Fe",mg,5.93,1.66,4.80
+"Magnesium, Mg",mg,18,5,15
+"Phosphorus, P",mg,198,55,160
+"Potassium, K",mg,226,63,183
+"Sodium, Na",mg,77,22,62
+"Zinc, Zn",mg,3.01,0.84,2.44
+Vitamins
+"Vitamin C, total ascorbic acid",mg,11.4,3.2,9.2
+"Thiamin",mg,0.097,0.027,0.079
+"Riboflavin",mg,1.106,0.310,0.896
+"Niacin",mg,8.530,2.388,6.909
+"Vitamin B-6",mg,0.520,0.146,0.421
+"Folate, DFE",µg,350,98,284
+"Vitamin B-12",µg,10.83,3.03,8.77
+"Vitamin A, RAE",µg,3152,883,2553
+"Vitamin A, IU",IU,10497,2939,8503
+Lipids
+"Fatty acids, total saturated",g,2.630,0.736,2.130
+"Fatty acids, total monounsaturated",g,2.750,0.770,2.228
+"Fatty acids, total polyunsaturated",g,2.100,0.588,1.701
+"Cholesterol",mg,240,67,194
+Amino Acids
+Other

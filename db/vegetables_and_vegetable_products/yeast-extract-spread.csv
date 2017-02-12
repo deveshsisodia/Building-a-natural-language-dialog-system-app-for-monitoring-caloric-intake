@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:33 EST
+"Nutrient data for: 43406, Yeast extract spread"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 6.0g",
+Proximates
+"Water",g,40.90,2.45
+"Energy",kcal,185,11
+"Protein",g,23.88,1.43
+"Total lipid (fat)",g,0.90,0.05
+"Carbohydrate, by difference",g,20.42,1.23
+"Fiber, total dietary",g,6.5,0.4
+"Sugars, total",g,1.60,0.10
+Minerals
+"Calcium, Ca",mg,67,4
+"Iron, Fe",mg,4.04,0.24
+"Magnesium, Mg",mg,180,11
+"Phosphorus, P",mg,104,6
+"Potassium, K",mg,2100,126
+"Sodium, Na",mg,3380,203
+"Zinc, Zn",mg,4.19,0.25
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,23.375,1.403
+"Riboflavin",mg,17.500,1.050
+"Niacin",mg,127.500,7.650
+"Vitamin B-6",mg,0.000,0.000
+"Folate, DFE",µg,5881,353
+"Vitamin B-12",µg,0.50,0.03
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

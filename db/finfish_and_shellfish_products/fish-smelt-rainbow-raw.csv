@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:04 EST
+"Nutrient data for: 15099, Fish, smelt, rainbow, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,78.77,66.95
+"Energy",kcal,97,82
+"Protein",g,17.63,14.99
+"Total lipid (fat)",g,2.42,2.06
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,60,51
+"Iron, Fe",mg,0.90,0.77
+"Magnesium, Mg",mg,30,26
+"Phosphorus, P",mg,230,196
+"Potassium, K",mg,290,246
+"Sodium, Na",mg,60,51
+"Zinc, Zn",mg,1.65,1.40
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.010,0.009
+"Riboflavin",mg,0.120,0.102
+"Niacin",mg,1.450,1.232
+"Vitamin B-6",mg,0.150,0.128
+"Folate, DFE",µg,4,3
+"Vitamin B-12",µg,3.44,2.92
+"Vitamin A, RAE",µg,15,13
+"Vitamin A, IU",IU,50,42
+"Vitamin E (alpha-tocopherol)",mg,0.50,0.42
+"Vitamin D (D2 + D3)",µg,0.8,0.7
+"Vitamin D",IU,31,26
+"Vitamin K (phylloquinone)",µg,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,0.452,0.384
+"Fatty acids, total monounsaturated",g,0.641,0.545
+"Fatty acids, total polyunsaturated",g,0.885,0.752
+"Cholesterol",mg,70,60
+Amino Acids
+Other
+"Caffeine",mg,0,0

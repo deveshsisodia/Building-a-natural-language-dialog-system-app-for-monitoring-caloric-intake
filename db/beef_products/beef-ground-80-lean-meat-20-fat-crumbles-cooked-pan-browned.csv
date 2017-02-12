@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:40 EST
+"Nutrient data for: 23575, Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,54.54,46.36
+"Energy",kcal,272,231
+"Protein",g,27.00,22.95
+"Total lipid (fat)",g,17.36,14.76
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,28,24
+"Iron, Fe",mg,2.78,2.36
+"Magnesium, Mg",mg,23,20
+"Phosphorus, P",mg,226,192
+"Potassium, K",mg,380,323
+"Sodium, Na",mg,91,77
+"Zinc, Zn",mg,6.40,5.44
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.045,0.038
+"Riboflavin",mg,0.191,0.162
+"Niacin",mg,5.831,4.956
+"Vitamin B-6",mg,0.428,0.364
+"Folate, DFE",µg,11,9
+"Vitamin B-12",µg,2.80,2.38
+"Vitamin A, RAE",µg,3,3
+"Vitamin A, IU",IU,9,8
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.10
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,2,2
+"Vitamin K (phylloquinone)",µg,1.6,1.4
+Lipids
+"Fatty acids, total saturated",g,6.546,5.564
+"Fatty acids, total monounsaturated",g,7.640,6.494
+"Fatty acids, total polyunsaturated",g,0.501,0.426
+"Fatty acids, total trans",g,0.753,0.640
+"Cholesterol",mg,89,76
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:44 EST
+"Nutrient data for: 23445, Beef, New Zealand, imported, variety meats and by-products, tripe uncooked, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 113.0g",
+Proximates
+"Water",g,82.19,92.87
+"Energy",kcal,77,87
+"Protein",g,14.86,16.79
+"Total lipid (fat)",g,1.98,2.24
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,112,127
+"Iron, Fe",mg,4.44,5.02
+"Magnesium, Mg",mg,19,21
+"Phosphorus, P",mg,159,180
+"Potassium, K",mg,217,245
+"Sodium, Na",mg,81,92
+"Zinc, Zn",mg,1.72,1.94
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.051,0.058
+"Riboflavin",mg,0.191,0.216
+"Niacin",mg,7.943,8.976
+"Vitamin B-6",mg,0.035,0.040
+"Vitamin B-12",µg,7.12,8.05
+"Vitamin A, RAE",µg,6,7
+"Vitamin A, IU",IU,20,23
+"Vitamin E (alpha-tocopherol)",mg,0.45,0.51
+"Vitamin D (D2 + D3)",µg,0.2,0.2
+"Vitamin D",IU,8,9
+Lipids
+"Fatty acids, total saturated",g,1.020,1.153
+"Fatty acids, total monounsaturated",g,0.770,0.870
+"Fatty acids, total polyunsaturated",g,0.170,0.192
+"Fatty acids, total trans",g,0.101,0.114
+"Cholesterol",mg,117,132
+Amino Acids
+Other
+"Caffeine",mg,0,0

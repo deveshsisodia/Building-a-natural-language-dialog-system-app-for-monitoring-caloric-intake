@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:29 EST
+"Nutrient data for: 11416, Pumpkin flowers, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 33.0g","1 flower = 2.0g",
+Proximates
+"Water",g,95.15,31.40,1.90
+"Energy",kcal,15,5,0
+"Protein",g,1.03,0.34,0.02
+"Total lipid (fat)",g,0.07,0.02,0.00
+"Carbohydrate, by difference",g,3.28,1.08,0.07
+Minerals
+"Calcium, Ca",mg,39,13,1
+"Iron, Fe",mg,0.70,0.23,0.01
+"Magnesium, Mg",mg,24,8,0
+"Phosphorus, P",mg,49,16,1
+"Potassium, K",mg,173,57,3
+"Sodium, Na",mg,5,2,0
+Vitamins
+"Vitamin C, total ascorbic acid",mg,28.0,9.2,0.6
+"Thiamin",mg,0.042,0.014,0.001
+"Riboflavin",mg,0.075,0.025,0.002
+"Niacin",mg,0.690,0.228,0.014
+"Folate, DFE",µg,59,19,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,97,32,2
+"Vitamin A, IU",IU,1947,643,39
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.036,0.012,0.001
+"Fatty acids, total monounsaturated",g,0.009,0.003,0.000
+"Fatty acids, total polyunsaturated",g,0.004,0.001,0.000
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

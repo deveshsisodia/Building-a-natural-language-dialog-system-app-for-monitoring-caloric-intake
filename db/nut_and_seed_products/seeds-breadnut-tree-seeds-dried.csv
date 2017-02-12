@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:09 EST
+"Nutrient data for: 12005, Seeds, breadnut tree seeds, dried"
+Nutrient,Unit,1Value per 100 g,"1 cup = 160.0g","1 oz = 28.35g",
+Proximates
+"Water",g,6.50,10.40,1.84
+"Energy",kcal,367,587,104
+"Protein",g,8.62,13.79,2.44
+"Total lipid (fat)",g,1.68,2.69,0.48
+"Carbohydrate, by difference",g,79.39,127.02,22.51
+"Fiber, total dietary",g,14.9,23.8,4.2
+Minerals
+"Calcium, Ca",mg,94,150,27
+"Iron, Fe",mg,4.60,7.36,1.30
+"Magnesium, Mg",mg,115,184,33
+"Phosphorus, P",mg,178,285,50
+"Potassium, K",mg,2011,3218,570
+"Sodium, Na",mg,53,85,15
+"Zinc, Zn",mg,1.91,3.06,0.54
+Vitamins
+"Vitamin C, total ascorbic acid",mg,46.6,74.6,13.2
+"Thiamin",mg,0.030,0.048,0.009
+"Riboflavin",mg,0.140,0.224,0.040
+"Niacin",mg,2.100,3.360,0.595
+"Vitamin B-6",mg,0.685,1.096,0.194
+"Folate, DFE",µg,113,181,32
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,11,18,3
+"Vitamin A, IU",IU,216,346,61
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.454,0.726,0.129
+"Fatty acids, total monounsaturated",g,0.214,0.342,0.061
+"Fatty acids, total polyunsaturated",g,0.896,1.434,0.254
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:32 EST
+"Nutrient data for: 11547, Tomato products, canned, puree, without salt added"
+Nutrient,Unit,1Value per 100 g,"1 cup = 250.0g","1 can (29 oz) (401 x 411) = 822.0g",
+Proximates
+"Water",g,87.88,219.70,722.37
+"Energy",kcal,38,95,312
+"Protein",g,1.65,4.12,13.56
+"Total lipid (fat)",g,0.21,0.53,1.73
+"Carbohydrate, by difference",g,8.98,22.45,73.82
+"Fiber, total dietary",g,1.9,4.8,15.6
+"Sugars, total",g,4.83,12.07,39.70
+Minerals
+"Calcium, Ca",mg,18,45,148
+"Iron, Fe",mg,1.78,4.45,14.63
+"Magnesium, Mg",mg,23,58,189
+"Phosphorus, P",mg,40,100,329
+"Potassium, K",mg,439,1098,3609
+"Sodium, Na",mg,28,70,230
+"Zinc, Zn",mg,0.36,0.90,2.96
+Vitamins
+"Vitamin C, total ascorbic acid",mg,10.6,26.5,87.1
+"Thiamin",mg,0.025,0.062,0.206
+"Riboflavin",mg,0.080,0.200,0.658
+"Niacin",mg,1.466,3.665,12.051
+"Vitamin B-6",mg,0.126,0.315,1.036
+"Folate, DFE",µg,11,28,90
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,26,65,214
+"Vitamin A, IU",IU,510,1275,4192
+"Vitamin E (alpha-tocopherol)",mg,1.97,4.92,16.19
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,3.4,8.5,27.9
+Lipids
+"Fatty acids, total saturated",g,0.029,0.072,0.238
+"Fatty acids, total monounsaturated",g,0.031,0.077,0.255
+"Fatty acids, total polyunsaturated",g,0.086,0.215,0.707
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

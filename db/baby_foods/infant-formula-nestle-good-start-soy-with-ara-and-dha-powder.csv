@@ -1,0 +1,45 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:50 EST
+"Nutrient data for: 03867, Infant formula, NESTLE, GOOD START SOY, with ARA and DHA, powder"
+Nutrient,Unit,1Value per 100 g,"1 scoop = 9.4g",
+Proximates
+"Water",g,2.50,0.23
+"Energy",kcal,503,47
+"Protein",g,12.50,1.18
+"Total lipid (fat)",g,25.60,2.41
+"Carbohydrate, by difference",g,55.60,5.23
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,44.38,4.17
+Minerals
+"Calcium, Ca",mg,526,49
+"Iron, Fe",mg,9.00,0.85
+"Magnesium, Mg",mg,55,5
+"Phosphorus, P",mg,316,30
+"Potassium, K",mg,581,55
+"Sodium, Na",mg,200,19
+"Zinc, Zn",mg,4.51,0.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,60.1,5.6
+"Thiamin",mg,0.301,0.028
+"Riboflavin",mg,0.471,0.044
+"Niacin",mg,6.764,0.636
+"Vitamin B-6",mg,0.301,0.028
+"Folate, DFE",µg,136,13
+"Vitamin B-12",µg,1.50,0.14
+"Vitamin A, RAE",µg,451,42
+"Vitamin A, IU",IU,1503,141
+"Vitamin E (alpha-tocopherol)",mg,7.34,0.69
+"Vitamin D (D2 + D3)",µg,7.5,0.7
+"Vitamin D",IU,301,28
+"Vitamin K (phylloquinone)",µg,45.1,4.2
+Lipids
+"Fatty acids, total saturated",g,11.000,1.034
+"Fatty acids, total monounsaturated",g,8.100,0.761
+"Fatty acids, total polyunsaturated",g,6.000,0.564
+"Cholesterol",mg,6,1
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(a)"Contain arachidonic acid (ARA, nutrient number 620) and docosahexaenoic acid (DHA, nutrient number 621) fatty acids found in human breast milk."

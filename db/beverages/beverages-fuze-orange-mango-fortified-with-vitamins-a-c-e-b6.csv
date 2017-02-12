@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:22 EST
+"Nutrient data for: 14048, Beverages, FUZE, orange mango, fortified with vitamins A, C, E, B6"
+Nutrient,Unit,1Value per 100 g,"1 bottle = 500.0g",
+Proximates
+"Water",g,87.97,439.85
+"Energy",kcal,38,190
+"Protein",g,0.68,3.40
+"Total lipid (fat)",g,0.06,0.30
+"Carbohydrate, by difference",g,9.20,46.00
+"Fiber, total dietary",g,0.2,1.0
+"Sugars, total",g,9.00,45.00
+Minerals
+"Calcium, Ca",mg,9,45
+"Iron, Fe",mg,0.10,0.50
+"Magnesium, Mg",mg,10,50
+"Phosphorus, P",mg,16,80
+"Potassium, K",mg,192,960
+"Sodium, Na",mg,10,50
+"Zinc, Zn",mg,0.05,0.25
+Vitamins
+"Vitamin C, total ascorbic acid",mg,24.0,120.0
+"Thiamin",mg,0.080,0.400
+"Riboflavin",mg,0.018,0.090
+"Niacin",mg,0.204,1.020
+"Vitamin B-6",mg,0.160,0.800
+"Folate, DFE",µg,44,220
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,20,100
+"Vitamin A, IU",IU,400,2000
+"Vitamin E (alpha-tocopherol)",mg,1.08,5.40
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.5
+Lipids
+"Fatty acids, total saturated",g,0.007,0.035
+"Fatty acids, total monounsaturated",g,0.011,0.055
+"Fatty acids, total polyunsaturated",g,0.012,0.060
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

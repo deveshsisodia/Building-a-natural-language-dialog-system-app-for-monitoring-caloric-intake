@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:24 EST
+"Nutrient data for: 11273, Mustard greens, frozen, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 150.0g","1 package (10 oz) yields = 212.0g",
+Proximates
+"Water",g,93.80,140.70,198.86
+"Energy",kcal,19,28,40
+"Protein",g,2.27,3.40,4.81
+"Total lipid (fat)",g,0.25,0.38,0.53
+"Carbohydrate, by difference",g,3.11,4.67,6.59
+"Fiber, total dietary",g,2.8,4.2,5.9
+"Sugars, total",g,0.32,0.48,0.68
+Minerals
+"Calcium, Ca",mg,101,152,214
+"Iron, Fe",mg,1.12,1.68,2.37
+"Magnesium, Mg",mg,13,20,28
+"Phosphorus, P",mg,24,36,51
+"Potassium, K",mg,139,208,295
+"Sodium, Na",mg,25,38,53
+"Zinc, Zn",mg,0.20,0.30,0.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,13.8,20.7,29.3
+"Thiamin",mg,0.040,0.060,0.085
+"Riboflavin",mg,0.053,0.080,0.112
+"Niacin",mg,0.258,0.387,0.547
+"Vitamin B-6",mg,0.108,0.162,0.229
+"Folate, DFE",µg,70,105,148
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,354,531,750
+"Vitamin A, IU",IU,7076,10614,15001
+"Vitamin E (alpha-tocopherol)",mg,1.35,2.02,2.86
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,335.1,502.6,710.4
+Lipids
+"Fatty acids, total saturated",g,0.013,0.019,0.028
+"Fatty acids, total monounsaturated",g,0.113,0.169,0.240
+"Fatty acids, total polyunsaturated",g,0.047,0.070,0.100
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

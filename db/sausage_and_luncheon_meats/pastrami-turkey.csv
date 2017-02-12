@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:17 EST
+"Nutrient data for: 07052, Pastrami, turkey"
+Nutrient,Unit,1Value per 100 g,"2.0 slices = 57.0g","1 package (8 oz) = 227.0g",
+Proximates
+"Water",g,71.73,40.89,162.83
+"Energy",kcal,139,79,316
+"Protein",g,16.30,9.29,37.00
+"Total lipid (fat)",g,6.21,3.54,14.10
+"Carbohydrate, by difference",g,3.34,1.90,7.58
+"Fiber, total dietary",g,0.1,0.1,0.2
+"Sugars, total",g,3.34,1.90,7.58
+Minerals
+"Calcium, Ca",mg,11,6,25
+"Iron, Fe",mg,4.20,2.39,9.53
+"Magnesium, Mg",mg,14,8,32
+"Phosphorus, P",mg,200,114,454
+"Potassium, K",mg,345,197,783
+"Sodium, Na",mg,1123,640,2549
+"Zinc, Zn",mg,2.16,1.23,4.90
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.1,4.6,18.4
+"Thiamin",mg,0.055,0.031,0.125
+"Riboflavin",mg,0.250,0.142,0.568
+"Niacin",mg,3.527,2.010,8.006
+"Vitamin B-6",mg,0.270,0.154,0.613
+"Folate, DFE",µg,5,3,11
+"Vitamin B-12",µg,0.24,0.14,0.54
+"Vitamin A, RAE",µg,4,2,9
+"Vitamin A, IU",IU,12,7,27
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.13,0.50
+"Vitamin D (D2 + D3)",µg,0.2,0.1,0.5
+"Vitamin D",IU,10,6,23
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.395,0.795,3.167
+"Fatty acids, total monounsaturated",g,1.930,1.100,4.381
+"Fatty acids, total polyunsaturated",g,1.420,0.809,3.223
+"Cholesterol",mg,68,39,154
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

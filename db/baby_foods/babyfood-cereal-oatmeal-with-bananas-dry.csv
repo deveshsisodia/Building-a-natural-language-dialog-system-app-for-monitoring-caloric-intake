@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:41 EST
+"Nutrient data for: 03190, Babyfood, cereal, oatmeal, with bananas, dry"
+Nutrient,Unit,1Value per 100 g,"1 serving = 15.0g","1 tbsp = 2.5g",
+Proximates
+"Water",g,4.70,0.70,0.12
+"Energy",kcal,399,60,10
+"Protein",g,6.67,1.00,0.17
+"Total lipid (fat)",g,6.67,1.00,0.17
+"Carbohydrate, by difference",g,78.07,11.71,1.95
+"Fiber, total dietary",g,5.2,0.8,0.1
+"Sugars, total",g,26.66,4.00,0.67
+Minerals
+"Calcium, Ca",mg,800,120,20
+"Iron, Fe",mg,45.00,6.75,1.12
+"Magnesium, Mg",mg,118,18,3
+"Phosphorus, P",mg,267,40,7
+"Potassium, K",mg,600,90,15
+"Sodium, Na",mg,33,5,1
+"Zinc, Zn",mg,1.90,0.28,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,58.3,8.7,1.5
+"Thiamin",mg,0.833,0.125,0.021
+"Riboflavin",mg,1.000,0.150,0.025
+"Niacin",mg,13.000,1.950,0.325
+"Vitamin B-6",mg,0.660,0.099,0.017
+"Folate, DFE",µg,259,39,6
+"Vitamin B-12",µg,3.33,0.50,0.08
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,5.00,0.75,0.12
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,3.0,0.5,0.1
+Lipids
+"Fatty acids, total saturated",g,1.267,0.190,0.032
+"Fatty acids, total monounsaturated",g,1.429,0.214,0.036
+"Fatty acids, total polyunsaturated",g,2.186,0.328,0.055
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

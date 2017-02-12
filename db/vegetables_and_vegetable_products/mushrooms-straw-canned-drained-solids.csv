@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:23 EST
+"Nutrient data for: 11989, Mushrooms, straw, canned, drained solids"
+Nutrient,Unit,1Value per 100 g,"1 cup = 182.0g","1 piece = 5.5g",
+Proximates
+"Water",g,89.88,163.58,4.94
+"Energy",kcal,32,58,2
+"Protein",g,3.83,6.97,0.21
+"Total lipid (fat)",g,0.68,1.24,0.04
+"Carbohydrate, by difference",g,4.64,8.44,0.26
+"Fiber, total dietary",g,2.5,4.5,0.1
+Minerals
+"Calcium, Ca",mg,10,18,1
+"Iron, Fe",mg,1.43,2.60,0.08
+"Magnesium, Mg",mg,7,13,0
+"Phosphorus, P",mg,61,111,3
+"Potassium, K",mg,78,142,4
+"Sodium, Na",mg,384,699,21
+"Zinc, Zn",mg,0.67,1.22,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.013,0.024,0.001
+"Riboflavin",mg,0.070,0.127,0.004
+"Niacin",mg,0.224,0.408,0.012
+"Vitamin B-6",mg,0.014,0.025,0.001
+"Folate, DFE",µg,38,69,2
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.089,0.162,0.005
+"Fatty acids, total monounsaturated",g,0.012,0.022,0.001
+"Fatty acids, total polyunsaturated",g,0.263,0.479,0.014
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

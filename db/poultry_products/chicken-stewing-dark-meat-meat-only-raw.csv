@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:38 EST
+"Nutrient data for: 05131, Chicken, stewing, dark meat, meat only, raw"
+Nutrient,Unit,1Value per 100 g,"1 unit (yield from 1 lb ready-to-cook chicken) = 105.0g","0.5 chicken, bone and skin removed = 154.0g",
+Proximates
+"Water",g,71.94,75.54,110.79
+"Energy",kcal,157,165,242
+"Protein",g,19.70,20.68,30.34
+"Total lipid (fat)",g,8.12,8.53,12.50
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,10,10,15
+"Iron, Fe",mg,1.22,1.28,1.88
+"Magnesium, Mg",mg,23,24,35
+"Phosphorus, P",mg,190,200,293
+"Potassium, K",mg,242,254,373
+"Sodium, Na",mg,101,106,156
+"Zinc, Zn",mg,2.08,2.18,3.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.6,4.8,7.1
+"Thiamin",mg,0.163,0.171,0.251
+"Riboflavin",mg,0.279,0.293,0.430
+"Niacin",mg,5.405,5.675,8.324
+"Vitamin B-6",mg,0.340,0.357,0.524
+"Folate, DFE",µg,10,10,15
+"Vitamin B-12",µg,0.37,0.39,0.57
+"Vitamin A, RAE",µg,41,43,63
+"Vitamin A, IU",IU,135,142,208
+"Vitamin E (alpha-tocopherol)",mg,0.24,0.25,0.37
+"Vitamin K (phylloquinone)",µg,2.4,2.5,3.7
+Lipids
+"Fatty acids, total saturated",g,2.080,2.184,3.203
+"Fatty acids, total monounsaturated",g,2.520,2.646,3.881
+"Fatty acids, total polyunsaturated",g,2.020,2.121,3.111
+"Cholesterol",mg,77,81,119
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

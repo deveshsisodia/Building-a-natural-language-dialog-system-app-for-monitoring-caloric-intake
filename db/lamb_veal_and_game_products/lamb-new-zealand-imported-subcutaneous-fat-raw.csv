@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:04 EST
+"Nutrient data for: 17356, Lamb, New Zealand, imported, subcutaneous fat, raw"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,19.17,
+"Energy",kcal,703,
+"Protein",g,3.87,
+"Total lipid (fat)",g,76.16,
+"Carbohydrate, by difference",g,0.55,
+"Fiber, total dietary",g,0.0,
+"Sugars, total",g,0.00,
+Minerals
+"Calcium, Ca",mg,3,
+"Iron, Fe",mg,0.47,
+"Magnesium, Mg",mg,5,
+"Phosphorus, P",mg,45,
+"Potassium, K",mg,93,
+"Sodium, Na",mg,28,
+"Zinc, Zn",mg,0.46,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,
+"Thiamin",mg,0.088,
+"Riboflavin",mg,0.038,
+"Niacin",mg,1.060,
+"Vitamin B-6",mg,0.032,
+"Vitamin B-12",µg,0.41,
+"Vitamin A, RAE",µg,44,
+"Vitamin A, IU",IU,146,
+"Vitamin E (alpha-tocopherol)",mg,1.18,
+"Vitamin D (D2 + D3)",µg,0.1,
+"Vitamin D",IU,4,
+Lipids
+"Fatty acids, total saturated",g,32.369,
+"Fatty acids, total monounsaturated",g,21.703,
+"Fatty acids, total polyunsaturated",g,2.310,
+"Fatty acids, total trans",g,4.049,
+"Cholesterol",mg,78,
+Amino Acids
+Other
+"Caffeine",mg,0,

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:03 EST
+"Nutrient data for: 08059, Cereals ready-to-eat, QUAKER, SWEET CRUNCH/QUISP"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 27.0g",
+Proximates
+"Water",g,2.00,0.54
+"Energy",kcal,406,110
+"Protein",g,4.51,1.22
+"Total lipid (fat)",g,6.08,1.64
+"Carbohydrate, by difference",g,85.03,22.96
+"Fiber, total dietary",g,2.3,0.6
+"Sugars, total",g,43.36,11.71
+Minerals
+"Calcium, Ca",mg,9,2
+"Iron, Fe",mg,18.35,4.95
+"Magnesium, Mg",mg,55,15
+"Phosphorus, P",mg,168,45
+"Potassium, K",mg,187,50
+"Sodium, Na",mg,740,200
+"Zinc, Zn",mg,15.29,4.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,1.529,0.413
+"Riboflavin",mg,1.732,0.468
+"Niacin",mg,20.382,5.503
+"Vitamin B-6",mg,2.037,0.550
+"Folate, DFE",µg,2630,710
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,21,6
+"Vitamin A, IU",IU,148,40
+"Vitamin E (alpha-tocopherol)",mg,0.73,0.20
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.2,0.1
+Lipids
+"Fatty acids, total saturated",g,4.442,1.199
+"Fatty acids, total monounsaturated",g,0.695,0.188
+"Fatty acids, total polyunsaturated",g,0.854,0.231
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

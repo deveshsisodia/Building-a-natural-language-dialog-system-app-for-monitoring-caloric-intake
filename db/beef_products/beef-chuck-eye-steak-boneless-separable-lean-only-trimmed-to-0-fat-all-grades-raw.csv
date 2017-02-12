@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:35 EST
+"Nutrient data for: 23080, Beef, chuck eye steak, boneless, separable lean only, trimmed to 0"" fat, all grades, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 steak = 384.0g",
+Proximates
+"Water",g,70.25,59.71,269.76
+"Energy",kcal,153,130,588
+"Protein",g,21.29,18.10,81.75
+"Total lipid (fat)",g,7.56,6.43,29.03
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,15,13,58
+"Iron, Fe",mg,2.28,1.94,8.76
+"Magnesium, Mg",mg,22,19,84
+"Phosphorus, P",mg,202,172,776
+"Potassium, K",mg,371,315,1425
+"Sodium, Na",mg,70,60,269
+"Zinc, Zn",mg,8.39,7.13,32.22
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.075,0.064,0.288
+"Riboflavin",mg,0.170,0.145,0.653
+"Niacin",mg,4.827,4.103,18.536
+"Vitamin B-6",mg,0.392,0.333,1.505
+"Folate, DFE",µg,3,3,12
+"Vitamin B-12",µg,3.07,2.61,11.79
+"Vitamin A, RAE",µg,2,2,8
+"Vitamin A, IU",IU,7,6,27
+"Vitamin E (alpha-tocopherol)",mg,0.17,0.14,0.65
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.4
+"Vitamin D",IU,4,3,15
+"Vitamin K (phylloquinone)",µg,1.5,1.3,5.8
+Lipids
+"Fatty acids, total saturated",g,3.267,2.777,12.545
+"Fatty acids, total monounsaturated",g,3.710,3.154,14.246
+"Fatty acids, total polyunsaturated",g,0.372,0.316,1.428
+"Fatty acids, total trans",g,0.414,0.352,1.590
+"Cholesterol",mg,67,57,257
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

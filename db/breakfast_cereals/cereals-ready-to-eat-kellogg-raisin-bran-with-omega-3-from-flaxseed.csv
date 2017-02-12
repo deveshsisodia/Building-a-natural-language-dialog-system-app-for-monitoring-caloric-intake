@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08700, Cereals ready-to-eat, KELLOGG RAISIN BRAN with Omega-3 from flaxseed"
+Nutrient,Unit,1Value per 100 g,"1 Cup (1 NLEA serving) = 53.0g",
+Proximates
+"Water",g,5.69,3.02
+"Energy",kcal,349,185
+"Protein",g,7.30,3.87
+"Total lipid (fat)",g,2.50,1.32
+"Carbohydrate, by difference",g,82.69,43.83
+"Fiber, total dietary",g,9.6,5.1
+"Sugars, total",g,31.29,16.58
+Minerals
+"Calcium, Ca",mg,39,21
+"Iron, Fe",mg,8.50,4.50
+"Magnesium, Mg",mg,96,51
+"Phosphorus, P",mg,235,125
+"Potassium, K",mg,262,139
+"Sodium, Na",mg,355,188
+"Zinc, Zn",mg,2.79,1.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.0,1.1
+"Thiamin",mg,0.700,0.371
+"Riboflavin",mg,0.800,0.424
+"Niacin",mg,9.390,4.977
+"Vitamin B-6",mg,0.930,0.493
+"Vitamin B-12",µg,3.00,1.59
+"Vitamin A, IU",IU,943,500
+"Vitamin D (D2 + D3)",µg,1.9,1.0
+"Vitamin D",IU,75,40
+Lipids
+"Fatty acids, total saturated",g,0.300,0.159
+"Fatty acids, total monounsaturated",g,0.400,0.212
+"Fatty acids, total polyunsaturated",g,1.500,0.795
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

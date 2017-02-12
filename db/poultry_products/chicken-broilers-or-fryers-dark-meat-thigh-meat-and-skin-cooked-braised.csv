@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:25 EST
+"Nutrient data for: 05677, Chicken, broilers or fryers, dark meat, thigh, meat and skin, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"1 thigh without skin = 111.0g","1 thigh with skin = 129.0g",
+Proximates
+"Water",g,61.93,68.74,79.89
+"Energy",kcal,229,254,295
+"Protein",g,22.57,25.05,29.12
+"Total lipid (fat)",g,15.43,17.13,19.90
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,11,12,14
+"Iron, Fe",mg,1.21,1.34,1.56
+"Magnesium, Mg",mg,23,26,30
+"Phosphorus, P",mg,187,208,241
+"Potassium, K",mg,245,272,316
+"Sodium, Na",mg,76,84,98
+"Zinc, Zn",mg,1.64,1.82,2.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.080,0.089,0.103
+"Riboflavin",mg,0.157,0.174,0.203
+"Niacin",mg,5.276,5.856,6.806
+"Vitamin B-6",mg,0.385,0.427,0.497
+"Folate, DFE",µg,4,4,5
+"Vitamin B-12",µg,0.43,0.48,0.55
+"Vitamin A, RAE",µg,16,18,21
+"Vitamin A, IU",IU,54,60,70
+"Vitamin E (alpha-tocopherol)",mg,0.17,0.19,0.22
+"Vitamin D (D2 + D3)",µg,0.3,0.3,0.4
+"Vitamin D",IU,11,12,14
+"Vitamin K (phylloquinone)",µg,0.3,0.3,0.4
+Lipids
+"Fatty acids, total saturated",g,4.253,4.721,5.486
+"Fatty acids, total monounsaturated",g,6.488,7.202,8.370
+"Fatty acids, total polyunsaturated",g,2.963,3.289,3.822
+"Fatty acids, total trans",g,0.082,0.091,0.106
+"Cholesterol",mg,139,154,179
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

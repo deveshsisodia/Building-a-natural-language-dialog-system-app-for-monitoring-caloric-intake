@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:07 EST
+"Nutrient data for: 01229, Cheese, white, queso blanco"
+Nutrient,Unit,1Value per 100 g,"1 cup, crumbled = 118.0g",
+Proximates
+"Water",g,48.70,57.47
+"Energy",kcal,310,366
+"Protein",g,20.38,24.05
+"Total lipid (fat)",g,24.31,28.69
+"Carbohydrate, by difference",g,2.53,2.99
+"Sugars, total",g,1.76,2.08
+Minerals
+"Calcium, Ca",mg,690,814
+"Iron, Fe",mg,0.18,0.21
+"Magnesium, Mg",mg,29,34
+"Phosphorus, P",mg,467,551
+"Potassium, K",mg,126,149
+"Sodium, Na",mg,704,831
+"Zinc, Zn",mg,3.06,3.61
+Vitamins
+"Thiamin",mg,0.048,0.057
+"Riboflavin",mg,0.230,0.271
+"Niacin",mg,0.035,0.041
+"Vitamin B-6",mg,0.086,0.101
+"Vitamin B-12",µg,1.75,2.06
+"Vitamin A, RAE",µg,157,185
+"Vitamin A, IU",IU,555,655
+"Vitamin E (alpha-tocopherol)",mg,0.47,0.55
+"Vitamin D (D2 + D3)",µg,0.7,0.8
+"Vitamin D",IU,27,32
+"Vitamin K (phylloquinone)",µg,1.6,1.9
+Lipids
+"Fatty acids, total saturated",g,13.661,16.120
+"Fatty acids, total monounsaturated",g,6.459,7.622
+"Fatty acids, total polyunsaturated",g,1.149,1.356
+"Fatty acids, total trans",g,0.890,1.050
+"Cholesterol",mg,70,83
+Amino Acids
+Other

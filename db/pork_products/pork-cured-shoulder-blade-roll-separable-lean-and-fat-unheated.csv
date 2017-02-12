@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:41 EST
+"Nutrient data for: 10170, Pork, cured, shoulder, blade roll, separable lean and fat, unheated"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","4.0 oz = 113.0g",
+Proximates
+"Water",g,59.13,16.76,66.82
+"Energy",kcal,269,76,304
+"Protein",g,16.47,4.67,18.61
+"Total lipid (fat)",g,21.98,6.23,24.84
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,7,2,8
+"Iron, Fe",mg,0.82,0.23,0.93
+"Magnesium, Mg",mg,13,4,15
+"Phosphorus, P",mg,199,56,225
+"Potassium, K",mg,295,84,333
+"Sodium, Na",mg,1250,354,1412
+"Zinc, Zn",mg,2.35,0.67,2.66
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.1,0.3
+"Thiamin",mg,0.540,0.153,0.610
+"Riboflavin",mg,0.220,0.062,0.249
+"Niacin",mg,2.720,0.771,3.074
+"Vitamin B-6",mg,0.260,0.074,0.294
+"Folate, DFE",µg,3,1,3
+"Vitamin B-12",µg,1.30,0.37,1.47
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,7.939,2.251,8.971
+"Fatty acids, total monounsaturated",g,9.755,2.766,11.023
+"Fatty acids, total polyunsaturated",g,2.334,0.662,2.637
+"Cholesterol",mg,53,15,60
+Amino Acids
+Other

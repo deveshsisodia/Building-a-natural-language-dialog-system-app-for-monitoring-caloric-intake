@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:33 EST
+"Nutrient data for: 05346, Chicken, broilers or fryers, wing, meat only, cooked, rotisserie, original seasoning"
+Nutrient,Unit,1Value per 100 g,"1 wing = 53.0g","1 serving (3 oz) = 85.0g","1 oz = 28.35g",
+Proximates
+"Water",g,61.13,32.40,51.96,17.33
+"Energy",kcal,197,104,167,56
+"Protein",g,27.69,14.68,23.54,7.85
+"Total lipid (fat)",g,9.53,5.05,8.10,2.70
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,32,17,27,9
+"Iron, Fe",mg,0.97,0.51,0.82,0.27
+"Magnesium, Mg",mg,24,13,20,7
+"Phosphorus, P",mg,264,140,224,75
+"Potassium, K",mg,322,171,274,91
+"Sodium, Na",mg,725,384,616,206
+"Zinc, Zn",mg,2.05,1.09,1.74,0.58
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.090,0.048,0.076,0.026
+"Riboflavin",mg,0.135,0.072,0.115,0.038
+"Niacin",mg,7.500,3.975,6.375,2.126
+"Vitamin B-6",mg,0.180,0.095,0.153,0.051
+"Folate, DFE",µg,7,4,6,2
+"Vitamin B-12",µg,0.38,0.20,0.32,0.11
+"Vitamin A, RAE",µg,11,6,9,3
+"Vitamin A, IU",IU,37,20,31,10
+"Vitamin E (alpha-tocopherol)",mg,0.28,0.15,0.24,0.08
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,2.223,1.178,1.890,0.630
+"Fatty acids, total monounsaturated",g,3.766,1.996,3.201,1.068
+"Fatty acids, total polyunsaturated",g,1.323,0.701,1.125,0.375
+"Fatty acids, total trans",g,0.104,0.055,0.088,0.029
+"Cholesterol",mg,140,74,119,40
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

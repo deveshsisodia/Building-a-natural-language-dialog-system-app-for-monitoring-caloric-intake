@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:23 EST
+"Nutrient data for: 11043, Mung beans, mature seeds, sprouted, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 104.0g","1 package (12 oz) = 340.0g",
+Proximates
+"Water",g,90.40,94.02,307.36
+"Energy",kcal,30,31,102
+"Protein",g,3.04,3.16,10.34
+"Total lipid (fat)",g,0.18,0.19,0.61
+"Carbohydrate, by difference",g,5.94,6.18,20.20
+"Fiber, total dietary",g,1.8,1.9,6.1
+"Sugars, total",g,4.13,4.30,14.04
+Minerals
+"Calcium, Ca",mg,13,14,44
+"Iron, Fe",mg,0.91,0.95,3.09
+"Magnesium, Mg",mg,21,22,71
+"Phosphorus, P",mg,54,56,184
+"Potassium, K",mg,149,155,507
+"Sodium, Na",mg,6,6,20
+"Zinc, Zn",mg,0.41,0.43,1.39
+Vitamins
+"Vitamin C, total ascorbic acid",mg,13.2,13.7,44.9
+"Thiamin",mg,0.084,0.087,0.286
+"Riboflavin",mg,0.124,0.129,0.422
+"Niacin",mg,0.749,0.779,2.547
+"Vitamin B-6",mg,0.088,0.092,0.299
+"Folate, DFE",µg,61,63,207
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,1,3
+"Vitamin A, IU",IU,21,22,71
+"Vitamin E (alpha-tocopherol)",mg,0.10,0.10,0.34
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,33.0,34.3,112.2
+Lipids
+"Fatty acids, total saturated",g,0.046,0.048,0.156
+"Fatty acids, total monounsaturated",g,0.022,0.023,0.075
+"Fatty acids, total polyunsaturated",g,0.058,0.060,0.197
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

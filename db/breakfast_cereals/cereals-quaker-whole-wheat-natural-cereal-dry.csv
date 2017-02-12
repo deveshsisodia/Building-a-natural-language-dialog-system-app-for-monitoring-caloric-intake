@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08452, Cereals, QUAKER, Whole Wheat Natural Cereal, dry"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 40.0g",
+Proximates
+"Water",g,9.80,3.92
+"Energy",kcal,333,133
+"Protein",g,11.80,4.72
+"Total lipid (fat)",g,2.00,0.80
+"Carbohydrate, by difference",g,74.80,29.92
+"Fiber, total dietary",g,9.9,4.0
+"Sugars, total",g,2.00,0.80
+Minerals
+"Calcium, Ca",mg,44,18
+"Iron, Fe",mg,3.30,1.32
+"Magnesium, Mg",mg,147,59
+"Phosphorus, P",mg,406,162
+"Potassium, K",mg,502,201
+"Sodium, Na",mg,8,3
+"Zinc, Zn",mg,4.10,1.64
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.480,0.192
+"Riboflavin",mg,0.140,0.056
+"Niacin",mg,5.100,2.040
+"Vitamin B-6",mg,0.440,0.176
+"Folate, DFE",µg,49,20
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,11,4
+"Vitamin E (alpha-tocopherol)",mg,0.94,0.38
+Lipids
+"Fatty acids, total saturated",g,0.419,0.168
+"Fatty acids, total monounsaturated",g,0.309,0.124
+"Fatty acids, total polyunsaturated",g,1.176,0.470
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

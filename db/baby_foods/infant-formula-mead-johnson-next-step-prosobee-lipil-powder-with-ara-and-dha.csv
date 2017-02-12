@@ -1,0 +1,45 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:49 EST
+"Nutrient data for: 03861, Infant formula, MEAD JOHNSON, NEXT STEP, PROSOBEE LIPIL, powder, with ARA and DHA"
+Nutrient,Unit,1Value per 100 g,"3.0 scoop = 28.0g",
+Proximates
+"Water",g,3.00,0.84
+"Energy",kcal,480,134
+"Protein",g,15.60,4.37
+"Total lipid (fat)",g,21.00,5.88
+"Carbohydrate, by difference",g,57.10,15.99
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,56.00,15.68
+Minerals
+"Calcium, Ca",mg,920,258
+"Iron, Fe",mg,9.50,2.66
+"Magnesium, Mg",mg,52,15
+"Phosphorus, P",mg,620,174
+"Potassium, K",mg,570,160
+"Sodium, Na",mg,171,48
+"Zinc, Zn",mg,5.70,1.60
+Vitamins
+"Vitamin C, total ascorbic acid",mg,57.0,16.0
+"Thiamin",mg,0.380,0.106
+"Riboflavin",mg,0.430,0.120
+"Niacin",mg,4.700,1.316
+"Vitamin B-6",mg,0.280,0.078
+"Folate, DFE",µg,129,36
+"Vitamin B-12",µg,1.42,0.40
+"Vitamin A, RAE",µg,430,120
+"Vitamin A, IU",IU,1420,398
+"Vitamin E (alpha-tocopherol)",mg,6.40,1.79
+"Vitamin D (D2 + D3)",µg,7.1,2.0
+"Vitamin D",IU,284,80
+"Vitamin K (phylloquinone)",µg,38.0,10.6
+Lipids
+"Fatty acids, total saturated",g,8.905,2.493
+"Fatty acids, total monounsaturated",g,7.800,2.184
+"Fatty acids, total polyunsaturated",g,4.200,1.176
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(a)"Contains arachidonic acid (ARA, nutrient number 620) and docosahexaenoic acid (DHA, nutrient number 621), fatty acids found in human breast milk."

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:57 EST
+"Nutrient data for: 43410, Chicken, meatless, breaded, fried"
+Nutrient,Unit,1Value per 100 g,"1 cup, diced = 130.0g","1 cup pieces = 168.0g","1 piece = 36.0g",
+Proximates
+"Water",g,56.44,73.37,94.82,20.32
+"Energy",kcal,234,304,393,84
+"Protein",g,21.28,27.66,35.75,7.66
+"Total lipid (fat)",g,12.77,16.60,21.45,4.60
+"Carbohydrate, by difference",g,8.51,11.06,14.30,3.06
+"Fiber, total dietary",g,4.3,5.6,7.2,1.5
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,42,55,71,15
+"Iron, Fe",mg,3.83,4.98,6.43,1.38
+"Magnesium, Mg",mg,12,16,20,4
+"Phosphorus, P",mg,245,318,412,88
+"Potassium, K",mg,300,390,504,108
+"Sodium, Na",mg,400,520,672,144
+"Zinc, Zn",mg,0.65,0.84,1.09,0.23
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,1.277,1.660,2.145,0.460
+"Riboflavin",mg,0.362,0.471,0.608,0.130
+"Niacin",mg,12.766,16.596,21.447,4.596
+"Vitamin B-6",mg,0.851,1.106,1.430,0.306
+"Folate, DFE",µg,56,73,94,20
+"Vitamin B-12",µg,5.11,6.64,8.58,1.84
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.95,2.54,3.28,0.70
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.130,1.469,1.898,0.407
+"Fatty acids, total monounsaturated",g,3.226,4.194,5.420,1.161
+"Fatty acids, total polyunsaturated",g,4.581,5.955,7.696,1.649
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

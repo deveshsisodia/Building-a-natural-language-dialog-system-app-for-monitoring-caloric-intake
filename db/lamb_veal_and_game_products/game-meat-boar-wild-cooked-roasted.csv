@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:52 EST
+"Nutrient data for: 17159, Game meat, boar, wild, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked (yield from 1 lb raw meat, boneless) = 340.0g",
+Proximates
+"Water",g,63.87,54.29,217.16
+"Energy",kcal,160,136,544
+"Protein",g,28.30,24.05,96.22
+"Total lipid (fat)",g,4.38,3.72,14.89
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,16,14,54
+"Iron, Fe",mg,1.12,0.95,3.81
+"Magnesium, Mg",mg,27,23,92
+"Phosphorus, P",mg,134,114,456
+"Potassium, K",mg,396,337,1346
+"Sodium, Na",mg,60,51,204
+"Zinc, Zn",mg,3.01,2.56,10.23
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.310,0.264,1.054
+"Riboflavin",mg,0.140,0.119,0.476
+"Niacin",mg,4.210,3.579,14.314
+"Vitamin B-6",mg,0.418,0.355,1.421
+"Folate, DFE",µg,6,5,20
+"Vitamin B-12",µg,0.70,0.59,2.38
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.38,0.32,1.29
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.4,1.2,4.8
+Lipids
+"Fatty acids, total saturated",g,1.300,1.105,4.420
+"Fatty acids, total monounsaturated",g,1.710,1.454,5.814
+"Fatty acids, total polyunsaturated",g,0.640,0.544,2.176
+"Cholesterol",mg,77,65,262
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

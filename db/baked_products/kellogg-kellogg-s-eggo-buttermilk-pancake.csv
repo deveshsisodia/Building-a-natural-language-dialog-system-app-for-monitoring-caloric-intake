@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:40 EST
+"Nutrient data for: 18499, KELLOGG, KELLOGG'S EGGO, Buttermilk Pancake"
+Nutrient,Unit,1Value per 100 g,"3.0 pancakes (NLEA serving) = 116.0g",
+Proximates
+"Water",g,45.60,52.90
+"Energy",kcal,245,284
+"Protein",g,5.30,6.15
+"Total lipid (fat)",g,8.00,9.28
+"Carbohydrate, by difference",g,38.60,44.78
+"Fiber, total dietary",g,1.0,1.2
+"Sugars, total",g,10.00,11.60
+Minerals
+"Calcium, Ca",mg,78,90
+"Iron, Fe",mg,3.90,4.52
+"Magnesium, Mg",mg,1,1
+"Phosphorus, P",mg,194,225
+"Potassium, K",mg,57,66
+"Sodium, Na",mg,508,589
+"Zinc, Zn",mg,0.10,0.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.4,1.6
+"Thiamin",mg,0.260,0.302
+"Riboflavin",mg,0.290,0.336
+"Niacin",mg,3.400,3.944
+"Vitamin B-6",mg,0.340,0.394
+"Vitamin B-12",µg,1.00,1.16
+"Vitamin A, IU",IU,862,1000
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.300,1.508
+"Fatty acids, total monounsaturated",g,2.000,2.320
+"Fatty acids, total polyunsaturated",g,4.400,5.104
+"Fatty acids, total trans",g,0.100,0.116
+"Cholesterol",mg,11,13
+Amino Acids
+Other

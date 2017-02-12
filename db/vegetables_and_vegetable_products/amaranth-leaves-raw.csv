@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:15 EST
+"Nutrient data for: 11003, Amaranth leaves, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 28.0g","1 leaf = 14.0g",
+Proximates
+"Water",g,91.69,25.67,12.84
+"Energy",kcal,23,6,3
+"Protein",g,2.46,0.69,0.34
+"Total lipid (fat)",g,0.33,0.09,0.05
+"Carbohydrate, by difference",g,4.02,1.13,0.56
+Minerals
+"Calcium, Ca",mg,215,60,30
+"Iron, Fe",mg,2.32,0.65,0.32
+"Magnesium, Mg",mg,55,15,8
+"Phosphorus, P",mg,50,14,7
+"Potassium, K",mg,611,171,86
+"Sodium, Na",mg,20,6,3
+"Zinc, Zn",mg,0.90,0.25,0.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,43.3,12.1,6.1
+"Thiamin",mg,0.027,0.008,0.004
+"Riboflavin",mg,0.158,0.044,0.022
+"Niacin",mg,0.658,0.184,0.092
+"Vitamin B-6",mg,0.192,0.054,0.027
+"Folate, DFE",µg,85,24,12
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,146,41,20
+"Vitamin A, IU",IU,2917,817,408
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1140.0,319.2,159.6
+Lipids
+"Fatty acids, total saturated",g,0.091,0.025,0.013
+"Fatty acids, total monounsaturated",g,0.076,0.021,0.011
+"Fatty acids, total polyunsaturated",g,0.147,0.041,0.021
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

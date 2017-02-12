@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08651, Cereals ready-to-eat, GENERAL MILLS, FIBER ONE 80 Calories, Honey Squares"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,2.20,0.66
+"Energy",kcal,248,74
+"Protein",g,4.80,1.44
+"Total lipid (fat)",g,2.59,0.78
+"Carbohydrate, by difference",g,85.19,25.56
+"Fiber, total dietary",g,38.5,11.6
+"Sugars, total",g,10.80,3.24
+Minerals
+"Calcium, Ca",mg,1000,300
+"Iron, Fe",mg,15.00,4.50
+"Magnesium, Mg",mg,53,16
+"Phosphorus, P",mg,333,100
+"Potassium, K",mg,229,69
+"Sodium, Na",mg,425,128
+"Zinc, Zn",mg,12.50,3.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,20.0,6.0
+"Thiamin",mg,1.290,0.387
+"Riboflavin",mg,1.390,0.417
+"Niacin",mg,16.700,5.010
+"Vitamin B-6",mg,1.660,0.498
+"Vitamin B-12",µg,5.00,1.50
+"Vitamin A, IU",IU,1667,500
+"Vitamin D (D2 + D3)",µg,3.3,1.0
+"Vitamin D",IU,133,40
+Lipids
+"Fatty acids, total saturated",g,0.400,0.120
+"Fatty acids, total monounsaturated",g,0.700,0.210
+"Fatty acids, total polyunsaturated",g,1.390,0.417
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

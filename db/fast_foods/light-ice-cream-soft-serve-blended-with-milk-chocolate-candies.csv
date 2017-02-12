@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:35 EST
+"Nutrient data for: 21412, Light Ice Cream, soft serve, blended with milk chocolate candies"
+Nutrient,Unit,1Value per 100 g,"12.0 fl oz cup = 348.0g",
+Proximates
+"Water",g,61.74,214.86
+"Energy",kcal,182,633
+"Protein",g,4.02,13.99
+"Total lipid (fat)",g,6.46,22.48
+"Carbohydrate, by difference",g,26.82,93.33
+"Fiber, total dietary",g,0.2,0.7
+"Sugars, total",g,24.37,84.81
+Minerals
+"Calcium, Ca",mg,135,470
+"Iron, Fe",mg,0.27,0.94
+"Magnesium, Mg",mg,17,59
+"Phosphorus, P",mg,116,404
+"Potassium, K",mg,208,724
+"Sodium, Na",mg,54,188
+"Zinc, Zn",mg,0.54,1.88
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,3.1
+"Thiamin",mg,0.051,0.177
+"Riboflavin",mg,0.243,0.846
+"Niacin",mg,0.139,0.484
+"Vitamin B-6",mg,0.053,0.184
+"Folate, DFE",µg,3,10
+"Vitamin B-12",µg,0.60,2.09
+"Vitamin A, RAE",µg,31,108
+"Vitamin A, IU",IU,111,386
+"Vitamin E (alpha-tocopherol)",mg,0.08,0.28
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.7,2.4
+Lipids
+"Fatty acids, total saturated",g,3.633,12.643
+"Fatty acids, total monounsaturated",g,1.670,5.812
+"Fatty acids, total polyunsaturated",g,0.282,0.981
+"Cholesterol",mg,16,56
+Amino Acids
+Other
+"Caffeine",mg,1,3

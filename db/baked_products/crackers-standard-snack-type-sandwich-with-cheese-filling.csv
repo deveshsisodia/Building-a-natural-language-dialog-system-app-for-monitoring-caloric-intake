@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:36 EST
+"Nutrient data for: 18230, Crackers, standard snack-type, sandwich, with cheese filling"
+Nutrient,Unit,1Value per 100 g,"0.5 oz = 14.2g","1 cracker, sandwich = 7.0g",
+Proximates
+"Water",g,3.90,0.55,0.27
+"Energy",kcal,477,68,33
+"Protein",g,9.30,1.32,0.65
+"Total lipid (fat)",g,21.10,3.00,1.48
+"Carbohydrate, by difference",g,61.70,8.76,4.32
+"Fiber, total dietary",g,1.9,0.3,0.1
+"Sugars, total",g,3.18,0.45,0.22
+Minerals
+"Calcium, Ca",mg,257,36,18
+"Iron, Fe",mg,2.39,0.34,0.17
+"Magnesium, Mg",mg,36,5,3
+"Phosphorus, P",mg,406,58,28
+"Potassium, K",mg,429,61,30
+"Sodium, Na",mg,978,139,68
+"Zinc, Zn",mg,0.62,0.09,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0,0.0
+"Thiamin",mg,0.446,0.063,0.031
+"Riboflavin",mg,0.684,0.097,0.048
+"Niacin",mg,3.766,0.535,0.264
+"Vitamin B-6",mg,0.049,0.007,0.003
+"Folate, DFE",µg,160,23,11
+"Vitamin B-12",µg,0.10,0.01,0.01
+"Vitamin A, RAE",µg,17,2,1
+"Vitamin A, IU",IU,62,9,4
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.03,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,8.3,1.2,0.6
+Lipids
+"Fatty acids, total saturated",g,6.125,0.870,0.429
+"Fatty acids, total monounsaturated",g,11.254,1.598,0.788
+"Fatty acids, total polyunsaturated",g,2.567,0.365,0.180
+"Cholesterol",mg,2,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

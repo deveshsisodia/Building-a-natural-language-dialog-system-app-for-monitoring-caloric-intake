@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:29 EST
+"Nutrient data for: 11436, Rutabagas, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, cubes = 170.0g","1 cup, mashed = 240.0g",
+Proximates
+"Water",g,91.54,155.62,219.70
+"Energy",kcal,30,51,72
+"Protein",g,0.93,1.58,2.23
+"Total lipid (fat)",g,0.18,0.31,0.43
+"Carbohydrate, by difference",g,6.84,11.63,16.42
+"Fiber, total dietary",g,1.8,3.1,4.3
+"Sugars, total",g,3.95,6.71,9.48
+Minerals
+"Calcium, Ca",mg,18,31,43
+"Iron, Fe",mg,0.18,0.31,0.43
+"Magnesium, Mg",mg,10,17,24
+"Phosphorus, P",mg,41,70,98
+"Potassium, K",mg,216,367,518
+"Sodium, Na",mg,5,8,12
+"Zinc, Zn",mg,0.12,0.20,0.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,18.8,32.0,45.1
+"Thiamin",mg,0.082,0.139,0.197
+"Riboflavin",mg,0.041,0.070,0.098
+"Niacin",mg,0.715,1.216,1.716
+"Vitamin B-6",mg,0.102,0.173,0.245
+"Folate, DFE",µg,15,26,36
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,2,3,5
+"Vitamin E (alpha-tocopherol)",mg,0.24,0.41,0.58
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.2,0.3,0.5
+Lipids
+"Fatty acids, total saturated",g,0.029,0.049,0.070
+"Fatty acids, total monounsaturated",g,0.027,0.046,0.065
+"Fatty acids, total polyunsaturated",g,0.095,0.161,0.228
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,48 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:01 EST
+"Nutrient data for: 16127, Tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)"
+Nutrient,Unit,1Value per 100 g,"1 piece (2-1/2"" x 2-3/4"" x 1"") = 120.0g","1 cup (1/2"" cubes) = 248.0g","1 cubic inch = 18.0g","0.25 block = 116.0g","0.2 block = 90.0g",
+Proximates
+"Water",g,87.26,104.71,216.40,15.71,101.22,78.53
+"Energy",kcal,61,73,151,11,71,55
+"Protein",g,7.17,8.60,17.78,1.29,8.32,6.45
+"Total lipid (fat)",g,3.69,4.43,9.15,0.66,4.28,3.32
+"Carbohydrate, by difference",g,1.18,1.42,2.93,0.21,1.37,1.06
+"Fiber, total dietary",g,0.2,0.2,0.5,0.0,0.2,0.2
+"Sugars, total",g,0.70,0.84,1.74,0.13,0.81,0.63
+Minerals
+"Calcium, Ca",mg,111,133,275,20,129,100
+"Iron, Fe",mg,1.11,1.33,2.75,0.20,1.29,1.00
+"Magnesium, Mg",mg,27,32,67,5,31,24
+"Phosphorus, P",mg,92,110,228,17,107,83
+"Potassium, K",mg,120,144,298,22,139,108
+"Sodium, Na",mg,8,10,20,1,9,7
+"Zinc, Zn",mg,0.64,0.77,1.59,0.12,0.74,0.58
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.2,0.5,0.0,0.2,0.2
+"Thiamin",mg,0.047,0.056,0.117,0.008,0.055,0.042
+"Riboflavin",mg,0.037,0.044,0.092,0.007,0.043,0.033
+"Niacin",mg,0.535,0.642,1.327,0.096,0.621,0.482
+"Vitamin B-6",mg,0.052,0.062,0.129,0.009,0.060,0.047
+"Folate, DFE",µg,44,53,109,8,51,40
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0
+"Vitamin A, IU",IU,7,8,17,1,8,6
+"Vitamin E (alpha-tocopherol)",mg,0.01,0.01,0.02,0.00,0.01,0.01
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,2.0,2.4,5.0,0.4,2.3,1.8
+Lipids
+"Fatty acids, total saturated",g,0.533,0.640,1.322,0.096,0.618,0.480
+"Fatty acids, total monounsaturated",g,0.814,0.977,2.019,0.147,0.944,0.733
+"Fatty acids, total polyunsaturated",g,2.081,2.497,5.161,0.375,2.414,1.873
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0
+Footnotes
+(b)"Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly."
+(a)"Descriptive terms (soft, firm, extra firm) vary in usage between manufacturers as there are no standards for the various types of tofu."
+(b)"Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly."

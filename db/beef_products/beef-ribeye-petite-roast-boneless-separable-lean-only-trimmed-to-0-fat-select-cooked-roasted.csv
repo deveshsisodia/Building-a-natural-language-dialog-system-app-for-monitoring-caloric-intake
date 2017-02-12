@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:47 EST
+"Nutrient data for: 23277, Beef, ribeye petite roast, boneless, separable lean only, trimmed to 0"" fat, select, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 roast = 675.0g",
+Proximates
+"Water",g,65.02,55.27,438.88
+"Energy",kcal,164,139,1107
+"Protein",g,28.37,24.11,191.50
+"Total lipid (fat)",g,5.65,4.80,38.14
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,6,5,40
+"Iron, Fe",mg,3.46,2.94,23.36
+"Magnesium, Mg",mg,26,22,176
+"Phosphorus, P",mg,236,201,1593
+"Potassium, K",mg,372,316,2511
+"Sodium, Na",mg,84,71,567
+"Zinc, Zn",mg,10.73,9.12,72.43
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.089,0.076,0.601
+"Riboflavin",mg,0.428,0.364,2.889
+"Niacin",mg,4.554,3.871,30.740
+"Vitamin B-6",mg,0.460,0.391,3.105
+"Folate, DFE",µg,7,6,47
+"Vitamin B-12",µg,4.43,3.77,29.90
+"Vitamin A, RAE",µg,2,2,14
+"Vitamin A, IU",IU,7,6,47
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.7
+"Vitamin D",IU,3,3,20
+"Vitamin K (phylloquinone)",µg,1.6,1.4,10.8
+Lipids
+"Fatty acids, total saturated",g,1.887,1.604,12.737
+"Fatty acids, total monounsaturated",g,2.461,2.092,16.612
+"Fatty acids, total polyunsaturated",g,0.192,0.163,1.296
+"Fatty acids, total trans",g,0.281,0.239,1.897
+"Cholesterol",mg,89,76,601
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

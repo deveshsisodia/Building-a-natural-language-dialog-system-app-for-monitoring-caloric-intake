@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:09 EST
+"Nutrient data for: 12152, Nuts, pistachio nuts, dry roasted, without salt added"
+Nutrient,Unit,1Value per 100 g,"1 cup = 123.0g","1 oz (49 kernels) = 28.35g","1 kernel = 0.7g",
+Proximates
+"Water",g,1.85,2.28,0.52,0.01
+"Energy",kcal,572,704,162,4
+"Protein",g,21.05,25.89,5.97,0.15
+"Total lipid (fat)",g,45.82,56.36,12.99,0.32
+"Carbohydrate, by difference",g,28.28,34.78,8.02,0.20
+"Fiber, total dietary",g,10.3,12.7,2.9,0.1
+"Sugars, total",g,7.74,9.52,2.19,0.05
+Minerals
+"Calcium, Ca",mg,107,132,30,1
+"Iron, Fe",mg,4.03,4.96,1.14,0.03
+"Magnesium, Mg",mg,109,134,31,1
+"Phosphorus, P",mg,469,577,133,3
+"Potassium, K",mg,1007,1239,285,7
+"Sodium, Na",mg,6,7,2,0
+"Zinc, Zn",mg,2.34,2.88,0.66,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.0,3.7,0.9,0.0
+"Thiamin",mg,0.695,0.855,0.197,0.005
+"Riboflavin",mg,0.234,0.288,0.066,0.002
+"Niacin",mg,1.373,1.689,0.389,0.010
+"Vitamin B-6",mg,1.122,1.380,0.318,0.008
+"Folate, DFE",µg,51,63,14,0
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,13,16,4,0
+"Vitamin A, IU",IU,266,327,75,2
+"Vitamin E (alpha-tocopherol)",mg,2.17,2.67,0.62,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,13.2,16.2,3.7,0.1
+Lipids
+"Fatty acids, total saturated",g,5.645,6.943,1.600,0.040
+"Fatty acids, total monounsaturated",g,24.534,30.177,6.955,0.172
+"Fatty acids, total polyunsaturated",g,13.346,16.416,3.784,0.093
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0
+Footnotes
+(a)"Additional phytosterols total 89 mg/100 g; these include delta 5-avenasterol (26.2), sitostanol (2.3), campestanol (4.9), and other minor phytosterols (55.6 mg)."

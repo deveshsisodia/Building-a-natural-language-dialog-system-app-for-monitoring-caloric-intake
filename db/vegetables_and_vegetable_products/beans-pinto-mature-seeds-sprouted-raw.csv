@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:16 EST
+"Nutrient data for: 11653, Beans, pinto, mature seeds, sprouted, raw"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,81.30,
+"Energy",kcal,62,
+"Protein",g,5.25,
+"Total lipid (fat)",g,0.90,
+"Carbohydrate, by difference",g,11.60,
+Minerals
+"Calcium, Ca",mg,43,
+"Iron, Fe",mg,1.97,
+"Magnesium, Mg",mg,53,
+"Phosphorus, P",mg,94,
+"Potassium, K",mg,307,
+"Sodium, Na",mg,153,
+"Zinc, Zn",mg,0.50,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,21.7,
+"Thiamin",mg,0.230,
+"Riboflavin",mg,0.175,
+"Niacin",mg,2.280,
+"Vitamin B-6",mg,0.171,
+"Folate, DFE",µg,118,
+"Vitamin B-12",µg,0.00,
+"Vitamin A, RAE",µg,0,
+"Vitamin A, IU",IU,2,
+"Vitamin D (D2 + D3)",µg,0.0,
+"Vitamin D",IU,0,
+Lipids
+"Fatty acids, total saturated",g,0.109,
+"Fatty acids, total monounsaturated",g,0.067,
+"Fatty acids, total polyunsaturated",g,0.523,
+"Fatty acids, total trans",g,0.000,
+"Cholesterol",mg,0,
+Amino Acids
+Other

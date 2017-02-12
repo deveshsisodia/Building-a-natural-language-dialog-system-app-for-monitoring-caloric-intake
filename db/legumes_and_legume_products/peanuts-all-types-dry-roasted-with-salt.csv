@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:00 EST
+"Nutrient data for: 16090, Peanuts, all types, dry-roasted, with salt"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 peanut = 1.0g",
+Proximates
+"Water",g,1.81,0.51,0.02
+"Energy",kcal,587,166,6
+"Protein",g,24.35,6.90,0.24
+"Total lipid (fat)",g,49.66,14.08,0.50
+"Carbohydrate, by difference",g,21.26,6.03,0.21
+"Fiber, total dietary",g,8.4,2.4,0.1
+"Sugars, total",g,4.90,1.39,0.05
+Minerals
+"Calcium, Ca",mg,58,16,1
+"Iron, Fe",mg,1.58,0.45,0.02
+"Magnesium, Mg",mg,178,50,2
+"Phosphorus, P",mg,363,103,4
+"Potassium, K",mg,634,180,6
+"Sodium, Na",mg,410,116,4
+"Zinc, Zn",mg,2.77,0.79,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.152,0.043,0.002
+"Riboflavin",mg,0.197,0.056,0.002
+"Niacin",mg,14.355,4.070,0.144
+"Vitamin B-6",mg,0.466,0.132,0.005
+"Folate, DFE",µg,97,27,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,4.93,1.40,0.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,7.723,2.189,0.077
+"Fatty acids, total monounsaturated",g,26.181,7.422,0.262
+"Fatty acids, total polyunsaturated",g,9.773,2.771,0.098
+"Fatty acids, total trans",g,0.027,0.008,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

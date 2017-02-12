@@ -1,0 +1,31 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:16 EST
+"Nutrient data for: 04673, Margarine-like spread, SMART BALANCE Regular Buttery Spread with flax oil"
+Nutrient,Unit,1Value per 100 g,"1 tablespoon = 14.0g",
+Proximates
+"Water",g,33.95,4.75
+"Energy",kcal,583,82
+"Protein",g,0.14,0.02
+"Total lipid (fat)",g,64.63,9.05
+"Carbohydrate, by difference",g,0.14,0.02
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Phosphorus, P",mg,4,1
+"Potassium, K",mg,28,4
+"Sodium, Na",mg,646,90
+Vitamins
+"Vitamin A, IU",IU,3819,535
+"Vitamin E (alpha-tocopherol)",mg,19.34,2.71
+"Vitamin K (phylloquinone)",µg,55.5,7.8
+Lipids
+"Fatty acids, total saturated",g,16.690,2.337
+"Fatty acids, total monounsaturated",g,26.207,3.669
+"Fatty acids, total polyunsaturated",g,17.822,2.495
+"Fatty acids, total trans",g,0.425,0.060
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+Footnotes
+(a)"contains 2.841 g omega-3 fatty acids"

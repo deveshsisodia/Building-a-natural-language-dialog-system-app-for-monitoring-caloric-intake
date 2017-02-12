@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:20 EST
+"Nutrient data for: 11182, Corn, yellow, whole kernel, frozen, microwaved"
+Nutrient,Unit,1Value per 100 g,"1 cup = 141.0g",
+Proximates
+"Water",g,68.40,96.44
+"Energy",kcal,131,185
+"Protein",g,3.62,5.10
+"Total lipid (fat)",g,1.42,2.00
+"Carbohydrate, by difference",g,25.87,36.48
+"Fiber, total dietary",g,2.6,3.7
+"Sugars, total",g,3.36,4.74
+Minerals
+"Calcium, Ca",mg,5,7
+"Iron, Fe",mg,0.39,0.55
+"Magnesium, Mg",mg,25,35
+"Phosphorus, P",mg,95,134
+"Potassium, K",mg,276,389
+"Sodium, Na",mg,4,6
+"Zinc, Zn",mg,0.53,0.75
+Vitamins
+"Thiamin",mg,0.083,0.117
+"Riboflavin",mg,0.050,0.071
+"Niacin",mg,2.070,2.919
+"Vitamin B-6",mg,0.120,0.169
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,12,17
+"Vitamin A, IU",IU,234,330
+"Vitamin E (alpha-tocopherol)",mg,0.10,0.14
+"Vitamin K (phylloquinone)",µg,0.4,0.6
+Lipids
+"Fatty acids, total saturated",g,0.150,0.211
+"Fatty acids, total monounsaturated",g,0.287,0.405
+"Fatty acids, total polyunsaturated",g,0.463,0.653
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

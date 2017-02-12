@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18088, Cake, angelfood, dry mix, prepared"
+Nutrient,Unit,1Value per 100 g,"1 piece (1/12 of 10"" dia) = 50.0g","1 tube cake (10"" dia, 4-3/8"" high) = 596.0g",
+Proximates
+"Water",g,32.90,16.45,196.08
+"Energy",kcal,257,128,1532
+"Protein",g,6.10,3.05,36.36
+"Total lipid (fat)",g,0.30,0.15,1.79
+"Carbohydrate, by difference",g,58.70,29.35,349.85
+"Fiber, total dietary",g,0.2,0.1,1.2
+"Sugars, total",g,30.51,15.26,181.84
+Minerals
+"Calcium, Ca",mg,84,42,501
+"Iron, Fe",mg,0.23,0.12,1.37
+"Magnesium, Mg",mg,8,4,48
+"Phosphorus, P",mg,232,116,1383
+"Potassium, K",mg,135,68,805
+"Sodium, Na",mg,511,256,3046
+"Zinc, Zn",mg,0.13,0.07,0.77
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.092,0.046,0.548
+"Riboflavin",mg,0.202,0.101,1.204
+"Niacin",mg,0.171,0.086,1.019
+"Vitamin B-6",mg,0.006,0.003,0.036
+"Folate, DFE",µg,29,14,173
+"Vitamin B-12",µg,0.03,0.01,0.18
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.01,0.01,0.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.6
+Lipids
+"Fatty acids, total saturated",g,0.043,0.021,0.256
+"Fatty acids, total monounsaturated",g,0.026,0.013,0.155
+"Fatty acids, total polyunsaturated",g,0.124,0.062,0.739
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

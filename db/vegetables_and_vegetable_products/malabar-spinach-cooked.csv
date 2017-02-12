@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:23 EST
+"Nutrient data for: 11986, Malabar spinach, cooked"
+Nutrient,Unit,1Value per 100 g,"1 cup = 44.0g","1 bunch = 17.0g",
+Proximates
+"Water",g,92.50,40.70,15.72
+"Energy",kcal,23,10,4
+"Protein",g,2.98,1.31,0.51
+"Total lipid (fat)",g,0.78,0.34,0.13
+"Carbohydrate, by difference",g,2.71,1.19,0.46
+"Fiber, total dietary",g,2.1,0.9,0.4
+Minerals
+"Calcium, Ca",mg,124,55,21
+"Iron, Fe",mg,1.48,0.65,0.25
+"Magnesium, Mg",mg,48,21,8
+"Phosphorus, P",mg,36,16,6
+"Potassium, K",mg,256,113,44
+"Sodium, Na",mg,55,24,9
+"Zinc, Zn",mg,0.30,0.13,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.9,2.6,1.0
+"Thiamin",mg,0.106,0.047,0.018
+"Riboflavin",mg,0.129,0.057,0.022
+"Niacin",mg,0.787,0.346,0.134
+"Vitamin B-6",mg,0.086,0.038,0.015
+"Folate, DFE",µg,114,50,19
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,58,26,10
+"Vitamin A, IU",IU,1158,510,197
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:02 EST
+"Nutrient data for: 08676, Cereals ready-to-eat, MALT-O-MEAL, Honey Nut SCOOTERS"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,2.50,0.75
+"Energy",kcal,387,116
+"Protein",g,8.59,2.58
+"Total lipid (fat)",g,4.51,1.35
+"Carbohydrate, by difference",g,79.62,23.89
+"Fiber, total dietary",g,6.3,1.9
+"Sugars, total",g,29.97,8.99
+Minerals
+"Calcium, Ca",mg,333,100
+"Iron, Fe",mg,30.00,9.00
+"Magnesium, Mg",mg,92,28
+"Phosphorus, P",mg,318,95
+"Potassium, K",mg,241,72
+"Sodium, Na",mg,695,208
+"Zinc, Zn",mg,12.50,3.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,20.0,6.0
+"Thiamin",mg,1.250,0.375
+"Riboflavin",mg,1.410,0.423
+"Niacin",mg,16.670,5.001
+"Vitamin B-6",mg,1.660,0.498
+"Folate, DFE",µg,1121,336
+"Vitamin B-12",µg,5.00,1.50
+"Vitamin A, IU",IU,1667,500
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,3.3,1.0
+"Vitamin D",IU,133,40
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.630,0.189
+"Fatty acids, total monounsaturated",g,1.110,0.333
+"Fatty acids, total polyunsaturated",g,1.320,0.396
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:17 EST
+"Nutrient data for: 07058, Pickle and pimiento loaf, pork"
+Nutrient,Unit,1Value per 100 g,"1 slice = 38.0g","2.0 slices = 57.0g",
+Proximates
+"Water",g,60.29,22.91,34.37
+"Energy",kcal,225,86,128
+"Protein",g,11.23,4.27,6.40
+"Total lipid (fat)",g,15.95,6.06,9.09
+"Carbohydrate, by difference",g,8.46,3.21,4.82
+"Fiber, total dietary",g,1.5,0.6,0.9
+"Sugars, total",g,8.46,3.21,4.82
+Minerals
+"Calcium, Ca",mg,109,41,62
+"Iron, Fe",mg,1.33,0.51,0.76
+"Magnesium, Mg",mg,34,13,19
+"Phosphorus, P",mg,153,58,87
+"Potassium, K",mg,371,141,211
+"Sodium, Na",mg,1040,395,593
+"Zinc, Zn",mg,1.68,0.64,0.96
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.8,3.0,4.4
+"Thiamin",mg,0.392,0.149,0.223
+"Riboflavin",mg,0.115,0.044,0.066
+"Niacin",mg,2.486,0.945,1.417
+"Vitamin B-6",mg,0.418,0.159,0.238
+"Folate, DFE",µg,37,14,21
+"Vitamin B-12",µg,0.54,0.21,0.31
+"Vitamin A, RAE",µg,78,30,44
+"Vitamin A, IU",IU,260,99,148
+"Vitamin E (alpha-tocopherol)",mg,0.40,0.15,0.23
+"Vitamin D (D2 + D3)",µg,0.8,0.3,0.5
+"Vitamin D",IU,33,13,19
+"Vitamin K (phylloquinone)",µg,5.1,1.9,2.9
+Lipids
+"Fatty acids, total saturated",g,5.287,2.009,3.014
+"Fatty acids, total monounsaturated",g,7.060,2.683,4.024
+"Fatty acids, total polyunsaturated",g,2.804,1.066,1.598
+"Cholesterol",mg,58,22,33
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

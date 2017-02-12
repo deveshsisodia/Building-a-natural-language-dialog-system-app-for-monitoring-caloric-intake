@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:09 EST
+"Nutrient data for: 12193, Seeds, sisymbrium sp. seeds, whole, dried"
+Nutrient,Unit,1Value per 100 g,"1 cup = 74.0g","1 oz = 28.35g",
+Proximates
+"Water",g,6.10,4.51,1.73
+"Energy",kcal,318,235,90
+"Protein",g,12.14,8.98,3.44
+"Total lipid (fat)",g,4.60,3.40,1.30
+"Carbohydrate, by difference",g,58.26,43.11,16.52
+Minerals
+"Calcium, Ca",mg,1633,1208,463
+"Iron, Fe",mg,0.11,0.08,0.03
+"Magnesium, Mg",mg,314,232,89
+"Phosphorus, P",mg,6,4,2
+"Potassium, K",mg,2130,1576,604
+"Sodium, Na",mg,92,68,26
+"Zinc, Zn",mg,0.30,0.22,0.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,30.7,22.7,8.7
+"Thiamin",mg,0.191,0.141,0.054
+"Riboflavin",mg,0.423,0.313,0.120
+"Niacin",mg,16.825,12.450,4.770
+"Vitamin B-6",mg,0.778,0.576,0.221
+"Folate, DFE",µg,95,70,27
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,3,2,1
+"Vitamin A, IU",IU,63,47,18
+Lipids
+"Fatty acids, total saturated",g,0.902,0.667,0.256
+"Fatty acids, total monounsaturated",g,1.486,1.100,0.421
+"Fatty acids, total polyunsaturated",g,2.023,1.497,0.574
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

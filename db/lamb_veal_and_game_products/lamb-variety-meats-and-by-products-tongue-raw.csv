@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:06 EST
+"Nutrient data for: 17220, Lamb, variety meats and by-products, tongue, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","4.0 oz = 113.0g",
+Proximates
+"Water",g,66.60,18.88,75.26
+"Energy",kcal,222,63,251
+"Protein",g,15.70,4.45,17.74
+"Total lipid (fat)",g,17.17,4.87,19.40
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,9,3,10
+"Iron, Fe",mg,2.65,0.75,2.99
+"Magnesium, Mg",mg,21,6,24
+"Phosphorus, P",mg,184,52,208
+"Potassium, K",mg,257,73,290
+"Sodium, Na",mg,78,22,88
+"Zinc, Zn",mg,2.32,0.66,2.62
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.0,1.7,6.8
+"Thiamin",mg,0.150,0.043,0.169
+"Riboflavin",mg,0.380,0.108,0.429
+"Niacin",mg,4.650,1.318,5.255
+"Vitamin B-6",mg,0.180,0.051,0.203
+"Folate, DFE",µg,4,1,5
+"Vitamin B-12",µg,7.20,2.04,8.14
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,6.630,1.880,7.492
+"Fatty acids, total monounsaturated",g,8.460,2.398,9.560
+"Fatty acids, total polyunsaturated",g,1.060,0.301,1.198
+"Cholesterol",mg,156,44,176
+Amino Acids
+Other

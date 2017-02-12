@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:25 EST
+"Nutrient data for: 11300, Peas, edible-podded, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 98.0g","1 cup, whole = 63.0g","10.0 pea pods = 34.0g",
+Proximates
+"Water",g,88.89,87.11,56.00,30.22
+"Energy",kcal,42,41,26,14
+"Protein",g,2.80,2.74,1.76,0.95
+"Total lipid (fat)",g,0.20,0.20,0.13,0.07
+"Carbohydrate, by difference",g,7.55,7.40,4.76,2.57
+"Fiber, total dietary",g,2.6,2.5,1.6,0.9
+"Sugars, total",g,4.00,3.92,2.52,1.36
+Minerals
+"Calcium, Ca",mg,43,42,27,15
+"Iron, Fe",mg,2.08,2.04,1.31,0.71
+"Magnesium, Mg",mg,24,24,15,8
+"Phosphorus, P",mg,53,52,33,18
+"Potassium, K",mg,200,196,126,68
+"Sodium, Na",mg,4,4,3,1
+"Zinc, Zn",mg,0.27,0.26,0.17,0.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,60.0,58.8,37.8,20.4
+"Thiamin",mg,0.150,0.147,0.094,0.051
+"Riboflavin",mg,0.080,0.078,0.050,0.027
+"Niacin",mg,0.600,0.588,0.378,0.204
+"Vitamin B-6",mg,0.160,0.157,0.101,0.054
+"Folate, DFE",µg,42,41,26,14
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,54,53,34,18
+"Vitamin A, IU",IU,1087,1065,685,370
+"Vitamin E (alpha-tocopherol)",mg,0.39,0.38,0.25,0.13
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,25.0,24.5,15.8,8.5
+Lipids
+"Fatty acids, total saturated",g,0.039,0.038,0.025,0.013
+"Fatty acids, total monounsaturated",g,0.021,0.021,0.013,0.007
+"Fatty acids, total polyunsaturated",g,0.089,0.087,0.056,0.030
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

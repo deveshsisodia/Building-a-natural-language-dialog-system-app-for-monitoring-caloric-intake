@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:30 EST
+"Nutrient data for: 18030, Bread, french or vienna, toasted (includes sourdough)"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice, small = 29.0g","1 slice, medium = 59.0g","1 slice, large = 88.0g",
+Proximates
+"Water",g,20.61,5.84,5.98,12.16,18.14
+"Energy",kcal,319,90,93,188,281
+"Protein",g,13.00,3.69,3.77,7.67,11.44
+"Total lipid (fat)",g,2.14,0.61,0.62,1.26,1.88
+"Carbohydrate, by difference",g,61.93,17.56,17.96,36.54,54.50
+"Fiber, total dietary",g,3.1,0.9,0.9,1.8,2.7
+"Sugars, total",g,3.59,1.02,1.04,2.12,3.16
+Minerals
+"Calcium, Ca",mg,47,13,14,28,41
+"Iron, Fe",mg,3.87,1.10,1.12,2.28,3.41
+"Magnesium, Mg",mg,31,9,9,18,27
+"Phosphorus, P",mg,126,36,37,74,111
+"Potassium, K",mg,140,40,41,83,123
+"Sodium, Na",mg,720,204,209,425,634
+"Zinc, Zn",mg,1.05,0.30,0.30,0.62,0.92
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1,0.1,0.1,0.2
+"Thiamin",mg,0.427,0.121,0.124,0.252,0.376
+"Riboflavin",mg,0.370,0.105,0.107,0.218,0.326
+"Niacin",mg,5.380,1.525,1.560,3.174,4.734
+"Vitamin B-6",mg,0.096,0.027,0.028,0.057,0.084
+"Folate, DFE",µg,217,62,63,128,191
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.19,0.05,0.06,0.11,0.17
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.5,0.1,0.1,0.3,0.4
+Lipids
+"Fatty acids, total saturated",g,0.502,0.142,0.146,0.296,0.442
+"Fatty acids, total monounsaturated",g,0.386,0.109,0.112,0.228,0.340
+"Fatty acids, total polyunsaturated",g,0.830,0.235,0.241,0.490,0.730
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

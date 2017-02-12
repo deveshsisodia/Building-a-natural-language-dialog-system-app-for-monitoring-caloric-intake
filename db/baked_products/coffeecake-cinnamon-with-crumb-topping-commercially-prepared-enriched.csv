@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:33 EST
+"Nutrient data for: 18104, Coffeecake, cinnamon with crumb topping, commercially prepared, enriched"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 individual cake = 57.0g","1 piece (1/9 of 20 oz cake) = 63.0g",
+Proximates
+"Water",g,21.90,6.21,12.48,13.80
+"Energy",kcal,418,119,238,263
+"Protein",g,6.80,1.93,3.88,4.28
+"Total lipid (fat)",g,23.30,6.61,13.28,14.68
+"Carbohydrate, by difference",g,46.70,13.24,26.62,29.42
+"Fiber, total dietary",g,2.0,0.6,1.1,1.3
+Minerals
+"Calcium, Ca",mg,54,15,31,34
+"Iron, Fe",mg,1.91,0.54,1.09,1.20
+"Magnesium, Mg",mg,22,6,13,14
+"Phosphorus, P",mg,108,31,62,68
+"Potassium, K",mg,123,35,70,77
+"Sodium, Na",mg,351,100,200,221
+"Zinc, Zn",mg,0.81,0.23,0.46,0.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.1,0.2,0.2
+"Thiamin",mg,0.209,0.059,0.119,0.132
+"Riboflavin",mg,0.229,0.065,0.131,0.144
+"Niacin",mg,1.678,0.476,0.956,1.057
+"Vitamin B-6",mg,0.027,0.008,0.015,0.017
+"Folate, DFE",µg,81,23,46,51
+"Vitamin B-12",µg,0.18,0.05,0.10,0.11
+"Vitamin A, RAE",µg,33,9,19,21
+"Vitamin A, IU",IU,111,31,63,70
+Lipids
+"Fatty acids, total saturated",g,5.797,1.643,3.304,3.652
+"Fatty acids, total monounsaturated",g,12.976,3.679,7.396,8.175
+"Fatty acids, total polyunsaturated",g,3.120,0.885,1.778,1.966
+"Cholesterol",mg,32,9,18,20
+Amino Acids
+Other

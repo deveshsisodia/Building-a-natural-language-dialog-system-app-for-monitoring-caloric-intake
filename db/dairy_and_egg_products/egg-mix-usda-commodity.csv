@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:08 EST
+"Nutrient data for: 01210, Egg Mix, USDA Commodity"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 8.6g","1 cup = 105.0g",
+Proximates
+"Water",g,2.78,0.24,2.92
+"Energy",kcal,555,48,583
+"Protein",g,35.60,3.06,37.38
+"Total lipid (fat)",g,34.50,2.97,36.23
+"Carbohydrate, by difference",g,23.97,2.06,25.17
+"Sugars, total",g,2.46,0.21,2.58
+Minerals
+"Calcium, Ca",mg,171,15,180
+"Iron, Fe",mg,3.23,0.28,3.39
+"Magnesium, Mg",mg,11,1,12
+"Phosphorus, P",mg,451,39,474
+"Potassium, K",mg,373,32,392
+"Sodium, Na",mg,576,50,605
+"Zinc, Zn",mg,2.76,0.24,2.90
+Vitamins
+"Thiamin",mg,0.190,0.016,0.199
+"Riboflavin",mg,1.277,0.110,1.341
+"Niacin",mg,0.267,0.023,0.280
+"Vitamin B-6",mg,0.207,0.018,0.217
+"Folate, DFE",µg,138,12,145
+"Vitamin B-12",µg,2.90,0.25,3.04
+"Vitamin A, RAE",µg,117,10,123
+"Vitamin A, IU",IU,398,34,418
+"Vitamin E (alpha-tocopherol)",mg,2.04,0.18,2.14
+"Vitamin D (D2 + D3)",µg,7.4,0.6,7.8
+"Vitamin D",IU,296,25,311
+"Vitamin K (phylloquinone)",µg,0.7,0.1,0.7
+Lipids
+"Fatty acids, total saturated",g,10.305,0.886,10.820
+"Fatty acids, total monounsaturated",g,13.745,1.182,14.432
+"Fatty acids, total polyunsaturated",g,7.555,0.650,7.933
+"Cholesterol",mg,975,84,1024
+Amino Acids
+Other

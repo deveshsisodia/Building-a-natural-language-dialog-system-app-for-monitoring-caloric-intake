@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:21 EST
+"Nutrient data for: 14214, Beverages, coffee, instant, regular, powder"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 1.0g","1 packet = 2.0g",
+Proximates
+"Water",g,3.10,0.03,0.06
+"Energy",kcal,353,4,7
+"Protein",g,12.20,0.12,0.24
+"Total lipid (fat)",g,0.50,0.01,0.01
+"Carbohydrate, by difference",g,75.40,0.75,1.51
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,141,1,3
+"Iron, Fe",mg,4.41,0.04,0.09
+"Magnesium, Mg",mg,327,3,7
+"Phosphorus, P",mg,303,3,6
+"Potassium, K",mg,3535,35,71
+"Sodium, Na",mg,37,0,1
+"Zinc, Zn",mg,0.35,0.00,0.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.008,0.000,0.000
+"Riboflavin",mg,0.074,0.001,0.001
+"Niacin",mg,28.173,0.282,0.563
+"Vitamin B-6",mg,0.029,0.000,0.001
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.9,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.197,0.002,0.004
+"Fatty acids, total monounsaturated",g,0.041,0.000,0.001
+"Fatty acids, total polyunsaturated",g,0.196,0.002,0.004
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,3142,31,63

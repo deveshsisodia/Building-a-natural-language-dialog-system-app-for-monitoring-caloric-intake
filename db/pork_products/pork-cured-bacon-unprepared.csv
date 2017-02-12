@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:37 EST
+"Nutrient data for: 10123, Pork, cured, bacon, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 slice raw = 28.0g","1 package = 442.0g",
+Proximates
+"Water",g,44.24,12.39,195.54
+"Energy",kcal,417,117,1843
+"Protein",g,12.62,3.53,55.78
+"Total lipid (fat)",g,39.69,11.11,175.43
+"Carbohydrate, by difference",g,1.28,0.36,5.66
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,1.00,0.28,4.42
+Minerals
+"Calcium, Ca",mg,5,1,22
+"Iron, Fe",mg,0.41,0.11,1.81
+"Magnesium, Mg",mg,12,3,53
+"Phosphorus, P",mg,144,40,636
+"Potassium, K",mg,198,55,875
+"Sodium, Na",mg,662,185,2926
+"Zinc, Zn",mg,1.18,0.33,5.22
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.276,0.077,1.220
+"Riboflavin",mg,0.081,0.023,0.358
+"Niacin",mg,4.022,1.126,17.777
+"Vitamin B-6",mg,0.266,0.074,1.176
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.50,0.14,2.21
+"Vitamin A, RAE",µg,11,3,49
+"Vitamin A, IU",IU,37,10,164
+"Vitamin E (alpha-tocopherol)",mg,0.43,0.12,1.90
+"Vitamin D (D2 + D3)",µg,0.4,0.1,1.8
+"Vitamin D",IU,16,4,71
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,13.296,3.723,58.768
+"Fatty acids, total monounsaturated",g,17.439,4.883,77.080
+"Fatty acids, total polyunsaturated",g,6.454,1.807,28.527
+"Fatty acids, total trans",g,0.133,0.037,0.588
+"Cholesterol",mg,66,18,292
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

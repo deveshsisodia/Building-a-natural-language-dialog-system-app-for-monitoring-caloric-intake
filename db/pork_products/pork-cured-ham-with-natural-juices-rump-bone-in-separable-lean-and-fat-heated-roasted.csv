@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:40 EST
+"Nutrient data for: 10923, Pork, cured, ham with natural juices, rump, bone-in, separable lean and fat, heated, roasted"
+Nutrient,Unit,1Value per 100 g,"1 serving (3 oz) = 85.0g","1 roast rump = 2673.0g",
+Proximates
+"Water",g,64.38,54.72,1720.88
+"Energy",kcal,177,150,4731
+"Protein",g,22.47,19.10,600.62
+"Total lipid (fat)",g,9.39,7.98,250.99
+"Carbohydrate, by difference",g,0.60,0.51,16.04
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.45,0.38,12.03
+Minerals
+"Calcium, Ca",mg,10,8,267
+"Iron, Fe",mg,0.99,0.84,26.46
+"Magnesium, Mg",mg,21,18,561
+"Phosphorus, P",mg,260,221,6950
+"Potassium, K",mg,477,405,12750
+"Sodium, Na",mg,841,715,22480
+"Zinc, Zn",mg,2.35,2.00,62.82
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.327,0.278,8.741
+"Riboflavin",mg,0.222,0.189,5.934
+"Niacin",mg,7.127,6.058,190.505
+"Vitamin B-6",mg,0.364,0.309,9.730
+"Folate, DFE",µg,1,1,27
+"Vitamin B-12",µg,0.58,0.49,15.50
+"Vitamin A, RAE",µg,11,9,294
+"Vitamin A, IU",IU,38,32,1016
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.23,7.22
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,3.116,2.649,83.291
+"Fatty acids, total monounsaturated",g,4.364,3.709,116.650
+"Fatty acids, total polyunsaturated",g,1.337,1.136,35.738
+"Fatty acids, total trans",g,0.072,0.061,1.925
+"Cholesterol",mg,72,61,1925
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:42 EST
+"Nutrient data for: 18273, Muffins, plain, prepared from recipe, made with low fat (2%) milk"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 muffin = 57.0g",
+Proximates
+"Water",g,37.70,10.69,21.49
+"Energy",kcal,296,84,169
+"Protein",g,6.90,1.96,3.93
+"Total lipid (fat)",g,11.40,3.23,6.50
+"Carbohydrate, by difference",g,41.40,11.74,23.60
+"Fiber, total dietary",g,2.7,0.8,1.5
+Minerals
+"Calcium, Ca",mg,200,57,114
+"Iron, Fe",mg,2.39,0.68,1.36
+"Magnesium, Mg",mg,17,5,10
+"Phosphorus, P",mg,153,43,87
+"Potassium, K",mg,121,34,69
+"Sodium, Na",mg,467,132,266
+"Zinc, Zn",mg,0.56,0.16,0.32
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.1,0.2
+"Thiamin",mg,0.284,0.081,0.162
+"Riboflavin",mg,0.301,0.085,0.172
+"Niacin",mg,2.308,0.654,1.316
+"Vitamin B-6",mg,0.042,0.012,0.024
+"Folate, DFE",µg,78,22,44
+"Vitamin B-12",µg,0.15,0.04,0.09
+"Vitamin A, RAE",µg,40,11,23
+"Vitamin A, IU",IU,140,40,80
+Lipids
+"Fatty acids, total saturated",g,2.156,0.611,1.229
+"Fatty acids, total monounsaturated",g,2.757,0.782,1.571
+"Fatty acids, total polyunsaturated",g,5.721,1.622,3.261
+"Cholesterol",mg,39,11,22
+Amino Acids
+Other

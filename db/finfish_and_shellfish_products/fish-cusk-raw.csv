@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:57 EST
+"Nutrient data for: 15022, Fish, cusk, raw"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 122.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,76.35,93.15,64.90
+"Energy",kcal,87,106,74
+"Protein",g,18.99,23.17,16.14
+"Total lipid (fat)",g,0.69,0.84,0.59
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,10,12,8
+"Iron, Fe",mg,0.83,1.01,0.71
+"Magnesium, Mg",mg,31,38,26
+"Phosphorus, P",mg,204,249,173
+"Potassium, K",mg,392,478,333
+"Sodium, Na",mg,31,38,26
+"Zinc, Zn",mg,0.38,0.46,0.32
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.042,0.051,0.036
+"Riboflavin",mg,0.133,0.162,0.113
+"Niacin",mg,2.686,3.277,2.283
+"Vitamin B-6",mg,0.387,0.472,0.329
+"Folate, DFE",µg,2,2,2
+"Vitamin B-12",µg,1.04,1.27,0.88
+"Vitamin A, RAE",µg,18,22,15
+"Vitamin A, IU",IU,60,73,51
+Lipids
+"Fatty acids, total saturated",g,0.130,0.159,0.111
+"Fatty acids, total monounsaturated",g,0.090,0.110,0.076
+"Fatty acids, total polyunsaturated",g,0.280,0.342,0.238
+"Cholesterol",mg,41,50,35
+Amino Acids
+Other

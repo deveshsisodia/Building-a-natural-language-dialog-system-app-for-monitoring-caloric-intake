@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:05 EST
+"Nutrient data for: 17196, Lamb, variety meats and by-products, kidneys, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 unit, cooked (yield from 1 lb raw meat) = 255.0g",
+Proximates
+"Water",g,70.45,59.88,179.65
+"Energy",kcal,137,116,349
+"Protein",g,23.65,20.10,60.31
+"Total lipid (fat)",g,3.62,3.08,9.23
+"Carbohydrate, by difference",g,0.99,0.84,2.52
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,18,15,46
+"Iron, Fe",mg,12.40,10.54,31.62
+"Magnesium, Mg",mg,20,17,51
+"Phosphorus, P",mg,290,246,740
+"Potassium, K",mg,178,151,454
+"Sodium, Na",mg,151,128,385
+"Zinc, Zn",mg,3.80,3.23,9.69
+Vitamins
+"Vitamin C, total ascorbic acid",mg,12.0,10.2,30.6
+"Thiamin",mg,0.350,0.297,0.892
+"Riboflavin",mg,2.070,1.759,5.278
+"Niacin",mg,5.990,5.091,15.274
+"Vitamin B-6",mg,0.120,0.102,0.306
+"Folate, DFE",µg,81,69,207
+"Vitamin B-12",µg,78.90,67.07,201.19
+"Vitamin A, RAE",µg,137,116,349
+"Vitamin A, IU",IU,455,387,1160
+Lipids
+"Fatty acids, total saturated",g,1.230,1.045,3.136
+"Fatty acids, total monounsaturated",g,0.770,0.655,1.964
+"Fatty acids, total polyunsaturated",g,0.670,0.570,1.709
+"Cholesterol",mg,565,480,1441
+Amino Acids
+Other

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:06 EST
+"Nutrient data for: 15156, Mollusks, abalone, mixed species, cooked, fried"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,60.10,51.09
+"Energy",kcal,189,161
+"Protein",g,19.63,16.69
+"Total lipid (fat)",g,6.78,5.76
+"Carbohydrate, by difference",g,11.05,9.39
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,37,31
+"Iron, Fe",mg,3.80,3.23
+"Magnesium, Mg",mg,56,48
+"Phosphorus, P",mg,217,184
+"Potassium, K",mg,284,241
+"Sodium, Na",mg,591,502
+"Zinc, Zn",mg,0.95,0.81
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.8,1.5
+"Thiamin",mg,0.220,0.187
+"Riboflavin",mg,0.130,0.111
+"Niacin",mg,1.900,1.615
+"Vitamin B-6",mg,0.150,0.128
+"Folate, DFE",µg,20,17
+"Vitamin B-12",µg,0.69,0.59
+"Vitamin A, RAE",µg,2,2
+"Vitamin A, IU",IU,5,4
+Lipids
+"Fatty acids, total saturated",g,1.646,1.399
+"Fatty acids, total monounsaturated",g,2.741,2.330
+"Fatty acids, total polyunsaturated",g,1.676,1.425
+"Cholesterol",mg,94,80
+Amino Acids
+Other

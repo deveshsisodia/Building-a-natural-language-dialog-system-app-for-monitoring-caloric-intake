@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08204, Cereals ready-to-eat, chocolate-flavored frosted puffed corn"
+Nutrient,Unit,1Value per 100 g,"1 cup = 30.0g",
+Proximates
+"Water",g,3.42,1.03
+"Energy",kcal,405,122
+"Protein",g,3.34,1.00
+"Total lipid (fat)",g,3.50,1.05
+"Carbohydrate, by difference",g,87.20,26.16
+"Fiber, total dietary",g,3.8,1.1
+"Sugars, total",g,43.70,13.11
+Minerals
+"Calcium, Ca",mg,70,21
+"Iron, Fe",mg,15.87,4.76
+"Magnesium, Mg",mg,36,11
+"Phosphorus, P",mg,141,42
+"Potassium, K",mg,176,53
+"Sodium, Na",mg,534,160
+"Zinc, Zn",mg,0.56,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,52.9,15.9
+"Thiamin",mg,1.323,0.397
+"Riboflavin",mg,1.499,0.450
+"Niacin",mg,17.637,5.291
+"Vitamin B-6",mg,1.764,0.529
+"Folate, DFE",µg,587,176
+"Vitamin B-12",µg,5.29,1.59
+"Vitamin A, RAE",µg,1324,397
+"Vitamin A, IU",IU,4409,1323
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.6,0.2
+Lipids
+"Fatty acids, total saturated",g,0.961,0.288
+"Fatty acids, total monounsaturated",g,2.079,0.624
+"Fatty acids, total polyunsaturated",g,0.231,0.069
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,4,1

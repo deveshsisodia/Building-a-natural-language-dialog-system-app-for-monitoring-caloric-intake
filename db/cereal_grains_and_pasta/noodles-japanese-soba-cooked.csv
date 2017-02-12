@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:12 EST
+"Nutrient data for: 20115, Noodles, japanese, soba, cooked"
+Nutrient,Unit,1Value per 100 g,"1 cup = 114.0g",
+Proximates
+"Water",g,73.01,83.23
+"Energy",kcal,99,113
+"Protein",g,5.06,5.77
+"Total lipid (fat)",g,0.10,0.11
+"Carbohydrate, by difference",g,21.44,24.44
+Minerals
+"Calcium, Ca",mg,4,5
+"Iron, Fe",mg,0.48,0.55
+"Magnesium, Mg",mg,9,10
+"Phosphorus, P",mg,25,28
+"Potassium, K",mg,35,40
+"Sodium, Na",mg,60,68
+"Zinc, Zn",mg,0.12,0.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.094,0.107
+"Riboflavin",mg,0.026,0.030
+"Niacin",mg,0.510,0.581
+"Vitamin B-6",mg,0.040,0.046
+"Folate, DFE",µg,7,8
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.019,0.022
+"Fatty acids, total monounsaturated",g,0.026,0.030
+"Fatty acids, total polyunsaturated",g,0.031,0.035
+"Cholesterol",mg,0,0
+Amino Acids
+Other

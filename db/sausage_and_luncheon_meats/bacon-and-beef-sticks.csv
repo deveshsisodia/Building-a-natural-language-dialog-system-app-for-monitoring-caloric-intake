@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:12 EST
+"Nutrient data for: 07921, Bacon and beef sticks"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.0g",
+Proximates
+"Water",g,21.60,6.05
+"Energy",kcal,517,145
+"Protein",g,29.10,8.15
+"Total lipid (fat)",g,44.20,12.38
+"Carbohydrate, by difference",g,0.80,0.22
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.80,0.22
+Minerals
+"Calcium, Ca",mg,14,4
+"Iron, Fe",mg,1.86,0.52
+"Magnesium, Mg",mg,17,5
+"Phosphorus, P",mg,142,40
+"Potassium, K",mg,385,108
+"Sodium, Na",mg,1420,398
+"Zinc, Zn",mg,3.23,0.90
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.600,0.168
+"Riboflavin",mg,0.285,0.080
+"Niacin",mg,4.867,1.363
+"Vitamin B-6",mg,0.500,0.140
+"Folate, DFE",µg,2,1
+"Vitamin B-12",µg,1.90,0.53
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.6,0.4
+Lipids
+"Fatty acids, total saturated",g,16.000,4.480
+"Fatty acids, total monounsaturated",g,21.900,6.132
+"Fatty acids, total polyunsaturated",g,4.300,1.204
+"Cholesterol",mg,102,29
+Amino Acids
+Other
+"Caffeine",mg,0,0

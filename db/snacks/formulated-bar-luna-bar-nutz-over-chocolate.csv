@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:52 EST
+"Nutrient data for: 25021, Formulated bar, LUNA BAR, NUTZ OVER CHOCOLATE"
+Nutrient,Unit,1Value per 100 g,"1 bar = 48.0g",
+Proximates
+"Water",g,9.38,4.50
+"Energy",kcal,403,193
+"Protein",g,20.75,9.96
+"Total lipid (fat)",g,12.19,5.85
+"Carbohydrate, by difference",g,52.49,25.20
+"Fiber, total dietary",g,4.3,2.1
+"Sugars, total",g,16.90,8.11
+Minerals
+"Calcium, Ca",mg,886,425
+"Iron, Fe",mg,14.20,6.82
+"Magnesium, Mg",mg,329,158
+"Phosphorus, P",mg,785,377
+"Potassium, K",mg,412,198
+"Sodium, Na",mg,386,185
+"Zinc, Zn",mg,9.72,4.67
+Vitamins
+"Vitamin C, total ascorbic acid",mg,68.0,32.6
+"Thiamin",mg,0.120,0.058
+"Riboflavin",mg,3.000,1.440
+"Niacin",mg,37.100,17.808
+"Vitamin B-6",mg,2.400,1.152
+"Folate, DFE",µg,1773,851
+"Vitamin B-12",µg,6.40,3.07
+"Vitamin A, RAE",µg,374,180
+"Vitamin A, IU",IU,1251,600
+"Vitamin E (alpha-tocopherol)",mg,8.40,4.03
+"Vitamin D (D2 + D3)",µg,3.1,1.5
+"Vitamin D",IU,125,60
+"Vitamin K (phylloquinone)",µg,40.8,19.6
+Lipids
+"Fatty acids, total saturated",g,5.523,2.651
+"Fatty acids, total monounsaturated",g,2.933,1.408
+"Fatty acids, total polyunsaturated",g,2.714,1.303
+"Fatty acids, total trans",g,0.012,0.006
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,7,3

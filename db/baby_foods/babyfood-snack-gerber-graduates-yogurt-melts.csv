@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:47 EST
+"Nutrient data for: 03302, Babyfood, snack, GERBER, GRADUATES, YOGURT MELTS"
+Nutrient,Unit,1Value per 100 g,"1 serving = 7.0g",
+Proximates
+"Water",g,6.00,0.42
+"Energy",kcal,380,27
+"Protein",g,14.29,1.00
+"Total lipid (fat)",g,4.00,0.28
+"Carbohydrate, by difference",g,71.82,5.03
+"Fiber, total dietary",g,2.3,0.2
+"Sugars, total",g,57.14,4.00
+Minerals
+"Calcium, Ca",mg,457,32
+"Iron, Fe",mg,0.00,0.00
+"Magnesium, Mg",mg,53,4
+"Phosphorus, P",mg,382,27
+"Potassium, K",mg,714,50
+"Sodium, Na",mg,286,20
+"Zinc, Zn",mg,1.77,0.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,57.1,4.0
+"Thiamin",mg,0.113,0.008
+"Riboflavin",mg,0.817,0.057
+"Niacin",mg,3.301,0.231
+"Vitamin B-6",mg,0.168,0.012
+"Folate, DFE",µg,55,4
+"Vitamin B-12",µg,1.70,0.12
+"Vitamin A, RAE",µg,107,7
+"Vitamin A, IU",IU,1396,98
+"Vitamin E (alpha-tocopherol)",mg,6.43,0.45
+"Vitamin D (D2 + D3)",µg,0.1,0.0
+"Vitamin D",IU,3,0
+"Vitamin K (phylloquinone)",µg,12.2,0.9
+Lipids
+"Fatty acids, total saturated",g,2.236,0.157
+"Fatty acids, total monounsaturated",g,0.968,0.068
+"Fatty acids, total polyunsaturated",g,0.194,0.014
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

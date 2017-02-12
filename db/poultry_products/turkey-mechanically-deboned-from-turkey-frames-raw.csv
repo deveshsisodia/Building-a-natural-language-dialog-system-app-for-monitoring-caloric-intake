@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:39 EST
+"Nutrient data for: 05304, Turkey, mechanically deboned, from turkey frames, raw"
+Nutrient,Unit,1Value per 100 g,"0.5 lb = 227.0g",
+Proximates
+"Water",g,69.09,156.83
+"Energy",kcal,201,456
+"Protein",g,13.29,30.17
+"Total lipid (fat)",g,15.96,36.23
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,145,329
+"Iron, Fe",mg,1.61,3.65
+"Magnesium, Mg",mg,13,30
+"Phosphorus, P",mg,115,261
+"Potassium, K",mg,173,393
+"Sodium, Na",mg,48,109
+"Zinc, Zn",mg,2.90,6.58
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.048,0.109
+"Riboflavin",mg,0.134,0.304
+"Niacin",mg,1.969,4.470
+"Vitamin B-6",mg,0.210,0.477
+"Folate, DFE",µg,7,16
+"Vitamin B-12",µg,0.26,0.59
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,5.310,12.054
+"Fatty acids, total monounsaturated",g,5.020,11.395
+"Fatty acids, total polyunsaturated",g,4.510,10.238
+"Cholesterol",mg,95,216
+Amino Acids
+Other

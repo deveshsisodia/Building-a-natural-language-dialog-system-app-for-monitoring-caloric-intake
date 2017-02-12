@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:37 EST
+"Nutrient data for: 13384, Beef, chuck, under blade pot roast, boneless, separable lean only, trimmed to 0"" fat, select, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 roast = 629.0g",
+Proximates
+"Water",g,58.79,49.97,369.79
+"Energy",kcal,216,184,1359
+"Protein",g,30.68,26.08,192.98
+"Total lipid (fat)",g,9.44,8.02,59.38
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,14,12,88
+"Iron, Fe",mg,3.18,2.70,20.00
+"Magnesium, Mg",mg,22,19,138
+"Phosphorus, P",mg,204,173,1283
+"Potassium, K",mg,306,260,1925
+"Sodium, Na",mg,67,57,421
+"Zinc, Zn",mg,11.49,9.77,72.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.070,0.060,0.440
+"Riboflavin",mg,0.245,0.208,1.541
+"Niacin",mg,3.745,3.183,23.556
+"Vitamin B-6",mg,0.315,0.268,1.981
+"Folate, DFE",µg,7,6,44
+"Vitamin B-12",µg,3.22,2.74,20.25
+"Vitamin A, RAE",µg,2,2,13
+"Vitamin A, IU",IU,8,7,50
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.05,0.38
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.6
+"Vitamin D",IU,4,3,25
+"Vitamin K (phylloquinone)",µg,1.6,1.4,10.1
+Lipids
+"Fatty acids, total saturated",g,3.487,2.964,21.933
+"Fatty acids, total monounsaturated",g,4.164,3.539,26.192
+"Fatty acids, total polyunsaturated",g,0.520,0.442,3.271
+"Fatty acids, total trans",g,0.418,0.355,2.629
+"Cholesterol",mg,102,87,642
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:07 EST
+"Nutrient data for: 01055, Cream, sour, reduced fat, cultured"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 cup = 242.0g",
+Proximates
+"Water",g,80.14,12.02,193.94
+"Energy",kcal,135,20,327
+"Protein",g,2.94,0.44,7.11
+"Total lipid (fat)",g,12.00,1.80,29.04
+"Carbohydrate, by difference",g,4.26,0.64,10.31
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.16,0.02,0.39
+Minerals
+"Calcium, Ca",mg,104,16,252
+"Iron, Fe",mg,0.07,0.01,0.17
+"Magnesium, Mg",mg,10,2,24
+"Phosphorus, P",mg,95,14,230
+"Potassium, K",mg,129,19,312
+"Sodium, Na",mg,89,13,215
+"Zinc, Zn",mg,0.50,0.07,1.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,0.1,2.2
+"Thiamin",mg,0.035,0.005,0.085
+"Riboflavin",mg,0.149,0.022,0.361
+"Niacin",mg,0.067,0.010,0.162
+"Vitamin B-6",mg,0.016,0.002,0.039
+"Folate, DFE",µg,11,2,27
+"Vitamin B-12",µg,0.30,0.04,0.73
+"Vitamin A, RAE",µg,102,15,247
+"Vitamin A, IU",IU,372,56,900
+"Vitamin E (alpha-tocopherol)",mg,0.34,0.05,0.82
+"Vitamin D (D2 + D3)",µg,0.2,0.0,0.5
+"Vitamin D",IU,9,1,22
+"Vitamin K (phylloquinone)",µg,0.6,0.1,1.5
+Lipids
+"Fatty acids, total saturated",g,7.470,1.121,18.077
+"Fatty acids, total monounsaturated",g,3.466,0.520,8.388
+"Fatty acids, total polyunsaturated",g,0.446,0.067,1.079
+"Cholesterol",mg,39,6,94
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

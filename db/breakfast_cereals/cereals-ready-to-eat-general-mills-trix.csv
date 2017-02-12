@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08078, Cereals ready-to-eat, GENERAL MILLS, TRIX"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 32.0g",
+Proximates
+"Water",g,1.89,0.60
+"Energy",kcal,384,123
+"Protein",g,4.90,1.57
+"Total lipid (fat)",g,3.79,1.21
+"Carbohydrate, by difference",g,86.19,27.58
+"Fiber, total dietary",g,3.9,1.2
+"Sugars, total",g,32.00,10.24
+Minerals
+"Calcium, Ca",mg,313,100
+"Iron, Fe",mg,16.89,5.40
+"Magnesium, Mg",mg,25,8
+"Phosphorus, P",mg,188,60
+"Potassium, K",mg,162,52
+"Sodium, Na",mg,500,160
+"Zinc, Zn",mg,14.10,4.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,18.8,6.0
+"Thiamin",mg,1.600,0.512
+"Riboflavin",mg,1.890,0.605
+"Niacin",mg,18.790,6.013
+"Vitamin B-6",mg,2.180,0.698
+"Folate, DFE",µg,624,200
+"Vitamin B-12",µg,4.69,1.50
+"Vitamin A, RAE",µg,669,214
+"Vitamin A, IU",IU,2344,750
+"Vitamin E (alpha-tocopherol)",mg,0.50,0.16
+"Vitamin D (D2 + D3)",µg,3.1,1.0
+"Vitamin D",IU,125,40
+"Vitamin K (phylloquinone)",µg,1.3,0.4
+Lipids
+"Fatty acids, total saturated",g,0.500,0.160
+"Fatty acids, total monounsaturated",g,1.790,0.573
+"Fatty acids, total polyunsaturated",g,1.390,0.445
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

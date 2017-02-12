@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:08 EST
+"Nutrient data for: 01240, Ice cream cone, chocolate covered, with nuts, flavors other than chocolate"
+Nutrient,Unit,1Value per 100 g,"1 unit = 96.0g",
+Proximates
+"Water",g,37.43,35.93
+"Energy",kcal,354,340
+"Protein",g,5.21,5.00
+"Total lipid (fat)",g,21.88,21.00
+"Carbohydrate, by difference",g,34.38,33.00
+"Fiber, total dietary",g,1.0,1.0
+"Sugars, total",g,25.00,24.00
+Minerals
+"Calcium, Ca",mg,63,60
+"Iron, Fe",mg,0.00,0.00
+"Magnesium, Mg",mg,29,28
+"Phosphorus, P",mg,108,104
+"Potassium, K",mg,222,213
+"Sodium, Na",mg,94,90
+"Zinc, Zn",mg,0.86,0.83
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.108,0.104
+"Riboflavin",mg,0.252,0.242
+"Niacin",mg,0.829,0.796
+"Vitamin B-6",mg,0.046,0.044
+"Folate, DFE",µg,35,34
+"Vitamin B-12",µg,0.36,0.35
+"Vitamin A, RAE",µg,32,31
+"Vitamin A, IU",IU,104,100
+"Vitamin E (alpha-tocopherol)",mg,0.18,0.17
+"Vitamin D (D2 + D3)",µg,0.1,0.1
+"Vitamin D",IU,3,3
+"Vitamin K (phylloquinone)",µg,1.1,1.1
+Lipids
+"Fatty acids, total saturated",g,11.458,11.000
+"Fatty acids, total monounsaturated",g,7.340,7.046
+"Fatty acids, total polyunsaturated",g,1.657,1.591
+"Cholesterol",mg,21,20
+Amino Acids
+Other
+"Caffeine",mg,7,7

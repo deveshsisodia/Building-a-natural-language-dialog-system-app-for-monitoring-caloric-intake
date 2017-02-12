@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:55 EST
+"Nutrient data for: 15136, Crustaceans, crab, alaska king, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 leg = 172.0g",
+Proximates
+"Water",g,79.57,67.63,136.86
+"Energy",kcal,84,71,144
+"Protein",g,18.29,15.55,31.46
+"Total lipid (fat)",g,0.60,0.51,1.03
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,46,39,79
+"Iron, Fe",mg,0.59,0.50,1.01
+"Magnesium, Mg",mg,49,42,84
+"Phosphorus, P",mg,219,186,377
+"Potassium, K",mg,204,173,351
+"Sodium, Na",mg,836,711,1438
+"Zinc, Zn",mg,5.95,5.06,10.23
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.0,6.0,12.0
+"Thiamin",mg,0.043,0.037,0.074
+"Riboflavin",mg,0.043,0.037,0.074
+"Niacin",mg,1.100,0.935,1.892
+"Vitamin B-6",mg,0.150,0.128,0.258
+"Folate, DFE",µg,44,37,76
+"Vitamin B-12",µg,9.00,7.65,15.48
+"Vitamin A, RAE",µg,7,6,12
+"Vitamin A, IU",IU,24,20,41
+Lipids
+"Fatty acids, total saturated",g,0.090,0.076,0.155
+"Fatty acids, total monounsaturated",g,0.080,0.068,0.138
+"Fatty acids, total polyunsaturated",g,0.130,0.111,0.224
+"Cholesterol",mg,42,36,72
+Amino Acids
+Other

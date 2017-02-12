@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:41 EST
+"Nutrient data for: 28025, KELLOGG'S, EGGO, Thick & Fluffy, Waffles, Brown Sugar"
+Nutrient,Unit,1Value per 100 g,"1 waffle = 55.0g",
+Proximates
+"Water",g,33.60,18.48
+"Energy",kcal,307,169
+"Protein",g,5.80,3.19
+"Total lipid (fat)",g,11.90,6.54
+"Carbohydrate, by difference",g,44.50,24.48
+"Fiber, total dietary",g,1.1,0.6
+"Sugars, total",g,15.80,8.69
+Minerals
+"Calcium, Ca",mg,455,250
+"Iron, Fe",mg,8.20,4.51
+"Magnesium, Mg",mg,16,9
+"Phosphorus, P",mg,342,188
+"Potassium, K",mg,89,49
+"Sodium, Na",mg,490,270
+"Zinc, Zn",mg,0.30,0.17
+Vitamins
+"Thiamin",mg,0.550,0.303
+"Riboflavin",mg,0.620,0.341
+"Niacin",mg,7.300,4.015
+"Vitamin B-6",mg,0.730,0.401
+"Vitamin B-12",µg,2.20,1.21
+"Vitamin A, RAE",µg,546,300
+"Vitamin A, IU",IU,1818,1000
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,3.200,1.760
+"Fatty acids, total monounsaturated",g,3.100,1.705
+"Fatty acids, total polyunsaturated",g,5.000,2.750
+"Fatty acids, total trans",g,0.200,0.110
+"Cholesterol",mg,0,0
+Amino Acids
+Other

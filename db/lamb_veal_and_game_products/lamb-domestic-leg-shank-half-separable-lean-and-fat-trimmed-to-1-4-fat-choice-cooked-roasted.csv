@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:57 EST
+"Nutrient data for: 17016, Lamb, domestic, leg, shank half, separable lean and fat, trimmed to 1/4"" fat, choice, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) = 269.0g",
+Proximates
+"Water",g,60.66,51.56,163.18
+"Energy",kcal,225,191,605
+"Protein",g,26.41,22.45,71.04
+"Total lipid (fat)",g,12.45,10.58,33.49
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,10,8,27
+"Iron, Fe",mg,1.98,1.68,5.33
+"Magnesium, Mg",mg,25,21,67
+"Phosphorus, P",mg,198,168,533
+"Potassium, K",mg,326,277,877
+"Sodium, Na",mg,65,55,175
+"Zinc, Zn",mg,4.66,3.96,12.54
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.100,0.085,0.269
+"Riboflavin",mg,0.270,0.230,0.726
+"Niacin",mg,6.550,5.567,17.620
+"Vitamin B-6",mg,0.160,0.136,0.430
+"Folate, DFE",µg,22,19,59
+"Vitamin B-12",µg,2.67,2.27,7.18
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.16,0.14,0.43
+Lipids
+"Fatty acids, total saturated",g,5.090,4.326,13.692
+"Fatty acids, total monounsaturated",g,5.290,4.497,14.230
+"Fatty acids, total polyunsaturated",g,0.880,0.748,2.367
+"Cholesterol",mg,90,76,242
+Amino Acids
+Other

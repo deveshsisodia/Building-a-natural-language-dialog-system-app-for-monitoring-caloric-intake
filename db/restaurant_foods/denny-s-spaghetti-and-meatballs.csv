@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:26 EST
+"Nutrient data for: 36032, DENNY'S, spaghetti and meatballs"
+Nutrient,Unit,1Value per 100 g,"1 serving = 565.0g","1 cup = 134.0g",
+Proximates
+"Water",g,66.64,376.52,89.30
+"Energy",kcal,170,960,228
+"Protein",g,7.84,44.30,10.51
+"Total lipid (fat)",g,8.52,48.14,11.42
+"Carbohydrate, by difference",g,15.51,87.63,20.78
+"Fiber, total dietary",g,1.5,8.5,2.0
+"Sugars, total",g,2.03,11.47,2.72
+Minerals
+"Calcium, Ca",mg,45,254,60
+"Iron, Fe",mg,1.29,7.29,1.73
+"Magnesium, Mg",mg,23,130,31
+"Phosphorus, P",mg,89,503,119
+"Potassium, K",mg,206,1164,276
+"Sodium, Na",mg,351,1983,470
+"Zinc, Zn",mg,1.04,5.88,1.39
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,5.1,1.2
+"Thiamin",mg,0.107,0.605,0.143
+"Riboflavin",mg,0.167,0.944,0.224
+"Niacin",mg,2.000,11.300,2.680
+"Vitamin B-6",mg,0.143,0.808,0.192
+"Vitamin B-12",µg,0.39,2.20,0.52
+"Vitamin A, RAE",µg,28,158,38
+"Vitamin A, IU",IU,258,1458,346
+"Vitamin E (alpha-tocopherol)",mg,0.75,4.24,1.00
+Lipids
+"Fatty acids, total saturated",g,3.104,17.538,4.159
+"Fatty acids, total monounsaturated",g,3.600,20.340,4.824
+"Fatty acids, total polyunsaturated",g,1.213,6.853,1.625
+"Fatty acids, total trans",g,0.217,1.226,0.291
+"Cholesterol",mg,19,107,25
+Amino Acids
+Other

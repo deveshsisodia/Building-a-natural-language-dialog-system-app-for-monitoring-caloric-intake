@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:04 EST
+"Nutrient data for: 15097, Fish, sheepshead, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 fillet = 238.0g",
+Proximates
+"Water",g,77.97,66.27,185.57
+"Energy",kcal,108,92,257
+"Protein",g,20.21,17.18,48.10
+"Total lipid (fat)",g,2.41,2.05,5.74
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,21,18,50
+"Iron, Fe",mg,0.46,0.39,1.09
+"Magnesium, Mg",mg,32,27,76
+"Phosphorus, P",mg,313,266,745
+"Potassium, K",mg,404,343,962
+"Sodium, Na",mg,71,60,169
+"Zinc, Zn",mg,0.39,0.33,0.93
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.010,0.009,0.024
+"Riboflavin",mg,0.040,0.034,0.095
+"Niacin",mg,1.500,1.275,3.570
+"Vitamin B-6",mg,0.300,0.255,0.714
+"Folate, DFE",µg,15,13,36
+"Vitamin B-12",µg,2.00,1.70,4.76
+"Vitamin A, RAE",µg,30,26,71
+"Vitamin A, IU",IU,100,85,238
+Lipids
+"Fatty acids, total saturated",g,0.609,0.518,1.449
+"Fatty acids, total monounsaturated",g,0.728,0.619,1.733
+"Fatty acids, total polyunsaturated",g,0.518,0.440,1.233
+"Cholesterol",mg,50,42,119
+Amino Acids
+Other

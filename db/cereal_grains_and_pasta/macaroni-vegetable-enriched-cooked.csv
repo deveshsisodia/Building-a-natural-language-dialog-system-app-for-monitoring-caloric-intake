@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:12 EST
+"Nutrient data for: 20106, Macaroni, vegetable, enriched, cooked"
+Nutrient,Unit,1Value per 100 g,"1 cup spiral shaped = 134.0g",
+Proximates
+"Water",g,68.37,91.62
+"Energy",kcal,128,172
+"Protein",g,4.53,6.07
+"Total lipid (fat)",g,0.11,0.15
+"Carbohydrate, by difference",g,26.61,35.66
+"Fiber, total dietary",g,4.3,5.8
+"Sugars, total",g,1.15,1.54
+Minerals
+"Calcium, Ca",mg,11,15
+"Iron, Fe",mg,0.49,0.66
+"Magnesium, Mg",mg,19,25
+"Phosphorus, P",mg,50,67
+"Potassium, K",mg,31,42
+"Sodium, Na",mg,6,8
+"Zinc, Zn",mg,0.44,0.59
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.112,0.150
+"Riboflavin",mg,0.061,0.082
+"Niacin",mg,1.071,1.435
+"Vitamin B-6",mg,0.024,0.032
+"Folate, DFE",µg,106,142
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,5,7
+"Vitamin A, IU",IU,92,123
+"Vitamin E (alpha-tocopherol)",mg,0.21,0.28
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.4
+Lipids
+"Fatty acids, total saturated",g,0.016,0.021
+"Fatty acids, total monounsaturated",g,0.012,0.016
+"Fatty acids, total polyunsaturated",g,0.044,0.059
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

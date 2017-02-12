@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:37 EST
+"Nutrient data for: 05627, Emu, full rump, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"1 serving ( 3 oz ) = 85.0g","1 full rump cooked ( yield from 695 g raw meat ) = 496.0g",
+Proximates
+"Water",g,61.97,52.67,307.37
+"Energy",kcal,168,143,833
+"Protein",g,33.67,28.62,167.00
+"Total lipid (fat)",g,2.68,2.28,13.29
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,7,6,35
+"Iron, Fe",mg,6.89,5.86,34.17
+"Magnesium, Mg",mg,34,29,169
+"Phosphorus, P",mg,323,275,1602
+"Potassium, K",mg,324,275,1607
+"Sodium, Na",mg,110,94,546
+"Zinc, Zn",mg,4.32,3.67,21.43
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.430,0.365,2.133
+"Riboflavin",mg,0.645,0.548,3.199
+"Niacin",mg,10.569,8.984,52.422
+"Vitamin B-6",mg,0.987,0.839,4.896
+"Folate, DFE",µg,10,8,50
+"Vitamin B-12",µg,2.20,1.87,10.91
+"Vitamin A, RAE",µg,3,3,15
+"Vitamin A, IU",IU,11,9,55
+"Vitamin E (alpha-tocopherol)",mg,0.26,0.22,1.29
+Lipids
+"Fatty acids, total saturated",g,0.870,0.740,4.315
+"Fatty acids, total monounsaturated",g,1.079,0.917,5.352
+"Fatty acids, total polyunsaturated",g,0.613,0.521,3.040
+"Cholesterol",mg,129,110,640
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

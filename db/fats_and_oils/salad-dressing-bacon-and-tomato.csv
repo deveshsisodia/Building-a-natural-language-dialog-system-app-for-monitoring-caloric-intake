@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:20 EST
+"Nutrient data for: 43331, Salad dressing, bacon and tomato"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 cup = 240.0g",
+Proximates
+"Water",g,58.70,8.80,140.88
+"Energy",kcal,326,49,782
+"Protein",g,1.80,0.27,4.32
+"Total lipid (fat)",g,35.00,5.25,84.00
+"Carbohydrate, by difference",g,2.00,0.30,4.80
+"Fiber, total dietary",g,0.2,0.0,0.5
+"Sugars, total",g,2.00,0.30,4.80
+Minerals
+"Calcium, Ca",mg,4,1,10
+"Iron, Fe",mg,0.27,0.04,0.65
+"Magnesium, Mg",mg,6,1,14
+"Phosphorus, P",mg,25,4,60
+"Potassium, K",mg,108,16,259
+"Sodium, Na",mg,905,136,2172
+"Zinc, Zn",mg,0.20,0.03,0.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.8,1.3,21.1
+"Thiamin",mg,0.040,0.006,0.096
+"Riboflavin",mg,0.020,0.003,0.048
+"Niacin",mg,0.700,0.105,1.680
+"Vitamin B-6",mg,0.080,0.012,0.192
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.09,0.01,0.22
+"Vitamin A, RAE",µg,11,2,26
+"Vitamin A, IU",IU,211,32,506
+"Vitamin E (alpha-tocopherol)",mg,4.00,0.60,9.60
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,69.1,10.4,165.8
+Lipids
+"Fatty acids, total saturated",g,5.435,0.815,13.044
+"Fatty acids, total monounsaturated",g,8.415,1.262,20.196
+"Fatty acids, total polyunsaturated",g,19.584,2.938,47.002
+"Cholesterol",mg,4,1,10
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:23 EST
+"Nutrient data for: 14428, Beverages, shake, fast food, strawberry"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 23.5g","1 serving small 12 fl oz = 282.0g","1 serving medium 16 fl oz = 376.0g","1 serving large 21 fl oz = 494.0g",
+Proximates
+"Water",g,74.10,17.41,208.96,278.62,366.05
+"Energy",kcal,113,27,319,425,558
+"Protein",g,3.40,0.80,9.59,12.78,16.80
+"Total lipid (fat)",g,2.80,0.66,7.90,10.53,13.83
+"Carbohydrate, by difference",g,18.90,4.44,53.30,71.06,93.37
+"Fiber, total dietary",g,0.4,0.1,1.1,1.5,2.0
+Minerals
+"Calcium, Ca",mg,113,27,319,425,558
+"Iron, Fe",mg,0.11,0.03,0.31,0.41,0.54
+"Magnesium, Mg",mg,13,3,37,49,64
+"Phosphorus, P",mg,100,24,282,376,494
+"Potassium, K",mg,182,43,513,684,899
+"Sodium, Na",mg,83,20,234,312,410
+"Zinc, Zn",mg,0.36,0.08,1.02,1.35,1.78
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,0.2,2.3,3.0,4.0
+"Thiamin",mg,0.045,0.011,0.127,0.169,0.222
+"Riboflavin",mg,0.195,0.046,0.550,0.733,0.963
+"Niacin",mg,0.175,0.041,0.493,0.658,0.864
+"Vitamin B-6",mg,0.044,0.010,0.124,0.165,0.217
+"Folate, DFE",µg,3,1,8,11,15
+"Vitamin B-12",µg,0.31,0.07,0.87,1.17,1.53
+"Vitamin A, RAE",µg,26,6,73,98,128
+"Vitamin A, IU",IU,120,28,338,451,593
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.734,0.407,4.890,6.520,8.566
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,11,3,31,41,54
+Amino Acids
+Other

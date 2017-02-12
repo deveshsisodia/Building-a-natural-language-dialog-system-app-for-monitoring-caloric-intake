@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:21 EST
+"Nutrient data for: 04022, Salad dressing, russian dressing, low calorie"
+Nutrient,Unit,1Value per 100 g,"1 tablespoon = 16.0g","1 cup = 260.0g",
+Proximates
+"Water",g,65.00,10.40,169.00
+"Energy",kcal,141,23,367
+"Protein",g,0.50,0.08,1.30
+"Total lipid (fat)",g,4.00,0.64,10.40
+"Carbohydrate, by difference",g,27.60,4.42,71.76
+"Fiber, total dietary",g,0.3,0.0,0.8
+"Sugars, total",g,21.87,3.50,56.86
+Minerals
+"Calcium, Ca",mg,19,3,49
+"Iron, Fe",mg,0.60,0.10,1.56
+"Magnesium, Mg",mg,0,0,0
+"Phosphorus, P",mg,37,6,96
+"Potassium, K",mg,157,25,408
+"Sodium, Na",mg,868,139,2257
+"Zinc, Zn",mg,0.10,0.02,0.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.0,1.0,15.6
+"Thiamin",mg,0.007,0.001,0.018
+"Riboflavin",mg,0.013,0.002,0.034
+"Niacin",mg,0.002,0.000,0.005
+"Vitamin B-6",mg,0.009,0.001,0.023
+"Folate, DFE",µg,3,0,8
+"Vitamin B-12",µg,0.12,0.02,0.31
+"Vitamin A, RAE",µg,2,0,5
+"Vitamin A, IU",IU,33,5,86
+"Vitamin E (alpha-tocopherol)",mg,0.40,0.06,1.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,6.7,1.1,17.4
+Lipids
+"Fatty acids, total saturated",g,0.600,0.096,1.560
+"Fatty acids, total monounsaturated",g,0.900,0.144,2.340
+"Fatty acids, total polyunsaturated",g,2.300,0.368,5.980
+"Cholesterol",mg,6,1,16
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

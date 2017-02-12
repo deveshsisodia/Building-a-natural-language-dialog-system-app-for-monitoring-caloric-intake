@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:48 EST
+"Nutrient data for: 19193, Puddings, rice, ready-to-eat"
+Nutrient,Unit,1Value per 100 g,"1 serving 4 oz pudding cup = 113.0g","1 oz = 28.35g","1 can (5 oz) = 142.0g","1 cup = 172.0g","0.5 cup = 92.0g",
+Proximates
+"Water",g,75.15,84.92,21.31,106.71,129.26,69.14
+"Energy",kcal,108,122,31,153,186,99
+"Protein",g,3.23,3.65,0.92,4.59,5.56,2.97
+"Total lipid (fat)",g,2.15,2.43,0.61,3.05,3.70,1.98
+"Carbohydrate, by difference",g,18.39,20.78,5.21,26.11,31.63,16.92
+"Fiber, total dietary",g,0.3,0.3,0.1,0.4,0.5,0.3
+"Sugars, total",g,11.59,13.10,3.29,16.46,19.93,10.66
+Minerals
+"Calcium, Ca",mg,95,107,27,135,163,87
+"Iron, Fe",mg,0.11,0.12,0.03,0.16,0.19,0.10
+"Magnesium, Mg",mg,8,9,2,11,14,7
+"Phosphorus, P",mg,82,93,23,116,141,75
+"Potassium, K",mg,125,141,35,178,215,115
+"Sodium, Na",mg,97,110,27,138,167,89
+"Zinc, Zn",mg,0.43,0.49,0.12,0.61,0.74,0.40
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.3,1.5,0.4,1.8,2.2,1.2
+"Thiamin",mg,0.027,0.031,0.008,0.038,0.046,0.025
+"Riboflavin",mg,0.183,0.207,0.052,0.260,0.315,0.168
+"Niacin",mg,0.217,0.245,0.062,0.308,0.373,0.200
+"Vitamin B-6",mg,0.052,0.059,0.015,0.074,0.089,0.048
+"Folate, DFE",µg,4,5,1,6,7,4
+"Vitamin B-12",µg,0.15,0.17,0.04,0.21,0.26,0.14
+"Vitamin A, RAE",µg,19,21,5,27,33,17
+"Vitamin A, IU",IU,69,78,20,98,119,63
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.08,0.02,0.10,0.12,0.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.2,0.2,0.1,0.3,0.3,0.2
+Lipids
+"Fatty acids, total saturated",g,1.208,1.365,0.342,1.715,2.078,1.111
+"Fatty acids, total monounsaturated",g,0.556,0.628,0.158,0.790,0.956,0.512
+"Fatty acids, total polyunsaturated",g,0.129,0.146,0.037,0.183,0.222,0.119
+"Fatty acids, total trans",g,0.054,0.061,0.015,0.077,0.093,0.050
+"Cholesterol",mg,12,14,3,17,21,11
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 19810, Snacks, potato chips, plain, made with partially hydrogenated soybean oil, unsalted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 bag (8 oz) = 227.0g",
+Proximates
+"Water",g,1.90,0.54,4.31
+"Energy",kcal,536,152,1217
+"Protein",g,7.00,1.98,15.89
+"Total lipid (fat)",g,34.60,9.81,78.54
+"Carbohydrate, by difference",g,52.90,15.00,120.08
+"Fiber, total dietary",g,4.8,1.4,10.9
+Minerals
+"Calcium, Ca",mg,24,7,54
+"Iron, Fe",mg,1.63,0.46,3.70
+"Magnesium, Mg",mg,67,19,152
+"Phosphorus, P",mg,165,47,375
+"Potassium, K",mg,1275,361,2894
+"Sodium, Na",mg,8,2,18
+"Zinc, Zn",mg,1.09,0.31,2.47
+Vitamins
+"Vitamin C, total ascorbic acid",mg,31.1,8.8,70.6
+"Thiamin",mg,0.167,0.047,0.379
+"Riboflavin",mg,0.197,0.056,0.447
+"Niacin",mg,3.827,1.085,8.687
+"Vitamin B-6",mg,0.660,0.187,1.498
+"Folate, DFE",µg,45,13,102
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,5.430,1.539,12.326
+"Fatty acids, total monounsaturated",g,18.000,5.103,40.860
+"Fatty acids, total polyunsaturated",g,9.160,2.597,20.793
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

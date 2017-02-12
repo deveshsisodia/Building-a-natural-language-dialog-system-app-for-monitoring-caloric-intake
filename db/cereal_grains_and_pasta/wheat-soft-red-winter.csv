@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:15 EST
+"Nutrient data for: 20073, Wheat, soft red winter"
+Nutrient,Unit,1Value per 100 g,"1 cup = 168.0g",
+Proximates
+"Water",g,12.17,20.45
+"Energy",kcal,331,556
+"Protein",g,10.35,17.39
+"Total lipid (fat)",g,1.56,2.62
+"Carbohydrate, by difference",g,74.24,124.72
+"Fiber, total dietary",g,12.5,21.0
+"Sugars, total",g,0.41,0.69
+Minerals
+"Calcium, Ca",mg,27,45
+"Iron, Fe",mg,3.21,5.39
+"Magnesium, Mg",mg,126,212
+"Phosphorus, P",mg,493,828
+"Potassium, K",mg,397,667
+"Sodium, Na",mg,2,3
+"Zinc, Zn",mg,2.63,4.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.394,0.662
+"Riboflavin",mg,0.096,0.161
+"Niacin",mg,4.800,8.064
+"Vitamin B-6",mg,0.272,0.457
+"Folate, DFE",µg,41,69
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.01,1.70
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.289,0.486
+"Fatty acids, total monounsaturated",g,0.178,0.299
+"Fatty acids, total polyunsaturated",g,0.656,1.102
+"Cholesterol",mg,0,0
+Amino Acids
+Other

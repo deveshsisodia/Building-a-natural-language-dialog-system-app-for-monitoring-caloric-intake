@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:04 EST
+"Nutrient data for: 43205, Beverage, instant breakfast powder, chocolate, not reconstituted"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 7.4g","1 envelope = 37.0g",
+Proximates
+"Water",g,7.40,0.55,2.74
+"Energy",kcal,353,26,131
+"Protein",g,19.90,1.47,7.36
+"Total lipid (fat)",g,1.40,0.10,0.52
+"Carbohydrate, by difference",g,66.20,4.90,24.49
+"Fiber, total dietary",g,0.4,0.0,0.1
+"Sugars, total",g,65.80,4.87,24.35
+Minerals
+"Calcium, Ca",mg,285,21,105
+"Iron, Fe",mg,12.82,0.95,4.74
+"Magnesium, Mg",mg,228,17,84
+"Phosphorus, P",mg,427,32,158
+"Potassium, K",mg,947,70,350
+"Sodium, Na",mg,385,28,142
+"Zinc, Zn",mg,8.55,0.63,3.16
+Vitamins
+"Vitamin C, total ascorbic acid",mg,76.9,5.7,28.5
+"Thiamin",mg,0.850,0.063,0.315
+"Riboflavin",mg,0.200,0.015,0.074
+"Niacin",mg,14.240,1.054,5.269
+"Vitamin B-6",mg,1.140,0.084,0.422
+"Folate, DFE",µg,485,36,179
+"Vitamin B-12",µg,1.71,0.13,0.63
+"Vitamin A, RAE",µg,625,46,231
+"Vitamin A, IU",IU,2083,154,771
+"Vitamin E (alpha-tocopherol)",mg,9.37,0.69,3.47
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,90.0,6.7,33.3
+Lipids
+"Fatty acids, total saturated",g,0.560,0.041,0.207
+"Fatty acids, total monounsaturated",g,0.314,0.023,0.116
+"Fatty acids, total polyunsaturated",g,0.278,0.021,0.103
+"Cholesterol",mg,12,1,4
+Amino Acids
+Other
+"Caffeine",mg,25,2,9

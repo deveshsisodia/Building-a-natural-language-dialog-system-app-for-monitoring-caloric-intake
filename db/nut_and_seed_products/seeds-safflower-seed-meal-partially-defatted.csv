@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:09 EST
+"Nutrient data for: 12022, Seeds, safflower seed meal, partially defatted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,6.41,1.82
+"Energy",kcal,342,97
+"Protein",g,35.62,10.10
+"Total lipid (fat)",g,2.39,0.68
+"Carbohydrate, by difference",g,48.73,13.81
+Minerals
+"Calcium, Ca",mg,77,22
+"Iron, Fe",mg,4.86,1.38
+"Magnesium, Mg",mg,350,99
+"Phosphorus, P",mg,638,181
+"Potassium, K",mg,68,19
+"Sodium, Na",mg,3,1
+"Zinc, Zn",mg,5.01,1.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,1.153,0.327
+"Riboflavin",mg,0.412,0.117
+"Niacin",mg,2.265,0.642
+"Vitamin B-6",mg,1.161,0.329
+"Folate, DFE",µg,159,45
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,2,1
+"Vitamin A, IU",IU,49,14
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.207,0.059
+"Fatty acids, total monounsaturated",g,0.272,0.077
+"Fatty acids, total polyunsaturated",g,1.584,0.449
+"Cholesterol",mg,0,0
+Amino Acids
+Other

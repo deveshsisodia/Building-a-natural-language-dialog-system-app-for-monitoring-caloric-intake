@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:08 EST
+"Nutrient data for: 01226, Egg substitute, liquid or frozen, fat free"
+Nutrient,Unit,1Value per 100 g,"0.25 cup = 60.0g","1 cup = 240.0g",
+Proximates
+"Water",g,87.00,52.20,208.80
+"Energy",kcal,48,29,115
+"Protein",g,10.00,6.00,24.00
+"Total lipid (fat)",g,0.00,0.00,0.00
+"Carbohydrate, by difference",g,2.00,1.20,4.80
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,2.00,1.20,4.80
+Minerals
+"Calcium, Ca",mg,73,44,175
+"Iron, Fe",mg,1.98,1.19,4.75
+"Magnesium, Mg",mg,15,9,36
+"Phosphorus, P",mg,72,43,173
+"Potassium, K",mg,213,128,511
+"Sodium, Na",mg,199,119,478
+"Zinc, Zn",mg,0.98,0.59,2.35
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.3,1.2
+"Thiamin",mg,0.120,0.072,0.288
+"Riboflavin",mg,0.386,0.232,0.926
+"Niacin",mg,0.140,0.084,0.336
+"Vitamin B-6",mg,0.133,0.080,0.319
+"Folate, DFE",µg,16,10,38
+"Vitamin B-12",µg,0.34,0.20,0.82
+"Vitamin A, RAE",µg,11,7,26
+"Vitamin A, IU",IU,225,135,540
+"Vitamin E (alpha-tocopherol)",mg,1.59,0.95,3.82
+"Vitamin D (D2 + D3)",µg,1.6,1.0,3.8
+"Vitamin D",IU,66,40,158
+"Vitamin K (phylloquinone)",µg,0.2,0.1,0.5
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

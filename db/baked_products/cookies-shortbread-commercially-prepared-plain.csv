@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:35 EST
+"Nutrient data for: 18192, Cookies, shortbread, commercially prepared, plain"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cookie = 11.8g",
+Proximates
+"Water",g,3.60,1.02,0.42
+"Energy",kcal,514,146,61
+"Protein",g,5.37,1.52,0.63
+"Total lipid (fat)",g,26.22,7.43,3.09
+"Carbohydrate, by difference",g,63.78,18.08,7.53
+"Fiber, total dietary",g,1.3,0.4,0.2
+"Sugars, total",g,21.65,6.14,2.55
+Minerals
+"Calcium, Ca",mg,13,4,2
+"Iron, Fe",mg,2.98,0.84,0.35
+"Magnesium, Mg",mg,14,4,2
+"Phosphorus, P",mg,66,19,8
+"Potassium, K",mg,88,25,10
+"Sodium, Na",mg,353,100,42
+"Zinc, Zn",mg,0.49,0.14,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.353,0.100,0.042
+"Riboflavin",mg,0.314,0.089,0.037
+"Niacin",mg,3.275,0.928,0.386
+"Vitamin B-6",mg,0.071,0.020,0.008
+"Folate, DFE",µg,124,35,15
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,1,0,0
+"Vitamin E (alpha-tocopherol)",mg,2.44,0.69,0.29
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,11.0,3.1,1.3
+Lipids
+"Fatty acids, total saturated",g,8.105,2.298,0.956
+"Fatty acids, total monounsaturated",g,6.708,1.902,0.792
+"Fatty acids, total polyunsaturated",g,8.326,2.360,0.982
+"Fatty acids, total trans",g,0.714,0.202,0.084
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

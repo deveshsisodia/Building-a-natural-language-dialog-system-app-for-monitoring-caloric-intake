@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:56 EST
+"Nutrient data for: 19137, Toppings, strawberry"
+Nutrient,Unit,1Value per 100 g,"2.0 tbsp = 42.0g","1 serving = 40.0g","1 cup = 340.0g",
+Proximates
+"Water",g,33.00,13.86,13.20,112.20
+"Energy",kcal,254,107,102,864
+"Protein",g,0.20,0.08,0.08,0.68
+"Total lipid (fat)",g,0.10,0.04,0.04,0.34
+"Carbohydrate, by difference",g,66.30,27.85,26.52,225.42
+"Fiber, total dietary",g,0.7,0.3,0.3,2.4
+"Sugars, total",g,27.38,11.50,10.95,93.09
+Minerals
+"Calcium, Ca",mg,6,3,2,20
+"Iron, Fe",mg,0.28,0.12,0.11,0.95
+"Magnesium, Mg",mg,4,2,2,14
+"Phosphorus, P",mg,5,2,2,17
+"Potassium, K",mg,51,21,20,173
+"Sodium, Na",mg,21,9,8,71
+"Zinc, Zn",mg,0.06,0.03,0.02,0.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,13.7,5.8,5.5,46.6
+"Thiamin",mg,0.011,0.005,0.004,0.037
+"Riboflavin",mg,0.024,0.010,0.010,0.082
+"Niacin",mg,0.161,0.068,0.064,0.547
+"Vitamin B-6",mg,0.012,0.005,0.005,0.041
+"Folate, DFE",µg,6,3,2,20
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,0,0,3
+"Vitamin A, IU",IU,18,8,7,61
+"Vitamin E (alpha-tocopherol)",mg,0.10,0.04,0.04,0.34
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.7,0.3,0.3,2.4
+Lipids
+"Fatty acids, total saturated",g,0.005,0.002,0.002,0.017
+"Fatty acids, total monounsaturated",g,0.014,0.006,0.006,0.048
+"Fatty acids, total polyunsaturated",g,0.050,0.021,0.020,0.170
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

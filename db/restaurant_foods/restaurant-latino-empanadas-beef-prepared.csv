@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:27 EST
+"Nutrient data for: 36403, Restaurant, Latino, empanadas, beef, prepared"
+Nutrient,Unit,1Value per 100 g,"1 piece = 89.0g",
+Proximates
+"Water",g,37.50,33.38
+"Energy",kcal,335,298
+"Protein",g,11.31,10.07
+"Total lipid (fat)",g,18.37,16.35
+"Carbohydrate, by difference",g,31.19,27.76
+"Fiber, total dietary",g,2.0,1.8
+"Sugars, total",g,1.84,1.64
+Minerals
+"Calcium, Ca",mg,20,18
+"Iron, Fe",mg,2.70,2.40
+"Magnesium, Mg",mg,21,19
+"Phosphorus, P",mg,103,92
+"Potassium, K",mg,190,169
+"Sodium, Na",mg,440,392
+"Zinc, Zn",mg,1.86,1.66
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.6
+"Thiamin",mg,0.277,0.247
+"Riboflavin",mg,0.190,0.169
+"Niacin",mg,4.663,4.150
+"Vitamin B-6",mg,0.148,0.132
+"Folate, DFE",µg,69,61
+"Vitamin B-12",µg,0.76,0.68
+"Vitamin A, RAE",µg,18,16
+"Vitamin A, IU",IU,183,163
+"Vitamin E (alpha-tocopherol)",mg,0.73,0.65
+"Vitamin D (D2 + D3)",µg,0.2,0.2
+"Vitamin D",IU,7,6
+"Vitamin K (phylloquinone)",µg,6.1,5.4
+Lipids
+"Fatty acids, total saturated",g,5.156,4.589
+"Fatty acids, total monounsaturated",g,7.121,6.338
+"Fatty acids, total polyunsaturated",g,4.268,3.799
+"Fatty acids, total trans",g,0.826,0.735
+"Cholesterol",mg,26,23
+Amino Acids
+Other
+"Caffeine",mg,0,0

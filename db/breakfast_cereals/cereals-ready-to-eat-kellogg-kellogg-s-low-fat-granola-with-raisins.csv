@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08284, Cereals ready-to-eat, KELLOGG, KELLOGG'S Low Fat Granola with Raisins"
+Nutrient,Unit,1Value per 100 g,"0.667 cup (1 NLEA serving) = 60.0g",
+Proximates
+"Water",g,3.80,2.28
+"Energy",kcal,381,229
+"Protein",g,9.00,5.40
+"Total lipid (fat)",g,5.20,3.12
+"Carbohydrate, by difference",g,80.10,48.06
+"Fiber, total dietary",g,7.4,4.4
+"Sugars, total",g,27.90,16.74
+Minerals
+"Calcium, Ca",mg,36,22
+"Iron, Fe",mg,3.30,1.98
+"Magnesium, Mg",mg,68,41
+"Phosphorus, P",mg,226,136
+"Potassium, K",mg,204,122
+"Sodium, Na",mg,249,149
+"Zinc, Zn",mg,6.30,3.78
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.0,2.4
+"Thiamin",mg,0.630,0.378
+"Riboflavin",mg,0.710,0.426
+"Niacin",mg,8.300,4.980
+"Vitamin B-6",mg,3.330,1.998
+"Folate, DFE",µg,1121,673
+"Vitamin B-12",µg,10.00,6.00
+"Vitamin A, RAE",µg,375,225
+"Vitamin A, IU",IU,1250,750
+"Vitamin E (alpha-tocopherol)",mg,5.85,3.51
+"Vitamin D (D2 + D3)",µg,1.8,1.1
+"Vitamin D",IU,73,44
+"Vitamin K (phylloquinone)",µg,1.8,1.1
+Lipids
+"Fatty acids, total saturated",g,1.200,0.720
+"Fatty acids, total monounsaturated",g,2.200,1.320
+"Fatty acids, total polyunsaturated",g,1.600,0.960
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

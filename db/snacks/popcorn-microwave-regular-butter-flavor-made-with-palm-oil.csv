@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:52 EST
+"Nutrient data for: 25026, Popcorn, microwave, regular (butter) flavor, made with palm oil"
+Nutrient,Unit,1Value per 100 g,"1 cup = 7.9g","1 bag = 87.0g",
+Proximates
+"Water",g,0.90,0.07,0.78
+"Energy",kcal,535,42,465
+"Protein",g,8.38,0.66,7.29
+"Total lipid (fat)",g,30.22,2.39,26.29
+"Carbohydrate, by difference",g,57.26,4.52,49.82
+"Fiber, total dietary",g,10.0,0.8,8.7
+"Sugars, total",g,0.30,0.02,0.26
+Minerals
+"Calcium, Ca",mg,23,2,20
+"Iron, Fe",mg,2.06,0.16,1.79
+"Magnesium, Mg",mg,110,9,96
+"Phosphorus, P",mg,275,22,239
+"Potassium, K",mg,393,31,342
+"Sodium, Na",mg,763,60,664
+"Zinc, Zn",mg,2.32,0.18,2.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.047,0.004,0.041
+"Riboflavin",mg,0.060,0.005,0.052
+"Niacin",mg,1.615,0.128,1.405
+"Vitamin B-6",mg,0.310,0.024,0.270
+"Folate, DFE",µg,15,1,13
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,9,1,8
+"Vitamin A, IU",IU,182,14,158
+"Vitamin E (alpha-tocopherol)",mg,2.91,0.23,2.53
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,4.3,0.3,3.7
+Lipids
+"Fatty acids, total saturated",g,14.598,1.153,12.700
+"Fatty acids, total monounsaturated",g,0.374,0.030,0.325
+"Fatty acids, total polyunsaturated",g,4.124,0.326,3.588
+"Fatty acids, total trans",g,0.853,0.067,0.742
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

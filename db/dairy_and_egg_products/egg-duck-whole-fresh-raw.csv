@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:08 EST
+"Nutrient data for: 01138, Egg, duck, whole, fresh, raw"
+Nutrient,Unit,1Value per 100 g,"1 egg = 70.0g",
+Proximates
+"Water",g,70.83,49.58
+"Energy",kcal,185,130
+"Protein",g,12.81,8.97
+"Total lipid (fat)",g,13.77,9.64
+"Carbohydrate, by difference",g,1.45,1.01
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.93,0.65
+Minerals
+"Calcium, Ca",mg,64,45
+"Iron, Fe",mg,3.85,2.69
+"Magnesium, Mg",mg,17,12
+"Phosphorus, P",mg,220,154
+"Potassium, K",mg,222,155
+"Sodium, Na",mg,146,102
+"Zinc, Zn",mg,1.41,0.99
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.156,0.109
+"Riboflavin",mg,0.404,0.283
+"Niacin",mg,0.200,0.140
+"Vitamin B-6",mg,0.250,0.175
+"Folate, DFE",µg,80,56
+"Vitamin B-12",µg,5.40,3.78
+"Vitamin A, RAE",µg,194,136
+"Vitamin A, IU",IU,674,472
+"Vitamin E (alpha-tocopherol)",mg,1.34,0.94
+"Vitamin D (D2 + D3)",µg,1.7,1.2
+"Vitamin D",IU,69,48
+"Vitamin K (phylloquinone)",µg,0.4,0.3
+Lipids
+"Fatty acids, total saturated",g,3.681,2.577
+"Fatty acids, total monounsaturated",g,6.525,4.567
+"Fatty acids, total polyunsaturated",g,1.223,0.856
+"Cholesterol",mg,884,619
+Amino Acids
+Other
+"Caffeine",mg,0,0

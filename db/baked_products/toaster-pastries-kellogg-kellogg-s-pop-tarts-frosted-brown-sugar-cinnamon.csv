@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:46 EST
+"Nutrient data for: 18479, Toaster Pastries, KELLOGG, KELLOGG'S POP TARTS, Frosted brown sugar cinnamon"
+Nutrient,Unit,1Value per 100 g,"1 pastry = 50.0g",
+Proximates
+"Water",g,11.30,5.65
+"Energy",kcal,417,208
+"Protein",g,4.60,2.30
+"Total lipid (fat)",g,13.80,6.90
+"Carbohydrate, by difference",g,69.00,34.50
+"Fiber, total dietary",g,1.4,0.7
+"Sugars, total",g,32.30,16.15
+Minerals
+"Iron, Fe",mg,5.40,2.70
+"Magnesium, Mg",mg,9,4
+"Phosphorus, P",mg,50,25
+"Potassium, K",mg,66,33
+"Sodium, Na",mg,343,172
+"Zinc, Zn",mg,0.30,0.15
+Vitamins
+"Thiamin",mg,0.430,0.215
+"Riboflavin",mg,0.520,0.260
+"Niacin",mg,5.200,2.600
+"Vitamin B-6",mg,0.750,0.375
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,381,190
+"Vitamin A, IU",IU,1270,635
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,4.500,2.250
+"Fatty acids, total monounsaturated",g,3.100,1.550
+"Fatty acids, total polyunsaturated",g,5.200,2.600
+"Fatty acids, total trans",g,0.200,0.100
+"Cholesterol",mg,0,0
+Amino Acids
+Other

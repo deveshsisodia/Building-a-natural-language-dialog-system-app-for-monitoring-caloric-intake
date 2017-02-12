@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:34 EST
+"Nutrient data for: 28330, Cookies, marshmallow, with rice cereal and chocolate chips"
+Nutrient,Unit,1Value per 100 g,"1 bar = 22.0g",
+Proximates
+"Water",g,12.27,2.70
+"Energy",kcal,435,96
+"Protein",g,4.55,1.00
+"Total lipid (fat)",g,18.18,4.00
+"Carbohydrate, by difference",g,63.26,13.92
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,40.91,9.00
+Minerals
+"Calcium, Ca",mg,0,0
+"Iron, Fe",mg,1.64,0.36
+"Magnesium, Mg",mg,51,11
+"Phosphorus, P",mg,98,22
+"Potassium, K",mg,227,50
+"Sodium, Na",mg,341,75
+"Zinc, Zn",mg,1.11,0.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.682,0.150
+"Riboflavin",mg,0.773,0.170
+"Niacin",mg,5.455,1.200
+"Vitamin B-6",mg,0.909,0.200
+"Folate, DFE",µg,59,13
+"Vitamin B-12",µg,0.04,0.01
+"Vitamin A, RAE",µg,43,9
+"Vitamin A, IU",IU,186,41
+"Vitamin E (alpha-tocopherol)",mg,0.72,0.16
+"Vitamin D (D2 + D3)",µg,0.9,0.2
+"Vitamin D",IU,36,8
+"Vitamin K (phylloquinone)",µg,6.9,1.5
+Lipids
+"Fatty acids, total saturated",g,11.364,2.500
+"Fatty acids, total monounsaturated",g,4.207,0.926
+"Fatty acids, total polyunsaturated",g,1.773,0.390
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,8,2

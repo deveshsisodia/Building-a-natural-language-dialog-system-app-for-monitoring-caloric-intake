@@ -1,0 +1,25 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:42 EST
+"Nutrient data for: 19876, Ice creams, BREYERS, All Natural Light French Vanilla"
+Nutrient,Unit,1Value per 100 g,"1 serving 1/2 cup = 68.0g",
+Proximates
+"Water",g,62.71,42.64
+"Energy",kcal,173,118
+"Protein",g,4.82,3.28
+"Total lipid (fat)",g,5.56,3.78
+"Carbohydrate, by difference",g,26.03,17.70
+"Fiber, total dietary",g,0.2,0.1
+"Sugars, total",g,21.11,14.35
+Minerals
+"Calcium, Ca",mg,155,105
+"Iron, Fe",mg,0.21,0.14
+"Sodium, Na",mg,73,50
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,0.6
+"Vitamin A, IU",IU,489,333
+Lipids
+"Fatty acids, total saturated",g,3.220,2.190
+"Cholesterol",mg,53,36
+Amino Acids
+Other

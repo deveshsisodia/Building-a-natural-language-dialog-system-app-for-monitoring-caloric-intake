@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:01 EST
+"Nutrient data for: 15065, Fish, pollock, Atlantic, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","0.5 fillet = 193.0g",
+Proximates
+"Water",g,78.18,66.45,150.89
+"Energy",kcal,92,78,178
+"Protein",g,19.44,16.52,37.52
+"Total lipid (fat)",g,0.98,0.83,1.89
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,60,51,116
+"Iron, Fe",mg,0.46,0.39,0.89
+"Magnesium, Mg",mg,67,57,129
+"Phosphorus, P",mg,221,188,427
+"Potassium, K",mg,356,303,687
+"Sodium, Na",mg,86,73,166
+"Zinc, Zn",mg,0.47,0.40,0.91
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.047,0.040,0.091
+"Riboflavin",mg,0.185,0.157,0.357
+"Niacin",mg,3.270,2.780,6.311
+"Vitamin B-6",mg,0.287,0.244,0.554
+"Folate, DFE",µg,3,3,6
+"Vitamin B-12",µg,3.19,2.71,6.16
+"Vitamin A, RAE",µg,14,12,27
+"Vitamin A, IU",IU,46,39,89
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.20,0.44
+"Vitamin D (D2 + D3)",µg,1.0,0.8,1.9
+"Vitamin D",IU,42,36,81
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.2
+Lipids
+"Fatty acids, total saturated",g,0.135,0.115,0.261
+"Fatty acids, total monounsaturated",g,0.112,0.095,0.216
+"Fatty acids, total polyunsaturated",g,0.483,0.411,0.932
+"Cholesterol",mg,71,60,137
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

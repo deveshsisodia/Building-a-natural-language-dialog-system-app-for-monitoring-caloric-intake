@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:49 EST
+"Nutrient data for: 13855, Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8"" fat, choice, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) = 278.0g",
+Proximates
+"Water",g,47.18,40.10,131.16
+"Energy",kcal,359,305,998
+"Protein",g,22.28,18.94,61.94
+"Total lipid (fat)",g,29.21,24.83,81.20
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,13,11,36
+"Iron, Fe",mg,2.39,2.03,6.64
+"Magnesium, Mg",mg,20,17,56
+"Phosphorus, P",mg,181,154,503
+"Potassium, K",mg,319,271,887
+"Sodium, Na",mg,63,54,175
+"Zinc, Zn",mg,4.86,4.13,13.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.060,0.051,0.167
+"Riboflavin",mg,0.160,0.136,0.445
+"Niacin",mg,3.130,2.661,8.701
+"Vitamin B-6",mg,0.240,0.204,0.667
+"Folate, DFE",µg,6,5,17
+"Vitamin B-12",µg,2.85,2.42,7.92
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,11.780,10.013,32.748
+"Fatty acids, total monounsaturated",g,12.630,10.736,35.111
+"Fatty acids, total polyunsaturated",g,1.070,0.909,2.975
+"Cholesterol",mg,83,71,231
+Amino Acids
+Other

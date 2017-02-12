@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:53 EST
+"Nutrient data for: 25062, Snack, Mixed Berry Bar"
+Nutrient,Unit,1Value per 100 g,"1 bar = 38.0g",
+Proximates
+"Water",g,15.52,5.90
+"Energy",kcal,383,146
+"Protein",g,13.16,5.00
+"Total lipid (fat)",g,10.53,4.00
+"Carbohydrate, by difference",g,58.84,22.36
+"Fiber, total dietary",g,7.9,3.0
+"Sugars, total",g,26.32,10.00
+Minerals
+"Calcium, Ca",mg,105,40
+"Iron, Fe",mg,1.89,0.72
+"Magnesium, Mg",mg,91,35
+"Phosphorus, P",mg,343,130
+"Potassium, K",mg,446,169
+"Sodium, Na",mg,447,170
+"Zinc, Zn",mg,2.64,1.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.2
+"Thiamin",mg,0.283,0.108
+"Riboflavin",mg,0.285,0.108
+"Niacin",mg,0.858,0.326
+"Vitamin B-6",mg,0.116,0.044
+"Folate, DFE",µg,28,11
+"Vitamin B-12",µg,0.51,0.19
+"Vitamin A, RAE",µg,27,10
+"Vitamin A, IU",IU,97,37
+"Vitamin E (alpha-tocopherol)",mg,0.29,0.11
+"Vitamin D (D2 + D3)",µg,0.1,0.0
+"Vitamin D",IU,2,1
+"Vitamin K (phylloquinone)",µg,1.6,0.6
+Lipids
+"Fatty acids, total saturated",g,3.846,1.461
+"Fatty acids, total monounsaturated",g,2.897,1.101
+"Fatty acids, total polyunsaturated",g,2.058,0.782
+"Fatty acids, total trans",g,0.001,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

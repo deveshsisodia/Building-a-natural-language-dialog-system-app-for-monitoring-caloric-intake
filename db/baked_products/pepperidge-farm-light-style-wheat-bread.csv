@@ -1,0 +1,31 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:43 EST
+"Nutrient data for: 28390, PEPPERIDGE FARM, Light Style Wheat Bread"
+Nutrient,Unit,1Value per 100 g,"1 serving = 57.0g",
+Proximates
+"Water",g,36.40,20.75
+"Energy",kcal,256,146
+"Protein",g,0.01,0.01
+"Total lipid (fat)",g,1.90,1.08
+"Carbohydrate, by difference",g,45.60,25.99
+"Fiber, total dietary",g,7.5,4.3
+"Sugars, total",g,4.40,2.51
+Minerals
+"Calcium, Ca",mg,139,79
+"Iron, Fe",mg,3.50,2.00
+"Sodium, Na",mg,378,215
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,0.6
+"Thiamin",mg,0.400,0.228
+"Riboflavin",mg,0.200,0.114
+"Niacin",mg,4.400,2.508
+"Vitamin A, IU",IU,100,57
+Lipids
+"Fatty acids, total saturated",g,0.700,0.399
+"Fatty acids, total monounsaturated",g,0.400,0.228
+"Fatty acids, total polyunsaturated",g,0.900,0.513
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,1,1
+Amino Acids
+Other

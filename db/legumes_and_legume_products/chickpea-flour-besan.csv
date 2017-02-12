@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:57 EST
+"Nutrient data for: 16157, Chickpea flour (besan)"
+Nutrient,Unit,1Value per 100 g,"1 cup = 92.0g",
+Proximates
+"Water",g,10.28,9.46
+"Energy",kcal,387,356
+"Protein",g,22.39,20.60
+"Total lipid (fat)",g,6.69,6.15
+"Carbohydrate, by difference",g,57.82,53.19
+"Fiber, total dietary",g,10.8,9.9
+"Sugars, total",g,10.85,9.98
+Minerals
+"Calcium, Ca",mg,45,41
+"Iron, Fe",mg,4.86,4.47
+"Magnesium, Mg",mg,166,153
+"Phosphorus, P",mg,318,293
+"Potassium, K",mg,846,778
+"Sodium, Na",mg,64,59
+"Zinc, Zn",mg,2.81,2.59
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.486,0.447
+"Riboflavin",mg,0.106,0.098
+"Niacin",mg,1.762,1.621
+"Vitamin B-6",mg,0.492,0.453
+"Folate, DFE",µg,437,402
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,2,2
+"Vitamin A, IU",IU,41,38
+"Vitamin E (alpha-tocopherol)",mg,0.83,0.76
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,9.1,8.4
+Lipids
+"Fatty acids, total saturated",g,0.693,0.638
+"Fatty acids, total monounsaturated",g,1.504,1.384
+"Fatty acids, total polyunsaturated",g,2.983,2.744
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

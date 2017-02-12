@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:58 EST
+"Nutrient data for: 16073, Lima beans, large, mature seeds, canned"
+Nutrient,Unit,1Value per 100 g,"1 cup = 241.0g",
+Proximates
+"Water",g,77.08,185.76
+"Energy",kcal,79,190
+"Protein",g,4.93,11.88
+"Total lipid (fat)",g,0.17,0.41
+"Carbohydrate, by difference",g,14.91,35.93
+"Fiber, total dietary",g,4.8,11.6
+Minerals
+"Calcium, Ca",mg,21,51
+"Iron, Fe",mg,1.81,4.36
+"Magnesium, Mg",mg,39,94
+"Phosphorus, P",mg,74,178
+"Potassium, K",mg,220,530
+"Sodium, Na",mg,336,810
+"Zinc, Zn",mg,0.65,1.57
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.055,0.133
+"Riboflavin",mg,0.034,0.082
+"Niacin",mg,0.261,0.629
+"Vitamin B-6",mg,0.091,0.219
+"Folate, DFE",µg,50,120
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.039,0.094
+"Fatty acids, total monounsaturated",g,0.015,0.036
+"Fatty acids, total polyunsaturated",g,0.074,0.178
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

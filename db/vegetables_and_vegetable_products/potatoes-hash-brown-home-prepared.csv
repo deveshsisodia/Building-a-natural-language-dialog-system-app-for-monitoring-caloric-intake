@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:28 EST
+"Nutrient data for: 11370, Potatoes, hash brown, home-prepared"
+Nutrient,Unit,1Value per 100 g,"1 cup = 156.0g",
+Proximates
+"Water",g,47.25,73.71
+"Energy",kcal,265,413
+"Protein",g,3.00,4.68
+"Total lipid (fat)",g,12.52,19.53
+"Carbohydrate, by difference",g,35.11,54.77
+"Fiber, total dietary",g,3.2,5.0
+"Sugars, total",g,1.49,2.32
+Minerals
+"Calcium, Ca",mg,14,22
+"Iron, Fe",mg,0.55,0.86
+"Magnesium, Mg",mg,35,55
+"Phosphorus, P",mg,70,109
+"Potassium, K",mg,576,899
+"Sodium, Na",mg,342,534
+"Zinc, Zn",mg,0.47,0.73
+Vitamins
+"Vitamin C, total ascorbic acid",mg,13.0,20.3
+"Thiamin",mg,0.172,0.268
+"Riboflavin",mg,0.033,0.051
+"Niacin",mg,2.302,3.591
+"Vitamin B-6",mg,0.472,0.736
+"Folate, DFE",µg,16,25
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,5,8
+"Vitamin E (alpha-tocopherol)",mg,0.01,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,3.7,5.8
+Lipids
+"Fatty acids, total saturated",g,1.883,2.937
+"Fatty acids, total monounsaturated",g,5.299,8.266
+"Fatty acids, total polyunsaturated",g,4.703,7.337
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

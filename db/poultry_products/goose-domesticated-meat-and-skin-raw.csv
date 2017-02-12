@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:37 EST
+"Nutrient data for: 05146, Goose, domesticated, meat and skin, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 unit (yield from 1 lb ready-to-cook goose) = 320.0g","0.5 goose = 1319.0g",
+Proximates
+"Water",g,49.66,42.21,158.91,655.02
+"Energy",kcal,371,315,1187,4893
+"Protein",g,15.86,13.48,50.75,209.19
+"Total lipid (fat)",g,33.62,28.58,107.58,443.45
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,12,10,38,158
+"Iron, Fe",mg,2.50,2.12,8.00,32.98
+"Magnesium, Mg",mg,18,15,58,237
+"Phosphorus, P",mg,234,199,749,3086
+"Potassium, K",mg,308,262,986,4063
+"Sodium, Na",mg,73,62,234,963
+"Zinc, Zn",mg,1.72,1.46,5.50,22.69
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.2,3.6,13.4,55.4
+"Thiamin",mg,0.085,0.072,0.272,1.121
+"Riboflavin",mg,0.245,0.208,0.784,3.232
+"Niacin",mg,3.608,3.067,11.546,47.590
+"Vitamin B-6",mg,0.390,0.331,1.248,5.144
+"Folate, DFE",µg,4,3,13,53
+"Vitamin B-12",µg,0.34,0.29,1.09,4.48
+"Vitamin A, RAE",µg,17,14,54,224
+"Vitamin A, IU",IU,55,47,176,725
+Lipids
+"Fatty acids, total saturated",g,9.780,8.313,31.296,128.998
+"Fatty acids, total monounsaturated",g,17.770,15.104,56.864,234.386
+"Fatty acids, total polyunsaturated",g,3.760,3.196,12.032,49.594
+"Cholesterol",mg,80,68,256,1055
+Amino Acids
+Other

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:06 EST
+"Nutrient data for: 01021, Cheese, gjetost"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 package (8 oz) = 227.0g",
+Proximates
+"Water",g,13.44,3.81,30.51
+"Energy",kcal,466,132,1058
+"Protein",g,9.65,2.74,21.91
+"Total lipid (fat)",g,29.51,8.37,66.99
+"Carbohydrate, by difference",g,42.65,12.09,96.82
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,400,113,908
+"Iron, Fe",mg,0.52,0.15,1.18
+"Magnesium, Mg",mg,70,20,159
+"Phosphorus, P",mg,444,126,1008
+"Potassium, K",mg,1409,399,3198
+"Sodium, Na",mg,600,170,1362
+"Zinc, Zn",mg,1.14,0.32,2.59
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.315,0.089,0.715
+"Riboflavin",mg,1.382,0.392,3.137
+"Niacin",mg,0.813,0.230,1.846
+"Vitamin B-6",mg,0.271,0.077,0.615
+"Folate, DFE",µg,5,1,11
+"Vitamin B-12",µg,2.42,0.69,5.49
+"Vitamin A, RAE",µg,334,95,758
+"Vitamin A, IU",IU,1113,316,2527
+Lipids
+"Fatty acids, total saturated",g,19.160,5.432,43.493
+"Fatty acids, total monounsaturated",g,7.879,2.234,17.885
+"Fatty acids, total polyunsaturated",g,0.938,0.266,2.129
+"Cholesterol",mg,94,27,213
+Amino Acids
+Other

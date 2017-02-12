@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:44 EST
+"Nutrient data for: 18303, Pie, banana cream, prepared from mix, no-bake type"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece (1/8 of 9"" dia) = 92.0g","1 piece (1/6 of 8"" pie) = 123.0g",
+Proximates
+"Water",g,50.90,14.43,46.83,62.61
+"Energy",kcal,251,71,231,309
+"Protein",g,3.40,0.96,3.13,4.18
+"Total lipid (fat)",g,12.90,3.66,11.87,15.87
+"Carbohydrate, by difference",g,31.60,8.96,29.07,38.87
+"Fiber, total dietary",g,0.6,0.2,0.6,0.7
+Minerals
+"Calcium, Ca",mg,73,21,67,90
+"Iron, Fe",mg,0.46,0.13,0.42,0.57
+"Magnesium, Mg",mg,12,3,11,15
+"Phosphorus, P",mg,167,47,154,205
+"Potassium, K",mg,113,32,104,139
+"Sodium, Na",mg,290,82,267,357
+"Zinc, Zn",mg,0.33,0.09,0.30,0.41
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.1,0.5,0.6
+"Thiamin",mg,0.102,0.029,0.094,0.125
+"Riboflavin",mg,0.146,0.041,0.134,0.180
+"Niacin",mg,0.709,0.201,0.652,0.872
+"Vitamin B-6",mg,0.035,0.010,0.032,0.043
+"Folate, DFE",µg,31,9,29,38
+"Vitamin B-12",µg,0.21,0.06,0.19,0.26
+"Vitamin A, RAE",µg,95,27,87,117
+"Vitamin A, IU",IU,408,116,375,502
+Lipids
+"Fatty acids, total saturated",g,6.904,1.957,6.352,8.492
+"Fatty acids, total monounsaturated",g,4.559,1.292,4.194,5.608
+"Fatty acids, total polyunsaturated",g,0.764,0.217,0.703,0.940
+"Cholesterol",mg,29,8,27,36
+Amino Acids
+Other

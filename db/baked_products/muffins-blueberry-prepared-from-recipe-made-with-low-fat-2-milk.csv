@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:42 EST
+"Nutrient data for: 18278, Muffins, blueberry, prepared from recipe, made with low fat (2%) milk"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 muffin = 57.0g",
+Proximates
+"Water",g,39.50,11.20,22.52
+"Energy",kcal,285,81,162
+"Protein",g,6.50,1.84,3.71
+"Total lipid (fat)",g,10.80,3.06,6.16
+"Carbohydrate, by difference",g,40.70,11.54,23.20
+Minerals
+"Calcium, Ca",mg,189,54,108
+"Iron, Fe",mg,2.27,0.64,1.29
+"Magnesium, Mg",mg,16,5,9
+"Phosphorus, P",mg,145,41,83
+"Potassium, K",mg,123,35,70
+"Sodium, Na",mg,441,125,251
+"Zinc, Zn",mg,0.54,0.15,0.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.5,0.4,0.9
+"Thiamin",mg,0.272,0.077,0.155
+"Riboflavin",mg,0.289,0.082,0.165
+"Niacin",mg,2.211,0.627,1.260
+"Vitamin B-6",mg,0.043,0.012,0.025
+"Folate, DFE",µg,73,21,42
+"Vitamin B-12",µg,0.14,0.04,0.08
+"Vitamin A, RAE",µg,38,11,22
+"Vitamin A, IU",IU,141,40,80
+Lipids
+"Fatty acids, total saturated",g,2.030,0.576,1.157
+"Fatty acids, total monounsaturated",g,2.596,0.736,1.480
+"Fatty acids, total polyunsaturated",g,5.388,1.527,3.071
+"Cholesterol",mg,37,10,21
+Amino Acids
+Other

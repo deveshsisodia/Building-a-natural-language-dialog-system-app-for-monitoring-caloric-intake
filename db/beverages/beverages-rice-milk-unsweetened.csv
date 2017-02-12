@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:23 EST
+"Nutrient data for: 14639, Beverages, rice milk, unsweetened"
+Nutrient,Unit,1Value per 100 g,"8.0 fl oz (approximate weight, 1 serving) = 240.0g",
+Proximates
+"Water",g,89.28,214.27
+"Energy",kcal,47,113
+"Protein",g,0.28,0.67
+"Total lipid (fat)",g,0.97,2.33
+"Carbohydrate, by difference",g,9.17,22.01
+"Fiber, total dietary",g,0.3,0.7
+"Sugars, total",g,5.28,12.67
+Minerals
+"Calcium, Ca",mg,118,283
+"Iron, Fe",mg,0.20,0.48
+"Magnesium, Mg",mg,11,26
+"Phosphorus, P",mg,56,134
+"Potassium, K",mg,27,65
+"Sodium, Na",mg,39,94
+"Zinc, Zn",mg,0.13,0.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.027,0.065
+"Riboflavin",mg,0.142,0.341
+"Niacin",mg,0.390,0.936
+"Vitamin B-6",mg,0.039,0.094
+"Folate, DFE",µg,2,5
+"Vitamin B-12",µg,0.63,1.51
+"Vitamin A, RAE",µg,63,151
+"Vitamin A, IU",IU,208,499
+"Vitamin E (alpha-tocopherol)",mg,0.47,1.13
+"Vitamin D (D2 + D3)",µg,1.0,2.4
+"Vitamin D",IU,42,101
+"Vitamin K (phylloquinone)",µg,0.2,0.5
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.625,1.500
+"Fatty acids, total polyunsaturated",g,0.313,0.751
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

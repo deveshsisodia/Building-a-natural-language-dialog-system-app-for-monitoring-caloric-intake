@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:26 EST
+"Nutrient data for: 36611, DENNY'S, mozzarella cheese sticks"
+Nutrient,Unit,1Value per 100 g,"1 serving = 228.0g","1 piece = 27.0g",
+Proximates
+"Water",g,37.63,85.80,10.16
+"Energy",kcal,324,739,87
+"Protein",g,13.56,30.92,3.66
+"Total lipid (fat)",g,17.87,40.74,4.82
+"Carbohydrate, by difference",g,27.22,62.06,7.35
+"Fiber, total dietary",g,1.6,3.6,0.4
+"Sugars, total",g,2.83,6.45,0.76
+Minerals
+"Calcium, Ca",mg,331,755,89
+"Iron, Fe",mg,0.84,1.92,0.23
+"Magnesium, Mg",mg,21,48,6
+"Phosphorus, P",mg,358,816,97
+"Potassium, K",mg,121,276,33
+"Sodium, Na",mg,1008,2298,272
+"Zinc, Zn",mg,1.98,4.51,0.53
+Vitamins
+"Thiamin",mg,0.150,0.342,0.041
+"Riboflavin",mg,0.257,0.586,0.069
+"Niacin",mg,0.980,2.234,0.265
+"Vitamin B-6",mg,0.084,0.192,0.023
+"Vitamin B-12",µg,0.95,2.17,0.26
+"Vitamin A, RAE",µg,96,219,26
+"Vitamin A, IU",IU,343,782,93
+"Vitamin E (alpha-tocopherol)",mg,0.74,1.69,0.20
+"Vitamin K (phylloquinone)",µg,25.4,57.9,6.9
+Lipids
+"Fatty acids, total saturated",g,6.643,15.146,1.794
+"Fatty acids, total monounsaturated",g,4.287,9.774,1.157
+"Fatty acids, total polyunsaturated",g,5.104,11.637,1.378
+"Fatty acids, total trans",g,0.372,0.848,0.100
+"Cholesterol",mg,32,73,9
+Amino Acids
+Other

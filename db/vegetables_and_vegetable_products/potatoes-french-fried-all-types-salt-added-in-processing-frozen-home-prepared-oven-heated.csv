@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:27 EST
+"Nutrient data for: 11403, Potatoes, french fried, all types, salt added in processing, frozen, home-prepared, oven heated"
+Nutrient,Unit,1Value per 100 g,"10.0 fries = 76.0g","1 package (9 oz), yields = 198.0g",
+Proximates
+"Water",g,64.44,48.97,127.59
+"Energy",kcal,158,120,313
+"Protein",g,2.75,2.09,5.45
+"Total lipid (fat)",g,5.48,4.16,10.85
+"Carbohydrate, by difference",g,25.55,19.42,50.59
+"Fiber, total dietary",g,2.0,1.5,4.0
+"Sugars, total",g,0.37,0.28,0.73
+Minerals
+"Calcium, Ca",mg,12,9,24
+"Iron, Fe",mg,0.57,0.43,1.13
+"Magnesium, Mg",mg,24,18,48
+"Phosphorus, P",mg,87,66,172
+"Potassium, K",mg,478,363,946
+"Sodium, Na",mg,324,246,642
+"Zinc, Zn",mg,0.35,0.27,0.69
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.6,6.5,17.0
+"Thiamin",mg,0.130,0.099,0.257
+"Riboflavin",mg,0.032,0.024,0.063
+"Niacin",mg,2.077,1.579,4.112
+"Vitamin B-6",mg,0.261,0.198,0.517
+"Folate, DFE",µg,23,17,46
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,5,4,10
+"Vitamin E (alpha-tocopherol)",mg,0.39,0.30,0.77
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,7.4,5.6,14.7
+Lipids
+"Fatty acids, total saturated",g,0.848,0.644,1.679
+"Fatty acids, total monounsaturated",g,1.874,1.424,3.711
+"Fatty acids, total polyunsaturated",g,1.502,1.142,2.974
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

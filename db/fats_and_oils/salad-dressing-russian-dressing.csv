@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:21 EST
+"Nutrient data for: 04015, Salad dressing, russian dressing"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 cup = 245.0g","1 serving (2 tbsp) = 30.0g",
+Proximates
+"Water",g,38.53,5.78,94.40,11.56
+"Energy",kcal,355,53,870,106
+"Protein",g,0.69,0.10,1.69,0.21
+"Total lipid (fat)",g,26.18,3.93,64.14,7.85
+"Carbohydrate, by difference",g,31.90,4.79,78.16,9.57
+"Fiber, total dietary",g,0.7,0.1,1.7,0.2
+"Sugars, total",g,17.68,2.65,43.32,5.30
+Minerals
+"Calcium, Ca",mg,13,2,32,4
+"Iron, Fe",mg,0.60,0.09,1.47,0.18
+"Magnesium, Mg",mg,10,2,24,3
+"Phosphorus, P",mg,20,3,49,6
+"Potassium, K",mg,173,26,424,52
+"Sodium, Na",mg,1133,170,2776,340
+"Zinc, Zn",mg,0.22,0.03,0.54,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.0,0.9,14.7,1.8
+"Thiamin",mg,0.029,0.004,0.071,0.009
+"Riboflavin",mg,0.046,0.007,0.113,0.014
+"Niacin",mg,0.594,0.089,1.455,0.178
+"Vitamin B-6",mg,0.097,0.015,0.238,0.029
+"Folate, DFE",µg,5,1,12,2
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,29,4,71,9
+"Vitamin A, IU",IU,577,87,1414,173
+"Vitamin E (alpha-tocopherol)",mg,3.32,0.50,8.13,1.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,53.7,8.1,131.6,16.1
+Lipids
+"Fatty acids, total saturated",g,2.390,0.359,5.856,0.717
+"Fatty acids, total monounsaturated",g,5.928,0.889,14.524,1.778
+"Fatty acids, total polyunsaturated",g,14.830,2.224,36.334,4.449
+"Fatty acids, total trans",g,0.170,0.026,0.417,0.051
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

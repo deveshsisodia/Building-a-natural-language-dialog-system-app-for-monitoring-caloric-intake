@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:52 EST
+"Nutrient data for: 25020, Formulated bar, SLIM-FAST OPTIMA meal bar, milk chocolate peanut"
+Nutrient,Unit,1Value per 100 g,"1 bar = 55.0g",
+Proximates
+"Water",g,10.87,5.98
+"Energy",kcal,386,212
+"Protein",g,16.19,8.90
+"Total lipid (fat)",g,8.92,4.91
+"Carbohydrate, by difference",g,60.21,33.12
+"Fiber, total dietary",g,5.1,2.8
+"Sugars, total",g,25.00,13.75
+Minerals
+"Calcium, Ca",mg,668,367
+"Iron, Fe",mg,4.98,2.74
+"Magnesium, Mg",mg,250,138
+"Phosphorus, P",mg,673,370
+"Potassium, K",mg,289,159
+"Sodium, Na",mg,253,139
+"Zinc, Zn",mg,5.73,3.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,96.6,53.1
+"Thiamin",mg,1.700,0.935
+"Riboflavin",mg,1.900,1.045
+"Niacin",mg,21.200,11.660
+"Vitamin B-6",mg,2.100,1.155
+"Folate, DFE",µg,725,399
+"Vitamin B-12",µg,7.90,4.34
+"Vitamin A, RAE",µg,940,517
+"Vitamin A, IU",IU,3133,1723
+"Vitamin E (alpha-tocopherol)",mg,6.00,3.30
+"Vitamin D (D2 + D3)",µg,5.4,3.0
+"Vitamin D",IU,214,118
+"Vitamin K (phylloquinone)",µg,129.3,71.1
+Lipids
+"Fatty acids, total saturated",g,5.360,2.948
+"Fatty acids, total monounsaturated",g,2.428,1.335
+"Fatty acids, total polyunsaturated",g,1.132,0.623
+"Fatty acids, total trans",g,0.208,0.114
+"Cholesterol",mg,7,4
+Amino Acids
+Other
+"Caffeine",mg,0,0

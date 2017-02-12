@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:38 EST
+"Nutrient data for: 05655, Ostrich, tip trimmed, raw"
+Nutrient,Unit,1Value per 100 g,"1 serving ( cooked from 4 oz raw) = 85.0g","1 oz = 28.35g","1 lb = 453.0g",
+Proximates
+"Water",g,76.12,64.70,21.58,344.82
+"Energy",kcal,114,97,32,516
+"Protein",g,21.85,18.57,6.19,98.98
+"Total lipid (fat)",g,2.30,1.95,0.65,10.42
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,5,4,1,23
+"Iron, Fe",mg,2.86,2.43,0.81,12.96
+"Magnesium, Mg",mg,22,19,6,100
+"Phosphorus, P",mg,213,181,60,965
+"Potassium, K",mg,310,264,88,1404
+"Sodium, Na",mg,67,57,19,304
+"Zinc, Zn",mg,3.74,3.18,1.06,16.94
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.196,0.167,0.056,0.888
+"Riboflavin",mg,0.288,0.245,0.082,1.305
+"Niacin",mg,4.730,4.021,1.341,21.427
+"Vitamin B-6",mg,0.514,0.437,0.146,2.328
+"Folate, DFE",µg,8,7,2,36
+"Vitamin B-12",µg,4.98,4.23,1.41,22.56
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.20,0.17,0.06,0.91
+Lipids
+"Fatty acids, total saturated",g,0.860,0.731,0.244,3.896
+"Fatty acids, total monounsaturated",g,0.790,0.672,0.224,3.579
+"Fatty acids, total polyunsaturated",g,0.450,0.383,0.128,2.038
+"Cholesterol",mg,72,61,20,326
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

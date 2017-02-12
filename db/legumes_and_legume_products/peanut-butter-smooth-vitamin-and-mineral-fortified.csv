@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:59 EST
+"Nutrient data for: 16155, Peanut butter, smooth, vitamin and mineral fortified"
+Nutrient,Unit,1Value per 100 g,"2.0 tbsp = 32.0g","1 cup = 258.0g",
+Proximates
+"Water",g,1.47,0.47,3.79
+"Energy",kcal,591,189,1525
+"Protein",g,25.72,8.23,66.36
+"Total lipid (fat)",g,50.81,16.26,131.09
+"Carbohydrate, by difference",g,18.75,6.00,48.38
+"Fiber, total dietary",g,5.6,1.8,14.4
+"Sugars, total",g,10.47,3.35,27.01
+Minerals
+"Calcium, Ca",mg,43,14,111
+"Iron, Fe",mg,16.60,5.31,42.83
+"Magnesium, Mg",mg,355,114,916
+"Phosphorus, P",mg,368,118,949
+"Potassium, K",mg,667,213,1721
+"Sodium, Na",mg,420,134,1084
+"Zinc, Zn",mg,14.40,4.61,37.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.083,0.027,0.214
+"Riboflavin",mg,0.105,0.034,0.271
+"Niacin",mg,13.369,4.278,34.492
+"Vitamin B-6",mg,2.230,0.714,5.753
+"Folate, DFE",µg,540,173,1393
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1172,375,3024
+"Vitamin A, IU",IU,3907,1250,10080
+"Vitamin E (alpha-tocopherol)",mg,43.20,13.82,111.46
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.6,0.2,1.5
+Lipids
+"Fatty acids, total saturated",g,10.125,3.240,26.122
+"Fatty acids, total monounsaturated",g,24.832,7.946,64.067
+"Fatty acids, total polyunsaturated",g,13.847,4.431,35.725
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

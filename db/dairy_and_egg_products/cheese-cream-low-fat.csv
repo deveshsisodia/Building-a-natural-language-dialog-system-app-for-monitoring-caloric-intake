@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:05 EST
+"Nutrient data for: 43274, Cheese, cream, low fat"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 cup = 240.0g","1 tbsp, whipped = 10.0g",
+Proximates
+"Water",g,66.72,10.01,160.13,6.67
+"Energy",kcal,201,30,482,20
+"Protein",g,7.85,1.18,18.84,0.79
+"Total lipid (fat)",g,15.28,2.29,36.67,1.53
+"Carbohydrate, by difference",g,8.13,1.22,19.51,0.81
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,5.82,0.87,13.97,0.58
+Minerals
+"Calcium, Ca",mg,148,22,355,15
+"Iron, Fe",mg,0.17,0.03,0.41,0.02
+"Magnesium, Mg",mg,8,1,19,1
+"Phosphorus, P",mg,152,23,365,15
+"Potassium, K",mg,247,37,593,25
+"Sodium, Na",mg,359,54,862,36
+"Zinc, Zn",mg,0.57,0.09,1.37,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.040,0.006,0.096,0.004
+"Riboflavin",mg,0.185,0.028,0.444,0.019
+"Niacin",mg,0.125,0.019,0.300,0.013
+"Vitamin B-6",mg,0.045,0.007,0.108,0.004
+"Folate, DFE",µg,19,3,46,2
+"Vitamin B-12",µg,0.92,0.14,2.21,0.09
+"Vitamin A, RAE",µg,161,24,386,16
+"Vitamin A, IU",IU,552,83,1325,55
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.04,0.65,0.03
+"Vitamin D (D2 + D3)",µg,0.3,0.0,0.7,0.0
+"Vitamin D",IU,11,2,26,1
+"Vitamin K (phylloquinone)",µg,1.1,0.2,2.6,0.1
+Lipids
+"Fatty acids, total saturated",g,9.098,1.365,21.835,0.910
+"Fatty acids, total monounsaturated",g,3.996,0.599,9.590,0.400
+"Fatty acids, total polyunsaturated",g,0.658,0.099,1.579,0.066
+"Cholesterol",mg,54,8,130,5
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

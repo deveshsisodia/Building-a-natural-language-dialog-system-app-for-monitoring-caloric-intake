@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:40 EST
+"Nutrient data for: 19169, Egg custards, dry mix"
+Nutrient,Unit,1Value per 100 g,"1 package (3 oz) = 85.0g","1 portion, amount to make 1/2 cup = 21.0g",
+Proximates
+"Water",g,1.70,1.45,0.36
+"Energy",kcal,410,348,86
+"Protein",g,6.90,5.87,1.45
+"Total lipid (fat)",g,6.40,5.44,1.34
+"Carbohydrate, by difference",g,82.80,70.38,17.39
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,228,194,48
+"Iron, Fe",mg,1.93,1.64,0.41
+"Magnesium, Mg",mg,45,38,9
+"Phosphorus, P",mg,332,282,70
+"Potassium, K",mg,540,459,113
+"Sodium, Na",mg,281,239,59
+"Zinc, Zn",mg,1.05,0.89,0.22
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.3,0.1
+"Thiamin",mg,0.145,0.123,0.030
+"Riboflavin",mg,0.412,0.350,0.087
+"Niacin",mg,0.320,0.272,0.067
+"Vitamin B-6",mg,0.216,0.184,0.045
+"Folate, DFE",µg,30,26,6
+"Vitamin B-12",µg,1.17,0.99,0.25
+"Vitamin A, RAE",µg,63,54,13
+"Vitamin A, IU",IU,217,184,46
+Lipids
+"Fatty acids, total saturated",g,2.030,1.725,0.426
+"Fatty acids, total monounsaturated",g,2.400,2.040,0.504
+"Fatty acids, total polyunsaturated",g,0.850,0.723,0.178
+"Cholesterol",mg,258,219,54
+Amino Acids
+Other

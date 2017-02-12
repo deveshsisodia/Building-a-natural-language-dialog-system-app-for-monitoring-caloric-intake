@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:53 EST
+"Nutrient data for: 43447, Snacks, corn-based, extruded, chips, unsalted"
+Nutrient,Unit,1Value per 100 g,"1 cup, crushed = 88.0g","1 bag, single serving = 28.0g","10.0 chips = 18.0g",
+Proximates
+"Water",g,1.00,0.88,0.28,0.18
+"Energy",kcal,557,490,156,100
+"Protein",g,6.60,5.81,1.85,1.19
+"Total lipid (fat)",g,33.40,29.39,9.35,6.01
+"Carbohydrate, by difference",g,57.40,50.51,16.07,10.33
+"Fiber, total dietary",g,4.4,3.9,1.2,0.8
+"Sugars, total",g,1.41,1.24,0.39,0.25
+Minerals
+"Calcium, Ca",mg,124,109,35,22
+"Iron, Fe",mg,1.70,1.50,0.48,0.31
+"Magnesium, Mg",mg,70,62,20,13
+"Phosphorus, P",mg,184,162,52,33
+"Potassium, K",mg,185,163,52,33
+"Sodium, Na",mg,15,13,4,3
+"Zinc, Zn",mg,0.85,0.75,0.24,0.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.0,1.8,0.6,0.4
+"Thiamin",mg,0.140,0.123,0.039,0.025
+"Riboflavin",mg,0.160,0.141,0.045,0.029
+"Niacin",mg,1.480,1.302,0.414,0.266
+"Vitamin B-6",mg,0.210,0.185,0.059,0.038
+"Folate, DFE",µg,7,6,2,1
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,4,4,1,1
+"Vitamin A, IU",IU,70,62,20,13
+"Vitamin E (alpha-tocopherol)",mg,1.36,1.20,0.38,0.24
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,33.6,29.6,9.4,6.0
+Lipids
+"Fatty acids, total saturated",g,4.344,3.823,1.216,0.782
+"Fatty acids, total monounsaturated",g,9.040,7.955,2.531,1.627
+"Fatty acids, total polyunsaturated",g,17.093,15.042,4.786,3.077
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

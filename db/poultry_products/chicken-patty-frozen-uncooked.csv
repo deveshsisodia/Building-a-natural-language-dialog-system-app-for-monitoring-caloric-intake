@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:37 EST
+"Nutrient data for: 05323, Chicken patty, frozen, uncooked"
+Nutrient,Unit,1Value per 100 g,"1 patty = 60.0g",
+Proximates
+"Water",g,50.04,30.02
+"Energy",kcal,292,175
+"Protein",g,14.33,8.60
+"Total lipid (fat)",g,20.04,12.02
+"Carbohydrate, by difference",g,13.61,8.17
+"Fiber, total dietary",g,1.2,0.7
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,20,12
+"Iron, Fe",mg,0.93,0.56
+"Magnesium, Mg",mg,25,15
+"Phosphorus, P",mg,196,118
+"Potassium, K",mg,248,149
+"Sodium, Na",mg,518,311
+"Zinc, Zn",mg,0.94,0.56
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.073,0.044
+"Riboflavin",mg,0.054,0.032
+"Niacin",mg,6.630,3.978
+"Vitamin B-6",mg,0.155,0.093
+"Folate, DFE",µg,5,3
+"Vitamin B-12",µg,0.23,0.14
+"Vitamin A, RAE",µg,11,7
+"Vitamin A, IU",IU,37,22
+"Vitamin E (alpha-tocopherol)",mg,1.18,0.71
+"Vitamin K (phylloquinone)",µg,11.1,6.7
+Lipids
+"Fatty acids, total saturated",g,4.013,2.408
+"Fatty acids, total monounsaturated",g,8.980,5.388
+"Fatty acids, total polyunsaturated",g,5.204,3.122
+"Cholesterol",mg,45,27
+Amino Acids
+Other
+"Caffeine",mg,0,0

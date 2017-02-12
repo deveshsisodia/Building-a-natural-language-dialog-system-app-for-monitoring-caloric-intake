@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:14 EST
+"Nutrient data for: 20523, Spaghetti, protein-fortified, cooked, enriched (n x 6.25)"
+Nutrient,Unit,1Value per 100 g,"1 cup = 140.0g",
+Proximates
+"Water",g,59.73,83.62
+"Energy",kcal,164,230
+"Protein",g,8.86,12.40
+"Total lipid (fat)",g,0.21,0.29
+"Carbohydrate, by difference",g,30.88,43.23
+"Fiber, total dietary",g,2.0,2.8
+Minerals
+"Calcium, Ca",mg,10,14
+"Iron, Fe",mg,0.72,1.01
+"Magnesium, Mg",mg,30,42
+"Phosphorus, P",mg,50,70
+"Potassium, K",mg,42,59
+"Sodium, Na",mg,5,7
+"Zinc, Zn",mg,0.50,0.70
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.298,0.417
+"Riboflavin",mg,0.161,0.225
+"Niacin",mg,1.837,2.572
+"Vitamin B-6",mg,0.064,0.090
+"Folate, DFE",µg,132,185
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.032,0.045
+"Fatty acids, total monounsaturated",g,0.026,0.036
+"Fatty acids, total polyunsaturated",g,0.095,0.133
+"Cholesterol",mg,0,0
+Amino Acids
+Other

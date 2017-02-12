@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08050, Cereals ready-to-eat, GENERAL MILLS, LUCKY CHARMS"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 27.0g",
+Proximates
+"Water",g,4.15,1.12
+"Energy",kcal,380,103
+"Protein",g,7.67,2.07
+"Total lipid (fat)",g,5.02,1.36
+"Carbohydrate, by difference",g,80.89,21.84
+"Fiber, total dietary",g,5.0,1.4
+"Sugars, total",g,36.13,9.76
+Minerals
+"Calcium, Ca",mg,434,117
+"Iron, Fe",mg,22.27,6.01
+"Magnesium, Mg",mg,74,20
+"Phosphorus, P",mg,289,78
+"Potassium, K",mg,222,60
+"Sodium, Na",mg,648,175
+"Zinc, Zn",mg,18.62,5.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,26.6,7.2
+"Thiamin",mg,1.737,0.469
+"Riboflavin",mg,1.723,0.465
+"Niacin",mg,25.300,6.831
+"Vitamin B-6",mg,3.010,0.813
+"Folate, DFE",µg,1246,336
+"Vitamin B-12",µg,6.80,1.84
+"Vitamin A, RAE",µg,847,229
+"Vitamin A, IU",IU,2823,762
+"Vitamin E (alpha-tocopherol)",mg,0.45,0.12
+"Vitamin D (D2 + D3)",µg,3.9,1.1
+"Vitamin D",IU,156,42
+"Vitamin K (phylloquinone)",µg,1.4,0.4
+Lipids
+"Fatty acids, total saturated",g,0.885,0.239
+"Fatty acids, total monounsaturated",g,1.586,0.428
+"Fatty acids, total polyunsaturated",g,1.542,0.416
+"Fatty acids, total trans",g,0.013,0.004
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

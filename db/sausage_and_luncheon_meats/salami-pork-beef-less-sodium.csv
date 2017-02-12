@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:19 EST
+"Nutrient data for: 07913, Salami, pork, beef, less sodium"
+Nutrient,Unit,1Value per 100 g,"3.527 oz = 100.0g",
+Proximates
+"Water",g,33.74,33.74
+"Energy",kcal,396,396
+"Protein",g,15.01,15.01
+"Total lipid (fat)",g,30.50,30.50
+"Carbohydrate, by difference",g,15.38,15.38
+"Fiber, total dietary",g,0.2,0.2
+"Sugars, total",g,6.21,6.21
+Minerals
+"Calcium, Ca",mg,94,94
+"Iron, Fe",mg,1.55,1.55
+"Magnesium, Mg",mg,31,31
+"Phosphorus, P",mg,272,272
+"Potassium, K",mg,1372,1372
+"Sodium, Na",mg,623,623
+"Zinc, Zn",mg,3.08,3.08
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.7
+"Thiamin",mg,0.738,0.738
+"Riboflavin",mg,0.336,0.336
+"Niacin",mg,4.803,4.803
+"Vitamin B-6",mg,0.489,0.489
+"Folate, DFE",µg,8,8
+"Vitamin B-12",µg,1.76,1.76
+"Vitamin A, RAE",µg,4,4
+"Vitamin A, IU",IU,12,12
+"Vitamin D (D2 + D3)",µg,0.8,0.8
+"Vitamin D",IU,32,32
+Lipids
+"Fatty acids, total saturated",g,10.580,10.580
+"Fatty acids, total monounsaturated",g,13.320,13.320
+"Fatty acids, total polyunsaturated",g,3.067,3.067
+"Cholesterol",mg,90,90
+Amino Acids
+Other
+"Caffeine",mg,0,0

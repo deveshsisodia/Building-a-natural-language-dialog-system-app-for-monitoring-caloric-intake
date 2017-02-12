@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08314, Cereals, QUAKER, hominy grits, white, quick, dry"
+Nutrient,Unit,1Value per 100 g,"0.25 cup = 37.0g",
+Proximates
+"Water",g,10.00,3.70
+"Energy",kcal,348,129
+"Protein",g,8.80,3.26
+"Total lipid (fat)",g,1.20,0.44
+"Carbohydrate, by difference",g,79.60,29.45
+"Fiber, total dietary",g,4.8,1.8
+"Sugars, total",g,0.30,0.11
+Minerals
+"Calcium, Ca",mg,2,1
+"Iron, Fe",mg,4.42,1.64
+"Magnesium, Mg",mg,27,10
+"Phosphorus, P",mg,73,27
+"Potassium, K",mg,137,51
+"Sodium, Na",mg,1,0
+"Zinc, Zn",mg,0.41,0.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.610,0.226
+"Riboflavin",mg,0.360,0.133
+"Niacin",mg,5.320,1.968
+"Vitamin B-6",mg,0.150,0.056
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.04
+Lipids
+"Fatty acids, total saturated",g,0.160,0.059
+"Fatty acids, total monounsaturated",g,0.290,0.107
+"Fatty acids, total polyunsaturated",g,0.510,0.189
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

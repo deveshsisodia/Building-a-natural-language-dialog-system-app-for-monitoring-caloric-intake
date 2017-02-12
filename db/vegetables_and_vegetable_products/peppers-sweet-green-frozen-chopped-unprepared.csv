@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:26 EST
+"Nutrient data for: 11337, Peppers, sweet, green, frozen, chopped, unprepared"
+Nutrient,Unit,1Value per 100 g,"0.33 package (10 oz) = 95.0g","1 package (10 oz) = 284.0g",
+Proximates
+"Water",g,93.96,89.26,266.85
+"Energy",kcal,20,19,57
+"Protein",g,1.08,1.03,3.07
+"Total lipid (fat)",g,0.21,0.20,0.60
+"Carbohydrate, by difference",g,4.45,4.23,12.64
+"Fiber, total dietary",g,1.6,1.5,4.5
+Minerals
+"Calcium, Ca",mg,9,9,26
+"Iron, Fe",mg,0.62,0.59,1.76
+"Magnesium, Mg",mg,8,8,23
+"Phosphorus, P",mg,17,16,48
+"Potassium, K",mg,91,86,258
+"Sodium, Na",mg,5,5,14
+"Zinc, Zn",mg,0.06,0.06,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,58.7,55.8,166.7
+"Thiamin",mg,0.069,0.066,0.196
+"Riboflavin",mg,0.038,0.036,0.108
+"Niacin",mg,1.370,1.302,3.891
+"Vitamin B-6",mg,0.137,0.130,0.389
+"Folate, DFE",µg,14,13,40
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,18,17,51
+"Vitamin A, IU",IU,367,349,1042
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.031,0.029,0.088
+"Fatty acids, total monounsaturated",g,0.014,0.013,0.040
+"Fatty acids, total polyunsaturated",g,0.113,0.107,0.321
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

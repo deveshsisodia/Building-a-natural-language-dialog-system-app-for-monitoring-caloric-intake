@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:59 EST
+"Nutrient data for: 16390, Peanuts, all types, dry-roasted, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 146.0g","1 oz = 28.35g","1 peanut = 1.0g",
+Proximates
+"Water",g,1.81,2.64,0.51,0.02
+"Energy",kcal,587,857,166,6
+"Protein",g,24.35,35.55,6.90,0.24
+"Total lipid (fat)",g,49.66,72.50,14.08,0.50
+"Carbohydrate, by difference",g,21.26,31.04,6.03,0.21
+"Fiber, total dietary",g,8.4,12.3,2.4,0.1
+"Sugars, total",g,4.90,7.15,1.39,0.05
+Minerals
+"Calcium, Ca",mg,58,85,16,1
+"Iron, Fe",mg,1.58,2.31,0.45,0.02
+"Magnesium, Mg",mg,178,260,50,2
+"Phosphorus, P",mg,363,530,103,4
+"Potassium, K",mg,634,926,180,6
+"Sodium, Na",mg,6,9,2,0
+"Zinc, Zn",mg,2.77,4.04,0.79,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.152,0.222,0.043,0.002
+"Riboflavin",mg,0.197,0.288,0.056,0.002
+"Niacin",mg,14.355,20.958,4.070,0.144
+"Vitamin B-6",mg,0.466,0.680,0.132,0.005
+"Folate, DFE",µg,97,142,27,1
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,4.93,7.20,1.40,0.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,7.723,11.276,2.189,0.077
+"Fatty acids, total monounsaturated",g,26.181,38.224,7.422,0.262
+"Fatty acids, total polyunsaturated",g,9.773,14.269,2.771,0.098
+"Fatty acids, total trans",g,0.027,0.039,0.008,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:07 EST
+"Nutrient data for: 12062, Nuts, almonds, blanched"
+Nutrient,Unit,1Value per 100 g,"1 cup whole kernels = 145.0g","1 tbsp = 9.1g","1 oz = 28.35g",
+Proximates
+"Water",g,4.51,6.54,0.41,1.28
+"Energy",kcal,590,856,54,167
+"Protein",g,21.40,31.03,1.95,6.07
+"Total lipid (fat)",g,52.52,76.15,4.78,14.89
+"Carbohydrate, by difference",g,18.67,27.07,1.70,5.29
+"Fiber, total dietary",g,9.9,14.4,0.9,2.8
+"Sugars, total",g,4.63,6.71,0.42,1.31
+Minerals
+"Calcium, Ca",mg,236,342,21,67
+"Iron, Fe",mg,3.28,4.76,0.30,0.93
+"Magnesium, Mg",mg,268,389,24,76
+"Phosphorus, P",mg,481,697,44,136
+"Potassium, K",mg,659,956,60,187
+"Sodium, Na",mg,19,28,2,5
+"Zinc, Zn",mg,2.97,4.31,0.27,0.84
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.191,0.277,0.017,0.054
+"Riboflavin",mg,0.711,1.031,0.065,0.202
+"Niacin",mg,3.500,5.075,0.319,0.992
+"Vitamin B-6",mg,0.115,0.167,0.010,0.033
+"Folate, DFE",µg,49,71,4,14
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,7,10,1,2
+"Vitamin E (alpha-tocopherol)",mg,23.75,34.44,2.16,6.73
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,3.953,5.732,0.360,1.121
+"Fatty acids, total monounsaturated",g,33.415,48.452,3.041,9.473
+"Fatty acids, total polyunsaturated",g,12.368,17.934,1.125,3.506
+"Fatty acids, total trans",g,0.019,0.028,0.002,0.005
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0
+Footnotes
+(a)"Unroasted"

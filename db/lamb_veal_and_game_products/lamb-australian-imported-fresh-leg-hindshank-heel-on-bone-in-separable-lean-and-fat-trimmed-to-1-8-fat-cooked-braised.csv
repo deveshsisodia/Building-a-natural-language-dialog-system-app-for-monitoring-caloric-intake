@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:53 EST
+"Nutrient data for: 17455, Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean and fat, trimmed to 1/8"" fat, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 leg hindshank, heel on = 418.0g",
+Proximates
+"Water",g,61.85,52.57,258.53
+"Energy",kcal,204,173,853
+"Protein",g,29.52,25.09,123.39
+"Total lipid (fat)",g,9.50,8.07,39.71
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,6,5,25
+"Iron, Fe",mg,2.00,1.70,8.36
+"Magnesium, Mg",mg,19,16,79
+"Phosphorus, P",mg,150,128,627
+"Potassium, K",mg,192,163,803
+"Sodium, Na",mg,84,71,351
+"Zinc, Zn",mg,4.09,3.48,17.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.102,0.087,0.426
+"Riboflavin",mg,0.468,0.398,1.956
+"Niacin",mg,5.163,4.389,21.581
+"Vitamin B-6",mg,0.394,0.335,1.647
+"Vitamin B-12",µg,1.39,1.18,5.81
+"Vitamin A, RAE",µg,2,2,8
+"Vitamin A, IU",IU,7,6,29
+"Vitamin E (alpha-tocopherol)",mg,0.36,0.31,1.50
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,4.293,3.649,17.945
+"Fatty acids, total monounsaturated",g,3.788,3.220,15.834
+"Fatty acids, total polyunsaturated",g,0.843,0.717,3.524
+"Fatty acids, total trans",g,0.678,0.576,2.834
+"Cholesterol",mg,110,94,460
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

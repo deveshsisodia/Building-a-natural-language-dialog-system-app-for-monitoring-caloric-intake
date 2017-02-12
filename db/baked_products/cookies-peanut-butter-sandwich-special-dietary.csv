@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:34 EST
+"Nutrient data for: 18201, Cookies, peanut butter sandwich, special dietary"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cookie = 10.0g",
+Proximates
+"Water",g,3.70,1.05,0.37
+"Energy",kcal,535,152,54
+"Protein",g,10.00,2.83,1.00
+"Total lipid (fat)",g,34.00,9.64,3.40
+"Carbohydrate, by difference",g,50.80,14.40,5.08
+Minerals
+"Calcium, Ca",mg,43,12,4
+"Iron, Fe",mg,2.55,0.72,0.26
+"Magnesium, Mg",mg,51,14,5
+"Phosphorus, P",mg,154,44,15
+"Potassium, K",mg,294,83,29
+"Sodium, Na",mg,412,117,41
+"Zinc, Zn",mg,1.03,0.29,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.346,0.098,0.035
+"Riboflavin",mg,0.148,0.042,0.015
+"Niacin",mg,5.259,1.491,0.526
+"Vitamin B-6",mg,0.078,0.022,0.008
+"Folate, DFE",µg,69,20,7
+"Vitamin B-12",µg,0.01,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,4.937,1.400,0.494
+"Fatty acids, total monounsaturated",g,15.391,4.363,1.539
+"Fatty acids, total polyunsaturated",g,12.026,3.409,1.203
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

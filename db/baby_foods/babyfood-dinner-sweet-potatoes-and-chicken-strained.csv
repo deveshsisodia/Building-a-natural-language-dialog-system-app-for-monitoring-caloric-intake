@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:43 EST
+"Nutrient data for: 03303, Babyfood, dinner, sweet potatoes and chicken, strained"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 16.0g","1 jar Beech-Nut Stage 2 (4 oz) = 113.0g",
+Proximates
+"Water",g,83.70,13.39,94.58
+"Energy",kcal,74,12,84
+"Protein",g,2.51,0.40,2.84
+"Total lipid (fat)",g,2.17,0.35,2.45
+"Carbohydrate, by difference",g,11.04,1.77,12.48
+"Fiber, total dietary",g,1.3,0.2,1.5
+"Sugars, total",g,2.65,0.42,2.99
+Minerals
+"Calcium, Ca",mg,30,5,34
+"Iron, Fe",mg,0.45,0.07,0.51
+"Magnesium, Mg",mg,13,2,15
+"Phosphorus, P",mg,25,4,28
+"Potassium, K",mg,200,32,226
+"Sodium, Na",mg,22,4,25
+"Zinc, Zn",mg,0.37,0.06,0.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.020,0.003,0.023
+"Riboflavin",mg,0.040,0.006,0.045
+"Niacin",mg,1.040,0.166,1.175
+"Vitamin B-6",mg,0.137,0.022,0.155
+"Folate, DFE",µg,6,1,7
+"Vitamin B-12",µg,0.05,0.01,0.06
+"Vitamin A, RAE",µg,216,35,244
+"Vitamin A, IU",IU,4318,691,4879
+"Vitamin E (alpha-tocopherol)",mg,0.58,0.09,0.66
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.1
+"Vitamin D",IU,4,1,5
+"Vitamin K (phylloquinone)",µg,1.3,0.2,1.5
+Lipids
+"Fatty acids, total saturated",g,0.572,0.092,0.646
+"Fatty acids, total monounsaturated",g,0.980,0.157,1.107
+"Fatty acids, total polyunsaturated",g,0.480,0.077,0.542
+"Cholesterol",mg,11,2,12
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

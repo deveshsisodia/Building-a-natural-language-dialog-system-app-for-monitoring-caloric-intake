@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:19 EST
+"Nutrient data for: 11163, Collards, frozen, chopped, unprepared"
+Nutrient,Unit,1Value per 100 g,"0.33 package (10 oz) = 95.0g","1 package (10 oz) = 284.0g","1 package (3 lb) = 1361.0g",
+Proximates
+"Water",g,89.53,85.05,254.27,1218.50
+"Energy",kcal,33,31,94,449
+"Protein",g,2.69,2.56,7.64,36.61
+"Total lipid (fat)",g,0.37,0.35,1.05,5.04
+"Carbohydrate, by difference",g,6.46,6.14,18.35,87.92
+"Fiber, total dietary",g,3.6,3.4,10.2,49.0
+Minerals
+"Calcium, Ca",mg,201,191,571,2736
+"Iron, Fe",mg,1.07,1.02,3.04,14.56
+"Magnesium, Mg",mg,29,28,82,395
+"Phosphorus, P",mg,27,26,77,367
+"Potassium, K",mg,253,240,719,3443
+"Sodium, Na",mg,48,46,136,653
+"Zinc, Zn",mg,0.26,0.25,0.74,3.54
+Vitamins
+"Vitamin C, total ascorbic acid",mg,40.0,38.0,113.6,544.4
+"Thiamin",mg,0.050,0.048,0.142,0.680
+"Riboflavin",mg,0.110,0.104,0.312,1.497
+"Niacin",mg,0.641,0.609,1.820,8.724
+"Vitamin B-6",mg,0.115,0.109,0.327,1.565
+"Folate, DFE",µg,73,69,207,994
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,459,436,1304,6247
+"Vitamin A, IU",IU,9183,8724,26080,124981
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.048,0.046,0.136,0.653
+"Fatty acids, total monounsaturated",g,0.027,0.026,0.077,0.367
+"Fatty acids, total polyunsaturated",g,0.178,0.169,0.506,2.423
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other

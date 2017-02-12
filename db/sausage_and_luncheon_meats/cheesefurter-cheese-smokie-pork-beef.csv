@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:14 EST
+"Nutrient data for: 07016, Cheesefurter, cheese smokie, pork, beef"
+Nutrient,Unit,1Value per 100 g,"2.33 links = 100.0g",
+Proximates
+"Water",g,52.50,52.50
+"Energy",kcal,328,328
+"Protein",g,14.10,14.10
+"Total lipid (fat)",g,29.00,29.00
+"Carbohydrate, by difference",g,1.51,1.51
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,1.51,1.51
+Minerals
+"Calcium, Ca",mg,58,58
+"Iron, Fe",mg,1.08,1.08
+"Magnesium, Mg",mg,13,13
+"Phosphorus, P",mg,178,178
+"Potassium, K",mg,206,206
+"Sodium, Na",mg,1082,1082
+"Zinc, Zn",mg,2.25,2.25
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.250,0.250
+"Riboflavin",mg,0.160,0.160
+"Niacin",mg,2.900,2.900
+"Vitamin B-6",mg,0.130,0.130
+"Folate, DFE",µg,3,3
+"Vitamin B-12",µg,1.73,1.73
+"Vitamin A, RAE",µg,6,6
+"Vitamin A, IU",IU,19,19
+"Vitamin E (alpha-tocopherol)",mg,0.24,0.24
+"Vitamin D (D2 + D3)",µg,0.3,0.3
+"Vitamin D",IU,12,12
+"Vitamin K (phylloquinone)",µg,1.6,1.6
+Lipids
+"Fatty acids, total saturated",g,10.470,10.470
+"Fatty acids, total monounsaturated",g,13.640,13.640
+"Fatty acids, total polyunsaturated",g,3.020,3.020
+"Cholesterol",mg,68,68
+Amino Acids
+Other
+"Caffeine",mg,0,0

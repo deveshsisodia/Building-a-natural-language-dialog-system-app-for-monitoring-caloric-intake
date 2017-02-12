@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:58 EST
+"Nutrient data for: 08113, Cereals, farina, enriched, cooked with water, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 240.0g","1 tbsp = 15.0g",
+Proximates
+"Water",g,86.55,207.72,12.98
+"Energy",kcal,53,127,8
+"Protein",g,1.82,4.37,0.27
+"Total lipid (fat)",g,0.34,0.82,0.05
+"Carbohydrate, by difference",g,10.92,26.21,1.64
+"Fiber, total dietary",g,0.8,1.9,0.1
+"Sugars, total",g,0.76,1.82,0.11
+Minerals
+"Calcium, Ca",mg,97,233,15
+"Iron, Fe",mg,5.33,12.79,0.80
+"Magnesium, Mg",mg,7,17,1
+"Phosphorus, P",mg,37,89,6
+"Potassium, K",mg,23,55,3
+"Sodium, Na",mg,18,43,3
+"Zinc, Zn",mg,0.23,0.55,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.126,0.302,0.019
+"Riboflavin",mg,0.065,0.156,0.010
+"Niacin",mg,1.493,3.583,0.224
+"Vitamin B-6",mg,0.096,0.230,0.014
+"Folate, DFE",µg,119,286,18
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.04,0.10,0.01
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.066,0.158,0.010
+"Fatty acids, total monounsaturated",g,0.038,0.091,0.006
+"Fatty acids, total polyunsaturated",g,0.126,0.302,0.019
+"Fatty acids, total trans",g,0.030,0.072,0.004
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

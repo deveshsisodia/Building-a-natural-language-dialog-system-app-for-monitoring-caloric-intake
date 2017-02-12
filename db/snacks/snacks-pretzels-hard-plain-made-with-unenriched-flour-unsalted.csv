@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 19813, Snacks, pretzels, hard, plain, made with unenriched flour, unsalted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","10.0 twists = 60.0g",
+Proximates
+"Water",g,3.30,0.94,1.98
+"Energy",kcal,381,108,229
+"Protein",g,9.10,2.58,5.46
+"Total lipid (fat)",g,3.50,0.99,2.10
+"Carbohydrate, by difference",g,79.20,22.45,47.52
+"Fiber, total dietary",g,2.8,0.8,1.7
+Minerals
+"Calcium, Ca",mg,36,10,22
+"Iron, Fe",mg,1.67,0.47,1.00
+"Magnesium, Mg",mg,35,10,21
+"Phosphorus, P",mg,113,32,68
+"Potassium, K",mg,146,41,88
+"Sodium, Na",mg,289,82,173
+"Zinc, Zn",mg,0.85,0.24,0.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.180,0.051,0.108
+"Riboflavin",mg,0.100,0.028,0.060
+"Niacin",mg,1.920,0.544,1.152
+"Vitamin B-6",mg,0.116,0.033,0.070
+"Folate, DFE",µg,83,24,50
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.750,0.213,0.450
+"Fatty acids, total monounsaturated",g,1.360,0.386,0.816
+"Fatty acids, total polyunsaturated",g,1.220,0.346,0.732
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

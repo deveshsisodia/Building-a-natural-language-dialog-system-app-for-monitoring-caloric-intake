@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:45 EST
+"Nutrient data for: 28235, SUNSHINE, CHEEZ-IT, Baby Swiss Crackers"
+Nutrient,Unit,1Value per 100 g,"25.0 crackers = 30.0g","1 pouch = 21.0g",
+Proximates
+"Water",g,2.30,0.69,0.48
+"Energy",kcal,503,151,106
+"Protein",g,8.60,2.58,1.81
+"Total lipid (fat)",g,24.70,7.41,5.19
+"Carbohydrate, by difference",g,63.10,18.93,13.25
+"Fiber, total dietary",g,2.2,0.7,0.5
+"Sugars, total",g,1.40,0.42,0.29
+Minerals
+"Iron, Fe",mg,4.10,1.23,0.86
+"Magnesium, Mg",mg,16,5,3
+"Phosphorus, P",mg,68,20,14
+"Potassium, K",mg,104,31,22
+"Sodium, Na",mg,629,189,132
+"Zinc, Zn",mg,0.70,0.21,0.15
+Vitamins
+"Thiamin",mg,0.590,0.177,0.124
+"Riboflavin",mg,0.350,0.105,0.073
+"Niacin",mg,4.700,1.410,0.987
+"Vitamin B-6",mg,0.030,0.009,0.006
+Lipids
+"Fatty acids, total saturated",g,5.600,1.680,1.176
+"Fatty acids, total monounsaturated",g,5.800,1.740,1.218
+"Fatty acids, total polyunsaturated",g,12.000,3.600,2.520
+"Fatty acids, total trans",g,0.200,0.060,0.042
+"Cholesterol",mg,5,2,1
+Amino Acids
+Other

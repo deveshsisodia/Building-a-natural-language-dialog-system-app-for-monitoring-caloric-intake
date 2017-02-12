@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:23 EST
+"Nutrient data for: 11040, Lima beans, immature seeds, frozen, baby, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 180.0g","1 package (10 oz) yields = 311.0g",
+Proximates
+"Water",g,72.35,130.23,225.01
+"Energy",kcal,105,189,327
+"Protein",g,6.65,11.97,20.68
+"Total lipid (fat)",g,0.30,0.54,0.93
+"Carbohydrate, by difference",g,19.45,35.01,60.49
+"Fiber, total dietary",g,4.8,8.6,14.9
+"Sugars, total",g,1.37,2.47,4.26
+Minerals
+"Calcium, Ca",mg,28,50,87
+"Iron, Fe",mg,1.96,3.53,6.10
+"Magnesium, Mg",mg,56,101,174
+"Phosphorus, P",mg,112,202,348
+"Potassium, K",mg,411,740,1278
+"Sodium, Na",mg,29,52,90
+"Zinc, Zn",mg,0.55,0.99,1.71
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.8,10.4,18.0
+"Thiamin",mg,0.070,0.126,0.218
+"Riboflavin",mg,0.055,0.099,0.171
+"Niacin",mg,0.770,1.386,2.395
+"Vitamin B-6",mg,0.115,0.207,0.358
+"Folate, DFE",µg,16,29,50
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,8,14,25
+"Vitamin A, IU",IU,167,301,519
+"Vitamin E (alpha-tocopherol)",mg,0.64,1.15,1.99
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,5.2,9.4,16.2
+Lipids
+"Fatty acids, total saturated",g,0.068,0.122,0.211
+"Fatty acids, total monounsaturated",g,0.017,0.031,0.053
+"Fatty acids, total polyunsaturated",g,0.145,0.261,0.451
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

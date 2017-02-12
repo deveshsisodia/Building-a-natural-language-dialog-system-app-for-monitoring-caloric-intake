@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:01 EST
+"Nutrient data for: 15070, Fish, rockfish, Pacific, mixed species, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 fillet = 191.0g",
+Proximates
+"Water",g,79.08,67.22,151.04
+"Energy",kcal,90,76,172
+"Protein",g,18.36,15.61,35.07
+"Total lipid (fat)",g,1.34,1.14,2.56
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,14,12,27
+"Iron, Fe",mg,0.30,0.26,0.57
+"Magnesium, Mg",mg,27,23,52
+"Phosphorus, P",mg,205,174,392
+"Potassium, K",mg,386,328,737
+"Sodium, Na",mg,74,63,141
+"Zinc, Zn",mg,0.36,0.31,0.69
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.023,0.020,0.044
+"Riboflavin",mg,0.187,0.159,0.357
+"Niacin",mg,2.393,2.034,4.571
+"Vitamin B-6",mg,0.210,0.178,0.401
+"Folate, DFE",µg,9,8,17
+"Vitamin B-12",µg,1.39,1.18,2.65
+"Vitamin A, RAE",µg,4,3,8
+"Vitamin A, IU",IU,15,13,29
+"Vitamin E (alpha-tocopherol)",mg,0.36,0.31,0.69
+"Vitamin D (D2 + D3)",µg,3.8,3.2,7.3
+"Vitamin D",IU,151,128,288
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.347,0.295,0.663
+"Fatty acids, total monounsaturated",g,0.385,0.327,0.735
+"Fatty acids, total polyunsaturated",g,0.401,0.341,0.766
+"Fatty acids, total trans",g,0.020,0.017,0.038
+"Cholesterol",mg,50,42,96
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

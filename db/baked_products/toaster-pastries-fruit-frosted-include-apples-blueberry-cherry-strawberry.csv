@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:46 EST
+"Nutrient data for: 18938, Toaster Pastries, fruit, frosted (include apples, blueberry, cherry, strawberry)"
+Nutrient,Unit,1Value per 100 g,"1 piece = 53.0g","1 oz = 28.35g",
+Proximates
+"Water",g,14.04,7.44,3.98
+"Energy",kcal,385,204,109
+"Protein",g,4.01,2.13,1.14
+"Total lipid (fat)",g,9.02,4.78,2.56
+"Carbohydrate, by difference",g,71.83,38.07,20.36
+"Fiber, total dietary",g,1.8,1.0,0.5
+"Sugars, total",g,31.00,16.43,8.79
+Minerals
+"Calcium, Ca",mg,12,6,3
+"Iron, Fe",mg,4.35,2.31,1.23
+"Magnesium, Mg",mg,11,6,3
+"Phosphorus, P",mg,71,38,20
+"Potassium, K",mg,86,46,24
+"Sodium, Na",mg,311,165,88
+"Zinc, Zn",mg,0.36,0.19,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.519,0.275,0.147
+"Riboflavin",mg,0.495,0.262,0.140
+"Niacin",mg,6.174,3.272,1.750
+"Vitamin B-6",mg,0.495,0.262,0.140
+"Folate, DFE",µg,115,61,33
+"Vitamin B-12",µg,0.01,0.01,0.00
+"Vitamin A, RAE",µg,202,107,57
+"Vitamin A, IU",IU,672,356,191
+"Vitamin E (alpha-tocopherol)",mg,0.74,0.39,0.21
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,19.4,10.3,5.5
+Lipids
+"Fatty acids, total saturated",g,3.091,1.638,0.876
+"Fatty acids, total monounsaturated",g,2.186,1.159,0.620
+"Fatty acids, total polyunsaturated",g,3.360,1.781,0.953
+"Fatty acids, total trans",g,0.034,0.018,0.010
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

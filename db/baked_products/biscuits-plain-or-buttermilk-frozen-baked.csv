@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:29 EST
+"Nutrient data for: 18009, Biscuits, plain or buttermilk, frozen, baked"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 large = 77.0g","1 medium = 51.0g","1 small = 35.0g","1 biscuit (2-1/2"" dia) = 35.0g",
+Proximates
+"Water",g,26.70,7.57,20.56,13.62,9.35,9.35
+"Energy",kcal,338,96,260,172,118,118
+"Protein",g,6.20,1.76,4.77,3.16,2.17,2.17
+"Total lipid (fat)",g,11.03,3.13,8.49,5.63,3.86,3.86
+"Carbohydrate, by difference",g,53.87,15.27,41.48,27.47,18.85,18.85
+"Fiber, total dietary",g,1.3,0.4,1.0,0.7,0.5,0.5
+"Sugars, total",g,3.48,0.99,2.68,1.77,1.22,1.22
+Minerals
+"Calcium, Ca",mg,49,14,38,25,17,17
+"Iron, Fe",mg,3.30,0.94,2.54,1.68,1.16,1.16
+"Magnesium, Mg",mg,17,5,13,9,6,6
+"Phosphorus, P",mg,430,122,331,219,150,150
+"Potassium, K",mg,224,64,172,114,78,78
+"Sodium, Na",mg,942,267,725,480,330,330
+"Zinc, Zn",mg,0.48,0.14,0.37,0.24,0.17,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.427,0.121,0.329,0.218,0.149,0.149
+"Riboflavin",mg,0.292,0.083,0.225,0.149,0.102,0.102
+"Niacin",mg,3.352,0.950,2.581,1.710,1.173,1.173
+"Vitamin B-6",mg,0.047,0.013,0.036,0.024,0.016,0.016
+"Folate, DFE",µg,111,31,85,57,39,39
+"Vitamin B-12",µg,0.14,0.04,0.11,0.07,0.05,0.05
+"Vitamin A, RAE",µg,0,0,0,0,0,0
+"Vitamin A, IU",IU,2,1,2,1,1,1
+"Vitamin E (alpha-tocopherol)",mg,1.32,0.37,1.02,0.67,0.46,0.46
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,4.1,1.2,3.2,2.1,1.4,1.4
+Lipids
+"Fatty acids, total saturated",g,1.676,0.475,1.291,0.855,0.587,0.587
+"Fatty acids, total monounsaturated",g,4.647,1.317,3.578,2.370,1.626,1.626
+"Fatty acids, total polyunsaturated",g,4.178,1.184,3.217,2.131,1.462,1.462
+"Cholesterol",mg,1,0,1,1,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

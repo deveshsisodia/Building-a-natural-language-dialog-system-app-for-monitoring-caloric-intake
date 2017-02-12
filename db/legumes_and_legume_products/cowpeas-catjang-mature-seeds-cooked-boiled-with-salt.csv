@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:57 EST
+"Nutrient data for: 16361, Cowpeas, catjang, mature seeds, cooked, boiled, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 171.0g",
+Proximates
+"Water",g,69.70,119.19
+"Energy",kcal,117,200
+"Protein",g,8.13,13.90
+"Total lipid (fat)",g,0.71,1.21
+"Carbohydrate, by difference",g,20.32,34.75
+"Fiber, total dietary",g,3.6,6.2
+Minerals
+"Calcium, Ca",mg,26,44
+"Iron, Fe",mg,3.05,5.22
+"Magnesium, Mg",mg,96,164
+"Phosphorus, P",mg,142,243
+"Potassium, K",mg,375,641
+"Sodium, Na",mg,255,436
+"Zinc, Zn",mg,1.87,3.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.7
+"Thiamin",mg,0.162,0.277
+"Riboflavin",mg,0.046,0.079
+"Niacin",mg,0.714,1.221
+"Vitamin B-6",mg,0.092,0.157
+"Folate, DFE",µg,142,243
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1,2
+"Vitamin A, IU",IU,10,17
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.185,0.316
+"Fatty acids, total monounsaturated",g,0.059,0.101
+"Fatty acids, total polyunsaturated",g,0.303,0.518
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

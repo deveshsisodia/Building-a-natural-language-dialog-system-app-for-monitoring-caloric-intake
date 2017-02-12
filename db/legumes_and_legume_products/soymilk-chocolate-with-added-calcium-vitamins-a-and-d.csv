@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:01 EST
+"Nutrient data for: 16168, Soymilk, chocolate, with added calcium, vitamins A and D"
+Nutrient,Unit,1Value per 100 g,"1 cup = 243.0g","1 fl oz = 30.6g",
+Proximates
+"Water",g,85.61,208.03,26.20
+"Energy",kcal,63,153,19
+"Protein",g,2.26,5.49,0.69
+"Total lipid (fat)",g,1.53,3.72,0.47
+"Carbohydrate, by difference",g,9.95,24.18,3.04
+"Fiber, total dietary",g,0.4,1.0,0.1
+"Sugars, total",g,7.86,19.10,2.41
+Minerals
+"Calcium, Ca",mg,126,306,39
+"Iron, Fe",mg,0.48,1.17,0.15
+"Magnesium, Mg",mg,15,36,5
+"Phosphorus, P",mg,51,124,16
+"Potassium, K",mg,143,347,44
+"Sodium, Na",mg,53,129,16
+"Zinc, Zn",mg,0.34,0.83,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.7,4.1,0.5
+"Thiamin",mg,0.022,0.053,0.007
+"Riboflavin",mg,0.262,0.637,0.080
+"Niacin",mg,0.513,1.247,0.157
+"Vitamin B-6",mg,0.077,0.187,0.024
+"Folate, DFE",µg,11,27,3
+"Vitamin B-12",µg,0.70,1.70,0.21
+"Vitamin A, RAE",µg,70,170,21
+"Vitamin A, IU",IU,235,571,72
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.27,0.03
+"Vitamin D (D2 + D3)",µg,1.0,2.4,0.3
+"Vitamin D",IU,40,97,12
+"Vitamin K (phylloquinone)",µg,3.0,7.3,0.9
+Lipids
+"Fatty acids, total saturated",g,0.240,0.583,0.073
+"Fatty acids, total monounsaturated",g,0.379,0.921,0.116
+"Fatty acids, total polyunsaturated",g,0.836,2.031,0.256
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,2,5,1

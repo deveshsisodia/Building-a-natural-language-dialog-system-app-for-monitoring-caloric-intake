@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:36 EST
+"Nutrient data for: 18427, Crackers, standard snack-type, regular, low salt"
+Nutrient,Unit,1Value per 100 g,"0.5 oz = 14.2g","1 cup, bite size = 62.0g","1 cup, crushed = 72.0g","1 cracker, rectangular = 4.0g","1 cracker, oval = 3.0g","1 cracker, round = 3.0g",
+Proximates
+"Water",g,3.50,0.50,2.17,2.52,0.14,0.10,0.10
+"Energy",kcal,502,71,311,361,20,15,15
+"Protein",g,7.40,1.05,4.59,5.33,0.30,0.22,0.22
+"Total lipid (fat)",g,25.30,3.59,15.69,18.22,1.01,0.76,0.76
+"Carbohydrate, by difference",g,61.00,8.66,37.82,43.92,2.44,1.83,1.83
+"Fiber, total dietary",g,1.6,0.2,1.0,1.2,0.1,0.0,0.0
+"Sugars, total",g,1.79,0.25,1.11,1.29,0.07,0.05,0.05
+Minerals
+"Calcium, Ca",mg,120,17,74,86,5,4,4
+"Iron, Fe",mg,3.60,0.51,2.23,2.59,0.14,0.11,0.11
+"Magnesium, Mg",mg,27,4,17,19,1,1,1
+"Phosphorus, P",mg,228,32,141,164,9,7,7
+"Potassium, K",mg,355,50,220,256,14,11,11
+"Sodium, Na",mg,216,31,134,156,9,6,6
+"Zinc, Zn",mg,0.68,0.10,0.42,0.49,0.03,0.02,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.408,0.058,0.253,0.294,0.016,0.012,0.012
+"Riboflavin",mg,0.342,0.049,0.212,0.246,0.014,0.010,0.010
+"Niacin",mg,4.048,0.575,2.510,2.915,0.162,0.121,0.121
+"Vitamin B-6",mg,0.053,0.008,0.033,0.038,0.002,0.002,0.002
+"Folate, DFE",µg,142,20,88,102,6,4,4
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,2.03,0.29,1.26,1.46,0.08,0.06,0.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,6.3,0.9,3.9,4.5,0.3,0.2,0.2
+Lipids
+"Fatty acids, total saturated",g,3.776,0.536,2.341,2.719,0.151,0.113,0.113
+"Fatty acids, total monounsaturated",g,10.640,1.511,6.597,7.661,0.426,0.319,0.319
+"Fatty acids, total polyunsaturated",g,9.545,1.355,5.918,6.872,0.382,0.286,0.286
+"Cholesterol",mg,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

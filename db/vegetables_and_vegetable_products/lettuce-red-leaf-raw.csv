@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:22 EST
+"Nutrient data for: 11257, Lettuce, red leaf, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup shredded = 28.0g","1 leaf inner = 2.6g","1 leaf outer = 17.0g","1 head = 309.0g","1 NLEA serving = 85.0g",
+Proximates
+"Water",g,95.64,26.78,2.49,16.26,295.53,81.29
+"Energy",kcal,16,4,0,3,49,14
+"Protein",g,1.33,0.37,0.03,0.23,4.11,1.13
+"Total lipid (fat)",g,0.22,0.06,0.01,0.04,0.68,0.19
+"Carbohydrate, by difference",g,2.26,0.63,0.06,0.38,6.98,1.92
+"Fiber, total dietary",g,0.9,0.3,0.0,0.2,2.8,0.8
+"Sugars, total",g,0.48,0.13,0.01,0.08,1.48,0.41
+Minerals
+"Calcium, Ca",mg,33,9,1,6,102,28
+"Iron, Fe",mg,1.20,0.34,0.03,0.20,3.71,1.02
+"Magnesium, Mg",mg,12,3,0,2,37,10
+"Phosphorus, P",mg,28,8,1,5,87,24
+"Potassium, K",mg,187,52,5,32,578,159
+"Sodium, Na",mg,25,7,1,4,77,21
+"Zinc, Zn",mg,0.20,0.06,0.01,0.03,0.62,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.7,1.0,0.1,0.6,11.4,3.1
+"Thiamin",mg,0.064,0.018,0.002,0.011,0.198,0.054
+"Riboflavin",mg,0.077,0.022,0.002,0.013,0.238,0.065
+"Niacin",mg,0.321,0.090,0.008,0.055,0.992,0.273
+"Vitamin B-6",mg,0.100,0.028,0.003,0.017,0.309,0.085
+"Folate, DFE",µg,36,10,1,6,111,31
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,375,105,10,64,1159,319
+"Vitamin A, IU",IU,7492,2098,195,1274,23150,6368
+"Vitamin E (alpha-tocopherol)",mg,0.15,0.04,0.00,0.03,0.46,0.13
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,140.3,39.3,3.6,23.9,433.5,119.3
+Lipids
+"Fatty acids, total saturated",g,0.017,0.005,0.000,0.003,0.053,0.014
+"Fatty acids, total monounsaturated",g,0.005,0.001,0.000,0.001,0.015,0.004
+"Fatty acids, total polyunsaturated",g,0.072,0.020,0.002,0.012,0.222,0.061
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:46 EST
+"Nutrient data for: 23236, Beef, rib, back ribs, bone-in, separable lean and fat, trimmed to 0"" fat, all grades, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 ribs = 1587.0g",
+Proximates
+"Water",g,53.91,45.82,855.55
+"Energy",kcal,324,275,5142
+"Protein",g,16.15,13.73,256.30
+"Total lipid (fat)",g,28.42,24.16,451.03
+"Carbohydrate, by difference",g,0.78,0.66,12.38
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,10,8,159
+"Iron, Fe",mg,1.63,1.39,25.87
+"Magnesium, Mg",mg,17,14,270
+"Phosphorus, P",mg,120,102,1904
+"Potassium, K",mg,218,185,3460
+"Sodium, Na",mg,53,45,841
+"Zinc, Zn",mg,3.85,3.27,61.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.075,0.064,1.190
+"Riboflavin",mg,0.210,0.178,3.333
+"Niacin",mg,3.807,3.236,60.417
+"Vitamin B-6",mg,0.368,0.313,5.840
+"Folate, DFE",µg,3,3,48
+"Vitamin B-12",µg,1.55,1.32,24.60
+"Vitamin A, RAE",µg,6,5,95
+"Vitamin A, IU",IU,19,16,302
+"Vitamin D (D2 + D3)",µg,0.2,0.2,3.2
+"Vitamin D",IU,9,8,143
+"Vitamin K (phylloquinone)",µg,1.5,1.3,23.8
+Lipids
+"Fatty acids, total saturated",g,12.643,10.747,200.644
+"Fatty acids, total monounsaturated",g,13.811,11.739,219.181
+"Fatty acids, total polyunsaturated",g,1.171,0.995,18.584
+"Fatty acids, total trans",g,1.881,1.599,29.851
+"Cholesterol",mg,75,64,1190
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:09 EST
+"Nutrient data for: 12529, Seeds, sesame seed kernels, toasted, with salt added (decorticated)"
+Nutrient,Unit,1Value per 100 g,"1 cup = 128.0g","1 oz = 28.35g",
+Proximates
+"Water",g,5.00,6.40,1.42
+"Energy",kcal,567,726,161
+"Protein",g,16.96,21.71,4.81
+"Total lipid (fat)",g,48.00,61.44,13.61
+"Carbohydrate, by difference",g,26.04,33.33,7.38
+"Fiber, total dietary",g,16.9,21.6,4.8
+"Sugars, total",g,0.48,0.61,0.14
+Minerals
+"Calcium, Ca",mg,131,168,37
+"Iron, Fe",mg,7.78,9.96,2.21
+"Magnesium, Mg",mg,346,443,98
+"Phosphorus, P",mg,774,991,219
+"Potassium, K",mg,406,520,115
+"Sodium, Na",mg,588,753,167
+"Zinc, Zn",mg,10.23,13.09,2.90
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,1.205,1.542,0.342
+"Riboflavin",mg,0.466,0.596,0.132
+"Niacin",mg,5.438,6.961,1.542
+"Vitamin B-6",mg,0.146,0.187,0.041
+"Folate, DFE",µg,96,123,27
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,3,4,1
+"Vitamin A, IU",IU,66,84,19
+"Vitamin E (alpha-tocopherol)",mg,0.25,0.32,0.07
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,6.722,8.604,1.906
+"Fatty acids, total monounsaturated",g,18.127,23.203,5.139
+"Fatty acids, total polyunsaturated",g,21.039,26.930,5.965
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

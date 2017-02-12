@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:21 EST
+"Nutrient data for: 11206, Cucumber, peeled, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, pared, chopped = 133.0g","1 cup, sliced = 119.0g","1 large (8-1/4"" long) = 280.0g","1 medium = 201.0g","1 slice = 7.0g","1 small (6-3/8"" long) = 158.0g","1 stick (4"" long) = 9.0g",
+Proximates
+"Water",g,96.73,128.65,115.11,270.84,194.43,6.77,152.83,8.71
+"Energy",kcal,12,16,14,34,24,1,19,1
+"Protein",g,0.59,0.78,0.70,1.65,1.19,0.04,0.93,0.05
+"Total lipid (fat)",g,0.16,0.21,0.19,0.45,0.32,0.01,0.25,0.01
+"Carbohydrate, by difference",g,2.16,2.87,2.57,6.05,4.34,0.15,3.41,0.19
+"Fiber, total dietary",g,0.7,0.9,0.8,2.0,1.4,0.0,1.1,0.1
+"Sugars, total",g,1.38,1.84,1.64,3.86,2.77,0.10,2.18,0.12
+Minerals
+"Calcium, Ca",mg,14,19,17,39,28,1,22,1
+"Iron, Fe",mg,0.22,0.29,0.26,0.62,0.44,0.02,0.35,0.02
+"Magnesium, Mg",mg,12,16,14,34,24,1,19,1
+"Phosphorus, P",mg,21,28,25,59,42,1,33,2
+"Potassium, K",mg,136,181,162,381,273,10,215,12
+"Sodium, Na",mg,2,3,2,6,4,0,3,0
+"Zinc, Zn",mg,0.17,0.23,0.20,0.48,0.34,0.01,0.27,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.2,4.3,3.8,9.0,6.4,0.2,5.1,0.3
+"Thiamin",mg,0.031,0.041,0.037,0.087,0.062,0.002,0.049,0.003
+"Riboflavin",mg,0.025,0.033,0.030,0.070,0.050,0.002,0.040,0.002
+"Niacin",mg,0.037,0.049,0.044,0.104,0.074,0.003,0.058,0.003
+"Vitamin B-6",mg,0.051,0.068,0.061,0.143,0.103,0.004,0.081,0.005
+"Folate, DFE",µg,14,19,17,39,28,1,22,1
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,4,5,5,11,8,0,6,0
+"Vitamin A, IU",IU,72,96,86,202,145,5,114,6
+"Vitamin E (alpha-tocopherol)",mg,0.03,0.04,0.04,0.08,0.06,0.00,0.05,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,7.2,9.6,8.6,20.2,14.5,0.5,11.4,0.6
+Lipids
+"Fatty acids, total saturated",g,0.013,0.017,0.015,0.036,0.026,0.001,0.021,0.001
+"Fatty acids, total monounsaturated",g,0.002,0.003,0.002,0.006,0.004,0.000,0.003,0.000
+"Fatty acids, total polyunsaturated",g,0.003,0.004,0.004,0.008,0.006,0.000,0.005,0.000
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:12 EST
+"Nutrient data for: 20410, Noodles, egg, unenriched, cooked, without added salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 160.0g",
+Proximates
+"Water",g,67.73,108.37
+"Energy",kcal,138,221
+"Protein",g,4.54,7.26
+"Total lipid (fat)",g,2.07,3.31
+"Carbohydrate, by difference",g,25.16,40.26
+"Fiber, total dietary",g,1.2,1.9
+"Sugars, total",g,0.40,0.64
+Minerals
+"Calcium, Ca",mg,12,19
+"Iron, Fe",mg,0.60,0.96
+"Magnesium, Mg",mg,21,34
+"Phosphorus, P",mg,76,122
+"Potassium, K",mg,38,61
+"Sodium, Na",mg,5,8
+"Zinc, Zn",mg,0.65,1.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.030,0.048
+"Riboflavin",mg,0.020,0.032
+"Niacin",mg,0.400,0.640
+"Vitamin B-6",mg,0.046,0.074
+"Folate, DFE",µg,7,11
+"Vitamin B-12",µg,0.09,0.14
+"Vitamin A, RAE",µg,6,10
+"Vitamin A, IU",IU,21,34
+"Vitamin E (alpha-tocopherol)",mg,0.17,0.27
+"Vitamin D (D2 + D3)",µg,0.1,0.2
+"Vitamin D",IU,4,6
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.419,0.670
+"Fatty acids, total monounsaturated",g,0.581,0.930
+"Fatty acids, total polyunsaturated",g,0.552,0.883
+"Fatty acids, total trans",g,0.029,0.046
+"Cholesterol",mg,29,46
+Amino Acids
+Other
+"Caffeine",mg,0,0

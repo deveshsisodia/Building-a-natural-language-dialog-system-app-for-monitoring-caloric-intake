@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:59 EST
+"Nutrient data for: 16079, Mothbeans, mature seeds, cooked, boiled, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 177.0g",
+Proximates
+"Water",g,69.23,122.54
+"Energy",kcal,117,207
+"Protein",g,7.81,13.82
+"Total lipid (fat)",g,0.55,0.97
+"Carbohydrate, by difference",g,20.96,37.10
+Minerals
+"Calcium, Ca",mg,3,5
+"Iron, Fe",mg,3.14,5.56
+"Magnesium, Mg",mg,104,184
+"Phosphorus, P",mg,150,266
+"Potassium, K",mg,304,538
+"Sodium, Na",mg,10,18
+"Zinc, Zn",mg,0.59,1.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,1.8
+"Thiamin",mg,0.124,0.219
+"Riboflavin",mg,0.023,0.041
+"Niacin",mg,0.668,1.182
+"Vitamin B-6",mg,0.093,0.165
+"Folate, DFE",µg,143,253
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1,2
+"Vitamin A, IU",IU,10,18
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.124,0.219
+"Fatty acids, total monounsaturated",g,0.044,0.078
+"Fatty acids, total polyunsaturated",g,0.256,0.453
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

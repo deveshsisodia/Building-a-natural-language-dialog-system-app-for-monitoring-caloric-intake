@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:03 EST
+"Nutrient data for: 15088, Fish, sardine, Atlantic, canned in oil, drained solids with bone"
+Nutrient,Unit,1Value per 100 g,"1 cup, drained = 149.0g","1 oz = 28.35g","1 cubic inch = 16.0g","1 can (3.75 oz) = 92.0g","1 small (2-2/3"" x 1/2"" x 1/4"") = 12.0g","2.0 sardines = 24.0g",
+Proximates
+"Water",g,59.61,88.82,16.90,9.54,54.84,7.15,14.31
+"Energy",kcal,208,310,59,33,191,25,50
+"Protein",g,24.62,36.68,6.98,3.94,22.65,2.95,5.91
+"Total lipid (fat)",g,11.45,17.06,3.25,1.83,10.53,1.37,2.75
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,382,569,108,61,351,46,92
+"Iron, Fe",mg,2.92,4.35,0.83,0.47,2.69,0.35,0.70
+"Magnesium, Mg",mg,39,58,11,6,36,5,9
+"Phosphorus, P",mg,490,730,139,78,451,59,118
+"Potassium, K",mg,397,592,113,64,365,48,95
+"Sodium, Na",mg,307,457,87,49,282,37,74
+"Zinc, Zn",mg,1.31,1.95,0.37,0.21,1.21,0.16,0.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.080,0.119,0.023,0.013,0.074,0.010,0.019
+"Riboflavin",mg,0.227,0.338,0.064,0.036,0.209,0.027,0.054
+"Niacin",mg,5.245,7.815,1.487,0.839,4.825,0.629,1.259
+"Vitamin B-6",mg,0.167,0.249,0.047,0.027,0.154,0.020,0.040
+"Folate, DFE",µg,10,15,3,2,9,1,2
+"Vitamin B-12",µg,8.94,13.32,2.53,1.43,8.22,1.07,2.15
+"Vitamin A, RAE",µg,32,48,9,5,29,4,8
+"Vitamin A, IU",IU,108,161,31,17,99,13,26
+"Vitamin E (alpha-tocopherol)",mg,2.04,3.04,0.58,0.33,1.88,0.24,0.49
+"Vitamin D (D2 + D3)",µg,4.8,7.2,1.4,0.8,4.4,0.6,1.2
+"Vitamin D",IU,193,288,55,31,178,23,46
+"Vitamin K (phylloquinone)",µg,2.6,3.9,0.7,0.4,2.4,0.3,0.6
+Lipids
+"Fatty acids, total saturated",g,1.528,2.277,0.433,0.244,1.406,0.183,0.367
+"Fatty acids, total monounsaturated",g,3.869,5.765,1.097,0.619,3.559,0.464,0.929
+"Fatty acids, total polyunsaturated",g,5.148,7.671,1.459,0.824,4.736,0.618,1.236
+"Cholesterol",mg,142,212,40,23,131,17,34
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

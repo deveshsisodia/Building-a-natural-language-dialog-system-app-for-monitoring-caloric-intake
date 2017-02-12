@@ -1,0 +1,47 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:29 EST
+"Nutrient data for: 18014, Biscuits, plain or buttermilk, refrigerated dough, higher fat"
+Nutrient,Unit,1Value per 100 g,"1 biscuit = 58.0g","1 biscuit = 43.0g","1 package = 398.0g","1 oz = 28.35g",
+Proximates
+"Water",g,33.15,19.23,14.25,131.94,9.40
+"Energy",kcal,307,178,132,1222,87
+"Protein",g,6.66,3.86,2.86,26.51,1.89
+"Total lipid (fat)",g,10.58,6.14,4.55,42.11,3.00
+"Carbohydrate, by difference",g,46.32,26.87,19.92,184.35,13.13
+"Fiber, total dietary",g,0.7,0.4,0.3,2.8,0.2
+"Sugars, total",g,7.40,4.29,3.18,29.45,2.10
+Minerals
+"Calcium, Ca",mg,51,30,22,203,14
+"Iron, Fe",mg,2.48,1.44,1.07,9.87,0.70
+"Magnesium, Mg",mg,17,10,7,68,5
+"Phosphorus, P",mg,470,273,202,1871,133
+"Potassium, K",mg,162,94,70,645,46
+"Sodium, Na",mg,977,567,420,3888,277
+"Zinc, Zn",mg,0.50,0.29,0.21,1.99,0.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.1,0.0,0.4,0.0
+"Thiamin",mg,0.391,0.227,0.168,1.556,0.111
+"Riboflavin",mg,0.290,0.168,0.125,1.154,0.082
+"Niacin",mg,3.308,1.919,1.422,13.166,0.938
+"Vitamin B-6",mg,0.063,0.037,0.027,0.251,0.018
+"Folate, DFE",µg,89,52,38,354,25
+"Vitamin B-12",µg,0.05,0.03,0.02,0.20,0.01
+"Vitamin A, RAE",µg,2,1,1,8,1
+"Vitamin A, IU",IU,8,5,3,32,2
+"Vitamin E (alpha-tocopherol)",mg,0.69,0.40,0.30,2.75,0.20
+"Vitamin K (phylloquinone)",µg,6.2,3.6,2.7,24.7,1.8
+Lipids
+"Fatty acids, total saturated",g,2.806,1.627,1.207,11.168,0.796
+"Fatty acids, total monounsaturated",g,6.559,3.804,2.820,26.105,1.859
+"Fatty acids, total polyunsaturated",g,0.681,0.395,0.293,2.710,0.193
+"Fatty acids, total trans",g,3.444,1.998,1.481,13.707,0.976
+"Cholesterol",mg,1,1,0,4,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0
+Footnotes
+(a)"value based on product containing buttermilk"
+(c)"value based on product containing buttermilk"
+(b)"value based on product containing buttermilk"
+(d)"value based on product containing buttermilk"

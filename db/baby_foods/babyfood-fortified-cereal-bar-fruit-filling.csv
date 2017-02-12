@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:44 EST
+"Nutrient data for: 03964, Babyfood, fortified cereal bar, fruit filling"
+Nutrient,Unit,1Value per 100 g,"1 bar = 19.0g",
+Proximates
+"Water",g,14.00,2.66
+"Energy",kcal,344,65
+"Protein",g,5.43,1.03
+"Total lipid (fat)",g,5.30,1.01
+"Carbohydrate, by difference",g,68.63,13.04
+"Fiber, total dietary",g,1.7,0.3
+"Sugars, total",g,42.00,7.98
+Minerals
+"Calcium, Ca",mg,1053,200
+"Iron, Fe",mg,13.16,2.50
+"Magnesium, Mg",mg,19,4
+"Phosphorus, P",mg,247,47
+"Potassium, K",mg,180,34
+"Sodium, Na",mg,157,30
+"Zinc, Zn",mg,0.59,0.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.4,0.5
+"Thiamin",mg,0.921,0.175
+"Riboflavin",mg,1.053,0.200
+"Niacin",mg,11.842,2.250
+"Vitamin B-6",mg,1.105,0.210
+"Folate, DFE",µg,98,19
+"Vitamin B-12",µg,0.19,0.04
+"Vitamin A, RAE",µg,14,3
+"Vitamin A, IU",IU,277,53
+"Vitamin E (alpha-tocopherol)",mg,0.90,0.17
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,4.1,0.8
+Lipids
+"Fatty acids, total saturated",g,0.453,0.086
+"Fatty acids, total monounsaturated",g,3.107,0.590
+"Fatty acids, total polyunsaturated",g,1.541,0.293
+"Fatty acids, total trans",g,0.019,0.004
+"Cholesterol",mg,1,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

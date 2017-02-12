@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:20 EST
+"Nutrient data for: 14263, Beverages, citrus fruit juice drink, frozen concentrate, prepared with water"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 31.0g","1 serving 8 fl oz = 248.0g",
+Proximates
+"Water",g,87.83,27.23,217.82
+"Energy",kcal,46,14,114
+"Protein",g,0.34,0.11,0.84
+"Total lipid (fat)",g,0.03,0.01,0.07
+"Carbohydrate, by difference",g,11.42,3.54,28.32
+"Fiber, total dietary",g,0.1,0.0,0.2
+"Sugars, total",g,8.13,2.52,20.16
+Minerals
+"Calcium, Ca",mg,9,3,22
+"Iron, Fe",mg,1.12,0.35,2.78
+"Magnesium, Mg",mg,6,2,15
+"Phosphorus, P",mg,10,3,25
+"Potassium, K",mg,112,35,278
+"Sodium, Na",mg,4,1,10
+"Zinc, Zn",mg,0.04,0.01,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,27.1,8.4,67.2
+"Thiamin",mg,0.014,0.004,0.035
+"Riboflavin",mg,0.010,0.003,0.025
+"Niacin",mg,0.075,0.023,0.186
+"Vitamin B-6",mg,0.019,0.006,0.047
+"Folate, DFE",µg,7,2,17
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,2,1,5
+"Vitamin A, IU",IU,37,11,92
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.02,0.15
+"Vitamin K (phylloquinone)",µg,0.1,0.0,0.2
+Lipids
+"Fatty acids, total saturated",g,0.002,0.001,0.005
+"Fatty acids, total monounsaturated",g,0.002,0.001,0.005
+"Fatty acids, total polyunsaturated",g,0.004,0.001,0.010
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

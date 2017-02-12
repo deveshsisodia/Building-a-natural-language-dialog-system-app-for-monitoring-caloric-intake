@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:44 EST
+"Nutrient data for: 23438, Beef, New Zealand, imported, sweetbread, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 113.0g",
+Proximates
+"Water",g,57.67,65.17
+"Energy",kcal,303,342
+"Protein",g,11.51,13.01
+"Total lipid (fat)",g,28.60,32.32
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,4,5
+"Iron, Fe",mg,1.15,1.30
+"Magnesium, Mg",mg,15,17
+"Phosphorus, P",mg,331,374
+"Potassium, K",mg,318,359
+"Sodium, Na",mg,64,72
+"Zinc, Zn",mg,1.00,1.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.087,0.098
+"Riboflavin",mg,0.122,0.138
+"Niacin",mg,2.000,2.260
+"Vitamin B-6",mg,0.041,0.046
+"Vitamin B-12",µg,2.10,2.37
+"Vitamin A, RAE",µg,19,21
+"Vitamin A, IU",IU,65,73
+"Vitamin E (alpha-tocopherol)",mg,0.69,0.78
+"Vitamin D (D2 + D3)",µg,0.6,0.7
+"Vitamin D",IU,25,28
+Lipids
+"Fatty acids, total saturated",g,12.294,13.892
+"Fatty acids, total monounsaturated",g,8.072,9.121
+"Fatty acids, total polyunsaturated",g,0.646,0.730
+"Fatty acids, total trans",g,0.595,0.672
+"Cholesterol",mg,217,245
+Amino Acids
+Other
+"Caffeine",mg,0,0

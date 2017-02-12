@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:36 EST
+"Nutrient data for: 18234, Crackers, wheat, sandwich, with peanut butter filling"
+Nutrient,Unit,1Value per 100 g,"0.5 oz = 14.2g","1 cracker, sandwich = 7.0g",
+Proximates
+"Water",g,3.40,0.48,0.24
+"Energy",kcal,495,70,35
+"Protein",g,13.50,1.92,0.94
+"Total lipid (fat)",g,26.70,3.79,1.87
+"Carbohydrate, by difference",g,53.80,7.64,3.77
+"Fiber, total dietary",g,4.4,0.6,0.3
+Minerals
+"Calcium, Ca",mg,170,24,12
+"Iron, Fe",mg,2.67,0.38,0.19
+"Magnesium, Mg",mg,38,5,3
+"Phosphorus, P",mg,347,49,24
+"Potassium, K",mg,297,42,21
+"Sodium, Na",mg,807,115,56
+"Zinc, Zn",mg,0.82,0.12,0.06
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.389,0.055,0.027
+"Riboflavin",mg,0.293,0.042,0.021
+"Niacin",mg,5.877,0.835,0.411
+"Vitamin B-6",mg,0.137,0.019,0.010
+"Folate, DFE",µg,93,13,7
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,4.602,0.653,0.322
+"Fatty acids, total monounsaturated",g,11.766,1.671,0.824
+"Fatty acids, total polyunsaturated",g,8.862,1.258,0.620
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

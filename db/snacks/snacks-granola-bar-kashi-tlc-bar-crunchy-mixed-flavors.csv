@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:53 EST
+"Nutrient data for: 25041, Snacks, granola bar, KASHI TLC Bar, crunchy, mixed flavors"
+Nutrient,Unit,1Value per 100 g,"2.0 bar = 40.0g","1 bar = 20.0g",
+Proximates
+"Water",g,2.74,1.10,0.55
+"Energy",kcal,446,178,89
+"Protein",g,15.00,6.00,3.00
+"Total lipid (fat)",g,15.00,6.00,3.00
+"Carbohydrate, by difference",g,62.78,25.11,12.56
+"Fiber, total dietary",g,10.0,4.0,2.0
+"Sugars, total",g,20.00,8.00,4.00
+Minerals
+"Calcium, Ca",mg,0,0,0
+"Iron, Fe",mg,2.70,1.08,0.54
+"Magnesium, Mg",mg,97,39,19
+"Phosphorus, P",mg,333,133,67
+"Potassium, K",mg,545,218,109
+"Sodium, Na",mg,400,160,80
+"Zinc, Zn",mg,2.86,1.14,0.57
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.486,0.194,0.097
+"Riboflavin",mg,0.163,0.065,0.033
+"Niacin",mg,2.403,0.961,0.481
+"Vitamin B-6",mg,0.536,0.214,0.107
+"Folate, DFE",µg,81,32,16
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,0,0
+"Vitamin A, IU",IU,17,7,3
+"Vitamin E (alpha-tocopherol)",mg,2.30,0.92,0.46
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,9.8,3.9,2.0
+Lipids
+"Fatty acids, total saturated",g,1.436,0.574,0.287
+"Fatty acids, total monounsaturated",g,7.932,3.173,1.586
+"Fatty acids, total polyunsaturated",g,5.006,2.002,1.001
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

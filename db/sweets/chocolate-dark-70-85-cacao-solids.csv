@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:39 EST
+"Nutrient data for: 19904, Chocolate, dark, 70-85% cacao solids"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 bar = 101.0g",
+Proximates
+"Water",g,1.37,0.39,1.38
+"Energy",kcal,598,170,604
+"Protein",g,7.79,2.21,7.87
+"Total lipid (fat)",g,42.63,12.09,43.06
+"Carbohydrate, by difference",g,45.90,13.01,46.36
+"Fiber, total dietary",g,10.9,3.1,11.0
+"Sugars, total",g,23.99,6.80,24.23
+Minerals
+"Calcium, Ca",mg,73,21,74
+"Iron, Fe",mg,11.90,3.37,12.02
+"Magnesium, Mg",mg,228,65,230
+"Phosphorus, P",mg,308,87,311
+"Potassium, K",mg,715,203,722
+"Sodium, Na",mg,20,6,20
+"Zinc, Zn",mg,3.31,0.94,3.34
+Vitamins
+"Thiamin",mg,0.034,0.010,0.034
+"Riboflavin",mg,0.078,0.022,0.079
+"Niacin",mg,1.054,0.299,1.065
+"Vitamin B-6",mg,0.038,0.011,0.038
+"Vitamin B-12",µg,0.28,0.08,0.28
+"Vitamin A, RAE",µg,2,1,2
+"Vitamin A, IU",IU,39,11,39
+"Vitamin E (alpha-tocopherol)",mg,0.59,0.17,0.60
+"Vitamin K (phylloquinone)",µg,7.3,2.1,7.4
+Lipids
+"Fatty acids, total saturated",g,24.489,6.943,24.734
+"Fatty acids, total monounsaturated",g,12.781,3.623,12.909
+"Fatty acids, total polyunsaturated",g,1.257,0.356,1.270
+"Fatty acids, total trans",g,0.030,0.009,0.030
+"Cholesterol",mg,3,1,3
+Amino Acids
+Other
+"Caffeine",mg,80,23,81

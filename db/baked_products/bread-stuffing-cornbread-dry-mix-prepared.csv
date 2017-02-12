@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:31 EST
+"Nutrient data for: 18085, Bread stuffing, cornbread, dry mix, prepared"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","0.5 cup = 100.0g",
+Proximates
+"Water",g,64.90,18.40,64.90
+"Energy",kcal,179,51,179
+"Protein",g,2.90,0.82,2.90
+"Total lipid (fat)",g,8.80,2.49,8.80
+"Carbohydrate, by difference",g,21.90,6.21,21.90
+"Fiber, total dietary",g,2.9,0.8,2.9
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,26,7,26
+"Iron, Fe",mg,0.94,0.27,0.94
+"Magnesium, Mg",mg,13,4,13
+"Phosphorus, P",mg,34,10,34
+"Potassium, K",mg,62,18,62
+"Sodium, Na",mg,526,149,526
+"Zinc, Zn",mg,0.23,0.07,0.23
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,0.2,0.8
+"Thiamin",mg,0.117,0.033,0.117
+"Riboflavin",mg,0.092,0.026,0.092
+"Niacin",mg,1.247,0.354,1.247
+"Vitamin B-6",mg,0.038,0.011,0.038
+"Folate, DFE",µg,159,45,159
+"Vitamin B-12",µg,0.01,0.00,0.01
+"Vitamin A, RAE",µg,78,22,78
+"Vitamin A, IU",IU,340,96,340
+"Vitamin E (alpha-tocopherol)",mg,0.85,0.24,0.85
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,8.8,2.5,8.8
+Lipids
+"Fatty acids, total saturated",g,1.755,0.498,1.755
+"Fatty acids, total monounsaturated",g,3.856,1.093,3.856
+"Fatty acids, total polyunsaturated",g,2.706,0.767,2.706
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

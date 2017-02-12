@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18131, Cake, white, dry mix, special dietary (includes lemon-flavored)"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 package (8 oz) = 227.0g",
+Proximates
+"Water",g,6.00,1.70,13.62
+"Energy",kcal,397,113,901
+"Protein",g,3.00,0.85,6.81
+"Total lipid (fat)",g,8.40,2.38,19.07
+"Carbohydrate, by difference",g,79.60,22.57,180.69
+Minerals
+"Calcium, Ca",mg,26,7,59
+"Iron, Fe",mg,1.99,0.56,4.52
+"Magnesium, Mg",mg,10,3,23
+"Phosphorus, P",mg,296,84,672
+"Potassium, K",mg,149,42,338
+"Sodium, Na",mg,260,74,590
+"Zinc, Zn",mg,0.30,0.09,0.68
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.289,0.082,0.656
+"Riboflavin",mg,0.179,0.051,0.406
+"Niacin",mg,2.395,0.679,5.437
+"Vitamin B-6",mg,0.018,0.005,0.041
+"Folate, DFE",µg,111,31,252
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.251,0.355,2.840
+"Fatty acids, total monounsaturated",g,3.480,0.987,7.900
+"Fatty acids, total polyunsaturated",g,3.183,0.902,7.225
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

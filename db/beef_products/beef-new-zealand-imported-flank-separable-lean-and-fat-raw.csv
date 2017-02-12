@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:43 EST
+"Nutrient data for: 23459, Beef, New Zealand, imported, flank, separable lean and fat, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 113.0g",
+Proximates
+"Water",g,71.79,81.12
+"Energy",kcal,161,182
+"Protein",g,20.12,22.74
+"Total lipid (fat)",g,8.90,10.06
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,4,5
+"Iron, Fe",mg,1.53,1.73
+"Magnesium, Mg",mg,19,21
+"Phosphorus, P",mg,171,193
+"Potassium, K",mg,323,365
+"Sodium, Na",mg,46,52
+"Zinc, Zn",mg,4.19,4.73
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.035,0.040
+"Riboflavin",mg,0.080,0.090
+"Niacin",mg,4.594,5.191
+"Vitamin B-6",mg,0.200,0.226
+"Vitamin B-12",µg,1.51,1.71
+"Vitamin A, RAE",µg,8,9
+"Vitamin A, IU",IU,25,28
+"Vitamin E (alpha-tocopherol)",mg,0.33,0.37
+"Vitamin D (D2 + D3)",µg,0.1,0.1
+"Vitamin D",IU,6,7
+Lipids
+"Fatty acids, total saturated",g,3.292,3.720
+"Fatty acids, total monounsaturated",g,2.888,3.263
+"Fatty acids, total polyunsaturated",g,0.230,0.260
+"Fatty acids, total trans",g,0.186,0.210
+"Cholesterol",mg,49,55
+Amino Acids
+Other
+"Caffeine",mg,0,0

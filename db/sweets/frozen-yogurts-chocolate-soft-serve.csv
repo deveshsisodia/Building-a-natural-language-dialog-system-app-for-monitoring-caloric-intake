@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:41 EST
+"Nutrient data for: 19393, Frozen yogurts, chocolate, soft-serve"
+Nutrient,Unit,1Value per 100 g,"0.5 cup (4 fl oz) = 72.0g",
+Proximates
+"Water",g,63.80,45.94
+"Energy",kcal,160,115
+"Protein",g,4.00,2.88
+"Total lipid (fat)",g,6.00,4.32
+"Carbohydrate, by difference",g,24.90,17.93
+"Fiber, total dietary",g,2.2,1.6
+Minerals
+"Calcium, Ca",mg,147,106
+"Iron, Fe",mg,1.25,0.90
+"Magnesium, Mg",mg,27,19
+"Phosphorus, P",mg,139,100
+"Potassium, K",mg,261,188
+"Sodium, Na",mg,98,71
+"Zinc, Zn",mg,0.49,0.35
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.2
+"Thiamin",mg,0.036,0.026
+"Riboflavin",mg,0.211,0.152
+"Niacin",mg,0.305,0.220
+"Vitamin B-6",mg,0.074,0.053
+"Folate, DFE",µg,11,8
+"Vitamin B-12",µg,0.29,0.21
+"Vitamin A, RAE",µg,44,32
+"Vitamin A, IU",IU,160,115
+Lipids
+"Fatty acids, total saturated",g,3.630,2.614
+"Fatty acids, total monounsaturated",g,1.750,1.260
+"Fatty acids, total polyunsaturated",g,0.220,0.158
+"Cholesterol",mg,5,4
+Amino Acids
+Other
+"Caffeine",mg,3,2

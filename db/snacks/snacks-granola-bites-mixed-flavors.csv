@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:54 EST
+"Nutrient data for: 25036, Snacks, granola bites, mixed flavors"
+Nutrient,Unit,1Value per 100 g,"1 package = 20.0g",
+Proximates
+"Water",g,7.88,1.58
+"Energy",kcal,451,90
+"Protein",g,7.17,1.43
+"Total lipid (fat)",g,17.50,3.50
+"Carbohydrate, by difference",g,66.27,13.25
+"Fiber, total dietary",g,5.7,1.1
+"Sugars, total",g,30.00,6.00
+Minerals
+"Calcium, Ca",mg,41,8
+"Iron, Fe",mg,1.56,0.31
+"Magnesium, Mg",mg,69,14
+"Phosphorus, P",mg,216,43
+"Potassium, K",mg,285,57
+"Sodium, Na",mg,167,33
+"Zinc, Zn",mg,1.92,0.38
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.0
+"Thiamin",mg,0.199,0.040
+"Riboflavin",mg,0.146,0.029
+"Niacin",mg,2.318,0.464
+"Vitamin B-6",mg,0.143,0.029
+"Folate, DFE",µg,38,8
+"Vitamin B-12",µg,0.07,0.01
+"Vitamin A, RAE",µg,2,0
+"Vitamin A, IU",IU,10,2
+"Vitamin E (alpha-tocopherol)",mg,2.51,0.50
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,1,0
+"Vitamin K (phylloquinone)",µg,9.1,1.8
+Lipids
+"Fatty acids, total saturated",g,9.888,1.978
+"Fatty acids, total monounsaturated",g,3.194,0.639
+"Fatty acids, total polyunsaturated",g,2.546,0.509
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

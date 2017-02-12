@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:41 EST
+"Nutrient data for: 03195, Babyfood, cereal, rice, with applesauce and bananas, strained"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 16.0g","1 oz = 28.35g","1 jar = 113.0g","1 jar Gerber Second Food (4 oz) = 113.0g","1 jar Heinz Strained-2 (4.25 oz) = 120.0g",
+Proximates
+"Water",g,81.00,12.96,22.96,91.53,91.53,97.20
+"Energy",kcal,80,13,23,90,90,96
+"Protein",g,1.20,0.19,0.34,1.36,1.36,1.44
+"Total lipid (fat)",g,0.40,0.06,0.11,0.45,0.45,0.48
+"Carbohydrate, by difference",g,17.10,2.74,4.85,19.32,19.32,20.52
+"Fiber, total dietary",g,1.0,0.2,0.3,1.1,1.1,1.2
+"Sugars, total",g,2.24,0.36,0.64,2.53,2.53,2.69
+Minerals
+"Calcium, Ca",mg,17,3,5,19,19,20
+"Iron, Fe",mg,6.73,1.08,1.91,7.60,7.60,8.08
+"Magnesium, Mg",mg,3,0,1,3,3,4
+"Phosphorus, P",mg,12,2,3,14,14,14
+"Potassium, K",mg,28,4,8,32,32,34
+"Sodium, Na",mg,4,1,1,5,5,5
+"Zinc, Zn",mg,0.08,0.01,0.02,0.09,0.09,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,31.6,5.1,9.0,35.7,35.7,37.9
+"Thiamin",mg,0.260,0.042,0.074,0.294,0.294,0.312
+"Riboflavin",mg,0.422,0.068,0.120,0.477,0.477,0.506
+"Niacin",mg,4.017,0.643,1.139,4.539,4.539,4.820
+"Vitamin B-6",mg,0.234,0.037,0.066,0.264,0.264,0.281
+"Folate, DFE",µg,3,0,1,3,3,4
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,0,0,1,1,1
+"Vitamin A, IU",IU,21,3,6,24,24,25
+"Vitamin E (alpha-tocopherol)",mg,0.04,0.01,0.01,0.05,0.05,0.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.2,0.0,0.1,0.2,0.2,0.2
+Lipids
+"Fatty acids, total saturated",g,0.114,0.018,0.032,0.129,0.129,0.137
+"Fatty acids, total monounsaturated",g,0.104,0.017,0.029,0.118,0.118,0.125
+"Fatty acids, total polyunsaturated",g,0.102,0.016,0.029,0.115,0.115,0.122
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

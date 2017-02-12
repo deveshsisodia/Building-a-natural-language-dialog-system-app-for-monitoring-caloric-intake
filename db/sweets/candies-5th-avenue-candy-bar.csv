@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:39 EST
+"Nutrient data for: 19098, Candies, 5TH AVENUE Candy Bar"
+Nutrient,Unit,1Value per 100 g,"1 bar 2 oz = 56.0g","1 bar snack size = 16.0g",
+Proximates
+"Water",g,2.30,1.29,0.37
+"Energy",kcal,482,270,77
+"Protein",g,8.78,4.92,1.40
+"Total lipid (fat)",g,23.98,13.43,3.84
+"Carbohydrate, by difference",g,62.68,35.10,10.03
+"Fiber, total dietary",g,3.1,1.7,0.5
+"Sugars, total",g,47.19,26.43,7.55
+Minerals
+"Calcium, Ca",mg,73,41,12
+"Iron, Fe",mg,1.20,0.67,0.19
+"Magnesium, Mg",mg,62,35,10
+"Phosphorus, P",mg,141,79,23
+"Potassium, K",mg,347,194,56
+"Sodium, Na",mg,225,126,36
+"Zinc, Zn",mg,1.12,0.63,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.2,0.1
+"Thiamin",mg,0.140,0.078,0.022
+"Riboflavin",mg,0.090,0.050,0.014
+"Niacin",mg,3.900,2.184,0.624
+"Vitamin B-6",mg,0.110,0.062,0.018
+"Folate, DFE",µg,36,20,6
+"Vitamin B-12",µg,0.18,0.10,0.03
+"Vitamin A, RAE",µg,14,8,2
+"Vitamin A, IU",IU,51,29,8
+"Vitamin E (alpha-tocopherol)",mg,2.70,1.51,0.43
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,2.7,1.5,0.4
+Lipids
+"Fatty acids, total saturated",g,6.650,3.724,1.064
+"Fatty acids, total monounsaturated",g,10.600,5.936,1.696
+"Fatty acids, total polyunsaturated",g,3.390,1.898,0.542
+"Cholesterol",mg,6,3,1
+Amino Acids
+Other
+"Caffeine",mg,5,3,1

@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:38 EST
+"Nutrient data for: 21457, POPEYES, Fried Chicken, Mild, Drumstick, meat and skin with breading"
+Nutrient,Unit,1Value per 100 g,"1 drumstick, with skin = 76.0g","1 drumstick, without skin = 59.0g","1 drumstick, bone and skin removed = 44.0g",
+Proximates
+"Water",g,48.14,36.59,28.40,21.18
+"Energy",kcal,293,223,173,129
+"Protein",g,20.44,15.53,12.06,8.99
+"Total lipid (fat)",g,19.14,14.55,11.29,8.42
+"Carbohydrate, by difference",g,9.84,7.48,5.81,4.33
+Minerals
+"Calcium, Ca",mg,20,15,12,9
+"Iron, Fe",mg,1.06,0.81,0.63,0.47
+"Magnesium, Mg",mg,22,17,13,10
+"Phosphorus, P",mg,171,130,101,75
+"Potassium, K",mg,261,198,154,115
+"Sodium, Na",mg,588,447,347,259
+"Zinc, Zn",mg,1.76,1.34,1.04,0.77
+Vitamins
+"Thiamin",mg,0.101,0.077,0.060,0.044
+"Riboflavin",mg,0.250,0.190,0.147,0.110
+"Niacin",mg,5.443,4.137,3.211,2.395
+"Vitamin B-6",mg,0.235,0.179,0.139,0.103
+"Vitamin B-12",µg,0.62,0.47,0.37,0.27
+Lipids
+"Fatty acids, total saturated",g,6.591,5.009,3.889,2.900
+"Fatty acids, total monounsaturated",g,8.488,6.451,5.008,3.735
+"Fatty acids, total polyunsaturated",g,2.226,1.692,1.313,0.979
+"Fatty acids, total trans",g,0.535,0.407,0.316,0.235
+"Cholesterol",mg,108,82,64,48
+Amino Acids
+Other

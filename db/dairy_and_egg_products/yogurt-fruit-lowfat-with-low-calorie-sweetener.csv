@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:11 EST
+"Nutrient data for: 01203, Yogurt, fruit, lowfat, with low calorie sweetener"
+Nutrient,Unit,1Value per 100 g,"1 container (6 oz) = 170.0g","1 cup (8 fl oz) = 245.0g","1 container (8 oz) = 227.0g",
+Proximates
+"Water",g,74.10,125.97,181.54,168.21
+"Energy",kcal,105,178,257,238
+"Protein",g,4.86,8.26,11.91,11.03
+"Total lipid (fat)",g,1.41,2.40,3.45,3.20
+"Carbohydrate, by difference",g,18.60,31.62,45.57,42.22
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,2.90,4.93,7.11,6.58
+Minerals
+"Calcium, Ca",mg,152,258,372,345
+"Iron, Fe",mg,0.07,0.12,0.17,0.16
+"Magnesium, Mg",mg,16,27,39,36
+"Phosphorus, P",mg,133,226,326,302
+"Potassium, K",mg,194,330,475,440
+"Sodium, Na",mg,58,99,142,132
+"Zinc, Zn",mg,0.82,1.39,2.01,1.86
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,1.2,1.7,1.6
+"Thiamin",mg,0.041,0.070,0.100,0.093
+"Riboflavin",mg,0.180,0.306,0.441,0.409
+"Niacin",mg,0.105,0.178,0.257,0.238
+"Vitamin B-6",mg,0.045,0.076,0.110,0.102
+"Folate, DFE",µg,10,17,24,23
+"Vitamin B-12",µg,0.52,0.88,1.27,1.18
+"Vitamin A, RAE",µg,131,223,321,297
+"Vitamin A, IU",IU,443,753,1085,1006
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.10,0.15,0.14
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,1,2,2,2
+"Vitamin K (phylloquinone)",µg,1.2,2.0,2.9,2.7
+Lipids
+"Fatty acids, total saturated",g,0.909,1.545,2.227,2.063
+"Fatty acids, total monounsaturated",g,0.387,0.658,0.948,0.878
+"Fatty acids, total polyunsaturated",g,0.040,0.068,0.098,0.091
+"Cholesterol",mg,6,10,15,14
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

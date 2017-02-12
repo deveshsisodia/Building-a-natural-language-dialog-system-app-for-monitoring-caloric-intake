@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:56 EST
+"Nutrient data for: 15004, Fish, bass, striped, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 fillet = 159.0g",
+Proximates
+"Water",g,79.22,67.34,125.96
+"Energy",kcal,97,82,154
+"Protein",g,17.73,15.07,28.19
+"Total lipid (fat)",g,2.33,1.98,3.70
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,15,13,24
+"Iron, Fe",mg,0.84,0.71,1.34
+"Magnesium, Mg",mg,40,34,64
+"Phosphorus, P",mg,198,168,315
+"Potassium, K",mg,256,218,407
+"Sodium, Na",mg,69,59,110
+"Zinc, Zn",mg,0.40,0.34,0.64
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.100,0.085,0.159
+"Riboflavin",mg,0.030,0.025,0.048
+"Niacin",mg,2.100,1.785,3.339
+"Vitamin B-6",mg,0.300,0.255,0.477
+"Folate, DFE",µg,9,8,14
+"Vitamin B-12",µg,3.82,3.25,6.07
+"Vitamin A, RAE",µg,27,23,43
+"Vitamin A, IU",IU,90,76,143
+Lipids
+"Fatty acids, total saturated",g,0.507,0.431,0.806
+"Fatty acids, total monounsaturated",g,0.660,0.561,1.049
+"Fatty acids, total polyunsaturated",g,0.784,0.666,1.247
+"Cholesterol",mg,80,68,127
+Amino Acids
+Other

@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:53 EST
+"Nutrient data for: 19010, Snacks, crisped rice bar, chocolate chip"
+Nutrient,Unit,1Value per 100 g,"1 bar (1 oz) = 28.0g",
+Proximates
+"Water",g,7.00,1.96
+"Energy",kcal,404,113
+"Protein",g,5.10,1.43
+"Total lipid (fat)",g,13.50,3.78
+"Carbohydrate, by difference",g,73.00,20.44
+"Fiber, total dietary",g,2.2,0.6
+Minerals
+"Calcium, Ca",mg,21,6
+"Iron, Fe",mg,6.30,1.76
+"Magnesium, Mg",mg,48,13
+"Phosphorus, P",mg,134,38
+"Potassium, K",mg,168,47
+"Sodium, Na",mg,278,78
+"Zinc, Zn",mg,0.86,0.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.530,0.148
+"Riboflavin",mg,0.600,0.168
+"Niacin",mg,7.050,1.974
+"Vitamin B-6",mg,0.705,0.197
+"Folate, DFE",µg,140,39
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,1764,494
+Lipids
+"Fatty acids, total saturated",g,5.240,1.467
+"Fatty acids, total monounsaturated",g,3.990,1.117
+"Fatty acids, total polyunsaturated",g,3.650,1.022
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:17 EST
+"Nutrient data for: 07051, Olive loaf, pork"
+Nutrient,Unit,1Value per 100 g,"1 slice (1 oz) (4"" x 4"" x 3/32"" thick) = 28.0g","2.0 slices = 57.0g",
+Proximates
+"Water",g,58.20,16.30,33.17
+"Energy",kcal,235,66,134
+"Protein",g,11.80,3.30,6.73
+"Total lipid (fat)",g,16.50,4.62,9.40
+"Carbohydrate, by difference",g,9.20,2.58,5.24
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,109,31,62
+"Iron, Fe",mg,0.54,0.15,0.31
+"Magnesium, Mg",mg,19,5,11
+"Phosphorus, P",mg,127,36,72
+"Potassium, K",mg,297,83,169
+"Sodium, Na",mg,964,270,549
+"Zinc, Zn",mg,1.38,0.39,0.79
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.295,0.083,0.168
+"Riboflavin",mg,0.260,0.073,0.148
+"Niacin",mg,1.835,0.514,1.046
+"Vitamin B-6",mg,0.230,0.064,0.131
+"Folate, DFE",µg,2,1,1
+"Vitamin B-12",µg,1.26,0.35,0.72
+"Vitamin A, RAE",µg,60,17,34
+"Vitamin A, IU",IU,200,56,114
+"Vitamin E (alpha-tocopherol)",mg,0.25,0.07,0.14
+"Vitamin D (D2 + D3)",µg,1.1,0.3,0.6
+"Vitamin D",IU,44,12,25
+"Vitamin K (phylloquinone)",µg,3.4,1.0,1.9
+Lipids
+"Fatty acids, total saturated",g,5.850,1.638,3.334
+"Fatty acids, total monounsaturated",g,7.870,2.204,4.486
+"Fatty acids, total polyunsaturated",g,1.930,0.540,1.100
+"Cholesterol",mg,38,11,22
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

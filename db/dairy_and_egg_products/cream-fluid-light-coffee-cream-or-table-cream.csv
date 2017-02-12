@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:07 EST
+"Nutrient data for: 01050, Cream, fluid, light (coffee cream or table cream)"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 30.0g","1 tbsp = 15.0g","1 cup = 240.0g","1 container, individual = 11.1g",
+Proximates
+"Water",g,74.51,22.35,11.18,178.82,8.27
+"Energy",kcal,191,57,29,458,21
+"Protein",g,2.96,0.89,0.44,7.10,0.33
+"Total lipid (fat)",g,19.10,5.73,2.87,45.84,2.12
+"Carbohydrate, by difference",g,2.82,0.85,0.42,6.77,0.31
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,3.67,1.10,0.55,8.81,0.41
+Minerals
+"Calcium, Ca",mg,91,27,14,218,10
+"Iron, Fe",mg,0.05,0.01,0.01,0.12,0.01
+"Magnesium, Mg",mg,9,3,1,22,1
+"Phosphorus, P",mg,92,28,14,221,10
+"Potassium, K",mg,136,41,20,326,15
+"Sodium, Na",mg,72,22,11,173,8
+"Zinc, Zn",mg,0.32,0.10,0.05,0.77,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,0.2,0.1,1.9,0.1
+"Thiamin",mg,0.023,0.007,0.003,0.055,0.003
+"Riboflavin",mg,0.190,0.057,0.029,0.456,0.021
+"Niacin",mg,0.090,0.027,0.013,0.216,0.010
+"Vitamin B-6",mg,0.044,0.013,0.007,0.106,0.005
+"Folate, DFE",µg,2,1,0,5,0
+"Vitamin B-12",µg,0.14,0.04,0.02,0.34,0.02
+"Vitamin A, RAE",µg,181,54,27,434,20
+"Vitamin A, IU",IU,656,197,98,1574,73
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.04,0.02,0.29,0.01
+"Vitamin D (D2 + D3)",µg,1.1,0.3,0.2,2.6,0.1
+"Vitamin D",IU,44,13,7,106,5
+"Vitamin K (phylloquinone)",µg,1.7,0.5,0.3,4.1,0.2
+Lipids
+"Fatty acids, total saturated",g,10.176,3.053,1.526,24.422,1.130
+"Fatty acids, total monounsaturated",g,4.525,1.357,0.679,10.860,0.502
+"Fatty acids, total polyunsaturated",g,0.789,0.237,0.118,1.894,0.088
+"Fatty acids, total trans",g,0.625,0.188,0.094,1.500,0.069
+"Cholesterol",mg,59,18,9,142,7
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:39 EST
+"Nutrient data for: 05285, Turkey, diced, light and dark meat, seasoned"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","0.5 lb = 227.0g",
+Proximates
+"Water",g,71.70,20.33,162.76
+"Energy",kcal,138,39,313
+"Protein",g,18.70,5.30,42.45
+"Total lipid (fat)",g,6.00,1.70,13.62
+"Carbohydrate, by difference",g,1.00,0.28,2.27
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,1,0,2
+"Iron, Fe",mg,1.80,0.51,4.09
+"Magnesium, Mg",mg,17,5,39
+"Phosphorus, P",mg,240,68,545
+"Potassium, K",mg,310,88,704
+"Sodium, Na",mg,850,241,1930
+"Zinc, Zn",mg,2.02,0.57,4.59
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.040,0.011,0.091
+"Riboflavin",mg,0.110,0.031,0.250
+"Niacin",mg,4.800,1.361,10.896
+"Vitamin B-6",mg,0.280,0.079,0.636
+"Folate, DFE",µg,5,1,11
+"Vitamin B-12",µg,0.24,0.07,0.54
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,1.750,0.496,3.973
+"Fatty acids, total monounsaturated",g,1.980,0.561,4.495
+"Fatty acids, total polyunsaturated",g,1.530,0.434,3.473
+"Cholesterol",mg,55,16,125
+Amino Acids
+Other

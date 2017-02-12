@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:28 EST
+"Nutrient data for: 11392, Potatoes, hash brown, frozen, with butter sauce, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 package (6 oz) = 170.0g",
+Proximates
+"Water",g,72.51,123.27
+"Energy",kcal,135,230
+"Protein",g,1.87,3.18
+"Total lipid (fat)",g,6.66,11.32
+"Carbohydrate, by difference",g,18.28,31.08
+"Fiber, total dietary",g,2.9,4.9
+Minerals
+"Calcium, Ca",mg,25,42
+"Iron, Fe",mg,0.75,1.27
+"Magnesium, Mg",mg,11,19
+"Phosphorus, P",mg,29,49
+"Potassium, K",mg,248,422
+"Sodium, Na",mg,77,131
+"Zinc, Zn",mg,0.25,0.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.7,9.7
+"Thiamin",mg,0.053,0.090
+"Riboflavin",mg,0.025,0.043
+"Niacin",mg,1.133,1.926
+"Vitamin B-6",mg,0.212,0.360
+"Folate, DFE",µg,12,20
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,19,32
+"Vitamin A, IU",IU,84,143
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,2.556,4.345
+"Fatty acids, total monounsaturated",g,2.386,4.056
+"Fatty acids, total polyunsaturated",g,1.374,2.336
+Amino Acids
+Other

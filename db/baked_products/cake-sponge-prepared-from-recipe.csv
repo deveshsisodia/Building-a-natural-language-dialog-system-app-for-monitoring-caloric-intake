@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18134, Cake, sponge, prepared from recipe"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece (1/12 of 10 inch cake) = 63.0g",
+Proximates
+"Water",g,29.40,8.33,18.52
+"Energy",kcal,297,84,187
+"Protein",g,7.30,2.07,4.60
+"Total lipid (fat)",g,4.30,1.22,2.71
+"Carbohydrate, by difference",g,57.70,16.36,36.35
+Minerals
+"Calcium, Ca",mg,42,12,26
+"Iron, Fe",mg,1.58,0.45,1.00
+"Magnesium, Mg",mg,9,3,6
+"Phosphorus, P",mg,100,28,63
+"Potassium, K",mg,141,40,89
+"Sodium, Na",mg,228,65,144
+"Zinc, Zn",mg,0.59,0.17,0.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.159,0.045,0.100
+"Riboflavin",mg,0.301,0.085,0.190
+"Niacin",mg,1.204,0.341,0.759
+"Vitamin B-6",mg,0.059,0.017,0.037
+"Folate, DFE",µg,53,15,33
+"Vitamin B-12",µg,0.37,0.10,0.23
+"Vitamin A, RAE",µg,77,22,49
+"Vitamin A, IU",IU,258,73,163
+Lipids
+"Fatty acids, total saturated",g,1.301,0.369,0.820
+"Fatty acids, total monounsaturated",g,1.576,0.447,0.993
+"Fatty acids, total polyunsaturated",g,0.649,0.184,0.409
+"Cholesterol",mg,170,48,107
+Amino Acids
+Other

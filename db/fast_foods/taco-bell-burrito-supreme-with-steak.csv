@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:39 EST
+"Nutrient data for: 21267, TACO BELL, BURRITO SUPREME with steak"
+Nutrient,Unit,1Value per 100 g,"1 item = 248.0g",
+Proximates
+"Water",g,61.21,151.80
+"Energy",kcal,183,454
+"Protein",g,9.13,22.64
+"Total lipid (fat)",g,7.27,18.03
+"Carbohydrate, by difference",g,20.32,50.39
+"Fiber, total dietary",g,2.4,6.0
+Minerals
+"Calcium, Ca",mg,101,250
+"Iron, Fe",mg,2.00,4.96
+"Magnesium, Mg",mg,27,67
+"Phosphorus, P",mg,131,325
+"Potassium, K",mg,228,565
+"Sodium, Na",mg,534,1324
+"Zinc, Zn",mg,1.38,3.42
+Vitamins
+"Thiamin",mg,0.252,0.625
+"Riboflavin",mg,0.183,0.454
+"Niacin",mg,2.250,5.580
+"Vitamin B-6",mg,0.101,0.250
+"Folate, DFE",µg,54,134
+"Vitamin B-12",µg,0.60,1.49
+"Vitamin A, RAE",µg,4,10
+"Vitamin A, IU",IU,72,179
+"Vitamin E (alpha-tocopherol)",mg,0.38,0.94
+"Vitamin K (phylloquinone)",µg,6.0,14.9
+Lipids
+"Fatty acids, total saturated",g,2.674,6.632
+"Fatty acids, total monounsaturated",g,2.822,6.999
+"Fatty acids, total polyunsaturated",g,0.770,1.910
+"Cholesterol",mg,21,52
+Amino Acids
+Other

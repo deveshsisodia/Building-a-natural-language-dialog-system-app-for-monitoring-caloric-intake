@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:25 EST
+"Nutrient data for: 36023, APPLEBEE'S, chicken tenders platter"
+Nutrient,Unit,1Value per 100 g,"1 serving = 209.0g",
+Proximates
+"Water",g,43.38,90.66
+"Energy",kcal,297,621
+"Protein",g,19.62,41.01
+"Total lipid (fat)",g,16.24,33.94
+"Carbohydrate, by difference",g,17.98,37.58
+"Fiber, total dietary",g,1.0,2.1
+"Sugars, total",g,0.36,0.75
+Minerals
+"Calcium, Ca",mg,23,48
+"Iron, Fe",mg,0.90,1.88
+"Magnesium, Mg",mg,30,63
+"Phosphorus, P",mg,298,623
+"Potassium, K",mg,336,702
+"Sodium, Na",mg,740,1547
+"Zinc, Zn",mg,0.71,1.48
+Vitamins
+"Thiamin",mg,0.103,0.215
+"Riboflavin",mg,0.183,0.382
+"Niacin",mg,7.847,16.400
+"Vitamin B-6",mg,0.506,1.058
+"Vitamin B-12",µg,0.14,0.29
+"Vitamin A, RAE",µg,9,19
+"Vitamin A, IU",IU,67,140
+"Vitamin E (alpha-tocopherol)",mg,1.45,3.03
+Lipids
+"Fatty acids, total saturated",g,2.849,5.954
+"Fatty acids, total monounsaturated",g,4.385,9.165
+"Fatty acids, total polyunsaturated",g,7.042,14.718
+"Fatty acids, total trans",g,0.120,0.251
+"Cholesterol",mg,52,109
+Amino Acids
+Other

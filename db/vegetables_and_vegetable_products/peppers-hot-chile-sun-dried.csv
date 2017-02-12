@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:25 EST
+"Nutrient data for: 11962, Peppers, hot chile, sun-dried"
+Nutrient,Unit,1Value per 100 g,"1 cup = 37.0g","1 pepper = 0.5g",
+Proximates
+"Water",g,7.15,2.65,0.04
+"Energy",kcal,324,120,2
+"Protein",g,10.58,3.91,0.05
+"Total lipid (fat)",g,5.81,2.15,0.03
+"Carbohydrate, by difference",g,69.86,25.85,0.35
+"Fiber, total dietary",g,28.7,10.6,0.1
+"Sugars, total",g,41.06,15.19,0.21
+Minerals
+"Calcium, Ca",mg,45,17,0
+"Iron, Fe",mg,6.04,2.23,0.03
+"Magnesium, Mg",mg,88,33,0
+"Phosphorus, P",mg,159,59,1
+"Potassium, K",mg,1870,692,9
+"Sodium, Na",mg,91,34,0
+"Zinc, Zn",mg,1.02,0.38,0.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,31.4,11.6,0.2
+"Thiamin",mg,0.081,0.030,0.000
+"Riboflavin",mg,1.205,0.446,0.006
+"Niacin",mg,8.669,3.208,0.043
+"Vitamin B-6",mg,0.810,0.300,0.004
+"Folate, DFE",µg,51,19,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1324,490,7
+"Vitamin A, IU",IU,26488,9801,132
+"Vitamin E (alpha-tocopherol)",mg,3.14,1.16,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,108.2,40.0,0.5
+Lipids
+"Fatty acids, total saturated",g,0.813,0.301,0.004
+"Fatty acids, total monounsaturated",g,0.468,0.173,0.002
+"Fatty acids, total polyunsaturated",g,3.079,1.139,0.015
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

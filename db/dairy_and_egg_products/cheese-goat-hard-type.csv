@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:06 EST
+"Nutrient data for: 01156, Cheese, goat, hard type"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,29.01,8.22
+"Energy",kcal,452,128
+"Protein",g,30.52,8.65
+"Total lipid (fat)",g,35.59,10.09
+"Carbohydrate, by difference",g,2.17,0.62
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,2.17,0.62
+Minerals
+"Calcium, Ca",mg,895,254
+"Iron, Fe",mg,1.88,0.53
+"Magnesium, Mg",mg,54,15
+"Phosphorus, P",mg,729,207
+"Potassium, K",mg,48,14
+"Sodium, Na",mg,423,120
+"Zinc, Zn",mg,1.59,0.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.140,0.040
+"Riboflavin",mg,1.190,0.337
+"Niacin",mg,2.400,0.680
+"Vitamin B-6",mg,0.080,0.023
+"Folate, DFE",µg,4,1
+"Vitamin B-12",µg,0.12,0.03
+"Vitamin A, RAE",µg,486,138
+"Vitamin A, IU",IU,1745,495
+"Vitamin E (alpha-tocopherol)",mg,0.31,0.09
+"Vitamin D (D2 + D3)",µg,0.7,0.2
+"Vitamin D",IU,26,7
+"Vitamin K (phylloquinone)",µg,3.0,0.9
+Lipids
+"Fatty acids, total saturated",g,24.609,6.977
+"Fatty acids, total monounsaturated",g,8.117,2.301
+"Fatty acids, total polyunsaturated",g,0.845,0.240
+"Cholesterol",mg,105,30
+Amino Acids
+Other
+"Caffeine",mg,0,0

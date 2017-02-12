@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08247, Cereals ready-to-eat, GENERAL MILLS, TOTAL Raisin Bran"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 53.0g",
+Proximates
+"Water",g,8.36,4.43
+"Energy",kcal,312,165
+"Protein",g,5.60,2.97
+"Total lipid (fat)",g,1.60,0.85
+"Carbohydrate, by difference",g,76.80,40.70
+"Fiber, total dietary",g,9.1,4.8
+"Sugars, total",g,32.30,17.12
+Minerals
+"Calcium, Ca",mg,1887,1000
+"Iron, Fe",mg,34.00,18.02
+"Magnesium, Mg",mg,60,32
+"Phosphorus, P",mg,189,100
+"Potassium, K",mg,504,267
+"Sodium, Na",mg,339,180
+"Zinc, Zn",mg,28.30,15.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,2.800,1.484
+"Riboflavin",mg,3.200,1.696
+"Niacin",mg,37.700,19.981
+"Vitamin B-6",mg,3.774,2.000
+"Folate, DFE",µg,1270,673
+"Vitamin B-12",µg,11.30,5.99
+"Vitamin A, RAE",µg,281,149
+"Vitamin A, IU",IU,943,500
+"Vitamin E (alpha-tocopherol)",mg,25.47,13.50
+"Vitamin D (D2 + D3)",µg,4.7,2.5
+"Vitamin D",IU,189,100
+"Vitamin K (phylloquinone)",µg,1.9,1.0
+Lipids
+"Fatty acids, total saturated",g,0.400,0.212
+"Fatty acids, total monounsaturated",g,0.300,0.159
+"Fatty acids, total polyunsaturated",g,0.800,0.424
+"Fatty acids, total trans",g,0.100,0.053
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:22 EST
+"Nutrient data for: 05356, Chicken, broiler, rotisserie, BBQ, skin"
+Nutrient,Unit,1Value per 100 g,"1 serving = 85.0g",
+Proximates
+"Water",g,47.81,40.64
+"Energy",kcal,378,321
+"Protein",g,15.19,12.91
+"Total lipid (fat)",g,35.15,29.88
+"Carbohydrate, by difference",g,0.70,0.59
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.70,0.59
+Minerals
+"Calcium, Ca",mg,34,29
+"Iron, Fe",mg,0.86,0.73
+"Magnesium, Mg",mg,22,19
+"Phosphorus, P",mg,230,196
+"Potassium, K",mg,223,190
+"Sodium, Na",mg,335,285
+"Zinc, Zn",mg,0.76,0.65
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.054,0.046
+"Riboflavin",mg,0.199,0.169
+"Niacin",mg,7.082,6.020
+"Vitamin B-6",mg,0.259,0.220
+"Folate, DFE",µg,9,8
+"Vitamin B-12",µg,0.55,0.47
+"Vitamin A, RAE",µg,51,43
+"Vitamin A, IU",IU,171,145
+"Vitamin E (alpha-tocopherol)",mg,0.33,0.28
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,9.333,7.933
+"Fatty acids, total monounsaturated",g,14.464,12.294
+"Fatty acids, total polyunsaturated",g,4.018,3.415
+"Fatty acids, total trans",g,0.438,0.372
+"Cholesterol",mg,120,102
+Amino Acids
+Other
+"Caffeine",mg,0,0

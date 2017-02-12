@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:21 EST
+"Nutrient data for: 11221, Gourd, dishcloth (towelgourd), cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup (1"" pieces) = 178.0g","0.5 cup (1"" slices) = 89.0g",
+Proximates
+"Water",g,84.29,150.04,75.02
+"Energy",kcal,56,100,50
+"Protein",g,0.66,1.17,0.59
+"Total lipid (fat)",g,0.34,0.61,0.30
+"Carbohydrate, by difference",g,14.34,25.53,12.76
+"Fiber, total dietary",g,2.9,5.2,2.6
+"Sugars, total",g,5.17,9.20,4.60
+Minerals
+"Calcium, Ca",mg,9,16,8
+"Iron, Fe",mg,0.36,0.64,0.32
+"Magnesium, Mg",mg,20,36,18
+"Phosphorus, P",mg,31,55,28
+"Potassium, K",mg,453,806,403
+"Sodium, Na",mg,21,37,19
+"Zinc, Zn",mg,0.17,0.30,0.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.7,10.1,5.1
+"Thiamin",mg,0.046,0.082,0.041
+"Riboflavin",mg,0.042,0.075,0.037
+"Niacin",mg,0.260,0.463,0.231
+"Vitamin B-6",mg,0.099,0.176,0.088
+"Folate, DFE",µg,12,21,11
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, IU",IU,260,463,231
+"Vitamin E (alpha-tocopherol)",mg,0.24,0.43,0.21
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.7,3.0,1.5
+Lipids
+"Fatty acids, total saturated",g,0.027,0.048,0.024
+"Fatty acids, total monounsaturated",g,0.063,0.112,0.056
+"Fatty acids, total polyunsaturated",g,0.148,0.263,0.132
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

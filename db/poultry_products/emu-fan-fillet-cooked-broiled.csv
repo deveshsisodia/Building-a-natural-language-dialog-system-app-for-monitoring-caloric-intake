@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:36 EST
+"Nutrient data for: 05624, Emu, fan fillet, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"1 serving ( 3 oz ) = 85.0g","1 steak = 394.0g",
+Proximates
+"Water",g,66.43,56.47,261.73
+"Energy",kcal,154,131,607
+"Protein",g,31.27,26.58,123.20
+"Total lipid (fat)",g,2.30,1.95,9.06
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,6,5,24
+"Iron, Fe",mg,4.56,3.88,17.97
+"Magnesium, Mg",mg,30,26,118
+"Phosphorus, P",mg,272,231,1072
+"Potassium, K",mg,397,337,1564
+"Sodium, Na",mg,53,45,209
+"Zinc, Zn",mg,3.19,2.71,12.57
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.350,0.297,1.379
+"Riboflavin",mg,0.599,0.509,2.360
+"Niacin",mg,9.814,8.342,38.667
+"Vitamin B-6",mg,0.916,0.779,3.609
+"Folate, DFE",µg,9,8,35
+"Vitamin B-12",µg,9.37,7.96,36.92
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.20,0.91
+Lipids
+"Fatty acids, total saturated",g,0.583,0.496,2.297
+"Fatty acids, total monounsaturated",g,0.917,0.779,3.613
+"Fatty acids, total polyunsaturated",g,0.318,0.270,1.253
+"Cholesterol",mg,82,70,323
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

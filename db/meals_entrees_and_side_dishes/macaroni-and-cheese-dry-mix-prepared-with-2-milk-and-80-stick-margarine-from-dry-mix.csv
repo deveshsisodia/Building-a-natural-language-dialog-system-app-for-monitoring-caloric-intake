@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:24 EST
+"Nutrient data for: 22960, Macaroni and cheese, dry mix, prepared with 2% milk and 80% stick margarine from dry mix"
+Nutrient,Unit,1Value per 100 g,"1 cup = 198.0g",
+Proximates
+"Water",g,61.60,121.97
+"Energy",kcal,190,376
+"Protein",g,4.89,9.68
+"Total lipid (fat)",g,8.28,16.39
+"Carbohydrate, by difference",g,23.93,47.38
+"Fiber, total dietary",g,1.2,2.4
+"Sugars, total",g,4.27,8.45
+Minerals
+"Calcium, Ca",mg,63,125
+"Iron, Fe",mg,0.99,1.96
+"Magnesium, Mg",mg,17,34
+"Phosphorus, P",mg,112,222
+"Potassium, K",mg,129,255
+"Sodium, Na",mg,338,669
+"Zinc, Zn",mg,0.47,0.93
+Vitamins
+"Thiamin",mg,0.177,0.350
+"Riboflavin",mg,0.178,0.352
+"Niacin",mg,1.183,2.342
+"Vitamin B-6",mg,0.061,0.121
+"Folate, DFE",µg,114,226
+"Vitamin B-12",µg,0.16,0.32
+"Vitamin K (phylloquinone)",µg,6.4,12.7
+Lipids
+"Fatty acids, total saturated",g,1.816,3.596
+"Fatty acids, total monounsaturated",g,3.687,7.300
+"Fatty acids, total polyunsaturated",g,1.880,3.722
+"Fatty acids, total trans",g,1.244,2.463
+"Cholesterol",mg,3,6
+Amino Acids
+Other

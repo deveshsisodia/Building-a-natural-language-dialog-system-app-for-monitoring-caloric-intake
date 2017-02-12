@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:46 EST
+"Nutrient data for: 03013, Babyfood, meat, chicken, junior"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 15.0g","1 oz = 28.35g","1 jar = 71.0g","1 jar Gerber Third Foods (2.5 oz) = 71.0g","1 jar Heinz Junior-3 (2.5 oz) = 71.0g",
+Proximates
+"Water",g,76.00,11.40,21.55,53.96,53.96,53.96
+"Energy",kcal,146,22,41,104,104,104
+"Protein",g,14.00,2.10,3.97,9.94,9.94,9.94
+"Total lipid (fat)",g,9.60,1.44,2.72,6.82,6.82,6.82
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,55,8,16,39,39,39
+"Iron, Fe",mg,0.99,0.15,0.28,0.70,0.70,0.70
+"Magnesium, Mg",mg,11,2,3,8,8,8
+"Phosphorus, P",mg,90,14,26,64,64,64
+"Potassium, K",mg,122,18,35,87,87,87
+"Sodium, Na",mg,49,7,14,35,35,35
+"Zinc, Zn",mg,1.01,0.15,0.29,0.72,0.72,0.72
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.5,0.2,0.4,1.1,1.1,1.1
+"Thiamin",mg,0.014,0.002,0.004,0.010,0.010,0.010
+"Riboflavin",mg,0.163,0.024,0.046,0.116,0.116,0.116
+"Niacin",mg,3.420,0.513,0.970,2.428,2.428,2.428
+"Vitamin B-6",mg,0.188,0.028,0.053,0.133,0.133,0.133
+"Folate, DFE",µg,11,2,3,8,8,8
+"Vitamin B-12",µg,0.40,0.06,0.11,0.28,0.28,0.28
+"Vitamin A, RAE",µg,11,2,3,8,8,8
+"Vitamin A, IU",IU,40,6,11,28,28,28
+"Vitamin E (alpha-tocopherol)",mg,0.40,0.06,0.11,0.28,0.28,0.28
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,2,0,1,1,1,1
+"Vitamin K (phylloquinone)",µg,1.7,0.3,0.5,1.2,1.2,1.2
+Lipids
+"Fatty acids, total saturated",g,2.470,0.371,0.700,1.754,1.754,1.754
+"Fatty acids, total monounsaturated",g,4.330,0.650,1.228,3.074,3.074,3.074
+"Fatty acids, total polyunsaturated",g,2.330,0.350,0.661,1.654,1.654,1.654
+"Cholesterol",mg,59,9,17,42,42,42
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

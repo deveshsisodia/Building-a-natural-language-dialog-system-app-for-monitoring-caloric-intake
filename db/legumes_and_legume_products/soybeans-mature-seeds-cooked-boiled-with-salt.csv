@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:00 EST
+"Nutrient data for: 16409, Soybeans, mature seeds, cooked, boiled, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 172.0g",
+Proximates
+"Water",g,62.55,107.59
+"Energy",kcal,172,296
+"Protein",g,18.21,31.32
+"Total lipid (fat)",g,8.97,15.43
+"Carbohydrate, by difference",g,8.36,14.38
+"Fiber, total dietary",g,6.0,10.3
+"Sugars, total",g,2.36,4.06
+Minerals
+"Calcium, Ca",mg,102,175
+"Iron, Fe",mg,5.14,8.84
+"Magnesium, Mg",mg,86,148
+"Phosphorus, P",mg,245,421
+"Potassium, K",mg,515,886
+"Sodium, Na",mg,237,408
+"Zinc, Zn",mg,1.15,1.98
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.7,2.9
+"Thiamin",mg,0.155,0.267
+"Riboflavin",mg,0.285,0.490
+"Niacin",mg,0.399,0.686
+"Vitamin B-6",mg,0.234,0.402
+"Folate, DFE",µg,54,93
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,9,15
+"Vitamin E (alpha-tocopherol)",mg,0.35,0.60
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,19.2,33.0
+Lipids
+"Fatty acids, total saturated",g,1.297,2.231
+"Fatty acids, total monounsaturated",g,1.981,3.407
+"Fatty acids, total polyunsaturated",g,5.064,8.710
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

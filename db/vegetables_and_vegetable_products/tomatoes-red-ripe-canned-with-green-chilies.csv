@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:31 EST
+"Nutrient data for: 11537, Tomatoes, red, ripe, canned, with green chilies"
+Nutrient,Unit,1Value per 100 g,"1 cup = 241.0g",
+Proximates
+"Water",g,94.23,227.09
+"Energy",kcal,15,36
+"Protein",g,0.69,1.66
+"Total lipid (fat)",g,0.08,0.19
+"Carbohydrate, by difference",g,3.62,8.72
+Minerals
+"Calcium, Ca",mg,20,48
+"Iron, Fe",mg,0.26,0.63
+"Magnesium, Mg",mg,11,27
+"Phosphorus, P",mg,14,34
+"Potassium, K",mg,107,258
+"Sodium, Na",mg,401,966
+"Zinc, Zn",mg,0.13,0.31
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.2,14.9
+"Thiamin",mg,0.034,0.082
+"Riboflavin",mg,0.019,0.046
+"Niacin",mg,0.640,1.542
+"Vitamin B-6",mg,0.103,0.248
+"Folate, DFE",µg,9,22
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,20,48
+"Vitamin A, IU",IU,390,940
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.011,0.027
+"Fatty acids, total monounsaturated",g,0.011,0.027
+"Fatty acids, total polyunsaturated",g,0.030,0.072
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

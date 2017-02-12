@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:08 EST
+"Nutrient data for: 12145, Nuts, pilinuts, dried"
+Nutrient,Unit,1Value per 100 g,"1 cup = 120.0g","1 oz (15 kernels) = 28.35g",
+Proximates
+"Water",g,2.77,3.32,0.79
+"Energy",kcal,719,863,204
+"Protein",g,10.80,12.96,3.06
+"Total lipid (fat)",g,79.55,95.46,22.55
+"Carbohydrate, by difference",g,3.98,4.78,1.13
+Minerals
+"Calcium, Ca",mg,145,174,41
+"Iron, Fe",mg,3.53,4.24,1.00
+"Magnesium, Mg",mg,302,362,86
+"Phosphorus, P",mg,575,690,163
+"Potassium, K",mg,507,608,144
+"Sodium, Na",mg,3,4,1
+"Zinc, Zn",mg,2.97,3.56,0.84
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.7,0.2
+"Thiamin",mg,0.913,1.096,0.259
+"Riboflavin",mg,0.093,0.112,0.026
+"Niacin",mg,0.519,0.623,0.147
+"Vitamin B-6",mg,0.115,0.138,0.033
+"Folate, DFE",µg,60,72,17
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,2,2,1
+"Vitamin A, IU",IU,41,49,12
+Lipids
+"Fatty acids, total saturated",g,31.184,37.421,8.841
+"Fatty acids, total monounsaturated",g,37.229,44.675,10.554
+"Fatty acids, total polyunsaturated",g,7.605,9.126,2.156
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

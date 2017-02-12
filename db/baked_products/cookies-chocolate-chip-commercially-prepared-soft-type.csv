@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:33 EST
+"Nutrient data for: 18160, Cookies, chocolate chip, commercially prepared, soft-type"
+Nutrient,Unit,1Value per 100 g,"1 cookie = 14.2g","1 oz = 28.35g","1 cookie = 15.0g","1 cookie (average weight of 1 cookie) = 12.2g",
+Proximates
+"Water",g,9.88,1.40,2.80,1.48,1.21
+"Energy",kcal,444,63,126,67,54
+"Protein",g,3.63,0.52,1.03,0.54,0.44
+"Total lipid (fat)",g,19.77,2.81,5.60,2.97,2.41
+"Carbohydrate, by difference",g,65.75,9.34,18.64,9.86,8.02
+"Fiber, total dietary",g,1.8,0.3,0.5,0.3,0.2
+"Sugars, total",g,37.10,5.27,10.52,5.57,4.53
+Minerals
+"Calcium, Ca",mg,17,2,5,3,2
+"Iron, Fe",mg,4.07,0.58,1.15,0.61,0.50
+"Magnesium, Mg",mg,29,4,8,4,4
+"Phosphorus, P",mg,61,9,17,9,7
+"Potassium, K",mg,130,18,37,20,16
+"Sodium, Na",mg,276,39,78,41,34
+"Zinc, Zn",mg,0.54,0.08,0.15,0.08,0.07
+Vitamins
+"Thiamin",mg,0.140,0.020,0.040,0.021,0.017
+"Riboflavin",mg,0.283,0.040,0.080,0.042,0.035
+"Niacin",mg,2.060,0.293,0.584,0.309,0.251
+"Vitamin B-6",mg,0.050,0.007,0.014,0.007,0.006
+"Folate, DFE",µg,45,6,13,7,5
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,1.55,0.22,0.44,0.23,0.19
+"Vitamin K (phylloquinone)",µg,2.4,0.3,0.7,0.4,0.3
+Lipids
+"Fatty acids, total saturated",g,9.751,1.385,2.764,1.463,1.190
+"Fatty acids, total monounsaturated",g,6.973,0.990,1.977,1.046,0.851
+"Fatty acids, total polyunsaturated",g,1.786,0.254,0.506,0.268,0.218
+"Fatty acids, total trans",g,0.055,0.008,0.016,0.008,0.007
+Amino Acids
+Other

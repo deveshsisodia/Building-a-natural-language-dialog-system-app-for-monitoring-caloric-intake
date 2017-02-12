@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:33 EST
+"Nutrient data for: 11991, Yautia (tannier), raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, sliced = 135.0g","1 root = 305.0g",
+Proximates
+"Water",g,73.06,98.63,222.83
+"Energy",kcal,98,132,299
+"Protein",g,1.46,1.97,4.45
+"Total lipid (fat)",g,0.40,0.54,1.22
+"Carbohydrate, by difference",g,23.63,31.90,72.07
+"Fiber, total dietary",g,1.5,2.0,4.6
+Minerals
+"Calcium, Ca",mg,9,12,27
+"Iron, Fe",mg,0.98,1.32,2.99
+"Magnesium, Mg",mg,24,32,73
+"Phosphorus, P",mg,51,69,156
+"Potassium, K",mg,598,807,1824
+"Sodium, Na",mg,21,28,64
+"Zinc, Zn",mg,0.50,0.68,1.52
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.2,7.0,15.9
+"Thiamin",mg,0.097,0.131,0.296
+"Riboflavin",mg,0.040,0.054,0.122
+"Niacin",mg,0.667,0.900,2.034
+"Vitamin B-6",mg,0.237,0.320,0.723
+"Folate, DFE",µg,17,23,52
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,8,11,24
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.082,0.111,0.250
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:31 EST
+"Nutrient data for: 11517, Sweet potato, frozen, cooked, baked, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, cubes = 176.0g",
+Proximates
+"Water",g,73.70,129.71
+"Energy",kcal,100,176
+"Protein",g,1.71,3.01
+"Total lipid (fat)",g,0.12,0.21
+"Carbohydrate, by difference",g,23.40,41.18
+"Fiber, total dietary",g,1.8,3.2
+"Sugars, total",g,9.17,16.14
+Minerals
+"Calcium, Ca",mg,35,62
+"Iron, Fe",mg,0.54,0.95
+"Magnesium, Mg",mg,21,37
+"Phosphorus, P",mg,44,77
+"Potassium, K",mg,377,664
+"Sodium, Na",mg,8,14
+"Zinc, Zn",mg,0.30,0.53
+Vitamins
+"Vitamin C, total ascorbic acid",mg,9.1,16.0
+"Thiamin",mg,0.066,0.116
+"Riboflavin",mg,0.056,0.099
+"Niacin",mg,0.555,0.977
+"Vitamin B-6",mg,0.186,0.327
+"Folate, DFE",µg,22,39
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1043,1836
+"Vitamin A, IU",IU,20870,36731
+"Vitamin E (alpha-tocopherol)",mg,0.77,1.36
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.5,4.4
+Lipids
+"Fatty acids, total saturated",g,0.025,0.044
+"Fatty acids, total monounsaturated",g,0.005,0.009
+"Fatty acids, total polyunsaturated",g,0.049,0.086
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

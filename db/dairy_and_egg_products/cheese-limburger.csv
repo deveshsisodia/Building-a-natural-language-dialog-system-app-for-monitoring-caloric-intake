@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:06 EST
+"Nutrient data for: 01024, Cheese, limburger"
+Nutrient,Unit,1Value per 100 g,"1 cup = 134.0g","1 oz = 28.35g","1 cubic inch = 18.0g","1 box = 113.0g","1 package (8 oz) = 227.0g",
+Proximates
+"Water",g,48.42,64.88,13.73,8.72,54.71,109.91
+"Energy",kcal,327,438,93,59,370,742
+"Protein",g,20.05,26.87,5.68,3.61,22.66,45.51
+"Total lipid (fat)",g,27.25,36.52,7.73,4.91,30.79,61.86
+"Carbohydrate, by difference",g,0.49,0.66,0.14,0.09,0.55,1.11
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.49,0.66,0.14,0.09,0.55,1.11
+Minerals
+"Calcium, Ca",mg,497,666,141,89,562,1128
+"Iron, Fe",mg,0.13,0.17,0.04,0.02,0.15,0.30
+"Magnesium, Mg",mg,21,28,6,4,24,48
+"Phosphorus, P",mg,393,527,111,71,444,892
+"Potassium, K",mg,128,172,36,23,145,291
+"Sodium, Na",mg,800,1072,227,144,904,1816
+"Zinc, Zn",mg,2.10,2.81,0.60,0.38,2.37,4.77
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.080,0.107,0.023,0.014,0.090,0.182
+"Riboflavin",mg,0.503,0.674,0.143,0.091,0.568,1.142
+"Niacin",mg,0.158,0.212,0.045,0.028,0.179,0.359
+"Vitamin B-6",mg,0.086,0.115,0.024,0.015,0.097,0.195
+"Folate, DFE",µg,58,78,16,10,66,132
+"Vitamin B-12",µg,1.04,1.39,0.29,0.19,1.18,2.36
+"Vitamin A, RAE",µg,340,456,96,61,384,772
+"Vitamin A, IU",IU,1155,1548,327,208,1305,2622
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.31,0.07,0.04,0.26,0.52
+"Vitamin D (D2 + D3)",µg,0.5,0.7,0.1,0.1,0.6,1.1
+"Vitamin D",IU,20,27,6,4,23,45
+"Vitamin K (phylloquinone)",µg,2.3,3.1,0.7,0.4,2.6,5.2
+Lipids
+"Fatty acids, total saturated",g,16.746,22.440,4.747,3.014,18.923,38.013
+"Fatty acids, total monounsaturated",g,8.606,11.532,2.440,1.549,9.725,19.536
+"Fatty acids, total polyunsaturated",g,0.495,0.663,0.140,0.089,0.559,1.124
+"Cholesterol",mg,90,121,26,16,102,204
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

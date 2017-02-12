@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:48 EST
+"Nutrient data for: 19208, Puddings, rice, dry mix, prepared with 2% milk"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 128.0g",
+Proximates
+"Water",g,73.43,93.99
+"Energy",kcal,111,142
+"Protein",g,3.29,4.21
+"Total lipid (fat)",g,1.63,2.09
+"Carbohydrate, by difference",g,20.81,26.64
+"Fiber, total dietary",g,0.1,0.1
+Minerals
+"Calcium, Ca",mg,105,134
+"Iron, Fe",mg,0.37,0.47
+"Magnesium, Mg",mg,13,17
+"Phosphorus, P",mg,87,111
+"Potassium, K",mg,130,166
+"Sodium, Na",mg,109,140
+"Zinc, Zn",mg,0.38,0.49
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.9
+"Thiamin",mg,0.075,0.096
+"Riboflavin",mg,0.141,0.180
+"Niacin",mg,0.443,0.567
+"Vitamin B-6",mg,0.035,0.045
+"Folate, DFE",µg,4,5
+"Vitamin B-12",µg,0.24,0.31
+"Vitamin A, RAE",µg,46,59
+"Vitamin A, IU",IU,172,220
+"Vitamin D (D2 + D3)",µg,0.8,1.0
+"Vitamin D",IU,34,44
+Lipids
+"Fatty acids, total saturated",g,0.967,1.238
+"Fatty acids, total monounsaturated",g,0.441,0.564
+"Fatty acids, total polyunsaturated",g,0.060,0.077
+"Cholesterol",mg,6,8
+Amino Acids
+Other
+"Caffeine",mg,0,0

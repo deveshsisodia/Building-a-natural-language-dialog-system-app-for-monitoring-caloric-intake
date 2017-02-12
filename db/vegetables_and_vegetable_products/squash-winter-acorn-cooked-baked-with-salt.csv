@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:30 EST
+"Nutrient data for: 11864, Squash, winter, acorn, cooked, baked, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup, cubes = 205.0g",
+Proximates
+"Water",g,82.90,169.94
+"Energy",kcal,56,115
+"Protein",g,1.12,2.30
+"Total lipid (fat)",g,0.14,0.29
+"Carbohydrate, by difference",g,14.58,29.89
+"Fiber, total dietary",g,4.4,9.0
+Minerals
+"Calcium, Ca",mg,44,90
+"Iron, Fe",mg,0.93,1.91
+"Magnesium, Mg",mg,43,88
+"Phosphorus, P",mg,45,92
+"Potassium, K",mg,437,896
+"Sodium, Na",mg,240,492
+"Zinc, Zn",mg,0.17,0.35
+Vitamins
+"Vitamin C, total ascorbic acid",mg,10.8,22.1
+"Thiamin",mg,0.167,0.342
+"Riboflavin",mg,0.013,0.027
+"Niacin",mg,0.881,1.806
+"Vitamin B-6",mg,0.194,0.398
+"Folate, DFE",µg,19,39
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,21,43
+"Vitamin A, IU",IU,428,877
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.029,0.059
+"Fatty acids, total monounsaturated",g,0.010,0.020
+"Fatty acids, total polyunsaturated",g,0.059,0.121
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

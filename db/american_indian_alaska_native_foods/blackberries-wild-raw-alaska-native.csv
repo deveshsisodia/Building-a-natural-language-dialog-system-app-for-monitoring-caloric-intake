@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:27 EST
+"Nutrient data for: 35015, Blackberries, wild, raw (Alaska Native)"
+Nutrient,Unit,1Value per 100 g,"1 cup = 157.0g",
+Proximates
+"Water",g,88.05,138.24
+"Energy",kcal,52,82
+"Protein",g,0.84,1.32
+"Total lipid (fat)",g,1.07,1.68
+"Carbohydrate, by difference",g,9.84,15.45
+"Fiber, total dietary",g,3.2,5.0
+"Sugars, total",g,3.65,5.73
+Minerals
+"Calcium, Ca",mg,5,8
+"Iron, Fe",mg,0.21,0.33
+"Magnesium, Mg",mg,4,6
+"Phosphorus, P",mg,11,17
+"Potassium, K",mg,75,118
+"Sodium, Na",mg,6,9
+"Zinc, Zn",mg,0.15,0.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.7,7.4
+"Thiamin",mg,0.060,0.094
+"Riboflavin",mg,0.144,0.226
+"Niacin",mg,0.314,0.493
+"Vitamin B-6",mg,0.039,0.061
+"Folate, DFE",µg,11,17
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,5,8
+"Vitamin A, IU",IU,46,72
+"Vitamin E (alpha-tocopherol)",mg,0.91,1.43
+"Vitamin K (phylloquinone)",µg,5.9,9.3
+Lipids
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(a)"The mineral and vitamin content of berries harvested in the wild and in specific regions of the country may differ from commercially produced berries."

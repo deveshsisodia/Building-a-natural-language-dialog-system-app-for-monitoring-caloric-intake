@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:29 EST
+"Nutrient data for: 11435, Rutabagas, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, cubes = 140.0g","1 large = 772.0g","1 medium = 386.0g","1 small = 192.0g",
+Proximates
+"Water",g,89.43,125.20,690.40,345.20,171.71
+"Energy",kcal,37,52,286,143,71
+"Protein",g,1.08,1.51,8.34,4.17,2.07
+"Total lipid (fat)",g,0.16,0.22,1.24,0.62,0.31
+"Carbohydrate, by difference",g,8.62,12.07,66.55,33.27,16.55
+"Fiber, total dietary",g,2.3,3.2,17.8,8.9,4.4
+"Sugars, total",g,4.46,6.24,34.43,17.22,8.56
+Minerals
+"Calcium, Ca",mg,43,60,332,166,83
+"Iron, Fe",mg,0.44,0.62,3.40,1.70,0.84
+"Magnesium, Mg",mg,20,28,154,77,38
+"Phosphorus, P",mg,53,74,409,205,102
+"Potassium, K",mg,305,427,2355,1177,586
+"Sodium, Na",mg,12,17,93,46,23
+"Zinc, Zn",mg,0.24,0.34,1.85,0.93,0.46
+Vitamins
+"Vitamin C, total ascorbic acid",mg,25.0,35.0,193.0,96.5,48.0
+"Thiamin",mg,0.090,0.126,0.695,0.347,0.173
+"Riboflavin",mg,0.040,0.056,0.309,0.154,0.077
+"Niacin",mg,0.700,0.980,5.404,2.702,1.344
+"Vitamin B-6",mg,0.100,0.140,0.772,0.386,0.192
+"Folate, DFE",µg,21,29,162,81,40
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,2,3,15,8,4
+"Vitamin E (alpha-tocopherol)",mg,0.30,0.42,2.32,1.16,0.58
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.4,2.3,1.2,0.6
+Lipids
+"Fatty acids, total saturated",g,0.027,0.038,0.208,0.104,0.052
+"Fatty acids, total monounsaturated",g,0.025,0.035,0.193,0.097,0.048
+"Fatty acids, total polyunsaturated",g,0.088,0.123,0.679,0.340,0.169
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

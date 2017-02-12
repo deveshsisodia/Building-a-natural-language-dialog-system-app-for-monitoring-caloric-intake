@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08602, Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K, Cinnamon Pecan"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,3.00,0.90
+"Energy",kcal,375,112
+"Protein",g,7.50,2.25
+"Total lipid (fat)",g,6.00,1.80
+"Carbohydrate, by difference",g,81.20,24.36
+"Fiber, total dietary",g,10.3,3.1
+"Sugars, total",g,24.00,7.20
+Minerals
+"Calcium, Ca",mg,30,9
+"Iron, Fe",mg,27.00,8.10
+"Magnesium, Mg",mg,67,20
+"Phosphorus, P",mg,191,57
+"Potassium, K",mg,267,80
+"Sodium, Na",mg,650,195
+"Zinc, Zn",mg,1.50,0.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,70.0,21.0
+"Thiamin",mg,1.750,0.525
+"Riboflavin",mg,1.980,0.594
+"Niacin",mg,23.300,6.990
+"Vitamin B-6",mg,2.330,0.699
+"Folate, DFE",µg,781,234
+"Vitamin B-12",µg,7.00,2.10
+"Vitamin A, RAE",µg,750,225
+"Vitamin A, IU",IU,2500,750
+"Vitamin E (alpha-tocopherol)",mg,0.44,0.13
+"Vitamin D (D2 + D3)",µg,3.3,1.0
+"Vitamin D",IU,133,40
+"Vitamin K (phylloquinone)",µg,0.9,0.3
+Lipids
+"Fatty acids, total saturated",g,0.700,0.210
+"Fatty acids, total monounsaturated",g,2.800,0.840
+"Fatty acids, total polyunsaturated",g,2.100,0.630
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

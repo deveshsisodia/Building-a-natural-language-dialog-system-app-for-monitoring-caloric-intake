@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:44 EST
+"Nutrient data for: 03067, Babyfood, dinner, vegetables and lamb, junior"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 jar = 170.0g",
+Proximates
+"Water",g,88.60,25.12,150.62
+"Energy",kcal,51,14,87
+"Protein",g,2.10,0.60,3.57
+"Total lipid (fat)",g,1.70,0.48,2.89
+"Carbohydrate, by difference",g,7.10,2.01,12.07
+"Fiber, total dietary",g,1.1,0.3,1.9
+"Sugars, total",g,0.94,0.27,1.60
+Minerals
+"Calcium, Ca",mg,13,4,22
+"Iron, Fe",mg,0.34,0.10,0.58
+"Magnesium, Mg",mg,7,2,12
+"Phosphorus, P",mg,49,14,83
+"Potassium, K",mg,95,27,162
+"Sodium, Na",mg,13,4,22
+"Zinc, Zn",mg,0.22,0.06,0.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.7,0.5,2.9
+"Thiamin",mg,0.021,0.006,0.036
+"Riboflavin",mg,0.032,0.009,0.054
+"Niacin",mg,0.554,0.157,0.942
+"Vitamin B-6",mg,0.044,0.012,0.075
+"Folate, DFE",µg,4,1,7
+"Vitamin B-12",µg,0.16,0.05,0.27
+"Vitamin A, RAE",µg,138,39,235
+"Vitamin A, IU",IU,1483,420,2521
+"Vitamin E (alpha-tocopherol)",mg,0.24,0.07,0.41
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.696,0.197,1.183
+"Fatty acids, total monounsaturated",g,0.690,0.196,1.173
+"Fatty acids, total polyunsaturated",g,0.154,0.044,0.262
+"Cholesterol",mg,5,1,8
+Amino Acids
+Other

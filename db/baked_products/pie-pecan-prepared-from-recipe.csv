@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:44 EST
+"Nutrient data for: 18325, Pie, pecan, prepared from recipe"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece (1/8 of 9"" dia) = 122.0g",
+Proximates
+"Water",g,19.50,5.53,23.79
+"Energy",kcal,412,117,503
+"Protein",g,4.90,1.39,5.98
+"Total lipid (fat)",g,22.20,6.29,27.08
+"Carbohydrate, by difference",g,52.20,14.80,63.68
+Minerals
+"Calcium, Ca",mg,32,9,39
+"Iron, Fe",mg,1.48,0.42,1.81
+"Magnesium, Mg",mg,26,7,32
+"Phosphorus, P",mg,94,27,115
+"Potassium, K",mg,133,38,162
+"Sodium, Na",mg,262,74,320
+"Zinc, Zn",mg,1.02,0.29,1.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1,0.2
+"Thiamin",mg,0.188,0.053,0.229
+"Riboflavin",mg,0.180,0.051,0.220
+"Niacin",mg,0.847,0.240,1.033
+"Vitamin B-6",mg,0.060,0.017,0.073
+"Folate, DFE",µg,34,10,41
+"Vitamin B-12",µg,0.17,0.05,0.21
+"Vitamin A, RAE",µg,82,23,100
+"Vitamin A, IU",IU,357,101,436
+Lipids
+"Fatty acids, total saturated",g,3.989,1.131,4.867
+"Fatty acids, total monounsaturated",g,11.181,3.170,13.641
+"Fatty acids, total polyunsaturated",g,5.710,1.619,6.966
+"Cholesterol",mg,87,25,106
+Amino Acids
+Other

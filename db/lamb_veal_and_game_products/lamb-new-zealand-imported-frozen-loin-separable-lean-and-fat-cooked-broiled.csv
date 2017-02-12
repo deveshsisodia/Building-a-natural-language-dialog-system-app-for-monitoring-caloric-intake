@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:01 EST
+"Nutrient data for: 17077, Lamb, New Zealand, imported, frozen, loin, separable lean and fat, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 85 g) = 43.0g",
+Proximates
+"Water",g,50.44,42.87,21.69
+"Energy",kcal,315,268,135
+"Protein",g,23.43,19.92,10.07
+"Total lipid (fat)",g,23.88,20.30,10.27
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,23,20,10
+"Iron, Fe",mg,2.05,1.74,0.88
+"Magnesium, Mg",mg,19,16,8
+"Phosphorus, P",mg,208,177,89
+"Potassium, K",mg,159,135,68
+"Sodium, Na",mg,49,42,21
+"Zinc, Zn",mg,2.65,2.25,1.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.120,0.102,0.052
+"Riboflavin",mg,0.360,0.306,0.155
+"Niacin",mg,7.930,6.740,3.410
+"Vitamin B-6",mg,0.110,0.093,0.047
+"Folate, DFE",µg,1,1,0
+"Vitamin B-12",µg,2.53,2.15,1.09
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.11,0.06
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.0
+"Vitamin D",IU,2,2,1
+"Vitamin K (phylloquinone)",µg,4.9,4.2,2.1
+Lipids
+"Fatty acids, total saturated",g,11.960,10.166,5.143
+"Fatty acids, total monounsaturated",g,9.200,7.820,3.956
+"Fatty acids, total polyunsaturated",g,1.090,0.927,0.469
+"Cholesterol",mg,112,95,48
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

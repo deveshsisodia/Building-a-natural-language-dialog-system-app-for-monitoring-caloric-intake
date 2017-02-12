@@ -1,0 +1,32 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:28 EST
+"Nutrient data for: 18987, AUSTIN, Cheddar Cheese on Cheese Crackers, sandwich-type, reduced fat"
+Nutrient,Unit,1Value per 100 g,"1 package = 36.0g",
+Proximates
+"Water",g,2.70,0.97
+"Energy",kcal,461,166
+"Protein",g,7.80,2.81
+"Total lipid (fat)",g,17.50,6.30
+"Carbohydrate, by difference",g,68.00,24.48
+"Fiber, total dietary",g,1.4,0.5
+"Sugars, total",g,14.60,5.26
+Minerals
+"Calcium, Ca",mg,144,52
+"Iron, Fe",mg,3.40,1.22
+"Magnesium, Mg",mg,13,5
+"Phosphorus, P",mg,198,71
+"Potassium, K",mg,250,90
+"Sodium, Na",mg,884,318
+Vitamins
+"Thiamin",mg,0.440,0.158
+"Riboflavin",mg,0.290,0.104
+"Niacin",mg,3.800,1.368
+Lipids
+"Fatty acids, total saturated",g,4.400,1.584
+"Fatty acids, total monounsaturated",g,3.700,1.332
+"Fatty acids, total polyunsaturated",g,8.400,3.024
+"Fatty acids, total trans",g,0.210,0.076
+"Cholesterol",mg,3,1
+Amino Acids
+Other

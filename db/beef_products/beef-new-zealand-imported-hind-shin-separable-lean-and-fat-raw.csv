@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:44 EST
+"Nutrient data for: 23463, Beef, New Zealand, imported, hind shin, separable lean and fat, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 113.0g",
+Proximates
+"Water",g,71.41,80.69
+"Energy",kcal,147,166
+"Protein",g,20.61,23.29
+"Total lipid (fat)",g,7.20,8.14
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,5,6
+"Iron, Fe",mg,1.95,2.20
+"Magnesium, Mg",mg,20,23
+"Phosphorus, P",mg,170,192
+"Potassium, K",mg,313,354
+"Sodium, Na",mg,61,69
+"Zinc, Zn",mg,3.66,4.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.040,0.045
+"Riboflavin",mg,0.109,0.123
+"Niacin",mg,3.136,3.544
+"Vitamin B-6",mg,0.246,0.278
+"Vitamin B-12",µg,1.43,1.62
+"Vitamin A, RAE",µg,6,7
+"Vitamin A, IU",IU,20,23
+"Vitamin E (alpha-tocopherol)",mg,0.41,0.46
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,1,1
+Lipids
+"Fatty acids, total saturated",g,2.711,3.063
+"Fatty acids, total monounsaturated",g,2.530,2.859
+"Fatty acids, total polyunsaturated",g,0.233,0.263
+"Fatty acids, total trans",g,0.173,0.195
+"Cholesterol",mg,57,64
+Amino Acids
+Other
+"Caffeine",mg,0,0

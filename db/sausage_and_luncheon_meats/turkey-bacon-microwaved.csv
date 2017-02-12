@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:20 EST
+"Nutrient data for: 07973, Turkey bacon, microwaved"
+Nutrient,Unit,1Value per 100 g,"1 slice = 8.1g","1 raw pr g = 15.0g",
+Proximates
+"Water",g,34.46,2.79,5.17
+"Energy",kcal,368,30,55
+"Protein",g,29.50,2.39,4.42
+"Total lipid (fat)",g,25.87,2.10,3.88
+"Carbohydrate, by difference",g,4.24,0.34,0.64
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,4.24,0.34,0.64
+Minerals
+"Calcium, Ca",mg,163,13,24
+"Iron, Fe",mg,2.63,0.21,0.39
+"Magnesium, Mg",mg,30,2,4
+"Phosphorus, P",mg,416,34,62
+"Potassium, K",mg,666,54,100
+"Sodium, Na",mg,2021,164,303
+"Zinc, Zn",mg,4.71,0.38,0.71
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.049,0.004,0.007
+"Riboflavin",mg,0.398,0.032,0.060
+"Niacin",mg,8.102,0.656,1.215
+"Vitamin B-6",mg,0.374,0.030,0.056
+"Folate, DFE",µg,15,1,2
+"Vitamin B-12",µg,1.88,0.15,0.28
+"Vitamin A, RAE",µg,19,2,3
+"Vitamin A, IU",IU,63,5,9
+"Vitamin E (alpha-tocopherol)",mg,0.14,0.01,0.02
+"Vitamin D (D2 + D3)",µg,1.2,0.1,0.2
+"Vitamin D",IU,50,4,8
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,6.933,0.562,1.040
+"Fatty acids, total monounsaturated",g,9.382,0.760,1.407
+"Fatty acids, total polyunsaturated",g,6.871,0.557,1.031
+"Fatty acids, total trans",g,0.287,0.023,0.043
+"Cholesterol",mg,153,12,23
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

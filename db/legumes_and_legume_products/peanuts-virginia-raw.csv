@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:00 EST
+"Nutrient data for: 16095, Peanuts, virginia, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 146.0g","1 oz = 28.35g",
+Proximates
+"Water",g,6.91,10.09,1.96
+"Energy",kcal,563,822,160
+"Protein",g,25.19,36.78,7.14
+"Total lipid (fat)",g,48.75,71.17,13.82
+"Carbohydrate, by difference",g,16.54,24.15,4.69
+"Fiber, total dietary",g,8.5,12.4,2.4
+"Sugars, total",g,3.95,5.77,1.12
+Minerals
+"Calcium, Ca",mg,89,130,25
+"Iron, Fe",mg,2.55,3.72,0.72
+"Magnesium, Mg",mg,171,250,48
+"Phosphorus, P",mg,380,555,108
+"Potassium, K",mg,690,1007,196
+"Sodium, Na",mg,10,15,3
+"Zinc, Zn",mg,4.43,6.47,1.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.653,0.953,0.185
+"Riboflavin",mg,0.131,0.191,0.037
+"Niacin",mg,12.375,18.067,3.508
+"Vitamin B-6",mg,0.346,0.505,0.098
+"Folate, DFE",µg,239,349,68
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,6.56,9.58,1.86
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,6.434,9.394,1.824
+"Fatty acids, total monounsaturated",g,25.580,37.347,7.252
+"Fatty acids, total polyunsaturated",g,14.877,21.720,4.218
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

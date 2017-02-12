@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:19 EST
+"Nutrient data for: 11767, Chrysanthemum, garland, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup (1"" pieces) = 100.0g",
+Proximates
+"Water",g,92.49,92.49
+"Energy",kcal,20,20
+"Protein",g,1.64,1.64
+"Total lipid (fat)",g,0.09,0.09
+"Carbohydrate, by difference",g,4.31,4.31
+"Fiber, total dietary",g,2.3,2.3
+"Sugars, total",g,2.01,2.01
+Minerals
+"Calcium, Ca",mg,69,69
+"Iron, Fe",mg,3.74,3.74
+"Magnesium, Mg",mg,18,18
+"Phosphorus, P",mg,43,43
+"Potassium, K",mg,569,569
+"Sodium, Na",mg,289,289
+"Zinc, Zn",mg,0.20,0.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,23.9,23.9
+"Thiamin",mg,0.021,0.021
+"Riboflavin",mg,0.160,0.160
+"Niacin",mg,0.720,0.720
+"Vitamin B-6",mg,0.118,0.118
+"Folate, DFE",µg,50,50
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,129,129
+"Vitamin A, IU",IU,2572,2572
+"Vitamin E (alpha-tocopherol)",mg,2.50,2.50
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,142.7,142.7
+Lipids
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

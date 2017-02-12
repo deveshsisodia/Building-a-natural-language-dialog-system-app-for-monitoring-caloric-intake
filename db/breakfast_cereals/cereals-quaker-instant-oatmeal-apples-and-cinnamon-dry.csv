@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08124, Cereals, QUAKER, Instant Oatmeal, apples and cinnamon, dry"
+Nutrient,Unit,1Value per 100 g,"1 packet (1 NLEA serving) = 43.0g",
+Proximates
+"Water",g,6.62,2.85
+"Energy",kcal,366,157
+"Protein",g,8.62,3.71
+"Total lipid (fat)",g,4.61,1.98
+"Carbohydrate, by difference",g,76.74,33.00
+"Fiber, total dietary",g,8.3,3.6
+"Sugars, total",g,28.87,12.41
+Minerals
+"Calcium, Ca",mg,243,104
+"Iron, Fe",mg,8.78,3.78
+"Magnesium, Mg",mg,87,37
+"Phosphorus, P",mg,294,126
+"Potassium, K",mg,327,141
+"Sodium, Na",mg,454,195
+"Zinc, Zn",mg,1.97,0.85
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.2,0.5
+"Thiamin",mg,0.730,0.314
+"Riboflavin",mg,1.040,0.447
+"Niacin",mg,12.210,5.250
+"Vitamin B-6",mg,0.980,0.421
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,2454,1055
+"Vitamin E (alpha-tocopherol)",mg,0.42,0.18
+Lipids
+"Fatty acids, total saturated",g,0.880,0.378
+"Fatty acids, total monounsaturated",g,1.640,0.705
+"Fatty acids, total polyunsaturated",g,1.360,0.585
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

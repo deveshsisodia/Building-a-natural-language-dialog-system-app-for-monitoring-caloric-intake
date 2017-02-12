@@ -1,0 +1,27 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:27 EST
+"Nutrient data for: 31029, Potatoes, french fried, wedge cut, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,66.06,56.15
+"Energy",kcal,166,141
+"Protein",g,2.56,2.18
+"Total lipid (fat)",g,7.47,6.35
+"Carbohydrate, by difference",g,22.22,18.89
+"Fiber, total dietary",g,2.4,2.0
+"Sugars, total",g,0.34,0.29
+Minerals
+"Calcium, Ca",mg,14,12
+"Iron, Fe",mg,0.72,0.61
+"Potassium, K",mg,381,324
+"Sodium, Na",mg,380,323
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.1,4.3
+"Vitamin A, IU",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.843,1.567
+"Fatty acids, total trans",g,0.147,0.125
+"Cholesterol",mg,0,0
+Amino Acids
+Other

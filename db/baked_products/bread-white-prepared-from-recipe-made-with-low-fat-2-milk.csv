@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:31 EST
+"Nutrient data for: 18073, Bread, white, prepared from recipe, made with low fat (2%) milk"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice = 42.0g","1 slice, thin (3-3/4"" x 5"" x 3/8"") = 33.0g",
+Proximates
+"Water",g,35.30,10.01,14.83,11.65
+"Energy",kcal,285,81,120,94
+"Protein",g,7.90,2.24,3.32,2.61
+"Total lipid (fat)",g,5.70,1.62,2.39,1.88
+"Carbohydrate, by difference",g,49.60,14.06,20.83,16.37
+"Fiber, total dietary",g,2.0,0.6,0.8,0.7
+Minerals
+"Calcium, Ca",mg,57,16,24,19
+"Iron, Fe",mg,2.97,0.84,1.25,0.98
+"Magnesium, Mg",mg,19,5,8,6
+"Phosphorus, P",mg,115,33,48,38
+"Potassium, K",mg,146,41,61,48
+"Sodium, Na",mg,359,102,151,118
+"Zinc, Zn",mg,0.64,0.18,0.27,0.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1,0.1,0.1
+"Thiamin",mg,0.405,0.115,0.170,0.134
+"Riboflavin",mg,0.383,0.109,0.161,0.126
+"Niacin",mg,3.588,1.017,1.507,1.184
+"Vitamin B-6",mg,0.051,0.014,0.021,0.017
+"Folate, DFE",µg,125,35,52,41
+"Vitamin B-12",µg,0.08,0.02,0.03,0.03
+"Vitamin A, RAE",µg,22,6,9,7
+"Vitamin A, IU",IU,79,22,33,26
+Lipids
+"Fatty acids, total saturated",g,1.178,0.334,0.495,0.389
+"Fatty acids, total monounsaturated",g,1.298,0.368,0.545,0.428
+"Fatty acids, total polyunsaturated",g,2.781,0.788,1.168,0.918
+"Cholesterol",mg,3,1,1,1
+Amino Acids
+Other

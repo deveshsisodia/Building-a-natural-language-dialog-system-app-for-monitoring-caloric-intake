@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:05 EST
+"Nutrient data for: 17221, Lamb, variety meats and by-products, tongue, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 unit, cooked (yield from 1 lb raw meat) = 255.0g",
+Proximates
+"Water",g,57.86,49.18,147.54
+"Energy",kcal,275,234,701
+"Protein",g,21.57,18.33,55.00
+"Total lipid (fat)",g,20.28,17.24,51.71
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,10,8,26
+"Iron, Fe",mg,2.63,2.24,6.71
+"Magnesium, Mg",mg,16,14,41
+"Phosphorus, P",mg,134,114,342
+"Potassium, K",mg,158,134,403
+"Sodium, Na",mg,67,57,171
+"Zinc, Zn",mg,2.99,2.54,7.62
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.0,6.0,17.9
+"Thiamin",mg,0.080,0.068,0.204
+"Riboflavin",mg,0.420,0.357,1.071
+"Niacin",mg,3.690,3.136,9.409
+"Vitamin B-6",mg,0.170,0.145,0.433
+"Folate, DFE",µg,3,3,8
+"Vitamin B-12",µg,6.30,5.36,16.07
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,7.830,6.655,19.966
+"Fatty acids, total monounsaturated",g,10.000,8.500,25.500
+"Fatty acids, total polyunsaturated",g,1.250,1.062,3.188
+"Cholesterol",mg,189,161,482
+Amino Acids
+Other

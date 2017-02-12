@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:56 EST
+"Nutrient data for: 19720, Syrups, table blends, pancake, with 2% maple, with added potassium"
+Nutrient,Unit,1Value per 100 g,"1 cup = 315.0g","1 tbsp = 20.0g",
+Proximates
+"Water",g,30.10,94.81,6.02
+"Energy",kcal,265,835,53
+"Protein",g,0.00,0.00,0.00
+"Total lipid (fat)",g,0.10,0.32,0.02
+"Carbohydrate, by difference",g,69.60,219.24,13.92
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,5,16,1
+"Iron, Fe",mg,0.07,0.22,0.01
+"Magnesium, Mg",mg,2,6,0
+"Phosphorus, P",mg,10,32,2
+"Potassium, K",mg,22,69,4
+"Sodium, Na",mg,61,192,12
+"Zinc, Zn",mg,0.23,0.72,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.005,0.016,0.001
+"Riboflavin",mg,0.017,0.054,0.003
+"Niacin",mg,0.020,0.063,0.004
+"Vitamin B-6",mg,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

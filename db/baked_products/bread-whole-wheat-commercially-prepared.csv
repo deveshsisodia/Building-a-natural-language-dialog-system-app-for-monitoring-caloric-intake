@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18075, Bread, whole-wheat, commercially prepared"
+Nutrient,Unit,1Value per 100 g,"1 slice = 32.0g","1 oz = 28.35g",
+Proximates
+"Water",g,39.01,12.48,11.06
+"Energy",kcal,252,81,71
+"Protein",g,12.45,3.98,3.53
+"Total lipid (fat)",g,3.50,1.12,0.99
+"Carbohydrate, by difference",g,42.71,13.67,12.11
+"Fiber, total dietary",g,6.0,1.9,1.7
+"Sugars, total",g,4.34,1.39,1.23
+Minerals
+"Calcium, Ca",mg,161,52,46
+"Iron, Fe",mg,2.47,0.79,0.70
+"Magnesium, Mg",mg,75,24,21
+"Phosphorus, P",mg,212,68,60
+"Potassium, K",mg,254,81,72
+"Sodium, Na",mg,455,146,129
+"Zinc, Zn",mg,1.77,0.57,0.50
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.394,0.126,0.112
+"Riboflavin",mg,0.167,0.053,0.047
+"Niacin",mg,4.438,1.420,1.258
+"Vitamin B-6",mg,0.215,0.069,0.061
+"Folate, DFE",µg,42,13,12
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,3,1,1
+"Vitamin E (alpha-tocopherol)",mg,2.66,0.85,0.75
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,7.8,2.5,2.2
+Lipids
+"Fatty acids, total saturated",g,0.722,0.231,0.205
+"Fatty acids, total monounsaturated",g,0.620,0.198,0.176
+"Fatty acids, total polyunsaturated",g,1.592,0.509,0.451
+"Fatty acids, total trans",g,0.020,0.006,0.006
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

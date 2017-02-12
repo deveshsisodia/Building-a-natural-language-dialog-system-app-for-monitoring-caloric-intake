@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:09 EST
+"Nutrient data for: 17132, Veal, shoulder, blade, separable lean only, cooked, braised"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) = 174.0g",
+Proximates
+"Water",g,59.24,50.35,103.08
+"Energy",kcal,198,168,345
+"Protein",g,32.66,27.76,56.83
+"Total lipid (fat)",g,6.48,5.51,11.28
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,40,34,70
+"Iron, Fe",mg,1.47,1.25,2.56
+"Magnesium, Mg",mg,28,24,49
+"Phosphorus, P",mg,252,214,438
+"Potassium, K",mg,305,259,531
+"Sodium, Na",mg,101,86,176
+"Zinc, Zn",mg,7.39,6.28,12.86
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.060,0.051,0.104
+"Riboflavin",mg,0.360,0.306,0.626
+"Niacin",mg,5.680,4.828,9.883
+"Vitamin B-6",mg,0.250,0.212,0.435
+"Folate, DFE",µg,15,13,26
+"Vitamin B-12",µg,2.01,1.71,3.50
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.45,0.38,0.78
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,6.8,5.8,11.8
+Lipids
+"Fatty acids, total saturated",g,1.810,1.538,3.149
+"Fatty acids, total monounsaturated",g,2.310,1.964,4.019
+"Fatty acids, total polyunsaturated",g,0.580,0.493,1.009
+"Cholesterol",mg,158,134,275
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

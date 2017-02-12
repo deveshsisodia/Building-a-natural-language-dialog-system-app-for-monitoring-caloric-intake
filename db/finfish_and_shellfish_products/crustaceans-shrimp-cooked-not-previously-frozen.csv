@@ -1,0 +1,28 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:55 EST
+"Nutrient data for: 15271, Crustaceans, shrimp, cooked (not previously frozen)"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,74.33,63.18
+"Energy",kcal,99,84
+"Protein",g,23.98,20.38
+"Total lipid (fat)",g,0.28,0.24
+"Carbohydrate, by difference",g,0.20,0.17
+Minerals
+"Calcium, Ca",mg,70,60
+"Iron, Fe",mg,0.51,0.43
+"Magnesium, Mg",mg,39,33
+"Phosphorus, P",mg,237,201
+"Potassium, K",mg,259,220
+"Sodium, Na",mg,111,94
+"Zinc, Zn",mg,1.64,1.39
+Vitamins
+Lipids
+"Fatty acids, total saturated",g,0.056,0.048
+"Fatty acids, total monounsaturated",g,0.048,0.041
+"Fatty acids, total polyunsaturated",g,0.079,0.067
+"Fatty acids, total trans",g,0.002,0.002
+"Cholesterol",mg,189,161
+Amino Acids
+Other

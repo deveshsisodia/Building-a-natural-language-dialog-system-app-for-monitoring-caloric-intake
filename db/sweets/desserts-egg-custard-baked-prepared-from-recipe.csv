@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:40 EST
+"Nutrient data for: 19168, Desserts, egg custard, baked, prepared-from-recipe"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 141.0g","1 recipe yield = 563.0g",
+Proximates
+"Water",g,78.86,111.19,443.98
+"Energy",kcal,104,147,586
+"Protein",g,5.02,7.08,28.26
+"Total lipid (fat)",g,4.58,6.46,25.79
+"Carbohydrate, by difference",g,11.00,15.51,61.93
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,11.00,15.51,61.93
+Minerals
+"Calcium, Ca",mg,107,151,602
+"Iron, Fe",mg,0.35,0.49,1.97
+"Magnesium, Mg",mg,11,16,62
+"Phosphorus, P",mg,113,159,636
+"Potassium, K",mg,148,209,833
+"Sodium, Na",mg,61,86,343
+"Zinc, Zn",mg,0.54,0.76,3.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.038,0.054,0.214
+"Riboflavin",mg,0.240,0.338,1.351
+"Niacin",mg,0.105,0.148,0.591
+"Vitamin B-6",mg,0.048,0.068,0.270
+"Folate, DFE",µg,10,14,56
+"Vitamin B-12",µg,0.39,0.55,2.20
+"Vitamin A, RAE",µg,49,69,276
+"Vitamin A, IU",IU,175,247,985
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.31,1.24
+"Vitamin K (phylloquinone)",µg,0.2,0.3,1.1
+Lipids
+"Fatty acids, total saturated",g,2.164,3.051,12.183
+"Fatty acids, total monounsaturated",g,1.379,1.944,7.764
+"Fatty acids, total polyunsaturated",g,0.410,0.578,2.308
+"Cholesterol",mg,84,118,473
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

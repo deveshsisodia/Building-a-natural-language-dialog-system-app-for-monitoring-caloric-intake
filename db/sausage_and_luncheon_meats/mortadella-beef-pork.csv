@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:16 EST
+"Nutrient data for: 07050, Mortadella, beef, pork"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice (15 per 8 oz package) = 15.0g",
+Proximates
+"Water",g,52.30,14.83,7.84
+"Energy",kcal,311,88,47
+"Protein",g,16.37,4.64,2.46
+"Total lipid (fat)",g,25.39,7.20,3.81
+"Carbohydrate, by difference",g,3.05,0.86,0.46
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,18,5,3
+"Iron, Fe",mg,1.40,0.40,0.21
+"Magnesium, Mg",mg,11,3,2
+"Phosphorus, P",mg,97,27,15
+"Potassium, K",mg,163,46,24
+"Sodium, Na",mg,1246,353,187
+"Zinc, Zn",mg,2.10,0.60,0.32
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.119,0.034,0.018
+"Riboflavin",mg,0.153,0.043,0.023
+"Niacin",mg,2.673,0.758,0.401
+"Vitamin B-6",mg,0.130,0.037,0.020
+"Folate, DFE",µg,3,1,0
+"Vitamin B-12",µg,1.48,0.42,0.22
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.06,0.03
+"Vitamin D (D2 + D3)",µg,1.0,0.3,0.1
+"Vitamin D",IU,41,12,6
+"Vitamin K (phylloquinone)",µg,1.6,0.5,0.2
+Lipids
+"Fatty acids, total saturated",g,9.510,2.696,1.427
+"Fatty acids, total monounsaturated",g,11.380,3.226,1.707
+"Fatty acids, total polyunsaturated",g,3.120,0.885,0.468
+"Cholesterol",mg,56,16,8
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

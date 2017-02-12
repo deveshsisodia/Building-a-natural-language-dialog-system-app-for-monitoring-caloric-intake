@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:13 EST
+"Nutrient data for: 13358, Beef, cured, smoked, chopped beef"
+Nutrient,Unit,1Value per 100 g,"1 slice (1 oz) = 28.0g",
+Proximates
+"Water",g,68.93,19.30
+"Energy",kcal,133,37
+"Protein",g,20.19,5.65
+"Total lipid (fat)",g,4.42,1.24
+"Carbohydrate, by difference",g,1.86,0.52
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,8,2
+"Iron, Fe",mg,2.85,0.80
+"Magnesium, Mg",mg,21,6
+"Phosphorus, P",mg,181,51
+"Potassium, K",mg,377,106
+"Sodium, Na",mg,1258,352
+"Zinc, Zn",mg,3.93,1.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.083,0.023
+"Riboflavin",mg,0.175,0.049
+"Niacin",mg,4.577,1.282
+"Vitamin B-6",mg,0.350,0.098
+"Folate, DFE",µg,8,2
+"Vitamin B-12",µg,1.73,0.48
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.810,0.507
+"Fatty acids, total monounsaturated",g,1.830,0.512
+"Fatty acids, total polyunsaturated",g,0.230,0.064
+"Cholesterol",mg,46,13
+Amino Acids
+Other

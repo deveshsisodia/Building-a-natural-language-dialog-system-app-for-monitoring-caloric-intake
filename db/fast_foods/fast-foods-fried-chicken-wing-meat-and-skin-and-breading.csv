@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:33 EST
+"Nutrient data for: 21472, Fast Foods, Fried Chicken, Wing, meat and skin and breading"
+Nutrient,Unit,1Value per 100 g,"1 wing, with skin = 58.0g","1 wing, without skin = 37.0g","1 wing, bone and skin removed = 20.0g",
+Proximates
+"Water",g,44.57,25.85,16.49,8.91
+"Energy",kcal,310,180,115,62
+"Protein",g,21.14,12.26,7.82,4.23
+"Total lipid (fat)",g,20.09,11.65,7.43,4.02
+"Carbohydrate, by difference",g,11.19,6.49,4.14,2.24
+"Fiber, total dietary",g,0.1,0.1,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,67,39,25,13
+"Iron, Fe",mg,1.04,0.60,0.38,0.21
+"Magnesium, Mg",mg,24,14,9,5
+"Phosphorus, P",mg,220,128,81,44
+"Potassium, K",mg,262,152,97,52
+"Sodium, Na",mg,867,503,321,173
+"Zinc, Zn",mg,1.33,0.77,0.49,0.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.092,0.053,0.034,0.018
+"Riboflavin",mg,0.243,0.141,0.090,0.049
+"Niacin",mg,6.452,3.742,2.387,1.290
+"Vitamin B-6",mg,0.194,0.113,0.072,0.039
+"Folate, DFE",µg,37,21,14,7
+"Vitamin B-12",µg,0.46,0.27,0.17,0.09
+"Vitamin A, RAE",µg,16,9,6,3
+"Vitamin A, IU",IU,53,31,20,11
+"Vitamin E (alpha-tocopherol)",mg,0.74,0.43,0.27,0.15
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.0,0.0
+"Vitamin D",IU,5,3,2,1
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,5.358,3.108,1.982,1.072
+"Fatty acids, total monounsaturated",g,9.753,5.657,3.609,1.951
+"Fatty acids, total polyunsaturated",g,3.354,1.945,1.241,0.671
+"Fatty acids, total trans",g,0.312,0.181,0.115,0.062
+"Cholesterol",mg,114,66,42,23
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

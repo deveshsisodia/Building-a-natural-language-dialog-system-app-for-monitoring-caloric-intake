@@ -1,0 +1,34 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:40 EST
+"Nutrient data for: 28263, KEEBLER, Grahams, Cinnamon Crisp"
+Nutrient,Unit,1Value per 100 g,"8.0 crackers = 30.0g",
+Proximates
+"Water",g,2.50,0.75
+"Energy",kcal,430,129
+"Protein",g,5.90,1.77
+"Total lipid (fat)",g,12.20,3.66
+"Carbohydrate, by difference",g,76.30,22.89
+"Fiber, total dietary",g,3.3,1.0
+"Sugars, total",g,26.90,8.07
+Minerals
+"Calcium, Ca",mg,381,114
+"Iron, Fe",mg,3.50,1.05
+"Magnesium, Mg",mg,12,4
+"Phosphorus, P",mg,110,33
+"Potassium, K",mg,133,40
+"Sodium, Na",mg,474,142
+"Zinc, Zn",mg,0.50,0.15
+Vitamins
+"Thiamin",mg,0.440,0.132
+"Riboflavin",mg,0.240,0.072
+"Niacin",mg,3.500,1.050
+"Vitamin B-6",mg,0.020,0.006
+Lipids
+"Fatty acids, total saturated",g,2.700,0.810
+"Fatty acids, total monounsaturated",g,2.900,0.870
+"Fatty acids, total polyunsaturated",g,5.700,1.710
+"Fatty acids, total trans",g,0.570,0.171
+"Cholesterol",mg,0,0
+Amino Acids
+Other

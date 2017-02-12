@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:29 EST
+"Nutrient data for: 18002, Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame), toasted"
+Nutrient,Unit,1Value per 100 g,"1 mini bagel (2-1/2"" dia) = 24.0g","1 small bagel (3"" dia) = 65.0g","1 medium bagel (3-1/2"" to 4"" dia) = 99.0g","1 large bagel (4-1/2"") = 123.0g","1 oz = 28.35g",
+Proximates
+"Water",g,28.27,6.78,18.38,27.99,34.77,8.01
+"Energy",kcal,287,69,187,284,353,81
+"Protein",g,11.14,2.67,7.24,11.03,13.70,3.16
+"Total lipid (fat)",g,1.43,0.34,0.93,1.42,1.76,0.41
+"Carbohydrate, by difference",g,57.39,13.77,37.30,56.82,70.59,16.27
+"Fiber, total dietary",g,1.8,0.4,1.2,1.8,2.2,0.5
+"Sugars, total",g,9.14,2.19,5.94,9.05,11.24,2.59
+Minerals
+"Calcium, Ca",mg,15,4,10,15,18,4
+"Iron, Fe",mg,4.50,1.08,2.92,4.46,5.54,1.28
+"Magnesium, Mg",mg,24,6,16,24,30,7
+"Phosphorus, P",mg,92,22,60,91,113,26
+"Potassium, K",mg,116,28,75,115,143,33
+"Sodium, Na",mg,457,110,297,452,562,130
+"Zinc, Zn",mg,1.30,0.31,0.84,1.29,1.60,0.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.602,0.144,0.391,0.596,0.740,0.171
+"Riboflavin",mg,0.270,0.065,0.176,0.267,0.332,0.077
+"Niacin",mg,4.375,1.050,2.844,4.331,5.381,1.240
+"Vitamin B-6",mg,0.070,0.017,0.046,0.069,0.086,0.020
+"Folate, DFE",µg,203,49,132,201,250,58
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.03,0.08,0.12,0.15,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,1.0,0.2,0.7,1.0,1.2,0.3
+Lipids
+"Fatty acids, total saturated",g,0.229,0.055,0.149,0.227,0.282,0.065
+"Fatty acids, total monounsaturated",g,0.245,0.059,0.159,0.243,0.301,0.069
+"Fatty acids, total polyunsaturated",g,0.554,0.133,0.360,0.548,0.681,0.157
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

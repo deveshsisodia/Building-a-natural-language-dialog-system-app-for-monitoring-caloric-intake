@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:34 EST
+"Nutrient data for: 05135, Chicken, capons, meat and skin, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 unit (yield from 1 lb ready-to cook capon) = 297.0g","0.5 capon, bone removed = 964.0g",
+Proximates
+"Water",g,63.24,53.75,187.82,609.63
+"Energy",kcal,234,199,695,2256
+"Protein",g,18.77,15.95,55.75,180.94
+"Total lipid (fat)",g,17.07,14.51,50.70,164.55
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,11,9,33,106
+"Iron, Fe",mg,1.09,0.93,3.24,10.51
+"Magnesium, Mg",mg,21,18,62,202
+"Phosphorus, P",mg,183,156,544,1764
+"Potassium, K",mg,217,184,644,2092
+"Sodium, Na",mg,45,38,134,434
+"Zinc, Zn",mg,1.17,0.99,3.47,11.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.7,1.4,5.0,16.4
+"Thiamin",mg,0.064,0.054,0.190,0.617
+"Riboflavin",mg,0.127,0.108,0.377,1.224
+"Niacin",mg,7.273,6.182,21.601,70.112
+"Vitamin B-6",mg,0.360,0.306,1.069,3.470
+"Folate, DFE",µg,6,5,18,58
+"Vitamin B-12",µg,0.34,0.29,1.01,3.28
+"Vitamin A, RAE",µg,37,31,110,357
+"Vitamin A, IU",IU,129,110,383,1244
+"Vitamin E (alpha-tocopherol)",mg,0.32,0.27,0.95,3.08
+"Vitamin K (phylloquinone)",µg,2.4,2.0,7.1,23.1
+Lipids
+"Fatty acids, total saturated",g,4.950,4.207,14.702,47.718
+"Fatty acids, total monounsaturated",g,7.310,6.213,21.711,70.468
+"Fatty acids, total polyunsaturated",g,3.620,3.077,10.751,34.897
+"Cholesterol",mg,75,64,223,723
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

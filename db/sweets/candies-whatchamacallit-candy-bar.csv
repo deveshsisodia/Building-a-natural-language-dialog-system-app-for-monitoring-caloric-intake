@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:39 EST
+"Nutrient data for: 19162, Candies, WHATCHAMACALLIT Candy Bar"
+Nutrient,Unit,1Value per 100 g,"1 bar 1.7 oz = 48.0g",
+Proximates
+"Water",g,3.04,1.46
+"Energy",kcal,494,237
+"Protein",g,8.04,3.86
+"Total lipid (fat)",g,23.68,11.37
+"Carbohydrate, by difference",g,63.23,30.35
+"Fiber, total dietary",g,1.9,0.9
+"Sugars, total",g,48.86,23.45
+Minerals
+"Calcium, Ca",mg,118,57
+"Iron, Fe",mg,1.13,0.54
+"Magnesium, Mg",mg,28,13
+"Phosphorus, P",mg,138,66
+"Potassium, K",mg,303,145
+"Sodium, Na",mg,299,144
+"Zinc, Zn",mg,0.43,0.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.9,0.4
+"Thiamin",mg,0.110,0.053
+"Riboflavin",mg,0.210,0.101
+"Niacin",mg,2.470,1.186
+"Vitamin B-6",mg,0.040,0.019
+"Folate, DFE",µg,18,9
+"Vitamin B-12",µg,0.37,0.18
+"Vitamin A, RAE",µg,38,18
+"Vitamin A, IU",IU,134,64
+"Vitamin E (alpha-tocopherol)",mg,1.27,0.61
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,4.3,2.1
+Lipids
+"Fatty acids, total saturated",g,17.040,8.179
+"Fatty acids, total monounsaturated",g,3.780,1.814
+"Fatty acids, total polyunsaturated",g,0.830,0.398
+"Fatty acids, total trans",g,0.120,0.058
+"Cholesterol",mg,12,6
+Amino Acids
+Other
+"Caffeine",mg,10,5

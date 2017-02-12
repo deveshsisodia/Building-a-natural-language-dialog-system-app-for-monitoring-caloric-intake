@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:41 EST
+"Nutrient data for: 03167, Babyfood, apple-banana juice"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 31.2g","1 bottle Earth's Best (4.2 fl oz) = 131.0g","1 bottle Heinz Strained (4 fl oz) = 125.0g","1 bottle NFS = 125.0g","1 bottle Beech-Nut Stage 2 (4 fl oz) = 125.0g","1 bottle Gerber Second Foods (4 fl oz) = 125.0g",
+Proximates
+"Water",g,87.10,27.18,114.10,108.88,108.88,108.88,108.88
+"Energy",kcal,51,16,67,64,64,64,64
+"Protein",g,0.20,0.06,0.26,0.25,0.25,0.25,0.25
+"Total lipid (fat)",g,0.10,0.03,0.13,0.12,0.12,0.12,0.12
+"Carbohydrate, by difference",g,12.30,3.84,16.11,15.38,15.38,15.38,15.38
+"Fiber, total dietary",g,0.2,0.1,0.3,0.2,0.2,0.2,0.2
+"Sugars, total",g,11.00,3.43,14.41,13.75,13.75,13.75,13.75
+Minerals
+"Calcium, Ca",mg,7,2,9,9,9,9,9
+"Iron, Fe",mg,0.20,0.06,0.26,0.25,0.25,0.25,0.25
+"Magnesium, Mg",mg,6,2,8,8,8,8,8
+"Phosphorus, P",mg,8,2,10,10,10,10,10
+"Potassium, K",mg,123,38,161,154,154,154,154
+"Sodium, Na",mg,4,1,5,5,5,5,5
+"Zinc, Zn",mg,0.04,0.01,0.05,0.05,0.05,0.05,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,27.9,8.7,36.5,34.9,34.9,34.9,34.9
+"Thiamin",mg,0.010,0.003,0.013,0.013,0.013,0.013,0.013
+"Riboflavin",mg,0.010,0.003,0.013,0.013,0.013,0.013,0.013
+"Niacin",mg,0.140,0.044,0.183,0.175,0.175,0.175,0.175
+"Vitamin B-6",mg,0.060,0.019,0.079,0.075,0.075,0.075,0.075
+"Folate, DFE",µg,1,0,1,1,1,1,1
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0,0
+"Vitamin A, IU",IU,9,3,12,11,11,11,11
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.01,0.03,0.03,0.03,0.03,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.018,0.006,0.024,0.022,0.022,0.022,0.022
+"Fatty acids, total monounsaturated",g,0.004,0.001,0.005,0.005,0.005,0.005,0.005
+"Fatty acids, total polyunsaturated",g,0.034,0.011,0.045,0.043,0.043,0.043,0.043
+"Cholesterol",mg,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

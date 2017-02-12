@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:13 EST
+"Nutrient data for: 20090, Rice flour, brown"
+Nutrient,Unit,1Value per 100 g,"1 cup = 158.0g",
+Proximates
+"Water",g,11.97,18.91
+"Energy",kcal,363,574
+"Protein",g,7.23,11.42
+"Total lipid (fat)",g,2.78,4.39
+"Carbohydrate, by difference",g,76.48,120.84
+"Fiber, total dietary",g,4.6,7.3
+"Sugars, total",g,0.66,1.04
+Minerals
+"Calcium, Ca",mg,11,17
+"Iron, Fe",mg,1.98,3.13
+"Magnesium, Mg",mg,112,177
+"Phosphorus, P",mg,337,532
+"Potassium, K",mg,289,457
+"Sodium, Na",mg,8,13
+"Zinc, Zn",mg,2.45,3.87
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.443,0.700
+"Riboflavin",mg,0.080,0.126
+"Niacin",mg,6.340,10.017
+"Vitamin B-6",mg,0.736,1.163
+"Folate, DFE",µg,16,25
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.60,0.95
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.557,0.880
+"Fatty acids, total monounsaturated",g,1.008,1.593
+"Fatty acids, total polyunsaturated",g,0.996,1.574
+"Cholesterol",mg,0,0
+Amino Acids
+Other

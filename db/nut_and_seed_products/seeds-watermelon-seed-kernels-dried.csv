@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:10 EST
+"Nutrient data for: 12174, Seeds, watermelon seed kernels, dried"
+Nutrient,Unit,1Value per 100 g,"1 cup = 108.0g","1 oz = 28.35g",
+Proximates
+"Water",g,5.05,5.45,1.43
+"Energy",kcal,557,602,158
+"Protein",g,28.33,30.60,8.03
+"Total lipid (fat)",g,47.37,51.16,13.43
+"Carbohydrate, by difference",g,15.31,16.53,4.34
+Minerals
+"Calcium, Ca",mg,54,58,15
+"Iron, Fe",mg,7.28,7.86,2.06
+"Magnesium, Mg",mg,515,556,146
+"Phosphorus, P",mg,755,815,214
+"Potassium, K",mg,648,700,184
+"Sodium, Na",mg,99,107,28
+"Zinc, Zn",mg,10.24,11.06,2.90
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.190,0.205,0.054
+"Riboflavin",mg,0.145,0.157,0.041
+"Niacin",mg,3.550,3.834,1.006
+"Vitamin B-6",mg,0.089,0.096,0.025
+"Folate, DFE",µg,58,63,16
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,9.779,10.561,2.772
+"Fatty acids, total monounsaturated",g,7.407,8.000,2.100
+"Fatty acids, total polyunsaturated",g,28.094,30.342,7.965
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

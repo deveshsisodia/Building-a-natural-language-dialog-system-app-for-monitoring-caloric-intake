@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:27 EST
+"Nutrient data for: 05075, Chicken, broilers or fryers, leg, meat and skin, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 leg, with skin (Sum of drumstick+thigh+back) = 344.0g","1 drumstick with skin = 111.0g","1 thigh with skin = 185.0g","1 back with skin = 49.0g",
+Proximates
+"Water",g,67.30,57.20,231.51,74.70,124.50,32.98
+"Energy",kcal,214,182,736,238,396,105
+"Protein",g,16.37,13.91,56.31,18.17,30.28,8.02
+"Total lipid (fat)",g,15.95,13.56,54.87,17.70,29.51,7.82
+"Carbohydrate, by difference",g,0.17,0.14,0.58,0.19,0.31,0.08
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,9,8,31,10,17,4
+"Iron, Fe",mg,0.69,0.59,2.37,0.77,1.28,0.34
+"Magnesium, Mg",mg,19,16,65,21,35,9
+"Phosphorus, P",mg,155,132,533,172,287,76
+"Potassium, K",mg,203,173,698,225,376,99
+"Sodium, Na",mg,84,71,289,93,155,41
+"Zinc, Zn",mg,1.47,1.25,5.06,1.63,2.72,0.72
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.2,0.7,0.2,0.4,0.1
+"Thiamin",mg,0.073,0.062,0.251,0.081,0.135,0.036
+"Riboflavin",mg,0.141,0.120,0.485,0.157,0.261,0.069
+"Niacin",mg,4.733,4.023,16.282,5.254,8.756,2.319
+"Vitamin B-6",mg,0.318,0.270,1.094,0.353,0.588,0.156
+"Folate, DFE",µg,4,3,14,4,7,2
+"Vitamin B-12",µg,0.56,0.48,1.93,0.62,1.04,0.27
+"Vitamin A, RAE",µg,28,24,96,31,52,14
+"Vitamin A, IU",IU,92,78,316,102,170,45
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.19,0.76,0.24,0.41,0.11
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.3,0.1,0.2,0.0
+"Vitamin D",IU,2,2,7,2,4,1
+"Vitamin K (phylloquinone)",µg,2.3,2.0,7.9,2.6,4.3,1.1
+Lipids
+"Fatty acids, total saturated",g,4.366,3.711,15.019,4.846,8.077,2.139
+"Fatty acids, total monounsaturated",g,6.619,5.626,22.769,7.347,12.245,3.243
+"Fatty acids, total polyunsaturated",g,3.352,2.849,11.531,3.721,6.201,1.642
+"Fatty acids, total trans",g,0.060,0.051,0.206,0.067,0.111,0.029
+"Cholesterol",mg,93,79,320,103,172,46
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

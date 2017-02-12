@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:07 EST
+"Nutrient data for: 15174, Mollusks, scallop, mixed species, imitation, made from surimi"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,73.82,62.75
+"Energy",kcal,99,84
+"Protein",g,12.77,10.85
+"Total lipid (fat)",g,0.41,0.35
+"Carbohydrate, by difference",g,10.62,9.03
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,8,7
+"Iron, Fe",mg,0.31,0.26
+"Magnesium, Mg",mg,43,37
+"Phosphorus, P",mg,282,240
+"Potassium, K",mg,103,88
+"Sodium, Na",mg,795,676
+"Zinc, Zn",mg,0.33,0.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.010,0.009
+"Riboflavin",mg,0.016,0.014
+"Niacin",mg,0.310,0.264
+"Vitamin B-6",mg,0.030,0.025
+"Folate, DFE",µg,2,2
+"Vitamin B-12",µg,1.60,1.36
+"Vitamin A, RAE",µg,20,17
+"Vitamin A, IU",IU,66,56
+Lipids
+"Fatty acids, total saturated",g,0.080,0.068
+"Fatty acids, total monounsaturated",g,0.060,0.051
+"Fatty acids, total polyunsaturated",g,0.210,0.178
+"Cholesterol",mg,22,19
+Amino Acids
+Other

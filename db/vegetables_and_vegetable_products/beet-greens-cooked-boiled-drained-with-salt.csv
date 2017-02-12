@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:16 EST
+"Nutrient data for: 11736, Beet greens, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup (1"" pieces) = 144.0g",
+Proximates
+"Water",g,89.13,128.35
+"Energy",kcal,27,39
+"Protein",g,2.57,3.70
+"Total lipid (fat)",g,0.20,0.29
+"Carbohydrate, by difference",g,5.46,7.86
+"Fiber, total dietary",g,2.9,4.2
+"Sugars, total",g,0.60,0.86
+Minerals
+"Calcium, Ca",mg,114,164
+"Iron, Fe",mg,1.90,2.74
+"Magnesium, Mg",mg,68,98
+"Phosphorus, P",mg,41,59
+"Potassium, K",mg,909,1309
+"Sodium, Na",mg,477,687
+"Zinc, Zn",mg,0.50,0.72
+Vitamins
+"Vitamin C, total ascorbic acid",mg,24.9,35.9
+"Thiamin",mg,0.117,0.168
+"Riboflavin",mg,0.289,0.416
+"Niacin",mg,0.499,0.719
+"Vitamin B-6",mg,0.132,0.190
+"Folate, DFE",µg,14,20
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,383,552
+"Vitamin A, IU",IU,7654,11022
+"Vitamin E (alpha-tocopherol)",mg,1.81,2.61
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,484.0,697.0
+Lipids
+"Fatty acids, total saturated",g,0.031,0.045
+"Fatty acids, total monounsaturated",g,0.038,0.055
+"Fatty acids, total polyunsaturated",g,0.070,0.101
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

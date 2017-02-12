@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:14 EST
+"Nutrient data for: 20453, Rice, white, short-grain, cooked, unenriched"
+Nutrient,Unit,1Value per 100 g,"1 cup = 205.0g",
+Proximates
+"Water",g,68.53,140.49
+"Energy",kcal,130,266
+"Protein",g,2.36,4.84
+"Total lipid (fat)",g,0.19,0.39
+"Carbohydrate, by difference",g,28.73,58.90
+Minerals
+"Calcium, Ca",mg,1,2
+"Iron, Fe",mg,0.20,0.41
+"Magnesium, Mg",mg,8,16
+"Phosphorus, P",mg,33,68
+"Potassium, K",mg,26,53
+"Sodium, Na",mg,0,0
+"Zinc, Zn",mg,0.40,0.82
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.020,0.041
+"Riboflavin",mg,0.016,0.033
+"Niacin",mg,0.400,0.820
+"Vitamin B-6",mg,0.059,0.121
+"Folate, DFE",µg,2,4
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.051,0.105
+"Fatty acids, total monounsaturated",g,0.058,0.119
+"Fatty acids, total polyunsaturated",g,0.050,0.102
+"Cholesterol",mg,0,0
+Amino Acids
+Other

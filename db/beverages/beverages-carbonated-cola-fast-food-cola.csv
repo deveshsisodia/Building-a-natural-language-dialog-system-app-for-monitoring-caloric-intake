@@ -1,0 +1,47 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:19 EST
+"Nutrient data for: 14400, Beverages, carbonated, cola, fast-food cola"
+Nutrient,Unit,1Value per 100 g,"1 serving child 12 fl oz, without ice = 258.0g","1 serving small 16 fl oz, without ice = 347.0g","1 serving medium 21 fl oz,  without ice = 486.0g","1 serving large 32 fl oz,  without ice = 722.0g",
+Proximates
+"Water",g,90.31,233.00,313.38,438.91,652.04
+"Energy",kcal,37,95,128,180,267
+"Protein",g,0.07,0.18,0.24,0.34,0.51
+"Total lipid (fat)",g,0.02,0.05,0.07,0.10,0.14
+"Carbohydrate, by difference",g,9.56,24.66,33.17,46.46,69.02
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,8.97,23.14,31.13,43.59,64.76
+Minerals
+"Calcium, Ca",mg,2,5,7,10,14
+"Iron, Fe",mg,0.11,0.28,0.38,0.53,0.79
+"Magnesium, Mg",mg,0,0,0,0,0
+"Phosphorus, P",mg,10,26,35,49,72
+"Potassium, K",mg,2,5,7,10,14
+"Sodium, Na",mg,4,10,14,19,29
+"Zinc, Zn",mg,0.02,0.05,0.07,0.10,0.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.000,0.000,0.000,0.000,0.000
+"Riboflavin",mg,0.000,0.000,0.000,0.000,0.000
+"Niacin",mg,0.000,0.000,0.000,0.000,0.000
+"Vitamin B-6",mg,0.000,0.000,0.000,0.000,0.000
+"Folate, DFE",µg,0,0,0,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,8,21,28,39,58
+Footnotes
+(b)"Retail products have higher values than fast food products."
+(a)"Includes retail and fast food. Weights of drinks vary because bottles and cans are filled to the brim but cups in fast food restaurants are not. For cups, weights are weight of the drink without ice."

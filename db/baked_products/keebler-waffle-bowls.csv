@@ -1,0 +1,34 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:40 EST
+"Nutrient data for: 28155, KEEBLER, Waffle Bowls"
+Nutrient,Unit,1Value per 100 g,"1 waffle = 12.0g",
+Proximates
+"Water",g,2.00,0.24
+"Energy",kcal,424,51
+"Protein",g,6.50,0.78
+"Total lipid (fat)",g,5.30,0.64
+"Carbohydrate, by difference",g,87.70,10.52
+"Fiber, total dietary",g,1.8,0.2
+"Sugars, total",g,31.60,3.79
+Minerals
+"Iron, Fe",mg,3.00,0.36
+"Magnesium, Mg",mg,15,2
+"Phosphorus, P",mg,80,10
+"Potassium, K",mg,100,12
+"Sodium, Na",mg,149,18
+"Zinc, Zn",mg,0.70,0.08
+Vitamins
+"Thiamin",mg,0.540,0.065
+"Riboflavin",mg,0.330,0.040
+"Niacin",mg,4.340,0.521
+"Vitamin B-6",mg,0.030,0.004
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin E (alpha-tocopherol)",mg,0.05,0.01
+Lipids
+"Fatty acids, total saturated",g,0.860,0.103
+"Fatty acids, total monounsaturated",g,1.860,0.223
+"Fatty acids, total polyunsaturated",g,1.350,0.162
+"Fatty acids, total trans",g,0.920,0.110
+Amino Acids
+Other

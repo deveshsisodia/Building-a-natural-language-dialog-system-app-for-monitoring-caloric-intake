@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:45 EST
+"Nutrient data for: 03162, Babyfood, fruit, papaya and applesauce with tapioca, strained"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 jar = 113.0g",
+Proximates
+"Water",g,80.60,22.85,91.08
+"Energy",kcal,70,20,79
+"Protein",g,0.20,0.06,0.23
+"Total lipid (fat)",g,0.10,0.03,0.11
+"Carbohydrate, by difference",g,18.90,5.36,21.36
+"Fiber, total dietary",g,1.4,0.4,1.6
+Minerals
+"Calcium, Ca",mg,7,2,8
+"Iron, Fe",mg,0.44,0.12,0.50
+"Magnesium, Mg",mg,5,1,6
+"Phosphorus, P",mg,5,1,6
+"Potassium, K",mg,79,22,89
+"Sodium, Na",mg,5,1,6
+"Zinc, Zn",mg,0.03,0.01,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,113.1,32.1,127.8
+"Thiamin",mg,0.010,0.003,0.011
+"Riboflavin",mg,0.028,0.008,0.032
+"Niacin",mg,0.108,0.031,0.122
+"Vitamin B-6",mg,0.023,0.007,0.026
+"Folate, DFE",µg,2,1,2
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,4,1,5
+"Vitamin A, IU",IU,76,22,86
+Lipids
+Amino Acids
+Other

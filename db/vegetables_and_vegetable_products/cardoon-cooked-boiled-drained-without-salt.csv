@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:18 EST
+"Nutrient data for: 11123, Cardoon, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,93.46,
+"Energy",kcal,22,
+"Protein",g,0.76,
+"Total lipid (fat)",g,0.11,
+"Carbohydrate, by difference",g,5.33,
+"Fiber, total dietary",g,1.7,
+Minerals
+"Calcium, Ca",mg,72,
+"Iron, Fe",mg,0.73,
+"Magnesium, Mg",mg,43,
+"Phosphorus, P",mg,23,
+"Potassium, K",mg,392,
+"Sodium, Na",mg,176,
+"Zinc, Zn",mg,0.18,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.7,
+"Thiamin",mg,0.018,
+"Riboflavin",mg,0.031,
+"Niacin",mg,0.294,
+"Vitamin B-6",mg,0.042,
+"Folate, DFE",µg,22,
+"Vitamin B-12",µg,0.00,
+"Vitamin A, RAE",µg,6,
+"Vitamin A, IU",IU,118,
+"Vitamin D (D2 + D3)",µg,0.0,
+"Vitamin D",IU,0,
+Lipids
+"Fatty acids, total saturated",g,0.012,
+"Fatty acids, total monounsaturated",g,0.020,
+"Fatty acids, total polyunsaturated",g,0.044,
+"Fatty acids, total trans",g,0.000,
+"Cholesterol",mg,0,
+Amino Acids
+Other

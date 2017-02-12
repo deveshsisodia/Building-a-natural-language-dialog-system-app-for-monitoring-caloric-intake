@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:31 EST
+"Nutrient data for: 11516, Sweet potato, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 cup, cubes = 176.0g",
+Proximates
+"Water",g,74.89,131.81
+"Energy",kcal,96,169
+"Protein",g,1.71,3.01
+"Total lipid (fat)",g,0.18,0.32
+"Carbohydrate, by difference",g,22.22,39.11
+"Fiber, total dietary",g,1.7,3.0
+Minerals
+"Calcium, Ca",mg,37,65
+"Iron, Fe",mg,0.53,0.93
+"Magnesium, Mg",mg,22,39
+"Phosphorus, P",mg,45,79
+"Potassium, K",mg,365,642
+"Sodium, Na",mg,6,11
+"Zinc, Zn",mg,0.31,0.55
+Vitamins
+"Vitamin C, total ascorbic acid",mg,13.3,23.4
+"Thiamin",mg,0.067,0.118
+"Riboflavin",mg,0.051,0.090
+"Niacin",mg,0.597,1.051
+"Vitamin B-6",mg,0.177,0.312
+"Folate, DFE",µg,21,37
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,518,912
+"Vitamin A, IU",IU,10367,18246
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.039,0.069
+"Fatty acids, total monounsaturated",g,0.007,0.012
+"Fatty acids, total polyunsaturated",g,0.080,0.141
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

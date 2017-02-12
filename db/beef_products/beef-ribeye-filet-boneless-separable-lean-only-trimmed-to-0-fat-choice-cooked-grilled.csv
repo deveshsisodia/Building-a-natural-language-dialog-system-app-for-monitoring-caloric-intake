@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:46 EST
+"Nutrient data for: 23273, Beef, ribeye filet, boneless, separable lean only, trimmed to 0"" fat, choice, cooked, grilled"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 138.0g",
+Proximates
+"Water",g,59.75,82.45
+"Energy",kcal,208,287
+"Protein",g,28.35,39.12
+"Total lipid (fat)",g,10.26,14.16
+"Carbohydrate, by difference",g,0.51,0.70
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,6,8
+"Iron, Fe",mg,2.76,3.81
+"Magnesium, Mg",mg,28,39
+"Phosphorus, P",mg,261,360
+"Potassium, K",mg,409,564
+"Sodium, Na",mg,56,77
+"Zinc, Zn",mg,7.19,9.92
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.057,0.079
+"Riboflavin",mg,0.225,0.310
+"Niacin",mg,5.732,7.910
+"Vitamin B-6",mg,0.543,0.749
+"Folate, DFE",µg,7,10
+"Vitamin B-12",µg,3.15,4.35
+"Vitamin A, RAE",µg,1,1
+"Vitamin A, IU",IU,5,7
+"Vitamin D (D2 + D3)",µg,0.1,0.1
+"Vitamin D",IU,5,7
+"Vitamin K (phylloquinone)",µg,1.6,2.2
+Lipids
+"Fatty acids, total saturated",g,3.616,4.990
+"Fatty acids, total monounsaturated",g,4.463,6.159
+"Fatty acids, total polyunsaturated",g,0.407,0.562
+"Fatty acids, total trans",g,0.466,0.643
+"Cholesterol",mg,82,113
+Amino Acids
+Other
+"Caffeine",mg,0,0

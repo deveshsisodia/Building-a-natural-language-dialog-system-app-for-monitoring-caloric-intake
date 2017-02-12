@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:42 EST
+"Nutrient data for: 28195, MOTHER'S, Chocolate Chip Cookies"
+Nutrient,Unit,1Value per 100 g,"4.0 cookies = 30.0g",
+Proximates
+"Water",g,3.10,0.93
+"Energy",kcal,490,147
+"Protein",g,5.70,1.71
+"Total lipid (fat)",g,22.00,6.60
+"Carbohydrate, by difference",g,67.60,20.28
+"Fiber, total dietary",g,1.7,0.5
+"Sugars, total",g,32.90,9.87
+Minerals
+"Iron, Fe",mg,2.70,0.81
+"Magnesium, Mg",mg,8,2
+"Phosphorus, P",mg,42,13
+"Potassium, K",mg,122,37
+"Sodium, Na",mg,527,158
+"Zinc, Zn",mg,0.30,0.09
+Vitamins
+"Thiamin",mg,0.300,0.090
+"Riboflavin",mg,0.220,0.066
+"Niacin",mg,2.500,0.750
+"Vitamin B-6",mg,0.010,0.003
+Lipids
+"Fatty acids, total saturated",g,8.100,2.430
+"Fatty acids, total monounsaturated",g,5.200,1.560
+"Fatty acids, total polyunsaturated",g,6.800,2.040
+"Fatty acids, total trans",g,0.270,0.081
+"Cholesterol",mg,34,10
+Amino Acids
+Other

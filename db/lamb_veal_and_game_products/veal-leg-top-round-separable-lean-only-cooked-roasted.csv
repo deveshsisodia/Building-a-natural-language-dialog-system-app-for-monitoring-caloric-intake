@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:07 EST
+"Nutrient data for: 17103, Veal, leg (top round), separable lean only, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) = 351.0g",
+Proximates
+"Water",g,67.01,56.96,235.21
+"Energy",kcal,150,128,526
+"Protein",g,28.07,23.86,98.53
+"Total lipid (fat)",g,3.39,2.88,11.90
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,6,5,21
+"Iron, Fe",mg,0.90,0.77,3.16
+"Magnesium, Mg",mg,28,24,98
+"Phosphorus, P",mg,236,201,828
+"Potassium, K",mg,393,334,1379
+"Sodium, Na",mg,68,58,239
+"Zinc, Zn",mg,3.08,2.62,10.81
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.060,0.051,0.211
+"Riboflavin",mg,0.330,0.281,1.158
+"Niacin",mg,10.080,8.568,35.381
+"Vitamin B-6",mg,0.310,0.264,1.088
+"Folate, DFE",µg,16,14,56
+"Vitamin B-12",µg,1.18,1.00,4.14
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.55,0.47,1.93
+Lipids
+"Fatty acids, total saturated",g,1.220,1.037,4.282
+"Fatty acids, total monounsaturated",g,1.190,1.011,4.177
+"Fatty acids, total polyunsaturated",g,0.290,0.246,1.018
+"Cholesterol",mg,103,88,362
+Amino Acids
+Other

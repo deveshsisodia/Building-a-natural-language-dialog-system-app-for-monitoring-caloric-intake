@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:38 EST
+"Nutrient data for: 05286, Turkey and gravy, frozen"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 package (net weight, 5 oz) = 142.0g",
+Proximates
+"Water",g,85.07,72.31,120.80
+"Energy",kcal,67,57,95
+"Protein",g,5.88,5.00,8.35
+"Total lipid (fat)",g,2.63,2.24,3.73
+"Carbohydrate, by difference",g,4.61,3.92,6.55
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,14,12,20
+"Iron, Fe",mg,0.93,0.79,1.32
+"Magnesium, Mg",mg,8,7,11
+"Phosphorus, P",mg,81,69,115
+"Potassium, K",mg,61,52,87
+"Sodium, Na",mg,554,471,787
+"Zinc, Zn",mg,0.70,0.59,0.99
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.024,0.020,0.034
+"Riboflavin",mg,0.127,0.108,0.180
+"Niacin",mg,1.799,1.529,2.555
+"Vitamin B-6",mg,0.100,0.085,0.142
+"Folate, DFE",µg,4,3,6
+"Vitamin B-12",µg,0.24,0.20,0.34
+"Vitamin A, RAE",µg,13,11,18
+"Vitamin A, IU",IU,42,36,60
+Lipids
+"Fatty acids, total saturated",g,0.850,0.723,1.207
+"Fatty acids, total monounsaturated",g,0.970,0.825,1.377
+"Fatty acids, total polyunsaturated",g,0.470,0.399,0.667
+"Cholesterol",mg,18,15,26
+Amino Acids
+Other

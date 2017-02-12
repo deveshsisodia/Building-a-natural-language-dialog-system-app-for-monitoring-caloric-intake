@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:25 EST
+"Nutrient data for: 14347, Shake, fast food, vanilla"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 20.8g","1 cup (8 fl oz) = 166.0g","1 milkshake (10 fl oz) = 208.0g","1 small McDonald's shake (12 fl oz) = 250.0g","1 medium McDonald's shake (16 fl oz) = 333.0g","1 large McDonald's shake (22 fl oz) = 458.0g",
+Proximates
+"Water",g,69.65,14.49,115.62,144.87,174.12,231.93,319.00
+"Energy",kcal,148,31,246,308,370,493,678
+"Protein",g,3.37,0.70,5.59,7.01,8.43,11.22,15.43
+"Total lipid (fat)",g,6.52,1.36,10.82,13.56,16.30,21.71,29.86
+"Carbohydrate, by difference",g,19.59,4.07,32.52,40.75,48.98,65.23,89.72
+"Fiber, total dietary",g,0.9,0.2,1.5,1.9,2.2,3.0,4.1
+"Sugars, total",g,13.63,2.84,22.63,28.35,34.08,45.39,62.43
+Minerals
+"Calcium, Ca",mg,115,24,191,239,288,383,527
+"Iron, Fe",mg,0.46,0.10,0.76,0.96,1.15,1.53,2.11
+"Magnesium, Mg",mg,13,3,22,27,32,43,60
+"Phosphorus, P",mg,98,20,163,204,245,326,449
+"Potassium, K",mg,166,35,276,345,415,553,760
+"Sodium, Na",mg,81,17,134,168,202,270,371
+"Zinc, Zn",mg,0.57,0.12,0.95,1.19,1.43,1.90,2.61
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.026,0.005,0.043,0.054,0.065,0.087,0.119
+"Riboflavin",mg,0.660,0.137,1.096,1.373,1.650,2.198,3.023
+"Niacin",mg,0.213,0.044,0.354,0.443,0.532,0.709,0.976
+"Vitamin B-6",mg,0.060,0.012,0.100,0.125,0.150,0.200,0.275
+"Folate, DFE",µg,0,0,0,0,0,0,0
+"Vitamin B-12",µg,0.22,0.05,0.37,0.46,0.55,0.73,1.01
+"Vitamin A, RAE",µg,91,19,151,189,228,303,417
+"Vitamin A, IU",IU,304,63,505,632,760,1012,1392
+"Vitamin E (alpha-tocopherol)",mg,0.25,0.05,0.41,0.52,0.62,0.83,1.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.4,0.1,0.7,0.8,1.0,1.3,1.8
+Lipids
+"Fatty acids, total saturated",g,3.962,0.824,6.577,8.241,9.905,13.193,18.146
+"Fatty acids, total monounsaturated",g,1.785,0.371,2.963,3.713,4.463,5.944,8.175
+"Fatty acids, total polyunsaturated",g,0.316,0.066,0.525,0.657,0.790,1.052,1.447
+"Cholesterol",mg,23,5,38,48,58,77,105
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

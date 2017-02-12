@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:29 EST
+"Nutrient data for: 35187, Tennis Bread, plain (Apache)"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,33.77,
+"Energy",kcal,258,
+"Protein",g,9.00,
+"Total lipid (fat)",g,1.05,
+"Carbohydrate, by difference",g,53.26,
+"Fiber, total dietary",g,2.6,
+"Sugars, total",g,3.01,
+Minerals
+"Calcium, Ca",mg,67,
+"Iron, Fe",mg,3.40,
+"Magnesium, Mg",mg,28,
+"Phosphorus, P",mg,160,
+"Potassium, K",mg,100,
+"Sodium, Na",mg,810,
+"Zinc, Zn",mg,0.53,
+Vitamins
+"Thiamin",mg,0.690,
+"Riboflavin",mg,0.291,
+"Niacin",mg,3.410,
+"Vitamin B-6",mg,0.059,
+"Folate, DFE",µg,252,
+"Vitamin E (alpha-tocopherol)",mg,0.07,
+"Vitamin K (phylloquinone)",µg,0.2,
+Lipids
+"Fatty acids, total saturated",g,0.270,
+"Fatty acids, total monounsaturated",g,0.120,
+"Fatty acids, total polyunsaturated",g,0.590,
+Amino Acids
+Other

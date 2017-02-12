@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:21 EST
+"Nutrient data for: 11212, Edamame, frozen, prepared"
+Nutrient,Unit,1Value per 100 g,"1 cup = 155.0g",
+Proximates
+"Water",g,72.77,112.79
+"Energy",kcal,121,188
+"Protein",g,11.91,18.46
+"Total lipid (fat)",g,5.20,8.06
+"Carbohydrate, by difference",g,8.91,13.81
+"Fiber, total dietary",g,5.2,8.1
+"Sugars, total",g,2.18,3.38
+Minerals
+"Calcium, Ca",mg,63,98
+"Iron, Fe",mg,2.27,3.52
+"Magnesium, Mg",mg,64,99
+"Phosphorus, P",mg,169,262
+"Potassium, K",mg,436,676
+"Sodium, Na",mg,6,9
+"Zinc, Zn",mg,1.37,2.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.1,9.5
+"Thiamin",mg,0.200,0.310
+"Riboflavin",mg,0.155,0.240
+"Niacin",mg,0.915,1.418
+"Vitamin B-6",mg,0.100,0.155
+"Folate, DFE",µg,311,482
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,15,23
+"Vitamin A, IU",IU,298,462
+"Vitamin E (alpha-tocopherol)",mg,0.68,1.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,26.7,41.4
+Lipids
+"Fatty acids, total saturated",g,0.620,0.961
+"Fatty acids, total monounsaturated",g,1.282,1.987
+"Fatty acids, total polyunsaturated",g,2.156,3.342
+"Fatty acids, total trans",g,0.009,0.014
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

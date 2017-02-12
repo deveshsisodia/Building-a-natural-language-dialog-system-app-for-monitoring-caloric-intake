@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:58 EST
+"Nutrient data for: 13337, Beef, variety meats and by-products, thymus, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","4.0 oz = 113.0g",
+Proximates
+"Water",g,67.80,19.22,76.61
+"Energy",kcal,236,67,267
+"Protein",g,12.18,3.45,13.76
+"Total lipid (fat)",g,20.35,5.77,23.00
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,7,2,8
+"Iron, Fe",mg,2.10,0.60,2.37
+"Magnesium, Mg",mg,14,4,16
+"Phosphorus, P",mg,393,111,444
+"Potassium, K",mg,360,102,407
+"Sodium, Na",mg,96,27,108
+"Zinc, Zn",mg,2.06,0.58,2.33
+Vitamins
+"Vitamin C, total ascorbic acid",mg,34.0,9.6,38.4
+"Thiamin",mg,0.109,0.031,0.123
+"Riboflavin",mg,0.345,0.098,0.390
+"Niacin",mg,3.452,0.979,3.901
+"Vitamin B-6",mg,0.160,0.045,0.181
+"Folate, DFE",µg,2,1,2
+"Vitamin B-12",µg,2.13,0.60,2.41
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,7.010,1.987,7.921
+"Fatty acids, total monounsaturated",g,7.050,1.999,7.966
+"Fatty acids, total polyunsaturated",g,3.800,1.077,4.294
+"Cholesterol",mg,223,63,252
+Amino Acids
+Other

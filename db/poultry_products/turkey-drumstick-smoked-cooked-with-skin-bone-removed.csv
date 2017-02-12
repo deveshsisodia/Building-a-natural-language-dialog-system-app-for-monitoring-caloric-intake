@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:39 EST
+"Nutrient data for: 43367, Turkey, drumstick, smoked, cooked, with skin, bone removed"
+Nutrient,Unit,1Value per 100 g,"1 oz with bone, cooked (yield after bone removed) = 21.0g","1 cubic inch, boneless = 17.0g",
+Proximates
+"Water",g,61.20,12.85,10.40
+"Energy",kcal,208,44,35
+"Protein",g,27.90,5.86,4.74
+"Total lipid (fat)",g,9.80,2.06,1.67
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,32,7,5
+"Iron, Fe",mg,2.30,0.48,0.39
+"Magnesium, Mg",mg,23,5,4
+"Phosphorus, P",mg,199,42,34
+"Potassium, K",mg,280,59,48
+"Sodium, Na",mg,996,209,169
+"Zinc, Zn",mg,4.27,0.90,0.73
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.060,0.013,0.010
+"Riboflavin",mg,0.240,0.050,0.041
+"Niacin",mg,3.560,0.748,0.605
+"Vitamin B-6",mg,0.330,0.069,0.056
+"Folate, DFE",µg,9,2,2
+"Vitamin B-12",µg,0.36,0.08,0.06
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.62,0.13,0.11
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.0
+"Vitamin D",IU,5,1,1
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,3.054,0.641,0.519
+"Fatty acids, total monounsaturated",g,2.864,0.601,0.487
+"Fatty acids, total polyunsaturated",g,2.715,0.570,0.462
+"Cholesterol",mg,85,18,14
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

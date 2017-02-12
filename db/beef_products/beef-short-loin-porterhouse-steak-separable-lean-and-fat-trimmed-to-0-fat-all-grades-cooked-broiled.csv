@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:54 EST
+"Nutrient data for: 13459, Beef, short loin, porterhouse steak, separable lean and fat, trimmed to 0"" fat, all grades, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 lb = 453.6g",
+Proximates
+"Water",g,54.66,46.46,247.94
+"Energy",kcal,276,235,1252
+"Protein",g,23.96,20.37,108.68
+"Total lipid (fat)",g,19.27,16.38,87.41
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,7,6,32
+"Iron, Fe",mg,2.94,2.50,13.34
+"Magnesium, Mg",mg,22,19,100
+"Phosphorus, P",mg,193,164,875
+"Potassium, K",mg,299,254,1356
+"Sodium, Na",mg,65,55,295
+"Zinc, Zn",mg,4.56,3.88,20.68
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.099,0.084,0.449
+"Riboflavin",mg,0.228,0.194,1.034
+"Niacin",mg,4.210,3.579,19.097
+"Vitamin B-6",mg,0.365,0.310,1.656
+"Folate, DFE",µg,7,6,32
+"Vitamin B-12",µg,2.18,1.85,9.89
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.18,0.15,0.82
+Lipids
+"Fatty acids, total saturated",g,7.271,6.180,32.981
+"Fatty acids, total monounsaturated",g,8.650,7.353,39.236
+"Fatty acids, total polyunsaturated",g,0.690,0.587,3.130
+"Cholesterol",mg,67,57,304
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

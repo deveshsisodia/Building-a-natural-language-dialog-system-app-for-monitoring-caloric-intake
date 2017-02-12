@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:44 EST
+"Nutrient data for: 19123, Puddings, chocolate, dry mix, instant, prepared with 2% milk"
+Nutrient,Unit,1Value per 100 g,"0.5 cup From 19211 = 142.0g",
+Proximates
+"Water",g,74.59,105.92
+"Energy",kcal,105,149
+"Protein",g,3.15,4.47
+"Total lipid (fat)",g,1.92,2.73
+"Carbohydrate, by difference",g,18.89,26.82
+"Fiber, total dietary",g,0.4,0.6
+Minerals
+"Calcium, Ca",mg,104,148
+"Iron, Fe",mg,0.40,0.57
+"Magnesium, Mg",mg,19,27
+"Phosphorus, P",mg,238,338
+"Potassium, K",mg,168,239
+"Sodium, Na",mg,284,403
+"Zinc, Zn",mg,0.43,0.61
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,1.1
+"Thiamin",mg,0.034,0.048
+"Riboflavin",mg,0.147,0.209
+"Niacin",mg,0.108,0.153
+"Vitamin B-6",mg,0.038,0.054
+"Folate, DFE",µg,5,7
+"Vitamin B-12",µg,0.31,0.44
+"Vitamin A, RAE",µg,46,65
+"Vitamin A, IU",IU,170,241
+"Vitamin D (D2 + D3)",µg,0.8,1.1
+"Vitamin D",IU,33,47
+Lipids
+"Fatty acids, total saturated",g,1.064,1.511
+"Fatty acids, total monounsaturated",g,0.561,0.797
+"Fatty acids, total polyunsaturated",g,0.132,0.187
+"Cholesterol",mg,6,9
+Amino Acids
+Other
+"Caffeine",mg,1,1

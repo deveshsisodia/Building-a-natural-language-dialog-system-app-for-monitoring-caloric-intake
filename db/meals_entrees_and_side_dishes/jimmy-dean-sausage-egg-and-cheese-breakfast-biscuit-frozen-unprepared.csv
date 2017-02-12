@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:22 EST
+"Nutrient data for: 32036, JIMMY DEAN, Sausage, Egg, and Cheese Breakfast Biscuit, frozen, unprepared"
+Nutrient,Unit,1Value per 100 g,"1 biscuit = 128.0g","1 box = 595.0g",
+Proximates
+"Water",g,44.06,56.40,262.16
+"Energy",kcal,328,420,1952
+"Protein",g,9.29,11.89,55.28
+"Total lipid (fat)",g,22.90,29.31,136.25
+"Carbohydrate, by difference",g,21.07,26.97,125.37
+"Fiber, total dietary",g,2.0,2.6,11.9
+"Sugars, total",g,3.10,3.97,18.45
+Minerals
+"Calcium, Ca",mg,137,175,815
+"Iron, Fe",mg,1.84,2.36,10.95
+"Magnesium, Mg",mg,15,19,89
+"Phosphorus, P",mg,302,387,1797
+"Potassium, K",mg,292,374,1737
+"Sodium, Na",mg,589,754,3505
+"Zinc, Zn",mg,0.94,1.20,5.59
+Vitamins
+"Thiamin",mg,0.245,0.314,1.458
+"Riboflavin",mg,0.320,0.410,1.904
+"Niacin",mg,2.183,2.794,12.989
+"Vitamin B-6",mg,0.123,0.157,0.732
+"Vitamin B-12",µg,0.64,0.82,3.81
+Lipids
+"Fatty acids, total saturated",g,8.595,11.002,51.140
+"Fatty acids, total monounsaturated",g,8.539,10.930,50.807
+"Fatty acids, total polyunsaturated",g,3.881,4.968,23.092
+"Fatty acids, total trans",g,0.177,0.227,1.053
+"Cholesterol",mg,85,109,506
+Amino Acids
+Other

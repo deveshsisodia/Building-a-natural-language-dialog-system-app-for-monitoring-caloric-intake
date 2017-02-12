@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:20 EST
+"Nutrient data for: 07066, Turkey sausage, reduced fat, brown and serve, cooked (include BUTTERBALL breakfast links turkey sausage)"
+Nutrient,Unit,1Value per 100 g,"1 cup = 128.0g",
+Proximates
+"Water",g,59.59,76.28
+"Energy",kcal,204,261
+"Protein",g,17.00,21.76
+"Total lipid (fat)",g,10.30,13.18
+"Carbohydrate, by difference",g,10.92,13.98
+"Fiber, total dietary",g,0.3,0.4
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,31,40
+"Iron, Fe",mg,1.80,2.30
+"Magnesium, Mg",mg,21,27
+"Phosphorus, P",mg,164,210
+"Potassium, K",mg,207,265
+"Sodium, Na",mg,721,923
+"Zinc, Zn",mg,2.31,2.96
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.066,0.084
+"Riboflavin",mg,0.151,0.193
+"Niacin",mg,2.137,2.735
+"Vitamin B-6",mg,0.234,0.300
+"Folate, DFE",µg,23,29
+"Vitamin B-12",µg,0.28,0.36
+"Vitamin A, RAE",µg,2,3
+"Vitamin A, IU",IU,8,10
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.4,0.5
+"Vitamin D",IU,17,22
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,2.871,3.675
+"Fatty acids, total monounsaturated",g,3.876,4.961
+"Fatty acids, total polyunsaturated",g,2.541,3.252
+"Cholesterol",mg,58,74
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:31 EST
+"Nutrient data for: 11525, Taro, tahitian, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup slices = 125.0g",
+Proximates
+"Water",g,87.96,109.95
+"Energy",kcal,44,55
+"Protein",g,2.79,3.49
+"Total lipid (fat)",g,0.97,1.21
+"Carbohydrate, by difference",g,6.91,8.64
+Minerals
+"Calcium, Ca",mg,129,161
+"Iron, Fe",mg,1.30,1.62
+"Magnesium, Mg",mg,47,59
+"Phosphorus, P",mg,45,56
+"Potassium, K",mg,606,758
+"Sodium, Na",mg,50,62
+"Zinc, Zn",mg,0.09,0.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,96.0,120.0
+"Thiamin",mg,0.062,0.077
+"Riboflavin",mg,0.244,0.305
+"Niacin",mg,0.995,1.244
+"Vitamin B-6",mg,0.116,0.145
+"Folate, DFE",µg,9,11
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,102,128
+"Vitamin A, IU",IU,2045,2556
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.197,0.246
+"Fatty acids, total monounsaturated",g,0.078,0.098
+"Fatty acids, total polyunsaturated",g,0.400,0.500
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

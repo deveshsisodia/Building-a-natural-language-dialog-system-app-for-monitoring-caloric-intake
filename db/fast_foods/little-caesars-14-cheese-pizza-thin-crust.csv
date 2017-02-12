@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:35 EST
+"Nutrient data for: 21292, LITTLE CAESARS 14"" Cheese Pizza, Thin Crust"
+Nutrient,Unit,1Value per 100 g,"1 slice = 48.0g","1 pie = 562.0g","0.5 pie = 362.0g",
+Proximates
+"Water",g,41.21,19.78,231.60,149.18
+"Energy",kcal,309,148,1737,1119
+"Protein",g,16.23,7.79,91.21,58.75
+"Total lipid (fat)",g,16.99,8.16,95.48,61.50
+"Carbohydrate, by difference",g,22.85,10.97,128.42,82.72
+"Fiber, total dietary",g,1.6,0.8,9.0,5.8
+"Sugars, total",g,2.76,1.32,15.51,9.99
+Minerals
+"Calcium, Ca",mg,422,203,2372,1528
+"Iron, Fe",mg,0.64,0.31,3.60,2.32
+"Magnesium, Mg",mg,28,13,157,101
+"Phosphorus, P",mg,297,143,1669,1075
+"Potassium, K",mg,177,85,995,641
+"Sodium, Na",mg,455,218,2557,1647
+"Zinc, Zn",mg,2.12,1.02,11.91,7.67
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.139,0.067,0.781,0.503
+"Riboflavin",mg,0.185,0.089,1.040,0.670
+"Niacin",mg,0.850,0.408,4.777,3.077
+"Vitamin B-12",µg,0.71,0.34,3.99,2.57
+"Vitamin A, RAE",µg,123,59,691,445
+"Vitamin A, IU",IU,542,260,3046,1962
+"Vitamin E (alpha-tocopherol)",mg,1.21,0.58,6.80,4.38
+"Vitamin K (phylloquinone)",µg,9.6,4.6,54.0,34.8
+Lipids
+"Fatty acids, total saturated",g,7.327,3.517,41.178,26.524
+"Fatty acids, total monounsaturated",g,4.420,2.122,24.840,16.000
+"Fatty acids, total polyunsaturated",g,3.161,1.517,17.765,11.443
+"Cholesterol",mg,39,19,219,141
+Amino Acids
+Other

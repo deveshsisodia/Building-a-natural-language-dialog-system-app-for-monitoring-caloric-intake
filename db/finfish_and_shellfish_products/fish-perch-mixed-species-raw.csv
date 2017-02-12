@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:00 EST
+"Nutrient data for: 15060, Fish, perch, mixed species, raw"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 60.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,79.13,47.48,67.26
+"Energy",kcal,91,55,77
+"Protein",g,19.39,11.63,16.48
+"Total lipid (fat)",g,0.92,0.55,0.78
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,80,48,68
+"Iron, Fe",mg,0.90,0.54,0.77
+"Magnesium, Mg",mg,30,18,26
+"Phosphorus, P",mg,200,120,170
+"Potassium, K",mg,269,161,229
+"Sodium, Na",mg,62,37,53
+"Zinc, Zn",mg,1.11,0.67,0.94
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.7,1.0,1.4
+"Thiamin",mg,0.070,0.042,0.060
+"Riboflavin",mg,0.100,0.060,0.085
+"Niacin",mg,1.520,0.912,1.292
+"Vitamin B-6",mg,0.120,0.072,0.102
+"Folate, DFE",µg,5,3,4
+"Vitamin B-12",µg,1.90,1.14,1.61
+"Vitamin A, RAE",µg,9,5,8
+"Vitamin A, IU",IU,30,18,26
+"Vitamin E (alpha-tocopherol)",mg,0.20,0.12,0.17
+"Vitamin D (D2 + D3)",µg,3.0,1.8,2.5
+"Vitamin D",IU,118,71,100
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,0.185,0.111,0.157
+"Fatty acids, total monounsaturated",g,0.152,0.091,0.129
+"Fatty acids, total polyunsaturated",g,0.368,0.221,0.313
+"Cholesterol",mg,90,54,76
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

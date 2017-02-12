@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:21 EST
+"Nutrient data for: 11618, Eppaw, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 100.0g",
+Proximates
+"Water",g,60.00,60.00
+"Energy",kcal,150,150
+"Protein",g,4.60,4.60
+"Total lipid (fat)",g,1.80,1.80
+"Carbohydrate, by difference",g,31.68,31.68
+Minerals
+"Calcium, Ca",mg,110,110
+"Iron, Fe",mg,1.15,1.15
+"Magnesium, Mg",mg,32,32
+"Phosphorus, P",mg,165,165
+"Potassium, K",mg,340,340
+"Sodium, Na",mg,12,12
+"Zinc, Zn",mg,1.15,1.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,13.0,13.0
+"Thiamin",mg,0.110,0.110
+"Riboflavin",mg,0.120,0.120
+"Niacin",mg,0.300,0.300
+"Vitamin B-6",mg,0.176,0.176
+"Folate, DFE",µg,24,24
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

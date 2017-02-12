@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:29 EST
+"Nutrient data for: 35011, Whale, beluga, meat, raw (Alaska Native)"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,72.50,
+"Energy",kcal,111,
+"Protein",g,26.50,
+"Total lipid (fat)",g,0.50,
+"Carbohydrate, by difference",g,0.00,
+"Fiber, total dietary",g,0.0,
+"Sugars, total",g,0.00,
+Minerals
+"Calcium, Ca",mg,7,
+"Iron, Fe",mg,25.90,
+"Magnesium, Mg",mg,22,
+"Phosphorus, P",mg,239,
+"Potassium, K",mg,283,
+"Sodium, Na",mg,78,
+"Zinc, Zn",mg,2.76,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,
+"Thiamin",mg,0.014,
+"Riboflavin",mg,0.184,
+"Niacin",mg,5.386,
+"Vitamin B-6",mg,0.046,
+"Folate, DFE",µg,4,
+"Vitamin B-12",µg,2.59,
+"Vitamin A, RAE",µg,102,
+"Vitamin A, IU",IU,340,
+"Vitamin K (phylloquinone)",µg,0.0,
+Lipids
+"Fatty acids, total saturated",g,0.092,
+"Fatty acids, total monounsaturated",g,0.337,
+"Fatty acids, total polyunsaturated",g,0.025,
+"Cholesterol",mg,80,
+Amino Acids
+Other
+"Caffeine",mg,0,

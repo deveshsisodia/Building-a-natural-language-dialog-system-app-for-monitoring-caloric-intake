@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:33 EST
+"Nutrient data for: 18964, Cinnamon buns, frosted (includes honey buns)"
+Nutrient,Unit,1Value per 100 g,"1 bun = 65.0g",
+Proximates
+"Water",g,18.98,12.34
+"Energy",kcal,452,294
+"Protein",g,4.45,2.89
+"Total lipid (fat)",g,26.61,17.30
+"Carbohydrate, by difference",g,48.60,31.59
+"Fiber, total dietary",g,1.2,0.8
+"Sugars, total",g,25.70,16.70
+Minerals
+"Calcium, Ca",mg,183,119
+"Iron, Fe",mg,1.37,0.89
+"Magnesium, Mg",mg,14,9
+"Phosphorus, P",mg,131,85
+"Potassium, K",mg,102,66
+"Sodium, Na",mg,305,198
+"Zinc, Zn",mg,0.53,0.34
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.2
+"Thiamin",mg,0.211,0.137
+"Riboflavin",mg,0.138,0.090
+"Niacin",mg,2.404,1.563
+"Vitamin B-6",mg,0.038,0.025
+"Folate, DFE",µg,109,71
+"Vitamin B-12",µg,0.16,0.10
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,2,1
+"Vitamin E (alpha-tocopherol)",mg,1.15,0.75
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,15.2,9.9
+Lipids
+"Fatty acids, total saturated",g,12.649,8.222
+"Fatty acids, total monounsaturated",g,8.723,5.670
+"Fatty acids, total polyunsaturated",g,3.676,2.389
+"Fatty acids, total trans",g,0.295,0.192
+"Cholesterol",mg,5,3
+Amino Acids
+Other
+"Caffeine",mg,0,0

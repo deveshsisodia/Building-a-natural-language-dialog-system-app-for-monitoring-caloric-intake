@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:27 EST
+"Nutrient data for: 11373, Potatoes, au gratin, home-prepared from recipe using butter"
+Nutrient,Unit,1Value per 100 g,"1 cup = 245.0g",
+Proximates
+"Water",g,74.00,181.30
+"Energy",kcal,132,323
+"Protein",g,5.06,12.40
+"Total lipid (fat)",g,7.59,18.60
+"Carbohydrate, by difference",g,11.27,27.61
+"Fiber, total dietary",g,1.8,4.4
+Minerals
+"Calcium, Ca",mg,119,292
+"Iron, Fe",mg,0.64,1.57
+"Magnesium, Mg",mg,20,49
+"Phosphorus, P",mg,113,277
+"Potassium, K",mg,396,970
+"Sodium, Na",mg,433,1061
+"Zinc, Zn",mg,0.69,1.69
+Vitamins
+"Vitamin C, total ascorbic acid",mg,9.9,24.3
+"Thiamin",mg,0.064,0.157
+"Riboflavin",mg,0.116,0.284
+"Niacin",mg,0.993,2.433
+"Vitamin B-6",mg,0.174,0.426
+"Folate, DFE",µg,13,32
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,64,157
+"Vitamin A, IU",IU,264,647
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,4.733,11.596
+"Fatty acids, total monounsaturated",g,2.149,5.265
+"Fatty acids, total polyunsaturated",g,0.276,0.676
+"Cholesterol",mg,23,56
+Amino Acids
+Other
+Footnotes
+(a)"Recipe:  Potatoes, 55%; whole milk, 30%; cheddar cheese, 9%; butter, 3%; flour , 2%; and salt, 1%."

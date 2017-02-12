@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:17 EST
+"Nutrient data for: 07957, Pork and turkey sausage, pre-cooked"
+Nutrient,Unit,1Value per 100 g,"1 serving = 57.0g",
+Proximates
+"Water",g,50.68,28.89
+"Energy",kcal,342,195
+"Protein",g,12.05,6.87
+"Total lipid (fat)",g,30.64,17.46
+"Carbohydrate, by difference",g,3.63,2.07
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,74,42
+"Iron, Fe",mg,1.30,0.74
+"Magnesium, Mg",mg,25,14
+"Phosphorus, P",mg,136,78
+"Potassium, K",mg,230,131
+"Sodium, Na",mg,876,499
+"Zinc, Zn",mg,1.34,0.76
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.4
+"Thiamin",mg,0.089,0.051
+"Riboflavin",mg,0.099,0.056
+"Niacin",mg,2.730,1.556
+"Vitamin B-6",mg,0.124,0.071
+"Folate, DFE",µg,10,6
+"Vitamin B-12",µg,0.58,0.33
+"Vitamin A, RAE",µg,21,12
+"Vitamin A, IU",IU,102,58
+"Vitamin E (alpha-tocopherol)",mg,0.52,0.30
+"Vitamin K (phylloquinone)",µg,5.7,3.2
+Lipids
+"Fatty acids, total saturated",g,9.881,5.632
+"Fatty acids, total monounsaturated",g,13.054,7.441
+"Fatty acids, total polyunsaturated",g,4.504,2.567
+"Fatty acids, total trans",g,0.328,0.187
+"Cholesterol",mg,72,41
+Amino Acids
+Other
+"Caffeine",mg,0,0

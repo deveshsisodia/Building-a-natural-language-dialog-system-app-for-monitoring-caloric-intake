@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:14 EST
+"Nutrient data for: 20630, Wheat flour, white (industrial), 10% protein, unbleached, enriched"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,12.01,
+"Energy",kcal,366,
+"Protein",g,9.71,
+"Total lipid (fat)",g,1.48,
+"Carbohydrate, by difference",g,76.22,
+"Fiber, total dietary",g,2.4,
+"Sugars, total",g,0.49,
+Minerals
+"Calcium, Ca",mg,20,
+"Iron, Fe",mg,5.06,
+"Magnesium, Mg",mg,25,
+"Phosphorus, P",mg,107,
+"Potassium, K",mg,149,
+"Sodium, Na",mg,2,
+"Zinc, Zn",mg,1.02,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,
+"Thiamin",mg,0.736,
+"Riboflavin",mg,0.445,
+"Niacin",mg,5.953,
+"Vitamin B-6",mg,0.037,
+"Folate, DFE",µg,268,
+"Vitamin A, RAE",µg,0,
+"Vitamin A, IU",IU,0,
+"Vitamin E (alpha-tocopherol)",mg,0.38,
+"Vitamin D (D2 + D3)",µg,0.0,
+"Vitamin D",IU,0,
+"Vitamin K (phylloquinone)",µg,0.3,
+Lipids
+"Fatty acids, total saturated",g,0.302,
+"Fatty acids, total monounsaturated",g,0.193,
+"Fatty acids, total polyunsaturated",g,0.845,
+Amino Acids
+Other

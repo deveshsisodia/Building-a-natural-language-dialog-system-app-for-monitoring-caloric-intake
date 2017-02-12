@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:07 EST
+"Nutrient data for: 01035, Cheese, provolone"
+Nutrient,Unit,1Value per 100 g,"1 cup, diced = 132.0g","1 oz = 28.35g","1 cubic inch = 17.0g","1 slice (1 oz) = 28.0g","1 package (6 oz) = 170.0g",
+Proximates
+"Water",g,40.95,54.05,11.61,6.96,11.47,69.62
+"Energy",kcal,351,463,100,60,98,597
+"Protein",g,25.58,33.77,7.25,4.35,7.16,43.49
+"Total lipid (fat)",g,26.62,35.14,7.55,4.53,7.45,45.25
+"Carbohydrate, by difference",g,2.14,2.82,0.61,0.36,0.60,3.64
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.56,0.74,0.16,0.10,0.16,0.95
+Minerals
+"Calcium, Ca",mg,756,998,214,129,212,1285
+"Iron, Fe",mg,0.52,0.69,0.15,0.09,0.15,0.88
+"Magnesium, Mg",mg,28,37,8,5,8,48
+"Phosphorus, P",mg,496,655,141,84,139,843
+"Potassium, K",mg,138,182,39,23,39,235
+"Sodium, Na",mg,876,1156,248,149,245,1489
+"Zinc, Zn",mg,3.23,4.26,0.92,0.55,0.90,5.49
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.019,0.025,0.005,0.003,0.005,0.032
+"Riboflavin",mg,0.321,0.424,0.091,0.055,0.090,0.546
+"Niacin",mg,0.156,0.206,0.044,0.027,0.044,0.265
+"Vitamin B-6",mg,0.073,0.096,0.021,0.012,0.020,0.124
+"Folate, DFE",µg,10,13,3,2,3,17
+"Vitamin B-12",µg,1.46,1.93,0.41,0.25,0.41,2.48
+"Vitamin A, RAE",µg,236,312,67,40,66,401
+"Vitamin A, IU",IU,880,1162,249,150,246,1496
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.30,0.07,0.04,0.06,0.39
+"Vitamin D (D2 + D3)",µg,0.5,0.7,0.1,0.1,0.1,0.8
+"Vitamin D",IU,20,26,6,3,6,34
+"Vitamin K (phylloquinone)",µg,2.2,2.9,0.6,0.4,0.6,3.7
+Lipids
+"Fatty acids, total saturated",g,17.078,22.543,4.842,2.903,4.782,29.033
+"Fatty acids, total monounsaturated",g,7.393,9.759,2.096,1.257,2.070,12.568
+"Fatty acids, total polyunsaturated",g,0.769,1.015,0.218,0.131,0.215,1.307
+"Cholesterol",mg,69,91,20,12,19,117
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

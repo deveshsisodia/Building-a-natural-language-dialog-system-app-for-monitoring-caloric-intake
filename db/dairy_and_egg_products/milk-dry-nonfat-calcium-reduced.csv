@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:09 EST
+"Nutrient data for: 01093, Milk, dry, nonfat, calcium reduced"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","0.25 lb = 113.0g",
+Proximates
+"Water",g,4.90,1.39,5.54
+"Energy",kcal,354,100,400
+"Protein",g,35.50,10.06,40.12
+"Total lipid (fat)",g,0.20,0.06,0.23
+"Carbohydrate, by difference",g,51.80,14.69,58.53
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,280,79,316
+"Iron, Fe",mg,0.32,0.09,0.36
+"Magnesium, Mg",mg,60,17,68
+"Phosphorus, P",mg,1011,287,1142
+"Potassium, K",mg,680,193,768
+"Sodium, Na",mg,2280,646,2576
+"Zinc, Zn",mg,4.03,1.14,4.55
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.7,1.9,7.6
+"Thiamin",mg,0.163,0.046,0.184
+"Riboflavin",mg,1.642,0.466,1.855
+"Niacin",mg,0.665,0.189,0.751
+"Vitamin B-6",mg,0.298,0.084,0.337
+"Folate, DFE",µg,50,14,56
+"Vitamin B-12",µg,3.98,1.13,4.50
+"Vitamin A, RAE",µg,2,1,2
+"Vitamin A, IU",IU,8,2,9
+Lipids
+"Fatty acids, total saturated",g,0.124,0.035,0.140
+"Fatty acids, total monounsaturated",g,0.058,0.016,0.066
+"Fatty acids, total polyunsaturated",g,0.007,0.002,0.008
+"Cholesterol",mg,2,1,2
+Amino Acids
+Other

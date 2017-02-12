@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:30 EST
+"Nutrient data for: 28286, Bread, paratha, whole wheat, commercially prepared, frozen"
+Nutrient,Unit,1Value per 100 g,"1 piece = 79.0g",
+Proximates
+"Water",g,33.50,26.46
+"Energy",kcal,326,258
+"Protein",g,6.36,5.02
+"Total lipid (fat)",g,13.20,10.43
+"Carbohydrate, by difference",g,45.35,35.83
+"Fiber, total dietary",g,9.6,7.6
+"Sugars, total",g,4.15,3.28
+Minerals
+"Calcium, Ca",mg,25,20
+"Iron, Fe",mg,1.61,1.27
+"Magnesium, Mg",mg,37,29
+"Phosphorus, P",mg,120,95
+"Potassium, K",mg,139,110
+"Sodium, Na",mg,452,357
+"Zinc, Zn",mg,0.82,0.65
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.110,0.087
+"Riboflavin",mg,0.076,0.060
+"Niacin",mg,1.830,1.446
+"Vitamin B-6",mg,0.080,0.063
+"Folate, DFE",µg,10,8
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,2,2
+"Vitamin A, IU",IU,6,5
+"Vitamin E (alpha-tocopherol)",mg,1.35,1.07
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,3.4,2.7
+Lipids
+"Fatty acids, total saturated",g,5.826,4.603
+"Fatty acids, total monounsaturated",g,3.837,3.031
+"Fatty acids, total polyunsaturated",g,2.484,1.962
+"Fatty acids, total trans",g,0.034,0.027
+"Cholesterol",mg,1,1
+Amino Acids
+Other
+"Caffeine",mg,0,0

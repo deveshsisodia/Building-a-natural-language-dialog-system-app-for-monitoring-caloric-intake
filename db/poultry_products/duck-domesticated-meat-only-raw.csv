@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:36 EST
+"Nutrient data for: 05141, Duck, domesticated, meat only, raw"
+Nutrient,Unit,1Value per 100 g,"1 unit (yield from 1 lb ready-to-cook duck) = 137.0g","0.5 duck = 303.0g",
+Proximates
+"Water",g,73.77,101.06,223.52
+"Energy",kcal,135,185,409
+"Protein",g,18.28,25.04,55.39
+"Total lipid (fat)",g,5.95,8.15,18.03
+"Carbohydrate, by difference",g,0.94,1.29,2.85
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,11,15,33
+"Iron, Fe",mg,2.40,3.29,7.27
+"Magnesium, Mg",mg,19,26,58
+"Phosphorus, P",mg,203,278,615
+"Potassium, K",mg,271,371,821
+"Sodium, Na",mg,74,101,224
+"Zinc, Zn",mg,1.90,2.60,5.76
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.8,7.9,17.6
+"Thiamin",mg,0.360,0.493,1.091
+"Riboflavin",mg,0.450,0.616,1.363
+"Niacin",mg,5.300,7.261,16.059
+"Vitamin B-6",mg,0.340,0.466,1.030
+"Folate, DFE",µg,25,34,76
+"Vitamin B-12",µg,0.40,0.55,1.21
+"Vitamin A, RAE",µg,24,33,73
+"Vitamin A, IU",IU,79,108,239
+"Vitamin E (alpha-tocopherol)",mg,0.70,0.96,2.12
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.3
+"Vitamin D",IU,3,4,9
+"Vitamin K (phylloquinone)",µg,2.8,3.8,8.5
+Lipids
+"Fatty acids, total saturated",g,2.320,3.178,7.030
+"Fatty acids, total monounsaturated",g,1.540,2.110,4.666
+"Fatty acids, total polyunsaturated",g,0.750,1.028,2.272
+"Cholesterol",mg,77,105,233
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

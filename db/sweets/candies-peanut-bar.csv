@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:38 EST
+"Nutrient data for: 19147, Candies, peanut bar"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 bar (1.4 oz) = 40.0g","1 bar (1.6 oz) = 45.0g","1 bar (1.75 fl oz) = 50.0g",
+Proximates
+"Water",g,1.60,0.45,0.64,0.72,0.80
+"Energy",kcal,522,148,209,235,261
+"Protein",g,15.50,4.39,6.20,6.97,7.75
+"Total lipid (fat)",g,33.70,9.55,13.48,15.17,16.85
+"Carbohydrate, by difference",g,47.40,13.44,18.96,21.33,23.70
+"Fiber, total dietary",g,4.1,1.2,1.6,1.8,2.0
+"Sugars, total",g,42.22,11.97,16.89,19.00,21.11
+Minerals
+"Calcium, Ca",mg,78,22,31,35,39
+"Iron, Fe",mg,0.97,0.27,0.39,0.44,0.48
+"Magnesium, Mg",mg,110,31,44,50,55
+"Phosphorus, P",mg,308,87,123,139,154
+"Potassium, K",mg,407,115,163,183,204
+"Sodium, Na",mg,156,44,62,70,78
+"Zinc, Zn",mg,3.94,1.12,1.58,1.77,1.97
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.100,0.028,0.040,0.045,0.050
+"Riboflavin",mg,0.140,0.040,0.056,0.063,0.070
+"Niacin",mg,7.922,2.246,3.169,3.565,3.961
+"Vitamin B-6",mg,0.153,0.043,0.061,0.069,0.076
+"Folate, DFE",µg,75,21,30,34,38
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,4.10,1.16,1.64,1.84,2.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,4.678,1.326,1.871,2.105,2.339
+"Fatty acids, total monounsaturated",g,16.721,4.740,6.688,7.524,8.361
+"Fatty acids, total polyunsaturated",g,10.650,3.019,4.260,4.793,5.325
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:03 EST
+"Nutrient data for: 08351, Cereals ready-to-eat, QUAKER, MOTHER'S PEANUT BUTTER BUMPERS Cereal"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 33.0g",
+Proximates
+"Water",g,2.50,0.82
+"Energy",kcal,407,134
+"Protein",g,7.62,2.51
+"Total lipid (fat)",g,7.33,2.42
+"Carbohydrate, by difference",g,79.68,26.29
+"Fiber, total dietary",g,2.5,0.8
+"Sugars, total",g,29.29,9.67
+Minerals
+"Calcium, Ca",mg,23,8
+"Iron, Fe",mg,1.97,0.65
+"Magnesium, Mg",mg,74,24
+"Phosphorus, P",mg,213,70
+"Potassium, K",mg,296,98
+"Sodium, Na",mg,774,255
+"Zinc, Zn",mg,1.42,0.47
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.180,0.059
+"Riboflavin",mg,0.070,0.023
+"Niacin",mg,2.700,0.891
+"Vitamin B-6",mg,0.120,0.040
+"Folate, DFE",µg,24,8
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,8,3
+"Vitamin A, IU",IU,159,52
+"Vitamin E (alpha-tocopherol)",mg,3.71,1.22
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.450,0.479
+"Fatty acids, total monounsaturated",g,3.110,1.026
+"Fatty acids, total polyunsaturated",g,2.250,0.743
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

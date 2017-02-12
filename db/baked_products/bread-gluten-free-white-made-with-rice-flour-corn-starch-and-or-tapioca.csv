@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:30 EST
+"Nutrient data for: 28337, Bread, gluten-free, white, made with rice flour, corn starch, and/or tapioca"
+Nutrient,Unit,1Value per 100 g,"1 slice = 35.0g",
+Proximates
+"Water",g,42.99,15.05
+"Energy",kcal,248,87
+"Protein",g,4.31,1.51
+"Total lipid (fat)",g,5.24,1.83
+"Carbohydrate, by difference",g,45.78,16.02
+"Fiber, total dietary",g,4.3,1.5
+"Sugars, total",g,3.53,1.24
+Minerals
+"Calcium, Ca",mg,138,48
+"Iron, Fe",mg,2.63,0.92
+"Magnesium, Mg",mg,12,4
+"Phosphorus, P",mg,51,18
+"Potassium, K",mg,75,26
+"Sodium, Na",mg,447,156
+"Zinc, Zn",mg,0.48,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.375,0.131
+"Riboflavin",mg,0.505,0.177
+"Niacin",mg,2.775,0.971
+"Vitamin B-6",mg,0.073,0.026
+"Folate, DFE",µg,36,13
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.60,0.21
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.1
+Lipids
+"Fatty acids, total saturated",g,0.977,0.342
+"Fatty acids, total monounsaturated",g,2.009,0.703
+"Fatty acids, total polyunsaturated",g,0.516,0.181
+"Fatty acids, total trans",g,0.010,0.004
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

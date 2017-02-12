@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:38 EST
+"Nutrient data for: 05156, Pheasant, leg, meat only, raw"
+Nutrient,Unit,1Value per 100 g,"1 unit (yield from 1 lb ready-to-eat pheasant) = 99.0g","1 leg, bone and skin removed = 107.0g",
+Proximates
+"Water",g,73.40,72.67,78.54
+"Energy",kcal,134,133,143
+"Protein",g,22.20,21.98,23.75
+"Total lipid (fat)",g,4.30,4.26,4.60
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,29,29,31
+"Iron, Fe",mg,1.78,1.76,1.90
+"Magnesium, Mg",mg,20,20,21
+"Phosphorus, P",mg,280,277,300
+"Potassium, K",mg,296,293,317
+"Sodium, Na",mg,45,45,48
+"Zinc, Zn",mg,1.53,1.51,1.64
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.0,5.9,6.4
+"Thiamin",mg,0.070,0.069,0.075
+"Riboflavin",mg,0.210,0.208,0.225
+"Niacin",mg,3.700,3.663,3.959
+"Vitamin B-6",mg,0.740,0.733,0.792
+"Folate, DFE",µg,10,10,11
+"Vitamin B-12",µg,0.84,0.83,0.90
+"Vitamin A, RAE",µg,59,58,63
+"Vitamin A, IU",IU,195,193,209
+Lipids
+"Fatty acids, total saturated",g,1.460,1.445,1.562
+"Fatty acids, total monounsaturated",g,1.380,1.366,1.477
+"Fatty acids, total polyunsaturated",g,0.730,0.723,0.781
+"Cholesterol",mg,80,79,86
+Amino Acids
+Other

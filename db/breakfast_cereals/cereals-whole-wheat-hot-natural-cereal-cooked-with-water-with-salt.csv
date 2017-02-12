@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:04 EST
+"Nutrient data for: 08183, Cereals, whole wheat hot natural cereal, cooked with water, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 242.0g","0.75 cup = 182.0g",
+Proximates
+"Water",g,83.60,202.31,152.15
+"Energy",kcal,62,150,113
+"Protein",g,2.00,4.84,3.64
+"Total lipid (fat)",g,0.40,0.97,0.73
+"Carbohydrate, by difference",g,13.70,33.15,24.93
+"Fiber, total dietary",g,1.6,3.9,2.9
+"Sugars, total",g,0.08,0.19,0.15
+Minerals
+"Calcium, Ca",mg,7,17,13
+"Iron, Fe",mg,0.62,1.50,1.13
+"Magnesium, Mg",mg,22,53,40
+"Phosphorus, P",mg,69,167,126
+"Potassium, K",mg,71,172,129
+"Sodium, Na",mg,233,564,424
+"Zinc, Zn",mg,0.48,1.16,0.87
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.070,0.169,0.127
+"Riboflavin",mg,0.050,0.121,0.091
+"Niacin",mg,0.890,2.154,1.620
+"Vitamin B-6",mg,0.073,0.177,0.133
+"Folate, DFE",µg,14,34,25
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.24,0.58,0.44
+"Vitamin K (phylloquinone)",µg,0.4,1.0,0.7
+Lipids
+"Fatty acids, total saturated",g,0.060,0.145,0.109
+"Fatty acids, total monounsaturated",g,0.057,0.138,0.104
+"Fatty acids, total polyunsaturated",g,0.202,0.489,0.368
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

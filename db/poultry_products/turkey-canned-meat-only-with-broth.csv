@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:39 EST
+"Nutrient data for: 05284, Turkey, canned, meat only, with broth"
+Nutrient,Unit,1Value per 100 g,"1 cup, drained = 135.0g","1 can (5 oz) = 142.0g","1 can (5 oz) yields = 125.0g",
+Proximates
+"Water",g,66.07,89.19,93.82,82.59
+"Energy",kcal,169,228,240,211
+"Protein",g,23.68,31.97,33.63,29.60
+"Total lipid (fat)",g,6.86,9.26,9.74,8.57
+"Carbohydrate, by difference",g,1.47,1.98,2.09,1.84
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,12,16,17,15
+"Iron, Fe",mg,1.86,2.51,2.64,2.33
+"Magnesium, Mg",mg,20,27,28,25
+"Phosphorus, P",mg,162,219,230,202
+"Potassium, K",mg,224,302,318,280
+"Sodium, Na",mg,518,699,736,648
+"Zinc, Zn",mg,2.37,3.20,3.37,2.96
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.0,2.7,2.8,2.5
+"Thiamin",mg,0.014,0.019,0.020,0.018
+"Riboflavin",mg,0.171,0.231,0.243,0.214
+"Niacin",mg,6.622,8.940,9.403,8.277
+"Vitamin B-6",mg,0.330,0.446,0.469,0.412
+"Folate, DFE",µg,6,8,9,8
+"Vitamin B-12",µg,0.28,0.38,0.40,0.35
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.36,0.38,0.34
+"Vitamin D (D2 + D3)",µg,0.3,0.4,0.4,0.4
+"Vitamin D",IU,11,15,16,14
+"Vitamin K (phylloquinone)",µg,0.7,0.9,1.0,0.9
+Lipids
+"Fatty acids, total saturated",g,2.000,2.700,2.840,2.500
+"Fatty acids, total monounsaturated",g,2.260,3.051,3.209,2.825
+"Fatty acids, total polyunsaturated",g,1.750,2.362,2.485,2.188
+"Cholesterol",mg,66,89,94,82
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08411, Cereals, QUAKER, Instant Oatmeal, DINOSAUR EGGS, Brown Sugar, dry"
+Nutrient,Unit,1Value per 100 g,"1 packet (1 NLEA serving) = 50.0g",
+Proximates
+"Water",g,6.87,3.44
+"Energy",kcal,384,192
+"Protein",g,8.69,4.34
+"Total lipid (fat)",g,7.59,3.79
+"Carbohydrate, by difference",g,73.68,36.84
+"Fiber, total dietary",g,6.4,3.2
+"Sugars, total",g,28.91,14.46
+Minerals
+"Calcium, Ca",mg,220,110
+"Iron, Fe",mg,7.91,3.96
+"Magnesium, Mg",mg,89,44
+"Phosphorus, P",mg,302,151
+"Potassium, K",mg,250,125
+"Sodium, Na",mg,500,250
+"Zinc, Zn",mg,2.01,1.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.660,0.330
+"Riboflavin",mg,0.750,0.375
+"Niacin",mg,8.790,4.395
+"Vitamin B-6",mg,0.880,0.440
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,2196,1098
+"Vitamin E (alpha-tocopherol)",mg,0.43,0.21
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,2.420,1.210
+"Fatty acids, total monounsaturated",g,1.690,0.845
+"Fatty acids, total polyunsaturated",g,1.400,0.700
+"Fatty acids, total trans",g,0.780,0.390
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

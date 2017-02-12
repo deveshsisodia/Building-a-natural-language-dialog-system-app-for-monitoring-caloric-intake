@@ -1,0 +1,45 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:48 EST
+"Nutrient data for: 03956, Babyfood, yogurt, whole milk, with fruit, multigrain cereal and added DHA fortified"
+Nutrient,Unit,1Value per 100 g,"1 oz = 31.0g","1 container = 113.0g",
+Proximates
+"Water",g,79.16,24.54,89.45
+"Energy",kcal,98,30,111
+"Protein",g,3.40,1.05,3.84
+"Total lipid (fat)",g,3.53,1.09,3.99
+"Carbohydrate, by difference",g,13.22,4.10,14.94
+"Fiber, total dietary",g,0.3,0.1,0.3
+"Sugars, total",g,11.46,3.55,12.95
+Minerals
+"Calcium, Ca",mg,107,33,121
+"Iron, Fe",mg,0.15,0.05,0.17
+"Magnesium, Mg",mg,15,5,17
+"Phosphorus, P",mg,95,29,107
+"Potassium, K",mg,149,46,168
+"Sodium, Na",mg,41,13,46
+"Zinc, Zn",mg,0.59,0.18,0.67
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.4,0.4,1.6
+"Thiamin",mg,0.047,0.015,0.053
+"Riboflavin",mg,0.129,0.040,0.146
+"Niacin",mg,0.119,0.037,0.134
+"Vitamin B-6",mg,0.034,0.011,0.038
+"Folate, DFE",µg,8,2,9
+"Vitamin B-12",µg,0.32,0.10,0.36
+"Vitamin A, RAE",µg,24,7,27
+"Vitamin A, IU",IU,86,27,97
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.02,0.08
+"Vitamin D (D2 + D3)",µg,0.1,0.0,0.1
+"Vitamin D",IU,3,1,3
+"Vitamin K (phylloquinone)",µg,0.3,0.1,0.3
+Lipids
+"Fatty acids, total saturated",g,1.840,0.570,2.079
+"Fatty acids, total monounsaturated",g,0.916,0.284,1.035
+"Fatty acids, total polyunsaturated",g,0.367,0.114,0.415
+"Cholesterol",mg,14,4,16
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Contains arachidonic acid (ARA,  number 620) and docosahexaenoic acid (DHA, nutrient number 621) fatty acids found in human breast milk"

@@ -1,0 +1,30 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:41 EST
+"Nutrient data for: 03682, Babyfood, cereal, high protein, prepared with whole milk"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,74.50,21.12
+"Energy",kcal,111,31
+"Protein",g,8.70,2.47
+"Total lipid (fat)",g,3.80,1.08
+"Carbohydrate, by difference",g,11.60,3.29
+Minerals
+"Calcium, Ca",mg,218,62
+"Iron, Fe",mg,12.14,3.44
+"Magnesium, Mg",mg,48,14
+"Phosphorus, P",mg,177,50
+"Potassium, K",mg,349,99
+"Sodium, Na",mg,49,14
+"Zinc, Zn",mg,1.04,0.29
+Vitamins
+"Thiamin",mg,0.470,0.133
+"Riboflavin",mg,0.579,0.164
+"Niacin",mg,5.668,1.607
+"Vitamin B-6",mg,0.113,0.032
+"Folate, DFE",µg,35,10
+"Vitamin B-12",µg,0.30,0.09
+"Vitamin A, IU",IU,105,30
+Lipids
+Amino Acids
+Other

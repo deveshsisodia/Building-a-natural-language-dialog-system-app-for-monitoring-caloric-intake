@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:44 EST
+"Nutrient data for: 19184, Puddings, chocolate, dry mix, instant"
+Nutrient,Unit,1Value per 100 g,"1 package (3.5 oz) = 99.0g","1 portion, amount to make 1/2 cup = 25.0g",
+Proximates
+"Water",g,3.20,3.17,0.80
+"Energy",kcal,378,374,94
+"Protein",g,2.30,2.28,0.57
+"Total lipid (fat)",g,1.90,1.88,0.47
+"Carbohydrate, by difference",g,87.90,87.02,21.98
+"Fiber, total dietary",g,3.6,3.6,0.9
+"Sugars, total",g,67.86,67.18,16.96
+Minerals
+"Calcium, Ca",mg,12,12,3
+"Iron, Fe",mg,1.29,1.28,0.32
+"Magnesium, Mg",mg,45,45,11
+"Phosphorus, P",mg,72,71,18
+"Potassium, K",mg,236,234,59
+"Sodium, Na",mg,1771,1753,443
+"Zinc, Zn",mg,0.62,0.61,0.15
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.010,0.010,0.003
+"Riboflavin",mg,0.055,0.054,0.014
+"Niacin",mg,0.234,0.232,0.059
+"Vitamin B-6",mg,0.012,0.012,0.003
+"Folate, DFE",µg,3,3,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.07,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.5,1.5,0.4
+Lipids
+"Fatty acids, total saturated",g,0.825,0.817,0.206
+"Fatty acids, total monounsaturated",g,0.487,0.482,0.122
+"Fatty acids, total polyunsaturated",g,0.348,0.345,0.087
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,7,7,2

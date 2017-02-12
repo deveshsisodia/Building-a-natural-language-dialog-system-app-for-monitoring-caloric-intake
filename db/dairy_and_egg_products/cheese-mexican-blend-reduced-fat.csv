@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:06 EST
+"Nutrient data for: 01209, Cheese, Mexican, blend, reduced fat"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","0.25 cup = 28.0g",
+Proximates
+"Water",g,48.20,13.66,13.50
+"Energy",kcal,282,80,79
+"Protein",g,24.69,7.00,6.91
+"Total lipid (fat)",g,19.40,5.50,5.43
+"Carbohydrate, by difference",g,3.41,0.97,0.95
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.56,0.16,0.16
+Minerals
+"Calcium, Ca",mg,1146,325,321
+"Iron, Fe",mg,0.13,0.04,0.04
+"Magnesium, Mg",mg,35,10,10
+"Phosphorus, P",mg,583,165,163
+"Potassium, K",mg,93,26,26
+"Sodium, Na",mg,776,220,217
+"Zinc, Zn",mg,4.30,1.22,1.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.030,0.009,0.008
+"Riboflavin",mg,0.300,0.085,0.084
+"Niacin",mg,0.060,0.017,0.017
+"Vitamin B-6",mg,0.084,0.024,0.024
+"Folate, DFE",µg,20,6,6
+"Vitamin B-12",µg,1.66,0.47,0.46
+"Vitamin A, RAE",µg,155,44,43
+"Vitamin A, IU",IU,586,166,164
+"Vitamin E (alpha-tocopherol)",mg,0.17,0.05,0.05
+"Vitamin D (D2 + D3)",µg,0.4,0.1,0.1
+"Vitamin D",IU,14,4,4
+"Vitamin K (phylloquinone)",µg,1.6,0.5,0.4
+Lipids
+"Fatty acids, total saturated",g,11.580,3.283,3.242
+"Fatty acids, total monounsaturated",g,5.020,1.423,1.406
+"Fatty acids, total polyunsaturated",g,0.750,0.213,0.210
+"Cholesterol",mg,62,18,17
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

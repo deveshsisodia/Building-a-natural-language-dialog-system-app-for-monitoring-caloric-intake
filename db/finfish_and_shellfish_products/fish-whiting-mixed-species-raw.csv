@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:06 EST
+"Nutrient data for: 15132, Fish, whiting, mixed species, raw"
+Nutrient,Unit,1Value per 100 g,"1 fillet = 92.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,80.27,73.85,68.23
+"Energy",kcal,90,83,76
+"Protein",g,18.31,16.85,15.56
+"Total lipid (fat)",g,1.31,1.21,1.11
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,48,44,41
+"Iron, Fe",mg,0.34,0.31,0.29
+"Magnesium, Mg",mg,21,19,18
+"Phosphorus, P",mg,222,204,189
+"Potassium, K",mg,249,229,212
+"Sodium, Na",mg,72,66,61
+"Zinc, Zn",mg,0.88,0.81,0.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.056,0.052,0.048
+"Riboflavin",mg,0.046,0.042,0.039
+"Niacin",mg,1.300,1.196,1.105
+"Vitamin B-6",mg,0.156,0.144,0.133
+"Folate, DFE",µg,13,12,11
+"Vitamin B-12",µg,2.30,2.12,1.95
+"Vitamin A, RAE",µg,30,28,26
+"Vitamin A, IU",IU,100,92,85
+"Vitamin E (alpha-tocopherol)",mg,0.30,0.28,0.26
+"Vitamin D (D2 + D3)",µg,1.4,1.3,1.2
+"Vitamin D",IU,57,52,48
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,0.247,0.227,0.210
+"Fatty acids, total monounsaturated",g,0.279,0.257,0.237
+"Fatty acids, total polyunsaturated",g,0.422,0.388,0.359
+"Cholesterol",mg,67,62,57
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

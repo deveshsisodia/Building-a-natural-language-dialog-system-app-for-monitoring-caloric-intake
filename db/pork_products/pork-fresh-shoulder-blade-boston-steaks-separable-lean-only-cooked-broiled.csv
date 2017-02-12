@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:48 EST
+"Nutrient data for: 10086, Pork, fresh, shoulder, blade, boston (steaks), separable lean only, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 steak, excluding refuse (yield from 1 raw steak, with refuse, weighing 300 g) = 147.0g",
+Proximates
+"Water",g,60.07,51.06,88.30
+"Energy",kcal,227,193,334
+"Protein",g,26.74,22.73,39.31
+"Total lipid (fat)",g,12.54,10.66,18.43
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,33,28,49
+"Iron, Fe",mg,1.56,1.33,2.29
+"Magnesium, Mg",mg,24,20,35
+"Phosphorus, P",mg,220,187,323
+"Potassium, K",mg,343,292,504
+"Sodium, Na",mg,74,63,109
+"Zinc, Zn",mg,5.02,4.27,7.38
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.3,0.4
+"Thiamin",mg,0.750,0.637,1.103
+"Riboflavin",mg,0.440,0.374,0.647
+"Niacin",mg,4.300,3.655,6.321
+"Vitamin B-6",mg,0.310,0.264,0.456
+"Folate, DFE",µg,5,4,7
+"Vitamin B-12",µg,1.13,0.96,1.66
+"Vitamin A, RAE",µg,2,2,3
+"Vitamin A, IU",IU,8,7,12
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.23,0.40
+"Vitamin D (D2 + D3)",µg,1.2,1.0,1.8
+"Vitamin D",IU,48,41,71
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,4.450,3.783,6.542
+"Fatty acids, total monounsaturated",g,5.640,4.794,8.291
+"Fatty acids, total polyunsaturated",g,1.080,0.918,1.588
+"Cholesterol",mg,94,80,138
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:39 EST
+"Nutrient data for: 05176, Turkey, heart, all classes, cooked, simmered"
+Nutrient,Unit,1Value per 100 g,"1 heart = 20.0g",
+Proximates
+"Water",g,67.15,13.43
+"Energy",kcal,174,35
+"Protein",g,24.88,4.98
+"Total lipid (fat)",g,7.52,1.50
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,21,4
+"Iron, Fe",mg,6.96,1.39
+"Magnesium, Mg",mg,28,6
+"Phosphorus, P",mg,241,48
+"Potassium, K",mg,203,41
+"Sodium, Na",mg,140,28
+"Zinc, Zn",mg,4.60,0.92
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.236,0.047
+"Riboflavin",mg,1.540,0.308
+"Niacin",mg,7.760,1.552
+"Vitamin B-6",mg,0.608,0.122
+"Folate, DFE",µg,8,2
+"Vitamin B-12",µg,13.90,2.78
+"Vitamin A, RAE",µg,16,3
+"Vitamin A, IU",IU,54,11
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.898,0.380
+"Fatty acids, total monounsaturated",g,1.668,0.334
+"Fatty acids, total polyunsaturated",g,1.832,0.366
+"Fatty acids, total trans",g,0.061,0.012
+"Cholesterol",mg,359,72
+Amino Acids
+Other
+"Caffeine",mg,0,0

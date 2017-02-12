@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:10 EST
+"Nutrient data for: 17202, Veal, variety meats and by-products, liver, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.0g",
+Proximates
+"Water",g,70.89,20.10,321.13
+"Energy",kcal,140,40,634
+"Protein",g,19.93,5.65,90.28
+"Total lipid (fat)",g,4.85,1.37,21.97
+"Carbohydrate, by difference",g,2.91,0.82,13.18
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,5,1,23
+"Iron, Fe",mg,6.40,1.81,28.99
+"Magnesium, Mg",mg,20,6,91
+"Phosphorus, P",mg,379,107,1717
+"Potassium, K",mg,308,87,1395
+"Sodium, Na",mg,77,22,349
+"Zinc, Zn",mg,12.02,3.41,54.45
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.2,3.2
+"Thiamin",mg,0.173,0.049,0.784
+"Riboflavin",mg,2.440,0.692,11.053
+"Niacin",mg,10.550,2.991,47.792
+"Vitamin B-6",mg,0.957,0.271,4.335
+"Folate, DFE",µg,125,35,566
+"Vitamin B-12",µg,59.85,16.97,271.12
+"Vitamin A, RAE",µg,11707,3319,53033
+"Vitamin A, IU",IU,39056,11072,176924
+"Vitamin E (alpha-tocopherol)",mg,0.37,0.10,1.68
+"Vitamin K (phylloquinone)",µg,0.9,0.3,4.1
+Lipids
+"Fatty acids, total saturated",g,1.560,0.442,7.067
+"Fatty acids, total monounsaturated",g,0.968,0.274,4.385
+"Fatty acids, total polyunsaturated",g,0.829,0.235,3.755
+"Fatty acids, total trans",g,0.215,0.061,0.974
+"Cholesterol",mg,334,95,1513
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

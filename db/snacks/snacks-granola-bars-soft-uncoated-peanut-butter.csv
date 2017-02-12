@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:54 EST
+"Nutrient data for: 19021, Snacks, granola bars, soft, uncoated, peanut butter"
+Nutrient,Unit,1Value per 100 g,"1 bar (1 oz) = 28.0g",
+Proximates
+"Water",g,7.30,2.04
+"Energy",kcal,426,119
+"Protein",g,10.50,2.94
+"Total lipid (fat)",g,15.80,4.42
+"Carbohydrate, by difference",g,64.40,18.03
+"Fiber, total dietary",g,4.3,1.2
+Minerals
+"Calcium, Ca",mg,91,25
+"Iron, Fe",mg,2.13,0.60
+"Magnesium, Mg",mg,86,24
+"Phosphorus, P",mg,250,70
+"Potassium, K",mg,291,81
+"Sodium, Na",mg,409,115
+"Zinc, Zn",mg,1.86,0.52
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.228,0.064
+"Riboflavin",mg,0.148,0.041
+"Niacin",mg,3.142,0.880
+"Vitamin B-6",mg,0.103,0.029
+"Folate, DFE",µg,32,9
+"Vitamin B-12",µg,0.20,0.06
+"Vitamin A, RAE",µg,2,1
+"Vitamin A, IU",IU,14,4
+Lipids
+"Fatty acids, total saturated",g,3.650,1.022
+"Fatty acids, total monounsaturated",g,6.590,1.845
+"Fatty acids, total polyunsaturated",g,4.270,1.196
+"Cholesterol",mg,0,0
+Amino Acids
+Other

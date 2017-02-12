@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:08 EST
+"Nutrient data for: 01131, Egg, whole, cooked, poached"
+Nutrient,Unit,1Value per 100 g,"1 large = 50.0g",
+Proximates
+"Water",g,75.85,37.92
+"Energy",kcal,143,72
+"Protein",g,12.51,6.25
+"Total lipid (fat)",g,9.47,4.74
+"Carbohydrate, by difference",g,0.71,0.35
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.37,0.18
+Minerals
+"Calcium, Ca",mg,56,28
+"Iron, Fe",mg,1.75,0.88
+"Magnesium, Mg",mg,12,6
+"Phosphorus, P",mg,197,98
+"Potassium, K",mg,138,69
+"Sodium, Na",mg,297,148
+"Zinc, Zn",mg,1.29,0.65
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.032,0.016
+"Riboflavin",mg,0.387,0.194
+"Niacin",mg,0.063,0.032
+"Vitamin B-6",mg,0.144,0.072
+"Folate, DFE",µg,35,18
+"Vitamin B-12",µg,0.71,0.35
+"Vitamin A, RAE",µg,160,80
+"Vitamin A, IU",IU,538,269
+"Vitamin E (alpha-tocopherol)",mg,1.04,0.52
+"Vitamin D (D2 + D3)",µg,2.0,1.0
+"Vitamin D",IU,82,41
+"Vitamin K (phylloquinone)",µg,0.3,0.1
+Lipids
+"Fatty acids, total saturated",g,3.113,1.556
+"Fatty acids, total monounsaturated",g,3.643,1.821
+"Fatty acids, total polyunsaturated",g,1.904,0.952
+"Fatty acids, total trans",g,0.038,0.019
+"Cholesterol",mg,370,185
+Amino Acids
+Other
+"Caffeine",mg,0,0

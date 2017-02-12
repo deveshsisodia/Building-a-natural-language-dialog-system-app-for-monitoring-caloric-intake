@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:07 EST
+"Nutrient data for: 15168, Mollusks, oyster, eastern, cooked, breaded and fried"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","6.0 medium = 88.0g",
+Proximates
+"Water",g,64.72,55.01,56.95
+"Energy",kcal,199,169,175
+"Protein",g,8.77,7.45,7.72
+"Total lipid (fat)",g,12.58,10.69,11.07
+"Carbohydrate, by difference",g,11.62,9.88,10.23
+Minerals
+"Calcium, Ca",mg,62,53,55
+"Iron, Fe",mg,6.95,5.91,6.12
+"Magnesium, Mg",mg,58,49,51
+"Phosphorus, P",mg,159,135,140
+"Potassium, K",mg,244,207,215
+"Sodium, Na",mg,417,354,367
+"Zinc, Zn",mg,87.13,74.06,76.67
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.8,3.2,3.3
+"Thiamin",mg,0.150,0.128,0.132
+"Riboflavin",mg,0.202,0.172,0.178
+"Niacin",mg,1.650,1.403,1.452
+"Vitamin B-6",mg,0.064,0.054,0.056
+"Folate, DFE",µg,43,37,38
+"Vitamin B-12",µg,15.63,13.29,13.75
+"Vitamin A, RAE",µg,90,76,79
+"Vitamin A, IU",IU,302,257,266
+Lipids
+"Fatty acids, total saturated",g,3.197,2.717,2.813
+"Fatty acids, total monounsaturated",g,4.702,3.997,4.138
+"Fatty acids, total polyunsaturated",g,3.313,2.816,2.915
+"Cholesterol",mg,71,60,62
+Amino Acids
+Other

@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:21 EST
+"Nutrient data for: 14240, Beverages, cranberry-apricot juice drink, bottled"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 30.6g","1 cup (8 fl oz) = 245.0g",
+Proximates
+"Water",g,83.50,25.55,204.57
+"Energy",kcal,64,20,157
+"Protein",g,0.20,0.06,0.49
+"Total lipid (fat)",g,0.00,0.00,0.00
+"Carbohydrate, by difference",g,16.20,4.96,39.69
+"Fiber, total dietary",g,0.1,0.0,0.2
+Minerals
+"Calcium, Ca",mg,9,3,22
+"Iron, Fe",mg,0.15,0.05,0.37
+"Magnesium, Mg",mg,3,1,7
+"Phosphorus, P",mg,5,2,12
+"Potassium, K",mg,61,19,149
+"Sodium, Na",mg,2,1,5
+"Zinc, Zn",mg,0.04,0.01,0.10
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.005,0.002,0.012
+"Riboflavin",mg,0.010,0.003,0.025
+"Niacin",mg,0.120,0.037,0.294
+"Vitamin B-6",mg,0.020,0.006,0.049
+"Folate, DFE",µg,1,0,2
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,23,7,56
+"Vitamin A, IU",IU,463,142,1134
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

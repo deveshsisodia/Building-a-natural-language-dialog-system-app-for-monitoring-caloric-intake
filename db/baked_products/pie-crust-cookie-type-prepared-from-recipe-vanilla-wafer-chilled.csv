@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:44 EST
+"Nutrient data for: 18401, Pie crust, cookie-type, prepared from recipe, vanilla wafer, chilled"
+Nutrient,Unit,1Value per 100 g,"1 cup = 129.0g","1 crust, single 9"" = 176.0g","1 piece (1/8 of 9"" crust) = 22.0g",
+Proximates
+"Water",g,8.50,10.96,14.96,1.87
+"Energy",kcal,531,685,935,117
+"Protein",g,3.70,4.77,6.51,0.81
+"Total lipid (fat)",g,36.20,46.70,63.71,7.96
+"Carbohydrate, by difference",g,50.20,64.76,88.35,11.04
+"Fiber, total dietary",g,0.1,0.1,0.2,0.0
+"Sugars, total",g,7.33,9.46,12.90,1.61
+Minerals
+"Calcium, Ca",mg,42,54,74,9
+"Iron, Fe",mg,1.63,2.10,2.87,0.36
+"Magnesium, Mg",mg,10,13,18,2
+"Phosphorus, P",mg,78,101,137,17
+"Potassium, K",mg,79,102,139,17
+"Sodium, Na",mg,515,664,906,113
+"Zinc, Zn",mg,0.24,0.31,0.42,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.1,0.2,0.0
+"Thiamin",mg,0.189,0.244,0.333,0.042
+"Riboflavin",mg,0.229,0.295,0.403,0.050
+"Niacin",mg,2.113,2.726,3.719,0.465
+"Vitamin B-6",mg,0.052,0.067,0.092,0.011
+"Folate, DFE",µg,79,102,139,17
+"Vitamin B-12",µg,0.09,0.12,0.16,0.02
+"Vitamin A, RAE",µg,269,347,473,59
+"Vitamin A, IU",IU,1172,1512,2063,258
+"Vitamin E (alpha-tocopherol)",mg,3.06,3.95,5.39,0.67
+"Vitamin D (D2 + D3)",µg,0.5,0.6,0.9,0.1
+"Vitamin D",IU,21,27,37,5
+"Vitamin K (phylloquinone)",µg,34.0,43.9,59.8,7.5
+Lipids
+"Fatty acids, total saturated",g,7.434,9.590,13.084,1.635
+"Fatty acids, total monounsaturated",g,15.647,20.185,27.539,3.442
+"Fatty acids, total polyunsaturated",g,10.682,13.780,18.800,2.350
+"Cholesterol",mg,39,50,69,9
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

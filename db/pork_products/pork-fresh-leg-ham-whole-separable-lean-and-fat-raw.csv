@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:42 EST
+"Nutrient data for: 10008, Pork, fresh, leg (ham), whole, separable lean and fat, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g",
+Proximates
+"Water",g,62.47,17.71,283.36
+"Energy",kcal,245,69,1111
+"Protein",g,17.43,4.94,79.06
+"Total lipid (fat)",g,18.87,5.35,85.59
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,5,1,23
+"Iron, Fe",mg,0.85,0.24,3.86
+"Magnesium, Mg",mg,20,6,91
+"Phosphorus, P",mg,199,56,903
+"Potassium, K",mg,315,89,1429
+"Sodium, Na",mg,47,13,213
+"Zinc, Zn",mg,1.93,0.55,8.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.2,3.2
+"Thiamin",mg,0.736,0.209,3.338
+"Riboflavin",mg,0.200,0.057,0.907
+"Niacin",mg,4.574,1.297,20.748
+"Vitamin B-6",mg,0.401,0.114,1.819
+"Folate, DFE",µg,7,2,32
+"Vitamin B-12",µg,0.63,0.18,2.86
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,7,2,32
+"Vitamin D (D2 + D3)",µg,0.5,0.1,2.3
+"Vitamin D",IU,20,6,91
+Lipids
+"Fatty acids, total saturated",g,6.540,1.854,29.665
+"Fatty acids, total monounsaturated",g,8.380,2.376,38.012
+"Fatty acids, total polyunsaturated",g,2.010,0.570,9.117
+"Cholesterol",mg,73,21,331
+Amino Acids
+Other

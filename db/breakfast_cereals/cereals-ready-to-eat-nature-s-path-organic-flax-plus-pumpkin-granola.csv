@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:02 EST
+"Nutrient data for: 08571, Cereals ready-to-eat, NATURE'S PATH, Organic FLAX PLUS, Pumpkin Granola"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 55.0g",
+Proximates
+"Water",g,3.00,1.65
+"Energy",kcal,467,257
+"Protein",g,11.23,6.18
+"Total lipid (fat)",g,18.33,10.08
+"Carbohydrate, by difference",g,66.10,36.35
+"Fiber, total dietary",g,8.4,4.6
+"Sugars, total",g,18.17,9.99
+Minerals
+"Calcium, Ca",mg,51,28
+"Iron, Fe",mg,4.04,2.22
+"Magnesium, Mg",mg,40,22
+"Phosphorus, P",mg,323,178
+"Potassium, K",mg,291,160
+"Sodium, Na",mg,74,41
+"Zinc, Zn",mg,0.40,0.22
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.2
+"Thiamin",mg,0.120,0.066
+"Riboflavin",mg,0.010,0.006
+"Niacin",mg,0.200,0.110
+"Vitamin B-6",mg,0.030,0.017
+"Folate, DFE",µg,15,8
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.89,0.49
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,26.2,14.4
+Lipids
+"Fatty acids, total saturated",g,2.800,1.540
+"Fatty acids, total monounsaturated",g,4.020,2.211
+"Fatty acids, total polyunsaturated",g,8.550,4.703
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

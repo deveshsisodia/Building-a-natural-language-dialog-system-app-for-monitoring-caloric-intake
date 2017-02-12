@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:21 EST
+"Nutrient data for: 14423, Beverages, dairy drink mix, chocolate, reduced calorie, with aspartame, powder, prepared with water and ice"
+Nutrient,Unit,1Value per 100 g,"1 serving = 243.0g",
+Proximates
+"Water",g,92.26,224.19
+"Energy",kcal,29,70
+"Protein",g,2.19,5.32
+"Total lipid (fat)",g,0.23,0.56
+"Carbohydrate, by difference",g,4.51,10.96
+"Fiber, total dietary",g,0.8,1.9
+"Sugars, total",g,2.89,7.02
+Minerals
+"Calcium, Ca",mg,127,309
+"Iron, Fe",mg,0.68,1.65
+"Magnesium, Mg",mg,19,46
+"Phosphorus, P",mg,78,190
+"Potassium, K",mg,197,479
+"Sodium, Na",mg,61,148
+"Zinc, Zn",mg,0.32,0.78
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,1.2
+"Thiamin",mg,0.010,0.024
+"Riboflavin",mg,0.170,0.413
+"Niacin",mg,0.110,0.267
+"Vitamin B-6",mg,0.010,0.024
+"Folate, DFE",µg,3,7
+"Vitamin B-12",µg,0.18,0.44
+"Vitamin A, RAE",µg,18,44
+"Vitamin A, IU",IU,61,148
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin K (phylloquinone)",µg,0.1,0.2
+Lipids
+"Fatty acids, total saturated",g,0.164,0.399
+"Fatty acids, total monounsaturated",g,0.043,0.104
+"Fatty acids, total polyunsaturated",g,0.005,0.012
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,2,5
+Amino Acids
+Other
+"Caffeine",mg,2,5

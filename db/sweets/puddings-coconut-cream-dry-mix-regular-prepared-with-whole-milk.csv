@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:47 EST
+"Nutrient data for: 19325, Puddings, coconut cream, dry mix, regular, prepared with whole milk"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 140.0g","1 package yield (2 cups) = 559.0g",
+Proximates
+"Water",g,74.60,104.44,417.01
+"Energy",kcal,114,160,637
+"Protein",g,3.00,4.20,16.77
+"Total lipid (fat)",g,3.80,5.32,21.24
+"Carbohydrate, by difference",g,17.70,24.78,98.94
+"Fiber, total dietary",g,0.2,0.3,1.1
+Minerals
+"Calcium, Ca",mg,111,155,620
+"Iron, Fe",mg,0.20,0.28,1.12
+"Magnesium, Mg",mg,16,22,89
+"Phosphorus, P",mg,88,123,492
+"Potassium, K",mg,157,220,878
+"Sodium, Na",mg,162,227,906
+"Zinc, Zn",mg,0.36,0.50,2.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,1.0,3.9
+"Thiamin",mg,0.032,0.045,0.179
+"Riboflavin",mg,0.143,0.200,0.799
+"Niacin",mg,0.089,0.125,0.498
+"Vitamin B-6",mg,0.144,0.202,0.805
+"Folate, DFE",µg,4,6,22
+"Vitamin B-12",µg,0.25,0.35,1.40
+"Vitamin A, RAE",µg,26,36,145
+"Vitamin A, IU",IU,110,154,615
+Lipids
+"Fatty acids, total saturated",g,2.570,3.598,14.366
+"Fatty acids, total monounsaturated",g,0.880,1.232,4.919
+"Fatty acids, total polyunsaturated",g,0.120,0.168,0.671
+"Cholesterol",mg,12,17,67
+Amino Acids
+Other

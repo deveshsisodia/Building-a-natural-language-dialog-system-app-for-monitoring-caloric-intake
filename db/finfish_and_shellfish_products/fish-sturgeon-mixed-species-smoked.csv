@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:04 EST
+"Nutrient data for: 15106, Fish, sturgeon, mixed species, smoked"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","3.0 oz = 85.0g",
+Proximates
+"Water",g,62.50,17.72,53.12
+"Energy",kcal,173,49,147
+"Protein",g,31.20,8.85,26.52
+"Total lipid (fat)",g,4.40,1.25,3.74
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,17,5,14
+"Iron, Fe",mg,0.93,0.26,0.79
+"Magnesium, Mg",mg,47,13,40
+"Phosphorus, P",mg,281,80,239
+"Potassium, K",mg,379,107,322
+"Sodium, Na",mg,739,210,628
+"Zinc, Zn",mg,0.56,0.16,0.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.090,0.026,0.076
+"Riboflavin",mg,0.090,0.026,0.076
+"Niacin",mg,11.100,3.147,9.435
+"Vitamin B-6",mg,0.270,0.077,0.230
+"Folate, DFE",µg,20,6,17
+"Vitamin B-12",µg,2.90,0.82,2.46
+"Vitamin A, RAE",µg,280,79,238
+"Vitamin A, IU",IU,933,265,793
+"Vitamin E (alpha-tocopherol)",mg,0.50,0.14,0.42
+"Vitamin D (D2 + D3)",µg,16.1,4.6,13.7
+"Vitamin D",IU,642,182,546
+"Vitamin K (phylloquinone)",µg,0.1,0.0,0.1
+Lipids
+"Fatty acids, total saturated",g,1.037,0.294,0.881
+"Fatty acids, total monounsaturated",g,2.356,0.668,2.003
+"Fatty acids, total polyunsaturated",g,0.436,0.124,0.371
+"Cholesterol",mg,80,23,68
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:48 EST
+"Nutrient data for: 03945, Infant formula, ABBOTT NUTRITION, SIMILAC, NEOSURE, powder, with ARA and DHA"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 30.5g",
+Proximates
+"Water",g,2.25,0.69
+"Energy",kcal,520,159
+"Protein",g,14.42,4.40
+"Total lipid (fat)",g,28.33,8.64
+"Carbohydrate, by difference",g,51.75,15.78
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,52.02,15.87
+Minerals
+"Calcium, Ca",mg,541,165
+"Iron, Fe",mg,9.26,2.82
+"Magnesium, Mg",mg,46,14
+"Phosphorus, P",mg,319,97
+"Potassium, K",mg,731,223
+"Sodium, Na",mg,170,52
+"Zinc, Zn",mg,6.18,1.88
+Vitamins
+"Vitamin C, total ascorbic acid",mg,77.2,23.5
+"Thiamin",mg,1.133,0.346
+"Riboflavin",mg,0.773,0.236
+"Niacin",mg,10.043,3.063
+"Vitamin B-6",mg,0.515,0.157
+"Folate, DFE",µg,218,66
+"Vitamin B-12",µg,2.06,0.63
+"Vitamin A, RAE",µg,711,217
+"Vitamin A, IU",IU,2371,723
+"Vitamin E (alpha-tocopherol)",mg,8.34,2.54
+"Vitamin D (D2 + D3)",µg,9.0,2.7
+"Vitamin D",IU,361,110
+"Vitamin K (phylloquinone)",µg,56.7,17.3
+Lipids
+"Fatty acids, total saturated",g,9.871,3.011
+"Fatty acids, total monounsaturated",g,10.492,3.200
+"Fatty acids, total polyunsaturated",g,6.660,2.031
+"Cholesterol",mg,14,4
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(b)"Added vitamin E is RRR alpha tocopherol."
+(a)"Contains arachidonic acid (ARA, nutrient number 620) and docosahexaenoic acid (DHA, nutrient number 621), fatty acids found in human breast milk."

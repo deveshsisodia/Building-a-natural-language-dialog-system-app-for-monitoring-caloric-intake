@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:20 EST
+"Nutrient data for: 11908, Corn, sweet, white, canned, vacuum pack, regular pack"
+Nutrient,Unit,1Value per 100 g,"1 cup = 210.0g","1 can (303 x 406) = 340.0g",
+Proximates
+"Water",g,76.58,160.82,260.37
+"Energy",kcal,79,166,269
+"Protein",g,2.41,5.06,8.19
+"Total lipid (fat)",g,0.50,1.05,1.70
+"Carbohydrate, by difference",g,19.44,40.82,66.10
+"Fiber, total dietary",g,2.0,4.2,6.8
+Minerals
+"Calcium, Ca",mg,5,10,17
+"Iron, Fe",mg,0.42,0.88,1.43
+"Magnesium, Mg",mg,23,48,78
+"Phosphorus, P",mg,64,134,218
+"Potassium, K",mg,186,391,632
+"Sodium, Na",mg,272,571,925
+"Zinc, Zn",mg,0.46,0.97,1.56
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.1,17.0,27.5
+"Thiamin",mg,0.041,0.086,0.139
+"Riboflavin",mg,0.073,0.153,0.248
+"Niacin",mg,1.167,2.451,3.968
+"Vitamin B-6",mg,0.055,0.116,0.187
+"Folate, DFE",µg,49,103,167
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,1,2,3
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.077,0.162,0.262
+"Fatty acids, total monounsaturated",g,0.147,0.309,0.500
+"Fatty acids, total polyunsaturated",g,0.237,0.498,0.806
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

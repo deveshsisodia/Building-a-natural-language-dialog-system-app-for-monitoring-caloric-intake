@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:43 EST
+"Nutrient data for: 18295, Pancakes, buckwheat, dry mix, incomplete"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cup, poured from box = 122.0g",
+Proximates
+"Water",g,9.10,2.58,11.10
+"Energy",kcal,340,96,415
+"Protein",g,10.90,3.09,13.30
+"Total lipid (fat)",g,2.70,0.77,3.29
+"Carbohydrate, by difference",g,71.30,20.21,86.99
+"Fiber, total dietary",g,8.5,2.4,10.4
+"Sugars, total",g,7.21,2.04,8.80
+Minerals
+"Calcium, Ca",mg,476,135,581
+"Iron, Fe",mg,4.73,1.34,5.77
+"Magnesium, Mg",mg,190,54,232
+"Phosphorus, P",mg,913,259,1114
+"Potassium, K",mg,316,90,386
+"Sodium, Na",mg,684,194,834
+"Zinc, Zn",mg,2.55,0.72,3.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.542,0.154,0.661
+"Riboflavin",mg,0.249,0.071,0.304
+"Niacin",mg,4.095,1.161,4.996
+"Vitamin B-6",mg,0.438,0.124,0.534
+"Folate, DFE",µg,66,19,81
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.48,0.14,0.59
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,3.0,0.9,3.7
+Lipids
+"Fatty acids, total saturated",g,0.439,0.124,0.536
+"Fatty acids, total monounsaturated",g,0.581,0.165,0.709
+"Fatty acids, total polyunsaturated",g,1.000,0.284,1.220
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

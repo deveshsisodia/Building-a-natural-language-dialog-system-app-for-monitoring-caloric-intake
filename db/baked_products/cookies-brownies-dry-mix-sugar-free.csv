@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:33 EST
+"Nutrient data for: 18196, Cookies, brownies, dry mix, sugar free"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 package (8.5 oz) = 241.0g",
+Proximates
+"Water",g,3.50,0.99,8.44
+"Energy",kcal,426,121,1027
+"Protein",g,2.90,0.82,6.99
+"Total lipid (fat)",g,12.50,3.54,30.12
+"Carbohydrate, by difference",g,80.40,22.79,193.76
+"Fiber, total dietary",g,4.2,1.2,10.1
+Minerals
+"Calcium, Ca",mg,12,3,29
+"Iron, Fe",mg,1.52,0.43,3.66
+"Magnesium, Mg",mg,4,1,10
+"Phosphorus, P",mg,57,16,137
+"Potassium, K",mg,335,95,807
+"Sodium, Na",mg,83,24,200
+"Zinc, Zn",mg,0.14,0.04,0.34
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.139,0.039,0.335
+"Riboflavin",mg,0.109,0.031,0.263
+"Niacin",mg,1.240,0.352,2.988
+"Vitamin B-6",mg,0.008,0.002,0.019
+"Folate, DFE",µg,80,23,193
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,2.018,0.572,4.863
+"Fatty acids, total monounsaturated",g,5.233,1.484,12.612
+"Fatty acids, total polyunsaturated",g,4.577,1.298,11.031
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

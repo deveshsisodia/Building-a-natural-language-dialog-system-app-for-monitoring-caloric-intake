@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:44 EST
+"Nutrient data for: 18402, Pie crust, standard-type, prepared from recipe, unbaked"
+Nutrient,Unit,1Value per 100 g,"1 piece (1/8 of 9"" crust) = 24.0g","1 crust, single 9"" = 194.0g",
+Proximates
+"Water",g,19.70,4.73,38.22
+"Energy",kcal,469,113,910
+"Protein",g,5.70,1.37,11.06
+"Total lipid (fat)",g,30.80,7.39,59.75
+"Carbohydrate, by difference",g,42.30,10.15,82.06
+"Fiber, total dietary",g,3.4,0.8,6.6
+"Sugars, total",g,0.15,0.04,0.29
+Minerals
+"Calcium, Ca",mg,9,2,17
+"Iron, Fe",mg,2.57,0.62,4.99
+"Magnesium, Mg",mg,12,3,23
+"Phosphorus, P",mg,60,14,116
+"Potassium, K",mg,59,14,114
+"Sodium, Na",mg,482,116,935
+"Zinc, Zn",mg,0.39,0.09,0.76
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.348,0.084,0.675
+"Riboflavin",mg,0.246,0.059,0.477
+"Niacin",mg,2.943,0.706,5.709
+"Vitamin B-6",mg,0.022,0.005,0.043
+"Folate, DFE",µg,114,27,221
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.28,0.07,0.54
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,13.2,3.2,25.6
+Lipids
+"Fatty acids, total saturated",g,7.674,1.842,14.888
+"Fatty acids, total monounsaturated",g,13.500,3.240,26.190
+"Fatty acids, total polyunsaturated",g,8.119,1.949,15.751
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

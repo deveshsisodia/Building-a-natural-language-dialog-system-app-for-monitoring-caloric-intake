@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:30 EST
+"Nutrient data for: 11861, Squash, summer, zucchini, includes skin, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"0.5 cup slices = 90.0g","0.5 cup, mashed = 120.0g",
+Proximates
+"Water",g,95.22,85.70,114.26
+"Energy",kcal,15,14,18
+"Protein",g,1.14,1.03,1.37
+"Total lipid (fat)",g,0.36,0.32,0.43
+"Carbohydrate, by difference",g,2.69,2.42,3.23
+"Fiber, total dietary",g,1.0,0.9,1.2
+"Sugars, total",g,1.71,1.54,2.05
+Minerals
+"Calcium, Ca",mg,18,16,22
+"Iron, Fe",mg,0.37,0.33,0.44
+"Magnesium, Mg",mg,19,17,23
+"Phosphorus, P",mg,37,33,44
+"Potassium, K",mg,264,238,317
+"Sodium, Na",mg,239,215,287
+"Zinc, Zn",mg,0.33,0.30,0.40
+Vitamins
+"Vitamin C, total ascorbic acid",mg,12.9,11.6,15.5
+"Thiamin",mg,0.035,0.032,0.042
+"Riboflavin",mg,0.024,0.022,0.029
+"Niacin",mg,0.510,0.459,0.612
+"Vitamin B-6",mg,0.080,0.072,0.096
+"Folate, DFE",µg,28,25,34
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,56,50,67
+"Vitamin A, IU",IU,1117,1005,1340
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.11,0.14
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,4.2,3.8,5.0
+Lipids
+"Fatty acids, total saturated",g,0.072,0.065,0.086
+"Fatty acids, total monounsaturated",g,0.029,0.026,0.035
+"Fatty acids, total polyunsaturated",g,0.151,0.136,0.181
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

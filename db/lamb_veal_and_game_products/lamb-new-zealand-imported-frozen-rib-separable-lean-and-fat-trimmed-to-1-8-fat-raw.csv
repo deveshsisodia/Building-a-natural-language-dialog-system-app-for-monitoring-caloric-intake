@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:01 EST
+"Nutrient data for: 17262, Lamb, new zealand, imported, frozen, rib, separable lean and fat, trimmed to 1/8"" fat, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g",
+Proximates
+"Water",g,56.61,16.05,256.78
+"Energy",kcal,311,88,1411
+"Protein",g,15.87,4.50,71.99
+"Total lipid (fat)",g,27.00,7.65,122.47
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,15,4,68
+"Iron, Fe",mg,1.43,0.41,6.49
+"Magnesium, Mg",mg,13,4,59
+"Phosphorus, P",mg,153,43,694
+"Potassium, K",mg,120,34,544
+"Sodium, Na",mg,42,12,191
+"Zinc, Zn",mg,2.19,0.62,9.93
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.120,0.034,0.544
+"Riboflavin",mg,0.260,0.074,1.179
+"Niacin",mg,6.290,1.783,28.531
+"Vitamin B-6",mg,0.090,0.026,0.408
+"Folate, DFE",µg,1,0,5
+"Vitamin B-12",µg,2.22,0.63,10.07
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,13.700,3.884,62.143
+"Fatty acids, total monounsaturated",g,10.350,2.934,46.948
+"Fatty acids, total polyunsaturated",g,1.160,0.329,5.262
+"Cholesterol",mg,80,23,363
+Amino Acids
+Other

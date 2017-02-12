@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:41 EST
+"Nutrient data for: 19281, Frozen novelties, ice type, italian, restaurant-prepared"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 29.0g","0.5 cup = 116.0g",
+Proximates
+"Water",g,86.40,25.06,100.22
+"Energy",kcal,53,15,61
+"Protein",g,0.03,0.01,0.03
+"Total lipid (fat)",g,0.02,0.01,0.02
+"Carbohydrate, by difference",g,13.50,3.92,15.66
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,1,0,1
+"Iron, Fe",mg,0.09,0.03,0.10
+"Magnesium, Mg",mg,0,0,0
+"Phosphorus, P",mg,0,0,0
+"Potassium, K",mg,6,2,7
+"Sodium, Na",mg,4,1,5
+"Zinc, Zn",mg,0.03,0.01,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.1,0.6
+"Thiamin",mg,0.005,0.001,0.006
+"Riboflavin",mg,0.010,0.003,0.012
+"Niacin",mg,0.715,0.207,0.829
+"Vitamin B-6",mg,0.002,0.001,0.002
+"Folate, DFE",µg,5,1,6
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, IU",IU,167,48,194
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

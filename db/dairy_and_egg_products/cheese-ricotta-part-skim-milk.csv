@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:07 EST
+"Nutrient data for: 01037, Cheese, ricotta, part skim milk"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 124.0g","1 oz = 28.35g","1 cup = 246.0g",
+Proximates
+"Water",g,74.41,92.27,21.10,183.05
+"Energy",kcal,138,171,39,339
+"Protein",g,11.39,14.12,3.23,28.02
+"Total lipid (fat)",g,7.91,9.81,2.24,19.46
+"Carbohydrate, by difference",g,5.14,6.37,1.46,12.64
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.31,0.38,0.09,0.76
+Minerals
+"Calcium, Ca",mg,272,337,77,669
+"Iron, Fe",mg,0.44,0.55,0.12,1.08
+"Magnesium, Mg",mg,15,19,4,37
+"Phosphorus, P",mg,183,227,52,450
+"Potassium, K",mg,125,155,35,308
+"Sodium, Na",mg,99,123,28,244
+"Zinc, Zn",mg,1.34,1.66,0.38,3.30
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.021,0.026,0.006,0.052
+"Riboflavin",mg,0.185,0.229,0.052,0.455
+"Niacin",mg,0.078,0.097,0.022,0.192
+"Vitamin B-6",mg,0.020,0.025,0.006,0.049
+"Folate, DFE",µg,13,16,4,32
+"Vitamin B-12",µg,0.29,0.36,0.08,0.71
+"Vitamin A, RAE",µg,107,133,30,263
+"Vitamin A, IU",IU,384,476,109,945
+"Vitamin E (alpha-tocopherol)",mg,0.07,0.09,0.02,0.17
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.0,0.2
+"Vitamin D",IU,6,7,2,15
+"Vitamin K (phylloquinone)",µg,0.7,0.9,0.2,1.7
+Lipids
+"Fatty acids, total saturated",g,4.927,6.109,1.397,12.120
+"Fatty acids, total monounsaturated",g,2.314,2.869,0.656,5.692
+"Fatty acids, total polyunsaturated",g,0.260,0.322,0.074,0.640
+"Cholesterol",mg,31,38,9,76
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

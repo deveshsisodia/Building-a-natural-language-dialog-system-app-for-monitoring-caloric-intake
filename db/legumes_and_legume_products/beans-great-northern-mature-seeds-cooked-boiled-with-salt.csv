@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:56 EST
+"Nutrient data for: 16325, Beans, great northern, mature seeds, cooked, boiled, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 177.0g",
+Proximates
+"Water",g,69.00,122.13
+"Energy",kcal,118,209
+"Protein",g,8.33,14.74
+"Total lipid (fat)",g,0.45,0.80
+"Carbohydrate, by difference",g,21.09,37.33
+"Fiber, total dietary",g,7.0,12.4
+Minerals
+"Calcium, Ca",mg,68,120
+"Iron, Fe",mg,2.13,3.77
+"Magnesium, Mg",mg,50,88
+"Phosphorus, P",mg,165,292
+"Potassium, K",mg,391,692
+"Sodium, Na",mg,238,421
+"Zinc, Zn",mg,0.88,1.56
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.3,2.3
+"Thiamin",mg,0.158,0.280
+"Riboflavin",mg,0.059,0.104
+"Niacin",mg,0.681,1.205
+"Vitamin B-6",mg,0.117,0.207
+"Folate, DFE",µg,102,181
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,1,2
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.140,0.248
+"Fatty acids, total monounsaturated",g,0.021,0.037
+"Fatty acids, total polyunsaturated",g,0.187,0.331
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

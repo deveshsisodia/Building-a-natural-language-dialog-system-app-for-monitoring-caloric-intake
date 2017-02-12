@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:24 EST
+"Nutrient data for: 11284, Onions, dehydrated flakes"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 5.0g","0.25 cup = 14.0g",
+Proximates
+"Water",g,3.93,0.20,0.55
+"Energy",kcal,349,17,49
+"Protein",g,8.95,0.45,1.25
+"Total lipid (fat)",g,0.46,0.02,0.06
+"Carbohydrate, by difference",g,83.28,4.16,11.66
+"Fiber, total dietary",g,9.2,0.5,1.3
+"Sugars, total",g,37.41,1.87,5.24
+Minerals
+"Calcium, Ca",mg,257,13,36
+"Iron, Fe",mg,1.55,0.08,0.22
+"Magnesium, Mg",mg,92,5,13
+"Phosphorus, P",mg,303,15,42
+"Potassium, K",mg,1622,81,227
+"Sodium, Na",mg,21,1,3
+"Zinc, Zn",mg,1.89,0.09,0.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,75.0,3.8,10.5
+"Thiamin",mg,0.500,0.025,0.070
+"Riboflavin",mg,0.100,0.005,0.014
+"Niacin",mg,0.990,0.050,0.139
+"Vitamin B-6",mg,1.600,0.080,0.224
+"Folate, DFE",µg,166,8,23
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,0,0
+"Vitamin A, IU",IU,18,1,3
+"Vitamin E (alpha-tocopherol)",mg,0.18,0.01,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,3.8,0.2,0.5
+Lipids
+"Fatty acids, total saturated",g,0.078,0.004,0.011
+"Fatty acids, total monounsaturated",g,0.064,0.003,0.009
+"Fatty acids, total polyunsaturated",g,0.180,0.009,0.025
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

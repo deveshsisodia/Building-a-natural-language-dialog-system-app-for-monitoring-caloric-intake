@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:39 EST
+"Nutrient data for: 43390, Turkey, light or dark meat, smoked, cooked, with skin, bone removed"
+Nutrient,Unit,1Value per 100 g,"3.0 oz, boneless = 85.0g","1 medium slice (approx 3"" x 2"" x 1/4"") = 28.0g","1 thick slice (approx 3"" x 2"" x 3/8"") = 42.0g",
+Proximates
+"Water",g,61.70,52.45,17.28,25.91
+"Energy",kcal,208,177,58,87
+"Protein",g,28.10,23.89,7.87,11.80
+"Total lipid (fat)",g,9.70,8.24,2.72,4.07
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,26,22,7,11
+"Iron, Fe",mg,1.79,1.52,0.50,0.75
+"Magnesium, Mg",mg,25,21,7,10
+"Phosphorus, P",mg,203,173,57,85
+"Potassium, K",mg,280,238,78,118
+"Sodium, Na",mg,996,847,279,418
+"Zinc, Zn",mg,2.96,2.52,0.83,1.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.060,0.051,0.017,0.025
+"Riboflavin",mg,0.180,0.153,0.050,0.076
+"Niacin",mg,5.090,4.326,1.425,2.138
+"Vitamin B-6",mg,0.410,0.349,0.115,0.172
+"Folate, DFE",µg,7,6,2,3
+"Vitamin B-12",µg,0.35,0.30,0.10,0.15
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.34,0.29,0.10,0.14
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,1,1,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,2.831,2.406,0.793,1.189
+"Fatty acids, total monounsaturated",g,3.180,2.703,0.890,1.336
+"Fatty acids, total polyunsaturated",g,2.473,2.102,0.692,1.039
+"Cholesterol",mg,82,70,23,34
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

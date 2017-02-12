@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:46 EST
+"Nutrient data for: 18355, Sweet rolls, cheese"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 roll = 66.0g",
+Proximates
+"Water",g,29.40,8.33,19.40
+"Energy",kcal,360,102,238
+"Protein",g,7.10,2.01,4.69
+"Total lipid (fat)",g,18.30,5.19,12.08
+"Carbohydrate, by difference",g,43.70,12.39,28.84
+"Fiber, total dietary",g,1.2,0.3,0.8
+Minerals
+"Calcium, Ca",mg,118,33,78
+"Iron, Fe",mg,0.76,0.22,0.50
+"Magnesium, Mg",mg,19,5,13
+"Phosphorus, P",mg,98,28,65
+"Potassium, K",mg,137,39,90
+"Sodium, Na",mg,357,101,236
+"Zinc, Zn",mg,0.63,0.18,0.42
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1,0.1
+"Thiamin",mg,0.150,0.043,0.099
+"Riboflavin",mg,0.130,0.037,0.086
+"Niacin",mg,0.830,0.235,0.548
+"Vitamin B-6",mg,0.069,0.020,0.046
+"Folate, DFE",µg,51,14,34
+"Vitamin B-12",µg,0.30,0.09,0.20
+"Vitamin A, IU",IU,254,72,168
+Lipids
+"Fatty acids, total saturated",g,6.059,1.718,3.999
+"Fatty acids, total monounsaturated",g,9.057,2.568,5.978
+"Fatty acids, total polyunsaturated",g,2.032,0.576,1.341
+"Cholesterol",mg,76,22,50
+Amino Acids
+Other

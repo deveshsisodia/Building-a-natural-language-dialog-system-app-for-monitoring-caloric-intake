@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:30 EST
+"Nutrient data for: 11858, Squash, summer, crookneck and straightneck, cooked, boiled, drained, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup slices = 180.0g",
+Proximates
+"Water",g,94.25,169.65
+"Energy",kcal,19,34
+"Protein",g,1.04,1.87
+"Total lipid (fat)",g,0.39,0.70
+"Carbohydrate, by difference",g,3.79,6.82
+"Fiber, total dietary",g,1.1,2.0
+"Sugars, total",g,2.48,4.46
+Minerals
+"Calcium, Ca",mg,22,40
+"Iron, Fe",mg,0.37,0.67
+"Magnesium, Mg",mg,16,29
+"Phosphorus, P",mg,29,52
+"Potassium, K",mg,177,319
+"Sodium, Na",mg,237,427
+"Zinc, Zn",mg,0.22,0.40
+Vitamins
+"Vitamin C, total ascorbic acid",mg,11.6,20.9
+"Thiamin",mg,0.043,0.077
+"Riboflavin",mg,0.025,0.045
+"Niacin",mg,0.507,0.913
+"Vitamin B-6",mg,0.078,0.140
+"Folate, DFE",µg,23,41
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,56,101
+"Vitamin A, IU",IU,1117,2011
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.22
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,4.4,7.9
+Lipids
+"Fatty acids, total saturated",g,0.064,0.115
+"Fatty acids, total monounsaturated",g,0.023,0.041
+"Fatty acids, total polyunsaturated",g,0.131,0.236
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

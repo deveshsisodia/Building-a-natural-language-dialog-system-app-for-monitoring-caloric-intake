@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:05 EST
+"Nutrient data for: 01260, Cheese, cheddar, reduced fat"
+Nutrient,Unit,1Value per 100 g,"1 slice = 21.0g",
+Proximates
+"Water",g,44.29,9.30
+"Energy",kcal,309,65
+"Protein",g,27.35,5.74
+"Total lipid (fat)",g,20.41,4.29
+"Carbohydrate, by difference",g,4.06,0.85
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.26,0.05
+Minerals
+"Calcium, Ca",mg,761,160
+"Iron, Fe",mg,0.12,0.03
+"Magnesium, Mg",mg,27,6
+"Phosphorus, P",mg,520,109
+"Potassium, K",mg,63,13
+"Sodium, Na",mg,628,132
+"Zinc, Zn",mg,4.44,0.93
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.021,0.004
+"Riboflavin",mg,0.397,0.083
+"Niacin",mg,0.145,0.030
+"Vitamin B-6",mg,0.084,0.018
+"Folate, DFE",µg,20,4
+"Vitamin B-12",µg,1.41,0.30
+"Vitamin A, RAE",µg,145,30
+"Vitamin A, IU",IU,522,110
+"Vitamin E (alpha-tocopherol)",mg,0.48,0.10
+"Vitamin D (D2 + D3)",µg,0.3,0.1
+"Vitamin D",IU,13,3
+"Vitamin K (phylloquinone)",µg,1.5,0.3
+Lipids
+"Fatty acids, total saturated",g,12.602,2.646
+"Fatty acids, total monounsaturated",g,5.304,1.114
+"Fatty acids, total polyunsaturated",g,0.893,0.188
+"Fatty acids, total trans",g,0.733,0.154
+"Cholesterol",mg,76,16
+Amino Acids
+Other
+"Caffeine",mg,0,0

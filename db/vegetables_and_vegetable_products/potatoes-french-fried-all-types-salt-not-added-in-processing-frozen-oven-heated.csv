@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:27 EST
+"Nutrient data for: 11841, Potatoes, french fried, all types, salt not added in processing, frozen, oven-heated"
+Nutrient,Unit,1Value per 100 g,"10.0 strip = 74.0g",
+Proximates
+"Water",g,61.51,45.52
+"Energy",kcal,172,127
+"Protein",g,2.66,1.97
+"Total lipid (fat)",g,5.22,3.86
+"Carbohydrate, by difference",g,28.71,21.25
+"Fiber, total dietary",g,2.6,1.9
+"Sugars, total",g,0.28,0.21
+Minerals
+"Calcium, Ca",mg,12,9
+"Iron, Fe",mg,0.74,0.55
+"Magnesium, Mg",mg,26,19
+"Phosphorus, P",mg,97,72
+"Potassium, K",mg,451,334
+"Sodium, Na",mg,32,24
+"Zinc, Zn",mg,0.38,0.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,13.3,9.8
+"Thiamin",mg,0.128,0.095
+"Riboflavin",mg,0.031,0.023
+"Niacin",mg,2.218,1.641
+"Vitamin B-6",mg,0.184,0.136
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.08
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.5,1.9
+Lipids
+"Fatty acids, total saturated",g,1.029,0.761
+"Fatty acids, total monounsaturated",g,3.237,2.395
+"Fatty acids, total polyunsaturated",g,0.321,0.238
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(a)"Primarily food service product"

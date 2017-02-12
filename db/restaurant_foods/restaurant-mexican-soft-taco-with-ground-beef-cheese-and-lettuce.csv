@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:28 EST
+"Nutrient data for: 36061, Restaurant, Mexican, soft taco with ground beef, cheese and lettuce"
+Nutrient,Unit,1Value per 100 g,"1 serving varied from 1 to 3 tacos per serving = 281.0g","1 taco = 134.0g","2.0 taco = 279.0g","3.0 taco = 389.0g",
+Proximates
+"Water",g,56.50,158.76,75.71,157.63,219.78
+"Energy",kcal,219,615,293,611,852
+"Protein",g,12.56,35.29,16.83,35.04,48.86
+"Total lipid (fat)",g,10.81,30.38,14.49,30.16,42.05
+"Carbohydrate, by difference",g,17.92,50.36,24.01,50.00,69.71
+"Fiber, total dietary",g,1.5,4.2,2.0,4.2,5.8
+"Sugars, total",g,2.39,6.72,3.20,6.67,9.30
+Minerals
+"Calcium, Ca",mg,116,326,155,324,451
+"Iron, Fe",mg,1.85,5.20,2.48,5.16,7.20
+"Magnesium, Mg",mg,27,76,36,75,105
+"Phosphorus, P",mg,172,483,230,480,669
+"Potassium, K",mg,244,686,327,681,949
+"Sodium, Na",mg,509,1430,682,1420,1980
+"Zinc, Zn",mg,2.15,6.04,2.88,6.00,8.36
+Vitamins
+"Thiamin",mg,0.162,0.455,0.217,0.452,0.630
+"Riboflavin",mg,0.248,0.697,0.332,0.692,0.965
+"Niacin",mg,2.630,7.390,3.524,7.338,10.231
+"Vitamin B-6",mg,0.136,0.382,0.182,0.379,0.529
+"Vitamin B-12",µg,1.22,3.43,1.63,3.40,4.75
+"Vitamin A, RAE",µg,49,138,66,137,191
+"Vitamin A, IU",IU,250,702,335,698,972
+"Vitamin E (alpha-tocopherol)",mg,0.82,2.30,1.10,2.29,3.19
+Lipids
+"Fatty acids, total saturated",g,4.486,12.606,6.011,12.516,17.451
+"Fatty acids, total monounsaturated",g,4.229,11.883,5.667,11.799,16.451
+"Fatty acids, total polyunsaturated",g,1.203,3.380,1.612,3.356,4.680
+"Fatty acids, total trans",g,0.616,1.731,0.825,1.719,2.396
+"Cholesterol",mg,34,96,46,95,132
+Amino Acids
+Other

@@ -1,0 +1,31 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:16 EST
+"Nutrient data for: 04677, Margarine-like spread, SMART BALANCE Omega Plus Spread (with plant sterols & fish oil)"
+Nutrient,Unit,1Value per 100 g,"1 tablespoon = 14.0g",
+Proximates
+"Water",g,27.86,3.90
+"Energy",kcal,605,85
+"Protein",g,0.13,0.02
+"Total lipid (fat)",g,70.95,9.93
+"Carbohydrate, by difference",g,0.16,0.02
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Phosphorus, P",mg,23,3
+"Potassium, K",mg,71,10
+"Sodium, Na",mg,729,102
+Vitamins
+"Vitamin A, IU",IU,5407,757
+"Vitamin E (alpha-tocopherol)",mg,11.78,1.65
+"Vitamin K (phylloquinone)",µg,52.5,7.3
+Lipids
+"Fatty acids, total saturated",g,19.830,2.776
+"Fatty acids, total monounsaturated",g,25.334,3.547
+"Fatty acids, total polyunsaturated",g,18.484,2.588
+"Fatty acids, total trans",g,0.377,0.053
+"Cholesterol",mg,23,3
+Amino Acids
+Other
+Footnotes
+(a)"contains 3.982 g omega-3 fatty acids of which 1.071 g are long chain fatty acids"

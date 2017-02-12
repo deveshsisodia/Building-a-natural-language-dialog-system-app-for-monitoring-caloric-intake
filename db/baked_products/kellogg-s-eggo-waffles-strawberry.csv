@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:41 EST
+"Nutrient data for: 28024, KELLOGG'S, EGGO, Waffles, Strawberry"
+Nutrient,Unit,1Value per 100 g,"2.0 waffles = 70.0g",
+Proximates
+"Water",g,40.90,28.63
+"Energy",kcal,265,186
+"Protein",g,5.50,3.85
+"Total lipid (fat)",g,8.70,6.09
+"Carbohydrate, by difference",g,41.60,29.12
+"Fiber, total dietary",g,1.1,0.8
+"Sugars, total",g,9.30,6.51
+Minerals
+"Calcium, Ca",mg,143,100
+"Iron, Fe",mg,6.40,4.48
+"Magnesium, Mg",mg,14,10
+"Phosphorus, P",mg,281,197
+"Potassium, K",mg,71,50
+"Sodium, Na",mg,525,368
+"Zinc, Zn",mg,0.40,0.28
+Vitamins
+"Thiamin",mg,0.430,0.301
+"Riboflavin",mg,0.490,0.343
+"Niacin",mg,5.700,3.990
+"Vitamin B-6",mg,0.570,0.399
+"Vitamin B-12",µg,1.70,1.19
+"Vitamin A, RAE",µg,429,300
+"Vitamin A, IU",IU,1429,1000
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.1,0.1
+"Vitamin D",IU,2,1
+Lipids
+"Fatty acids, total saturated",g,2.100,1.470
+"Fatty acids, total monounsaturated",g,2.200,1.540
+"Fatty acids, total polyunsaturated",g,3.500,2.450
+"Fatty acids, total trans",g,0.200,0.140
+"Cholesterol",mg,21,15
+Amino Acids
+Other

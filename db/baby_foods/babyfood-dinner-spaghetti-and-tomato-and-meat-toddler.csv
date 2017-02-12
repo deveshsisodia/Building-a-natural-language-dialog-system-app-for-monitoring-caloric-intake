@@ -1,0 +1,32 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:43 EST
+"Nutrient data for: 03051, Babyfood, dinner, spaghetti and tomato and meat, toddler"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 jar = 170.0g",
+Proximates
+"Water",g,81.60,23.13,138.72
+"Energy",kcal,75,21,128
+"Protein",g,5.30,1.50,9.01
+"Total lipid (fat)",g,1.00,0.28,1.70
+"Carbohydrate, by difference",g,10.80,3.06,18.36
+Minerals
+"Calcium, Ca",mg,22,6,37
+"Iron, Fe",mg,0.90,0.26,1.53
+"Magnesium, Mg",mg,15,4,26
+"Phosphorus, P",mg,45,13,76
+"Potassium, K",mg,163,46,277
+"Sodium, Na",mg,239,68,406
+"Zinc, Zn",mg,0.48,0.14,0.82
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.1,1.2,7.0
+"Thiamin",mg,0.062,0.018,0.105
+"Riboflavin",mg,0.101,0.029,0.172
+"Niacin",mg,1.558,0.442,2.649
+"Vitamin B-6",mg,0.083,0.024,0.141
+"Folate, DFE",µg,50,14,85
+"Vitamin B-12",µg,0.23,0.07,0.39
+"Vitamin A, RAE",µg,22,6,37
+"Vitamin A, IU",IU,443,126,753
+Lipids
+Amino Acids
+Other

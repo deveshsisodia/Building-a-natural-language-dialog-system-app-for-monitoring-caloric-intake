@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:43 EST
+"Nutrient data for: 18936, Pancakes, plain, frozen, ready-to-heat, microwave (includes buttermilk)"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 pancake = 38.0g","1 serving (3 pancakes) = 144.0g",
+Proximates
+"Water",g,43.80,12.42,16.64,63.07
+"Energy",kcal,239,68,91,344
+"Protein",g,5.88,1.67,2.23,8.47
+"Total lipid (fat)",g,4.73,1.34,1.80,6.81
+"Carbohydrate, by difference",g,43.33,12.28,16.47,62.40
+"Fiber, total dietary",g,2.5,0.7,0.9,3.6
+"Sugars, total",g,7.06,2.00,2.68,10.17
+Minerals
+"Calcium, Ca",mg,72,20,27,104
+"Iron, Fe",mg,1.64,0.46,0.62,2.36
+"Magnesium, Mg",mg,16,5,6,23
+"Phosphorus, P",mg,350,99,133,504
+"Potassium, K",mg,122,35,46,176
+"Sodium, Na",mg,566,160,215,815
+"Zinc, Zn",mg,0.44,0.12,0.17,0.63
+Vitamins
+"Thiamin",mg,0.363,0.103,0.138,0.523
+"Riboflavin",mg,0.335,0.095,0.127,0.482
+"Niacin",mg,3.345,0.948,1.271,4.817
+"Vitamin B-6",mg,0.278,0.079,0.106,0.400
+"Folate, DFE",µg,86,24,33,124
+"Vitamin A, RAE",µg,216,61,82,311
+"Vitamin A, IU",IU,719,204,273,1035
+"Vitamin E (alpha-tocopherol)",mg,0.38,0.11,0.14,0.55
+"Vitamin K (phylloquinone)",µg,7.4,2.1,2.8,10.7
+Lipids
+"Fatty acids, total saturated",g,0.855,0.242,0.325,1.231
+"Fatty acids, total monounsaturated",g,2.453,0.695,0.932,3.532
+"Fatty acids, total polyunsaturated",g,0.965,0.274,0.367,1.390
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

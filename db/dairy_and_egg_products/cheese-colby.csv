@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:05 EST
+"Nutrient data for: 01011, Cheese, colby"
+Nutrient,Unit,1Value per 100 g,"1 cup, diced = 132.0g","1 cup, shredded = 113.0g","1 oz = 28.35g","1 cubic inch = 17.0g","1 slice (1 oz) = 28.0g",
+Proximates
+"Water",g,38.20,50.42,43.17,10.83,6.49,10.70
+"Energy",kcal,394,520,445,112,67,110
+"Protein",g,23.76,31.36,26.85,6.74,4.04,6.65
+"Total lipid (fat)",g,32.11,42.39,36.28,9.10,5.46,8.99
+"Carbohydrate, by difference",g,2.57,3.39,2.90,0.73,0.44,0.72
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.52,0.69,0.59,0.15,0.09,0.15
+Minerals
+"Calcium, Ca",mg,685,904,774,194,116,192
+"Iron, Fe",mg,0.76,1.00,0.86,0.22,0.13,0.21
+"Magnesium, Mg",mg,26,34,29,7,4,7
+"Phosphorus, P",mg,457,603,516,130,78,128
+"Potassium, K",mg,127,168,144,36,22,36
+"Sodium, Na",mg,604,797,683,171,103,169
+"Zinc, Zn",mg,3.07,4.05,3.47,0.87,0.52,0.86
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.015,0.020,0.017,0.004,0.003,0.004
+"Riboflavin",mg,0.375,0.495,0.424,0.106,0.064,0.105
+"Niacin",mg,0.093,0.123,0.105,0.026,0.016,0.026
+"Vitamin B-6",mg,0.079,0.104,0.089,0.022,0.013,0.022
+"Folate, DFE",µg,18,24,20,5,3,5
+"Vitamin B-12",µg,0.83,1.10,0.94,0.24,0.14,0.23
+"Vitamin A, RAE",µg,264,348,298,75,45,74
+"Vitamin A, IU",IU,994,1312,1123,282,169,278
+"Vitamin E (alpha-tocopherol)",mg,0.28,0.37,0.32,0.08,0.05,0.08
+"Vitamin D (D2 + D3)",µg,0.6,0.8,0.7,0.2,0.1,0.2
+"Vitamin D",IU,24,32,27,7,4,7
+"Vitamin K (phylloquinone)",µg,2.7,3.6,3.1,0.8,0.5,0.8
+Lipids
+"Fatty acids, total saturated",g,20.218,26.688,22.846,5.732,3.437,5.661
+"Fatty acids, total monounsaturated",g,9.280,12.250,10.486,2.631,1.578,2.598
+"Fatty acids, total polyunsaturated",g,0.953,1.258,1.077,0.270,0.162,0.267
+"Cholesterol",mg,95,125,107,27,16,27
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:20 EST
+"Nutrient data for: 42173, Turkey and pork sausage, fresh, bulk, patty or link, cooked"
+Nutrient,Unit,1Value per 100 g,"1 cup, cooked = 130.0g","1 oz = 28.0g","1 oz cooked, yield = 21.0g","1 patty, cooked = 25.0g",
+Proximates
+"Water",g,50.90,66.17,14.25,10.69,12.72
+"Energy",kcal,307,399,86,64,77
+"Protein",g,22.70,29.51,6.36,4.77,5.67
+"Total lipid (fat)",g,23.00,29.90,6.44,4.83,5.75
+"Carbohydrate, by difference",g,0.70,0.91,0.20,0.15,0.17
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,32,42,9,7,8
+"Iron, Fe",mg,1.62,2.11,0.45,0.34,0.41
+"Magnesium, Mg",mg,19,25,5,4,5
+"Phosphorus, P",mg,191,248,53,40,48
+"Potassium, K",mg,337,438,94,71,84
+"Sodium, Na",mg,878,1141,246,184,220
+"Zinc, Zn",mg,3.17,4.12,0.89,0.67,0.79
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.1,1.4,0.3,0.2,0.3
+"Thiamin",mg,0.510,0.663,0.143,0.107,0.128
+"Riboflavin",mg,0.250,0.325,0.070,0.052,0.062
+"Niacin",mg,4.220,5.486,1.182,0.886,1.055
+"Vitamin B-6",mg,0.340,0.442,0.095,0.071,0.085
+"Folate, DFE",µg,4,5,1,1,1
+"Vitamin B-12",µg,1.26,1.64,0.35,0.26,0.32
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.39,0.51,0.11,0.08,0.10
+"Vitamin D (D2 + D3)",µg,2.0,2.6,0.6,0.4,0.5
+"Vitamin D",IU,79,103,22,17,20
+"Vitamin K (phylloquinone)",µg,5.7,7.4,1.6,1.2,1.4
+Lipids
+"Fatty acids, total saturated",g,7.950,10.335,2.226,1.670,1.988
+"Fatty acids, total monounsaturated",g,9.719,12.635,2.721,2.041,2.430
+"Fatty acids, total polyunsaturated",g,3.250,4.225,0.910,0.682,0.812
+"Cholesterol",mg,84,109,24,18,21
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

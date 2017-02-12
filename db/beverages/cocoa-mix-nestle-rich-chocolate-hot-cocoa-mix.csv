@@ -1,0 +1,27 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:25 EST
+"Nutrient data for: 14197, Cocoa mix, NESTLE, Rich Chocolate Hot Cocoa Mix"
+Nutrient,Unit,1Value per 100 g,"1 serving 1 envelope = 20.0g",
+Proximates
+"Water",g,3.73,0.75
+"Energy",kcal,400,80
+"Protein",g,3.00,0.60
+"Total lipid (fat)",g,15.00,3.00
+"Carbohydrate, by difference",g,75.00,15.00
+"Fiber, total dietary",g,4.0,0.8
+"Sugars, total",g,60.00,12.00
+Minerals
+"Calcium, Ca",mg,100,20
+"Iron, Fe",mg,1.80,0.36
+"Potassium, K",mg,0,0
+"Sodium, Na",mg,850,170
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Vitamin A, IU",IU,11,2
+Lipids
+"Fatty acids, total saturated",g,10.000,2.000
+"Fatty acids, total trans",g,0.250,0.050
+"Cholesterol",mg,0,0
+Amino Acids
+Other

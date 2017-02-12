@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:29 EST
+"Nutrient data for: 18011, Biscuits, plain or buttermilk, dry mix, prepared"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,28.90,8.19
+"Energy",kcal,335,95
+"Protein",g,7.30,2.07
+"Total lipid (fat)",g,12.10,3.43
+"Carbohydrate, by difference",g,48.40,13.72
+"Fiber, total dietary",g,1.8,0.5
+Minerals
+"Calcium, Ca",mg,185,52
+"Iron, Fe",mg,2.05,0.58
+"Magnesium, Mg",mg,25,7
+"Phosphorus, P",mg,470,133
+"Potassium, K",mg,188,53
+"Sodium, Na",mg,955,271
+"Zinc, Zn",mg,0.61,0.17
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.1
+"Thiamin",mg,0.350,0.099
+"Riboflavin",mg,0.357,0.101
+"Niacin",mg,3.021,0.856
+"Vitamin B-6",mg,0.068,0.019
+"Folate, DFE",µg,84,24
+"Vitamin B-12",µg,0.21,0.06
+"Vitamin A, RAE",µg,26,7
+"Vitamin A, IU",IU,94,27
+Lipids
+"Fatty acids, total saturated",g,2.789,0.791
+"Fatty acids, total monounsaturated",g,4.206,1.192
+"Fatty acids, total polyunsaturated",g,4.305,1.220
+"Cholesterol",mg,4,1
+Amino Acids
+Other

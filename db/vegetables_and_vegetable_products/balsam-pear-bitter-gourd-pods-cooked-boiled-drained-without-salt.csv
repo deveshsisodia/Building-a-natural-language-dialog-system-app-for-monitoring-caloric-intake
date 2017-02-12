@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:16 EST
+"Nutrient data for: 11025, Balsam-pear (bitter gourd), pods, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup (1/2"" pieces) = 124.0g","0.5 cup (1/2"" pieces) = 62.0g",
+Proximates
+"Water",g,93.95,116.50,58.25
+"Energy",kcal,19,24,12
+"Protein",g,0.84,1.04,0.52
+"Total lipid (fat)",g,0.18,0.22,0.11
+"Carbohydrate, by difference",g,4.32,5.36,2.68
+"Fiber, total dietary",g,2.0,2.5,1.2
+"Sugars, total",g,1.95,2.42,1.21
+Minerals
+"Calcium, Ca",mg,9,11,6
+"Iron, Fe",mg,0.38,0.47,0.24
+"Magnesium, Mg",mg,16,20,10
+"Phosphorus, P",mg,36,45,22
+"Potassium, K",mg,319,396,198
+"Sodium, Na",mg,6,7,4
+"Zinc, Zn",mg,0.77,0.95,0.48
+Vitamins
+"Vitamin C, total ascorbic acid",mg,33.0,40.9,20.5
+"Thiamin",mg,0.051,0.063,0.032
+"Riboflavin",mg,0.053,0.066,0.033
+"Niacin",mg,0.280,0.347,0.174
+"Vitamin B-6",mg,0.041,0.051,0.025
+"Folate, DFE",µg,51,63,32
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,6,7,4
+"Vitamin A, IU",IU,113,140,70
+"Vitamin E (alpha-tocopherol)",mg,0.14,0.17,0.09
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,4.8,6.0,3.0
+Lipids
+"Fatty acids, total saturated",g,0.014,0.017,0.009
+"Fatty acids, total monounsaturated",g,0.033,0.041,0.020
+"Fatty acids, total polyunsaturated",g,0.078,0.097,0.048
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

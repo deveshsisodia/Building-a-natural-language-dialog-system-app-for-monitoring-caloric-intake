@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:07 EST
+"Nutrient data for: 01038, Cheese, romano"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","5.0 package (5 oz) = 142.0g",
+Proximates
+"Water",g,30.91,8.76,43.89
+"Energy",kcal,387,110,550
+"Protein",g,31.80,9.02,45.16
+"Total lipid (fat)",g,26.94,7.64,38.25
+"Carbohydrate, by difference",g,3.63,1.03,5.15
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.73,0.21,1.04
+Minerals
+"Calcium, Ca",mg,1064,302,1511
+"Iron, Fe",mg,0.77,0.22,1.09
+"Magnesium, Mg",mg,41,12,58
+"Phosphorus, P",mg,760,215,1079
+"Potassium, K",mg,86,24,122
+"Sodium, Na",mg,1433,406,2035
+"Zinc, Zn",mg,2.58,0.73,3.66
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.037,0.010,0.053
+"Riboflavin",mg,0.370,0.105,0.525
+"Niacin",mg,0.077,0.022,0.109
+"Vitamin B-6",mg,0.085,0.024,0.121
+"Folate, DFE",µg,7,2,10
+"Vitamin B-12",µg,1.12,0.32,1.59
+"Vitamin A, RAE",µg,96,27,136
+"Vitamin A, IU",IU,415,118,589
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.07,0.33
+"Vitamin D (D2 + D3)",µg,0.5,0.1,0.7
+"Vitamin D",IU,20,6,28
+"Vitamin K (phylloquinone)",µg,2.2,0.6,3.1
+Lipids
+"Fatty acids, total saturated",g,17.115,4.852,24.303
+"Fatty acids, total monounsaturated",g,7.838,2.222,11.130
+"Fatty acids, total polyunsaturated",g,0.593,0.168,0.842
+"Cholesterol",mg,104,29,148
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

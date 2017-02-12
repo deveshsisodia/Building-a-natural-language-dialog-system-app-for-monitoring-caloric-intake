@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:02 EST
+"Nutrient data for: 08347, Cereals ready-to-eat, MALT-O-MEAL, BERRY COLOSSAL CRUNCH"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,2.50,0.75
+"Energy",kcal,396,119
+"Protein",g,4.19,1.26
+"Total lipid (fat)",g,4.17,1.25
+"Carbohydrate, by difference",g,86.55,25.96
+"Fiber, total dietary",g,1.8,0.5
+"Sugars, total",g,41.66,12.50
+Minerals
+"Calcium, Ca",mg,33,10
+"Iron, Fe",mg,30.00,9.00
+"Magnesium, Mg",mg,11,3
+"Phosphorus, P",mg,75,22
+"Potassium, K",mg,109,33
+"Sodium, Na",mg,633,190
+"Zinc, Zn",mg,12.50,3.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,20.0,6.0
+"Thiamin",mg,1.250,0.375
+"Riboflavin",mg,1.410,0.423
+"Niacin",mg,16.670,5.001
+"Vitamin B-6",mg,1.660,0.498
+"Folate, DFE",µg,1121,336
+"Vitamin B-12",µg,5.00,1.50
+"Vitamin A, RAE",µg,83,25
+"Vitamin A, IU",IU,1667,500
+"Vitamin E (alpha-tocopherol)",mg,0.50,0.15
+"Vitamin D (D2 + D3)",µg,3.3,1.0
+"Vitamin D",IU,133,40
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.214,0.364
+"Fatty acids, total monounsaturated",g,1.274,0.382
+"Fatty acids, total polyunsaturated",g,0.996,0.299
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

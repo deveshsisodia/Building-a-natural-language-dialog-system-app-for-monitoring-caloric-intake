@@ -1,0 +1,47 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:26 EST
+"Nutrient data for: 36626, Restaurant, Chinese, chicken and vegetables"
+Nutrient,Unit,1Value per 100 g,"1 order = 693.0g","1 cup = 153.0g",
+Proximates
+"Water",g,80.24,556.06,122.77
+"Energy",kcal,95,658,145
+"Protein",g,8.18,56.69,12.52
+"Total lipid (fat)",g,4.56,31.60,6.98
+"Carbohydrate, by difference",g,5.38,37.28,8.23
+"Fiber, total dietary",g,0.9,6.2,1.4
+"Sugars, total",g,2.93,20.30,4.48
+Minerals
+"Calcium, Ca",mg,20,139,31
+"Iron, Fe",mg,0.56,3.88,0.86
+"Magnesium, Mg",mg,15,104,23
+"Phosphorus, P",mg,73,506,112
+"Potassium, K",mg,185,1282,283
+"Sodium, Na",mg,413,2862,632
+"Zinc, Zn",mg,0.43,2.98,0.66
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.1,56.1,12.4
+"Thiamin",mg,0.030,0.208,0.046
+"Riboflavin",mg,0.120,0.832,0.184
+"Niacin",mg,1.690,11.712,2.586
+"Vitamin B-6",mg,0.232,1.608,0.355
+"Folate, DFE",µg,40,277,61
+"Vitamin B-12",µg,0.07,0.49,0.11
+"Vitamin A, RAE",µg,56,388,86
+"Vitamin A, IU",IU,630,4366,964
+"Vitamin E (alpha-tocopherol)",mg,0.77,5.34,1.18
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,54.7,379.1,83.7
+Lipids
+"Fatty acids, total saturated",g,0.770,5.336,1.178
+"Fatty acids, total monounsaturated",g,1.087,7.533,1.663
+"Fatty acids, total polyunsaturated",g,2.080,14.414,3.182
+"Fatty acids, total trans",g,0.014,0.097,0.021
+"Cholesterol",mg,21,146,32
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(b)"Ingredients and amount of sauce vary by restaurant. Most dishes analyzed had broccoli and carrots. Some also included snow peas, scallion, water chestnuts, and/or baby corn."
+(a)"Rice was not included in analyses."

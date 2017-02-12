@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:38 EST
+"Nutrient data for: 21415, POPEYES, biscuit"
+Nutrient,Unit,1Value per 100 g,"1 biscuit = 60.0g",
+Proximates
+"Water",g,26.52,15.91
+"Energy",kcal,401,241
+"Protein",g,6.00,3.60
+"Total lipid (fat)",g,23.71,14.23
+"Carbohydrate, by difference",g,40.95,24.57
+"Fiber, total dietary",g,3.8,2.3
+"Sugars, total",g,3.46,2.08
+Minerals
+"Calcium, Ca",mg,108,65
+"Iron, Fe",mg,2.51,1.51
+"Magnesium, Mg",mg,13,8
+"Phosphorus, P",mg,309,185
+"Potassium, K",mg,173,104
+"Sodium, Na",mg,745,447
+"Zinc, Zn",mg,0.49,0.29
+Vitamins
+"Thiamin",mg,0.460,0.276
+"Riboflavin",mg,0.277,0.166
+"Niacin",mg,3.240,1.944
+"Vitamin B-6",mg,0.047,0.028
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,64,38
+"Vitamin A, IU",IU,212,127
+"Vitamin E (alpha-tocopherol)",mg,1.02,0.61
+Lipids
+"Fatty acids, total saturated",g,11.515,6.909
+"Fatty acids, total monounsaturated",g,5.686,3.412
+"Fatty acids, total polyunsaturated",g,4.379,2.627
+"Fatty acids, total trans",g,0.073,0.044
+"Cholesterol",mg,2,1
+Amino Acids
+Other

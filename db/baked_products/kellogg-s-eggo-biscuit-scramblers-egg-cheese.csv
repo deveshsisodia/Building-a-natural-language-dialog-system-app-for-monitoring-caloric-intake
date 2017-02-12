@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:40 EST
+"Nutrient data for: 18996, KELLOGG'S, EGGO, Biscuit Scramblers, Egg & Cheese"
+Nutrient,Unit,1Value per 100 g,"1 bscuit = 105.0g",
+Proximates
+"Water",g,43.30,45.47
+"Energy",kcal,254,267
+"Protein",g,8.80,9.24
+"Total lipid (fat)",g,7.60,7.98
+"Carbohydrate, by difference",g,38.30,40.21
+"Fiber, total dietary",g,2.3,2.4
+"Sugars, total",g,4.70,4.93
+Minerals
+"Calcium, Ca",mg,133,140
+"Iron, Fe",mg,2.70,2.83
+"Magnesium, Mg",mg,14,15
+"Phosphorus, P",mg,217,228
+"Potassium, K",mg,234,246
+"Sodium, Na",mg,583,612
+"Zinc, Zn",mg,0.50,0.53
+Vitamins
+"Thiamin",mg,0.300,0.315
+"Riboflavin",mg,0.270,0.284
+"Niacin",mg,2.400,2.520
+"Vitamin B-6",mg,0.030,0.032
+"Vitamin B-12",µg,0.10,0.10
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,4.000,4.200
+"Fatty acids, total monounsaturated",g,1.500,1.575
+"Fatty acids, total polyunsaturated",g,1.100,1.155
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,28,29
+Amino Acids
+Other

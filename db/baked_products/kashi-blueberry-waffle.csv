@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:38 EST
+"Nutrient data for: 18978, KASHI, Blueberry Waffle"
+Nutrient,Unit,1Value per 100 g,"2.0 pieces = 72.0g",
+Proximates
+"Water",g,49.50,35.64
+"Energy",kcal,192,138
+"Protein",g,5.70,4.10
+"Total lipid (fat)",g,7.10,5.11
+"Carbohydrate, by difference",g,34.60,24.91
+"Fiber, total dietary",g,9.0,6.5
+"Sugars, total",g,4.60,3.31
+Minerals
+"Calcium, Ca",mg,51,37
+"Iron, Fe",mg,1.90,1.37
+"Magnesium, Mg",mg,37,27
+"Phosphorus, P",mg,361,260
+"Potassium, K",mg,171,123
+"Sodium, Na",mg,476,343
+"Zinc, Zn",mg,1.00,0.72
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.7
+"Thiamin",mg,0.150,0.108
+"Riboflavin",mg,0.050,0.036
+"Niacin",mg,1.600,1.152
+"Vitamin B-6",mg,0.030,0.022
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,5,4
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.700,0.504
+"Fatty acids, total monounsaturated",g,3.400,2.448
+"Fatty acids, total polyunsaturated",g,2.300,1.656
+"Fatty acids, total trans",g,0.100,0.072
+"Cholesterol",mg,0,0
+Amino Acids
+Other

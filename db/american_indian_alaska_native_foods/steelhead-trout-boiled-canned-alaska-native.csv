@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:29 EST
+"Nutrient data for: 35181, Steelhead trout, boiled, canned (Alaska Native)"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,70.59,
+"Energy",kcal,159,
+"Protein",g,21.11,
+"Total lipid (fat)",g,8.26,
+"Carbohydrate, by difference",g,0.00,
+"Fiber, total dietary",g,0.0,
+"Sugars, total",g,0.00,
+Minerals
+"Calcium, Ca",mg,30,
+"Iron, Fe",mg,0.64,
+"Magnesium, Mg",mg,25,
+"Phosphorus, P",mg,249,
+"Potassium, K",mg,365,
+"Sodium, Na",mg,118,
+"Zinc, Zn",mg,0.57,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,
+"Vitamin B-12",µg,5.79,
+"Vitamin A, RAE",µg,20,
+"Vitamin A, IU",IU,65,
+"Vitamin E (alpha-tocopherol)",mg,2.15,
+"Vitamin D (D2 + D3)",µg,15.1,
+"Vitamin D",IU,604,
+"Vitamin K (phylloquinone)",µg,0.0,
+Lipids
+"Fatty acids, total saturated",g,1.530,
+"Fatty acids, total monounsaturated",g,2.223,
+"Fatty acids, total polyunsaturated",g,1.225,
+"Cholesterol",mg,59,
+Amino Acids
+Other
+"Caffeine",mg,0,

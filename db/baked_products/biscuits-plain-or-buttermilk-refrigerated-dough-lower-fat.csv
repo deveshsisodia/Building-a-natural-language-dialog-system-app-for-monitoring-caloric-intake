@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:29 EST
+"Nutrient data for: 18012, Biscuits, plain or buttermilk, refrigerated dough, lower fat"
+Nutrient,Unit,1Value per 100 g,"1 serving 1 biscuit = 58.0g","1 oz = 28.35g",
+Proximates
+"Water",g,37.76,21.90,10.70
+"Energy",kcal,270,157,77
+"Protein",g,6.70,3.89,1.90
+"Total lipid (fat)",g,7.83,4.54,2.22
+"Carbohydrate, by difference",g,43.70,25.35,12.39
+"Fiber, total dietary",g,2.0,1.2,0.6
+"Sugars, total",g,7.18,4.16,2.04
+Minerals
+"Calcium, Ca",mg,26,15,7
+"Iron, Fe",mg,2.13,1.24,0.60
+"Magnesium, Mg",mg,15,9,4
+"Phosphorus, P",mg,400,232,113
+"Potassium, K",mg,159,92,45
+"Sodium, Na",mg,828,480,235
+"Zinc, Zn",mg,0.39,0.23,0.11
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.1,0.0
+"Thiamin",mg,0.448,0.260,0.127
+"Riboflavin",mg,0.222,0.129,0.063
+"Niacin",mg,3.295,1.911,0.934
+"Vitamin B-6",mg,0.024,0.014,0.007
+"Folate, DFE",µg,140,81,40
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.03,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.9,1.1,0.5
+Lipids
+"Fatty acids, total saturated",g,3.140,1.821,0.890
+"Fatty acids, total monounsaturated",g,2.405,1.395,0.682
+"Fatty acids, total polyunsaturated",g,0.671,0.389,0.190
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

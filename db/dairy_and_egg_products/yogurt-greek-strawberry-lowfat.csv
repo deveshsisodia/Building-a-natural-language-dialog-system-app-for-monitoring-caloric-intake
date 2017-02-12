@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:11 EST
+"Nutrient data for: 01284, Yogurt, Greek, strawberry, lowfat"
+Nutrient,Unit,1Value per 100 g,"1 container (5.3 oz) = 150.0g",
+Proximates
+"Water",g,76.81,115.22
+"Energy",kcal,103,154
+"Protein",g,8.17,12.26
+"Total lipid (fat)",g,2.57,3.85
+"Carbohydrate, by difference",g,11.89,17.84
+"Fiber, total dietary",g,1.0,1.5
+"Sugars, total",g,11.23,16.84
+Minerals
+"Calcium, Ca",mg,88,132
+"Iron, Fe",mg,0.07,0.11
+"Magnesium, Mg",mg,10,15
+"Phosphorus, P",mg,109,164
+"Potassium, K",mg,129,194
+"Sodium, Na",mg,33,50
+"Zinc, Zn",mg,0.41,0.61
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,1.1
+"Thiamin",mg,0.037,0.056
+"Riboflavin",mg,0.235,0.352
+"Niacin",mg,0.205,0.307
+"Vitamin B-6",mg,0.049,0.074
+"Folate, DFE",µg,9,14
+"Vitamin B-12",µg,0.50,0.75
+"Vitamin A, RAE",µg,31,46
+"Vitamin A, IU",IU,111,166
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.599,2.398
+"Fatty acids, total monounsaturated",g,0.650,0.975
+"Fatty acids, total polyunsaturated",g,0.113,0.169
+"Fatty acids, total trans",g,0.074,0.111
+"Cholesterol",mg,12,18
+Amino Acids
+Other
+"Caffeine",mg,0,0

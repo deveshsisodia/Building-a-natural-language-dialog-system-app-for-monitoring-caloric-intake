@@ -1,0 +1,34 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:29 EST
+"Nutrient data for: 28306, Bread, chapati or roti, plain, commercially prepared"
+Nutrient,Unit,1Value per 100 g,"1 piece = 68.0g",
+Proximates
+"Water",g,33.00,22.44
+"Energy",kcal,297,202
+"Protein",g,11.25,7.65
+"Total lipid (fat)",g,7.45,5.07
+"Carbohydrate, by difference",g,46.36,31.52
+"Fiber, total dietary",g,4.9,3.3
+"Sugars, total",g,2.72,1.85
+Minerals
+"Calcium, Ca",mg,93,63
+"Iron, Fe",mg,3.01,2.05
+"Magnesium, Mg",mg,62,42
+"Phosphorus, P",mg,184,125
+"Potassium, K",mg,266,181
+"Sodium, Na",mg,409,278
+"Zinc, Zn",mg,1.57,1.07
+Vitamins
+"Thiamin",mg,0.550,0.374
+"Riboflavin",mg,0.200,0.136
+"Niacin",mg,6.780,4.610
+"Vitamin B-6",mg,0.270,0.184
+"Vitamin E (alpha-tocopherol)",mg,0.88,0.60
+Lipids
+"Fatty acids, total saturated",g,1.953,1.328
+"Fatty acids, total monounsaturated",g,1.893,1.287
+"Fatty acids, total polyunsaturated",g,1.147,0.780
+"Fatty acids, total trans",g,0.034,0.023
+Amino Acids
+Other

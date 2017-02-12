@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:46 EST
+"Nutrient data for: 18939, Toaster pastries, fruit, toasted (include apple, blueberry, cherry, strawberry)"
+Nutrient,Unit,1Value per 100 g,"1 pastry = 51.0g",
+Proximates
+"Water",g,10.46,5.33
+"Energy",kcal,409,209
+"Protein",g,4.70,2.40
+"Total lipid (fat)",g,11.03,5.63
+"Carbohydrate, by difference",g,72.70,37.08
+"Fiber, total dietary",g,1.0,0.5
+"Sugars, total",g,28.99,14.78
+Minerals
+"Calcium, Ca",mg,11,6
+"Iron, Fe",mg,3.92,2.00
+"Magnesium, Mg",mg,12,6
+"Phosphorus, P",mg,76,39
+"Potassium, K",mg,81,41
+"Sodium, Na",mg,354,181
+"Zinc, Zn",mg,0.38,0.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.365,0.186
+"Riboflavin",mg,0.415,0.212
+"Niacin",mg,5.250,2.678
+"Vitamin B-6",mg,0.465,0.237
+"Folate, DFE",µg,76,39
+"Vitamin A, RAE",µg,467,238
+"Vitamin A, IU",IU,1563,797
+"Vitamin E (alpha-tocopherol)",mg,0.90,0.46
+"Vitamin K (phylloquinone)",µg,6.6,3.4
+Lipids
+"Fatty acids, total saturated",g,2.637,1.345
+"Fatty acids, total monounsaturated",g,6.550,3.341
+"Fatty acids, total polyunsaturated",g,1.281,0.653
+Amino Acids
+Other

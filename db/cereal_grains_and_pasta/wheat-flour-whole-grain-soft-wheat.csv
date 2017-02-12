@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:15 EST
+"Nutrient data for: 20649, Wheat flour, whole-grain, soft wheat"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,12.42,
+"Energy",kcal,332,
+"Protein",g,9.61,
+"Total lipid (fat)",g,1.95,
+"Carbohydrate, by difference",g,74.48,
+"Fiber, total dietary",g,13.1,
+"Sugars, total",g,1.02,
+Minerals
+"Calcium, Ca",mg,33,
+"Iron, Fe",mg,3.71,
+"Magnesium, Mg",mg,117,
+"Phosphorus, P",mg,323,
+"Potassium, K",mg,394,
+"Sodium, Na",mg,3,
+"Zinc, Zn",mg,2.96,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,
+"Thiamin",mg,0.297,
+"Riboflavin",mg,0.188,
+"Niacin",mg,5.347,
+"Vitamin B-6",mg,0.191,
+"Folate, DFE",µg,28,
+"Vitamin A, RAE",µg,0,
+"Vitamin A, IU",IU,9,
+"Vitamin E (alpha-tocopherol)",mg,0.53,
+"Vitamin D (D2 + D3)",µg,0.0,
+"Vitamin D",IU,0,
+"Vitamin K (phylloquinone)",µg,1.9,
+Lipids
+"Fatty acids, total saturated",g,0.430,
+"Fatty acids, total monounsaturated",g,0.283,
+"Fatty acids, total polyunsaturated",g,1.167,
+"Cholesterol",mg,0,
+Amino Acids
+Other
+Footnotes
+(a)"Dietary fiber quantified using enzymatic-gravimetric/liquid chromatography, AOAC method 2009.01, which includes resistant oligosaccharides in estimation."

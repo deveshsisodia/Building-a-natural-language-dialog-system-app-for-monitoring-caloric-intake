@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:04 EST
+"Nutrient data for: 15100, Fish, smelt, rainbow, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,72.79,61.87
+"Energy",kcal,124,105
+"Protein",g,22.60,19.21
+"Total lipid (fat)",g,3.10,2.63
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,77,65
+"Iron, Fe",mg,1.15,0.98
+"Magnesium, Mg",mg,38,32
+"Phosphorus, P",mg,295,251
+"Potassium, K",mg,372,316
+"Sodium, Na",mg,77,65
+"Zinc, Zn",mg,2.12,1.80
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.010,0.009
+"Riboflavin",mg,0.146,0.124
+"Niacin",mg,1.766,1.501
+"Vitamin B-6",mg,0.170,0.145
+"Folate, DFE",µg,5,4
+"Vitamin B-12",µg,3.97,3.37
+"Vitamin A, RAE",µg,17,14
+"Vitamin A, IU",IU,58,49
+Lipids
+"Fatty acids, total saturated",g,0.579,0.492
+"Fatty acids, total monounsaturated",g,0.822,0.699
+"Fatty acids, total polyunsaturated",g,1.135,0.965
+"Cholesterol",mg,90,76
+Amino Acids
+Other

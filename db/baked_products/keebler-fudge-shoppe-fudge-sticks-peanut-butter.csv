@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:39 EST
+"Nutrient data for: 28100, KEEBLER, FUDGE SHOPPE, Fudge Sticks, Peanut Butter"
+Nutrient,Unit,1Value per 100 g,"3.0 cookies = 29.0g",
+Proximates
+"Water",g,1.00,0.29
+"Energy",kcal,544,158
+"Protein",g,6.80,1.97
+"Total lipid (fat)",g,31.40,9.11
+"Carbohydrate, by difference",g,60.00,17.40
+"Fiber, total dietary",g,2.7,0.8
+"Sugars, total",g,41.40,12.01
+Minerals
+"Iron, Fe",mg,1.80,0.52
+"Magnesium, Mg",mg,47,14
+"Phosphorus, P",mg,106,31
+"Potassium, K",mg,296,86
+"Sodium, Na",mg,138,40
+"Zinc, Zn",mg,0.90,0.26
+Vitamins
+"Thiamin",mg,0.210,0.061
+"Riboflavin",mg,0.120,0.035
+"Niacin",mg,3.300,0.957
+"Vitamin B-6",mg,0.050,0.015
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,1,0
+Lipids
+"Fatty acids, total saturated",g,17.400,5.046
+"Fatty acids, total monounsaturated",g,6.300,1.827
+"Fatty acids, total polyunsaturated",g,6.500,1.885
+"Fatty acids, total trans",g,0.500,0.145
+"Cholesterol",mg,0,0
+Amino Acids
+Other

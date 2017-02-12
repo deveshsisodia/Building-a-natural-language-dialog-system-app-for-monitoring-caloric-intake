@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:28 EST
+"Nutrient data for: 35141, Mutton, cooked, roasted (Navajo)"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,54.00,15.31
+"Energy",kcal,234,66
+"Protein",g,33.43,9.48
+"Total lipid (fat)",g,11.09,3.14
+"Carbohydrate, by difference",g,0.08,0.02
+Minerals
+"Calcium, Ca",mg,10,3
+"Iron, Fe",mg,4.76,1.35
+"Magnesium, Mg",mg,31,9
+"Phosphorus, P",mg,272,77
+"Potassium, K",mg,409,116
+"Sodium, Na",mg,135,38
+"Zinc, Zn",mg,5.93,1.68
+Vitamins
+"Thiamin",mg,0.060,0.017
+"Riboflavin",mg,0.300,0.085
+"Niacin",mg,6.520,1.848
+"Vitamin B-6",mg,0.377,0.107
+"Vitamin B-12",µg,4.44,1.26
+"Vitamin E (alpha-tocopherol)",mg,0.80,0.23
+Lipids
+"Fatty acids, total saturated",g,5.142,1.458
+"Fatty acids, total monounsaturated",g,4.459,1.264
+"Fatty acids, total polyunsaturated",g,0.814,0.231
+"Cholesterol",mg,109,31
+Amino Acids
+Other

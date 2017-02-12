@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:04 EST
+"Nutrient data for: 17381, Lamb, New Zealand, imported, tunnel-boned leg, chump off, shank off, separable lean only, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 113.0g",
+Proximates
+"Water",g,74.43,84.11
+"Energy",kcal,121,137
+"Protein",g,20.93,23.65
+"Total lipid (fat)",g,4.09,4.62
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,4,5
+"Iron, Fe",mg,1.40,1.58
+"Magnesium, Mg",mg,24,27
+"Phosphorus, P",mg,197,223
+"Potassium, K",mg,344,389
+"Sodium, Na",mg,60,68
+"Zinc, Zn",mg,3.26,3.68
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.140,0.158
+"Riboflavin",mg,0.201,0.227
+"Niacin",mg,5.234,5.914
+"Vitamin B-6",mg,0.225,0.254
+"Vitamin B-12",µg,1.89,2.14
+"Vitamin A, RAE",µg,3,3
+"Vitamin A, IU",IU,11,12
+"Vitamin E (alpha-tocopherol)",mg,0.30,0.34
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,1.370,1.548
+"Fatty acids, total monounsaturated",g,1.272,1.437
+"Fatty acids, total polyunsaturated",g,0.333,0.376
+"Fatty acids, total trans",g,0.114,0.129
+"Cholesterol",mg,64,72
+Amino Acids
+Other
+"Caffeine",mg,0,0

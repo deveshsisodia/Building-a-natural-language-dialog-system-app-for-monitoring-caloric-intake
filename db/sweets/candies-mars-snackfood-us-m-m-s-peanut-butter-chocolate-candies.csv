@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:36 EST
+"Nutrient data for: 42148, Candies, MARS SNACKFOOD US, M&M's Peanut Butter Chocolate Candies"
+Nutrient,Unit,1Value per 100 g,"1 serving 1.63 oz singles bag = 46.0g","1 cup = 203.0g","1 piece = 2.2g",
+Proximates
+"Water",g,2.00,0.92,4.06,0.04
+"Energy",kcal,529,243,1074,12
+"Protein",g,10.16,4.67,20.62,0.22
+"Total lipid (fat)",g,29.32,13.49,59.52,0.65
+"Carbohydrate, by difference",g,56.89,26.17,115.49,1.25
+"Fiber, total dietary",g,4.0,1.8,8.1,0.1
+"Sugars, total",g,47.15,21.69,95.71,1.04
+Minerals
+"Calcium, Ca",mg,88,40,179,2
+"Iron, Fe",mg,1.06,0.49,2.15,0.02
+"Magnesium, Mg",mg,81,37,164,2
+"Phosphorus, P",mg,191,88,388,4
+"Potassium, K",mg,330,152,670,7
+"Sodium, Na",mg,213,98,432,5
+"Zinc, Zn",mg,1.49,0.69,3.02,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.2,1.0,0.0
+"Thiamin",mg,0.152,0.070,0.309,0.003
+"Riboflavin",mg,0.074,0.034,0.150,0.002
+"Niacin",mg,4.329,1.991,8.788,0.095
+"Vitamin B-6",mg,0.095,0.044,0.193,0.002
+"Folate, DFE",µg,45,21,91,1
+"Vitamin B-12",µg,0.19,0.09,0.39,0.00
+"Vitamin A, RAE",µg,28,13,57,1
+"Vitamin A, IU",IU,92,42,187,2
+"Vitamin E (alpha-tocopherol)",mg,1.26,0.58,2.56,0.03
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,5.9,2.7,12.0,0.1
+Lipids
+"Fatty acids, total saturated",g,18.485,8.503,37.525,0.407
+"Fatty acids, total monounsaturated",g,4.448,2.046,9.029,0.098
+"Fatty acids, total polyunsaturated",g,0.542,0.249,1.100,0.012
+"Fatty acids, total trans",g,0.210,0.097,0.426,0.005
+"Cholesterol",mg,7,3,14,0
+Amino Acids
+Other
+"Caffeine",mg,6,3,12,0

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:38 EST
+"Nutrient data for: 05154, Pheasant, raw, meat only"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 unit (yield from 1 lb ready-to-eat pheasant) = 326.0g","0.5 pheasant = 352.0g",
+Proximates
+"Water",g,72.77,61.85,237.23,256.15
+"Energy",kcal,133,113,434,468
+"Protein",g,23.57,20.03,76.84,82.97
+"Total lipid (fat)",g,3.64,3.09,11.87,12.81
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,13,11,42,46
+"Iron, Fe",mg,1.15,0.98,3.75,4.05
+"Magnesium, Mg",mg,20,17,65,70
+"Phosphorus, P",mg,230,196,750,810
+"Potassium, K",mg,262,223,854,922
+"Sodium, Na",mg,37,31,121,130
+"Zinc, Zn",mg,0.97,0.82,3.16,3.41
+Vitamins
+"Vitamin C, total ascorbic acid",mg,6.0,5.1,19.6,21.1
+"Thiamin",mg,0.077,0.065,0.251,0.271
+"Riboflavin",mg,0.153,0.130,0.499,0.539
+"Niacin",mg,6.759,5.745,22.034,23.792
+"Vitamin B-6",mg,0.740,0.629,2.412,2.605
+"Folate, DFE",µg,6,5,20,21
+"Vitamin B-12",µg,0.84,0.71,2.74,2.96
+"Vitamin A, RAE",µg,50,42,163,176
+"Vitamin A, IU",IU,165,140,538,581
+Lipids
+"Fatty acids, total saturated",g,1.240,1.054,4.042,4.365
+"Fatty acids, total monounsaturated",g,1.170,0.994,3.814,4.118
+"Fatty acids, total polyunsaturated",g,0.620,0.527,2.021,2.182
+"Cholesterol",mg,66,56,215,232
+Amino Acids
+Other

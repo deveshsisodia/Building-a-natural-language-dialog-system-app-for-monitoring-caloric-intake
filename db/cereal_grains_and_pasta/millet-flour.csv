@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:12 EST
+"Nutrient data for: 20647, Millet flour"
+Nutrient,Unit,1Value per 100 g,"1 cup = 119.0g",
+Proximates
+"Water",g,8.67,10.32
+"Energy",kcal,382,455
+"Protein",g,10.75,12.79
+"Total lipid (fat)",g,4.25,5.06
+"Carbohydrate, by difference",g,75.12,89.39
+"Fiber, total dietary",g,3.5,4.2
+"Sugars, total",g,1.66,1.98
+Minerals
+"Calcium, Ca",mg,14,17
+"Iron, Fe",mg,3.94,4.69
+"Magnesium, Mg",mg,119,142
+"Phosphorus, P",mg,285,339
+"Potassium, K",mg,224,267
+"Sodium, Na",mg,4,5
+"Zinc, Zn",mg,2.63,3.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.413,0.491
+"Riboflavin",mg,0.073,0.087
+"Niacin",mg,6.020,7.164
+"Vitamin B-6",mg,0.372,0.443
+"Folate, DFE",µg,42,50
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.13
+"Vitamin K (phylloquinone)",µg,0.8,1.0
+Lipids
+"Fatty acids, total saturated",g,0.536,0.638
+"Fatty acids, total monounsaturated",g,0.924,1.100
+"Fatty acids, total polyunsaturated",g,2.618,3.115
+"Fatty acids, total trans",g,0.002,0.002
+Amino Acids
+Other
+Footnotes
+(a)"Mean value contains data based on the analysis of 5-methyltetrahydrofolate, 10-Formyl folic acid, and 5-Formyltetrahydrofolic acid plus total folate determined microbiologically"

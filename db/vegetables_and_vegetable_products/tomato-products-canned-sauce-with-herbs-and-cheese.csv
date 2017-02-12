@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:32 EST
+"Nutrient data for: 11555, Tomato products, canned, sauce, with herbs and cheese"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 122.0g","1 can, 15 oz (303 x 406) = 425.0g",
+Proximates
+"Water",g,83.43,101.78,354.58
+"Energy",kcal,59,72,251
+"Protein",g,2.13,2.60,9.05
+"Total lipid (fat)",g,1.93,2.35,8.20
+"Carbohydrate, by difference",g,10.24,12.49,43.52
+"Fiber, total dietary",g,2.2,2.7,9.4
+Minerals
+"Calcium, Ca",mg,37,45,157
+"Iron, Fe",mg,0.87,1.06,3.70
+"Magnesium, Mg",mg,19,23,81
+"Phosphorus, P",mg,54,66,230
+"Potassium, K",mg,356,434,1513
+"Sodium, Na",mg,543,662,2308
+"Zinc, Zn",mg,0.36,0.44,1.53
+Vitamins
+"Vitamin C, total ascorbic acid",mg,10.0,12.2,42.5
+"Thiamin",mg,0.076,0.093,0.323
+"Riboflavin",mg,0.124,0.151,0.527
+"Niacin",mg,1.209,1.475,5.138
+"Vitamin B-6",mg,0.019,0.023,0.081
+"Folate, DFE",µg,8,10,34
+"Vitamin A, RAE",µg,49,60,208
+"Vitamin A, IU",IU,987,1204,4195
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.627,0.765,2.665
+"Fatty acids, total monounsaturated",g,0.380,0.464,1.615
+"Fatty acids, total polyunsaturated",g,0.825,1.006,3.506
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,3,4,13
+Amino Acids
+Other

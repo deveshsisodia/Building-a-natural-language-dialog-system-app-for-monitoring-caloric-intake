@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:08 EST
+"Nutrient data for: 01300, Ice cream bar, covered with chocolate and nuts"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,55.14,
+"Energy",kcal,303,
+"Protein",g,5.62,
+"Total lipid (fat)",g,25.84,
+"Carbohydrate, by difference",g,11.89,
+"Fiber, total dietary",g,1.1,
+"Sugars, total",g,10.80,
+Minerals
+"Calcium, Ca",mg,90,
+"Iron, Fe",mg,1.21,
+"Magnesium, Mg",mg,37,
+"Phosphorus, P",mg,146,
+"Potassium, K",mg,304,
+"Sodium, Na",mg,56,
+"Zinc, Zn",mg,0.81,
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,
+"Thiamin",mg,0.051,
+"Riboflavin",mg,0.230,
+"Niacin",mg,1.228,
+"Vitamin B-6",mg,0.281,
+"Folate, DFE",µg,14,
+"Vitamin B-12",µg,0.49,
+"Vitamin A, RAE",µg,61,
+"Vitamin A, IU",IU,281,
+"Vitamin E (alpha-tocopherol)",mg,0.54,
+"Vitamin D (D2 + D3)",µg,0.2,
+"Vitamin D",IU,9,
+"Vitamin K (phylloquinone)",µg,1.7,
+Lipids
+"Fatty acids, total saturated",g,15.904,
+"Fatty acids, total monounsaturated",g,6.208,
+"Fatty acids, total polyunsaturated",g,1.879,
+"Fatty acids, total trans",g,0.000,
+"Cholesterol",mg,56,
+Amino Acids
+Other
+"Caffeine",mg,4,

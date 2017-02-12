@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:29 EST
+"Nutrient data for: 18023, Bread, cornbread, dry mix, prepared with 2% milk, 80% margarine, and eggs"
+Nutrient,Unit,1Value per 100 g,"1 muffin = 51.0g","1 piece = 60.0g","1 oz = 28.35g",
+Proximates
+"Water",g,27.11,13.83,16.27,7.69
+"Energy",kcal,330,168,198,94
+"Protein",g,6.59,3.36,3.95,1.87
+"Total lipid (fat)",g,9.58,4.89,5.75,2.72
+"Carbohydrate, by difference",g,54.46,27.77,32.68,15.44
+"Fiber, total dietary",g,2.3,1.2,1.4,0.7
+"Sugars, total",g,16.05,8.19,9.63,4.55
+Minerals
+"Calcium, Ca",mg,135,69,81,38
+"Iron, Fe",mg,1.85,0.94,1.11,0.52
+"Magnesium, Mg",mg,17,9,10,5
+"Phosphorus, P",mg,391,199,235,111
+"Potassium, K",mg,133,68,80,38
+"Sodium, Na",mg,599,305,359,170
+"Zinc, Zn",mg,0.67,0.34,0.40,0.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.1,0.1,0.0
+"Thiamin",mg,0.190,0.097,0.114,0.054
+"Riboflavin",mg,0.175,0.089,0.105,0.050
+"Niacin",mg,2.004,1.022,1.202,0.568
+"Vitamin B-6",mg,0.085,0.043,0.051,0.024
+"Folate, DFE",µg,86,44,52,24
+"Vitamin B-12",µg,0.23,0.12,0.14,0.07
+"Vitamin A, RAE",µg,35,18,21,10
+"Vitamin A, IU",IU,168,86,101,48
+"Vitamin E (alpha-tocopherol)",mg,0.51,0.26,0.31,0.14
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,3.7,1.9,2.2,1.0
+Lipids
+"Fatty acids, total saturated",g,3.732,1.903,2.239,1.058
+"Fatty acids, total monounsaturated",g,3.494,1.782,2.096,0.991
+"Fatty acids, total polyunsaturated",g,1.963,1.001,1.178,0.557
+"Fatty acids, total trans",g,0.224,0.114,0.134,0.064
+"Cholesterol",mg,57,29,34,16
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

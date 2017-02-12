@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:49 EST
+"Nutrient data for: 10119, Pork, fresh, variety meats and by-products, stomach, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","4.0 oz = 113.0g",
+Proximates
+"Water",g,73.50,20.84,83.06
+"Energy",kcal,159,45,180
+"Protein",g,16.85,4.78,19.04
+"Total lipid (fat)",g,10.14,2.87,11.46
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,11,3,12
+"Iron, Fe",mg,1.01,0.29,1.14
+"Magnesium, Mg",mg,11,3,12
+"Phosphorus, P",mg,130,37,147
+"Potassium, K",mg,140,40,158
+"Sodium, Na",mg,75,21,85
+"Zinc, Zn",mg,1.85,0.52,2.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.051,0.014,0.058
+"Riboflavin",mg,0.201,0.057,0.227
+"Niacin",mg,2.480,0.703,2.802
+"Vitamin B-6",mg,0.034,0.010,0.038
+"Folate, DFE",µg,3,1,3
+"Vitamin B-12",µg,0.30,0.09,0.34
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.04,0.01,0.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,4.025,1.141,4.548
+"Fatty acids, total monounsaturated",g,3.590,1.018,4.057
+"Fatty acids, total polyunsaturated",g,0.892,0.253,1.008
+"Fatty acids, total trans",g,0.130,0.037,0.147
+"Cholesterol",mg,223,63,252
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

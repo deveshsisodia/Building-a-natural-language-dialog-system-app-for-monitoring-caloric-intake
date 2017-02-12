@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:01 EST
+"Nutrient data for: 15072, Fish, roe, mixed species, raw"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 14.0g","1 oz = 28.35g","1 can (8 oz), solids and liquid = 227.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,67.73,9.48,19.20,153.75,57.57
+"Energy",kcal,143,20,41,325,122
+"Protein",g,22.32,3.12,6.33,50.67,18.97
+"Total lipid (fat)",g,6.42,0.90,1.82,14.57,5.46
+"Carbohydrate, by difference",g,1.50,0.21,0.43,3.40,1.27
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,22,3,6,50,19
+"Iron, Fe",mg,0.60,0.08,0.17,1.36,0.51
+"Magnesium, Mg",mg,20,3,6,45,17
+"Phosphorus, P",mg,402,56,114,913,342
+"Potassium, K",mg,221,31,63,502,188
+"Sodium, Na",mg,91,13,26,207,77
+"Zinc, Zn",mg,1.00,0.14,0.28,2.27,0.85
+Vitamins
+"Vitamin C, total ascorbic acid",mg,16.0,2.2,4.5,36.3,13.6
+"Thiamin",mg,0.240,0.034,0.068,0.545,0.204
+"Riboflavin",mg,0.740,0.104,0.210,1.680,0.629
+"Niacin",mg,1.800,0.252,0.510,4.086,1.530
+"Vitamin B-6",mg,0.160,0.022,0.045,0.363,0.136
+"Folate, DFE",µg,80,11,23,182,68
+"Vitamin B-12",µg,10.00,1.40,2.83,22.70,8.50
+"Vitamin A, RAE",µg,90,13,26,204,76
+"Vitamin A, IU",IU,299,42,85,679,254
+"Vitamin E (alpha-tocopherol)",mg,7.00,0.98,1.98,15.89,5.95
+"Vitamin D (D2 + D3)",µg,12.1,1.7,3.4,27.5,10.3
+"Vitamin D",IU,484,68,137,1099,411
+"Vitamin K (phylloquinone)",µg,0.2,0.0,0.1,0.5,0.2
+Lipids
+"Fatty acids, total saturated",g,1.456,0.204,0.413,3.305,1.238
+"Fatty acids, total monounsaturated",g,1.661,0.233,0.471,3.770,1.412
+"Fatty acids, total polyunsaturated",g,2.656,0.372,0.753,6.029,2.258
+"Cholesterol",mg,374,52,106,849,318
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

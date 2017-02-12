@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08669, Cereals ready-to-eat, GENERAL MILLS, FIBER ONE 80 Calories, Chocolate Squares"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,2.20,0.66
+"Energy",kcal,253,76
+"Protein",g,3.29,0.99
+"Total lipid (fat)",g,2.90,0.87
+"Carbohydrate, by difference",g,84.00,25.20
+"Fiber, total dietary",g,35.2,10.6
+"Sugars, total",g,17.29,5.19
+Minerals
+"Calcium, Ca",mg,1333,400
+"Iron, Fe",mg,15.00,4.50
+"Magnesium, Mg",mg,53,16
+"Phosphorus, P",mg,267,80
+"Potassium, K",mg,351,105
+"Sodium, Na",mg,400,120
+"Zinc, Zn",mg,12.50,3.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,20.0,6.0
+"Thiamin",mg,1.290,0.387
+"Riboflavin",mg,1.390,0.417
+"Niacin",mg,16.700,5.010
+"Vitamin B-6",mg,1.660,0.498
+"Vitamin B-12",µg,5.00,1.50
+"Vitamin A, IU",IU,1667,500
+"Vitamin D (D2 + D3)",µg,3.3,1.0
+"Vitamin D",IU,133,40
+Lipids
+"Fatty acids, total saturated",g,0.890,0.267
+"Fatty acids, total monounsaturated",g,0.690,0.207
+"Fatty acids, total polyunsaturated",g,1.100,0.330
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

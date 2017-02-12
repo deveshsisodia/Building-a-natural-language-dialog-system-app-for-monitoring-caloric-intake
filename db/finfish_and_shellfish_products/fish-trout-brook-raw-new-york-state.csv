@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:05 EST
+"Nutrient data for: 15274, Fish, trout, brook, raw, New York State"
+Nutrient,Unit,1Value per 100 g,"1 filet = 149.0g","1 fish = 332.0g",
+Proximates
+"Water",g,75.67,112.75,251.22
+"Energy",kcal,110,164,365
+"Protein",g,21.23,31.63,70.48
+"Total lipid (fat)",g,2.73,4.07,9.06
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,25,37,83
+"Iron, Fe",mg,0.38,0.57,1.26
+"Magnesium, Mg",mg,28,42,93
+"Phosphorus, P",mg,246,367,817
+"Potassium, K",mg,417,621,1384
+"Sodium, Na",mg,45,67,149
+"Zinc, Zn",mg,0.55,0.82,1.83
+Vitamins
+"Thiamin",mg,0.137,0.204,0.455
+"Riboflavin",mg,0.101,0.150,0.335
+"Niacin",mg,5.293,7.887,17.573
+"Vitamin B-6",mg,0.273,0.407,0.906
+"Vitamin B-12",µg,2.77,4.13,9.20
+Lipids
+"Fatty acids, total saturated",g,0.595,0.887,1.975
+"Fatty acids, total monounsaturated",g,0.815,1.214,2.706
+"Fatty acids, total polyunsaturated",g,0.772,1.150,2.563
+"Fatty acids, total trans",g,0.019,0.028,0.063
+"Cholesterol",mg,60,89,199
+Amino Acids
+Other

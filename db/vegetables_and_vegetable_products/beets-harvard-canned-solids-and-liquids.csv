@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:17 EST
+"Nutrient data for: 11605, Beets, harvard, canned, solids and liquids"
+Nutrient,Unit,1Value per 100 g,"1 cup slices = 246.0g",
+Proximates
+"Water",g,80.16,197.19
+"Energy",kcal,73,180
+"Protein",g,0.84,2.07
+"Total lipid (fat)",g,0.06,0.15
+"Carbohydrate, by difference",g,18.18,44.72
+"Fiber, total dietary",g,2.5,6.2
+Minerals
+"Calcium, Ca",mg,11,27
+"Iron, Fe",mg,0.36,0.89
+"Magnesium, Mg",mg,19,47
+"Phosphorus, P",mg,17,42
+"Potassium, K",mg,164,403
+"Sodium, Na",mg,162,399
+"Zinc, Zn",mg,0.23,0.57
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.4,5.9
+"Thiamin",mg,0.010,0.025
+"Riboflavin",mg,0.050,0.123
+"Niacin",mg,0.084,0.207
+"Vitamin B-6",mg,0.055,0.135
+"Folate, DFE",µg,29,71
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1,2
+"Vitamin A, IU",IU,11,27
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.009,0.022
+"Fatty acids, total monounsaturated",g,0.011,0.027
+"Fatty acids, total polyunsaturated",g,0.019,0.047
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

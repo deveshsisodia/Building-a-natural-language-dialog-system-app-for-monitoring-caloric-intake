@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:29 EST
+"Nutrient data for: 02005, Spices, caraway seed"
+Nutrient,Unit,1Value per 100 g,"1 tsp = 2.1g","1 tbsp = 6.7g",
+Proximates
+"Water",g,9.87,0.21,0.66
+"Energy",kcal,333,7,22
+"Protein",g,19.77,0.42,1.32
+"Total lipid (fat)",g,14.59,0.31,0.98
+"Carbohydrate, by difference",g,49.90,1.05,3.34
+"Fiber, total dietary",g,38.0,0.8,2.5
+"Sugars, total",g,0.64,0.01,0.04
+Minerals
+"Calcium, Ca",mg,689,14,46
+"Iron, Fe",mg,16.23,0.34,1.09
+"Magnesium, Mg",mg,258,5,17
+"Phosphorus, P",mg,568,12,38
+"Potassium, K",mg,1351,28,91
+"Sodium, Na",mg,17,0,1
+"Zinc, Zn",mg,5.50,0.12,0.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,21.0,0.4,1.4
+"Thiamin",mg,0.383,0.008,0.026
+"Riboflavin",mg,0.379,0.008,0.025
+"Niacin",mg,3.606,0.076,0.242
+"Vitamin B-6",mg,0.360,0.008,0.024
+"Folate, DFE",µg,10,0,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,18,0,1
+"Vitamin A, IU",IU,363,8,24
+"Vitamin E (alpha-tocopherol)",mg,2.50,0.05,0.17
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.620,0.013,0.042
+"Fatty acids, total monounsaturated",g,7.125,0.150,0.477
+"Fatty acids, total polyunsaturated",g,3.272,0.069,0.219
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

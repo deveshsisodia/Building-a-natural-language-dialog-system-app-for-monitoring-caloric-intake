@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:11 EST
+"Nutrient data for: 20316, Corn flour, whole-grain, white"
+Nutrient,Unit,1Value per 100 g,"1 cup = 117.0g",
+Proximates
+"Water",g,10.91,12.76
+"Energy",kcal,361,422
+"Protein",g,6.93,8.11
+"Total lipid (fat)",g,3.86,4.52
+"Carbohydrate, by difference",g,76.85,89.91
+"Fiber, total dietary",g,7.3,8.5
+"Sugars, total",g,0.64,0.75
+Minerals
+"Calcium, Ca",mg,7,8
+"Iron, Fe",mg,2.38,2.78
+"Magnesium, Mg",mg,93,109
+"Phosphorus, P",mg,272,318
+"Potassium, K",mg,315,369
+"Sodium, Na",mg,5,6
+"Zinc, Zn",mg,1.73,2.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.246,0.288
+"Riboflavin",mg,0.080,0.094
+"Niacin",mg,1.900,2.223
+"Vitamin B-6",mg,0.370,0.433
+"Folate, DFE",µg,25,29
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,3,4
+"Vitamin E (alpha-tocopherol)",mg,0.42,0.49
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.4
+Lipids
+"Fatty acids, total saturated",g,0.543,0.635
+"Fatty acids, total monounsaturated",g,1.018,1.191
+"Fatty acids, total polyunsaturated",g,1.759,2.058
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

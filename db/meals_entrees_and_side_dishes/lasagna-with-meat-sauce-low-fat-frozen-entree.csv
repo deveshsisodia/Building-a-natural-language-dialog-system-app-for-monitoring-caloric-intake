@@ -1,0 +1,34 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:23 EST
+"Nutrient data for: 22915, Lasagna with meat & sauce, low-fat, frozen entree"
+Nutrient,Unit,1Value per 100 g,"1 package = 309.0g","1 oz = 28.35g",
+Proximates
+"Water",g,76.36,235.95,21.65
+"Energy",kcal,101,312,29
+"Protein",g,6.81,21.04,1.93
+"Total lipid (fat)",g,2.23,6.89,0.63
+"Carbohydrate, by difference",g,13.50,41.72,3.83
+"Fiber, total dietary",g,1.3,4.0,0.4
+Minerals
+"Calcium, Ca",mg,108,334,31
+"Iron, Fe",mg,0.97,3.00,0.27
+"Magnesium, Mg",mg,19,59,5
+"Phosphorus, P",mg,34,105,10
+"Potassium, K",mg,150,464,43
+"Sodium, Na",mg,181,559,51
+"Zinc, Zn",mg,0.86,2.66,0.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,17.9,55.3,5.1
+"Thiamin",mg,0.038,0.117,0.011
+"Riboflavin",mg,0.126,0.389,0.036
+"Niacin",mg,1.221,3.773,0.346
+"Vitamin B-6",mg,0.122,0.377,0.035
+"Vitamin B-12",µg,0.45,1.39,0.13
+Lipids
+"Fatty acids, total saturated",g,0.967,2.988,0.274
+"Fatty acids, total monounsaturated",g,0.698,2.157,0.198
+"Fatty acids, total polyunsaturated",g,0.279,0.862,0.079
+"Cholesterol",mg,7,22,2
+Amino Acids
+Other

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:35 EST
+"Nutrient data for: 18215, Crackers, cheese, sandwich-type with peanut butter filling"
+Nutrient,Unit,1Value per 100 g,"0.5 oz = 14.2g","1 cup, crushed = 83.0g","6.0 cracker = 39.0g","1 sandwich = 6.5g",
+Proximates
+"Water",g,3.28,0.47,2.72,1.28,0.21
+"Energy",kcal,496,70,412,193,32
+"Protein",g,12.41,1.76,10.30,4.84,0.81
+"Total lipid (fat)",g,25.12,3.57,20.85,9.80,1.63
+"Carbohydrate, by difference",g,56.74,8.06,47.09,22.13,3.69
+"Fiber, total dietary",g,3.4,0.5,2.8,1.3,0.2
+"Sugars, total",g,6.98,0.99,5.79,2.72,0.45
+Minerals
+"Calcium, Ca",mg,50,7,42,20,3
+"Iron, Fe",mg,2.72,0.39,2.26,1.06,0.18
+"Magnesium, Mg",mg,56,8,46,22,4
+"Phosphorus, P",mg,268,38,222,105,17
+"Potassium, K",mg,218,31,181,85,14
+"Sodium, Na",mg,829,118,688,323,54
+"Zinc, Zn",mg,1.04,0.15,0.86,0.41,0.07
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.552,0.078,0.458,0.215,0.036
+"Riboflavin",mg,0.294,0.042,0.244,0.115,0.019
+"Niacin",mg,5.831,0.828,4.840,2.274,0.379
+"Vitamin B-6",mg,0.151,0.021,0.125,0.059,0.010
+"Folate, DFE",µg,142,20,118,55,9
+"Vitamin B-12",µg,0.28,0.04,0.23,0.11,0.02
+"Vitamin A, RAE",µg,1,0,1,0,0
+"Vitamin A, IU",IU,2,0,2,1,0
+"Vitamin E (alpha-tocopherol)",mg,2.37,0.34,1.97,0.92,0.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,12.0,1.7,10.0,4.7,0.8
+Lipids
+"Fatty acids, total saturated",g,4.406,0.626,3.657,1.718,0.286
+"Fatty acids, total monounsaturated",g,13.003,1.846,10.792,5.071,0.845
+"Fatty acids, total polyunsaturated",g,5.093,0.723,4.227,1.986,0.331
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

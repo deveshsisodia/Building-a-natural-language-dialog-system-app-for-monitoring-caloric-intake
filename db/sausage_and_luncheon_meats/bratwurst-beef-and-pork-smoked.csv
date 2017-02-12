@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:14 EST
+"Nutrient data for: 07922, Bratwurst, beef and pork, smoked"
+Nutrient,Unit,1Value per 100 g,"1 serving 2.33 oz = 66.0g",
+Proximates
+"Water",g,56.65,37.39
+"Energy",kcal,297,196
+"Protein",g,12.20,8.05
+"Total lipid (fat)",g,26.34,17.38
+"Carbohydrate, by difference",g,2.00,1.32
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,7,5
+"Iron, Fe",mg,1.00,0.66
+"Magnesium, Mg",mg,15,10
+"Phosphorus, P",mg,130,86
+"Potassium, K",mg,283,187
+"Sodium, Na",mg,848,560
+"Zinc, Zn",mg,2.47,1.63
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.380,0.251
+"Riboflavin",mg,0.213,0.141
+"Niacin",mg,3.110,2.053
+"Vitamin B-6",mg,0.200,0.132
+"Folate, DFE",µg,4,3
+"Vitamin B-12",µg,2.67,1.76
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,6.080,4.013
+"Fatty acids, total monounsaturated",g,8.000,5.280
+"Fatty acids, total polyunsaturated",g,1.580,1.043
+"Cholesterol",mg,78,51
+Amino Acids
+Other
+"Caffeine",mg,0,0

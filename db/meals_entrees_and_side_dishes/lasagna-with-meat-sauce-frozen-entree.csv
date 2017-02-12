@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:23 EST
+"Nutrient data for: 22916, Lasagna with meat & sauce, frozen entree"
+Nutrient,Unit,1Value per 100 g,"1 piece side = 134.0g","1 piece corner = 115.0g","1 piece center = 278.0g",
+Proximates
+"Water",g,73.10,97.95,84.06,203.22
+"Energy",kcal,124,166,143,345
+"Protein",g,6.63,8.88,7.62,18.43
+"Total lipid (fat)",g,4.42,5.92,5.08,12.29
+"Carbohydrate, by difference",g,14.39,19.28,16.55,40.00
+"Fiber, total dietary",g,1.4,1.9,1.6,3.9
+"Sugars, total",g,2.96,3.97,3.40,8.23
+Minerals
+"Calcium, Ca",mg,73,98,84,203
+"Iron, Fe",mg,0.65,0.87,0.75,1.81
+"Magnesium, Mg",mg,18,24,21,50
+"Phosphorus, P",mg,102,137,117,284
+"Potassium, K",mg,184,247,212,512
+"Sodium, Na",mg,347,465,399,965
+"Zinc, Zn",mg,0.79,1.06,0.91,2.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,4.1,5.5,4.7,11.4
+"Thiamin",mg,0.052,0.070,0.060,0.145
+"Riboflavin",mg,0.050,0.067,0.058,0.139
+"Niacin",mg,1.426,1.911,1.640,3.964
+"Vitamin B-6",mg,0.124,0.166,0.143,0.345
+"Folate, DFE",µg,22,29,25,61
+"Vitamin B-12",µg,0.74,0.99,0.85,2.06
+"Vitamin A, RAE",µg,37,50,43,103
+"Vitamin A, IU",IU,437,586,503,1215
+"Vitamin E (alpha-tocopherol)",mg,0.87,1.17,1.00,2.42
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,1,1,1,3
+"Vitamin K (phylloquinone)",µg,5.9,7.9,6.8,16.4
+Lipids
+"Fatty acids, total saturated",g,2.067,2.770,2.377,5.746
+"Fatty acids, total monounsaturated",g,1.600,2.144,1.840,4.448
+"Fatty acids, total polyunsaturated",g,0.358,0.480,0.412,0.995
+"Fatty acids, total trans",g,0.180,0.241,0.207,0.500
+"Cholesterol",mg,14,19,16,39
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

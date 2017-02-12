@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:43 EST
+"Nutrient data for: 19719, Jams and preserves, apricot"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 20.0g","1 packet (0.5 oz) = 14.0g",
+Proximates
+"Water",g,34.50,6.90,4.83
+"Energy",kcal,242,48,34
+"Protein",g,0.70,0.14,0.10
+"Total lipid (fat)",g,0.20,0.04,0.03
+"Carbohydrate, by difference",g,64.40,12.88,9.02
+"Fiber, total dietary",g,0.3,0.1,0.0
+"Sugars, total",g,43.40,8.68,6.08
+Minerals
+"Calcium, Ca",mg,20,4,3
+"Iron, Fe",mg,0.49,0.10,0.07
+"Magnesium, Mg",mg,4,1,1
+"Phosphorus, P",mg,3,1,0
+"Potassium, K",mg,77,15,11
+"Sodium, Na",mg,40,8,6
+"Zinc, Zn",mg,0.06,0.01,0.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.8,1.8,1.2
+"Thiamin",mg,0.000,0.000,0.000
+"Riboflavin",mg,0.022,0.004,0.003
+"Niacin",mg,0.036,0.007,0.005
+"Vitamin B-6",mg,0.020,0.004,0.003
+"Folate, DFE",µg,1,0,0
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,10,2,1
+"Vitamin A, IU",IU,205,41,29
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.03,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.010,0.002,0.001
+"Fatty acids, total monounsaturated",g,0.000,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

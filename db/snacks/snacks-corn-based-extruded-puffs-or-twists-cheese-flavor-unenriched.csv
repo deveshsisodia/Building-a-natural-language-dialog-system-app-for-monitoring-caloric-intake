@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:53 EST
+"Nutrient data for: 19802, Snacks, corn-based, extruded, puffs or twists, cheese-flavor, unenriched"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 bag (8 oz) = 227.0g",
+Proximates
+"Water",g,1.50,0.43,3.40
+"Energy",kcal,558,158,1267
+"Protein",g,5.76,1.63,13.08
+"Total lipid (fat)",g,35.76,10.14,81.18
+"Carbohydrate, by difference",g,54.10,15.34,122.81
+"Fiber, total dietary",g,2.2,0.6,5.0
+"Sugars, total",g,2.76,0.78,6.27
+Minerals
+"Calcium, Ca",mg,58,16,132
+"Iron, Fe",mg,1.10,0.31,2.50
+"Magnesium, Mg",mg,20,6,45
+"Phosphorus, P",mg,108,31,245
+"Potassium, K",mg,197,56,447
+"Sodium, Na",mg,896,254,2034
+"Zinc, Zn",mg,0.60,0.17,1.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.155,0.044,0.352
+"Riboflavin",mg,0.200,0.057,0.454
+"Niacin",mg,5.743,1.628,13.037
+"Vitamin B-6",mg,0.064,0.018,0.145
+"Folate, DFE",µg,180,51,409
+"Vitamin B-12",µg,0.48,0.14,1.09
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,5.12,1.45,11.62
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,36.1,10.2,81.9
+Lipids
+"Fatty acids, total saturated",g,5.512,1.563,12.512
+"Fatty acids, total monounsaturated",g,10.437,2.959,23.692
+"Fatty acids, total polyunsaturated",g,18.649,5.287,42.333
+"Fatty acids, total trans",g,0.806,0.229,1.830
+"Cholesterol",mg,4,1,9
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

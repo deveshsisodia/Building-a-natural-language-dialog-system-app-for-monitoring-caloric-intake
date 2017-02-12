@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:16 EST
+"Nutrient data for: 07040, Liver cheese, pork"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice = 38.0g",
+Proximates
+"Water",g,53.60,15.20,20.37
+"Energy",kcal,304,86,116
+"Protein",g,15.20,4.31,5.78
+"Total lipid (fat)",g,25.60,7.26,9.73
+"Carbohydrate, by difference",g,2.10,0.60,0.80
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,8,2,3
+"Iron, Fe",mg,10.83,3.07,4.12
+"Magnesium, Mg",mg,12,3,5
+"Phosphorus, P",mg,207,59,79
+"Potassium, K",mg,226,64,86
+"Sodium, Na",mg,1225,347,466
+"Zinc, Zn",mg,3.70,1.05,1.41
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.0,0.9,1.1
+"Thiamin",mg,0.212,0.060,0.081
+"Riboflavin",mg,2.227,0.631,0.846
+"Niacin",mg,11.768,3.336,4.472
+"Vitamin B-6",mg,0.470,0.133,0.179
+"Folate, DFE",µg,104,29,40
+"Vitamin B-12",µg,24.55,6.96,9.33
+"Vitamin A, RAE",µg,5252,1489,1996
+"Vitamin A, IU",IU,17490,4958,6646
+Lipids
+"Fatty acids, total saturated",g,8.960,2.540,3.405
+"Fatty acids, total monounsaturated",g,12.260,3.476,4.659
+"Fatty acids, total polyunsaturated",g,3.420,0.970,1.300
+"Cholesterol",mg,174,49,66
+Amino Acids
+Other

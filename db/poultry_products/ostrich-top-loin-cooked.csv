@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:38 EST
+"Nutrient data for: 05658, Ostrich, top loin, cooked"
+Nutrient,Unit,1Value per 100 g,"1 serving ( 3 oz ) = 85.0g",
+Proximates
+"Water",g,67.95,57.76
+"Energy",kcal,155,132
+"Protein",g,28.12,23.90
+"Total lipid (fat)",g,3.87,3.29
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,6,5
+"Iron, Fe",mg,3.31,2.81
+"Magnesium, Mg",mg,25,21
+"Phosphorus, P",mg,245,208
+"Potassium, K",mg,353,300
+"Sodium, Na",mg,77,65
+"Zinc, Zn",mg,4.72,4.01
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.229,0.195
+"Riboflavin",mg,0.289,0.246
+"Niacin",mg,7.051,5.993
+"Vitamin B-6",mg,0.538,0.457
+"Folate, DFE",µg,15,13
+"Vitamin B-12",µg,6.17,5.24
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.23,0.20
+"Vitamin K (phylloquinone)",µg,3.4,2.9
+Lipids
+"Fatty acids, total saturated",g,1.320,1.122
+"Fatty acids, total monounsaturated",g,1.270,1.080
+"Fatty acids, total polyunsaturated",g,0.380,0.323
+"Fatty acids, total trans",g,0.128,0.109
+"Cholesterol",mg,93,79
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:25 EST
+"Nutrient data for: 11230, Pepeao, dried"
+Nutrient,Unit,1Value per 100 g,"1 cup = 24.0g",
+Proximates
+"Water",g,11.14,2.67
+"Energy",kcal,298,72
+"Protein",g,4.82,1.16
+"Total lipid (fat)",g,0.44,0.11
+"Carbohydrate, by difference",g,81.03,19.45
+Minerals
+"Calcium, Ca",mg,113,27
+"Iron, Fe",mg,6.14,1.47
+"Magnesium, Mg",mg,146,35
+"Phosphorus, P",mg,116,28
+"Potassium, K",mg,708,170
+"Sodium, Na",mg,70,17
+"Zinc, Zn",mg,7.52,1.80
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.4,0.3
+"Thiamin",mg,0.826,0.198
+"Riboflavin",mg,0.350,0.084
+"Niacin",mg,3.000,0.720
+"Vitamin B-6",mg,0.950,0.228
+"Folate, DFE",µg,160,38
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

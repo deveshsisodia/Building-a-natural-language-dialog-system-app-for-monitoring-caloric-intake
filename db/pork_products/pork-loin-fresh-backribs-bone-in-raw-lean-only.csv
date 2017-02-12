@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:50 EST
+"Nutrient data for: 10980, Pork loin, fresh, backribs, bone-in, raw, lean only"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 114.0g","1 ribs = 1071.0g",
+Proximates
+"Water",g,68.57,78.17,734.38
+"Energy",kcal,172,196,1842
+"Protein",g,20.85,23.77,223.30
+"Total lipid (fat)",g,9.84,11.22,105.39
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,26,30,278
+"Iron, Fe",mg,0.84,0.96,9.00
+"Magnesium, Mg",mg,17,19,182
+"Phosphorus, P",mg,165,188,1767
+"Potassium, K",mg,268,306,2870
+"Sodium, Na",mg,95,108,1017
+"Zinc, Zn",mg,2.73,3.11,29.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.496,0.565,5.312
+"Riboflavin",mg,0.331,0.377,3.545
+"Niacin",mg,7.247,8.262,77.615
+"Vitamin B-6",mg,0.465,0.530,4.980
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,0.54,0.62,5.78
+"Vitamin A, RAE",µg,3,3,32
+"Vitamin A, IU",IU,11,13,118
+"Vitamin E (alpha-tocopherol)",mg,0.20,0.23,2.14
+"Vitamin D (D2 + D3)",µg,0.9,1.0,9.6
+"Vitamin D",IU,38,43,407
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,3.477,3.964,37.239
+"Fatty acids, total monounsaturated",g,4.278,4.877,45.817
+"Fatty acids, total polyunsaturated",g,1.532,1.746,16.408
+"Fatty acids, total trans",g,0.083,0.095,0.889
+"Cholesterol",mg,66,75,707
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

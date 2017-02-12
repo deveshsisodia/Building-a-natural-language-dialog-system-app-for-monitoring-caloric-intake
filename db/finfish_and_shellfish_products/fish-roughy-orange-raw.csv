@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:02 EST
+"Nutrient data for: 15073, Fish, roughy, orange, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,75.67,64.32
+"Energy",kcal,76,65
+"Protein",g,16.41,13.95
+"Total lipid (fat)",g,0.70,0.59
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,9,8
+"Iron, Fe",mg,1.01,0.86
+"Magnesium, Mg",mg,17,14
+"Phosphorus, P",mg,107,91
+"Potassium, K",mg,167,142
+"Sodium, Na",mg,72,61
+"Zinc, Zn",mg,0.23,0.20
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.031,0.026
+"Riboflavin",mg,0.045,0.038
+"Niacin",mg,1.530,1.301
+"Vitamin B-6",mg,0.052,0.044
+"Folate, DFE",µg,26,22
+"Vitamin B-12",µg,0.38,0.32
+"Vitamin A, RAE",µg,21,18
+"Vitamin A, IU",IU,70,60
+"Vitamin E (alpha-tocopherol)",mg,1.20,1.02
+"Vitamin K (phylloquinone)",µg,0.7,0.6
+Lipids
+"Fatty acids, total saturated",g,0.015,0.013
+"Fatty acids, total monounsaturated",g,0.239,0.203
+"Fatty acids, total polyunsaturated",g,0.109,0.093
+"Cholesterol",mg,60,51
+Amino Acids
+Other
+"Caffeine",mg,0,0

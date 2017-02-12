@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:22 EST
+"Nutrient data for: 22973, Corn dogs, frozen, prepared"
+Nutrient,Unit,1Value per 100 g,"1 corndog = 78.0g","1 corndog mini = 17.0g",
+Proximates
+"Water",g,50.32,39.25,8.55
+"Energy",kcal,250,195,42
+"Protein",g,8.57,6.68,1.46
+"Total lipid (fat)",g,12.02,9.38,2.04
+"Carbohydrate, by difference",g,26.96,21.03,4.58
+"Fiber, total dietary",g,1.0,0.8,0.2
+"Sugars, total",g,7.54,5.88,1.28
+Minerals
+"Calcium, Ca",mg,72,56,12
+"Iron, Fe",mg,1.90,1.48,0.32
+"Magnesium, Mg",mg,17,13,3
+"Phosphorus, P",mg,224,175,38
+"Potassium, K",mg,125,98,21
+"Sodium, Na",mg,668,521,114
+"Zinc, Zn",mg,0.85,0.66,0.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.4,0.1
+"Thiamin",mg,0.141,0.110,0.024
+"Riboflavin",mg,0.155,0.121,0.026
+"Niacin",mg,2.786,2.173,0.474
+"Vitamin B-6",mg,0.117,0.091,0.020
+"Folate, DFE",µg,97,76,16
+"Vitamin B-12",µg,0.48,0.37,0.08
+"Vitamin A, RAE",µg,48,37,8
+"Vitamin A, IU",IU,166,129,28
+"Vitamin E (alpha-tocopherol)",mg,0.60,0.47,0.10
+"Vitamin D (D2 + D3)",µg,0.4,0.3,0.1
+"Vitamin D",IU,15,12,3
+"Vitamin K (phylloquinone)",µg,5.8,4.5,1.0
+Lipids
+"Fatty acids, total saturated",g,3.466,2.703,0.589
+"Fatty acids, total monounsaturated",g,4.732,3.691,0.804
+"Fatty acids, total polyunsaturated",g,3.354,2.616,0.570
+"Fatty acids, total trans",g,0.170,0.133,0.029
+"Cholesterol",mg,44,34,7
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

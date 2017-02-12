@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:37 EST
+"Nutrient data for: 18249, Doughnuts, cake-type, plain, chocolate-coated or frosted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 donettes (2"" dia) = 18.0g","1 doughnut, medium (approx 3"" dia) = 43.0g","1 doughnut large (approx 3-1/2"" dia) = 67.0g",
+Proximates
+"Water",g,16.76,4.75,3.02,7.21,11.23
+"Energy",kcal,452,128,81,194,303
+"Protein",g,4.93,1.40,0.89,2.12,3.30
+"Total lipid (fat)",g,25.25,7.16,4.54,10.86,16.92
+"Carbohydrate, by difference",g,51.33,14.55,9.24,22.07,34.39
+"Fiber, total dietary",g,1.9,0.5,0.3,0.8,1.3
+"Sugars, total",g,26.65,7.56,4.80,11.46,17.86
+Minerals
+"Calcium, Ca",mg,24,7,4,10,16
+"Iron, Fe",mg,4.00,1.13,0.72,1.72,2.68
+"Magnesium, Mg",mg,30,9,5,13,20
+"Phosphorus, P",mg,210,60,38,90,141
+"Potassium, K",mg,201,57,36,86,135
+"Sodium, Na",mg,326,92,59,140,218
+"Zinc, Zn",mg,0.98,0.28,0.18,0.42,0.66
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.3,0.4,0.2,0.6,0.9
+"Thiamin",mg,0.163,0.046,0.029,0.070,0.109
+"Riboflavin",mg,0.125,0.035,0.022,0.054,0.084
+"Niacin",mg,1.590,0.451,0.286,0.684,1.065
+"Vitamin B-6",mg,0.024,0.007,0.004,0.010,0.016
+"Folate, DFE",µg,90,26,16,39,60
+"Vitamin B-12",µg,0.10,0.03,0.02,0.04,0.07
+"Vitamin A, RAE",µg,4,1,1,2,3
+"Vitamin A, IU",IU,16,5,3,7,11
+"Vitamin E (alpha-tocopherol)",mg,2.02,0.57,0.36,0.87,1.35
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,7.9,2.2,1.4,3.4,5.3
+Lipids
+"Fatty acids, total saturated",g,13.470,3.819,2.425,5.792,9.025
+"Fatty acids, total monounsaturated",g,8.618,2.443,1.551,3.706,5.774
+"Fatty acids, total polyunsaturated",g,1.960,0.556,0.353,0.843,1.313
+"Cholesterol",mg,19,5,3,8,13
+Amino Acids
+Other
+"Caffeine",mg,2,1,0,1,1

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:17 EST
+"Nutrient data for: 07053, Pate, chicken liver, canned"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 13.0g","1 oz = 28.35g",
+Proximates
+"Water",g,65.64,8.53,18.61
+"Energy",kcal,201,26,57
+"Protein",g,13.45,1.75,3.81
+"Total lipid (fat)",g,13.10,1.70,3.71
+"Carbohydrate, by difference",g,6.55,0.85,1.86
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,10,1,3
+"Iron, Fe",mg,9.19,1.19,2.61
+"Magnesium, Mg",mg,13,2,4
+"Phosphorus, P",mg,175,23,50
+"Potassium, K",mg,95,12,27
+"Sodium, Na",mg,386,50,109
+"Zinc, Zn",mg,2.14,0.28,0.61
+Vitamins
+"Vitamin C, total ascorbic acid",mg,10.0,1.3,2.8
+"Thiamin",mg,0.052,0.007,0.015
+"Riboflavin",mg,1.401,0.182,0.397
+"Niacin",mg,7.517,0.977,2.131
+"Vitamin B-6",mg,0.260,0.034,0.074
+"Folate, DFE",µg,321,42,91
+"Vitamin B-12",µg,8.07,1.05,2.29
+"Vitamin A, RAE",µg,217,28,62
+"Vitamin A, IU",IU,724,94,205
+"Vitamin E (alpha-tocopherol)",mg,0.98,0.13,0.28
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,4.000,0.520,1.134
+"Fatty acids, total monounsaturated",g,5.280,0.686,1.497
+"Fatty acids, total polyunsaturated",g,2.460,0.320,0.697
+"Cholesterol",mg,391,51,111
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

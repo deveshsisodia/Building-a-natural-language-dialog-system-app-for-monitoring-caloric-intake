@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:54 EST
+"Nutrient data for: 19806, Snacks, popcorn, air-popped (Unsalted)"
+Nutrient,Unit,1Value per 100 g,"1 cup = 8.0g","1 oz = 28.35g",
+Proximates
+"Water",g,4.10,0.33,1.16
+"Energy",kcal,382,31,108
+"Protein",g,12.00,0.96,3.40
+"Total lipid (fat)",g,4.20,0.34,1.19
+"Carbohydrate, by difference",g,77.90,6.23,22.08
+"Fiber, total dietary",g,15.1,1.2,4.3
+Minerals
+"Calcium, Ca",mg,10,1,3
+"Iron, Fe",mg,2.66,0.21,0.75
+"Magnesium, Mg",mg,131,10,37
+"Phosphorus, P",mg,300,24,85
+"Potassium, K",mg,301,24,85
+"Sodium, Na",mg,4,0,1
+"Zinc, Zn",mg,3.44,0.28,0.98
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.203,0.016,0.058
+"Riboflavin",mg,0.283,0.023,0.080
+"Niacin",mg,1.944,0.156,0.551
+"Vitamin B-6",mg,0.245,0.020,0.069
+"Folate, DFE",µg,23,2,7
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,0,0
+"Vitamin A, IU",IU,27,2,8
+Lipids
+"Fatty acids, total saturated",g,0.570,0.046,0.162
+"Fatty acids, total monounsaturated",g,1.100,0.088,0.312
+"Fatty acids, total polyunsaturated",g,1.900,0.152,0.539
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

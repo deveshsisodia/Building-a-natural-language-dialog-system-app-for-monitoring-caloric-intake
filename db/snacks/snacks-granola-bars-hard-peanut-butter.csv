@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:54 EST
+"Nutrient data for: 19420, Snacks, granola bars, hard, peanut butter"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 bar = 24.0g",
+Proximates
+"Water",g,2.30,0.65,0.55
+"Energy",kcal,483,137,116
+"Protein",g,9.80,2.78,2.35
+"Total lipid (fat)",g,23.80,6.75,5.71
+"Carbohydrate, by difference",g,62.30,17.66,14.95
+"Fiber, total dietary",g,2.9,0.8,0.7
+Minerals
+"Calcium, Ca",mg,41,12,10
+"Iron, Fe",mg,2.40,0.68,0.58
+"Magnesium, Mg",mg,55,16,13
+"Phosphorus, P",mg,139,39,33
+"Potassium, K",mg,291,82,70
+"Sodium, Na",mg,283,80,68
+"Zinc, Zn",mg,1.25,0.35,0.30
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1,0.0
+"Thiamin",mg,0.210,0.060,0.050
+"Riboflavin",mg,0.090,0.026,0.022
+"Niacin",mg,1.970,0.558,0.473
+"Vitamin B-6",mg,0.096,0.027,0.023
+"Folate, DFE",µg,18,5,4
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1,0,0
+"Vitamin A, IU",IU,16,5,4
+Lipids
+"Fatty acids, total saturated",g,3.200,0.907,0.768
+"Fatty acids, total monounsaturated",g,7.000,1.985,1.680
+"Fatty acids, total polyunsaturated",g,12.080,3.425,2.899
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

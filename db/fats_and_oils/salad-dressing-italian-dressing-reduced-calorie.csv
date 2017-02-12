@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:21 EST
+"Nutrient data for: 42140, Salad dressing, italian dressing, reduced calorie"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 14.0g","1 cup = 216.0g",
+Proximates
+"Water",g,70.00,9.80,151.20
+"Energy",kcal,200,28,432
+"Protein",g,0.30,0.04,0.65
+"Total lipid (fat)",g,20.00,2.80,43.20
+"Carbohydrate, by difference",g,6.70,0.94,14.47
+"Fiber, total dietary",g,0.2,0.0,0.4
+"Sugars, total",g,1.94,0.27,4.19
+Minerals
+"Calcium, Ca",mg,6,1,13
+"Iron, Fe",mg,0.13,0.02,0.28
+"Magnesium, Mg",mg,2,0,4
+"Phosphorus, P",mg,7,1,15
+"Potassium, K",mg,33,5,71
+"Sodium, Na",mg,1074,150,2320
+"Zinc, Zn",mg,0.04,0.01,0.09
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.1,0.9
+"Thiamin",mg,0.010,0.001,0.022
+"Riboflavin",mg,0.010,0.001,0.022
+"Niacin",mg,0.020,0.003,0.043
+"Vitamin B-6",mg,0.030,0.004,0.065
+"Folate, DFE",µg,3,0,6
+"Vitamin B-12",µg,0.07,0.01,0.15
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.59,0.08,1.27
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,12.5,1.8,27.0
+Lipids
+"Fatty acids, total saturated",g,2.880,0.403,6.221
+"Fatty acids, total monounsaturated",g,4.660,0.652,10.066
+"Fatty acids, total polyunsaturated",g,11.580,1.621,25.013
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

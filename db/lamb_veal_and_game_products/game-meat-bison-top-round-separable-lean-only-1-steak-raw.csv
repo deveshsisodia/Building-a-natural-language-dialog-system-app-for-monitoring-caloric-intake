@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:51 EST
+"Nutrient data for: 17337, Game meat, bison, top round, separable lean only, 1"" steak, raw"
+Nutrient,Unit,1Value per 100 g,"1 serving ( 3 oz ) = 85.0g","1 steak = 489.0g",
+Proximates
+"Water",g,73.95,62.86,361.62
+"Energy",kcal,122,104,597
+"Protein",g,23.32,19.82,114.03
+"Total lipid (fat)",g,2.43,2.07,11.88
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,5,4,24
+"Iron, Fe",mg,2.66,2.26,13.01
+"Magnesium, Mg",mg,27,23,132
+"Phosphorus, P",mg,237,201,1159
+"Potassium, K",mg,390,332,1907
+"Sodium, Na",mg,47,40,230
+"Zinc, Zn",mg,2.92,2.48,14.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.217,0.184,1.061
+"Riboflavin",mg,0.337,0.286,1.648
+"Niacin",mg,6.183,5.256,30.235
+"Vitamin B-6",mg,0.562,0.478,2.748
+"Folate, DFE",µg,14,12,68
+"Vitamin B-12",µg,1.55,1.32,7.58
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.17,0.14,0.83
+Lipids
+"Fatty acids, total saturated",g,1.039,0.883,5.081
+"Fatty acids, total monounsaturated",g,0.950,0.807,4.645
+"Fatty acids, total polyunsaturated",g,0.114,0.097,0.557
+"Cholesterol",mg,65,55,318
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

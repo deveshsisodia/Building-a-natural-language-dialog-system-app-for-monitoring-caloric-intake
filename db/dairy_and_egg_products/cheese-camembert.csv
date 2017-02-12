@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:05 EST
+"Nutrient data for: 01007, Cheese, camembert"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cup = 246.0g","1 cubic inch = 17.0g","1 wedge (1.33 oz) = 38.0g",
+Proximates
+"Water",g,51.80,14.69,127.43,8.81,19.68
+"Energy",kcal,300,85,738,51,114
+"Protein",g,19.80,5.61,48.71,3.37,7.52
+"Total lipid (fat)",g,24.26,6.88,59.68,4.12,9.22
+"Carbohydrate, by difference",g,0.46,0.13,1.13,0.08,0.17
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.46,0.13,1.13,0.08,0.17
+Minerals
+"Calcium, Ca",mg,388,110,954,66,147
+"Iron, Fe",mg,0.33,0.09,0.81,0.06,0.13
+"Magnesium, Mg",mg,20,6,49,3,8
+"Phosphorus, P",mg,347,98,854,59,132
+"Potassium, K",mg,187,53,460,32,71
+"Sodium, Na",mg,842,239,2071,143,320
+"Zinc, Zn",mg,2.38,0.67,5.85,0.40,0.90
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.028,0.008,0.069,0.005,0.011
+"Riboflavin",mg,0.488,0.138,1.200,0.083,0.185
+"Niacin",mg,0.630,0.179,1.550,0.107,0.239
+"Vitamin B-6",mg,0.227,0.064,0.558,0.039,0.086
+"Folate, DFE",µg,62,18,153,11,24
+"Vitamin B-12",µg,1.30,0.37,3.20,0.22,0.49
+"Vitamin A, RAE",µg,241,68,593,41,92
+"Vitamin A, IU",IU,820,232,2017,139,312
+"Vitamin E (alpha-tocopherol)",mg,0.21,0.06,0.52,0.04,0.08
+"Vitamin D (D2 + D3)",µg,0.4,0.1,1.0,0.1,0.2
+"Vitamin D",IU,18,5,44,3,7
+"Vitamin K (phylloquinone)",µg,2.0,0.6,4.9,0.3,0.8
+Lipids
+"Fatty acids, total saturated",g,15.259,4.326,37.537,2.594,5.798
+"Fatty acids, total monounsaturated",g,7.023,1.991,17.277,1.194,2.669
+"Fatty acids, total polyunsaturated",g,0.724,0.205,1.781,0.123,0.275
+"Cholesterol",mg,72,20,177,12,27
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

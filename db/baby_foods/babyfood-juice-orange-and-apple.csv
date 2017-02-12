@@ -1,0 +1,32 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:45 EST
+"Nutrient data for: 03173, Babyfood, juice, orange and apple"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 31.2g","1 jar = 127.0g",
+Proximates
+"Water",g,88.90,27.74,112.90
+"Energy",kcal,43,13,55
+"Protein",g,0.40,0.12,0.51
+"Total lipid (fat)",g,0.20,0.06,0.25
+"Carbohydrate, by difference",g,10.10,3.15,12.83
+Minerals
+"Calcium, Ca",mg,10,3,13
+"Iron, Fe",mg,0.20,0.06,0.25
+"Magnesium, Mg",mg,5,2,6
+"Phosphorus, P",mg,7,2,9
+"Potassium, K",mg,138,43,175
+"Sodium, Na",mg,3,1,4
+"Zinc, Zn",mg,0.03,0.01,0.04
+Vitamins
+"Vitamin C, total ascorbic acid",mg,76.9,24.0,97.7
+"Thiamin",mg,0.038,0.012,0.048
+"Riboflavin",mg,0.028,0.009,0.036
+"Niacin",mg,0.185,0.058,0.235
+"Vitamin B-6",mg,0.038,0.012,0.048
+"Folate, DFE",µg,12,4,15
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,4,1,5
+"Vitamin A, IU",IU,73,23,93
+Lipids
+Amino Acids
+Other

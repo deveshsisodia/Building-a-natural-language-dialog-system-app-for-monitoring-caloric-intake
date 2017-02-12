@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:26 EST
+"Nutrient data for: 36027, DENNY'S, chicken strips"
+Nutrient,Unit,1Value per 100 g,"1 serving = 194.0g",
+Proximates
+"Water",g,41.37,80.26
+"Energy",kcal,295,572
+"Protein",g,19.17,37.19
+"Total lipid (fat)",g,14.50,28.13
+"Carbohydrate, by difference",g,22.03,42.74
+"Fiber, total dietary",g,1.1,2.1
+"Sugars, total",g,0.29,0.56
+Minerals
+"Calcium, Ca",mg,11,21
+"Iron, Fe",mg,0.72,1.40
+"Magnesium, Mg",mg,30,58
+"Phosphorus, P",mg,273,530
+"Potassium, K",mg,334,648
+"Sodium, Na",mg,798,1548
+"Zinc, Zn",mg,0.71,1.38
+Vitamins
+"Thiamin",mg,0.087,0.169
+"Riboflavin",mg,0.167,0.324
+"Niacin",mg,8.073,15.662
+"Vitamin B-6",mg,0.467,0.906
+"Vitamin B-12",µg,0.14,0.27
+"Vitamin A, RAE",µg,14,27
+"Vitamin A, IU",IU,87,169
+"Vitamin E (alpha-tocopherol)",mg,1.22,2.37
+Lipids
+"Fatty acids, total saturated",g,2.585,5.015
+"Fatty acids, total monounsaturated",g,3.200,6.208
+"Fatty acids, total polyunsaturated",g,7.123,13.819
+"Fatty acids, total trans",g,0.125,0.242
+"Cholesterol",mg,44,85
+Amino Acids
+Other

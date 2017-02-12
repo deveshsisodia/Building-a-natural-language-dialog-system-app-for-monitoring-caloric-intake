@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:30 EST
+"Nutrient data for: 18027, Bread, egg"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 slice (5"" x 3"" x 1/2"") = 40.0g",
+Proximates
+"Water",g,34.70,9.84,13.88
+"Energy",kcal,287,81,115
+"Protein",g,9.50,2.69,3.80
+"Total lipid (fat)",g,6.00,1.70,2.40
+"Carbohydrate, by difference",g,47.80,13.55,19.12
+"Fiber, total dietary",g,2.3,0.7,0.9
+"Sugars, total",g,1.78,0.50,0.71
+Minerals
+"Calcium, Ca",mg,93,26,37
+"Iron, Fe",mg,3.04,0.86,1.22
+"Magnesium, Mg",mg,19,5,8
+"Phosphorus, P",mg,106,30,42
+"Potassium, K",mg,115,33,46
+"Sodium, Na",mg,380,108,152
+"Zinc, Zn",mg,0.79,0.22,0.32
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.438,0.124,0.175
+"Riboflavin",mg,0.436,0.124,0.174
+"Niacin",mg,4.848,1.374,1.939
+"Vitamin B-6",mg,0.064,0.018,0.026
+"Folate, DFE",µg,130,37,52
+"Vitamin B-12",µg,0.10,0.03,0.04
+"Vitamin A, RAE",µg,63,18,25
+"Vitamin A, IU",IU,211,60,84
+"Vitamin E (alpha-tocopherol)",mg,0.26,0.07,0.10
+"Vitamin D (D2 + D3)",µg,0.4,0.1,0.2
+"Vitamin D",IU,16,5,6
+"Vitamin K (phylloquinone)",µg,0.9,0.3,0.4
+Lipids
+"Fatty acids, total saturated",g,1.593,0.452,0.637
+"Fatty acids, total monounsaturated",g,2.302,0.653,0.921
+"Fatty acids, total polyunsaturated",g,1.106,0.314,0.442
+"Cholesterol",mg,51,14,20
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

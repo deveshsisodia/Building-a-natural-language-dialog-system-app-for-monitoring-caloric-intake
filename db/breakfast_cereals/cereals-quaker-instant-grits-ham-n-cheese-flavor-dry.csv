@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08450, Cereals, QUAKER, Instant Grits, Ham 'n' Cheese flavor, dry"
+Nutrient,Unit,1Value per 100 g,"1 packet (1 NLEA serving) = 28.0g",
+Proximates
+"Water",g,6.82,1.91
+"Energy",kcal,355,99
+"Protein",g,10.73,3.00
+"Total lipid (fat)",g,4.68,1.31
+"Carbohydrate, by difference",g,71.08,19.90
+"Fiber, total dietary",g,4.2,1.2
+"Sugars, total",g,2.69,0.75
+Minerals
+"Calcium, Ca",mg,409,115
+"Iron, Fe",mg,38.20,10.70
+"Magnesium, Mg",mg,35,10
+"Phosphorus, P",mg,95,27
+"Potassium, K",mg,210,59
+"Sodium, Na",mg,1930,540
+"Zinc, Zn",mg,0.58,0.16
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.800,0.224
+"Riboflavin",mg,0.680,0.190
+"Niacin",mg,8.270,2.316
+"Vitamin B-6",mg,0.180,0.050
+"Vitamin B-12",µg,0.42,0.12
+"Vitamin A, RAE",µg,1,0
+"Vitamin A, IU",IU,13,4
+"Vitamin E (alpha-tocopherol)",mg,0.10,0.03
+Lipids
+"Fatty acids, total saturated",g,1.060,0.297
+"Fatty acids, total monounsaturated",g,2.260,0.633
+"Fatty acids, total polyunsaturated",g,1.050,0.294
+"Fatty acids, total trans",g,0.930,0.260
+"Cholesterol",mg,1,0
+Amino Acids
+Other

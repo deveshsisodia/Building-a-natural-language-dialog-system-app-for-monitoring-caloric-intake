@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:42 EST
+"Nutrient data for: 03712, Babyfood, cereal, rice, with bananas, prepared with whole milk"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,81.81,23.19
+"Energy",kcal,86,24
+"Protein",g,3.57,1.01
+"Total lipid (fat)",g,3.32,0.94
+"Carbohydrate, by difference",g,10.49,2.97
+"Fiber, total dietary",g,0.1,0.0
+"Sugars, total",g,6.13,1.74
+Minerals
+"Calcium, Ca",mg,156,44
+"Iron, Fe",mg,3.63,1.03
+"Magnesium, Mg",mg,20,6
+"Phosphorus, P",mg,109,31
+"Potassium, K",mg,180,51
+"Sodium, Na",mg,47,13
+"Zinc, Zn",mg,0.46,0.13
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1
+"Thiamin",mg,0.684,0.194
+"Riboflavin",mg,0.444,0.126
+"Niacin",mg,1.849,0.524
+"Vitamin B-6",mg,0.085,0.024
+"Folate, DFE",µg,6,2
+"Vitamin B-12",µg,0.43,0.12
+"Vitamin A, RAE",µg,43,12
+"Vitamin A, IU",IU,152,43
+"Vitamin E (alpha-tocopherol)",mg,0.09,0.03
+"Vitamin D (D2 + D3)",µg,1.2,0.3
+"Vitamin D",IU,47,13
+"Vitamin K (phylloquinone)",µg,0.5,0.1
+Lipids
+"Fatty acids, total saturated",g,1.798,0.510
+"Fatty acids, total monounsaturated",g,0.826,0.234
+"Fatty acids, total polyunsaturated",g,0.294,0.083
+"Cholesterol",mg,10,3
+Amino Acids
+Other
+"Caffeine",mg,0,0

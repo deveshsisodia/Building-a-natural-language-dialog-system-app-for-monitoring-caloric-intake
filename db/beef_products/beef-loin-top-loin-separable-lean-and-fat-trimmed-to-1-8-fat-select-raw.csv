@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:42 EST
+"Nutrient data for: 13913, Beef, loin, top loin, separable lean and fat, trimmed to 1/8"" fat, select, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,63.95,54.36
+"Energy",kcal,224,190
+"Protein",g,20.59,17.50
+"Total lipid (fat)",g,15.04,12.78
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,23,20
+"Iron, Fe",mg,1.47,1.25
+"Magnesium, Mg",mg,21,18
+"Phosphorus, P",mg,189,161
+"Potassium, K",mg,313,266
+"Sodium, Na",mg,52,44
+"Zinc, Zn",mg,3.45,2.93
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.074,0.063
+"Riboflavin",mg,0.112,0.095
+"Niacin",mg,5.502,4.677
+"Vitamin B-6",mg,0.569,0.484
+"Vitamin B-12",µg,0.98,0.83
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.38,0.32
+"Vitamin K (phylloquinone)",µg,1.6,1.4
+Lipids
+"Fatty acids, total saturated",g,6.067,5.157
+"Fatty acids, total monounsaturated",g,6.438,5.472
+"Fatty acids, total polyunsaturated",g,0.572,0.486
+"Cholesterol",mg,80,68
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:03 EST
+"Nutrient data for: 08191, Cereals ready-to-eat, POST, Shredded Wheat, lightly frosted, spoon-size"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 52.0g",
+Proximates
+"Water",g,6.00,3.12
+"Energy",kcal,352,183
+"Protein",g,7.80,4.06
+"Total lipid (fat)",g,1.90,0.99
+"Carbohydrate, by difference",g,83.80,43.58
+"Fiber, total dietary",g,9.6,5.0
+"Sugars, total",g,22.30,11.60
+Minerals
+"Calcium, Ca",mg,13,7
+"Iron, Fe",mg,3.46,1.80
+"Magnesium, Mg",mg,93,48
+"Phosphorus, P",mg,276,144
+"Potassium, K",mg,327,170
+"Sodium, Na",mg,19,10
+"Zinc, Zn",mg,2.88,1.50
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.720,0.374
+"Riboflavin",mg,0.820,0.426
+"Niacin",mg,9.620,5.002
+"Vitamin B-6",mg,0.960,0.499
+"Folate, DFE",µg,313,163
+"Vitamin B-12",µg,2.88,1.50
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.32,0.17
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.0,0.5
+Lipids
+"Fatty acids, total saturated",g,0.300,0.156
+"Fatty acids, total monounsaturated",g,0.271,0.141
+"Fatty acids, total polyunsaturated",g,0.925,0.481
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

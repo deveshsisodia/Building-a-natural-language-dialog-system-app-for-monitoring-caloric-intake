@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:43 EST
+"Nutrient data for: 18297, Pancakes, special dietary, dry mix"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 package (8 oz) = 227.0g",
+Proximates
+"Water",g,10.80,3.06,24.52
+"Energy",kcal,349,99,792
+"Protein",g,8.90,2.52,20.20
+"Total lipid (fat)",g,1.40,0.40,3.18
+"Carbohydrate, by difference",g,73.90,20.95,167.75
+Minerals
+"Calcium, Ca",mg,99,28,225
+"Iron, Fe",mg,3.05,0.86,6.92
+"Magnesium, Mg",mg,47,13,107
+"Phosphorus, P",mg,596,169,1353
+"Potassium, K",mg,676,192,1535
+"Sodium, Na",mg,456,129,1035
+"Zinc, Zn",mg,1.19,0.34,2.70
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.370,0.105,0.840
+"Riboflavin",mg,0.209,0.059,0.474
+"Niacin",mg,3.270,0.927,7.423
+"Vitamin B-6",mg,0.037,0.010,0.084
+"Folate, DFE",µg,172,49,390
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,6,2,14
+"Vitamin A, IU",IU,126,36,286
+Lipids
+"Fatty acids, total saturated",g,0.202,0.057,0.459
+"Fatty acids, total monounsaturated",g,0.276,0.078,0.627
+"Fatty acids, total polyunsaturated",g,0.611,0.173,1.387
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

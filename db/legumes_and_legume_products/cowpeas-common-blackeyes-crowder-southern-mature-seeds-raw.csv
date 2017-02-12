@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:57 EST
+"Nutrient data for: 16062, Cowpeas, common (blackeyes, crowder, southern), mature seeds, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 167.0g","1 tbsp = 10.5g",
+Proximates
+"Water",g,11.95,19.96,1.25
+"Energy",kcal,336,561,35
+"Protein",g,23.52,39.28,2.47
+"Total lipid (fat)",g,1.26,2.10,0.13
+"Carbohydrate, by difference",g,60.03,100.25,6.30
+"Fiber, total dietary",g,10.6,17.7,1.1
+"Sugars, total",g,6.90,11.52,0.72
+Minerals
+"Calcium, Ca",mg,110,184,12
+"Iron, Fe",mg,8.27,13.81,0.87
+"Magnesium, Mg",mg,184,307,19
+"Phosphorus, P",mg,424,708,45
+"Potassium, K",mg,1112,1857,117
+"Sodium, Na",mg,16,27,2
+"Zinc, Zn",mg,3.37,5.63,0.35
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.5,2.5,0.2
+"Thiamin",mg,0.853,1.425,0.090
+"Riboflavin",mg,0.226,0.377,0.024
+"Niacin",mg,2.075,3.465,0.218
+"Vitamin B-6",mg,0.357,0.596,0.037
+"Folate, DFE",µg,633,1057,66
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,3,5,0
+"Vitamin A, IU",IU,50,84,5
+"Vitamin E (alpha-tocopherol)",mg,0.39,0.65,0.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,5.0,8.3,0.5
+Lipids
+"Fatty acids, total saturated",g,0.331,0.553,0.035
+"Fatty acids, total monounsaturated",g,0.106,0.177,0.011
+"Fatty acids, total polyunsaturated",g,0.542,0.905,0.057
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

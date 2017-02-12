@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08637, Cereals ready-to-eat, GENERAL MILLS, Oat Cluster CHEERIOS Crunch"
+Nutrient,Unit,1Value per 100 g,"0.75 cup (1 NLEA serving) = 27.0g",
+Proximates
+"Water",g,2.60,0.70
+"Energy",kcal,378,102
+"Protein",g,8.50,2.29
+"Total lipid (fat)",g,4.60,1.24
+"Carbohydrate, by difference",g,80.70,21.79
+"Fiber, total dietary",g,7.0,1.9
+"Sugars, total",g,27.90,7.53
+Minerals
+"Calcium, Ca",mg,296,80
+"Iron, Fe",mg,16.70,4.51
+"Magnesium, Mg",mg,59,16
+"Phosphorus, P",mg,222,60
+"Potassium, K",mg,285,77
+"Sodium, Na",mg,489,132
+"Zinc, Zn",mg,13.90,3.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,22.2,6.0
+"Thiamin",mg,1.400,0.378
+"Riboflavin",mg,1.600,0.432
+"Niacin",mg,18.500,4.995
+"Vitamin B-6",mg,1.852,0.500
+"Folate, DFE",µg,994,268
+"Vitamin B-12",µg,5.60,1.51
+"Vitamin A, RAE",µg,554,150
+"Vitamin A, IU",IU,1852,500
+"Vitamin E (alpha-tocopherol)",mg,0.31,0.08
+"Vitamin D (D2 + D3)",µg,3.7,1.0
+"Vitamin D",IU,148,40
+"Vitamin K (phylloquinone)",µg,1.4,0.4
+Lipids
+"Fatty acids, total saturated",g,1.000,0.270
+"Fatty acids, total monounsaturated",g,1.600,0.432
+"Fatty acids, total polyunsaturated",g,1.800,0.486
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

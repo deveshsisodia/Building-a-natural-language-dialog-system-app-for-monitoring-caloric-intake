@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:14 EST
+"Nutrient data for: 07011, Bologna, turkey"
+Nutrient,Unit,1Value per 100 g,"0.99 oz 1 serving = 28.0g","1 serving = 28.0g","1 package = 454.0g",
+Proximates
+"Water",g,64.55,18.07,18.07,293.06
+"Energy",kcal,209,59,59,949
+"Protein",g,11.42,3.20,3.20,51.85
+"Total lipid (fat)",g,16.05,4.49,4.49,72.87
+"Carbohydrate, by difference",g,4.68,1.31,1.31,21.25
+"Fiber, total dietary",g,0.5,0.1,0.1,2.3
+"Sugars, total",g,2.90,0.81,0.81,13.17
+Minerals
+"Calcium, Ca",mg,123,34,34,558
+"Iron, Fe",mg,3.00,0.84,0.84,13.62
+"Magnesium, Mg",mg,16,4,4,73
+"Phosphorus, P",mg,114,32,32,518
+"Potassium, K",mg,135,38,38,613
+"Sodium, Na",mg,1071,300,300,4862
+"Zinc, Zn",mg,1.30,0.36,0.36,5.90
+Vitamins
+"Vitamin C, total ascorbic acid",mg,13.3,3.7,3.7,60.4
+"Thiamin",mg,0.049,0.014,0.014,0.222
+"Riboflavin",mg,0.095,0.027,0.027,0.431
+"Niacin",mg,2.607,0.730,0.730,11.836
+"Vitamin B-6",mg,0.243,0.068,0.068,1.103
+"Folate, DFE",µg,9,3,3,41
+"Vitamin B-12",µg,0.23,0.06,0.06,1.04
+"Vitamin A, RAE",µg,9,3,3,41
+"Vitamin A, IU",IU,32,9,9,145
+"Vitamin E (alpha-tocopherol)",mg,0.45,0.13,0.13,2.04
+"Vitamin D (D2 + D3)",µg,0.6,0.2,0.2,2.7
+"Vitamin D",IU,26,7,7,118
+"Vitamin K (phylloquinone)",µg,0.3,0.1,0.1,1.4
+Lipids
+"Fatty acids, total saturated",g,4.355,1.219,1.219,19.772
+"Fatty acids, total monounsaturated",g,6.836,1.914,1.914,31.035
+"Fatty acids, total polyunsaturated",g,3.854,1.079,1.079,17.497
+"Fatty acids, total trans",g,0.123,0.034,0.034,0.558
+"Cholesterol",mg,75,21,21,340
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

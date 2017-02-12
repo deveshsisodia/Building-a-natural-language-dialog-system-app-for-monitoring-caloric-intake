@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:37 EST
+"Nutrient data for: 21505, Pizza, cheese topping, thin crust, frozen, cooked"
+Nutrient,Unit,1Value per 100 g,"1 slice = 69.0g","1 pie = 556.0g",
+Proximates
+"Water",g,46.01,31.75,255.82
+"Energy",kcal,263,181,1462
+"Protein",g,11.91,8.22,66.22
+"Total lipid (fat)",g,11.07,7.64,61.55
+"Carbohydrate, by difference",g,28.80,19.87,160.13
+"Fiber, total dietary",g,3.0,2.1,16.7
+"Sugars, total",g,3.71,2.56,20.63
+Minerals
+"Calcium, Ca",mg,228,157,1268
+"Iron, Fe",mg,2.14,1.48,11.90
+"Magnesium, Mg",mg,24,17,133
+"Phosphorus, P",mg,215,148,1195
+"Potassium, K",mg,201,139,1118
+"Sodium, Na",mg,471,325,2619
+"Zinc, Zn",mg,1.49,1.03,8.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.1,0.6
+"Thiamin",mg,0.103,0.071,0.573
+"Riboflavin",mg,0.127,0.088,0.706
+"Niacin",mg,1.283,0.885,7.133
+"Vitamin B-6",mg,0.130,0.090,0.723
+"Folate, DFE",µg,122,84,678
+"Vitamin B-12",µg,0.62,0.43,3.45
+"Vitamin A, RAE",µg,72,50,400
+"Vitamin A, IU",IU,374,258,2079
+"Vitamin E (alpha-tocopherol)",mg,0.74,0.51,4.11
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,4.2,2.9,23.4
+Lipids
+"Fatty acids, total saturated",g,5.698,3.932,31.681
+"Fatty acids, total monounsaturated",g,3.028,2.089,16.836
+"Fatty acids, total polyunsaturated",g,1.695,1.170,9.424
+"Fatty acids, total trans",g,0.277,0.191,1.540
+"Cholesterol",mg,21,14,117
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

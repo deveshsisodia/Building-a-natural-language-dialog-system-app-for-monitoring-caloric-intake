@@ -1,0 +1,32 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:39 EST
+"Nutrient data for: 28076, KEEBLER, FUDGE SHOPPE, Cheesecake Middles, Dark Chocolate"
+Nutrient,Unit,1Value per 100 g,"3.0 cookies = 26.0g",
+Proximates
+"Water",g,2.00,0.52
+"Energy",kcal,506,132
+"Protein",g,4.40,1.14
+"Total lipid (fat)",g,26.50,6.89
+"Carbohydrate, by difference",g,64.70,16.82
+"Fiber, total dietary",g,4.1,1.1
+"Sugars, total",g,33.70,8.76
+Minerals
+"Iron, Fe",mg,3.50,0.91
+"Magnesium, Mg",mg,24,6
+"Phosphorus, P",mg,41,11
+"Potassium, K",mg,232,60
+"Sodium, Na",mg,320,83
+"Zinc, Zn",mg,0.10,0.03
+Vitamins
+"Thiamin",mg,0.220,0.057
+"Riboflavin",mg,0.120,0.031
+"Niacin",mg,1.700,0.442
+Lipids
+"Fatty acids, total saturated",g,14.100,3.666
+"Fatty acids, total monounsaturated",g,3.900,1.014
+"Fatty acids, total polyunsaturated",g,7.100,1.846
+"Fatty acids, total trans",g,0.500,0.130
+"Cholesterol",mg,1,0
+Amino Acids
+Other

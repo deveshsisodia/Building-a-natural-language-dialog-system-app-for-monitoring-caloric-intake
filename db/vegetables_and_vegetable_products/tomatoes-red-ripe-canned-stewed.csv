@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:31 EST
+"Nutrient data for: 11533, Tomatoes, red, ripe, canned, stewed"
+Nutrient,Unit,1Value per 100 g,"1 cup = 255.0g",
+Proximates
+"Water",g,91.54,233.43
+"Energy",kcal,26,66
+"Protein",g,0.91,2.32
+"Total lipid (fat)",g,0.19,0.48
+"Carbohydrate, by difference",g,6.19,15.78
+"Fiber, total dietary",g,1.0,2.5
+"Sugars, total",g,3.52,8.98
+Minerals
+"Calcium, Ca",mg,34,87
+"Iron, Fe",mg,1.33,3.39
+"Magnesium, Mg",mg,12,31
+"Phosphorus, P",mg,20,51
+"Potassium, K",mg,207,528
+"Sodium, Na",mg,221,564
+"Zinc, Zn",mg,0.17,0.43
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.9,20.1
+"Thiamin",mg,0.046,0.117
+"Riboflavin",mg,0.035,0.089
+"Niacin",mg,0.714,1.821
+"Vitamin B-6",mg,0.017,0.043
+"Folate, DFE",µg,5,13
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,9,23
+"Vitamin A, IU",IU,172,439
+"Vitamin E (alpha-tocopherol)",mg,0.83,2.12
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,2.4,6.1
+Lipids
+"Fatty acids, total saturated",g,0.026,0.066
+"Fatty acids, total monounsaturated",g,0.029,0.074
+"Fatty acids, total polyunsaturated",g,0.077,0.196
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

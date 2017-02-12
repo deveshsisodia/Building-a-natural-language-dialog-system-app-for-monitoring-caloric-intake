@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:01 EST
+"Nutrient data for: 16231, Soymilk, chocolate, nonfat, with added calcium, vitamins A and D"
+Nutrient,Unit,1Value per 100 g,"1 cup = 243.0g",
+Proximates
+"Water",g,88.38,214.76
+"Energy",kcal,44,107
+"Protein",g,2.47,6.00
+"Total lipid (fat)",g,0.04,0.10
+"Carbohydrate, by difference",g,8.51,20.68
+"Fiber, total dietary",g,0.2,0.5
+"Sugars, total",g,3.65,8.87
+Minerals
+"Calcium, Ca",mg,116,282
+"Iron, Fe",mg,0.35,0.85
+"Magnesium, Mg",mg,10,24
+"Phosphorus, P",mg,87,211
+"Potassium, K",mg,105,255
+"Sodium, Na",mg,57,139
+"Zinc, Zn",mg,0.10,0.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.037,0.090
+"Riboflavin",mg,0.174,0.423
+"Niacin",mg,0.512,1.244
+"Vitamin B-6",mg,0.037,0.090
+"Folate, DFE",µg,7,17
+"Vitamin B-12",µg,0.23,0.56
+"Vitamin A, RAE",µg,61,148
+"Vitamin A, IU",IU,206,501
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.32
+"Vitamin D (D2 + D3)",µg,1.0,2.4
+"Vitamin D",IU,41,100
+"Vitamin K (phylloquinone)",µg,3.6,8.7
+Lipids
+"Fatty acids, total saturated",g,0.000,0.000
+"Fatty acids, total monounsaturated",g,0.000,0.000
+"Fatty acids, total polyunsaturated",g,0.036,0.087
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,2,5

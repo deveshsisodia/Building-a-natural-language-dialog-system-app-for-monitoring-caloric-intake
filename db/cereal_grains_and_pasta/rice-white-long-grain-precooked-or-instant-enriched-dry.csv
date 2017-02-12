@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:13 EST
+"Nutrient data for: 20048, Rice, white, long-grain, precooked or instant, enriched, dry"
+Nutrient,Unit,1Value per 100 g,"1 cup = 95.0g",
+Proximates
+"Water",g,8.38,7.96
+"Energy",kcal,380,361
+"Protein",g,7.82,7.43
+"Total lipid (fat)",g,0.94,0.89
+"Carbohydrate, by difference",g,82.32,78.20
+"Fiber, total dietary",g,1.9,1.8
+"Sugars, total",g,0.05,0.05
+Minerals
+"Calcium, Ca",mg,22,21
+"Iron, Fe",mg,6.30,5.99
+"Magnesium, Mg",mg,14,13
+"Phosphorus, P",mg,118,112
+"Potassium, K",mg,27,26
+"Sodium, Na",mg,10,10
+"Zinc, Zn",mg,1.43,1.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.926,0.880
+"Riboflavin",mg,0.028,0.027
+"Niacin",mg,7.005,6.655
+"Vitamin B-6",mg,0.122,0.116
+"Folate, DFE",µg,466,443
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.04,0.04
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,0.152,0.144
+"Fatty acids, total monounsaturated",g,0.144,0.137
+"Fatty acids, total polyunsaturated",g,0.219,0.208
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

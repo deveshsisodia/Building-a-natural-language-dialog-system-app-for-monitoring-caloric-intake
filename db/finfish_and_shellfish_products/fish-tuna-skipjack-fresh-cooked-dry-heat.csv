@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:06 EST
+"Nutrient data for: 15220, Fish, tuna, skipjack, fresh, cooked, dry heat"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","0.5 fillet = 154.0g",
+Proximates
+"Water",g,62.28,52.94,95.91
+"Energy",kcal,132,112,203
+"Protein",g,28.21,23.98,43.44
+"Total lipid (fat)",g,1.29,1.10,1.99
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,37,31,57
+"Iron, Fe",mg,1.60,1.36,2.46
+"Magnesium, Mg",mg,44,37,68
+"Phosphorus, P",mg,285,242,439
+"Potassium, K",mg,522,444,804
+"Sodium, Na",mg,47,40,72
+"Zinc, Zn",mg,1.05,0.89,1.62
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.8,1.5
+"Thiamin",mg,0.038,0.032,0.059
+"Riboflavin",mg,0.122,0.104,0.188
+"Niacin",mg,18.756,15.943,28.884
+"Vitamin B-6",mg,0.981,0.834,1.511
+"Folate, DFE",µg,10,8,15
+"Vitamin B-12",µg,2.19,1.86,3.37
+"Vitamin A, RAE",µg,18,15,28
+"Vitamin A, IU",IU,60,51,92
+Lipids
+"Fatty acids, total saturated",g,0.420,0.357,0.647
+"Fatty acids, total monounsaturated",g,0.243,0.207,0.374
+"Fatty acids, total polyunsaturated",g,0.403,0.343,0.621
+"Cholesterol",mg,60,51,92
+Amino Acids
+Other

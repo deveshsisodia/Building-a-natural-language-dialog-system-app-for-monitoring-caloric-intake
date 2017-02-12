@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:26 EST
+"Nutrient data for: 36018, APPLEBEE'S, fish, hand battered"
+Nutrient,Unit,1Value per 100 g,"1 serving = 250.0g",
+Proximates
+"Water",g,58.82,147.05
+"Energy",kcal,202,505
+"Protein",g,13.23,33.08
+"Total lipid (fat)",g,9.14,22.85
+"Carbohydrate, by difference",g,16.65,41.62
+"Fiber, total dietary",g,0.9,2.2
+"Sugars, total",g,0.51,1.27
+Minerals
+"Calcium, Ca",mg,13,32
+"Iron, Fe",mg,0.35,0.88
+"Magnesium, Mg",mg,20,50
+"Phosphorus, P",mg,234,585
+"Potassium, K",mg,241,602
+"Sodium, Na",mg,607,1518
+"Zinc, Zn",mg,0.34,0.85
+Vitamins
+"Thiamin",mg,0.053,0.133
+"Riboflavin",mg,0.093,0.233
+"Niacin",mg,2.290,5.725
+"Vitamin B-6",mg,0.201,0.502
+"Vitamin B-12",µg,1.23,3.08
+"Vitamin A, RAE",µg,3,8
+"Vitamin A, IU",IU,22,55
+"Vitamin E (alpha-tocopherol)",mg,0.88,2.20
+Lipids
+"Fatty acids, total saturated",g,1.613,4.032
+"Fatty acids, total monounsaturated",g,2.014,5.035
+"Fatty acids, total polyunsaturated",g,4.559,11.398
+"Fatty acids, total trans",g,0.077,0.193
+"Cholesterol",mg,34,85
+Amino Acids
+Other

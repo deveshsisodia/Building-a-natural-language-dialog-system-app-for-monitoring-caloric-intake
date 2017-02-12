@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:21 EST
+"Nutrient data for: 11203, Cress, garden, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 50.0g","1 sprig = 1.0g",
+Proximates
+"Water",g,89.40,44.70,0.89
+"Energy",kcal,32,16,0
+"Protein",g,2.60,1.30,0.03
+"Total lipid (fat)",g,0.70,0.35,0.01
+"Carbohydrate, by difference",g,5.50,2.75,0.06
+"Fiber, total dietary",g,1.1,0.6,0.0
+"Sugars, total",g,4.40,2.20,0.04
+Minerals
+"Calcium, Ca",mg,81,40,1
+"Iron, Fe",mg,1.30,0.65,0.01
+"Magnesium, Mg",mg,38,19,0
+"Phosphorus, P",mg,76,38,1
+"Potassium, K",mg,606,303,6
+"Sodium, Na",mg,14,7,0
+"Zinc, Zn",mg,0.23,0.12,0.00
+Vitamins
+"Vitamin C, total ascorbic acid",mg,69.0,34.5,0.7
+"Thiamin",mg,0.080,0.040,0.001
+"Riboflavin",mg,0.260,0.130,0.003
+"Niacin",mg,1.000,0.500,0.010
+"Vitamin B-6",mg,0.247,0.123,0.002
+"Folate, DFE",µg,80,40,1
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,346,173,3
+"Vitamin A, IU",IU,6917,3458,69
+"Vitamin E (alpha-tocopherol)",mg,0.70,0.35,0.01
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,541.9,270.9,5.4
+Lipids
+"Fatty acids, total saturated",g,0.023,0.011,0.000
+"Fatty acids, total monounsaturated",g,0.239,0.119,0.002
+"Fatty acids, total polyunsaturated",g,0.228,0.114,0.002
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

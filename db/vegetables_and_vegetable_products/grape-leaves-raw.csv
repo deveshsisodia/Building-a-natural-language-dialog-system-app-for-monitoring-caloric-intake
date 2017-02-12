@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:22 EST
+"Nutrient data for: 11974, Grape leaves, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 14.0g","1 leaf = 3.0g",
+Proximates
+"Water",g,73.32,10.26,2.20
+"Energy",kcal,93,13,3
+"Protein",g,5.60,0.78,0.17
+"Total lipid (fat)",g,2.12,0.30,0.06
+"Carbohydrate, by difference",g,17.31,2.42,0.52
+"Fiber, total dietary",g,11.0,1.5,0.3
+"Sugars, total",g,6.30,0.88,0.19
+Minerals
+"Calcium, Ca",mg,363,51,11
+"Iron, Fe",mg,2.63,0.37,0.08
+"Magnesium, Mg",mg,95,13,3
+"Phosphorus, P",mg,91,13,3
+"Potassium, K",mg,272,38,8
+"Sodium, Na",mg,9,1,0
+"Zinc, Zn",mg,0.67,0.09,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,11.1,1.6,0.3
+"Thiamin",mg,0.040,0.006,0.001
+"Riboflavin",mg,0.354,0.050,0.011
+"Niacin",mg,2.362,0.331,0.071
+"Vitamin B-6",mg,0.400,0.056,0.012
+"Folate, DFE",µg,83,12,2
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,1376,193,41
+"Vitamin A, IU",IU,27521,3853,826
+"Vitamin E (alpha-tocopherol)",mg,2.00,0.28,0.06
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,108.6,15.2,3.3
+Lipids
+"Fatty acids, total saturated",g,0.336,0.047,0.010
+"Fatty acids, total monounsaturated",g,0.081,0.011,0.002
+"Fatty acids, total polyunsaturated",g,1.065,0.149,0.032
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

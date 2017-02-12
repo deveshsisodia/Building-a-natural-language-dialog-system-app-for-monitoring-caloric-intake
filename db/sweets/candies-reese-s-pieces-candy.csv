@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:38 EST
+"Nutrient data for: 19151, Candies, REESE'S PIECES Candy"
+Nutrient,Unit,1Value per 100 g,"0.25 cup = 47.0g","10.0 pieces = 8.0g","1 package 1.63 oz = 46.0g","1 package (1.6 oz) = 46.0g",
+Proximates
+"Water",g,1.00,0.47,0.08,0.46,0.46
+"Energy",kcal,497,234,40,229,229
+"Protein",g,12.46,5.86,1.00,5.73,5.73
+"Total lipid (fat)",g,24.77,11.64,1.98,11.39,11.39
+"Carbohydrate, by difference",g,59.86,28.13,4.79,27.54,27.54
+"Fiber, total dietary",g,3.0,1.4,0.2,1.4,1.4
+"Sugars, total",g,53.25,25.03,4.26,24.50,24.50
+Minerals
+"Calcium, Ca",mg,69,32,6,32,32
+"Iron, Fe",mg,0.49,0.23,0.04,0.23,0.23
+"Magnesium, Mg",mg,88,41,7,40,40
+"Phosphorus, P",mg,207,97,17,95,95
+"Potassium, K",mg,359,169,29,165,165
+"Sodium, Na",mg,194,91,16,89,89
+"Zinc, Zn",mg,1.15,0.54,0.09,0.53,0.53
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.180,0.085,0.014,0.083,0.083
+"Riboflavin",mg,0.220,0.103,0.018,0.101,0.101
+"Niacin",mg,6.060,2.848,0.485,2.788,2.788
+"Vitamin B-6",mg,0.110,0.052,0.009,0.051,0.051
+"Folate, DFE",µg,55,26,4,25,25
+"Vitamin B-12",µg,0.11,0.05,0.01,0.05,0.05
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.99,0.47,0.08,0.46,0.46
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,5.9,2.8,0.5,2.7,2.7
+Lipids
+"Fatty acids, total saturated",g,16.420,7.717,1.314,7.553,7.553
+"Fatty acids, total monounsaturated",g,4.460,2.096,0.357,2.052,2.052
+"Fatty acids, total polyunsaturated",g,1.880,0.884,0.150,0.865,0.865
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:11 EST
+"Nutrient data for: 20012, Bulgur, dry"
+Nutrient,Unit,1Value per 100 g,"1 cup = 140.0g",
+Proximates
+"Water",g,9.00,12.60
+"Energy",kcal,342,479
+"Protein",g,12.29,17.21
+"Total lipid (fat)",g,1.33,1.86
+"Carbohydrate, by difference",g,75.87,106.22
+"Fiber, total dietary",g,12.5,17.5
+"Sugars, total",g,0.41,0.57
+Minerals
+"Calcium, Ca",mg,35,49
+"Iron, Fe",mg,2.46,3.44
+"Magnesium, Mg",mg,164,230
+"Phosphorus, P",mg,300,420
+"Potassium, K",mg,410,574
+"Sodium, Na",mg,17,24
+"Zinc, Zn",mg,1.93,2.70
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.232,0.325
+"Riboflavin",mg,0.115,0.161
+"Niacin",mg,5.114,7.160
+"Vitamin B-6",mg,0.342,0.479
+"Folate, DFE",µg,27,38
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,9,13
+"Vitamin E (alpha-tocopherol)",mg,0.06,0.08
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.9,2.7
+Lipids
+"Fatty acids, total saturated",g,0.232,0.325
+"Fatty acids, total monounsaturated",g,0.173,0.242
+"Fatty acids, total polyunsaturated",g,0.541,0.757
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:59 EST
+"Nutrient data for: 08180, Cereals, oats, regular and quick and instant, unenriched, cooked with water (includes boiling and microwaving), with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 234.0g","0.75 cup = 175.0g",
+Proximates
+"Water",g,83.61,195.65,146.32
+"Energy",kcal,71,166,124
+"Protein",g,2.54,5.94,4.45
+"Total lipid (fat)",g,1.52,3.56,2.66
+"Carbohydrate, by difference",g,12.00,28.08,21.00
+"Fiber, total dietary",g,1.7,4.0,3.0
+"Sugars, total",g,0.27,0.63,0.47
+Minerals
+"Calcium, Ca",mg,9,21,16
+"Iron, Fe",mg,0.90,2.11,1.57
+"Magnesium, Mg",mg,27,63,47
+"Phosphorus, P",mg,77,180,135
+"Potassium, K",mg,70,164,122
+"Sodium, Na",mg,71,166,124
+"Zinc, Zn",mg,1.00,2.34,1.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.076,0.178,0.133
+"Riboflavin",mg,0.016,0.037,0.028
+"Niacin",mg,0.225,0.526,0.394
+"Vitamin B-6",mg,0.005,0.012,0.009
+"Folate, DFE",µg,6,14,10
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.08,0.19,0.14
+"Vitamin K (phylloquinone)",µg,0.3,0.7,0.5
+Lipids
+"Fatty acids, total saturated",g,0.310,0.725,0.542
+"Fatty acids, total monounsaturated",g,0.435,1.018,0.761
+"Fatty acids, total polyunsaturated",g,0.559,1.308,0.978
+"Fatty acids, total trans",g,0.001,0.002,0.002
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

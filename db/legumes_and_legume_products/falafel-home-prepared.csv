@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:57 EST
+"Nutrient data for: 16138, Falafel, home-prepared"
+Nutrient,Unit,1Value per 100 g,"1 patty (approx 2-1/4"" dia) = 17.0g",
+Proximates
+"Water",g,34.62,5.89
+"Energy",kcal,333,57
+"Protein",g,13.31,2.26
+"Total lipid (fat)",g,17.80,3.03
+"Carbohydrate, by difference",g,31.84,5.41
+Minerals
+"Calcium, Ca",mg,54,9
+"Iron, Fe",mg,3.42,0.58
+"Magnesium, Mg",mg,82,14
+"Phosphorus, P",mg,192,33
+"Potassium, K",mg,585,99
+"Sodium, Na",mg,294,50
+"Zinc, Zn",mg,1.50,0.26
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.6,0.3
+"Thiamin",mg,0.146,0.025
+"Riboflavin",mg,0.166,0.028
+"Niacin",mg,1.044,0.177
+"Vitamin B-6",mg,0.125,0.021
+"Folate, DFE",µg,104,18
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,1,0
+"Vitamin A, IU",IU,13,2
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,2.383,0.405
+"Fatty acids, total monounsaturated",g,10.171,1.729
+"Fatty acids, total polyunsaturated",g,4.160,0.707
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:21 EST
+"Nutrient data for: 11219, Gourd, white-flowered (calabash), cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup (1"" cubes) = 146.0g",
+Proximates
+"Water",g,95.32,139.17
+"Energy",kcal,15,22
+"Protein",g,0.60,0.88
+"Total lipid (fat)",g,0.02,0.03
+"Carbohydrate, by difference",g,3.69,5.39
+"Fiber, total dietary",g,1.2,1.8
+Minerals
+"Calcium, Ca",mg,24,35
+"Iron, Fe",mg,0.25,0.36
+"Magnesium, Mg",mg,11,16
+"Phosphorus, P",mg,13,19
+"Potassium, K",mg,170,248
+"Sodium, Na",mg,2,3
+"Zinc, Zn",mg,0.70,1.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,8.5,12.4
+"Thiamin",mg,0.029,0.042
+"Riboflavin",mg,0.022,0.032
+"Niacin",mg,0.390,0.569
+"Vitamin B-6",mg,0.038,0.055
+"Folate, DFE",µg,4,6
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, IU",IU,0,0
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.002,0.003
+"Fatty acids, total monounsaturated",g,0.004,0.006
+"Fatty acids, total polyunsaturated",g,0.009,0.013
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

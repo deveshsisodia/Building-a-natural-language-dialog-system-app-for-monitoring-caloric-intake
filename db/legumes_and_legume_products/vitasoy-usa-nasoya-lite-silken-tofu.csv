@@ -1,0 +1,31 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:01 EST
+"Nutrient data for: 16272, Vitasoy USA Nasoya, Lite Silken Tofu"
+Nutrient,Unit,1Value per 100 g,"0.2 package = 91.0g",
+Proximates
+"Water",g,89.80,81.72
+"Energy",kcal,43,39
+"Protein",g,8.21,7.47
+"Total lipid (fat)",g,1.10,1.00
+"Carbohydrate, by difference",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,394,359
+"Iron, Fe",mg,0.87,0.79
+"Phosphorus, P",mg,203,185
+"Sodium, Na",mg,79,72
+Vitamins
+"Vitamin B-12",µg,2.42,2.20
+"Vitamin A, RAE",µg,96,87
+"Vitamin A, IU",IU,1913,1741
+"Vitamin E (alpha-tocopherol)",mg,5.26,4.79
+"Vitamin D (D2 + D3)",µg,3.8,3.5
+"Vitamin D",IU,153,139
+Lipids
+"Fatty acids, total saturated",g,0.200,0.182
+"Fatty acids, total monounsaturated",g,0.100,0.091
+"Fatty acids, total polyunsaturated",g,0.700,0.637
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

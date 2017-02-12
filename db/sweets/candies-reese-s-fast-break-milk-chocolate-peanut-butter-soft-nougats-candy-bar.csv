@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:38 EST
+"Nutrient data for: 19896, Candies, REESE's Fast Break, milk chocolate, peanut butter, soft nougats, candy bar"
+Nutrient,Unit,1Value per 100 g,"1 serving 1 bar = 56.0g",
+Proximates
+"Water",g,1.66,0.93
+"Energy",kcal,495,277
+"Protein",g,8.93,5.00
+"Total lipid (fat)",g,23.21,13.00
+"Carbohydrate, by difference",g,63.90,35.78
+"Fiber, total dietary",g,3.6,2.0
+"Sugars, total",g,53.57,30.00
+Minerals
+"Calcium, Ca",mg,36,20
+"Iron, Fe",mg,0.64,0.36
+"Magnesium, Mg",mg,60,34
+"Phosphorus, P",mg,156,87
+"Potassium, K",mg,257,144
+"Sodium, Na",mg,321,180
+"Zinc, Zn",mg,1.45,0.81
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.117,0.066
+"Riboflavin",mg,0.113,0.063
+"Niacin",mg,2.789,1.562
+"Vitamin B-6",mg,0.061,0.034
+"Folate, DFE",µg,28,16
+"Vitamin B-12",µg,0.18,0.10
+"Vitamin A, RAE",µg,14,8
+"Vitamin A, IU",IU,49,27
+"Vitamin E (alpha-tocopherol)",mg,2.56,1.43
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,1.8,1.0
+Lipids
+"Fatty acids, total saturated",g,8.036,4.500
+"Fatty acids, total monounsaturated",g,8.104,4.538
+"Fatty acids, total polyunsaturated",g,4.241,2.375
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,9,5
+Amino Acids
+Other
+"Caffeine",mg,6,3

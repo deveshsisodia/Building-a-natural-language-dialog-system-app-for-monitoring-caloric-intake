@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:13 EST
+"Nutrient data for: 20091, Pasta, gluten-free, corn, dry"
+Nutrient,Unit,1Value per 100 g,"1 cup = 105.0g","2.0 oz = 57.0g",
+Proximates
+"Water",g,10.00,10.50,5.70
+"Energy",kcal,357,375,203
+"Protein",g,7.46,7.83,4.25
+"Total lipid (fat)",g,2.08,2.18,1.19
+"Carbohydrate, by difference",g,79.26,83.22,45.18
+"Fiber, total dietary",g,11.0,11.6,6.3
+Minerals
+"Calcium, Ca",mg,4,4,2
+"Iron, Fe",mg,0.93,0.98,0.53
+"Magnesium, Mg",mg,119,125,68
+"Phosphorus, P",mg,253,266,144
+"Potassium, K",mg,294,309,168
+"Sodium, Na",mg,3,3,2
+"Zinc, Zn",mg,1.79,1.88,1.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.231,0.243,0.132
+"Riboflavin",mg,0.087,0.091,0.050
+"Niacin",mg,2.430,2.551,1.385
+"Vitamin B-6",mg,0.206,0.216,0.117
+"Folate, DFE",µg,25,26,14
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,9,9,5
+"Vitamin A, IU",IU,170,178,97
+Lipids
+"Fatty acids, total saturated",g,0.290,0.304,0.165
+"Fatty acids, total monounsaturated",g,0.543,0.570,0.310
+"Fatty acids, total polyunsaturated",g,0.924,0.970,0.527
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

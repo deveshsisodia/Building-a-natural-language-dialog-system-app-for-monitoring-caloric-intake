@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:08 EST
+"Nutrient data for: 01160, Egg, yolk, raw, frozen, salted, pasteurized"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","0.5 lb = 227.0g",
+Proximates
+"Water",g,50.87,14.42,115.47
+"Energy",kcal,275,78,624
+"Protein",g,14.07,3.99,31.94
+"Total lipid (fat)",g,22.93,6.50,52.05
+"Carbohydrate, by difference",g,1.77,0.50,4.02
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.07,0.02,0.16
+Minerals
+"Calcium, Ca",mg,113,32,257
+"Iron, Fe",mg,3.40,0.96,7.72
+"Magnesium, Mg",mg,7,2,16
+"Phosphorus, P",mg,414,117,940
+"Potassium, K",mg,111,31,252
+"Sodium, Na",mg,3487,989,7915
+"Zinc, Zn",mg,2.87,0.81,6.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.140,0.040,0.318
+"Riboflavin",mg,0.427,0.121,0.969
+"Niacin",mg,0.027,0.008,0.061
+"Vitamin B-6",mg,0.402,0.114,0.913
+"Folate, DFE",µg,112,32,254
+"Vitamin B-12",µg,1.61,0.46,3.65
+"Vitamin A, RAE",µg,313,89,711
+"Vitamin A, IU",IU,1043,296,2368
+"Vitamin E (alpha-tocopherol)",mg,2.28,0.65,5.18
+"Vitamin D (D2 + D3)",µg,3.1,0.9,7.0
+"Vitamin D",IU,126,36,286
+"Vitamin K (phylloquinone)",µg,0.7,0.2,1.6
+Lipids
+"Fatty acids, total saturated",g,7.159,2.030,16.251
+"Fatty acids, total monounsaturated",g,9.070,2.571,20.589
+"Fatty acids, total polyunsaturated",g,3.733,1.058,8.474
+"Fatty acids, total trans",g,0.116,0.033,0.263
+"Cholesterol",mg,912,259,2070
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

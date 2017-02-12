@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:48 EST
+"Nutrient data for: 03992, Infant formula, ABBOTT NUTRITION, SIMILAC, Expert Care, Diarrhea, ready- to- feed with ARA and DHA"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 30.4g","5.0 fl oz = 153.0g",
+Proximates
+"Water",g,87.78,26.69,134.30
+"Energy",kcal,66,20,101
+"Protein",g,1.76,0.54,2.69
+"Total lipid (fat)",g,3.60,1.09,5.51
+"Carbohydrate, by difference",g,6.67,2.03,10.21
+"Fiber, total dietary",g,0.7,0.2,1.1
+"Sugars, total",g,6.66,2.02,10.19
+Minerals
+"Calcium, Ca",mg,69,21,106
+"Iron, Fe",mg,1.18,0.36,1.81
+"Magnesium, Mg",mg,5,2,8
+"Phosphorus, P",mg,49,15,75
+"Potassium, K",mg,71,22,109
+"Sodium, Na",mg,29,9,44
+"Zinc, Zn",mg,0.49,0.15,0.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,5.9,1.8,9.0
+"Thiamin",mg,0.039,0.012,0.060
+"Riboflavin",mg,0.059,0.018,0.090
+"Niacin",mg,0.885,0.269,1.354
+"Vitamin B-6",mg,0.039,0.012,0.060
+"Folate, DFE",µg,17,5,26
+"Vitamin B-12",µg,0.30,0.09,0.46
+"Vitamin A, RAE",µg,60,18,92
+"Vitamin A, IU",IU,199,60,304
+"Vitamin E (alpha-tocopherol)",mg,0.44,0.13,0.67
+"Vitamin D (D2 + D3)",µg,1.0,0.3,1.5
+"Vitamin D",IU,39,12,60
+"Vitamin K (phylloquinone)",µg,7.2,2.2,11.0
+Lipids
+"Fatty acids, total saturated",g,1.477,0.449,2.260
+"Fatty acids, total monounsaturated",g,1.293,0.393,1.978
+"Fatty acids, total polyunsaturated",g,0.685,0.208,1.048
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

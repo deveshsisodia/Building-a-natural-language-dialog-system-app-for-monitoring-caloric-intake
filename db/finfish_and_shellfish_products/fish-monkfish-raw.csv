@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:59 EST
+"Nutrient data for: 15054, Fish, monkfish, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g",
+Proximates
+"Water",g,83.24,70.75
+"Energy",kcal,76,65
+"Protein",g,14.48,12.31
+"Total lipid (fat)",g,1.52,1.29
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,8,7
+"Iron, Fe",mg,0.32,0.27
+"Magnesium, Mg",mg,21,18
+"Phosphorus, P",mg,200,170
+"Potassium, K",mg,400,340
+"Sodium, Na",mg,18,15
+"Zinc, Zn",mg,0.41,0.35
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.0,0.8
+"Thiamin",mg,0.025,0.021
+"Riboflavin",mg,0.060,0.051
+"Niacin",mg,2.100,1.785
+"Vitamin B-6",mg,0.240,0.204
+"Folate, DFE",µg,7,6
+"Vitamin B-12",µg,0.90,0.77
+"Vitamin A, RAE",µg,12,10
+"Vitamin A, IU",IU,40,34
+Lipids
+"Fatty acids, total saturated",g,0.340,0.289
+"Fatty acids, total monounsaturated",g,0.240,0.204
+"Fatty acids, total polyunsaturated",g,0.610,0.518
+"Cholesterol",mg,25,21
+Amino Acids
+Other

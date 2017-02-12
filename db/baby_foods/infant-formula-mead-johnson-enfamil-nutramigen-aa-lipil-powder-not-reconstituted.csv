@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:49 EST
+"Nutrient data for: 33873, Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, AA LIPIL, powder, not reconstituted"
+Nutrient,Unit,1Value per 100 g,"1 scoop = 9.4g",
+Proximates
+"Water",g,4.00,0.38
+"Energy",kcal,500,47
+"Protein",g,14.00,1.32
+"Total lipid (fat)",g,26.00,2.44
+"Carbohydrate, by difference",g,51.00,4.79
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,51.00,4.79
+Minerals
+"Calcium, Ca",mg,470,44
+"Iron, Fe",mg,9.00,0.85
+"Magnesium, Mg",mg,55,5
+"Phosphorus, P",mg,260,24
+"Potassium, K",mg,550,52
+"Sodium, Na",mg,230,22
+"Zinc, Zn",mg,5.00,0.47
+Vitamins
+"Vitamin C, total ascorbic acid",mg,60.0,5.6
+"Thiamin",mg,0.400,0.038
+"Riboflavin",mg,0.450,0.042
+"Niacin",mg,5.000,0.470
+"Vitamin B-6",mg,0.300,0.028
+"Folate, DFE",µg,136,13
+"Vitamin B-12",µg,1.49,0.14
+"Vitamin A, RAE",µg,451,42
+"Vitamin A, IU",IU,1503,141
+"Vitamin E (alpha-tocopherol)",mg,4.46,0.42
+"Vitamin D (D2 + D3)",µg,6.3,0.6
+"Vitamin D",IU,250,24
+"Vitamin K (phylloquinone)",µg,40.0,3.8
+Lipids
+"Fatty acids, total saturated",g,10.813,1.016
+"Fatty acids, total monounsaturated",g,9.475,0.891
+"Fatty acids, total polyunsaturated",g,5.096,0.479
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

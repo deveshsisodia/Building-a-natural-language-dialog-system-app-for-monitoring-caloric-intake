@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:38 EST
+"Nutrient data for: 05719, Turkey, back, from whole bird, meat only, with added solution, raw"
+Nutrient,Unit,1Value per 100 g,"4.0 oz = 114.0g","1 back = 1245.0g",
+Proximates
+"Water",g,75.86,86.48,944.46
+"Energy",kcal,115,131,1432
+"Protein",g,19.27,21.97,239.91
+"Total lipid (fat)",g,4.12,4.70,51.29
+"Carbohydrate, by difference",g,0.15,0.17,1.87
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.10,0.11,1.25
+Minerals
+"Calcium, Ca",mg,15,17,187
+"Iron, Fe",mg,0.90,1.03,11.21
+"Magnesium, Mg",mg,21,24,261
+"Phosphorus, P",mg,191,218,2378
+"Potassium, K",mg,226,258,2814
+"Sodium, Na",mg,167,190,2079
+"Zinc, Zn",mg,2.68,3.06,33.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.060,0.068,0.747
+"Riboflavin",mg,0.247,0.282,3.075
+"Niacin",mg,5.745,6.549,71.525
+"Vitamin B-6",mg,0.425,0.484,5.291
+"Vitamin B-12",µg,2.05,2.34,25.52
+"Vitamin A, RAE",µg,13,15,162
+"Vitamin A, IU",IU,43,49,535
+"Vitamin E (alpha-tocopherol)",mg,0.12,0.14,1.49
+"Vitamin D (D2 + D3)",µg,0.3,0.3,3.7
+"Vitamin D",IU,13,15,162
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,1.124,1.281,13.994
+"Fatty acids, total monounsaturated",g,1.244,1.418,15.488
+"Fatty acids, total polyunsaturated",g,1.009,1.150,12.562
+"Fatty acids, total trans",g,0.052,0.059,0.647
+"Cholesterol",mg,79,90,984
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

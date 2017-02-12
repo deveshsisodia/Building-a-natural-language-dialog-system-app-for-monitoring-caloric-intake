@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:50 EST
+"Nutrient data for: 10978, Pork, ground, 84% lean / 16% fat, cooked, pan-broiled"
+Nutrient,Unit,1Value per 100 g,"3.0 oz grilled patties = 85.0g",
+Proximates
+"Water",g,51.97,44.17
+"Energy",kcal,301,256
+"Protein",g,27.14,23.07
+"Total lipid (fat)",g,21.39,18.18
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,20,17
+"Iron, Fe",mg,1.16,0.99
+"Magnesium, Mg",mg,22,19
+"Phosphorus, P",mg,221,188
+"Potassium, K",mg,345,293
+"Sodium, Na",mg,89,76
+"Zinc, Zn",mg,2.54,2.16
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.352,0.299
+"Riboflavin",mg,0.462,0.393
+"Niacin",mg,8.573,7.287
+"Vitamin B-6",mg,0.535,0.455
+"Folate, DFE",µg,4,3
+"Vitamin B-12",µg,0.97,0.82
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.44,0.37
+"Vitamin D (D2 + D3)",µg,0.5,0.4
+"Vitamin D",IU,22,19
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,7.453,6.335
+"Fatty acids, total monounsaturated",g,10.032,8.527
+"Fatty acids, total polyunsaturated",g,3.061,2.602
+"Fatty acids, total trans",g,0.192,0.163
+"Cholesterol",mg,97,82
+Amino Acids
+Other
+"Caffeine",mg,0,0

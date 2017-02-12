@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:52 EST
+"Nutrient data for: 25008, Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Honey Nut Oat Bar"
+Nutrient,Unit,1Value per 100 g,"1 bar = 55.0g",
+Proximates
+"Water",g,9.50,5.22
+"Energy",kcal,378,208
+"Protein",g,22.50,12.38
+"Total lipid (fat)",g,7.87,4.33
+"Carbohydrate, by difference",g,54.30,29.86
+"Fiber, total dietary",g,11.0,6.0
+"Sugars, total",g,26.26,14.44
+Minerals
+"Iron, Fe",mg,18.15,9.98
+"Magnesium, Mg",mg,317,174
+"Sodium, Na",mg,318,175
+"Zinc, Zn",mg,11.88,6.53
+Vitamins
+"Vitamin C, total ascorbic acid",mg,176.4,97.0
+"Thiamin",mg,3.394,1.867
+"Riboflavin",mg,3.846,2.115
+"Niacin",mg,45.249,24.887
+"Vitamin B-6",mg,4.525,2.489
+"Folate, DFE",µg,1537,845
+"Vitamin B-12",µg,13.57,7.46
+"Vitamin A, IU",IU,4451,2448
+"Vitamin E (alpha-tocopherol)",mg,30.50,16.77
+"Vitamin D (D2 + D3)",µg,4.5,2.5
+"Vitamin D",IU,181,100
+Lipids
+"Fatty acids, total saturated",g,4.481,2.465
+"Fatty acids, total trans",g,0.052,0.029
+Amino Acids
+Other

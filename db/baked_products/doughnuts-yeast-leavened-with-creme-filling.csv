@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:37 EST
+"Nutrient data for: 18254, Doughnuts, yeast-leavened, with creme filling"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 doughnut oval (3-1/2"" x 2-1/2"") = 85.0g",
+Proximates
+"Water",g,38.20,10.83,32.47
+"Energy",kcal,361,102,307
+"Protein",g,6.40,1.81,5.44
+"Total lipid (fat)",g,24.50,6.95,20.82
+"Carbohydrate, by difference",g,30.00,8.51,25.50
+"Fiber, total dietary",g,0.8,0.2,0.7
+"Sugars, total",g,14.55,4.12,12.37
+Minerals
+"Calcium, Ca",mg,25,7,21
+"Iron, Fe",mg,1.83,0.52,1.56
+"Magnesium, Mg",mg,20,6,17
+"Phosphorus, P",mg,76,22,65
+"Potassium, K",mg,80,23,68
+"Sodium, Na",mg,309,88,263
+"Zinc, Zn",mg,0.80,0.23,0.68
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.338,0.096,0.287
+"Riboflavin",mg,0.148,0.042,0.126
+"Niacin",mg,2.242,0.636,1.906
+"Vitamin B-6",mg,0.068,0.019,0.058
+"Folate, DFE",µg,109,31,93
+"Vitamin B-12",µg,0.14,0.04,0.12
+"Vitamin A, RAE",µg,11,3,9
+"Vitamin A, IU",IU,40,11,34
+"Vitamin E (alpha-tocopherol)",mg,0.29,0.08,0.25
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,8.6,2.4,7.3
+Lipids
+"Fatty acids, total saturated",g,5.430,1.539,4.615
+"Fatty acids, total monounsaturated",g,12.080,3.425,10.268
+"Fatty acids, total polyunsaturated",g,3.082,0.874,2.620
+"Cholesterol",mg,24,7,20
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

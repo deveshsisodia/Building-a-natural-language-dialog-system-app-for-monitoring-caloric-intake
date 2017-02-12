@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:14 EST
+"Nutrient data for: 20650, Sorghum flour, refined, unenriched"
+Nutrient,Unit,1Value per 100 g,"1 cup = 161.0g",
+Proximates
+"Water",g,11.92,19.19
+"Energy",kcal,357,575
+"Protein",g,9.53,15.34
+"Total lipid (fat)",g,1.24,2.00
+"Carbohydrate, by difference",g,76.85,123.73
+"Fiber, total dietary",g,1.9,3.1
+Minerals
+"Calcium, Ca",mg,6,10
+"Iron, Fe",mg,0.97,1.56
+"Magnesium, Mg",mg,31,50
+"Phosphorus, P",mg,87,140
+"Potassium, K",mg,145,233
+"Sodium, Na",mg,1,2
+"Zinc, Zn",mg,0.47,0.76
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,1.0
+"Thiamin",mg,0.090,0.145
+"Riboflavin",mg,0.005,0.008
+"Niacin",mg,1.329,2.140
+"Vitamin B-6",mg,0.068,0.109
+Lipids
+"Fatty acids, total saturated",g,0.303,0.488
+"Fatty acids, total monounsaturated",g,0.385,0.620
+"Fatty acids, total polyunsaturated",g,0.475,0.765
+"Fatty acids, total trans",g,0.001,0.002
+Amino Acids
+Other

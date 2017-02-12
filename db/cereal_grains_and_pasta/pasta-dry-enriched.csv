@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:13 EST
+"Nutrient data for: 20120, Pasta, dry, enriched"
+Nutrient,Unit,1Value per 100 g,"1 cup spaghetti = 91.0g","2.0 oz = 57.0g","1 cup elbows = 122.0g","1 cup penne = 95.0g","1 cup farfalle = 81.0g","1 cup rotini = 96.0g","1 cup shells = 64.0g","1 cup lasagna = 90.0g",
+Proximates
+"Water",g,9.90,9.01,5.64,12.08,9.40,8.02,9.50,6.34,8.91
+"Energy",kcal,371,338,211,453,352,301,356,237,334
+"Protein",g,13.04,11.87,7.43,15.91,12.39,10.56,12.52,8.35,11.74
+"Total lipid (fat)",g,1.51,1.37,0.86,1.84,1.43,1.22,1.45,0.97,1.36
+"Carbohydrate, by difference",g,74.67,67.95,42.56,91.10,70.94,60.48,71.68,47.79,67.20
+"Fiber, total dietary",g,3.2,2.9,1.8,3.9,3.0,2.6,3.1,2.0,2.9
+"Sugars, total",g,2.67,2.43,1.52,3.26,2.54,2.16,2.56,1.71,2.40
+Minerals
+"Calcium, Ca",mg,21,19,12,26,20,17,20,13,19
+"Iron, Fe",mg,3.30,3.00,1.88,4.03,3.13,2.67,3.17,2.11,2.97
+"Magnesium, Mg",mg,53,48,30,65,50,43,51,34,48
+"Phosphorus, P",mg,189,172,108,231,180,153,181,121,170
+"Potassium, K",mg,223,203,127,272,212,181,214,143,201
+"Sodium, Na",mg,6,5,3,7,6,5,6,4,5
+"Zinc, Zn",mg,1.41,1.28,0.80,1.72,1.34,1.14,1.35,0.90,1.27
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.891,0.811,0.508,1.087,0.846,0.722,0.855,0.570,0.802
+"Riboflavin",mg,0.400,0.364,0.228,0.488,0.380,0.324,0.384,0.256,0.360
+"Niacin",mg,7.177,6.531,4.091,8.756,6.818,5.813,6.890,4.593,6.459
+"Vitamin B-6",mg,0.142,0.129,0.081,0.173,0.135,0.115,0.136,0.091,0.128
+"Folate, DFE",µg,391,356,223,477,371,317,375,250,352
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.11,0.10,0.06,0.13,0.10,0.09,0.11,0.07,0.10
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,0.277,0.252,0.158,0.338,0.263,0.224,0.266,0.177,0.249
+"Fatty acids, total monounsaturated",g,0.171,0.156,0.097,0.209,0.162,0.139,0.164,0.109,0.154
+"Fatty acids, total polyunsaturated",g,0.564,0.513,0.321,0.688,0.536,0.457,0.541,0.361,0.508
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0,0,0

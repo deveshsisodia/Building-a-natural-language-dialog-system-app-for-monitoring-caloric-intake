@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:07 EST
+"Nutrient data for: 01199, Cream, half and half, fat free"
+Nutrient,Unit,1Value per 100 g,"2.0 tbsp = 29.0g","1 pint = 484.0g",
+Proximates
+"Water",g,86.00,24.94,416.24
+"Energy",kcal,59,17,286
+"Protein",g,2.60,0.75,12.58
+"Total lipid (fat)",g,1.40,0.41,6.78
+"Carbohydrate, by difference",g,9.00,2.61,43.56
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,5.00,1.45,24.20
+Minerals
+"Calcium, Ca",mg,96,28,465
+"Iron, Fe",mg,0.00,0.00,0.00
+"Magnesium, Mg",mg,16,5,77
+"Phosphorus, P",mg,151,44,731
+"Potassium, K",mg,206,60,997
+"Sodium, Na",mg,100,29,484
+"Zinc, Zn",mg,0.81,0.23,3.92
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.2,3.4
+"Thiamin",mg,0.056,0.016,0.271
+"Riboflavin",mg,0.237,0.069,1.147
+"Niacin",mg,0.124,0.036,0.600
+"Vitamin B-6",mg,0.062,0.018,0.300
+"Folate, DFE",µg,4,1,19
+"Vitamin B-12",µg,0.52,0.15,2.52
+"Vitamin A, RAE",µg,12,3,58
+"Vitamin A, IU",IU,43,12,208
+"Vitamin E (alpha-tocopherol)",mg,0.04,0.01,0.19
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.2,0.1,1.0
+Lipids
+"Fatty acids, total saturated",g,0.841,0.244,4.070
+"Fatty acids, total monounsaturated",g,0.384,0.111,1.859
+"Fatty acids, total polyunsaturated",g,0.052,0.015,0.252
+"Cholesterol",mg,5,1,24
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

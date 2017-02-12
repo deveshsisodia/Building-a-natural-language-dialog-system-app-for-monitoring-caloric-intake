@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:25 EST
+"Nutrient data for: 11976, Pepper, banana, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup = 124.0g","1 small (4"" long) = 33.0g","1 medium (4-1/2"" long) = 46.0g","1 large (5"" long) = 75.0g",
+Proximates
+"Water",g,91.81,113.84,30.30,42.23,68.86
+"Energy",kcal,27,33,9,12,20
+"Protein",g,1.66,2.06,0.55,0.76,1.25
+"Total lipid (fat)",g,0.45,0.56,0.15,0.21,0.34
+"Carbohydrate, by difference",g,5.35,6.63,1.77,2.46,4.01
+"Fiber, total dietary",g,3.4,4.2,1.1,1.6,2.5
+"Sugars, total",g,1.95,2.42,0.64,0.90,1.46
+Minerals
+"Calcium, Ca",mg,14,17,5,6,10
+"Iron, Fe",mg,0.46,0.57,0.15,0.21,0.34
+"Magnesium, Mg",mg,17,21,6,8,13
+"Phosphorus, P",mg,32,40,11,15,24
+"Potassium, K",mg,256,317,84,118,192
+"Sodium, Na",mg,13,16,4,6,10
+"Zinc, Zn",mg,0.25,0.31,0.08,0.12,0.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,82.7,102.5,27.3,38.0,62.0
+"Thiamin",mg,0.081,0.100,0.027,0.037,0.061
+"Riboflavin",mg,0.054,0.067,0.018,0.025,0.041
+"Niacin",mg,1.242,1.540,0.410,0.571,0.932
+"Vitamin B-6",mg,0.357,0.443,0.118,0.164,0.268
+"Folate, DFE",µg,29,36,10,13,22
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,17,21,6,8,13
+"Vitamin A, IU",IU,340,422,112,156,255
+"Vitamin E (alpha-tocopherol)",mg,0.69,0.86,0.23,0.32,0.52
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,9.5,11.8,3.1,4.4,7.1
+Lipids
+"Fatty acids, total saturated",g,0.048,0.060,0.016,0.022,0.036
+"Fatty acids, total monounsaturated",g,0.027,0.033,0.009,0.012,0.020
+"Fatty acids, total polyunsaturated",g,0.243,0.301,0.080,0.112,0.182
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:05 EST
+"Nutrient data for: 15119, Fish, tuna, light, canned in oil, drained solids"
+Nutrient,Unit,1Value per 100 g,"1 cup, solid or chunks = 146.0g","1 oz = 28.35g","1 can = 171.0g","3.0 oz = 85.0g","1 can (12.5 oz), drained = 321.0g",
+Proximates
+"Water",g,59.83,87.35,16.96,102.31,50.86,192.05
+"Energy",kcal,198,289,56,339,168,636
+"Protein",g,29.13,42.53,8.26,49.81,24.76,93.51
+"Total lipid (fat)",g,8.21,11.99,2.33,14.04,6.98,26.35
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,13,19,4,22,11,42
+"Iron, Fe",mg,1.39,2.03,0.39,2.38,1.18,4.46
+"Magnesium, Mg",mg,31,45,9,53,26,100
+"Phosphorus, P",mg,311,454,88,532,264,998
+"Potassium, K",mg,207,302,59,354,176,664
+"Sodium, Na",mg,416,607,118,711,354,1335
+"Zinc, Zn",mg,0.90,1.31,0.26,1.54,0.77,2.89
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.038,0.055,0.011,0.065,0.032,0.122
+"Riboflavin",mg,0.120,0.175,0.034,0.205,0.102,0.385
+"Niacin",mg,12.400,18.104,3.515,21.204,10.540,39.804
+"Vitamin B-6",mg,0.110,0.161,0.031,0.188,0.093,0.353
+"Folate, DFE",µg,5,7,1,9,4,16
+"Vitamin B-12",µg,2.20,3.21,0.62,3.76,1.87,7.06
+"Vitamin A, RAE",µg,23,34,7,39,20,74
+"Vitamin A, IU",IU,77,112,22,132,65,247
+"Vitamin E (alpha-tocopherol)",mg,0.87,1.27,0.25,1.49,0.74,2.79
+"Vitamin D (D2 + D3)",µg,6.7,9.8,1.9,11.5,5.7,21.5
+"Vitamin D",IU,269,393,76,460,229,863
+"Vitamin K (phylloquinone)",µg,44.0,64.2,12.5,75.2,37.4,141.2
+Lipids
+"Fatty acids, total saturated",g,1.534,2.240,0.435,2.623,1.304,4.924
+"Fatty acids, total monounsaturated",g,2.949,4.306,0.836,5.043,2.507,9.466
+"Fatty acids, total polyunsaturated",g,2.885,4.212,0.818,4.933,2.452,9.261
+"Cholesterol",mg,18,26,5,31,15,58
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

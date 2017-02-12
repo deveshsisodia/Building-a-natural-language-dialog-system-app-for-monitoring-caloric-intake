@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:29 EST
+"Nutrient data for: 35203, Rose Hips, wild (Northern Plains Indians)"
+Nutrient,Unit,1Value per 100 g,"1 cup = 127.0g",
+Proximates
+"Water",g,58.66,74.50
+"Energy",kcal,162,206
+"Protein",g,1.60,2.03
+"Total lipid (fat)",g,0.34,0.43
+"Carbohydrate, by difference",g,38.22,48.54
+"Fiber, total dietary",g,24.1,30.6
+"Sugars, total",g,2.58,3.28
+Minerals
+"Calcium, Ca",mg,169,215
+"Iron, Fe",mg,1.06,1.35
+"Magnesium, Mg",mg,69,88
+"Phosphorus, P",mg,61,77
+"Potassium, K",mg,429,545
+"Sodium, Na",mg,4,5
+"Zinc, Zn",mg,0.25,0.32
+Vitamins
+"Vitamin C, total ascorbic acid",mg,426.0,541.0
+"Thiamin",mg,0.016,0.020
+"Riboflavin",mg,0.166,0.211
+"Niacin",mg,1.300,1.651
+"Vitamin B-6",mg,0.076,0.097
+"Vitamin A, RAE",µg,217,276
+"Vitamin A, IU",IU,4345,5518
+"Vitamin E (alpha-tocopherol)",mg,5.84,7.42
+"Vitamin K (phylloquinone)",µg,25.9,32.9
+Lipids
+Amino Acids
+Other
+Footnotes
+(a)"Includes only 5-methyltetrahydrofolate."

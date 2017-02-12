@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:17 EST
+"Nutrient data for: 11090, Broccoli, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup chopped = 91.0g","1 bunch = 608.0g","1 spear (about 5"" long) = 31.0g","1 stalk = 151.0g","0.5 cup, chopped or diced = 44.0g","1 NLEA serving = 148.0g",
+Proximates
+"Water",g,89.30,81.26,542.94,27.68,134.84,39.29,132.16
+"Energy",kcal,34,31,207,11,51,15,50
+"Protein",g,2.82,2.57,17.15,0.87,4.26,1.24,4.17
+"Total lipid (fat)",g,0.37,0.34,2.25,0.11,0.56,0.16,0.55
+"Carbohydrate, by difference",g,6.64,6.04,40.37,2.06,10.03,2.92,9.83
+"Fiber, total dietary",g,2.6,2.4,15.8,0.8,3.9,1.1,3.8
+"Sugars, total",g,1.70,1.55,10.34,0.53,2.57,0.75,2.52
+Minerals
+"Calcium, Ca",mg,47,43,286,15,71,21,70
+"Iron, Fe",mg,0.73,0.66,4.44,0.23,1.10,0.32,1.08
+"Magnesium, Mg",mg,21,19,128,7,32,9,31
+"Phosphorus, P",mg,66,60,401,20,100,29,98
+"Potassium, K",mg,316,288,1921,98,477,139,468
+"Sodium, Na",mg,33,30,201,10,50,15,49
+"Zinc, Zn",mg,0.41,0.37,2.49,0.13,0.62,0.18,0.61
+Vitamins
+"Vitamin C, total ascorbic acid",mg,89.2,81.2,542.3,27.7,134.7,39.2,132.0
+"Thiamin",mg,0.071,0.065,0.432,0.022,0.107,0.031,0.105
+"Riboflavin",mg,0.117,0.106,0.711,0.036,0.177,0.051,0.173
+"Niacin",mg,0.639,0.581,3.885,0.198,0.965,0.281,0.946
+"Vitamin B-6",mg,0.175,0.159,1.064,0.054,0.264,0.077,0.259
+"Folate, DFE",µg,63,57,383,20,95,28,93
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,31,28,188,10,47,14,46
+"Vitamin A, IU",IU,623,567,3788,193,941,274,922
+"Vitamin E (alpha-tocopherol)",mg,0.78,0.71,4.74,0.24,1.18,0.34,1.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,101.6,92.5,617.7,31.5,153.4,44.7,150.4
+Lipids
+"Fatty acids, total saturated",g,0.039,0.035,0.237,0.012,0.059,0.017,0.058
+"Fatty acids, total monounsaturated",g,0.011,0.010,0.067,0.003,0.017,0.005,0.016
+"Fatty acids, total polyunsaturated",g,0.038,0.035,0.231,0.012,0.057,0.017,0.056
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0,0

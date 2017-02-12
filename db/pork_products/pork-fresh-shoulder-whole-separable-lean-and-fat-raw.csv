@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:48 EST
+"Nutrient data for: 10070, Pork, fresh, shoulder, whole, separable lean and fat, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g",
+Proximates
+"Water",g,64.02,18.15,290.39
+"Energy",kcal,236,67,1070
+"Protein",g,17.18,4.87,77.93
+"Total lipid (fat)",g,17.99,5.10,81.60
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,15,4,68
+"Iron, Fe",mg,1.05,0.30,4.76
+"Magnesium, Mg",mg,18,5,82
+"Phosphorus, P",mg,182,52,826
+"Potassium, K",mg,302,86,1370
+"Sodium, Na",mg,65,18,295
+"Zinc, Zn",mg,2.70,0.77,12.25
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.2,3.2
+"Thiamin",mg,0.767,0.217,3.479
+"Riboflavin",mg,0.275,0.078,1.247
+"Niacin",mg,3.833,1.087,17.386
+"Vitamin B-6",mg,0.348,0.099,1.579
+"Folate, DFE",µg,5,1,23
+"Vitamin B-12",µg,0.74,0.21,3.36
+"Vitamin A, RAE",µg,2,1,9
+"Vitamin A, IU",IU,7,2,32
+"Vitamin E (alpha-tocopherol)",mg,0.19,0.05,0.86
+"Vitamin D (D2 + D3)",µg,1.7,0.5,7.7
+"Vitamin D",IU,70,20,318
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,6.240,1.769,28.305
+"Fatty acids, total monounsaturated",g,8.010,2.271,36.333
+"Fatty acids, total polyunsaturated",g,1.920,0.544,8.709
+"Cholesterol",mg,71,20,322
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

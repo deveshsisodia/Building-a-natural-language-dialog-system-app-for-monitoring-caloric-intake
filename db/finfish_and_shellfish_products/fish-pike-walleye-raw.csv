@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:00 EST
+"Nutrient data for: 15064, Fish, pike, walleye, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 fillet = 159.0g",
+Proximates
+"Water",g,79.31,67.41,126.10
+"Energy",kcal,93,79,148
+"Protein",g,19.14,16.27,30.43
+"Total lipid (fat)",g,1.22,1.04,1.94
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,110,94,175
+"Iron, Fe",mg,1.30,1.10,2.07
+"Magnesium, Mg",mg,30,26,48
+"Phosphorus, P",mg,210,178,334
+"Potassium, K",mg,389,331,619
+"Sodium, Na",mg,51,43,81
+"Zinc, Zn",mg,0.62,0.53,0.99
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.270,0.230,0.429
+"Riboflavin",mg,0.160,0.136,0.254
+"Niacin",mg,2.300,1.955,3.657
+"Vitamin B-6",mg,0.120,0.102,0.191
+"Folate, DFE",µg,15,13,24
+"Vitamin B-12",µg,2.00,1.70,3.18
+"Vitamin A, RAE",µg,21,18,33
+"Vitamin A, IU",IU,70,60,111
+Lipids
+"Fatty acids, total saturated",g,0.249,0.212,0.396
+"Fatty acids, total monounsaturated",g,0.294,0.250,0.467
+"Fatty acids, total polyunsaturated",g,0.447,0.380,0.711
+"Cholesterol",mg,86,73,137
+Amino Acids
+Other

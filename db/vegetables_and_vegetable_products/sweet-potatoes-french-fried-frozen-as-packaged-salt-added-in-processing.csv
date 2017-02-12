@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:31 EST
+"Nutrient data for: 31023, Sweet Potatoes, french fried, frozen as packaged, salt added in processing"
+Nutrient,Unit,1Value per 100 g,"12.0 fries = 51.0g",
+Proximates
+"Water",g,51.97,26.50
+"Energy",kcal,182,93
+"Protein",g,2.16,1.10
+"Total lipid (fat)",g,8.92,4.55
+"Carbohydrate, by difference",g,35.58,18.15
+"Fiber, total dietary",g,5.7,2.9
+"Sugars, total",g,12.90,6.58
+Minerals
+"Calcium, Ca",mg,52,27
+"Iron, Fe",mg,0.77,0.39
+"Magnesium, Mg",mg,26,13
+"Phosphorus, P",mg,59,30
+"Potassium, K",mg,409,209
+"Sodium, Na",mg,146,74
+"Zinc, Zn",mg,0.38,0.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.5,3.8
+"Thiamin",mg,0.092,0.047
+"Riboflavin",mg,0.092,0.047
+"Niacin",mg,0.697,0.355
+"Vitamin B-6",mg,0.177,0.090
+"Folate, DFE",µg,32,16
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,434,221
+"Vitamin A, IU",IU,8674,4424
+"Vitamin E (alpha-tocopherol)",mg,1.49,0.76
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,4.6,2.3
+Lipids
+"Fatty acids, total saturated",g,1.157,0.590
+"Fatty acids, total monounsaturated",g,3.703,1.889
+"Fatty acids, total polyunsaturated",g,2.863,1.460
+"Fatty acids, total trans",g,0.042,0.021
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

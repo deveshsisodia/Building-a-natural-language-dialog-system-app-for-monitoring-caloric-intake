@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:32 EST
+"Nutrient data for: 18418, Cake, pound, commercially prepared, other than all butter, unenriched"
+Nutrient,Unit,1Value per 100 g,"1 piece (1/10 of 10.6 oz cake) = 30.0g","1 piece (1/12 of 12 oz cake) = 28.0g","1 snack cake (2.5 oz) = 71.0g",
+Proximates
+"Water",g,23.10,6.93,6.47,16.40
+"Energy",kcal,389,117,109,276
+"Protein",g,5.20,1.56,1.46,3.69
+"Total lipid (fat)",g,17.90,5.37,5.01,12.71
+"Carbohydrate, by difference",g,52.50,15.75,14.70,37.27
+"Fiber, total dietary",g,1.0,0.3,0.3,0.7
+Minerals
+"Calcium, Ca",mg,64,19,18,45
+"Iron, Fe",mg,0.60,0.18,0.17,0.43
+"Magnesium, Mg",mg,13,4,4,9
+"Phosphorus, P",mg,134,40,38,95
+"Potassium, K",mg,106,32,30,75
+"Sodium, Na",mg,400,120,112,284
+"Zinc, Zn",mg,0.39,0.12,0.11,0.28
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.1,0.0,0.0,0.1
+"Thiamin",mg,0.024,0.007,0.007,0.017
+"Riboflavin",mg,0.124,0.037,0.035,0.088
+"Niacin",mg,0.342,0.103,0.096,0.243
+"Vitamin B-6",mg,0.023,0.007,0.006,0.016
+"Folate, DFE",µg,9,3,3,6
+"Vitamin B-12",µg,0.14,0.04,0.04,0.10
+"Vitamin A, RAE",µg,35,10,10,25
+"Vitamin A, IU",IU,118,35,33,84
+Lipids
+"Fatty acids, total saturated",g,4.647,1.394,1.301,3.299
+"Fatty acids, total monounsaturated",g,9.935,2.981,2.782,7.054
+"Fatty acids, total polyunsaturated",g,2.251,0.675,0.630,1.598
+"Cholesterol",mg,58,17,16,41
+Amino Acids
+Other

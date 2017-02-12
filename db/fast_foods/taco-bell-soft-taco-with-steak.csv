@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:39 EST
+"Nutrient data for: 21263, TACO BELL, Soft Taco with steak"
+Nutrient,Unit,1Value per 100 g,"1 item = 127.0g",
+Proximates
+"Water",g,56.82,72.16
+"Energy",kcal,225,286
+"Protein",g,11.81,15.00
+"Total lipid (fat)",g,12.10,15.37
+"Carbohydrate, by difference",g,17.22,21.87
+"Fiber, total dietary",g,1.6,2.0
+Minerals
+"Calcium, Ca",mg,117,149
+"Iron, Fe",mg,2.22,2.82
+"Magnesium, Mg",mg,21,27
+"Phosphorus, P",mg,155,197
+"Potassium, K",mg,183,232
+"Sodium, Na",mg,551,700
+"Zinc, Zn",mg,2.15,2.73
+Vitamins
+"Thiamin",mg,0.307,0.390
+"Riboflavin",mg,0.194,0.246
+"Niacin",mg,2.975,3.778
+"Vitamin B-6",mg,0.085,0.108
+"Folate, DFE",µg,52,66
+"Vitamin B-12",µg,0.96,1.22
+"Vitamin A, RAE",µg,1,1
+"Vitamin A, IU",IU,23,29
+"Vitamin E (alpha-tocopherol)",mg,0.43,0.55
+"Vitamin K (phylloquinone)",µg,20.8,26.4
+Lipids
+"Fatty acids, total saturated",g,3.369,4.279
+"Fatty acids, total monounsaturated",g,3.937,5.000
+"Fatty acids, total polyunsaturated",g,3.485,4.426
+"Cholesterol",mg,31,39
+Amino Acids
+Other

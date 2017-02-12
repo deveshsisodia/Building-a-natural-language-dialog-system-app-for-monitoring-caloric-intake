@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:06 EST
+"Nutrient data for: 43597, Cheese, mozzarella, low sodium"
+Nutrient,Unit,1Value per 100 g,"1 cup, diced = 132.0g","1 cup, shredded = 113.0g","1 cubic inch = 18.0g","1 slice (1 oz) = 28.0g",
+Proximates
+"Water",g,49.90,65.87,56.39,8.98,13.97
+"Energy",kcal,280,370,316,50,78
+"Protein",g,27.50,36.30,31.07,4.95,7.70
+"Total lipid (fat)",g,17.10,22.57,19.32,3.08,4.79
+"Carbohydrate, by difference",g,3.10,4.09,3.50,0.56,0.87
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,1.23,1.62,1.39,0.22,0.34
+Minerals
+"Calcium, Ca",mg,731,965,826,132,205
+"Iron, Fe",mg,0.25,0.33,0.28,0.04,0.07
+"Magnesium, Mg",mg,26,34,29,5,7
+"Phosphorus, P",mg,524,692,592,94,147
+"Potassium, K",mg,95,125,107,17,27
+"Sodium, Na",mg,16,21,18,3,4
+"Zinc, Zn",mg,3.13,4.13,3.54,0.56,0.88
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.020,0.026,0.023,0.004,0.006
+"Riboflavin",mg,0.340,0.449,0.384,0.061,0.095
+"Niacin",mg,0.120,0.158,0.136,0.022,0.034
+"Vitamin B-6",mg,0.080,0.106,0.090,0.014,0.022
+"Folate, DFE",µg,9,12,10,2,3
+"Vitamin B-12",µg,0.92,1.21,1.04,0.17,0.26
+"Vitamin A, RAE",µg,137,181,155,25,38
+"Vitamin A, IU",IU,517,682,584,93,145
+"Vitamin E (alpha-tocopherol)",mg,0.15,0.20,0.17,0.03,0.04
+"Vitamin D (D2 + D3)",µg,0.3,0.4,0.3,0.1,0.1
+"Vitamin D",IU,13,17,15,2,4
+"Vitamin K (phylloquinone)",µg,1.8,2.4,2.0,0.3,0.5
+Lipids
+"Fatty acids, total saturated",g,10.867,14.344,12.280,1.956,3.043
+"Fatty acids, total monounsaturated",g,4.844,6.394,5.474,0.872,1.356
+"Fatty acids, total polyunsaturated",g,0.509,0.672,0.575,0.092,0.143
+"Cholesterol",mg,54,71,61,10,15
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

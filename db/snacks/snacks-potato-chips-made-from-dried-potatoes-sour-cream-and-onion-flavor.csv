@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:54 EST
+"Nutrient data for: 19046, Snacks, potato chips, made from dried potatoes, sour-cream and onion-flavor"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 can (6.75 oz) = 198.0g",
+Proximates
+"Water",g,2.00,0.57,3.96
+"Energy",kcal,547,155,1083
+"Protein",g,6.60,1.87,13.07
+"Total lipid (fat)",g,37.00,10.49,73.26
+"Carbohydrate, by difference",g,51.30,14.54,101.57
+"Fiber, total dietary",g,1.2,0.3,2.4
+Minerals
+"Calcium, Ca",mg,64,18,127
+"Iron, Fe",mg,1.40,0.40,2.77
+"Magnesium, Mg",mg,55,16,109
+"Phosphorus, P",mg,169,48,335
+"Potassium, K",mg,496,141,982
+"Sodium, Na",mg,541,153,1071
+"Zinc, Zn",mg,0.71,0.20,1.41
+Vitamins
+"Vitamin C, total ascorbic acid",mg,9.5,2.7,18.8
+"Thiamin",mg,0.180,0.051,0.356
+"Riboflavin",mg,0.100,0.028,0.198
+"Niacin",mg,2.500,0.709,4.950
+"Vitamin B-6",mg,0.476,0.135,0.942
+"Folate, DFE",µg,23,7,46
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,323,92,640
+"Vitamin A, IU",IU,755,214,1495
+Lipids
+"Fatty acids, total saturated",g,9.470,2.685,18.751
+"Fatty acids, total monounsaturated",g,7.120,2.019,14.098
+"Fatty acids, total polyunsaturated",g,18.780,5.324,37.184
+"Cholesterol",mg,3,1,6
+Amino Acids
+Other

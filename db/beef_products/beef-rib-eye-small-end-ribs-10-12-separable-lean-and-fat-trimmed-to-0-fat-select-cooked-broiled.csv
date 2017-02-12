@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:47 EST
+"Nutrient data for: 13951, Beef, rib eye, small end (ribs 10-12), separable lean and fat, trimmed to 0"" fat, select, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 steak (yield from 294 g raw meat) = 231.0g",
+Proximates
+"Water",g,59.16,50.29,136.66
+"Energy",kcal,234,199,541
+"Protein",g,27.95,23.76,64.56
+"Total lipid (fat)",g,12.71,10.80,29.36
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,22,19,51
+"Iron, Fe",mg,1.70,1.45,3.93
+"Magnesium, Mg",mg,24,20,55
+"Phosphorus, P",mg,223,190,515
+"Potassium, K",mg,355,302,820
+"Sodium, Na",mg,59,50,136
+"Zinc, Zn",mg,5.06,4.30,11.69
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.081,0.069,0.187
+"Riboflavin",mg,0.146,0.124,0.337
+"Niacin",mg,7.301,6.206,16.865
+"Vitamin B-6",mg,0.612,0.520,1.414
+"Folate, DFE",µg,9,8,21
+"Vitamin B-12",µg,1.45,1.23,3.35
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.44,0.37,1.02
+"Vitamin K (phylloquinone)",µg,1.5,1.3,3.5
+Lipids
+"Fatty acids, total saturated",g,4.934,4.194,11.398
+"Fatty acids, total monounsaturated",g,5.205,4.424,12.024
+"Fatty acids, total polyunsaturated",g,0.472,0.401,1.090
+"Cholesterol",mg,92,78,213
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

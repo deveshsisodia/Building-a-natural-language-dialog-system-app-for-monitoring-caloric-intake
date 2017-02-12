@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:10 EST
+"Nutrient data for: 01121, Yogurt, fruit, low fat, 10 grams protein per 8 ounce"
+Nutrient,Unit,1Value per 100 g,"1 container (6 oz) = 170.0g","1 cup (8 fl oz) = 245.0g","1 container (8 oz) = 227.0g","1 container, Dannon Sprinkl'ins (4.1 oz) = 116.0g","0.5 container (4 oz) = 113.0g",
+Proximates
+"Water",g,74.48,126.62,182.48,169.07,86.40,84.16
+"Energy",kcal,102,173,250,232,118,115
+"Protein",g,4.37,7.43,10.71,9.92,5.07,4.94
+"Total lipid (fat)",g,1.08,1.84,2.65,2.45,1.25,1.22
+"Carbohydrate, by difference",g,19.05,32.38,46.67,43.24,22.10,21.53
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,19.05,32.38,46.67,43.24,22.10,21.53
+Minerals
+"Calcium, Ca",mg,152,258,372,345,176,172
+"Iron, Fe",mg,0.07,0.12,0.17,0.16,0.08,0.08
+"Magnesium, Mg",mg,15,26,37,34,17,17
+"Phosphorus, P",mg,119,202,292,270,138,134
+"Potassium, K",mg,195,332,478,443,226,220
+"Sodium, Na",mg,58,99,142,132,67,66
+"Zinc, Zn",mg,0.74,1.26,1.81,1.68,0.86,0.84
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,1.2,1.7,1.6,0.8,0.8
+"Thiamin",mg,0.037,0.063,0.091,0.084,0.043,0.042
+"Riboflavin",mg,0.178,0.303,0.436,0.404,0.206,0.201
+"Niacin",mg,0.095,0.161,0.233,0.216,0.110,0.107
+"Vitamin B-6",mg,0.040,0.068,0.098,0.091,0.046,0.045
+"Folate, DFE",µg,9,15,22,20,10,10
+"Vitamin B-12",µg,0.47,0.80,1.15,1.07,0.55,0.53
+"Vitamin A, RAE",µg,10,17,24,23,12,11
+"Vitamin A, IU",IU,36,61,88,82,42,41
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.03,0.05,0.05,0.02,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,1,2,2,2,1,1
+"Vitamin K (phylloquinone)",µg,0.1,0.2,0.2,0.2,0.1,0.1
+Lipids
+"Fatty acids, total saturated",g,0.697,1.185,1.708,1.582,0.809,0.788
+"Fatty acids, total monounsaturated",g,0.297,0.505,0.728,0.674,0.345,0.336
+"Fatty acids, total polyunsaturated",g,0.031,0.053,0.076,0.070,0.036,0.035
+"Cholesterol",mg,4,7,10,9,5,5
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:55 EST
+"Nutrient data for: 15141, Crustaceans, crab, blue, canned"
+Nutrient,Unit,1Value per 100 g,"1 cup = 135.0g","1 oz = 28.35g","1 can (6.5 oz), drained = 125.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,79.69,107.58,22.59,99.61,67.74
+"Energy",kcal,83,112,24,104,71
+"Protein",g,17.88,24.14,5.07,22.35,15.20
+"Total lipid (fat)",g,0.74,1.00,0.21,0.93,0.63
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,91,123,26,114,77
+"Iron, Fe",mg,0.50,0.68,0.14,0.62,0.42
+"Magnesium, Mg",mg,36,49,10,45,31
+"Phosphorus, P",mg,234,316,66,292,199
+"Potassium, K",mg,259,350,73,324,220
+"Sodium, Na",mg,563,760,160,704,479
+"Zinc, Zn",mg,3.81,5.14,1.08,4.76,3.24
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.3,4.5,0.9,4.1,2.8
+"Thiamin",mg,0.023,0.031,0.007,0.029,0.020
+"Riboflavin",mg,0.093,0.126,0.026,0.116,0.079
+"Niacin",mg,2.747,3.708,0.779,3.434,2.335
+"Vitamin B-6",mg,0.156,0.211,0.044,0.195,0.133
+"Folate, DFE",µg,51,69,14,64,43
+"Vitamin B-12",µg,3.33,4.50,0.94,4.16,2.83
+"Vitamin A, RAE",µg,1,1,0,1,1
+"Vitamin A, IU",IU,2,3,1,2,2
+"Vitamin E (alpha-tocopherol)",mg,1.84,2.48,0.52,2.30,1.56
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.3,0.4,0.1,0.4,0.3
+Lipids
+"Fatty acids, total saturated",g,0.201,0.271,0.057,0.251,0.171
+"Fatty acids, total monounsaturated",g,0.129,0.174,0.037,0.161,0.110
+"Fatty acids, total polyunsaturated",g,0.258,0.348,0.073,0.323,0.219
+"Fatty acids, total trans",g,0.014,0.019,0.004,0.018,0.012
+"Cholesterol",mg,97,131,27,121,82
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

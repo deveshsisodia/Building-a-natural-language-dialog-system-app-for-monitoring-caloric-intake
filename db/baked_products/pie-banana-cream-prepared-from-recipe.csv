@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:44 EST
+"Nutrient data for: 18304, Pie, banana cream, prepared from recipe"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 pie (9"" dia) = 1186.0g","1 piece (1/8 of 9"" dia) = 144.0g",
+Proximates
+"Water",g,47.90,13.58,568.09,68.98
+"Energy",kcal,269,76,3190,387
+"Protein",g,4.40,1.25,52.18,6.34
+"Total lipid (fat)",g,13.60,3.86,161.30,19.58
+"Carbohydrate, by difference",g,32.90,9.33,390.19,47.38
+"Fiber, total dietary",g,0.7,0.2,8.3,1.0
+"Sugars, total",g,12.06,3.42,143.03,17.37
+Minerals
+"Calcium, Ca",mg,75,21,890,108
+"Iron, Fe",mg,1.04,0.29,12.33,1.50
+"Magnesium, Mg",mg,16,5,190,23
+"Phosphorus, P",mg,92,26,1091,132
+"Potassium, K",mg,165,47,1957,238
+"Sodium, Na",mg,240,68,2846,346
+"Zinc, Zn",mg,0.48,0.14,5.69,0.69
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.6,0.5,19.0,2.3
+"Thiamin",mg,0.139,0.039,1.649,0.200
+"Riboflavin",mg,0.207,0.059,2.455,0.298
+"Niacin",mg,1.054,0.299,12.500,1.518
+"Vitamin B-6",mg,0.133,0.038,1.577,0.192
+"Folate, DFE",µg,38,11,451,55
+"Vitamin B-12",µg,0.25,0.07,2.96,0.36
+"Vitamin A, RAE",µg,61,17,723,88
+"Vitamin A, IU",IU,237,67,2811,341
+"Vitamin E (alpha-tocopherol)",mg,0.40,0.11,4.74,0.58
+"Vitamin D (D2 + D3)",µg,0.8,0.2,9.5,1.2
+"Vitamin D",IU,32,9,380,46
+"Vitamin K (phylloquinone)",µg,6.3,1.8,74.7,9.1
+Lipids
+"Fatty acids, total saturated",g,3.758,1.065,44.570,5.412
+"Fatty acids, total monounsaturated",g,5.719,1.621,67.827,8.235
+"Fatty acids, total polyunsaturated",g,3.292,0.933,39.043,4.740
+"Cholesterol",mg,51,14,605,73
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

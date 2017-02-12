@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:20 EST
+"Nutrient data for: 07074, Smoked link sausage, pork"
+Nutrient,Unit,1Value per 100 g,"1 link (4"" long x 1-1/8"" dia) = 68.0g","1 link, little (2"" long x 3/4"" dia) = 16.0g",
+Proximates
+"Water",g,56.49,38.41,9.04
+"Energy",kcal,309,210,49
+"Protein",g,11.98,8.15,1.92
+"Total lipid (fat)",g,28.23,19.20,4.52
+"Carbohydrate, by difference",g,0.94,0.64,0.15
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.94,0.64,0.15
+Minerals
+"Calcium, Ca",mg,11,7,2
+"Iron, Fe",mg,0.59,0.40,0.09
+"Magnesium, Mg",mg,11,7,2
+"Phosphorus, P",mg,157,107,25
+"Potassium, K",mg,483,328,77
+"Sodium, Na",mg,827,562,132
+"Zinc, Zn",mg,1.31,0.89,0.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.212,0.144,0.034
+"Riboflavin",mg,0.180,0.122,0.029
+"Niacin",mg,2.807,1.909,0.449
+"Vitamin B-6",mg,0.179,0.122,0.029
+"Folate, DFE",µg,1,1,0
+"Vitamin B-12",µg,0.66,0.45,0.11
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.25,0.17,0.04
+"Vitamin D (D2 + D3)",µg,1.1,0.7,0.2
+"Vitamin D",IU,43,29,7
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,9.313,6.333,1.490
+"Fatty acids, total monounsaturated",g,11.212,7.624,1.794
+"Fatty acids, total polyunsaturated",g,3.626,2.466,0.580
+"Fatty acids, total trans",g,0.231,0.157,0.037
+"Cholesterol",mg,61,41,10
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:30 EST
+"Nutrient data for: 11503, Swamp cabbage, (skunk cabbage), raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, chopped = 56.0g","1 shoot = 13.0g",
+Proximates
+"Water",g,92.47,51.78,12.02
+"Energy",kcal,19,11,2
+"Protein",g,2.60,1.46,0.34
+"Total lipid (fat)",g,0.20,0.11,0.03
+"Carbohydrate, by difference",g,3.14,1.76,0.41
+"Fiber, total dietary",g,2.1,1.2,0.3
+Minerals
+"Calcium, Ca",mg,77,43,10
+"Iron, Fe",mg,1.67,0.94,0.22
+"Magnesium, Mg",mg,71,40,9
+"Phosphorus, P",mg,39,22,5
+"Potassium, K",mg,312,175,41
+"Sodium, Na",mg,113,63,15
+"Zinc, Zn",mg,0.18,0.10,0.02
+Vitamins
+"Vitamin C, total ascorbic acid",mg,55.0,30.8,7.2
+"Thiamin",mg,0.030,0.017,0.004
+"Riboflavin",mg,0.100,0.056,0.013
+"Niacin",mg,0.900,0.504,0.117
+"Vitamin B-6",mg,0.096,0.054,0.012
+"Folate, DFE",µg,57,32,7
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,315,176,41
+"Vitamin A, IU",IU,6300,3528,819
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

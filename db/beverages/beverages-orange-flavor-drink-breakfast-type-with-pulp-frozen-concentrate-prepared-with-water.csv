@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:23 EST
+"Nutrient data for: 14425, Beverages, Orange-flavor drink, breakfast type, with pulp, frozen concentrate, prepared with water"
+Nutrient,Unit,1Value per 100 g,"1 fl oz = 31.0g","8.0 fl oz = 248.0g",
+Proximates
+"Water",g,87.18,27.03,216.21
+"Energy",kcal,49,15,122
+"Protein",g,0.03,0.01,0.07
+"Total lipid (fat)",g,0.14,0.04,0.35
+"Carbohydrate, by difference",g,12.21,3.79,30.28
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,11.91,3.69,29.54
+Minerals
+"Calcium, Ca",mg,39,12,97
+"Iron, Fe",mg,0.08,0.02,0.20
+"Magnesium, Mg",mg,1,0,2
+"Phosphorus, P",mg,22,7,55
+"Potassium, K",mg,124,38,308
+"Sodium, Na",mg,10,3,25
+"Zinc, Zn",mg,0.02,0.01,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,69.2,21.5,171.6
+"Thiamin",mg,0.120,0.037,0.298
+"Riboflavin",mg,0.038,0.012,0.094
+"Niacin",mg,0.000,0.000,0.000
+"Vitamin B-6",mg,0.000,0.000,0.000
+"Folate, DFE",µg,9,3,22
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.022,0.007,0.055
+"Fatty acids, total monounsaturated",g,0.064,0.020,0.159
+"Fatty acids, total polyunsaturated",g,0.056,0.017,0.139
+"Fatty acids, total trans",g,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:06 EST
+"Nutrient data for: 01033, Cheese, parmesan, hard"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cubic inch = 10.3g","5.0 package (5 oz) = 142.0g",
+Proximates
+"Water",g,29.16,8.27,3.00,41.41
+"Energy",kcal,392,111,40,557
+"Protein",g,35.75,10.14,3.68,50.77
+"Total lipid (fat)",g,25.83,7.32,2.66,36.68
+"Carbohydrate, by difference",g,3.22,0.91,0.33,4.57
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.80,0.23,0.08,1.14
+Minerals
+"Calcium, Ca",mg,1184,336,122,1681
+"Iron, Fe",mg,0.82,0.23,0.08,1.16
+"Magnesium, Mg",mg,44,12,5,62
+"Phosphorus, P",mg,694,197,71,985
+"Potassium, K",mg,92,26,9,131
+"Sodium, Na",mg,1376,390,142,1954
+"Zinc, Zn",mg,2.75,0.78,0.28,3.90
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.039,0.011,0.004,0.055
+"Riboflavin",mg,0.332,0.094,0.034,0.471
+"Niacin",mg,0.271,0.077,0.028,0.385
+"Vitamin B-6",mg,0.091,0.026,0.009,0.129
+"Folate, DFE",µg,7,2,1,10
+"Vitamin B-12",µg,1.20,0.34,0.12,1.70
+"Vitamin A, RAE",µg,207,59,21,294
+"Vitamin A, IU",IU,781,221,80,1109
+"Vitamin E (alpha-tocopherol)",mg,0.22,0.06,0.02,0.31
+"Vitamin D (D2 + D3)",µg,0.5,0.1,0.1,0.7
+"Vitamin D",IU,19,5,2,27
+"Vitamin K (phylloquinone)",µg,1.7,0.5,0.2,2.4
+Lipids
+"Fatty acids, total saturated",g,16.410,4.652,1.690,23.302
+"Fatty acids, total monounsaturated",g,7.515,2.131,0.774,10.671
+"Fatty acids, total polyunsaturated",g,0.569,0.161,0.059,0.808
+"Cholesterol",mg,68,19,7,97
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

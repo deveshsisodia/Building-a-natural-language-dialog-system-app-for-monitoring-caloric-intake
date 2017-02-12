@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:30 EST
+"Nutrient data for: 18025, Bread, cracked-wheat"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cubic inch = 3.2g","1 slice, large or thick = 30.0g","1 slice, regular = 25.0g","1 slice regular, crust not eaten = 12.2g","1 slice = 25.0g","1 slice, thin = 20.0g","1 slice thin, crust not eaten = 9.4g",
+Proximates
+"Water",g,35.80,10.15,1.15,10.74,8.95,4.37,8.95,7.16,3.37
+"Energy",kcal,260,74,8,78,65,32,65,52,24
+"Protein",g,8.70,2.47,0.28,2.61,2.17,1.06,2.17,1.74,0.82
+"Total lipid (fat)",g,3.90,1.11,0.12,1.17,0.97,0.48,0.97,0.78,0.37
+"Carbohydrate, by difference",g,49.50,14.03,1.58,14.85,12.38,6.04,12.38,9.90,4.65
+"Fiber, total dietary",g,5.5,1.6,0.2,1.6,1.4,0.7,1.4,1.1,0.5
+Minerals
+"Calcium, Ca",mg,43,12,1,13,11,5,11,9,4
+"Iron, Fe",mg,2.81,0.80,0.09,0.84,0.70,0.34,0.70,0.56,0.26
+"Magnesium, Mg",mg,52,15,2,16,13,6,13,10,5
+"Phosphorus, P",mg,153,43,5,46,38,19,38,31,14
+"Potassium, K",mg,177,50,6,53,44,22,44,35,17
+"Sodium, Na",mg,538,153,17,161,134,66,134,108,51
+"Zinc, Zn",mg,1.24,0.35,0.04,0.37,0.31,0.15,0.31,0.25,0.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.358,0.101,0.011,0.107,0.089,0.044,0.089,0.072,0.034
+"Riboflavin",mg,0.240,0.068,0.008,0.072,0.060,0.029,0.060,0.048,0.023
+"Niacin",mg,3.671,1.041,0.117,1.101,0.918,0.448,0.918,0.734,0.345
+"Vitamin B-6",mg,0.304,0.086,0.010,0.091,0.076,0.037,0.076,0.061,0.029
+"Folate, DFE",µg,76,22,2,23,19,9,19,15,7
+"Vitamin B-12",µg,0.02,0.01,0.00,0.01,0.01,0.00,0.01,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0,0,0,0,0
+Lipids
+"Fatty acids, total saturated",g,0.916,0.260,0.029,0.275,0.229,0.112,0.229,0.183,0.086
+"Fatty acids, total monounsaturated",g,1.902,0.539,0.061,0.571,0.475,0.232,0.475,0.380,0.179
+"Fatty acids, total polyunsaturated",g,0.682,0.193,0.022,0.205,0.171,0.083,0.171,0.136,0.064
+"Cholesterol",mg,0,0,0,0,0,0,0,0,0
+Amino Acids
+Other

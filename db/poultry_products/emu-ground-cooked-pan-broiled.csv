@@ -1,0 +1,42 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:37 EST
+"Nutrient data for: 05622, Emu, ground, cooked, pan-broiled"
+Nutrient,Unit,1Value per 100 g,"1 patty (yield from 135.8 g raw meat) = 109.0g","1 serving ( 3 oz ) = 85.0g",
+Proximates
+"Water",g,65.83,71.75,55.96
+"Energy",kcal,163,178,139
+"Protein",g,28.43,30.99,24.17
+"Total lipid (fat)",g,4.65,5.07,3.95
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,8,9,7
+"Iron, Fe",mg,5.01,5.46,4.26
+"Magnesium, Mg",mg,29,32,25
+"Phosphorus, P",mg,269,293,229
+"Potassium, K",mg,375,409,319
+"Sodium, Na",mg,65,71,55
+"Zinc, Zn",mg,4.56,4.97,3.88
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.318,0.347,0.270
+"Riboflavin",mg,0.545,0.594,0.463
+"Niacin",mg,8.925,9.728,7.586
+"Vitamin B-6",mg,0.833,0.908,0.708
+"Folate, DFE",µg,9,10,8
+"Vitamin B-12",µg,8.52,9.29,7.24
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.24,0.26,0.20
+"Vitamin K (phylloquinone)",µg,3.6,3.9,3.1
+Lipids
+"Fatty acids, total saturated",g,1.242,1.354,1.056
+"Fatty acids, total monounsaturated",g,1.953,2.129,1.660
+"Fatty acids, total polyunsaturated",g,0.677,0.738,0.575
+"Fatty acids, total trans",g,0.153,0.167,0.130
+"Cholesterol",mg,87,95,74
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:59 EST
+"Nutrient data for: 16088, Peanuts, all types, cooked, boiled, with salt"
+Nutrient,Unit,1Value per 100 g,"1 cup in shell, edible yield = 63.0g","1 cup, shelled = 180.0g","1 oz shelled = 28.35g","33.0 nuts = 28.0g",
+Proximates
+"Water",g,41.78,26.32,75.20,11.84,11.70
+"Energy",kcal,318,200,572,90,89
+"Protein",g,13.50,8.51,24.30,3.83,3.78
+"Total lipid (fat)",g,22.01,13.87,39.62,6.24,6.16
+"Carbohydrate, by difference",g,21.26,13.39,38.27,6.03,5.95
+"Fiber, total dietary",g,8.8,5.5,15.8,2.5,2.5
+"Sugars, total",g,2.47,1.56,4.45,0.70,0.69
+Minerals
+"Calcium, Ca",mg,55,35,99,16,15
+"Iron, Fe",mg,1.01,0.64,1.82,0.29,0.28
+"Magnesium, Mg",mg,102,64,184,29,29
+"Phosphorus, P",mg,198,125,356,56,55
+"Potassium, K",mg,180,113,324,51,50
+"Sodium, Na",mg,751,473,1352,213,210
+"Zinc, Zn",mg,1.83,1.15,3.29,0.52,0.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.259,0.163,0.466,0.073,0.073
+"Riboflavin",mg,0.063,0.040,0.113,0.018,0.018
+"Niacin",mg,5.259,3.313,9.466,1.491,1.473
+"Vitamin B-6",mg,0.152,0.096,0.274,0.043,0.043
+"Folate, DFE",µg,75,47,135,21,21
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,4.10,2.58,7.38,1.16,1.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,3.055,1.925,5.499,0.866,0.855
+"Fatty acids, total monounsaturated",g,10.921,6.880,19.658,3.096,3.058
+"Fatty acids, total polyunsaturated",g,6.956,4.382,12.521,1.972,1.948
+"Fatty acids, total trans",g,0.000,0.000,0.000,0.000,0.000
+"Cholesterol",mg,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0

@@ -1,0 +1,33 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:40 EST
+"Nutrient data for: 28141, KEEBLER, TOWN HOUSE, FLIPSIDES, Pretzel Crackers, Original"
+Nutrient,Unit,1Value per 100 g,"5.0 crackers = 15.0g",
+Proximates
+"Water",g,2.50,0.38
+"Energy",kcal,487,73
+"Protein",g,6.60,0.99
+"Total lipid (fat)",g,23.10,3.46
+"Carbohydrate, by difference",g,64.30,9.64
+"Fiber, total dietary",g,2.1,0.3
+"Sugars, total",g,6.80,1.02
+Minerals
+"Iron, Fe",mg,3.90,0.58
+"Magnesium, Mg",mg,15,2
+"Phosphorus, P",mg,268,40
+"Potassium, K",mg,99,15
+"Sodium, Na",mg,1240,186
+"Zinc, Zn",mg,0.70,0.10
+Vitamins
+"Thiamin",mg,0.550,0.083
+"Riboflavin",mg,0.330,0.050
+"Niacin",mg,4.400,0.660
+"Vitamin B-6",mg,0.030,0.004
+Lipids
+"Fatty acids, total saturated",g,3.800,0.570
+"Fatty acids, total monounsaturated",g,5.600,0.840
+"Fatty acids, total polyunsaturated",g,13.200,1.980
+"Fatty acids, total trans",g,0.220,0.033
+"Cholesterol",mg,0,0
+Amino Acids
+Other

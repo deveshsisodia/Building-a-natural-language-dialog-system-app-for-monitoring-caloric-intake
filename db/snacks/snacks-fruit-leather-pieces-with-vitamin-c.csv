@@ -1,0 +1,35 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:53 EST
+"Nutrient data for: 19274, Snacks, fruit leather, pieces, with vitamin C"
+Nutrient,Unit,1Value per 100 g,"1 serving = 21.0g","1 packet = 14.2g",
+Proximates
+"Water",g,10.20,2.14,1.45
+"Energy",kcal,373,78,53
+"Protein",g,0.10,0.02,0.01
+"Total lipid (fat)",g,3.50,0.73,0.50
+"Carbohydrate, by difference",g,85.20,17.89,12.10
+"Fiber, total dietary",g,3.5,0.7,0.5
+Minerals
+"Calcium, Ca",mg,18,4,3
+"Iron, Fe",mg,0.75,0.16,0.11
+"Magnesium, Mg",mg,14,3,2
+"Phosphorus, P",mg,24,5,3
+"Potassium, K",mg,164,34,23
+"Sodium, Na",mg,317,67,45
+"Zinc, Zn",mg,0.19,0.04,0.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,120.0,25.2,17.0
+"Thiamin",mg,0.043,0.009,0.006
+"Riboflavin",mg,0.100,0.021,0.014
+"Niacin",mg,0.100,0.021,0.014
+"Vitamin B-6",mg,0.300,0.063,0.043
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, IU",IU,116,24,16
+Lipids
+"Fatty acids, total saturated",g,0.990,0.208,0.141
+"Fatty acids, total monounsaturated",g,1.724,0.362,0.245
+"Fatty acids, total polyunsaturated",g,0.093,0.020,0.013
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

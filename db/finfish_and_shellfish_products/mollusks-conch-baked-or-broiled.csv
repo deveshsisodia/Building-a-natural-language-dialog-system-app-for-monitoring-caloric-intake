@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:07 EST
+"Nutrient data for: 15250, Mollusks, conch, baked or broiled"
+Nutrient,Unit,1Value per 100 g,"1 cup, sliced = 127.0g","1 oz cooked, yield = 17.0g",
+Proximates
+"Water",g,69.40,88.14,11.80
+"Energy",kcal,130,165,22
+"Protein",g,26.30,33.40,4.47
+"Total lipid (fat)",g,1.20,1.52,0.20
+"Carbohydrate, by difference",g,1.70,2.16,0.29
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,98,124,17
+"Iron, Fe",mg,1.41,1.79,0.24
+"Magnesium, Mg",mg,238,302,40
+"Phosphorus, P",mg,217,276,37
+"Potassium, K",mg,163,207,28
+"Sodium, Na",mg,153,194,26
+"Zinc, Zn",mg,1.71,2.17,0.29
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.060,0.076,0.010
+"Riboflavin",mg,0.080,0.102,0.014
+"Niacin",mg,1.040,1.321,0.177
+"Vitamin B-6",mg,0.060,0.076,0.010
+"Folate, DFE",µg,179,227,30
+"Vitamin B-12",µg,5.25,6.67,0.89
+"Vitamin A, RAE",µg,7,9,1
+"Vitamin A, IU",IU,23,29,4
+"Vitamin E (alpha-tocopherol)",mg,6.33,8.04,1.08
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,0.2,0.3,0.0
+Lipids
+"Fatty acids, total saturated",g,0.370,0.470,0.063
+"Fatty acids, total monounsaturated",g,0.334,0.424,0.057
+"Fatty acids, total polyunsaturated",g,0.274,0.348,0.047
+"Cholesterol",mg,65,83,11
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:09 EST
+"Nutrient data for: 42117, Imitation cheese, american or cheddar, low cholesterol"
+Nutrient,Unit,1Value per 100 g,"1 cup, shredded = 113.0g","1 cubic inch = 18.0g",
+Proximates
+"Water",g,38.00,42.94,6.84
+"Energy",kcal,390,441,70
+"Protein",g,25.00,28.25,4.50
+"Total lipid (fat)",g,32.00,36.16,5.76
+"Carbohydrate, by difference",g,1.00,1.13,0.18
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,1.00,1.13,0.18
+Minerals
+"Calcium, Ca",mg,705,797,127
+"Iron, Fe",mg,0.70,0.79,0.13
+"Magnesium, Mg",mg,30,34,5
+"Phosphorus, P",mg,530,599,95
+"Potassium, K",mg,55,62,10
+"Sodium, Na",mg,670,757,121
+"Zinc, Zn",mg,3.00,3.39,0.54
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.030,0.034,0.005
+"Riboflavin",mg,0.360,0.407,0.065
+"Niacin",mg,0.080,0.090,0.014
+"Vitamin B-6",mg,0.070,0.079,0.013
+"Folate, DFE",µg,18,20,3
+"Vitamin B-12",µg,0.83,0.94,0.15
+"Vitamin A, RAE",µg,115,130,21
+"Vitamin A, IU",IU,423,478,76
+"Vitamin E (alpha-tocopherol)",mg,0.28,0.32,0.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,2.7,3.1,0.5
+Lipids
+"Fatty acids, total saturated",g,5.815,6.571,1.047
+"Fatty acids, total monounsaturated",g,14.127,15.964,2.543
+"Fatty acids, total polyunsaturated",g,10.615,11.995,1.911
+"Cholesterol",mg,15,17,3
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

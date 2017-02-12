@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:47 EST
+"Nutrient data for: 03121, Babyfood, vegetables, peas, strained"
+Nutrient,Unit,1Value per 100 g,"1 tbsp = 16.0g","1 oz = 28.35g","1 jar = 95.0g","1 cup = 240.0g","1 container = 91.0g",
+Proximates
+"Water",g,87.52,14.00,24.81,83.14,210.05,79.64
+"Energy",kcal,50,8,14,48,120,46
+"Protein",g,3.27,0.52,0.93,3.11,7.85,2.98
+"Total lipid (fat)",g,0.43,0.07,0.12,0.41,1.03,0.39
+"Carbohydrate, by difference",g,8.36,1.34,2.37,7.94,20.06,7.61
+"Fiber, total dietary",g,2.0,0.3,0.6,1.9,4.8,1.8
+"Sugars, total",g,2.01,0.32,0.57,1.91,4.82,1.83
+Minerals
+"Calcium, Ca",mg,18,3,5,17,43,16
+"Iron, Fe",mg,0.95,0.15,0.27,0.90,2.28,0.86
+"Magnesium, Mg",mg,17,3,5,16,41,15
+"Phosphorus, P",mg,50,8,14,48,120,46
+"Potassium, K",mg,106,17,30,101,254,96
+"Sodium, Na",mg,5,1,1,5,12,5
+"Zinc, Zn",mg,0.47,0.08,0.13,0.45,1.13,0.43
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.6,0.1,0.2,0.6,1.4,0.5
+"Thiamin",mg,0.087,0.014,0.025,0.083,0.209,0.079
+"Riboflavin",mg,0.065,0.010,0.018,0.062,0.156,0.059
+"Niacin",mg,1.119,0.179,0.317,1.063,2.686,1.018
+"Vitamin B-6",mg,0.016,0.003,0.005,0.015,0.038,0.015
+"Folate, DFE",µg,28,4,8,27,67,25
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,11,2,3,10,26,10
+"Vitamin A, IU",IU,216,35,61,205,518,197
+"Vitamin E (alpha-tocopherol)",mg,0.02,0.00,0.01,0.02,0.05,0.02
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0,0,0
+"Vitamin K (phylloquinone)",µg,15.5,2.5,4.4,14.7,37.2,14.1
+Lipids
+"Fatty acids, total saturated",g,0.070,0.011,0.020,0.067,0.168,0.064
+"Fatty acids, total monounsaturated",g,0.050,0.008,0.014,0.048,0.120,0.045
+"Fatty acids, total polyunsaturated",g,0.200,0.032,0.057,0.190,0.480,0.182
+"Cholesterol",mg,0,0,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

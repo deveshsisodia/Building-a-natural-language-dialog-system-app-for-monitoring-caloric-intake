@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:06 EST
+"Nutrient data for: 15160, Mollusks, clam, mixed species, canned, drained solids"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 cup = 160.0g",
+Proximates
+"Water",g,65.26,55.47,104.42
+"Energy",kcal,142,121,227
+"Protein",g,24.25,20.61,38.80
+"Total lipid (fat)",g,1.59,1.35,2.54
+"Carbohydrate, by difference",g,5.90,5.02,9.44
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,65,55,104
+"Iron, Fe",mg,2.68,2.28,4.29
+"Magnesium, Mg",mg,32,27,51
+"Phosphorus, P",mg,327,278,523
+"Potassium, K",mg,628,534,1005
+"Sodium, Na",mg,112,95,179
+"Zinc, Zn",mg,0.84,0.71,1.34
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.024,0.020,0.038
+"Riboflavin",mg,0.066,0.056,0.106
+"Niacin",mg,0.578,0.491,0.925
+"Vitamin B-6",mg,0.016,0.014,0.026
+"Folate, DFE",µg,7,6,11
+"Vitamin B-12",µg,18.63,15.84,29.81
+"Vitamin A, RAE",µg,149,127,238
+"Vitamin A, IU",IU,496,422,794
+"Vitamin E (alpha-tocopherol)",mg,1.12,0.95,1.79
+"Vitamin D (D2 + D3)",µg,0.1,0.1,0.2
+"Vitamin D",IU,2,2,3
+"Vitamin K (phylloquinone)",µg,0.3,0.3,0.5
+Lipids
+"Fatty acids, total saturated",g,0.309,0.263,0.494
+"Fatty acids, total monounsaturated",g,0.198,0.168,0.317
+"Fatty acids, total polyunsaturated",g,0.318,0.270,0.509
+"Fatty acids, total trans",g,0.024,0.020,0.038
+"Cholesterol",mg,50,42,80
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

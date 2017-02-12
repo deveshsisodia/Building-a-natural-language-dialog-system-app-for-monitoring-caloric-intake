@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:35 EST
+"Nutrient data for: 42196, Candies, MARS SNACKFOOD US, MILKY WAY Midnight Bar"
+Nutrient,Unit,1Value per 100 g,"1 serving 1.76 oz bar = 50.0g","1 bar fun size = 19.0g","1 serving 5 miniatures = 41.0g",
+Proximates
+"Water",g,7.20,3.60,1.37,2.95
+"Energy",kcal,443,222,84,182
+"Protein",g,3.20,1.60,0.61,1.31
+"Total lipid (fat)",g,17.50,8.75,3.33,7.17
+"Carbohydrate, by difference",g,71.22,35.61,13.53,29.20
+"Fiber, total dietary",g,2.9,1.4,0.6,1.2
+"Sugars, total",g,57.81,28.91,10.98,23.70
+Minerals
+"Calcium, Ca",mg,53,26,10,22
+"Iron, Fe",mg,1.20,0.60,0.23,0.49
+"Magnesium, Mg",mg,58,29,11,24
+"Phosphorus, P",mg,75,38,14,31
+"Potassium, K",mg,196,98,37,80
+"Sodium, Na",mg,168,84,32,69
+"Zinc, Zn",mg,0.89,0.45,0.17,0.36
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1,0.0,0.1
+"Thiamin",mg,0.037,0.018,0.007,0.015
+"Riboflavin",mg,0.063,0.032,0.012,0.026
+"Niacin",mg,0.218,0.109,0.041,0.089
+"Vitamin B-6",mg,0.020,0.010,0.004,0.008
+"Folate, DFE",µg,7,4,1,3
+"Vitamin B-12",µg,0.04,0.02,0.01,0.02
+"Vitamin A, RAE",µg,42,21,8,17
+"Vitamin A, IU",IU,155,78,29,64
+"Vitamin E (alpha-tocopherol)",mg,0.39,0.20,0.07,0.16
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,3.5,1.8,0.7,1.4
+Lipids
+"Fatty acids, total saturated",g,11.474,5.737,2.180,4.704
+"Fatty acids, total monounsaturated",g,4.639,2.320,0.881,1.902
+"Fatty acids, total polyunsaturated",g,0.514,0.257,0.098,0.211
+"Fatty acids, total trans",g,0.176,0.088,0.033,0.072
+"Cholesterol",mg,10,5,2,4
+Amino Acids
+Other
+"Caffeine",mg,30,15,6,12

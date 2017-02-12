@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:15 EST
+"Nutrient data for: 11004, Amaranth leaves, cooked, boiled, drained, without salt"
+Nutrient,Unit,1Value per 100 g,"1 cup = 132.0g",
+Proximates
+"Water",g,91.49,120.77
+"Energy",kcal,21,28
+"Protein",g,2.11,2.79
+"Total lipid (fat)",g,0.18,0.24
+"Carbohydrate, by difference",g,4.11,5.43
+Minerals
+"Calcium, Ca",mg,209,276
+"Iron, Fe",mg,2.26,2.98
+"Magnesium, Mg",mg,55,73
+"Phosphorus, P",mg,72,95
+"Potassium, K",mg,641,846
+"Sodium, Na",mg,21,28
+"Zinc, Zn",mg,0.88,1.16
+Vitamins
+"Vitamin C, total ascorbic acid",mg,41.1,54.3
+"Thiamin",mg,0.020,0.026
+"Riboflavin",mg,0.134,0.177
+"Niacin",mg,0.559,0.738
+"Vitamin B-6",mg,0.177,0.234
+"Folate, DFE",µg,57,75
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,139,183
+"Vitamin A, IU",IU,2770,3656
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.050,0.066
+"Fatty acids, total monounsaturated",g,0.041,0.054
+"Fatty acids, total polyunsaturated",g,0.080,0.106
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other

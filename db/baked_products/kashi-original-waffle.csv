@@ -1,0 +1,41 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:38 EST
+"Nutrient data for: 18980, KASHI, Original Waffle"
+Nutrient,Unit,1Value per 100 g,"2.0 pieces = 72.0g",
+Proximates
+"Water",g,47.70,34.34
+"Energy",kcal,197,142
+"Protein",g,6.00,4.32
+"Total lipid (fat)",g,7.40,5.33
+"Carbohydrate, by difference",g,35.40,25.49
+"Fiber, total dietary",g,9.3,6.7
+"Sugars, total",g,4.20,3.02
+Minerals
+"Calcium, Ca",mg,53,38
+"Iron, Fe",mg,2.00,1.44
+"Magnesium, Mg",mg,39,28
+"Phosphorus, P",mg,381,274
+"Potassium, K",mg,177,127
+"Sodium, Na",mg,479,345
+"Zinc, Zn",mg,1.10,0.79
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.160,0.115
+"Riboflavin",mg,0.050,0.036
+"Niacin",mg,1.700,1.224
+"Vitamin B-6",mg,0.030,0.022
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,0,0
+"Vitamin A, IU",IU,5,4
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,0.700,0.504
+"Fatty acids, total monounsaturated",g,3.500,2.520
+"Fatty acids, total polyunsaturated",g,2.400,1.728
+"Fatty acids, total trans",g,0.100,0.072
+"Cholesterol",mg,0,0
+Amino Acids
+Other

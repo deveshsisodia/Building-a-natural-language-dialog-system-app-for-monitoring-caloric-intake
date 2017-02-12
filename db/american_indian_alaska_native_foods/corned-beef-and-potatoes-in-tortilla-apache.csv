@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:28 EST
+"Nutrient data for: 35186, Corned beef and potatoes in tortilla (Apache)"
+Nutrient,Unit,1Value per 100 g,
+Proximates
+"Water",g,52.51,
+"Energy",kcal,224,
+"Protein",g,7.91,
+"Total lipid (fat)",g,8.31,
+"Carbohydrate, by difference",g,29.35,
+"Fiber, total dietary",g,1.5,
+"Sugars, total",g,1.79,
+Minerals
+"Calcium, Ca",mg,27,
+"Iron, Fe",mg,1.80,
+"Magnesium, Mg",mg,22,
+"Phosphorus, P",mg,82,
+"Potassium, K",mg,275,
+"Sodium, Na",mg,511,
+"Zinc, Zn",mg,0.88,
+Vitamins
+"Thiamin",mg,0.277,
+"Riboflavin",mg,0.135,
+"Niacin",mg,2.545,
+"Vitamin B-6",mg,0.214,
+"Vitamin B-12",µg,0.23,
+"Vitamin E (alpha-tocopherol)",mg,0.20,
+"Vitamin K (phylloquinone)",µg,3.1,
+Lipids
+"Fatty acids, total saturated",g,3.366,
+"Fatty acids, total monounsaturated",g,3.345,
+"Fatty acids, total polyunsaturated",g,0.864,
+"Cholesterol",mg,11,
+Amino Acids
+Other

@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:33 EST
+"Nutrient data for: 18106, Coffeecake, fruit"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece (1/8 cake) = 50.0g",
+Proximates
+"Water",g,31.70,8.99,15.85
+"Energy",kcal,311,88,156
+"Protein",g,5.20,1.47,2.60
+"Total lipid (fat)",g,10.20,2.89,5.10
+"Carbohydrate, by difference",g,51.50,14.60,25.75
+"Fiber, total dietary",g,2.5,0.7,1.2
+Minerals
+"Calcium, Ca",mg,45,13,22
+"Iron, Fe",mg,2.43,0.69,1.22
+"Magnesium, Mg",mg,17,5,8
+"Phosphorus, P",mg,118,33,59
+"Potassium, K",mg,90,26,45
+"Sodium, Na",mg,385,109,192
+"Zinc, Zn",mg,0.65,0.18,0.33
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.8,0.2,0.4
+"Thiamin",mg,0.037,0.010,0.018
+"Riboflavin",mg,0.190,0.054,0.095
+"Niacin",mg,2.573,0.729,1.286
+"Vitamin B-6",mg,0.037,0.010,0.018
+"Folate, DFE",µg,67,19,34
+"Vitamin B-12",µg,0.02,0.01,0.01
+"Vitamin A, RAE",µg,7,2,4
+"Vitamin A, IU",IU,140,40,70
+Lipids
+"Fatty acids, total saturated",g,2.495,0.707,1.248
+"Fatty acids, total monounsaturated",g,5.557,1.575,2.779
+"Fatty acids, total polyunsaturated",g,1.473,0.418,0.737
+"Cholesterol",mg,7,2,4
+Amino Acids
+Other

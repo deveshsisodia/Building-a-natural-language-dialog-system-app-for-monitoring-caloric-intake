@@ -1,0 +1,38 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:01 EST
+"Nutrient data for: 17075, Lamb, New Zealand, imported, frozen, leg, whole (shank and sirloin), separable lean only, cooked, roasted"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse) = 218.0g",
+Proximates
+"Water",g,63.92,54.33,139.35
+"Energy",kcal,181,154,395
+"Protein",g,27.68,23.53,60.34
+"Total lipid (fat)",g,7.01,5.96,15.28
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,7,6,15
+"Iron, Fe",mg,2.24,1.90,4.88
+"Magnesium, Mg",mg,21,18,46
+"Phosphorus, P",mg,234,199,510
+"Potassium, K",mg,183,156,399
+"Sodium, Na",mg,45,38,98
+"Zinc, Zn",mg,4.04,3.43,8.81
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.120,0.102,0.262
+"Riboflavin",mg,0.500,0.425,1.090
+"Niacin",mg,7.510,6.384,16.372
+"Vitamin B-6",mg,0.140,0.119,0.305
+"Folate, DFE",µg,0,0,0
+"Vitamin B-12",µg,2.63,2.24,5.73
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.18,0.15,0.39
+Lipids
+"Fatty acids, total saturated",g,3.050,2.592,6.649
+"Fatty acids, total monounsaturated",g,2.750,2.337,5.995
+"Fatty acids, total polyunsaturated",g,0.410,0.349,0.894
+"Cholesterol",mg,100,85,218
+Amino Acids
+Other

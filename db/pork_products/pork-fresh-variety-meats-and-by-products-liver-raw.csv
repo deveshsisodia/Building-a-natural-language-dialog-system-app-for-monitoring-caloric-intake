@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:49 EST
+"Nutrient data for: 10110, Pork, fresh, variety meats and by-products, liver, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","4.0 oz = 113.0g",
+Proximates
+"Water",g,71.06,20.15,80.30
+"Energy",kcal,134,38,151
+"Protein",g,21.39,6.06,24.17
+"Total lipid (fat)",g,3.65,1.03,4.12
+"Carbohydrate, by difference",g,2.47,0.70,2.79
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,9,3,10
+"Iron, Fe",mg,23.30,6.61,26.33
+"Magnesium, Mg",mg,18,5,20
+"Phosphorus, P",mg,288,82,325
+"Potassium, K",mg,273,77,308
+"Sodium, Na",mg,87,25,98
+"Zinc, Zn",mg,5.76,1.63,6.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,25.3,7.2,28.6
+"Thiamin",mg,0.283,0.080,0.320
+"Riboflavin",mg,3.005,0.852,3.396
+"Niacin",mg,15.301,4.338,17.290
+"Vitamin B-6",mg,0.690,0.196,0.780
+"Folate, DFE",µg,212,60,240
+"Vitamin B-12",µg,26.00,7.37,29.38
+"Vitamin A, RAE",µg,6502,1843,7347
+"Vitamin A, IU",IU,21650,6138,24464
+Lipids
+"Fatty acids, total saturated",g,1.170,0.332,1.322
+"Fatty acids, total monounsaturated",g,0.520,0.147,0.588
+"Fatty acids, total polyunsaturated",g,0.870,0.247,0.983
+"Cholesterol",mg,301,85,340
+Amino Acids
+Other

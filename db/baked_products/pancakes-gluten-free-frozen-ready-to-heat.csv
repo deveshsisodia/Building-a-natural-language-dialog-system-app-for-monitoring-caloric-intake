@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:43 EST
+"Nutrient data for: 28347, Pancakes, gluten-free, frozen, ready-to-heat"
+Nutrient,Unit,1Value per 100 g,"1 pancake = 48.0g","1 box = 352.0g",
+Proximates
+"Water",g,50.24,24.12,176.84
+"Energy",kcal,215,103,757
+"Protein",g,3.31,1.59,11.65
+"Total lipid (fat)",g,4.55,2.18,16.02
+"Carbohydrate, by difference",g,40.32,19.35,141.93
+"Fiber, total dietary",g,1.5,0.7,5.3
+"Sugars, total",g,4.06,1.95,14.29
+Minerals
+"Calcium, Ca",mg,39,19,137
+"Iron, Fe",mg,0.70,0.34,2.46
+"Magnesium, Mg",mg,34,16,120
+"Phosphorus, P",mg,306,147,1077
+"Potassium, K",mg,127,61,447
+"Sodium, Na",mg,331,159,1165
+"Zinc, Zn",mg,0.55,0.26,1.94
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.3,0.1,1.1
+"Thiamin",mg,0.070,0.034,0.246
+"Riboflavin",mg,0.040,0.019,0.141
+"Niacin",mg,1.550,0.744,5.456
+"Vitamin B-6",mg,0.075,0.036,0.264
+"Folate, DFE",µg,9,4,32
+"Vitamin B-12",µg,2.83,1.36,9.96
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,1,0,4
+"Vitamin E (alpha-tocopherol)",mg,0.42,0.20,1.48
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,4.3,2.1,15.1
+Lipids
+"Fatty acids, total saturated",g,0.480,0.230,1.690
+"Fatty acids, total monounsaturated",g,2.376,1.140,8.364
+"Fatty acids, total polyunsaturated",g,1.241,0.596,4.368
+"Fatty acids, total trans",g,0.013,0.006,0.046
+"Cholesterol",mg,12,6,42
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

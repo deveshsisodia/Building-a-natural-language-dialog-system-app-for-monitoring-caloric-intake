@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 19056, Snacks, tortilla chips, plain, white corn, salted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 bag = 213.0g",
+Proximates
+"Water",g,2.64,0.75,5.62
+"Energy",kcal,472,134,1005
+"Protein",g,7.10,2.01,15.12
+"Total lipid (fat)",g,20.68,5.86,44.05
+"Carbohydrate, by difference",g,67.78,19.22,144.37
+"Fiber, total dietary",g,5.4,1.5,11.5
+"Sugars, total",g,0.78,0.22,1.66
+Minerals
+"Calcium, Ca",mg,106,30,226
+"Iron, Fe",mg,1.52,0.43,3.24
+"Magnesium, Mg",mg,84,24,179
+"Phosphorus, P",mg,225,64,479
+"Potassium, K",mg,182,52,388
+"Sodium, Na",mg,328,93,699
+"Zinc, Zn",mg,1.38,0.39,2.94
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.140,0.040,0.298
+"Riboflavin",mg,0.070,0.020,0.149
+"Niacin",mg,0.838,0.238,1.785
+"Vitamin B-6",mg,0.179,0.051,0.381
+"Folate, DFE",µg,12,3,26
+"Vitamin B-12",µg,0.36,0.10,0.77
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,4,1,9
+"Vitamin E (alpha-tocopherol)",mg,3.53,1.00,7.52
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,20.9,5.9,44.5
+Lipids
+"Fatty acids, total saturated",g,2.811,0.797,5.987
+"Fatty acids, total monounsaturated",g,5.664,1.606,12.064
+"Fatty acids, total polyunsaturated",g,10.769,3.053,22.938
+"Fatty acids, total trans",g,0.812,0.230,1.730
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

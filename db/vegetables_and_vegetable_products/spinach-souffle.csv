@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:29 EST
+"Nutrient data for: 11658, Spinach souffle"
+Nutrient,Unit,1Value per 100 g,"1 cup = 136.0g","1 recipe yield = 813.0g",
+Proximates
+"Water",g,70.73,96.19,575.03
+"Energy",kcal,172,234,1398
+"Protein",g,7.89,10.73,64.15
+"Total lipid (fat)",g,12.95,17.61,105.28
+"Carbohydrate, by difference",g,5.90,8.02,47.97
+"Fiber, total dietary",g,0.7,1.0,5.7
+"Sugars, total",g,1.85,2.52,15.04
+Minerals
+"Calcium, Ca",mg,165,224,1341
+"Iron, Fe",mg,1.19,1.62,9.67
+"Magnesium, Mg",mg,30,41,244
+"Phosphorus, P",mg,139,189,1130
+"Potassium, K",mg,231,314,1878
+"Sodium, Na",mg,566,770,4602
+"Zinc, Zn",mg,0.85,1.16,6.91
+Vitamins
+"Vitamin C, total ascorbic acid",mg,7.3,9.9,59.3
+"Thiamin",mg,0.082,0.112,0.667
+"Riboflavin",mg,0.263,0.358,2.138
+"Niacin",mg,0.479,0.651,3.894
+"Vitamin B-6",mg,0.098,0.133,0.797
+"Folate, DFE",µg,77,105,626
+"Vitamin B-12",µg,0.40,0.54,3.25
+"Vitamin A, RAE",µg,244,332,1984
+"Vitamin A, IU",IU,2891,3932,23504
+"Vitamin E (alpha-tocopherol)",mg,0.93,1.26,7.56
+"Vitamin D (D2 + D3)",µg,0.8,1.1,6.5
+"Vitamin D",IU,31,42,252
+"Vitamin K (phylloquinone)",µg,126.5,172.0,1028.4
+Lipids
+"Fatty acids, total saturated",g,6.091,8.284,49.520
+"Fatty acids, total monounsaturated",g,3.021,4.109,24.561
+"Fatty acids, total polyunsaturated",g,0.610,0.830,4.959
+"Fatty acids, total trans",g,0.188,0.256,1.528
+"Cholesterol",mg,118,160,959
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

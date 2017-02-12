@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:08 EST
+"Nutrient data for: 12119, Nuts, coconut water (liquid from coconuts)"
+Nutrient,Unit,1Value per 100 g,"1 cup = 240.0g","1 tbsp = 15.0g","1 coconut yields = 206.0g",
+Proximates
+"Water",g,94.99,227.98,14.25,195.68
+"Energy",kcal,19,46,3,39
+"Protein",g,0.72,1.73,0.11,1.48
+"Total lipid (fat)",g,0.20,0.48,0.03,0.41
+"Carbohydrate, by difference",g,3.71,8.90,0.56,7.64
+"Fiber, total dietary",g,1.1,2.6,0.2,2.3
+"Sugars, total",g,2.61,6.26,0.39,5.38
+Minerals
+"Calcium, Ca",mg,24,58,4,49
+"Iron, Fe",mg,0.29,0.70,0.04,0.60
+"Magnesium, Mg",mg,25,60,4,52
+"Phosphorus, P",mg,20,48,3,41
+"Potassium, K",mg,250,600,38,515
+"Sodium, Na",mg,105,252,16,216
+"Zinc, Zn",mg,0.10,0.24,0.01,0.21
+Vitamins
+"Vitamin C, total ascorbic acid",mg,2.4,5.8,0.4,4.9
+"Thiamin",mg,0.030,0.072,0.004,0.062
+"Riboflavin",mg,0.057,0.137,0.009,0.117
+"Niacin",mg,0.080,0.192,0.012,0.165
+"Vitamin B-6",mg,0.032,0.077,0.005,0.066
+"Folate, DFE",µg,3,7,0,6
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,0,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,0.0,0.0,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,0.176,0.422,0.026,0.363
+"Fatty acids, total monounsaturated",g,0.008,0.019,0.001,0.016
+"Fatty acids, total polyunsaturated",g,0.002,0.005,0.000,0.004
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:58 EST
+"Nutrient data for: 15039, Fish, herring, Atlantic, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz, boneless = 28.35g","1 fillet = 184.0g","3.0 oz = 85.0g",
+Proximates
+"Water",g,72.05,20.43,132.57,61.24
+"Energy",kcal,158,45,291,134
+"Protein",g,17.96,5.09,33.05,15.27
+"Total lipid (fat)",g,9.04,2.56,16.63,7.68
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,57,16,105,48
+"Iron, Fe",mg,1.10,0.31,2.02,0.94
+"Magnesium, Mg",mg,32,9,59,27
+"Phosphorus, P",mg,236,67,434,201
+"Potassium, K",mg,327,93,602,278
+"Sodium, Na",mg,90,26,166,76
+"Zinc, Zn",mg,0.99,0.28,1.82,0.84
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.2,1.3,0.6
+"Thiamin",mg,0.092,0.026,0.169,0.078
+"Riboflavin",mg,0.233,0.066,0.429,0.198
+"Niacin",mg,3.217,0.912,5.919,2.734
+"Vitamin B-6",mg,0.302,0.086,0.556,0.257
+"Folate, DFE",µg,10,3,18,8
+"Vitamin B-12",µg,13.67,3.88,25.15,11.62
+"Vitamin A, RAE",µg,28,8,52,24
+"Vitamin A, IU",IU,93,26,171,79
+"Vitamin E (alpha-tocopherol)",mg,1.07,0.30,1.97,0.91
+"Vitamin D (D2 + D3)",µg,4.2,1.2,7.7,3.6
+"Vitamin D",IU,167,47,307,142
+"Vitamin K (phylloquinone)",µg,0.1,0.0,0.2,0.1
+Lipids
+"Fatty acids, total saturated",g,2.040,0.578,3.754,1.734
+"Fatty acids, total monounsaturated",g,3.736,1.059,6.874,3.176
+"Fatty acids, total polyunsaturated",g,2.133,0.605,3.925,1.813
+"Cholesterol",mg,60,17,110,51
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

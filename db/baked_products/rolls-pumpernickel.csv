@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:45 EST
+"Nutrient data for: 43441, Rolls, pumpernickel"
+Nutrient,Unit,1Value per 100 g,"1 medium (2-1/2"" dia) = 36.0g","1 roll (pan, dinner, or small roll) (2"" square, 2"" high) = 28.0g",
+Proximates
+"Water",g,32.00,11.52,8.96
+"Energy",kcal,276,99,77
+"Protein",g,10.80,3.89,3.02
+"Total lipid (fat)",g,2.80,1.01,0.78
+"Carbohydrate, by difference",g,51.87,18.67,14.52
+"Fiber, total dietary",g,5.4,1.9,1.5
+"Sugars, total",g,0.40,0.14,0.11
+Minerals
+"Calcium, Ca",mg,67,24,19
+"Iron, Fe",mg,2.78,1.00,0.78
+"Magnesium, Mg",mg,54,19,15
+"Phosphorus, P",mg,171,62,48
+"Potassium, K",mg,208,75,58
+"Sodium, Na",mg,492,177,138
+"Zinc, Zn",mg,1.48,0.53,0.41
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.380,0.137,0.106
+"Riboflavin",mg,0.300,0.108,0.084
+"Niacin",mg,2.970,1.069,0.832
+"Vitamin B-6",mg,0.100,0.036,0.028
+"Folate, DFE",µg,125,45,35
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,6,2,2
+"Vitamin E (alpha-tocopherol)",mg,0.63,0.23,0.18
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+"Vitamin K (phylloquinone)",µg,1.5,0.5,0.4
+Lipids
+"Fatty acids, total saturated",g,0.495,0.178,0.139
+"Fatty acids, total monounsaturated",g,0.609,0.219,0.171
+"Fatty acids, total polyunsaturated",g,1.184,0.426,0.332
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

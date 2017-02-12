@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:34 EST
+"Nutrient data for: 18172, Cookies, gingersnaps"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 cookie = 7.0g","1 large (approx 3-1/2"" to 4"" dia) = 32.0g",
+Proximates
+"Water",g,5.30,1.50,0.37,1.70
+"Energy",kcal,416,118,29,133
+"Protein",g,5.60,1.59,0.39,1.79
+"Total lipid (fat)",g,9.80,2.78,0.69,3.14
+"Carbohydrate, by difference",g,76.90,21.80,5.38,24.61
+"Fiber, total dietary",g,2.2,0.6,0.2,0.7
+"Sugars, total",g,19.92,5.65,1.39,6.37
+Minerals
+"Calcium, Ca",mg,77,22,5,25
+"Iron, Fe",mg,6.40,1.81,0.45,2.05
+"Magnesium, Mg",mg,49,14,3,16
+"Phosphorus, P",mg,83,24,6,27
+"Potassium, K",mg,346,98,24,111
+"Sodium, Na",mg,501,142,35,160
+"Zinc, Zn",mg,0.55,0.16,0.04,0.18
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.200,0.057,0.014,0.064
+"Riboflavin",mg,0.293,0.083,0.021,0.094
+"Niacin",mg,3.235,0.917,0.226,1.035
+"Vitamin B-6",mg,0.098,0.028,0.007,0.031
+"Folate, DFE",µg,145,41,10,46
+"Vitamin B-12",µg,0.00,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0,0
+"Vitamin A, IU",IU,2,1,0,1
+"Vitamin E (alpha-tocopherol)",mg,0.97,0.27,0.07,0.31
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0,0
+"Vitamin K (phylloquinone)",µg,2.5,0.7,0.2,0.8
+Lipids
+"Fatty acids, total saturated",g,2.451,0.695,0.172,0.784
+"Fatty acids, total monounsaturated",g,5.365,1.521,0.376,1.717
+"Fatty acids, total polyunsaturated",g,1.372,0.389,0.096,0.439
+"Cholesterol",mg,0,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

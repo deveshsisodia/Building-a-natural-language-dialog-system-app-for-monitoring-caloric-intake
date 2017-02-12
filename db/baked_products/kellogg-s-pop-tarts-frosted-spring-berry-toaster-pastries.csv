@@ -1,0 +1,39 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:41 EST
+"Nutrient data for: 28172, KELLOGG'S, POP-TARTS, Frosted Spring Berry Toaster Pastries"
+Nutrient,Unit,1Value per 100 g,"1 pastry = 52.0g",
+Proximates
+"Water",g,12.75,6.63
+"Energy",kcal,390,203
+"Protein",g,4.00,2.08
+"Total lipid (fat)",g,9.60,4.99
+"Carbohydrate, by difference",g,72.30,37.60
+"Fiber, total dietary",g,1.3,0.7
+"Sugars, total",g,31.30,16.28
+Minerals
+"Iron, Fe",mg,3.50,1.82
+"Magnesium, Mg",mg,6,3
+"Phosphorus, P",mg,43,22
+"Potassium, K",mg,52,27
+"Sodium, Na",mg,321,167
+"Zinc, Zn",mg,0.30,0.16
+Vitamins
+"Thiamin",mg,0.290,0.151
+"Riboflavin",mg,0.330,0.172
+"Niacin",mg,3.800,1.976
+"Vitamin B-6",mg,0.380,0.198
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,289,150
+"Vitamin A, IU",IU,962,500
+"Vitamin E (alpha-tocopherol)",mg,0.00,0.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+Lipids
+"Fatty acids, total saturated",g,3.100,1.612
+"Fatty acids, total monounsaturated",g,2.100,1.092
+"Fatty acids, total polyunsaturated",g,3.600,1.872
+"Fatty acids, total trans",g,0.100,0.052
+"Cholesterol",mg,0,0
+Amino Acids
+Other

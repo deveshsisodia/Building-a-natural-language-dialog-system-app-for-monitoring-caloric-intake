@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:55 EST
+"Nutrient data for: 19833, Snacks, tortilla chips, low fat, unsalted"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g",
+Proximates
+"Water",g,1.70,0.48
+"Energy",kcal,416,118
+"Protein",g,11.00,3.12
+"Total lipid (fat)",g,5.70,1.62
+"Carbohydrate, by difference",g,80.10,22.71
+"Fiber, total dietary",g,5.3,1.5
+"Sugars, total",g,0.85,0.24
+Minerals
+"Calcium, Ca",mg,159,45
+"Iron, Fe",mg,1.60,0.45
+"Magnesium, Mg",mg,97,27
+"Phosphorus, P",mg,318,90
+"Potassium, K",mg,272,77
+"Sodium, Na",mg,15,4
+"Zinc, Zn",mg,1.15,0.33
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.2,0.1
+"Thiamin",mg,0.220,0.062
+"Riboflavin",mg,0.280,0.079
+"Niacin",mg,0.420,0.119
+"Vitamin B-6",mg,0.180,0.051
+"Folate, DFE",µg,16,5
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,4,1
+"Vitamin A, IU",IU,82,23
+"Vitamin E (alpha-tocopherol)",mg,3.53,1.00
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,20.9,5.9
+Lipids
+"Fatty acids, total saturated",g,0.850,0.241
+"Fatty acids, total monounsaturated",g,1.660,0.471
+"Fatty acids, total polyunsaturated",g,2.870,0.814
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

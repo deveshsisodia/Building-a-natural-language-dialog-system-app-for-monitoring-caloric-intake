@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:44 EST
+"Nutrient data for: 18446, Pie crust, standard-type, frozen, ready-to-bake, unenriched"
+Nutrient,Unit,1Value per 100 g,"1 crust, single 9"" = 142.0g","1 piece (1/8 of 9"" crust) = 16.0g",
+Proximates
+"Water",g,21.00,29.82,3.36
+"Energy",kcal,457,649,73
+"Protein",g,3.90,5.54,0.62
+"Total lipid (fat)",g,29.20,41.46,4.67
+"Carbohydrate, by difference",g,44.10,62.62,7.06
+"Fiber, total dietary",g,0.9,1.3,0.1
+Minerals
+"Calcium, Ca",mg,18,26,3
+"Iron, Fe",mg,0.38,0.54,0.06
+"Magnesium, Mg",mg,16,23,3
+"Phosphorus, P",mg,53,75,8
+"Potassium, K",mg,98,139,16
+"Sodium, Na",mg,576,818,92
+"Zinc, Zn",mg,0.30,0.43,0.05
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.050,0.071,0.008
+"Riboflavin",mg,0.010,0.014,0.002
+"Niacin",mg,0.550,0.781,0.088
+"Vitamin B-6",mg,0.071,0.101,0.011
+"Folate, DFE",µg,10,14,2
+"Vitamin B-12",µg,0.03,0.04,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,4.357,6.187,0.697
+"Fatty acids, total monounsaturated",g,12.414,17.628,1.986
+"Fatty acids, total polyunsaturated",g,11.000,15.620,1.760
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other

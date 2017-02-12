@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:21 EST
+"Nutrient data for: 11214, Escarole, cooked, boiled, drained, no salt added"
+Nutrient,Unit,1Value per 100 g,"1 cup = 150.0g",
+Proximates
+"Water",g,94.29,141.44
+"Energy",kcal,19,28
+"Protein",g,1.15,1.73
+"Total lipid (fat)",g,0.18,0.27
+"Carbohydrate, by difference",g,3.07,4.61
+"Fiber, total dietary",g,2.8,4.2
+"Sugars, total",g,0.23,0.34
+Minerals
+"Calcium, Ca",mg,46,69
+"Iron, Fe",mg,0.72,1.08
+"Magnesium, Mg",mg,13,20
+"Phosphorus, P",mg,22,33
+"Potassium, K",mg,245,368
+"Sodium, Na",mg,19,28
+"Zinc, Zn",mg,0.69,1.03
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.3,5.0
+"Thiamin",mg,0.059,0.088
+"Riboflavin",mg,0.062,0.093
+"Niacin",mg,0.312,0.468
+"Vitamin B-6",mg,0.016,0.024
+"Folate, DFE",µg,78,117
+"Vitamin B-12",µg,0.00,0.00
+"Vitamin A, RAE",µg,94,141
+"Vitamin A, IU",IU,1888,2832
+"Vitamin E (alpha-tocopherol)",mg,0.40,0.60
+"Vitamin D (D2 + D3)",µg,0.0,0.0
+"Vitamin D",IU,0,0
+"Vitamin K (phylloquinone)",µg,211.9,317.9
+Lipids
+"Fatty acids, total saturated",g,0.042,0.063
+"Fatty acids, total monounsaturated",g,0.004,0.006
+"Fatty acids, total polyunsaturated",g,0.081,0.121
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

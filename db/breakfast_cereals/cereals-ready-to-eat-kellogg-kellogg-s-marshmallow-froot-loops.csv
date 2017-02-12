@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:01 EST
+"Nutrient data for: 08376, Cereals ready-to-eat, KELLOGG, KELLOGG'S MARSHMALLOW FROOT LOOPS"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 29.0g",
+Proximates
+"Water",g,2.50,0.72
+"Energy",kcal,376,109
+"Protein",g,4.59,1.33
+"Total lipid (fat)",g,2.79,0.81
+"Carbohydrate, by difference",g,89.30,25.90
+"Fiber, total dietary",g,7.4,2.1
+"Sugars, total",g,49.90,14.47
+Minerals
+"Calcium, Ca",mg,9,3
+"Iron, Fe",mg,15.50,4.50
+"Magnesium, Mg",mg,25,7
+"Phosphorus, P",mg,65,19
+"Potassium, K",mg,95,28
+"Sodium, Na",mg,393,114
+"Zinc, Zn",mg,5.19,1.51
+Vitamins
+"Vitamin C, total ascorbic acid",mg,52.0,15.1
+"Thiamin",mg,1.280,0.371
+"Riboflavin",mg,1.470,0.426
+"Niacin",mg,17.200,4.988
+"Vitamin B-6",mg,1.720,0.499
+"Folate, DFE",µg,573,166
+"Vitamin B-12",µg,5.19,1.51
+"Vitamin A, RAE",µg,507,147
+"Vitamin A, IU",IU,1724,500
+"Vitamin E (alpha-tocopherol)",mg,0.30,0.09
+"Vitamin D (D2 + D3)",µg,3.5,1.0
+"Vitamin D",IU,138,40
+"Vitamin K (phylloquinone)",µg,0.6,0.2
+Lipids
+"Fatty acids, total saturated",g,1.500,0.435
+"Fatty acids, total monounsaturated",g,0.500,0.145
+"Fatty acids, total polyunsaturated",g,0.690,0.200
+"Fatty acids, total trans",g,0.000,0.000
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0

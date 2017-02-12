@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 21:34 EST
+"Nutrient data for: 23513, Beef, chuck, clod roast, separable lean only, trimmed to 1/4"" fat, all grades, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g",
+Proximates
+"Water",g,73.41,20.81,332.99
+"Energy",kcal,129,37,585
+"Protein",g,19.63,5.57,89.04
+"Total lipid (fat)",g,5.02,1.42,22.77
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,6,2,27
+"Iron, Fe",mg,2.35,0.67,10.66
+"Magnesium, Mg",mg,22,6,100
+"Phosphorus, P",mg,192,54,871
+"Potassium, K",mg,354,100,1606
+"Sodium, Na",mg,64,18,290
+"Zinc, Zn",mg,4.83,1.37,21.91
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.120,0.034,0.544
+"Riboflavin",mg,0.194,0.055,0.880
+"Niacin",mg,3.444,0.976,15.622
+"Vitamin B-6",mg,0.406,0.115,1.842
+"Folate, DFE",µg,7,2,32
+"Vitamin B-12",µg,3.21,0.91,14.56
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.13,0.04,0.59
+Lipids
+"Fatty acids, total saturated",g,1.414,0.401,6.414
+"Fatty acids, total monounsaturated",g,1.965,0.557,8.913
+"Fatty acids, total polyunsaturated",g,0.286,0.081,1.297
+"Cholesterol",mg,59,17,268
+Amino Acids
+Other
+"Caffeine",mg,0,0,0

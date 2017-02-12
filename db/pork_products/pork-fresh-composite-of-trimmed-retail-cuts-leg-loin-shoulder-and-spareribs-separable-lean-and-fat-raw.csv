@@ -1,0 +1,37 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:41 EST
+"Nutrient data for: 10187, Pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder, and spareribs), separable lean and fat, raw"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 lb = 453.6g",
+Proximates
+"Water",g,65.11,18.46,295.34
+"Energy",kcal,216,61,980
+"Protein",g,18.95,5.37,85.96
+"Total lipid (fat)",g,14.95,4.24,67.81
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+Minerals
+"Calcium, Ca",mg,19,5,86
+"Iron, Fe",mg,0.86,0.24,3.90
+"Magnesium, Mg",mg,21,6,95
+"Phosphorus, P",mg,200,57,907
+"Potassium, K",mg,335,95,1520
+"Sodium, Na",mg,55,16,249
+"Zinc, Zn",mg,2.01,0.57,9.12
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.5,0.1,2.3
+"Thiamin",mg,0.841,0.238,3.815
+"Riboflavin",mg,0.254,0.072,1.152
+"Niacin",mg,4.504,1.277,20.430
+"Vitamin B-6",mg,0.445,0.126,2.019
+"Folate, DFE",µg,5,1,23
+"Vitamin B-12",µg,0.66,0.19,2.99
+"Vitamin A, RAE",µg,2,1,9
+"Vitamin A, IU",IU,7,2,32
+Lipids
+"Fatty acids, total saturated",g,5.280,1.497,23.950
+"Fatty acids, total monounsaturated",g,6.630,1.880,30.074
+"Fatty acids, total polyunsaturated",g,1.550,0.439,7.031
+"Cholesterol",mg,67,19,304
+Amino Acids
+Other

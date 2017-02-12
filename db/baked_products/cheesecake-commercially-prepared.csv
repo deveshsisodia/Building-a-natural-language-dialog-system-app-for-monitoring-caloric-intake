@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:33 EST
+"Nutrient data for: 18147, Cheesecake commercially prepared"
+Nutrient,Unit,1Value per 100 g,"1 oz = 28.35g","1 piece (1/6 of 17 oz cake) = 80.0g","1 piece (1 NLEA serving) = 125.0g",
+Proximates
+"Water",g,45.60,12.93,36.48,57.00
+"Energy",kcal,321,91,257,401
+"Protein",g,5.50,1.56,4.40,6.88
+"Total lipid (fat)",g,22.50,6.38,18.00,28.12
+"Carbohydrate, by difference",g,25.50,7.23,20.40,31.88
+"Fiber, total dietary",g,0.4,0.1,0.3,0.5
+"Sugars, total",g,21.80,6.18,17.44,27.25
+Minerals
+"Calcium, Ca",mg,51,14,41,64
+"Iron, Fe",mg,0.63,0.18,0.50,0.79
+"Magnesium, Mg",mg,11,3,9,14
+"Phosphorus, P",mg,93,26,74,116
+"Potassium, K",mg,90,26,72,112
+"Sodium, Na",mg,438,124,350,548
+"Zinc, Zn",mg,0.51,0.14,0.41,0.64
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.1,0.3,0.5
+"Thiamin",mg,0.028,0.008,0.022,0.035
+"Riboflavin",mg,0.193,0.055,0.154,0.241
+"Niacin",mg,0.195,0.055,0.156,0.244
+"Vitamin B-6",mg,0.052,0.015,0.042,0.065
+"Folate, DFE",µg,20,6,16,25
+"Vitamin B-12",µg,0.17,0.05,0.14,0.21
+"Vitamin A, RAE",µg,159,45,127,199
+"Vitamin A, IU",IU,547,155,438,684
+"Vitamin E (alpha-tocopherol)",mg,0.56,0.16,0.45,0.70
+"Vitamin D (D2 + D3)",µg,0.5,0.1,0.4,0.6
+"Vitamin D",IU,18,5,14,22
+"Vitamin K (phylloquinone)",µg,4.4,1.2,3.5,5.5
+Lipids
+"Fatty acids, total saturated",g,9.921,2.813,7.937,12.401
+"Fatty acids, total monounsaturated",g,8.634,2.448,6.907,10.793
+"Fatty acids, total polyunsaturated",g,1.602,0.454,1.282,2.002
+"Cholesterol",mg,55,16,44,69
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0

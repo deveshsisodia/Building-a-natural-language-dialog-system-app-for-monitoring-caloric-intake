@@ -1,0 +1,46 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:20 EST
+"Nutrient data for: 11656, Corn pudding, home prepared"
+Nutrient,Unit,1Value per 100 g,"1 cup = 250.0g","0.667 cup (#6 scoop) = 167.0g",
+Proximates
+"Water",g,72.33,180.82,120.79
+"Energy",kcal,131,328,219
+"Protein",g,4.42,11.05,7.38
+"Total lipid (fat)",g,5.04,12.60,8.42
+"Carbohydrate, by difference",g,16.97,42.42,28.34
+"Fiber, total dietary",g,1.2,3.0,2.0
+"Sugars, total",g,6.59,16.48,11.01
+Minerals
+"Calcium, Ca",mg,39,98,65
+"Iron, Fe",mg,0.53,1.32,0.89
+"Magnesium, Mg",mg,15,38,25
+"Phosphorus, P",mg,90,225,150
+"Potassium, K",mg,176,440,294
+"Sodium, Na",mg,282,705,471
+"Zinc, Zn",mg,0.48,1.20,0.80
+Vitamins
+"Vitamin C, total ascorbic acid",mg,3.7,9.2,6.2
+"Thiamin",mg,0.069,0.172,0.115
+"Riboflavin",mg,0.154,0.385,0.257
+"Niacin",mg,1.033,2.583,1.725
+"Vitamin B-6",mg,0.127,0.318,0.212
+"Folate, DFE",µg,29,72,48
+"Vitamin B-12",µg,0.31,0.78,0.52
+"Vitamin A, RAE",µg,57,142,95
+"Vitamin A, IU",IU,296,740,494
+"Vitamin E (alpha-tocopherol)",mg,0.27,0.68,0.45
+"Vitamin D (D2 + D3)",µg,0.5,1.2,0.8
+"Vitamin D",IU,22,55,37
+"Vitamin K (phylloquinone)",µg,0.5,1.2,0.8
+Lipids
+"Fatty acids, total saturated",g,2.451,6.128,4.093
+"Fatty acids, total monounsaturated",g,1.499,3.748,2.503
+"Fatty acids, total polyunsaturated",g,0.550,1.375,0.919
+"Fatty acids, total trans",g,0.093,0.233,0.155
+"Cholesterol",mg,72,180,120
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Recipe:  Yellow corn, 55%; whole milk, 23%; egg, 14%; sugar, 4%; butter, 3%; salt, 1%; and pepper."

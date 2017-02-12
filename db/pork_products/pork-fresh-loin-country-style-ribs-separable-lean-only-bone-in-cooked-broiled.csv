@@ -1,0 +1,43 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:45 EST
+"Nutrient data for: 10986, Pork, fresh, loin, country-style ribs, separable lean only, bone-in, cooked, broiled"
+Nutrient,Unit,1Value per 100 g,"1 rack = 122.0g",
+Proximates
+"Water",g,59.98,73.18
+"Energy",kcal,216,264
+"Protein",g,27.83,33.95
+"Total lipid (fat)",g,11.65,14.21
+"Carbohydrate, by difference",g,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,0.00,0.00
+Minerals
+"Calcium, Ca",mg,61,74
+"Iron, Fe",mg,1.02,1.24
+"Magnesium, Mg",mg,24,29
+"Phosphorus, P",mg,284,346
+"Potassium, K",mg,370,451
+"Sodium, Na",mg,84,102
+"Zinc, Zn",mg,3.73,4.55
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0
+"Thiamin",mg,0.571,0.697
+"Riboflavin",mg,0.367,0.448
+"Niacin",mg,9.152,11.165
+"Vitamin B-6",mg,0.575,0.701
+"Folate, DFE",µg,0,0
+"Vitamin B-12",µg,0.73,0.89
+"Vitamin A, RAE",µg,3,4
+"Vitamin A, IU",IU,9,11
+"Vitamin E (alpha-tocopherol)",mg,0.26,0.32
+"Vitamin D (D2 + D3)",µg,1.1,1.3
+"Vitamin D",IU,44,54
+"Vitamin K (phylloquinone)",µg,0.0,0.0
+Lipids
+"Fatty acids, total saturated",g,3.096,3.777
+"Fatty acids, total monounsaturated",g,3.610,4.404
+"Fatty acids, total polyunsaturated",g,1.262,1.540
+"Cholesterol",mg,89,109
+Amino Acids
+Other
+"Caffeine",mg,0,0

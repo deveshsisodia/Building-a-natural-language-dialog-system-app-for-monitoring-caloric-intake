@@ -1,0 +1,45 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:50 EST
+"Nutrient data for: 03938, Infant formula, PBM PRODUCTS, store brand, powder"
+Nutrient,Unit,1Value per 100 g,"1 scoop = 8.4g",
+Proximates
+"Water",g,2.00,0.17
+"Energy",kcal,524,44
+"Protein",g,12.00,1.01
+"Total lipid (fat)",g,28.00,2.35
+"Carbohydrate, by difference",g,56.00,4.70
+"Fiber, total dietary",g,0.0,0.0
+"Sugars, total",g,56.00,4.70
+Minerals
+"Calcium, Ca",mg,331,28
+"Iron, Fe",mg,9.50,0.80
+"Magnesium, Mg",mg,36,3
+"Phosphorus, P",mg,221,19
+"Potassium, K",mg,441,37
+"Sodium, Na",mg,118,10
+"Zinc, Zn",mg,3.90,0.33
+Vitamins
+"Vitamin C, total ascorbic acid",mg,43.3,3.6
+"Thiamin",mg,0.530,0.045
+"Riboflavin",mg,0.790,0.066
+"Niacin",mg,3.940,0.331
+"Vitamin B-6",mg,0.330,0.028
+"Folate, DFE",µg,66,6
+"Vitamin B-12",µg,1.02,0.09
+"Vitamin A, RAE",µg,473,40
+"Vitamin A, IU",IU,1577,132
+"Vitamin E (alpha-tocopherol)",mg,3.38,0.28
+"Vitamin D (D2 + D3)",µg,7.6,0.6
+"Vitamin D",IU,303,25
+"Vitamin K (phylloquinone)",µg,43.0,3.6
+Lipids
+"Fatty acids, total saturated",g,12.761,1.072
+"Fatty acids, total monounsaturated",g,11.131,0.935
+"Fatty acids, total polyunsaturated",g,3.951,0.332
+"Cholesterol",mg,32,3
+Amino Acids
+Other
+"Caffeine",mg,0,0
+Footnotes
+(a)"Contain arachidonic acid(ARA nutrient number is 620) and Docosahexaenoic acid (DHA nutrient number is 621) fatty acids found inhuman breast milk"

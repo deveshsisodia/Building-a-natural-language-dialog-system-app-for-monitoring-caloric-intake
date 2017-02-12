@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 23:08 EST
+"Nutrient data for: 12131, Nuts, macadamia nuts, raw"
+Nutrient,Unit,1Value per 100 g,"1 cup, whole or halves = 134.0g","1 oz (10-12 kernels) = 28.35g",
+Proximates
+"Water",g,1.36,1.82,0.39
+"Energy",kcal,718,962,204
+"Protein",g,7.91,10.60,2.24
+"Total lipid (fat)",g,75.77,101.53,21.48
+"Carbohydrate, by difference",g,13.82,18.52,3.92
+"Fiber, total dietary",g,8.6,11.5,2.4
+"Sugars, total",g,4.57,6.12,1.30
+Minerals
+"Calcium, Ca",mg,85,114,24
+"Iron, Fe",mg,3.69,4.94,1.05
+"Magnesium, Mg",mg,130,174,37
+"Phosphorus, P",mg,188,252,53
+"Potassium, K",mg,368,493,104
+"Sodium, Na",mg,5,7,1
+"Zinc, Zn",mg,1.30,1.74,0.37
+Vitamins
+"Vitamin C, total ascorbic acid",mg,1.2,1.6,0.3
+"Thiamin",mg,1.195,1.601,0.339
+"Riboflavin",mg,0.162,0.217,0.046
+"Niacin",mg,2.473,3.314,0.701
+"Vitamin B-6",mg,0.275,0.368,0.078
+"Folate, DFE",µg,11,15,3
+"Vitamin B-12",µg,0.00,0.00,0.00
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.54,0.72,0.15
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0
+"Vitamin D",IU,0,0,0
+Lipids
+"Fatty acids, total saturated",g,12.061,16.162,3.419
+"Fatty acids, total monounsaturated",g,58.877,78.895,16.692
+"Fatty acids, total polyunsaturated",g,1.502,2.013,0.426
+"Cholesterol",mg,0,0,0
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
+Footnotes
+(a)"Unroasted"

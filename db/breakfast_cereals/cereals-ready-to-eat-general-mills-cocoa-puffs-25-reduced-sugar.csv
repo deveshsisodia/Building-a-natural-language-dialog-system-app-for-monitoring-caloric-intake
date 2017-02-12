@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 22:00 EST
+"Nutrient data for: 08635, Cereals ready-to-eat, GENERAL MILLS, COCOA PUFFS, 25% Reduced Sugar"
+Nutrient,Unit,1Value per 100 g,"1 cup (1 NLEA serving) = 30.0g",
+Proximates
+"Water",g,1.79,0.54
+"Energy",kcal,380,114
+"Protein",g,6.50,1.95
+"Total lipid (fat)",g,5.19,1.56
+"Carbohydrate, by difference",g,82.69,24.81
+"Fiber, total dietary",g,6.7,2.0
+"Sugars, total",g,25.79,7.74
+Minerals
+"Calcium, Ca",mg,333,100
+"Iron, Fe",mg,15.00,4.50
+"Magnesium, Mg",mg,67,20
+"Phosphorus, P",mg,250,75
+"Potassium, K",mg,328,98
+"Sodium, Na",mg,528,158
+"Zinc, Zn",mg,12.50,3.75
+Vitamins
+"Vitamin C, total ascorbic acid",mg,20.0,6.0
+"Thiamin",mg,1.290,0.387
+"Riboflavin",mg,1.390,0.417
+"Niacin",mg,16.700,5.010
+"Vitamin B-6",mg,1.660,0.498
+"Folate, DFE",µg,553,166
+"Vitamin B-12",µg,5.00,1.50
+"Vitamin A, RAE",µg,466,140
+"Vitamin A, IU",IU,1667,500
+"Vitamin E (alpha-tocopherol)",mg,0.58,0.17
+"Vitamin D (D2 + D3)",µg,3.3,1.0
+"Vitamin D",IU,133,40
+"Vitamin K (phylloquinone)",µg,1.6,0.5
+Lipids
+"Fatty acids, total saturated",g,0.800,0.240
+"Fatty acids, total monounsaturated",g,2.400,0.720
+"Fatty acids, total polyunsaturated",g,1.790,0.537
+"Fatty acids, total trans",g,0.100,0.030
+"Cholesterol",mg,0,0
+Amino Acids
+Other
+"Caffeine",mg,5,2

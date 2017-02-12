@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 14:48 EST
+"Nutrient data for: 19199, Puddings, tapioca, dry mix, prepared with whole milk"
+Nutrient,Unit,1Value per 100 g,"0.5 cup = 128.0g",
+Proximates
+"Water",g,73.97,94.68
+"Energy",kcal,115,147
+"Protein",g,2.84,3.64
+"Total lipid (fat)",g,2.89,3.70
+"Carbohydrate, by difference",g,19.43,24.87
+"Fiber, total dietary",g,0.0,0.0
+Minerals
+"Calcium, Ca",mg,103,132
+"Iron, Fe",mg,0.06,0.08
+"Magnesium, Mg",mg,12,15
+"Phosphorus, P",mg,81,104
+"Potassium, K",mg,131,168
+"Sodium, Na",mg,120,154
+"Zinc, Zn",mg,0.34,0.44
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.7,0.9
+"Thiamin",mg,0.030,0.038
+"Riboflavin",mg,0.140,0.179
+"Niacin",mg,0.073,0.093
+"Vitamin B-6",mg,0.033,0.042
+"Folate, DFE",µg,4,5
+"Vitamin B-12",µg,0.25,0.32
+"Vitamin A, RAE",µg,25,32
+"Vitamin A, IU",IU,108,138
+"Vitamin D (D2 + D3)",µg,0.9,1.2
+"Vitamin D",IU,34,44
+Lipids
+"Fatty acids, total saturated",g,1.724,2.207
+"Fatty acids, total monounsaturated",g,0.786,1.006
+"Fatty acids, total polyunsaturated",g,0.107,0.137
+"Cholesterol",mg,12,15
+Amino Acids
+Other
+"Caffeine",mg,0,0

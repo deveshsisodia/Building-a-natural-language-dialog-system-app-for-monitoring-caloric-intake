@@ -1,0 +1,44 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 15:27 EST
+"Nutrient data for: 05080, Chicken, broilers or fryers, leg, meat only, raw"
+Nutrient,Unit,1Value per 100 g,"3.0 oz = 85.0g","1 leg, bone and skin removed (Sum of drumstick+thigh+back meat only) = 265.0g","1 thigh bone and skin removed = 147.0g","1 drumstick bone and skin removed = 88.0g","1 back bone and skin removed = 30.0g",
+Proximates
+"Water",g,76.41,64.95,202.49,112.32,67.24,22.92
+"Energy",kcal,120,102,318,176,106,36
+"Protein",g,19.16,16.29,50.77,28.17,16.86,5.75
+"Total lipid (fat)",g,4.22,3.59,11.18,6.20,3.71,1.27
+"Carbohydrate, by difference",g,0.00,0.00,0.00,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,10,8,26,15,9,3
+"Iron, Fe",mg,0.78,0.66,2.07,1.15,0.69,0.23
+"Magnesium, Mg",mg,23,20,61,34,20,7
+"Phosphorus, P",mg,180,153,477,265,158,54
+"Potassium, K",mg,238,202,631,350,209,71
+"Sodium, Na",mg,96,82,254,141,84,29
+"Zinc, Zn",mg,1.76,1.50,4.66,2.59,1.55,0.53
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiamin",mg,0.087,0.074,0.231,0.128,0.077,0.026
+"Riboflavin",mg,0.179,0.152,0.474,0.263,0.158,0.054
+"Niacin",mg,5.578,4.741,14.782,8.200,4.909,1.673
+"Vitamin B-6",mg,0.406,0.345,1.076,0.597,0.357,0.122
+"Folate, DFE",µg,4,3,11,6,4,1
+"Vitamin B-12",µg,0.57,0.48,1.51,0.84,0.50,0.17
+"Vitamin A, RAE",µg,10,8,26,15,9,3
+"Vitamin A, IU",IU,32,27,85,47,28,10
+"Vitamin E (alpha-tocopherol)",mg,0.18,0.15,0.48,0.26,0.16,0.05
+"Vitamin D (D2 + D3)",µg,0.0,0.0,0.0,0.0,0.0,0.0
+"Vitamin D",IU,1,1,3,1,1,0
+"Vitamin K (phylloquinone)",µg,2.8,2.4,7.4,4.1,2.5,0.8
+Lipids
+"Fatty acids, total saturated",g,1.050,0.892,2.783,1.543,0.924,0.315
+"Fatty acids, total monounsaturated",g,1.440,1.224,3.816,2.117,1.267,0.432
+"Fatty acids, total polyunsaturated",g,0.962,0.818,2.549,1.414,0.847,0.289
+"Fatty acids, total trans",g,0.015,0.013,0.040,0.022,0.013,0.004
+"Cholesterol",mg,91,77,241,134,80,27
+Amino Acids
+Other
+"Caffeine",mg,0,0,0,0,0,0

@@ -1,0 +1,36 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 12:35 EST
+"Nutrient data for: 21350, McDONALD'S, BIG MAC (without Big Mac Sauce)"
+Nutrient,Unit,1Value per 100 g,"1 item = 200.0g",
+Proximates
+"Water",g,52.76,105.52
+"Energy",kcal,234,468
+"Protein",g,12.79,25.58
+"Total lipid (fat)",g,11.57,23.14
+"Carbohydrate, by difference",g,21.01,42.02
+"Fiber, total dietary",g,1.7,3.4
+"Sugars, total",g,3.70,7.40
+Minerals
+"Calcium, Ca",mg,124,248
+"Iron, Fe",mg,2.14,4.28
+"Magnesium, Mg",mg,21,42
+"Phosphorus, P",mg,130,260
+"Potassium, K",mg,192,384
+"Sodium, Na",mg,454,908
+"Zinc, Zn",mg,2.07,4.14
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.4,0.8
+"Thiamin",mg,0.190,0.380
+"Riboflavin",mg,0.223,0.446
+"Niacin",mg,3.693,7.386
+"Vitamin B-12",µg,0.94,1.88
+"Vitamin A, IU",IU,186,372
+Lipids
+"Fatty acids, total saturated",g,4.162,8.324
+"Fatty acids, total monounsaturated",g,3.802,7.604
+"Fatty acids, total polyunsaturated",g,0.334,0.668
+"Fatty acids, total trans",g,0.644,1.288
+"Cholesterol",mg,35,70
+Amino Acids
+Other

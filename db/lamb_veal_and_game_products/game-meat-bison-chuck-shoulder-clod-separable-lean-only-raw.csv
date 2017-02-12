@@ -1,0 +1,40 @@
+Source: USDA National Nutrient Database for Standard Reference 28 slightly revised May 2016 Software v.3.7 2017-02-01
+Basic Report
+Report Run at: February 11, 2017 13:51 EST
+"Nutrient data for: 17334, Game meat, bison, chuck, shoulder clod, separable lean only, raw"
+Nutrient,Unit,1Value per 100 g,"1 serving ( 3 oz ) = 85.0g","1 roast (3 to 5 lb roast) = 1237.0g",
+Proximates
+"Water",g,75.50,64.17,933.93
+"Energy",kcal,119,101,1472
+"Protein",g,21.12,17.95,261.25
+"Total lipid (fat)",g,3.15,2.68,38.97
+"Carbohydrate, by difference",g,0.00,0.00,0.00
+"Fiber, total dietary",g,0.0,0.0,0.0
+"Sugars, total",g,0.00,0.00,0.00
+Minerals
+"Calcium, Ca",mg,5,4,62
+"Iron, Fe",mg,2.88,2.45,35.63
+"Magnesium, Mg",mg,24,20,297
+"Phosphorus, P",mg,213,181,2635
+"Potassium, K",mg,353,300,4367
+"Sodium, Na",mg,62,53,767
+"Zinc, Zn",mg,5.27,4.48,65.19
+Vitamins
+"Vitamin C, total ascorbic acid",mg,0.0,0.0,0.0
+"Thiamin",mg,0.227,0.193,2.808
+"Riboflavin",mg,0.347,0.295,4.292
+"Niacin",mg,4.443,3.777,54.960
+"Vitamin B-6",mg,0.472,0.401,5.839
+"Folate, DFE",µg,13,11,161
+"Vitamin B-12",µg,2.46,2.09,30.43
+"Vitamin A, RAE",µg,0,0,0
+"Vitamin A, IU",IU,0,0,0
+"Vitamin E (alpha-tocopherol)",mg,0.16,0.14,1.98
+Lipids
+"Fatty acids, total saturated",g,1.345,1.143,16.638
+"Fatty acids, total monounsaturated",g,1.230,1.045,15.215
+"Fatty acids, total polyunsaturated",g,0.148,0.126,1.831
+"Cholesterol",mg,64,54,792
+Amino Acids
+Other
+"Caffeine",mg,0,0,0
