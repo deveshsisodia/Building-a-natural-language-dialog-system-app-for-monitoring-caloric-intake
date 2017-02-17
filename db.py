@@ -22,11 +22,27 @@ class DB:
             print(category)
         print("********")
 
+
+
     def update_db_full(self):
         print("Performing complete DB update..")
         for category in self.category_dict:
             self.update_db_category(category)
         print("Full DB update complete.")
+
+    def all_list(self):
+        print("Creating a List of All the Files")
+        script_path = os.path.dirname(os.path.realpath(sys.argv[0]))
+        item_name_list = []
+        for category in self.category_dict:
+            path = script_path + '/db/' + category
+            if(len(os.listdir(path = path))==0):
+                update_db_category(category)
+            item_name_list.extend(os.listdir(path = path))
+        print("lenght : " , len(item_name_list))
+        #for file in item_name_list:
+        #    print(file)
+        return item_name_list
 
     def update_db_category(self, category):
         category = str(category).lower()
@@ -36,6 +52,7 @@ class DB:
             print("TARGET URL: {0}".format(self.category_dict[category]))
             print("This may take some time, stay tuned...")
             total = self._get_search_results_count(self.category_dict[category])
+            print("total : ",total)
             food_pages = self._fetch_calorie_links(int(total[0]), self.category_dict[category])
             script_path = os.path.dirname(os.path.realpath(sys.argv[0]))
             execution_path = os.getcwd()
@@ -125,5 +142,6 @@ class DB:
 if __name__ == '__main__':
     db_obj = DB()
     db_obj.get_available_categories_list()
-    db_obj.update_db_full()
+    #db_obj.update_db_full()
+    db_obj.all_list()
 
