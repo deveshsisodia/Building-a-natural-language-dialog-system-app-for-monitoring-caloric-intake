@@ -39,6 +39,7 @@ class DB:
             print("TARGET URL: {0}".format(self.category_dict[category]))
             print("This may take some time, stay tuned...")
             total = self._get_search_results_count(self.category_dict[category])
+            print("total : ",total)
             food_pages = self._fetch_calorie_links(int(total[0]), self.category_dict[category])
             script_path = os.path.dirname(os.path.realpath(sys.argv[0]))
             execution_path = os.getcwd()
@@ -163,7 +164,7 @@ class DB:
                 print("Successfully retrieved..")
             print("********")
 
-# if __name__ == '__main__':
+#if __name__ == '__main__':
 #     db_obj = DB()
 #     db_obj.get_available_categories_list()
 #     db_obj.update_db_full()
