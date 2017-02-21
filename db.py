@@ -6,7 +6,10 @@ from urllib.request import urlopen
 from urllib.request import urlretrieve
 from bs4 import BeautifulSoup
 from pathlib import Path
-import csv
+from glob import glob
+import pickle
+from csv_data import CSVData
+
 
 class DB:
     def __init__(self):
@@ -46,6 +49,44 @@ class DB:
             print("DB update completed, for category: {0}".format(category))
         else:
             print("[ERROR]: Improper category specified, update failed!")
+
+    def update_csv_objects_to_db(self):
+        print('Begin dumping csv objects to db..')
+        script_path = os.path.dirname(os.path.realpath(sys.argv[0]))
+        execution_path = os.getcwd()
+        os.chdir(script_path + '/db')
+        os.makedirs('csv_objects', exist_ok=True)
+        print('Dumping csv objects at: {0}'.format(script_path + '/db/csv_objects/'))
+        for category in self.category_dict:
+            csv_file_names = glob(category + '/*.csv')
+            print(len(csv_file_names))
+            ctr = 0
+            for csv_file in csv_file_names:
+                with open(script_path + '/db/csv_objects/' +
+                                  csv_file.split('/')[1].split('.')[0] + '.pkl', 'wb') as outfile:
+                    print('Dumping csv object to file: {0}'.format(script_path + '/db/csv_objects/' +
+                          csv_file.split('/')[1].split('.')[0] + '.pkl'))
+                    csv_obj = CSVData(script_path + '/db/' + csv_file)
+                    ctr += 1
+                    print('Completed processing {0}/{1} files in category {2} ..'
+                          .format(ctr, len(csv_file_names), category))
+                    pickle.dump(csv_obj, outfile, protocol=pickle.HIGHEST_PROTOCOL)
+        print('CSV object update complete..')
+        os.chdir(execution_path)
+
+    def get_csv_objects_list(self):
+        print("Loading csv objects to memory..")
+        script_path = os.path.dirname(os.path.realpath(sys.argv[0]))
+        execution_path = os.getcwd()
+        os.chdir(script_path + '/db/csv_objects')
+        objects_list = []
+        pickles = glob(script_path + '/db/csv_objects' + '/*.pkl')
+        for pkl in pickles:
+            with open(pkl, 'rb') as infile:
+                objects_list.append(pickle.load(infile))
+        print("CSV objects load to list complete, total: {0}".format(len(objects_list)))
+        os.chdir(execution_path)
+        return objects_list
 
     # Protected methods follow
 
@@ -122,8 +163,11 @@ class DB:
                 print("Successfully retrieved..")
             print("********")
 
-if __name__ == '__main__':
-    db_obj = DB()
-    db_obj.get_available_categories_list()
-    db_obj.update_db_full()
+# if __name__ == '__main__':
+#     db_obj = DB()
+#     db_obj.get_available_categories_list()
+#     db_obj.update_db_full()
+#     db_obj.update_csv_objects_to_db()
+#     curr_list = db_obj.get_csv_objects_list()
+
 
