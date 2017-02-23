@@ -43,8 +43,8 @@ class DB:
             food_pages = self._fetch_calorie_links(int(total[0]), self.category_dict[category])
             script_path = os.path.dirname(os.path.realpath(sys.argv[0]))
             execution_path = os.getcwd()
-            os.makedirs('{0}/db/'.format(script_path) + category, exist_ok=True)
-            os.chdir('{0}/db/'.format(script_path) + category)
+            os.makedirs('{0}/data/'.format(script_path) + category, exist_ok=True)
+            os.chdir('{0}/data/'.format(script_path) + category)
             self._download_csv(food_pages, total)
             os.chdir(execution_path)
             print("DB update completed, for category: {0}".format(category))
@@ -55,19 +55,19 @@ class DB:
         print('Begin dumping csv objects to db..')
         script_path = os.path.dirname(os.path.realpath(sys.argv[0]))
         execution_path = os.getcwd()
-        os.chdir(script_path + '/db')
+        os.chdir(script_path + '/data')
         os.makedirs('csv_objects', exist_ok=True)
-        print('Dumping csv objects at: {0}'.format(script_path + '/db/csv_objects/'))
+        print('Dumping csv objects at: {0}'.format(script_path + '/data/csv_objects/'))
         for category in self.category_dict:
             csv_file_names = glob(category + '/*.csv')
             print(len(csv_file_names))
             ctr = 0
             for csv_file in csv_file_names:
-                with open(script_path + '/db/csv_objects/' +
+                with open(script_path + '/data/csv_objects/' +
                                   csv_file.split('/')[1].split('.')[0] + '.pkl', 'wb') as outfile:
-                    print('Dumping csv object to file: {0}'.format(script_path + '/db/csv_objects/' +
+                    print('Dumping csv object to file: {0}'.format(script_path + '/data/csv_objects/' +
                           csv_file.split('/')[1].split('.')[0] + '.pkl'))
-                    csv_obj = CSVData(script_path + '/db/' + csv_file)
+                    csv_obj = CSVData(script_path + '/data/' + csv_file)
                     ctr += 1
                     print('Completed processing {0}/{1} files in category {2} ..'
                           .format(ctr, len(csv_file_names), category))
@@ -79,9 +79,9 @@ class DB:
         print("Loading csv objects to memory..")
         script_path = os.path.dirname(os.path.realpath(sys.argv[0]))
         execution_path = os.getcwd()
-        os.chdir(script_path + '/db/csv_objects')
+        os.chdir(script_path + '/data/csv_objects')
         objects_list = []
-        pickles = glob(script_path + '/db/csv_objects' + '/*.pkl')
+        pickles = glob(script_path + '/data/csv_objects' + '/*.pkl')
         for pkl in pickles:
             with open(pkl, 'rb') as infile:
                 objects_list.append(pickle.load(infile))
@@ -93,7 +93,7 @@ class DB:
 
     def _load_category_map(self):
         try:
-            with open('{0}/db/category_maps.txt'.format(os.path.dirname(os.path.realpath(sys.argv[0]))), 'r') as data:
+            with open('{0}/data/category_maps.txt'.format(os.path.dirname(os.path.realpath(sys.argv[0]))), 'r') as data:
                 map_data = data.read()
                 map_data = map_data.split('\n')
                 for line in map_data:
