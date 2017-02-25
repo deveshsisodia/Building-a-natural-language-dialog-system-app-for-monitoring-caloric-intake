@@ -1,4 +1,21 @@
 import speech_recognition as sr
+import contextlib
+import os
+import sys
+
+
+@contextlib.contextmanager
+def ignore_stderr():
+    devnull = os.open(os.devnull, os.O_WRONLY)
+    old_stderr = os.dup(2)
+    sys.stderr.flush()
+    os.dup2(devnull, 2)
+    os.close(devnull)
+    try:
+        yield
+    finally:
+        os.dup2(old_stderr, 2)
+        os.close(old_stderr)
 
 GOOGLE_CLOUD_SPEECH_CREDENTIALS = r"""{
   "type": "service_account",
@@ -19,28 +36,32 @@ class SpeechProcessor:
         self.rec_obj = sr.Recognizer()
 
     def get_audio_from_mic(self, timeout=10):
-        with sr.Microphone() as source:
-            audio = self.rec_obj.listen(source, timeout=timeout)
-        return audio
+        print("\n*************")
+        print("**SPEAK NOW**")
+        print("*************")
+        with ignore_stderr():
+            with sr.Microphone() as source:
+                audio = self.rec_obj.listen(source, timeout=timeout)
+            return audio
 
     def google_speech_recognizer(self, audio):
         result = ''
         try:
             result = self.rec_obj.recognize_google(audio)
-            print("Google Speech Recognition module thinks you said:\n" + result)
+            print("Speech Recognition module thinks you said:\n" + result)
         except sr.UnknownValueError:
-            print("Google Speech Recognition module could not understand audio")
+            print("Speech Recognition module could not understand audio")
         except sr.RequestError as e:
-            print("Could not request results from Google Speech Recognition service; {0}".format(e))
+            print("Could not request results from Speech Recognition service; {0}".format(e))
         return result
 
     def google_cloud_speech_recognizer(self, audio):
         result = ''
         try:
             result = self.rec_obj.recognize_google_cloud(audio, credentials_json=GOOGLE_CLOUD_SPEECH_CREDENTIALS)
-            print("Google Cloud Speech thinks you said:\n" + result)
+            print("Speech Recognition module thinks you said:\n" + result)
         except sr.UnknownValueError:
-            print("Google Cloud Speech could not understand audio")
+            print("Speech Recognition module could not understand audio")
         except sr.RequestError as e:
-            print("Could not request results from Google Cloud Speech service; {0}".format(e))
+            print("Could not request results from Speech Recognition service; {0}".format(e))
         return result

@@ -4,10 +4,8 @@ import re
 from speechProcessor import SpeechProcessor
 from gtts import gTTS
 import os
-import warnings
 import sys
 
-warnings.filterwarnings("ignore")
 
 class Interface:
     def __init__(self, complete_db_overhaul=False):
@@ -20,6 +18,7 @@ class Interface:
         self._create_food_tokens_set()
         self.cached_stop_words = nltk.corpus.stopwords.words('English')
         self.word_net_lemmatizer = nltk.stem.WordNetLemmatizer()
+        self.speech_obj = SpeechProcessor()
 
     def get_matched_tokens(self, query):
         result = []
@@ -56,9 +55,8 @@ class Interface:
         return result
 
     def get_audio_responses(self):
-        speech_obj = SpeechProcessor()
-        speech_audio = speech_obj.get_audio_from_mic()
-        google_cloud_result = speech_obj.google_cloud_speech_recognizer(speech_audio)
+        speech_audio = self.speech_obj.get_audio_from_mic()
+        google_cloud_result = self.speech_obj.google_cloud_speech_recognizer(speech_audio)
         return google_cloud_result
 
     def get_user_name(self):
@@ -78,7 +76,7 @@ class Interface:
                 self.text_to_audio(tts, "intro")
                 return name
         tts = gTTS(text='Sorry! I did not understand your name. Let us try one more time. '
-                        'May be try just your full name', lang='en')
+                        'May be use your full name in a sentence', lang='en')
         self.text_to_audio(tts, "intro")
         google_cloud_result = self._get_audio_response_and_extract_user_name()
         if len(google_cloud_result) > 0:
@@ -113,7 +111,7 @@ class Interface:
         google_cloud_result = []
         cloud_result = self.get_audio_responses()
         if len(cloud_result) == 0:
-            return  google_cloud_result
+            return google_cloud_result
         google_cloud_result = self._match_name_from_template(cloud_result.lower())
         if len(google_cloud_result) == 0:
             google_cloud_result = self._get_human_names(cloud_result)
@@ -185,10 +183,7 @@ class Interface:
         return (person_list)
 
     def get_tokens_from_audio(self):
-        speech_obj=SpeechProcessor()
-        speech_audio = speech_obj.get_audio_from_mic()
-        google_cloud_result = speech_obj.google_cloud_speech_recognizer(speech_audio)
-        google_cloud_result = google_cloud_result.lower()
+        google_cloud_result = self.get_audio_responses().lower()
         second_tokens = interface_obj.get_matched_tokens(google_cloud_result)
         print("Before stop words removal:")
         print(second_tokens)
@@ -196,57 +191,53 @@ class Interface:
         print("After stop words removal:")
         print(second_tokens)
         second_matched_results = interface_obj.get_matched_food_results(second_tokens)
-        print(second_matched_results)
-        return second_tokens,second_matched_results
+        return second_tokens, second_matched_results
 
-    def get_output_confirm(self,token):
+    def get_output_confirm(self, token):
         text = ''
         l = len(token)
-        if(l==1):
+        if l == 1:
             text = text + token[0]
             return text
-        for i in range(0,l-1):
-            text = text+ ','
+        for i in range(0, l - 1):
+            text += ','
             text = text + token[i]
-        text=text + ' and '
-        text=text + token[l-1]
+        text += ' and '
+        text = text + token[l - 1]
         text = text[1:]
         return text
 
-    def get_food_token_response(self,interface_obj,user,second):
-        if(second):
+    def get_food_token_response(self, interface_obj, user, second):
+        if second:
             tts = gTTS(text=' {0}, Mention the food items you had today '
-                    'With more detail'.format(user_name), lang='en')
+                            'With more detail'.format(user_name), lang='en')
         else:
             tts = gTTS(text='Let us work on your caloric intake. What did you eat today, {0}? '
-                    'Mention only the food item names.'.format(user_name), lang='en')
+                            'Mention only the food item names.'.format(user_name), lang='en')
         interface_obj.text_to_audio(tts, file_name="items")
-        
-        food_token,food_token_result  = interface_obj.get_tokens_from_audio()
-        print(len(food_token))
 
-        if(len(food_token) == 0):
+        food_token, food_token_result = interface_obj.get_tokens_from_audio()
+
+        if len(food_token) == 0:
             tts = gTTS(text='Sorry {0}, '
-                        'can you give repeat the food items names again.'.format(user_name), lang='en')
+                            'can you repeat the food items names again.'.format(user_name), lang='en')
             interface_obj.text_to_audio(tts, file_name="items")
-            food_token,food_token_result = interface_obj.get_tokens_from_audio()
+            food_token, food_token_result = interface_obj.get_tokens_from_audio()
 
-        if(len(food_token)==0):
-            tts = gTTS(text='I am really Sorry {0}, '
-                        'But the food items mentioned by you did not match my knowledge'.format(user_name), lang='en')
+        if len(food_token) == 0:
+            tts = gTTS(text='I am sorry {0}, '
+                            'But the food items mentioned by you did not match my knowledge'.format(user_name),
+                       lang='en')
             interface_obj.text_to_audio(tts, file_name="items")
             sys.exit()
-
-        print(food_token)
         output = interface_obj.get_output_confirm(food_token)
         tts = gTTS(text='Based on My Knowledge'
-                        'These are the item food items consumed by you!'
+                        'These are the food items consumed by you!'
                         '{0}.'.format(output), lang='en')
         interface_obj.text_to_audio(tts, file_name="items")
-        return food_token,food_token_result,output
+        return food_token, food_token_result, output
 
-
-    def client_satisfaction(self,interface_obj,user,output):
+    def client_satisfaction(self, interface_obj, user, output):
         tts = gTTS(text='{0},Please acknowledge by saying yes'
                         'If all the food items are covered.'.format(user), lang='en')
         interface_obj.text_to_audio(tts, file_name="items")
@@ -257,27 +248,31 @@ class Interface:
         return False
 
 
-
 if __name__ == '__main__':
     interface_obj = Interface()
     print("****************************************")
     print("*******Speech Based Dialog System*******")
     print("****************************************\n")
-    speech_obj = SpeechProcessor()
     user_name = interface_obj.get_user_name()
     print('Final name: {0}'.format(user_name))
-    food_token,food_token_result,food_token_text = interface_obj.get_food_token_response(interface_obj,user_name,False)
-    satisfied = interface_obj.client_satisfaction(interface_obj,user_name,food_token_text)
-    if(not satisfied):
-        food_token,food_token_result,output = interface_obj.get_food_token_response(interface_obj,user_name,True)
-    print(food_token)
+    food_token, food_token_result, food_token_text = interface_obj.get_food_token_response(interface_obj, user_name,
+                                                                                           False)
+    satisfied = interface_obj.client_satisfaction(interface_obj, user_name, food_token_text)
+    if not satisfied:
+        food_token, food_token_result, output = interface_obj.get_food_token_response(interface_obj, user_name, True)
+        satisfied = interface_obj.client_satisfaction(interface_obj, user_name, food_token_text)
+    if not satisfied:
+        tts = gTTS(text='I am sorry {0}, '
+                        'But the food items mentioned by you did not match my knowledge'.format(user_name),
+                   lang='en')
+        interface_obj.text_to_audio(tts, file_name="items")
+        sys.exit()
+    tts = gTTS(text='Following are the {0} items that match your description {1}'
+               .format(len(food_token_result), user_name), lang='en')
+    interface_obj.text_to_audio(tts, file_name="items")
+    # TODO: Display results based on a ranking mechanism
+    print("Total matched items: {0}".format(len(food_token_result)))
     print(food_token_result)
-    
-
-
-
-
-
-
-
-
+    tts = gTTS(text='Let me get more information from you about these items to figure out your exact intake', lang='en')
+    interface_obj.text_to_audio(tts, file_name="items")
+    # TODO: Enhance dialog system to reduce search space
