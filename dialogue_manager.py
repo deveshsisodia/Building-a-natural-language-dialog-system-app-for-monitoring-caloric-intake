@@ -30,10 +30,16 @@ class Dialogue_Manager:
         			dict_freq.update({item : 1 })
     	print("Printing Frequencies")
     	
+    	# Removing token from dict
     	for token in token_set:
     		del dict_freq[token]
+
+    	self.introduction_obj.remove_stop_words_dict(dict_freq)
+
+
     	for keys,values in dict_freq.items():
     		print(keys,"====",values)
+    	print('dict_size  :',len(dict_freq))
     	return dict_freq
         
     def get_usda_obj(self,food_item_token):

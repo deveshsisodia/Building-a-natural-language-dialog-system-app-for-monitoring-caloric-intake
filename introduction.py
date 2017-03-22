@@ -98,6 +98,15 @@ class Introduction:
         filtered_words = [word for word in word_list if word not in self.cached_stop_words]
         return filtered_words
 
+    def remove_stop_words_dict(self,dict_freq):
+        del_list = [] 
+        for key in dict_freq:
+            if(key not in self.cached_stop_words):
+                del_list.append(key)
+        for item in del_list:
+            del dict_freq[item]
+        return dict_freq
+
     def get_matched_food_results(self, tokens):
         result = set()
         for item in self.csv_objects_list:
