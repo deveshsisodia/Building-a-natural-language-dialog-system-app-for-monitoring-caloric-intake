@@ -101,7 +101,7 @@ class Introduction:
     def remove_stop_words_dict(self,dict_freq):
         del_list = [] 
         for key in dict_freq:
-            if(key not in self.cached_stop_words):
+            if(key in self.cached_stop_words):
                 del_list.append(key)
         for item in del_list:
             del dict_freq[item]
