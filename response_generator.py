@@ -44,7 +44,7 @@ class Response_Generator:
         result = self.get_audio_responses()
         result = result.lower().strip()
         default = 1
-        if result in ['first', 'second', 'third']:
+        if ('first' in result or 'second' in result or 'third' in result):
             tts = gTTS(text='Thanks for your response',
                            lang='en')
             self.text_to_audio(tts, "intro")
@@ -55,32 +55,33 @@ class Response_Generator:
             self.text_to_audio(tts, "intro")
             result = self.get_audio_responses()
             result = result.lower().strip()
-            if result in ['one', 'two', 'three']:
+            if ('first' in result or 'second' in result or 'third' in result):
                 tts = gTTS(text='Thanks for your response',
                            lang='en')
                 self.text_to_audio(tts, "intro")
                 print('sucess two')
 
-        if(result is 'three'):
+        if ('third' in result):
             return 3
-        elif(result is 'two'):
+        elif('second' in result):
             return 2
         else:
             return default
 
-    def get_food_item(self,food_token):
+    def get_food_item(self,food_token,counter):
+        counter_dict = {1:'first' , 2:'second' , 3:'third' ,4:'fourth' ,5:'fifth'}
+        item_no = counter_dict[counter]
         len_food_token = len(food_token)
         uni = food_token[0]
         bi = food_token[1]
         tri = " "
         count = 2;
-        if( len_food_token > 2):
+        if( len_food_token == 2):
+            tts = gTTS(text='Please help me finalize your {0} food item. Say, \"I had the first item\" for {1}, or, \"I had the second item\" for {1} {2}'.format(item_no ,uni,bi), lang='en')
+            self.text_to_audio(tts, file_name="items")
+        if(len_food_token == 3):
             tri = food_token[2]
-            count = 3
-        tts = gTTS(text='Please help me to select the tokens for this new food item , Speak first for {0}. Speak second for {0} and {1}'.format(uni,bi), lang='en')
-        self.text_to_audio(tts, file_name="items")
-        if(count == 3):
-            tts = gTTS(text='Speak third for {0},{1} and {2}'.format(uni,bi,tri), lang='en')
+            tts = gTTS(text='Please help me finalize your {0} food item. Say, \"I had the first item\" for {1}, or, \"I had the second item\" for {1} {2}, or, \"I had the third item\" for {1} {2}  {3}'.format(item_no,uni,bi,tri), lang='en')
             self.text_to_audio(tts, file_name="items")
         result = self.get_response_one_two_three()
         print(result)

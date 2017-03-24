@@ -25,15 +25,17 @@ if __name__ == '__main__':
     db_obj = DB()
 
     #STARTING INTRODUCTION
-    food_token,food_token_result,user_name = introduce_obj.start_introduction()
+    #food_token,food_token_result,user_name = introduce_obj.start_introduction()
 
     result = []
 
     #Getting Food Item
-    #food_token = ['chicken']
+    food_token = ['nachos','french','fries']
+    counter = 1;
     while(len(food_token) !=  0):
         if(len(food_token) > 1):
-            count = response_obj.get_food_item(food_token)
+            count = response_obj.get_food_item(food_token,counter)
+            counter = counter+1
         else:
             count = 1
         #result = dialogue_mnj_obj.get_standard_item(food_token[:count]) Will work once narrowing is Done
