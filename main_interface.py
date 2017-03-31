@@ -27,10 +27,9 @@ if __name__ == '__main__':
     #STARTING INTRODUCTION
     #food_token,food_token_result,user_name = introduce_obj.start_introduction()
 
-    result = []
-
+    result_list = []
     #Getting Food Item
-    food_token = ['nachos','french','fries']
+    food_token = ['chicken','burger']
     counter = 1;
     while(len(food_token) !=  0):
         if(len(food_token) > 1):
@@ -39,23 +38,9 @@ if __name__ == '__main__':
         else:
             count = 1
         #result = dialogue_mnj_obj.get_standard_item(food_token[:count]) Will work once narrowing is Done
-        dialogue_mnj_obj.get_standard_item(food_token[:count])
+        result = dialogue_mnj_obj.get_standard_item(food_token[:count])
         del food_token[:count]
-
-    #dialogue_mnj_obj.get_standard_item_list(food_items)
-
-
-    #NARROW CHOICES
-    #result = dialogue_mnj_obj.narrow_choice(food_token,food_token_result,user_name)
-
-    #Result
-    #result = "chicken burger"
-    #tts = response_obj.get_tts(result)
-    #response_obj.text_to_audio(tts,file_name="items")
-
-    #TODO: Class for Displaying Calorific Value of Result
-
-
-    print("Food Tokens")
-    print(food_token)
+        if(result!="null"):
+            result_list.append(result)
+    print(result_list)
     print("Introduction Finished")
