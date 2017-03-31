@@ -81,11 +81,11 @@ class Dialogue_Manager:
     	descriptors = ""
     	for word in high_freq_item:
     		descriptors = descriptors + word
-    		descriptors = descriptors  + ", "
+    		descriptors = descriptors  + "  ,  "
     	print (descriptors)
     	if(len(descriptors)==0):
     		return(token_set)
-    	tts = gTTS(text='For your selection {0}, would you like to add some descriptorsl like {1}'.format(S,descriptors),lang='en')
+    	tts = gTTS(text='For your selection {0}, would you like to add some descriptors like, {1}'.format(S,descriptors),lang='en')
     	self.response_obj.text_to_audio(tts, "intro")
     	token ,token_result = self.introduction_obj.get_tokens_from_audio()
     	for i in range(0,len(token)):
@@ -110,17 +110,18 @@ class Dialogue_Manager:
         sorted_list_freq = sorted(dict_freq.items(), key=operator.itemgetter(1))
         return sorted_list_freq
 
-    def ask_user_choice_from_items(self,item_list):
+    def ask_user_choice_from_items(self,item_list,contender_list):
     	item_1 = item_list[0][0]
     	item_2 = item_list[1][0]
     	item_3 = item_list[2][0]
-    	tts = gTTS(text='Still, We have got many choices which match your input food item. Inorder to precisely figure out your calorie intake for this item, we would like you if any of the three descriptors corelate with the food item. Say, \"My food item relates to first descriptor\" for {0}.  Or, \"My food item relates to second descriptor\" for {1}.  Or,  \"My food item relates to third descriptor\" for {2} .  If you have no ideaa please Say, \" None of the descriptors matches\"  '.format(item_1 ,item_2,item_3), lang='en')
+    	contender_len = len(contender_list)
+    	tts = gTTS(text='Still,we have {3} choices which match your input food item. Inorder to precisely figure out your calorie intake for this item.If any of the three descriptors corelate with the food item. Say, \"My food item relates to first descriptor\" for {0}.  Or, \"My food item relates to second descriptor\" for {1}.  Or,  \"My food item relates to third descriptor\" for {2} .  If you have no descriptor matches please Say, \" None of the descriptors matches\" . If Not sure please Say \" I am not sure \"'.format(item_1 ,item_2,item_3,contender_len), lang='en')
     	self.response_obj.text_to_audio(tts, file_name="items")
     	audio_respose = self.response_obj.get_audio_responses()
     	audio_respose = audio_respose.lower().strip()
     	tts = gTTS(text='Thanks for your response',lang='en')
     	self.response_obj.text_to_audio(tts, "intro")
-    	if(not('first' in audio_respose or 'second' in audio_respose or 'third' in audio_respose)):
+    	if(not('first' in audio_respose or 'second' in audio_respose or 'third' in audio_respose or 'none' in audio_respose)):
     		tts = gTTS(text=' I could not understand your response, plea provide response again'.format(item_1 ,item_2,item_3), lang='en')
     		self.response_obj.text_to_audio(tts, file_name="items")
     		audio_respose = self.response_obj.get_audio_responses()
@@ -133,13 +134,15 @@ class Dialogue_Manager:
     		return item_2
     	if ('third' in audio_respose):
     		return item_3
+    	if('none' in audio_respose):
+    		return 'none'
     	return item_1
 
     def get_choice(self,sorted_list_freq):
-    	response = self.ask_user_choice_from_items[-3:]
+    	#response = self.ask_user_choice_from_items[-3:]
     	if(response != 'null'):
     		return response_obj
-    	c = 1
+    		c = 1
 
     def reduce_list(self, contender_list,response):
     	new_list = []
@@ -174,14 +177,32 @@ class Dialogue_Manager:
     			return contender_list[2]
     		return contender_list[0]
 
+    def reduce_list_for_no_match(self,sorted_list_freq,contender_list):
+    	rejected_token_list = []
+    	new_contender_list = []
+    	for item in sorted_list_freq:
+    		rejected_token_list.append(item[0])
+    	for contender in contender_list:
+        	c=0
+        	for item in rejected_token_list:
+        		if(item in contender):
+        			c=1
+        			break
+        	if(c==0):
+        		new_contender_list.append(contender)
+    	return new_contender_list
+
     def narrow_list(self,contender_list,token_set):
     	while (len(contender_list) > 3 ):
     		print("Contender List Length : ",len(contender_list))
     		print(contender_list)
     		sorted_list_freq = self.get_scoring(contender_list,token_set)
-    		response = self.ask_user_choice_from_items(sorted_list_freq[-3:])
+    		response = self.ask_user_choice_from_items(sorted_list_freq[-3:],contender_list)
     		print("Response : ",response)
-    		contender_list = self.reduce_list(contender_list,response)
+    		if('none' == response):
+     			contender_list = self.reduce_list_for_no_match(sorted_list_freq[-3:],contender_list)
+    		else:
+    			contender_list = self.reduce_list(contender_list,response)
     	if len(contender_list) == 1 :
     		return contender_list[0]
     	result = self.get_final_item(contender_list)
