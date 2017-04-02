@@ -158,7 +158,7 @@ class DialogManager:
             self.task_manager_obj.text_to_audio("Sorry, I could not find any information for your selection, {0}. "
                                                 "Let us move to the next item".format(S))
             return token_set, {}, result
-        print(result)
+        # print(result)
         dict_freq = self.task_manager_obj.freq_generator(result, token_set)
         sorted_x = sorted(dict_freq.items(), key=operator.itemgetter(1))
         high_freq_item = []
@@ -287,8 +287,10 @@ class DialogManager:
 
     def get_response(self, sorted_list_freq, contender_list, dict_freq):
         if len(sorted_list_freq) < 3 or len(dict_freq) < 3:
+            if len(dict_freq) < 3 < len(contender_list):
+                contender_list = contender_list[:3]
             return "-----", contender_list, dict_freq
-        response = self.ask_user_choice_from_items(sorted_list_freq[-3:], contender_list, dict_freq)
+        response = self.ask_user_choice_from_items(list(reversed(sorted_list_freq[-3:])), contender_list, dict_freq)
         while response == 'none' or response == 'not sure':
             if response == 'none':
                 contender_list, dict_freq = self.task_manager_obj.dict_contender_updator_for_none(
@@ -300,8 +302,10 @@ class DialogManager:
                         del dict_freq[sorted_list_freq[i][0]]
                     sorted_list_freq = sorted_list_freq[:-3]
             if len(sorted_list_freq) < 3 or len(dict_freq) < 3:
+                if len(dict_freq) < 3 < len(contender_list):
+                    contender_list = contender_list[:3]
                 return "-----", contender_list, dict_freq
-            response = self.ask_user_choice_from_items(sorted_list_freq[-3:], contender_list, dict_freq)
+            response = self.ask_user_choice_from_items(list(reversed(sorted_list_freq[-3:])), contender_list, dict_freq)
         return response, contender_list, dict_freq
 
     def narrow_list(self, contender_list, dict_freq):
@@ -326,3 +330,9 @@ class DialogManager:
         result = self.narrow_list(contender_list, dict_freq)
         print(result)
         return result
+
+    def show_food_items_with_calories(self , final_usda_food_items):
+        if(len(final_usda_food_items) == 0):
+            print("No Item to Display")
+        for food_item in final_usda_food_items:
+            self.task_manager_obj.display_item(food_item)

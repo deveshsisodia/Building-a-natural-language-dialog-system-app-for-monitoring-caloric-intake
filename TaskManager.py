@@ -212,3 +212,44 @@ class TaskManager:
         for item in del_list:
             del dict_freq[item]
         return dict_freq
+
+    def extract(self,quan_list):
+        items = quan_list.split(' ')
+        standard = items[-1]
+        quantity = items[-2]
+        return standard,quantity
+
+
+    def display_item(self,food_item):
+        dict_food_item = {}
+        for csv_obj in self.csv_objects_list:
+            curr_item_tokens = csv_obj.food_tokens
+            if food_item == curr_item_tokens:
+                # print("Item is : ", food_item)
+                # print("file_path  : ", csv_obj.file_path)
+                # print("food_tokens  : ", csv_obj.food_tokens)
+                # print("data_dict  : ", csv_obj.data_dict)
+                nutrient = csv_obj.data_dict['Proximates']
+                for item in nutrient:
+                    if item[0]== 'Energy':
+                        dict_food_item['Energy'] = item[2] + item[1]
+                    if item[0] == 'Protein':
+                        dict_food_item['Protein'] = item[2] + item[1]
+                    if 'Carbohydrate' in item[0]:
+                        dict_food_item['Carbohydrate'] = item[2] + item[1]
+                    if 'Fiber' in item[0]:
+                        dict_food_item['Fiber'] = item[2] + item[1]
+                    if 'fat' in item[0]:
+                        dict_food_item['Fat'] = item[2] + item[1]
+                    if 'Sugars' in item[0]:
+                        dict_food_item['Sugar'] = item[2] + item[1]
+                nutri = csv_obj.data_dict['Nutrient']
+                standard_specific , specific_quantity = self.extract(nutri[0][3])
+                # print("Standard :  ",specific_quantity , "Standard  : ",standard_specific)
+                standard , standard_quantity = self.extract(nutri[0][2])
+                if specific_quantity == '=':
+                    specific_quantity = standard_specific.split(standard)[0]
+                dict_food_item['Standard Quantity'] = standard_quantity + standard
+                # dict_food_item['Specific Quantity'] = specific_quantity
+        for key,value in dict_food_item.items():
+            print(key , " : " , value)
