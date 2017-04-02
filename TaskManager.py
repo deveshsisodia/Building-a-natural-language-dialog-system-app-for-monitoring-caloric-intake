@@ -253,3 +253,9 @@ class TaskManager:
                 # dict_food_item['Specific Quantity'] = specific_quantity
         for key,value in dict_food_item.items():
             print(key , " : " , value)
+        # standard_quantity_no =
+        unit = standard
+        if(standard == 'g'):
+            unit ='gram'
+
+        self.text_to_audio("Intake of per {0} {1} of {2} will corrrespond to {3}".format(standard_quantity,unit,food_item,dict_food_item['Energy']))
