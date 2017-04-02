@@ -35,7 +35,7 @@ class SpeechProcessor:
     def __init__(self):
         self.rec_obj = sr.Recognizer()
 
-    def get_audio_from_mic(self, timeout=10):
+    def _get_audio_from_mic(self, timeout=10):
         print("\n*************")
         print("**SPEAK NOW**")
         print("*************")
@@ -44,7 +44,7 @@ class SpeechProcessor:
                 audio = self.rec_obj.listen(source, timeout=timeout)
             return audio
 
-    def google_speech_recognizer(self, audio):
+    def _google_speech_recognizer(self, audio):
         result = ''
         try:
             result = self.rec_obj.recognize_google(audio)
@@ -55,7 +55,7 @@ class SpeechProcessor:
             print("Could not request results from Speech Recognition service; {0}".format(e))
         return result
 
-    def google_cloud_speech_recognizer(self, audio):
+    def _google_cloud_speech_recognizer(self, audio):
         result = ''
         try:
             result = self.rec_obj.recognize_google_cloud(audio, credentials_json=GOOGLE_CLOUD_SPEECH_CREDENTIALS)
@@ -65,3 +65,9 @@ class SpeechProcessor:
         except sr.RequestError as e:
             print("Could not request results from Speech Recognition service; {0}".format(e))
         return result
+
+    def audio_to_text(self):
+        speech_audio = self._get_audio_from_mic()
+        google_cloud_result = self._google_cloud_speech_recognizer(speech_audio)
+        return google_cloud_result
+

@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 from pathlib import Path
 from glob import glob
 import pickle
-from csv_data import CSVData
+from CSVData import CSVData
 
 
 class DB:
@@ -39,7 +39,7 @@ class DB:
             print("TARGET URL: {0}".format(self.category_dict[category]))
             print("This may take some time, stay tuned...")
             total = self._get_search_results_count(self.category_dict[category])
-            print("total : ",total)
+            print("total : ", total)
             food_pages = self._fetch_calorie_links(int(total[0]), self.category_dict[category])
             script_path = os.path.dirname(os.path.realpath(sys.argv[0]))
             execution_path = os.getcwd()
@@ -66,7 +66,7 @@ class DB:
                 with open(script_path + '/data/csv_objects/' +
                                   csv_file.split('/')[1].split('.')[0] + '.pkl', 'wb') as outfile:
                     print('Dumping csv object to file: {0}'.format(script_path + '/data/csv_objects/' +
-                          csv_file.split('/')[1].split('.')[0] + '.pkl'))
+                                                                   csv_file.split('/')[1].split('.')[0] + '.pkl'))
                     csv_obj = CSVData(script_path + '/data/' + csv_file)
                     ctr += 1
                     print('Completed processing {0}/{1} files in category {2} ..'
@@ -113,7 +113,7 @@ class DB:
         calorie_links = []
         append_flag = True
         root_page_nav = self._get_root_paginateURL(page_url)
-        for page_index in range(0, int(total/50) + 1):
+        for page_index in range(0, int(total / 50) + 1):
             page_results = page_index * 50
             page = root_page_nav + str(page_results) + "&amp;order=asc"
             page = page.replace("&amp;", "&")
@@ -164,11 +164,6 @@ class DB:
                 print("Successfully retrieved..")
             print("********")
 
-#if __name__ == '__main__':
-#     db_obj = DB()
-#     db_obj.get_available_categories_list()
-#     db_obj.update_db_full()
-#     db_obj.update_csv_objects_to_db()
-#     curr_list = db_obj.get_csv_objects_list()
-
-
+if __name__ == '__main__':
+    db_obj = DB()
+    db_obj.update_csv_objects_to_db()
