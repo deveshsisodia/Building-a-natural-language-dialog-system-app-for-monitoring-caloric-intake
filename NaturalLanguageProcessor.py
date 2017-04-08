@@ -7,6 +7,7 @@ class NaturalLanguageProcessor:
         self.cached_stop_words = nltk.corpus.stopwords.words('English')
         self.word_net_lemmatizer = nltk.stem.WordNetLemmatizer()
 
+    # Extracting User Name from Text
     def extract_user_name_from_text(self, input_text):
         google_cloud_result = []
         if len(input_text) == 0:
@@ -22,6 +23,7 @@ class NaturalLanguageProcessor:
             google_cloud_result.append(input_text)
         return google_cloud_result
 
+    # Getting a String from Tokens
     def refractor_tokens_to_spoken_string(self, token):
         text = ''
         l = len(token)
@@ -36,14 +38,17 @@ class NaturalLanguageProcessor:
         text = text[1:]
         return text
 
+    # Removing top Words
     def remove_stop_words(self, word_list):
         filtered_words = [word for word in word_list if word not in self.cached_stop_words]
         return filtered_words
 
+    # Template Matching for name
     def _match_name_from_template(self, s):
         p = re.compile(r'(?:name is|i am|i\'m|call me|this is) (.*)')
         return p.findall(s)
 
+    # Using NLTK Library for Recognizing Names
     def _get_human_names(self, text):
         tokens = nltk.tokenize.word_tokenize(text)
         pos = nltk.pos_tag(tokens)
@@ -62,6 +67,7 @@ class NaturalLanguageProcessor:
             person = []
         return person_list
 
+    # Removing Stop Words from Dictionary
     def remove_stop_words_dict(self, dict_freq):
         del_list = []
         for key in dict_freq:
@@ -71,6 +77,7 @@ class NaturalLanguageProcessor:
             del dict_freq[item]
         return dict_freq
 
+    Getting set of Bigrams from tokens
     def construct_bigrams(self, unigrams):
         bigrams = []
         if len(unigrams) < 2:
@@ -79,11 +86,13 @@ class NaturalLanguageProcessor:
             bigrams.append(unigrams[i - 1] + unigrams[i])
         return bigrams
 
+    #
     def get_singular(self, word):
         lemma = self.word_net_lemmatizer.lemmatize(word, 'n')
         plural = True if word is not lemma else False
         return plural, lemma
 
+    # Constructing set of trigrams from tokens
     def construct_trigrams(self, unigrams):
         trigrams = []
         if len(unigrams) < 3:

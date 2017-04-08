@@ -8,6 +8,7 @@ class DialogManager:
         self.task_manager_obj = TaskManager(complete_db_overhaul)
         print("Dialog Manager setup complete..")
 
+    # Based on Food Tokens narrow the Food item and return the List
     def get_all_usda_food_items_from_user(self, food_items_tokens):
         self.task_manager_obj.text_to_audio('Let me get more information from you about these items to figure out '
                                             'your exact intake')
@@ -22,6 +23,7 @@ class DialogManager:
                 result_list.append(result)
         return result_list
 
+    # Finalizing the Food item if narrowed to less than equal to three item
     def _get_current_food_item_from_user(self, food_items_tokens, counter):
         counter_dict = {1: 'first', 2: 'second', 3: 'third', 4: 'fourth', 5: 'fifth'}
         if len(food_items_tokens) == 1:
@@ -40,19 +42,20 @@ class DialogManager:
         result = self._get_current_food_combination_from_user()
         return result
 
+    #
     def _get_current_food_combination_from_user(self):
         user_input = self.task_manager_obj.audio_to_text()
         user_input = user_input.lower().strip()
-        if any(word in user_input for word in ['first', 'second', 'third', 'one', 'two', 'three']):
+        if any(word in user_input for word in ['first', 'second', 'third']):
             self.task_manager_obj.text_to_audio('Thanks for your response')
         else:
             self.task_manager_obj.text_to_audio('I could not understand, please provide your choice again.')
             user_input = self.task_manager_obj.audio_to_text()
             user_input = user_input.lower().strip()
-            if any(word in user_input for word in ['first', 'second', 'third' 'one', 'two', 'three']):
+            if any(word in user_input for word in ['first', 'second', 'third']):
                 self.task_manager_obj.text_to_audio('Thanks for your response')
         return 3 if 'third' in user_input else 2 if 'second' in user_input else 1
-
+    # Get Name from User
     def get_user_name_from_user(self):
         self.task_manager_obj.text_to_audio('Hello! Who am I speaking to?')
         user_input = self.task_manager_obj.audio_to_text()
@@ -96,12 +99,14 @@ class DialogManager:
                                             'For now, let me address you as, User')
         return 'user'
 
+    # Ask user for the food he had and return the Food Item tokens from it
     def get_food_items_tokens_from_user(self, user_name):
         food_tokens = self._get_food_consumption_from_user(user_name, False)
         satisfied = self._confirm_food_items_from_user(user_name, food_tokens)
 
         if not satisfied:
-            food_tokens, food_token_text = self._get_food_consumption_from_user(user_name, True)
+            # food_tokens, food_token_text = self._get_food_consumption_from_user(user_name, True)
+            food_tokens = self._get_food_consumption_from_user(user_name, True)
             satisfied = self._confirm_food_items_from_user(user_name, food_tokens)
 
         if not satisfied:
@@ -110,6 +115,7 @@ class DialogManager:
             sys.exit()
         return food_tokens
 
+    #
     def _get_food_consumption_from_user(self, user_name, second):
         if second:
             self.task_manager_obj.text_to_audio(' {0}, Mention the food items you had today with more detail'
@@ -132,6 +138,7 @@ class DialogManager:
             sys.exit()
         return food_tokens
 
+    # Confirm the tokens extracted are the food item he had
     def _confirm_food_items_from_user(self, user, food_tokens):
         output = self.task_manager_obj.refractor_tokens_to_spoken_string(food_tokens)
         self.task_manager_obj.text_to_audio('Based on My Knowledge, these are the food items consumed '
@@ -145,6 +152,7 @@ class DialogManager:
             return True
         return False
 
+    # Generate List of Contender for the Match and also get additional Token for the item asking user for more information by giving Hints
     def get_usda_obj(self, food_item_token):
         token_set = set()
         for i in range(0, len(food_item_token)):
@@ -216,6 +224,7 @@ class DialogManager:
         print(token_set)
         return token_set, dict_freq, list(set(result))
 
+    # Throw user set of 3 most probable desriptors , and get feedback
     def ask_user_choice_from_items(self, item_list, contender_list, dict_freq):
         item_1 = item_list[0][0]
         item_2 = item_list[1][0]
@@ -254,6 +263,7 @@ class DialogManager:
             return 'not sure'
         return 'not sure'
 
+    # If the contender list is reduced to less than equal to three, throw three contender item to user and ask to pick one
     def get_final_item(self, contender_list):
         if len(contender_list) == 2:
             self.task_manager_obj.text_to_audio(
@@ -285,8 +295,10 @@ class DialogManager:
                 return contender_list[2]
             return contender_list[0]
 
+    # Get reponse from the user whether he selected a descrptor or not sure or none of these and accordingly manage the freq dictionary
+    # And Contender List
     def get_response(self, sorted_list_freq, contender_list, dict_freq):
-        if len(sorted_list_freq) < 3 or len(dict_freq) < 3:
+        if len(sorted_list_freq) < 3 or len(dict_freq) < 3  or len(contender_list) <= 3:
             if len(dict_freq) < 3 < len(contender_list):
                 contender_list = contender_list[:3]
             return "-----", contender_list, dict_freq
@@ -301,17 +313,16 @@ class DialogManager:
                     for i in range(-3, 0):
                         del dict_freq[sorted_list_freq[i][0]]
                     sorted_list_freq = sorted_list_freq[:-3]
-            if len(sorted_list_freq) < 3 or len(dict_freq) < 3:
+            if len(sorted_list_freq) < 3 or len(dict_freq) < 3 or len(contender_list) <= 3:
                 if len(dict_freq) < 3 < len(contender_list):
                     contender_list = contender_list[:3]
                 return "-----", contender_list, dict_freq
             response = self.ask_user_choice_from_items(list(reversed(sorted_list_freq[-3:])), contender_list, dict_freq)
         return response, contender_list, dict_freq
 
+    # Resursively tries to reduce the list of items unless the list is less than equal to 3
     def narrow_list(self, contender_list, dict_freq):
-        while len(contender_list) > 3:
-            # print("Contender List Length : ",len(contender_list))
-            # print(contender_list)
+        while len(contender_list) >= 3:
             sorted_list_freq = sorted(dict_freq.items(), key=operator.itemgetter(1))
             response, contender_list, dict_freq = self.get_response(sorted_list_freq, contender_list, dict_freq)
             if response == "-----":
@@ -322,7 +333,7 @@ class DialogManager:
         result = self.get_final_item(contender_list)
         return result
 
-    # We are doing it collectively will do one by one in future
+    # Returning the Food item based on the Food Tokens
     def get_standard_item(self, food_items):
         token_set, dict_freq, contender_list = self.get_usda_obj(food_items)
         if len(contender_list) == 0:
@@ -331,6 +342,7 @@ class DialogManager:
         print(result)
         return result
 
+    # Displaying the Calorific Intake for Each Item
     def show_food_items_with_calories(self , final_usda_food_items):
         if(len(final_usda_food_items) == 0):
             print("No Item to Display")

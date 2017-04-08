@@ -8,6 +8,7 @@ class CSVData:
         self.data_dict = dict()
         self._fill_data_members()
 
+    # Extracting the Data for each CSV in lists of Nutrition, Minerals, Vitamin , Lipids and Amino Acids.
     def _fill_data_members(self):
         self.food_tokens = self.file_path.split('/')[-1].split('.')[0]
         with open(self.file_path, 'r', encoding='latin-1') as csv_file:
