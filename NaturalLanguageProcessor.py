@@ -77,7 +77,7 @@ class NaturalLanguageProcessor:
             del dict_freq[item]
         return dict_freq
 
-    Getting set of Bigrams from tokens
+    # Getting set of Bigrams from tokens
     def construct_bigrams(self, unigrams):
         bigrams = []
         if len(unigrams) < 2:

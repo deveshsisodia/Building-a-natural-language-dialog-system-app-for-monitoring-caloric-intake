@@ -1,6 +1,7 @@
 from TTSGenerator import TTSGenerator
 from SpeechProcessor import SpeechProcessor
 from NaturalLanguageProcessor import NaturalLanguageProcessor
+from DialogTracer import DialogTracer
 from DB import DB
 
 
@@ -23,11 +24,16 @@ class TaskManager:
 
     # Converting Text to Audio
     def text_to_audio(self, input_text):
+        print("\n[ASSISTANT QUERY]:")
+        print(input_text)
         self.text_to_speech_obj.text_to_audio(input_text)
 
     # Convert Audio to Text
     def audio_to_text(self):
-        return self.speech_obj.audio_to_text()
+        print("\n[USER RESPONSE]:")
+        response = self.speech_obj.audio_to_text()
+        print(response)
+        return response
 
     # Extracts user Name from Text
     def extract_user_name_from_text(self, user_input):
@@ -131,14 +137,14 @@ class TaskManager:
         removal_list = []
 
         for key, value in dict_freq.items():
-            if (dict_freq[key] == 0 or dict_freq[key] >= len(contender_list)):
+            if dict_freq[key] == 0 or dict_freq[key] >= len(contender_list):
                 removal_list.append(key)
 
         for token in removal_list:
             del dict_freq[token]
 
         # for keys,values in dict_freq.items():
-        #	print(keys,"====",values)
+        # print(keys,"====",values)
 
         return new_list, dict_freq
 
@@ -146,7 +152,6 @@ class TaskManager:
     # All set of contender corresponding to those descriptors are also removed
     def dict_contender_updator_for_none(self, dict_freq, token_set, contender_list):
         removal_list = []
-        new_list = []
         contender_removed = []
         new_contender_list = []
         for token in token_set:
@@ -176,16 +181,16 @@ class TaskManager:
                 removal_list.append(key)
 
         for token in removal_list:
-            if (token in dict_freq):
+            if token in dict_freq:
                 del dict_freq[token]
 
-        if (len(new_contender_list) == 0):
-            return (contender_list[:1], dict_freq)
+        if len(new_contender_list) == 0:
+            return contender_list[:1], dict_freq
 
         contender_list = new_contender_list
 
         # for keys,values in dict_freq.items():
-        #	print(keys,"====",values)
+        # print(keys,"====",values)
         print('dict_size  :', len(dict_freq))
         # sorted_list_freq = sorted(dict_freq.items(), key=operator.itemgetter(1))
         return contender_list, dict_freq
@@ -228,15 +233,14 @@ class TaskManager:
         return dict_freq
 
     # Extracting the quantity with the Standard Measure
-    def extract(self,quan_list):
+    def extract(self, quan_list):
         items = quan_list.split(' ')
         standard = items[-1]
         quantity = items[-2]
-        return standard,quantity
-
+        return standard, quantity
 
     # Displaying the Calorific intake of the food item
-    def display_item(self,food_item):
+    def display_item(self, food_item):
         dict_food_item = {}
         print(food_item)
         for csv_obj in self.csv_objects_list:
@@ -248,7 +252,7 @@ class TaskManager:
                 # print("data_dict  : ", csv_obj.data_dict)
                 nutrient = csv_obj.data_dict['Proximates']
                 for item in nutrient:
-                    if item[0]== 'Energy':
+                    if item[0] == 'Energy':
                         dict_food_item['Energy'] = item[2] + item[1]
                     if item[0] == 'Protein':
                         dict_food_item['Protein'] = item[2] + item[1]
@@ -261,18 +265,20 @@ class TaskManager:
                     if 'Sugars' in item[0]:
                         dict_food_item['Sugar'] = item[2] + item[1]
                 nutri = csv_obj.data_dict['Nutrient']
-                standard_specific , specific_quantity = self.extract(nutri[0][3])
+                standard_specific, specific_quantity = self.extract(nutri[0][3])
                 # print("Standard :  ",specific_quantity , "Standard  : ",standard_specific)
-                standard , standard_quantity = self.extract(nutri[0][2])
+                standard, standard_quantity = self.extract(nutri[0][2])
                 if specific_quantity == '=':
                     specific_quantity = standard_specific.split(standard)[0]
                 dict_food_item['Standard Quantity'] = standard_quantity + standard
                 # dict_food_item['Specific Quantity'] = specific_quantity
-        for key,value in dict_food_item.items():
-            print(key , " : " , value)
+        for key, value in dict_food_item.items():
+            print(key, " : ", value)
         # standard_quantity_no =
         unit = standard
-        if(standard == 'g'):
-            unit ='gram'
+        if standard == 'g':
+            unit = 'gram'
         print()
-        self.text_to_audio("Intake of per {0} {1} of {2} will corrrespond to {3}".format(standard_quantity,unit,food_item,dict_food_item['Energy']))
+        self.text_to_audio(
+            "Intake of per {0} {1} of {2} will correspond to {3}".format(standard_quantity, unit, food_item,
+                                                                         dict_food_item['Energy']))

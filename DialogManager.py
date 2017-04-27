@@ -1,12 +1,14 @@
 import sys
 from TaskManager import TaskManager
+from DialogTracer import DialogTracer
 import operator
 
 
 class DialogManager:
     def __init__(self, complete_db_overhaul=False):
+        self.dialog_tracer_obj = DialogTracer(True)
         self.task_manager_obj = TaskManager(complete_db_overhaul)
-        print("Dialog Manager setup complete..")
+        self.dialog_tracer_obj.sys_msg("Dialog Manager setup complete..")
 
     # Based on Food Tokens narrow the Food item and return the List
     def get_all_usda_food_items_from_user(self, food_items_tokens):
@@ -55,8 +57,10 @@ class DialogManager:
             if any(word in user_input for word in ['first', 'second', 'third']):
                 self.task_manager_obj.text_to_audio('Thanks for your response')
         return 3 if 'third' in user_input else 2 if 'second' in user_input else 1
+
     # Get Name from User
     def get_user_name_from_user(self):
+        self.dialog_tracer_obj.sys_msg("======================== EXTRACT USER NAME: BEGIN ======================")
         self.task_manager_obj.text_to_audio('Hello! Who am I speaking to?')
         user_input = self.task_manager_obj.audio_to_text()
         google_cloud_result = self.task_manager_obj.extract_user_name_from_text(user_input)
@@ -68,16 +72,17 @@ class DialogManager:
             result = result.lower().strip()
             if len(result) == 0:
                 self.task_manager_obj.text_to_audio('I could not understand your response. '
-                                                    'Say yes if you think I correctly identified your name. '
+                                                    'Say yes if I correctly identified your name. '
                                                     'Say No otherwise')
                 result = self.task_manager_obj.audio_to_text()
                 result = result.lower().strip()
             if any(word in result for word in ['yes', 'yeah', 'yup', 'yep', 'yo', 'ok', 'okay', 'right', 'correct',
                                                'sure']):
                 self.task_manager_obj.text_to_audio('Great! Nice to meet you, {0}'.format(name))
+                self.dialog_tracer_obj.sys_msg('Final user_name: {0}'.format(name))
+                self.dialog_tracer_obj.sys_msg("======================== EXTRACT USER NAME: END ======================")
                 return name
-        self.task_manager_obj.text_to_audio('Sorry! I did not understand your name. Let us try one more time. '
-                                            'May be use your full name in a sentence')
+        self.task_manager_obj.text_to_audio('Sorry! I did not understand. Please tell me your name in a sentence.')
         user_input = self.task_manager_obj.audio_to_text()
         google_cloud_result = self.task_manager_obj.extract_user_name_from_text(user_input)
         if len(google_cloud_result) > 0:
@@ -87,16 +92,20 @@ class DialogManager:
             result = result.lower().strip()
             if len(result) == 0:
                 self.task_manager_obj.text_to_audio('I could not understand your response. '
-                                                    'Say yes if you think I correctly identified your name.'
+                                                    'Say yes if I correctly identified your name.'
                                                     'Say No otherwise')
                 result = self.task_manager_obj.audio_to_text()
                 result = result.lower().strip()
             if any(word in result for word in ['yes', 'yeah', 'yup', 'yep', 'yo', 'ok', 'okay', 'right', 'correct',
                                                'sure']):
                 self.task_manager_obj.text_to_audio('Great! Nice to meet you, {0}'.format(name))
+                self.dialog_tracer_obj.sys_msg('Final user_name: {0}'.format(name))
+                self.dialog_tracer_obj.sys_msg("======================== EXTRACT USER NAME: END ======================")
                 return name
         self.task_manager_obj.text_to_audio('Sorry! I could not understand your name.'
                                             'For now, let me address you as, User')
+        self.dialog_tracer_obj.sys_msg('Final user_name: {0}'.format("USER"))
+        self.dialog_tracer_obj.sys_msg("========================= EXTRACT USER NAME: END ======================")
         return 'user'
 
     # Ask user for the food he had and return the Food Item tokens from it
@@ -121,13 +130,13 @@ class DialogManager:
             self.task_manager_obj.text_to_audio(' {0}, Mention the food items you had today with more detail'
                                                 .format(user_name))
         else:
-            self.task_manager_obj.text_to_audio('Let us work on your caloric intake. What did you eat today, {0}? '
-                                                'Mention only the food item names.'.format(user_name))
+            self.task_manager_obj.text_to_audio('Let us work on your caloric intake. What did you eat today, {0}?'
+                                                .format(user_name))
         google_cloud_result = self.task_manager_obj.audio_to_text().lower()
         food_tokens = self.task_manager_obj.get_tokens_from_audio(google_cloud_result)
 
         if len(food_tokens) == 0:
-            self.task_manager_obj.text_to_audio('Sorry {0}, can you repeat the food items names again.'
+            self.task_manager_obj.text_to_audio('Sorry {0}, can you repeat the food item names again.'
                                                 .format(user_name))
             google_cloud_result = self.task_manager_obj.audio_to_text().lower()
             food_tokens = self.task_manager_obj.get_tokens_from_audio(google_cloud_result)
@@ -143,7 +152,7 @@ class DialogManager:
         output = self.task_manager_obj.refractor_tokens_to_spoken_string(food_tokens)
         self.task_manager_obj.text_to_audio('Based on My Knowledge, these are the food items consumed '
                                             'by you! {0}'.format(output))
-        self.task_manager_obj.text_to_audio('{0},Please acknowledge by saying yes, if all the food items are covered.'
+        self.task_manager_obj.text_to_audio('{0},Please say yes, if all the food items are covered.'
                                             .format(user))
         result = self.task_manager_obj.audio_to_text()
         result = result.lower().strip()
@@ -152,19 +161,20 @@ class DialogManager:
             return True
         return False
 
-    # Generate List of Contender for the Match and also get additional Token for the item asking user for more information by giving Hints
+    # Generate List of Contender for the Match and also get additional Token for
+    # the item asking user for more information by giving Hints
     def get_usda_obj(self, food_item_token):
         token_set = set()
         for i in range(0, len(food_item_token)):
             token_set.add(food_item_token[i])
-        S = ""
+        s = ""
         for item in food_item_token:
-            S = S + item
-            S += " "
+            s = s + item
+            s += " "
         result = self.task_manager_obj.get_fully_matched_food_results(token_set)
         if len(result) == 0:
             self.task_manager_obj.text_to_audio("Sorry, I could not find any information for your selection, {0}. "
-                                                "Let us move to the next item".format(S))
+                                                "Let us move to the next item".format(s))
             return token_set, {}, result
         # print(result)
         dict_freq = self.task_manager_obj.freq_generator(result, token_set)
@@ -182,7 +192,7 @@ class DialogManager:
         for word in high_freq_item:
             descriptors = descriptors + word
             descriptors += "  ,  "
-        print(descriptors)
+        self.dialog_tracer_obj.sys_msg(descriptors)
         if len(descriptors) == 0:
             return token_set
         self.task_manager_obj.text_to_audio('For your selection {0}, would you like to provide some description? '
@@ -190,7 +200,7 @@ class DialogManager:
                                             'provide preparation information like raw, or cooked, boiled, or fried,'
                                             'roasted or grilled etcetra. Few suggestions for your current '
                                             'selection are: '
-                                            '{1}.. Say, \'No description\' if you want to skip'.format(S, descriptors))
+                                            '{1}.. Say, \'No description\' if you want to skip'.format(s, descriptors))
         google_cloud_result = self.task_manager_obj.audio_to_text().lower()
         if any(word in google_cloud_result for word in ['no description', 'nope', 'no' 'no, thanks', 'no, thank you']):
             self.task_manager_obj.text_to_audio('Thanks. Let\'s proceed further.')
@@ -221,7 +231,7 @@ class DialogManager:
         else:
             result = temp_result
         dict_freq = self.task_manager_obj.freq_generator(result, token_set)
-        print(token_set)
+        self.dialog_tracer_obj.sys_msg(token_set)
         return token_set, dict_freq, list(set(result))
 
     # Throw user set of 3 most probable desriptors , and get feedback
@@ -229,12 +239,12 @@ class DialogManager:
         item_1 = item_list[0][0]
         item_2 = item_list[1][0]
         item_3 = item_list[2][0]
-        print(item_list[0])
-        print(item_list[1])
-        print(item_list[2])
+        self.dialog_tracer_obj.sys_msg(item_list[0])
+        self.dialog_tracer_obj.sys_msg(item_list[1])
+        self.dialog_tracer_obj.sys_msg(item_list[2])
         contender_len = len(contender_list)
-        print("Contender List Strength : ", contender_len)
-        print("Size of Dictionary : ", len(dict_freq))
+        self.dialog_tracer_obj.sys_msg("Contender List Strength : {0}".format(contender_len))
+        self.dialog_tracer_obj.sys_msg("Size of Dictionary : {0}".format(len(dict_freq)))
         self.task_manager_obj.text_to_audio('Currently we have {3} choices which match your food item description. '
                                             '. Say, \"My food item relates to first choice.\" for {0}.  Or, \"My food '
                                             'item relates to second choice.\" for {1}.  Or,  \"My food item relates '
@@ -263,7 +273,8 @@ class DialogManager:
             return 'not sure'
         return 'not sure'
 
-    # If the contender list is reduced to less than equal to three, throw three contender item to user and ask to pick one
+    # If the contender list is reduced to less than equal to three, throw three contender item to user
+    # and ask to pick one
     def get_final_item(self, contender_list):
         if len(contender_list) == 2:
             self.task_manager_obj.text_to_audio(
@@ -295,10 +306,10 @@ class DialogManager:
                 return contender_list[2]
             return contender_list[0]
 
-    # Get reponse from the user whether he selected a descrptor or not sure or none of these and accordingly manage the freq dictionary
-    # And Contender List
+    # Get reponse from the user whether he selected a descriptor or not sure or none of these and
+    # accordingly manage the freq dictionary And Contender List
     def get_response(self, sorted_list_freq, contender_list, dict_freq):
-        if len(sorted_list_freq) < 3 or len(dict_freq) < 3  or len(contender_list) <= 3:
+        if len(sorted_list_freq) < 3 or len(dict_freq) < 3 or len(contender_list) <= 3:
             if len(dict_freq) < 3 < len(contender_list):
                 contender_list = contender_list[:3]
             return "-----", contender_list, dict_freq
@@ -320,7 +331,7 @@ class DialogManager:
             response = self.ask_user_choice_from_items(list(reversed(sorted_list_freq[-3:])), contender_list, dict_freq)
         return response, contender_list, dict_freq
 
-    # Resursively tries to reduce the list of items unless the list is less than equal to 3
+    # Iteratively tries to reduce the list of items unless the list is less than equal to 3
     def narrow_list(self, contender_list, dict_freq):
         while len(contender_list) >= 3:
             sorted_list_freq = sorted(dict_freq.items(), key=operator.itemgetter(1))
@@ -339,12 +350,12 @@ class DialogManager:
         if len(contender_list) == 0:
             return "null"
         result = self.narrow_list(contender_list, dict_freq)
-        print(result)
+        self.dialog_tracer_obj.sys_msg(result)
         return result
 
     # Displaying the Calorific Intake for Each Item
-    def show_food_items_with_calories(self , final_usda_food_items):
-        if(len(final_usda_food_items) == 0):
-            print("No Item to Display")
+    def show_food_items_with_calories(self, final_usda_food_items):
+        if len(final_usda_food_items) == 0:
+            self.dialog_tracer_obj.sys_msg("No Item to Display")
         for food_item in final_usda_food_items:
             self.task_manager_obj.display_item(food_item)

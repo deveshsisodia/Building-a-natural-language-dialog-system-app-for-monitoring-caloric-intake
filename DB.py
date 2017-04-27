@@ -9,32 +9,34 @@ from pathlib import Path
 from glob import glob
 import pickle
 from CSVData import CSVData
+from DialogTracer import DialogTracer
 
 
 class DB:
     def __init__(self):
         self.category_dict = {}
         self._load_category_map()
+        self.tracer_obj = DialogTracer(True)
 
     # Public methods
 
     def get_available_categories_list(self):
-        print("The following food categories are available..")
+        self.tracer_obj.sys_msg("The following food categories are available..")
         print("********")
         for category in self.category_dict:
             print(category)
         print("********")
 
     def update_db_full(self):
-        print("Performing complete DB update..")
+        self.tracer_obj.sys_msg("Performing complete DB update..")
         for category in self.category_dict:
             self.update_db_category(category)
-        print("Full DB update complete.")
+        self.tracer_obj.sys_msg("Full DB update complete.")
 
     def update_db_category(self, category):
         category = str(category).lower()
         if str(category).lower() in self.category_dict:
-            print("Starting update..")
+            self.tracer_obj.sys_msg("Starting update..")
             print("CATEGORY: {0}".format(category))
             print("TARGET URL: {0}".format(self.category_dict[category]))
             print("This may take some time, stay tuned...")
@@ -47,12 +49,12 @@ class DB:
             os.chdir('{0}/data/'.format(script_path) + category)
             self._download_csv(food_pages, total)
             os.chdir(execution_path)
-            print("DB update completed, for category: {0}".format(category))
+            self.tracer_obj.sys_msg("DB update completed, for category: {0}".format(category))
         else:
             print("[ERROR]: Improper category specified, update failed!")
 
     def update_csv_objects_to_db(self):
-        print('Begin dumping csv objects to db..')
+        self.tracer_obj.sys_msg('Begin dumping csv objects to db..')
         script_path = os.path.dirname(os.path.realpath(sys.argv[0]))
         execution_path = os.getcwd()
         os.chdir(script_path + '/data')
@@ -72,11 +74,11 @@ class DB:
                     print('Completed processing {0}/{1} files in category {2} ..'
                           .format(ctr, len(csv_file_names), category))
                     pickle.dump(csv_obj, outfile, protocol=pickle.HIGHEST_PROTOCOL)
-        print('CSV object update complete..')
+        self.tracer_obj.sys_msg('CSV object update complete..')
         os.chdir(execution_path)
 
     def get_csv_objects_list(self):
-        print("Loading csv objects to memory..")
+        self.tracer_obj.sys_msg("Loading csv objects to memory..")
         script_path = os.path.dirname(os.path.realpath(sys.argv[0]))
         execution_path = os.getcwd()
         os.chdir(script_path + '/data/csv_objects')
@@ -85,7 +87,7 @@ class DB:
         for pkl in pickles:
             with open(pkl, 'rb') as infile:
                 objects_list.append(pickle.load(infile))
-        print("CSV objects load to list complete, total: {0}".format(len(objects_list)))
+        self.tracer_obj.sys_msg("CSV objects load to list complete, total: {0}".format(len(objects_list)))
         os.chdir(execution_path)
         return objects_list
 

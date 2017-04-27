@@ -2,6 +2,7 @@ import speech_recognition as sr
 import contextlib
 import os
 import sys
+from DialogTracer import DialogTracer
 
 
 @contextlib.contextmanager
@@ -34,11 +35,9 @@ GOOGLE_CLOUD_SPEECH_CREDENTIALS = r"""{
 class SpeechProcessor:
     def __init__(self):
         self.rec_obj = sr.Recognizer()
+        self.tracer_obj = DialogTracer(True)
 
     def _get_audio_from_mic(self, timeout=10):
-        print("\n*************")
-        print("**SPEAK NOW**")
-        print("*************")
         with ignore_stderr():
             with sr.Microphone() as source:
                 audio = self.rec_obj.listen(source, timeout=timeout)
@@ -48,22 +47,20 @@ class SpeechProcessor:
         result = ''
         try:
             result = self.rec_obj.recognize_google(audio)
-            print("Speech Recognition module thinks you said:\n" + result)
         except sr.UnknownValueError:
-            print("Speech Recognition module could not understand audio")
+            self.tracer_obj.sys_msg("Speech Recognition module could not understand audio")
         except sr.RequestError as e:
-            print("Could not request results from Speech Recognition service; {0}".format(e))
+            self.tracer_obj.sys_msg("Could not request results from Speech Recognition service; {0}".format(e))
         return result
 
     def _google_cloud_speech_recognizer(self, audio):
         result = ''
         try:
             result = self.rec_obj.recognize_google_cloud(audio, credentials_json=GOOGLE_CLOUD_SPEECH_CREDENTIALS)
-            print("Speech Recognition module thinks you said:\n" + result)
         except sr.UnknownValueError:
-            print("Speech Recognition module could not understand audio")
+            self.tracer_obj.sys_msg("Speech Recognition module could not understand audio")
         except sr.RequestError as e:
-            print("Could not request results from Speech Recognition service; {0}".format(e))
+            self.tracer_obj.sys_msg("Could not request results from Speech Recognition service; {0}".format(e))
         return result
 
     def audio_to_text(self):
