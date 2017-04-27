@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="702246a0-a9b3-4f8d-94e4-2dda3a9a99d0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DB.py" afterPath="$PROJECT_DIR$/DB.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DialogExecutor.py" afterPath="$PROJECT_DIR$/DialogExecutor.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DialogManager.py" afterPath="$PROJECT_DIR$/DialogManager.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NaturalLanguageProcessor.py" afterPath="$PROJECT_DIR$/NaturalLanguageProcessor.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpeechProcessor.py" afterPath="$PROJECT_DIR$/SpeechProcessor.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TaskManager.py" afterPath="$PROJECT_DIR$/TaskManager.py" />
     </list>
     <ignored path="523.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +25,8 @@
       <file leaf-file-name="DialogManager.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DialogManager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="114" />
+            <state relative-caret-position="232">
+              <caret line="154" column="66" lean-forward="false" selection-start-line="154" selection-start-column="66" selection-end-line="154" selection-end-column="66" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -795,8 +789,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DialogManager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="114" />
+        <state relative-caret-position="232">
+          <caret line="154" column="66" lean-forward="false" selection-start-line="154" selection-start-column="66" selection-end-line="154" selection-end-column="66" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>

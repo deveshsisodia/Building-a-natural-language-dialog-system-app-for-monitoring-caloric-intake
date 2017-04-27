@@ -151,7 +151,8 @@ class DialogManager:
     def _confirm_food_items_from_user(self, user, food_tokens):
         output = self.task_manager_obj.refractor_tokens_to_spoken_string(food_tokens)
         self.task_manager_obj.text_to_audio('Based on My Knowledge, these are the food items consumed '
-                                            'by you! {0}'.format(output))
+                                            'by you: {0}'.format(output))
+        self.dialog_tracer_obj.sys_msg('FINAL FOOD ITEM TOKENS:::: [{0}]'.format(output))
         self.task_manager_obj.text_to_audio('{0},Please say yes, if all the food items are covered.'
                                             .format(user))
         result = self.task_manager_obj.audio_to_text()
