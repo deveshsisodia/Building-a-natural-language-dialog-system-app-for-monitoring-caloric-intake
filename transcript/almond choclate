@@ -1,0 +1,145 @@
+****************************************
+*******Speech Based Dialog System*******
+****************************************
+
+
+[SYSTEM]:
+Loading csv objects to memory..
+
+[SYSTEM]:
+CSV objects load to list complete, total: 8788
+
+[SYSTEM]:
+Dialog Manager setup complete..
+
+[SYSTEM]:
+========================= EXTRACT FOOD TOKENS : BEGIN ======================
+
+[ASSISTANT QUERY]:
+Let us work on your caloric intake. What did you eat today, David?
+
+[USER RESPONSE]:
+almond chocolate 
+
+[ASSISTANT QUERY]:
+Based on My Knowledge, these are the food items consumed by you: almond and chocolate
+
+[SYSTEM]:
+FINAL FOOD ITEM TOKENS:::: [almond and chocolate]
+
+[ASSISTANT QUERY]:
+David,Please say yes, if all the food items are covered.
+
+[USER RESPONSE]:
+okay 
+
+[ASSISTANT QUERY]:
+Let me get more information from you about these items to figure out your exact intake
+
+[SYSTEM]:
+======================== SELECTION OF FIRST FOOD ITEM: BEGIN ======================
+
+[ASSISTANT QUERY]:
+Please help me finalize your first food item. Say, "I had the first item" for almond, or, "I had the second item" for almond chocolate
+
+[USER RESPONSE]:
+I had to say good night 
+
+[ASSISTANT QUERY]:
+I could not understand, please provide your choice again.
+
+[USER RESPONSE]:
+I had the second item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+snackfood  ,  milk  ,  candies  ,  
+
+[ASSISTANT QUERY]:
+For your selection almond chocolate , would you like to provide some description? For instance, you could tell me which restaurant you ate it from, or provide preparation information like raw, or cooked, boiled, or fried,roasted or grilled etcetra. Few suggestions for your current selection are: snackfood  ,  milk  ,  candies  ,  .. Say, 'No description' if you want to skip
+
+[USER RESPONSE]:
+no description 
+
+[ASSISTANT QUERY]:
+Thanks. Let's proceed further.
+
+[SYSTEM]:
+('candies', 5)
+('milk', 4)
+('snackfood', 3)
+
+[SYSTEM]:
+Contender List Strength : 9
+Size of Dictionary : 31
+
+[ASSISTANT QUERY]:
+Currently we have 9 choices which match your food item description. . Say, "My food item relates to first choice." for candies.  Or, "My food item relates to second choice." for milk.  Or,  "My food item relates to third choice." for snackfood .  If you have no descriptor matches please Say, " None of the these matches" . If Not sure please Say " I am not sure "
+
+[USER RESPONSE]:
+my food item relates to her choice 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[ASSISTANT QUERY]:
+ I could not understand your response, kindly speak again
+
+[USER RESPONSE]:
+my food item relates to first race 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('snackfood', 2)
+('mars', 2)
+('milk', 2)
+
+[SYSTEM]:
+Contender List Strength : 4
+Size of Dictionary : 11
+
+[ASSISTANT QUERY]:
+4 Contender remain.. Say, first, for snackfood.  Or,Second for mars.  Or,  third for milk 
+
+[USER RESPONSE]:
+my food item too late to first race 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[ASSISTANT QUERY]:
+Based on your input, two items best match your food item Say, "My food item relates to first item." for candies-mars-snackfood-us-m-m-s-almond-chocolate-candies. Or Say, "My food item relates to second item." for candies-mars-snackfood-us-cocoavia-blueberry-and-almond-chocolate-bar
+
+[USER RESPONSE]:
+my food item relates to First Choice 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+candies-mars-snackfood-us-m-m-s-almond-chocolate-candies
+
+[SYSTEM]:
+======================== SELECTION OF FIRST FOOD ITEM: END ======================
+
+[SYSTEM]:
+======================== CALORIFIC INFORMATION : BEGIN ======================
+candies-mars-snackfood-us-m-m-s-almond-chocolate-candies
+Energy  :  522kcal
+Protein  :  7.53g
+Fat  :  27.76g
+Carbohydrate  :  60.50g
+Fiber  :  5.6g
+Sugar  :  49.22g
+Standard Quantity  :  100g
+
+
+[ASSISTANT QUERY]:
+Intake of per 100 gram of candies-mars-snackfood-us-m-m-s-almond-chocolate-candies will correspond to 522kcal
+
+[SYSTEM]:
+======================== CALORIFIC INFORMATION : END ======================

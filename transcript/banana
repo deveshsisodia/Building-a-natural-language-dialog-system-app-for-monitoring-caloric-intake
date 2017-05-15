@@ -1,0 +1,169 @@
+
+****************************************
+*******Speech Based Dialog System*******
+****************************************
+
+
+[SYSTEM]:
+Loading csv objects to memory..
+
+[SYSTEM]:
+CSV objects load to list complete, total: 8788
+
+[SYSTEM]:
+Dialog Manager setup complete..
+
+[SYSTEM]:
+========================= EXTRACT FOOD TOKENS : BEGIN ======================
+
+[ASSISTANT QUERY]:
+Let us work on your caloric intake. What did you eat today, David?
+
+[USER RESPONSE]:
+
+[SYSTEM]:
+Speech Recognition module could not understand audio
+
+
+[ASSISTANT QUERY]:
+Sorry David, can you repeat the food item names again.
+
+[USER RESPONSE]:
+I ate banana 
+
+[ASSISTANT QUERY]:
+Based on My Knowledge, these are the food items consumed by you: banana
+
+[SYSTEM]:
+FINAL FOOD ITEM TOKENS:::: [banana]
+
+[ASSISTANT QUERY]:
+David,Please say yes, if all the food items are covered.
+
+[USER RESPONSE]:
+okay 
+
+[ASSISTANT QUERY]:
+Let me get more information from you about these items to figure out your exact intake
+
+[SYSTEM]:
+======================== SELECTION OF FIRST FOOD ITEM: BEGIN ======================
+
+[SYSTEM]:
+juice  ,  strawberry  ,  babyfood  ,  
+
+[ASSISTANT QUERY]:
+For your selection banana , would you like to provide some description? For instance, you could tell me which restaurant you ate it from, or provide preparation information like raw, or cooked, boiled, or fried,roasted or grilled etcetra. Few suggestions for your current selection are: juice  ,  strawberry  ,  babyfood  ,  .. Say, 'No description' if you want to skip
+
+[USER RESPONSE]:
+no description 
+
+[ASSISTANT QUERY]:
+Thanks. Let's proceed further.
+
+[SYSTEM]:
+('babyfood', 12)
+('strawberry', 9)
+('juice', 9)
+
+[SYSTEM]:
+Contender List Strength : 40
+Size of Dictionary : 87
+
+[ASSISTANT QUERY]:
+Currently we have 40 choices which match your food item description. . Say, "My food item relates to first choice." for babyfood.  Or, "My food item relates to second choice." for strawberry.  Or,  "My food item relates to third choice." for juice .  If you have no descriptor matches please Say, " None of the these matches" . If Not sure please Say " I am not sure "
+
+[USER RESPONSE]:
+none of these 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+dict_size  : 53
+
+[SYSTEM]:
+('mix', 9)
+('dry', 9)
+('puddings', 8)
+
+[SYSTEM]:
+Contender List Strength : 20
+Size of Dictionary : 53
+
+[ASSISTANT QUERY]:
+20 Contender remain.. Say, first, for mix.  Or,Second for dry.  Or,  third for puddings 
+
+[USER RESPONSE]:
+I don't use the second item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('mix', 8)
+('puddings', 8)
+('instant', 5)
+
+[SYSTEM]:
+Contender List Strength : 9
+Size of Dictionary : 13
+
+[ASSISTANT QUERY]:
+9 Contender remain.. Say, first, for mix.  Or,Second for puddings.  Or,  third for instant 
+
+[USER RESPONSE]:
+I would like the Tire Choice 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[ASSISTANT QUERY]:
+ I could not understand your response, kindly speak again
+
+[USER RESPONSE]:
+I like to select the third choice 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('mix', 4)
+('puddings', 4)
+('milk', 2)
+
+[SYSTEM]:
+Contender List Strength : 5
+Size of Dictionary : 11
+
+[ASSISTANT QUERY]:
+5 Contender remain.. Say, first, for mix.  Or,Second for puddings.  Or,  third for milk 
+
+[USER RESPONSE]:
+none of these 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+dict_size  : 0
+
+[SYSTEM]:
+cereals-quaker-instant-oatmeal-banana-bread-dry
+
+[SYSTEM]:
+======================== SELECTION OF FIRST FOOD ITEM: END ======================
+
+[SYSTEM]:
+======================== CALORIFIC INFORMATION : BEGIN ======================
+cereals-quaker-instant-oatmeal-banana-bread-dry
+Energy  :  368kcal
+Protein  :  8.97g
+Fat  :  4.85g
+Carbohydrate  :  75.70g
+Fiber  :  6.7g
+Sugar  :  29.45g
+Standard Quantity  :  100g
+
+
+[ASSISTANT QUERY]:
+Intake of per 100 gram of cereals-quaker-instant-oatmeal-banana-bread-dry will correspond to 368kcal
+
+[SYSTEM]:
+======================== CALORIFIC INFORMATION : END ======================

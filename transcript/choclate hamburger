@@ -1,0 +1,317 @@
+****************************************
+*******Speech Based Dialog System*******
+****************************************
+
+
+[SYSTEM]:
+Loading csv objects to memory..
+
+[SYSTEM]:
+CSV objects load to list complete, total: 8788
+
+[SYSTEM]:
+Dialog Manager setup complete..
+
+[SYSTEM]:
+========================= EXTRACT FOOD TOKENS : BEGIN ======================
+
+[ASSISTANT QUERY]:
+Let us work on your caloric intake. What did you eat today, David?
+
+[USER RESPONSE]:
+plate and hamburger 
+
+[ASSISTANT QUERY]:
+Based on My Knowledge, these are the food items consumed by you: plate and hamburger
+
+[SYSTEM]:
+FINAL FOOD ITEM TOKENS:::: [plate and hamburger]
+
+[ASSISTANT QUERY]:
+David,Please say yes, if all the food items are covered.
+
+[USER RESPONSE]:
+no 
+
+[ASSISTANT QUERY]:
+ David, Mention the food items you had today with more detail
+
+[USER RESPONSE]:
+I ate chocolate and hamburger 
+
+[ASSISTANT QUERY]:
+Based on My Knowledge, these are the food items consumed by you: chocolate and hamburger
+
+[SYSTEM]:
+FINAL FOOD ITEM TOKENS:::: [chocolate and hamburger]
+
+[ASSISTANT QUERY]:
+David,Please say yes, if all the food items are covered.
+
+[USER RESPONSE]:
+okay 
+
+[ASSISTANT QUERY]:
+Let me get more information from you about these items to figure out your exact intake
+
+[SYSTEM]:
+======================== SELECTION OF FIRST FOOD ITEM: BEGIN ======================
+
+[ASSISTANT QUERY]:
+Please help me finalize your first food item. Say, "I had the first item" for chocolate, or, "I had the second item" for chocolate hamburger
+
+[USER RESPONSE]:
+
+[SYSTEM]:
+Speech Recognition module could not understand audio
+
+
+[ASSISTANT QUERY]:
+I could not understand, please provide your choice again.
+
+[USER RESPONSE]:
+I had the first item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+cookies  ,  milk  ,  candies  ,  
+
+[ASSISTANT QUERY]:
+For your selection chocolate , would you like to provide some description? For instance, you could tell me which restaurant you ate it from, or provide preparation information like raw, or cooked, boiled, or fried,roasted or grilled etcetra. Few suggestions for your current selection are: cookies  ,  milk  ,  candies  ,  .. Say, 'No description' if you want to skip
+
+[USER RESPONSE]:
+no distortion 
+
+[ASSISTANT QUERY]:
+Sorry, I could not find matches for your description. Please try explaining in a sentence. For example, 'I ate my dish at Burger King', or, ' My chicken was fried.'.. Say, 'No description' if you want to skip
+
+[USER RESPONSE]:
+Nordstrom 
+
+[ASSISTANT QUERY]:
+Thanks. Let's proceed further.
+
+[SYSTEM]:
+{'chocolate'}
+
+[SYSTEM]:
+('candies', 58)
+('milk', 58)
+('cookies', 57)
+
+[SYSTEM]:
+Contender List Strength : 282
+Size of Dictionary : 326
+
+[ASSISTANT QUERY]:
+Currently we have 282 choices which match your food item description. . Say, "My food item relates to first choice." for candies.  Or, "My food item relates to second choice." for milk.  Or,  "My food item relates to third choice." for cookies .  If you have no descriptor matches please Say, " None of the these matches" . If Not sure please Say " I am not sure "
+
+[USER RESPONSE]:
+none of these 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+dict_size  : 228
+
+[SYSTEM]:
+('mix', 23)
+('ice', 22)
+('bar', 18)
+
+[SYSTEM]:
+Contender List Strength : 136
+Size of Dictionary : 228
+
+[ASSISTANT QUERY]:
+136 Contender remain.. Say, first, for mix.  Or,Second for ice.  Or,  third for bar 
+
+[USER RESPONSE]:
+I would select the second item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('creams', 11)
+('cream', 10)
+('added', 7)
+
+[SYSTEM]:
+Contender List Strength : 21
+Size of Dictionary : 44
+
+[ASSISTANT QUERY]:
+21 Contender remain.. Say, first, for creams.  Or,Second for cream.  Or,  third for added 
+
+[USER RESPONSE]:
+I would select the first item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('breyers', 6)
+('light', 5)
+('natural', 3)
+
+[SYSTEM]:
+Contender List Strength : 11
+Size of Dictionary : 17
+
+[ASSISTANT QUERY]:
+11 Contender remain.. Say, first, for breyers.  Or,Second for light.  Or,  third for natural 
+
+[USER RESPONSE]:
+I would select the third item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[ASSISTANT QUERY]:
+Based on your input, three items best match your food item Say, "My food item relates to first item." for ice-creams-breyers-all-natural-light-vanilla-chocolate-strawberry. Or Say, "My food item relates to second item." for ice-creams-breyers-all-natural-light-french-chocolate.Or Say, "My food item relates to third item." for ice-creams-breyers-all-natural-light-mint-chocolate-chip
+
+[USER RESPONSE]:
+who dated relates to First Aid 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+ice-creams-breyers-all-natural-light-vanilla-chocolate-strawberry
+
+[SYSTEM]:
+======================== SELECTION OF FIRST FOOD ITEM: END ======================
+
+[SYSTEM]:
+======================== SELECTION OF SECOND FOOD ITEM: BEGIN ======================
+
+[SYSTEM]:
+fast  ,  foods  ,  patty  ,  
+
+[ASSISTANT QUERY]:
+For your selection hamburger , would you like to provide some description? For instance, you could tell me which restaurant you ate it from, or provide preparation information like raw, or cooked, boiled, or fried,roasted or grilled etcetra. Few suggestions for your current selection are: fast  ,  foods  ,  patty  ,  .. Say, 'No description' if you want to skip
+
+[USER RESPONSE]:
+good hamburger patty 
+
+[ASSISTANT QUERY]:
+Thanks. Let's proceed further.
+
+[SYSTEM]:
+('condiments', 10)
+('single', 8)
+('large', 7)
+
+[SYSTEM]:
+Contender List Strength : 13
+Size of Dictionary : 13
+
+[ASSISTANT QUERY]:
+13 Contender remain.. Say, first, for condiments.  Or,Second for single.  Or,  third for large 
+
+[USER RESPONSE]:
+I would select the third item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('condiments', 6)
+('vegetables', 4)
+('single', 4)
+
+[SYSTEM]:
+Contender List Strength : 7
+Size of Dictionary : 7
+
+[ASSISTANT QUERY]:
+7 Contender remain.. Say, first, for condiments.  Or,Second for vegetables.  Or,  third for single 
+
+[USER RESPONSE]:
+I want Select Auto Dayton 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[ASSISTANT QUERY]:
+ I could not understand your response, kindly speak again
+
+[USER RESPONSE]:
+I would select the second item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('mayonnaise', 2)
+('single', 2)
+('double', 2)
+
+[SYSTEM]:
+Contender List Strength : 4
+Size of Dictionary : 3
+
+[ASSISTANT QUERY]:
+4 Contender remain.. Say, first, for mayonnaise.  Or,Second for single.  Or,  third for double 
+
+[USER RESPONSE]:
+I want selected item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[ASSISTANT QUERY]:
+ I could not understand your response, kindly speak again
+
+[USER RESPONSE]:
+I want to select the second item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[ASSISTANT QUERY]:
+Based on your input, two items best match your food item Say, "My food item relates to first item." for fast-foods-hamburger-single-large-patty-with-condiments-and-vegetables. Or Say, "My food item relates to second item." for fast-foods-hamburger-single-large-patty-with-condiments-vegetables-and-mayonnaise
+
+[USER RESPONSE]:
+I would select the second item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+fast-foods-hamburger-single-large-patty-with-condiments-vegetables-and-mayonnaise
+
+[SYSTEM]:
+======================== SELECTION OF SECOND FOOD ITEM: END ======================
+
+[SYSTEM]:
+======================== CALORIFIC INFORMATION : BEGIN ======================
+ice-creams-breyers-all-natural-light-vanilla-chocolate-strawberry
+Energy  :  161kcal
+Protein  :  4.69g
+Fat  :  4.35g
+Carbohydrate  :  26.06g
+Fiber  :  0.4g
+Sugar  :  22.47g
+Standard Quantity  :  100g
+
+
+[ASSISTANT QUERY]:
+Intake of per 100 gram of ice-creams-breyers-all-natural-light-vanilla-chocolate-strawberry will correspond to 161kcal
+fast-foods-hamburger-single-large-patty-with-condiments-vegetables-and-mayonnaise
+Energy  :  226kcal
+Protein  :  11.34g
+Fat  :  12.37g
+Carbohydrate  :  17.33g
+Fiber  :  1.5g
+Sugar  :  4.00g
+Standard Quantity  :  100g
+
+
+[ASSISTANT QUERY]:
+Intake of per 100 gram of fast-foods-hamburger-single-large-patty-with-condiments-vegetables-and-mayonnaise will correspond to 226kcal
+
+[SYSTEM]:
+======================== CALORIFIC INFORMATION : END ======================

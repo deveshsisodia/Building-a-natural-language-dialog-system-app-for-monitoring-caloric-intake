@@ -282,3 +282,4 @@ class TaskManager:
         self.text_to_audio(
             "Intake of per {0} {1} of {2} will correspond to {3}".format(standard_quantity, unit, food_item,
                                                                          dict_food_item['Energy']))
+

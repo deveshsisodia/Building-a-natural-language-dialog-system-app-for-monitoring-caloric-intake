@@ -1,0 +1,179 @@
+
+****************************************
+*******Speech Based Dialog System*******
+****************************************
+
+
+[SYSTEM]:
+Loading csv objects to memory..
+
+[SYSTEM]:
+CSV objects load to list complete, total: 8788
+
+[SYSTEM]:
+Dialog Manager setup complete..
+
+[SYSTEM]:
+========================= EXTRACT FOOD TOKENS : BEGIN ======================
+
+[ASSISTANT QUERY]:
+Let us work on your caloric intake. What did you eat today, David?
+
+[USER RESPONSE]:
+
+[SYSTEM]:
+Speech Recognition module could not understand audio
+
+
+[ASSISTANT QUERY]:
+Sorry David, can you repeat the food item names again.
+
+[USER RESPONSE]:
+I had been cake 
+
+[ASSISTANT QUERY]:
+Based on My Knowledge, these are the food items consumed by you: cake
+
+[SYSTEM]:
+FINAL FOOD ITEM TOKENS:::: [cake]
+
+[ASSISTANT QUERY]:
+David,Please say yes, if all the food items are covered.
+
+[USER RESPONSE]:
+no 
+
+[ASSISTANT QUERY]:
+ David, Mention the food items you had today with more detail
+
+[USER RESPONSE]:
+I had pancakes 
+
+[ASSISTANT QUERY]:
+Based on My Knowledge, these are the food items consumed by you: pancakes
+
+[SYSTEM]:
+FINAL FOOD ITEM TOKENS:::: [pancakes]
+
+[ASSISTANT QUERY]:
+David,Please say yes, if all the food items are covered.
+
+[USER RESPONSE]:
+okay 
+
+[ASSISTANT QUERY]:
+Let me get more information from you about these items to figure out your exact intake
+
+[SYSTEM]:
+======================== SELECTION OF FIRST FOOD ITEM: BEGIN ======================
+
+[SYSTEM]:
+dry  ,  mix  ,  plain  ,  
+
+[ASSISTANT QUERY]:
+For your selection pancakes , would you like to provide some description? For instance, you could tell me which restaurant you ate it from, or provide preparation information like raw, or cooked, boiled, or fried,roasted or grilled etcetra. Few suggestions for your current selection are: dry  ,  mix  ,  plain  ,  .. Say, 'No description' if you want to skip
+
+[USER RESPONSE]:
+no description 
+
+[ASSISTANT QUERY]:
+Thanks. Let's proceed further.
+
+[SYSTEM]:
+('plain', 9)
+('mix', 9)
+('dry', 9)
+
+[SYSTEM]:
+Contender List Strength : 23
+Size of Dictionary : 35
+
+[ASSISTANT QUERY]:
+Currently we have 23 choices which match your food item description. . Say, "My food item relates to first choice." for plain.  Or, "My food item relates to second choice." for mix.  Or,  "My food item relates to third choice." for dry .  If you have no descriptor matches please Say, " None of the these matches" . If Not sure please Say " I am not sure "
+
+[USER RESPONSE]:
+my food item to lose to second choice 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('incomplete', 6)
+('plain', 5)
+('includes', 3)
+
+[SYSTEM]:
+Contender List Strength : 9
+Size of Dictionary : 13
+
+[ASSISTANT QUERY]:
+9 Contender remain.. Say, first, for incomplete.  Or,Second for plain.  Or,  third for includes 
+
+[USER RESPONSE]:
+
+[SYSTEM]:
+Speech Recognition module could not understand audio
+
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[ASSISTANT QUERY]:
+ I could not understand your response, kindly speak again
+
+[USER RESPONSE]:
+electric second choice 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('includes', 3)
+('buttermilk', 3)
+('incomplete', 3)
+
+[SYSTEM]:
+Contender List Strength : 5
+Size of Dictionary : 7
+
+[ASSISTANT QUERY]:
+5 Contender remain.. Say, first, for includes.  Or,Second for buttermilk.  Or,  third for incomplete 
+
+[USER RESPONSE]:
+I would select second choice 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[ASSISTANT QUERY]:
+Based on your input, three items best match your food item Say, "My food item relates to first item." for pancakes-plain-dry-mix-incomplete-includes-buttermilk. Or Say, "My food item relates to second item." for pancakes-plain-dry-mix-complete-includes-buttermilk.Or Say, "My food item relates to third item." for pancakes-plain-low-fat-dry-mix-incomplete-includes-buttermilk
+
+[USER RESPONSE]:
+Engineers to second date 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+pancakes-plain-dry-mix-complete-includes-buttermilk
+
+[SYSTEM]:
+======================== SELECTION OF FIRST FOOD ITEM: END ======================
+
+[SYSTEM]:
+======================== CALORIFIC INFORMATION : BEGIN ======================
+pancakes-plain-dry-mix-complete-includes-buttermilk
+Energy  :  368kcal
+Protein  :  9.77g
+Fat  :  3.10g
+Carbohydrate  :  73.65g
+Fiber  :  2.9g
+Sugar  :  16.03g
+Standard Quantity  :  100g
+
+
+[ASSISTANT QUERY]:
+Intake of per 100 gram of pancakes-plain-dry-mix-complete-includes-buttermilk will correspond to 368kcal
+
+[SYSTEM]:
+======================== CALORIFIC INFORMATION : END ======================

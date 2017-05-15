@@ -15,14 +15,21 @@ class DialogManager:
         self.task_manager_obj.text_to_audio('Let me get more information from you about these items to figure out '
                                             'your exact intake')
         result_list = []
+        experience = 1
         counter = 1
+        counter_dict = {1: 'FIRST', 2: 'SECOND', 3: 'THIRD', 4: 'FOURTH', 5: 'FIFTH'}
         while len(food_items_tokens) != 0:
+            # S = "======================== SELECTION OF ",counter_dict[counter]," FOOD ITEM: BEGIN ======================"
+            self.dialog_tracer_obj.sys_msg("======================== SELECTION OF " + counter_dict[counter] + " FOOD ITEM: BEGIN ======================")
             count = self._get_current_food_item_from_user(food_items_tokens, counter)
             counter += 1
-            result = self.get_standard_item(food_items_tokens[:count])
+            result = self.get_standard_item(food_items_tokens[:count],experience)
+            experience += 1
             del food_items_tokens[:count]
             if result != "null":
                 result_list.append(result)
+                self.dialog_tracer_obj.sys_msg(
+                    "======================== SELECTION OF " + counter_dict[counter - 1] + " FOOD ITEM: END ======================")
         return result_list
 
     # Finalizing the Food item if narrowed to less than equal to three item
@@ -110,6 +117,7 @@ class DialogManager:
 
     # Ask user for the food he had and return the Food Item tokens from it
     def get_food_items_tokens_from_user(self, user_name):
+        self.dialog_tracer_obj.sys_msg("========================= EXTRACT FOOD TOKENS : BEGIN ======================")
         food_tokens = self._get_food_consumption_from_user(user_name, False)
         satisfied = self._confirm_food_items_from_user(user_name, food_tokens)
 
@@ -122,6 +130,7 @@ class DialogManager:
             self.task_manager_obj.text_to_audio('I am sorry {0}, But the food items mentioned by you did not match '
                                                 'my knowledge'.format(user_name))
             sys.exit()
+            self.dialog_tracer_obj.sys_msg("========================= EXTRACT FOOD TOKENS : END ======================")
         return food_tokens
 
     #
@@ -236,22 +245,33 @@ class DialogManager:
         return token_set, dict_freq, list(set(result))
 
     # Throw user set of 3 most probable desriptors , and get feedback
-    def ask_user_choice_from_items(self, item_list, contender_list, dict_freq):
+    def ask_user_choice_from_items(self, item_list, contender_list, dict_freq,experience):
+        item = str(item_list[0]) + "\n" + str(item_list[1]) + "\n" + str(item_list[2])
         item_1 = item_list[0][0]
         item_2 = item_list[1][0]
         item_3 = item_list[2][0]
-        self.dialog_tracer_obj.sys_msg(item_list[0])
-        self.dialog_tracer_obj.sys_msg(item_list[1])
-        self.dialog_tracer_obj.sys_msg(item_list[2])
+        self.dialog_tracer_obj.sys_msg(item)
+        #self.dialog_tracer_obj.sys_msg(item_list[0])
+        #self.dialog_tracer_obj.sys_msg(item_list[1])
+        #self.dialog_tracer_obj.sys_msg(item_list[2])
         contender_len = len(contender_list)
-        self.dialog_tracer_obj.sys_msg("Contender List Strength : {0}".format(contender_len))
-        self.dialog_tracer_obj.sys_msg("Size of Dictionary : {0}".format(len(dict_freq)))
-        self.task_manager_obj.text_to_audio('Currently we have {3} choices which match your food item description. '
+        display = "Contender List Strength : " + str(contender_len) + "\nSize of Dictionary : " + str(len(dict_freq))
+        # self.dialog_tracer_obj.sys_msg("Contender List Strength : {0}".format(contender_len))
+        # self.dialog_tracer_obj.sys_msg("Size of Dictionary : {0}".format(len(dict_freq)))
+        self.dialog_tracer_obj.sys_msg(display)
+
+        if(experience == 1):
+            self.task_manager_obj.text_to_audio('Currently we have {3} choices which match your food item description. '
                                             '. Say, \"My food item relates to first choice.\" for {0}.  Or, \"My food '
                                             'item relates to second choice.\" for {1}.  Or,  \"My food item relates '
                                             'to third choice.\" for {2} .  If you have no descriptor matches please '
                                             'Say, \" None of the these matches\" . If Not sure please Say \" I am not '
                                             'sure \"'.format(item_1, item_2, item_3, contender_len))
+        else:
+            self.task_manager_obj.text_to_audio('{3} Contender remain.'
+                                                '. Say, first, for {0}.  Or,'
+                                                'Second for {1}.  Or,  '
+                                                'third for {2} '.format(item_1, item_2, item_3, contender_len))
 
         audio_response = self.task_manager_obj.audio_to_text()
         audio_response = audio_response.lower().strip()
@@ -309,12 +329,12 @@ class DialogManager:
 
     # Get reponse from the user whether he selected a descriptor or not sure or none of these and
     # accordingly manage the freq dictionary And Contender List
-    def get_response(self, sorted_list_freq, contender_list, dict_freq):
+    def get_response(self, sorted_list_freq, contender_list, dict_freq, experience ):
         if len(sorted_list_freq) < 3 or len(dict_freq) < 3 or len(contender_list) <= 3:
             if len(dict_freq) < 3 < len(contender_list):
                 contender_list = contender_list[:3]
             return "-----", contender_list, dict_freq
-        response = self.ask_user_choice_from_items(list(reversed(sorted_list_freq[-3:])), contender_list, dict_freq)
+        response = self.ask_user_choice_from_items(list(reversed(sorted_list_freq[-3:])), contender_list, dict_freq,experience)
         while response == 'none' or response == 'not sure':
             if response == 'none':
                 contender_list, dict_freq = self.task_manager_obj.dict_contender_updator_for_none(
@@ -329,14 +349,16 @@ class DialogManager:
                 if len(dict_freq) < 3 < len(contender_list):
                     contender_list = contender_list[:3]
                 return "-----", contender_list, dict_freq
-            response = self.ask_user_choice_from_items(list(reversed(sorted_list_freq[-3:])), contender_list, dict_freq)
+            experience = experience +1
+            response = self.ask_user_choice_from_items(list(reversed(sorted_list_freq[-3:])), contender_list, dict_freq,experience)
         return response, contender_list, dict_freq
 
     # Iteratively tries to reduce the list of items unless the list is less than equal to 3
-    def narrow_list(self, contender_list, dict_freq):
+    def narrow_list(self, contender_list, dict_freq , experience):
         while len(contender_list) >= 3:
             sorted_list_freq = sorted(dict_freq.items(), key=operator.itemgetter(1))
-            response, contender_list, dict_freq = self.get_response(sorted_list_freq, contender_list, dict_freq)
+            response, contender_list, dict_freq = self.get_response(sorted_list_freq, contender_list, dict_freq,experience)
+            experience += 1
             if response == "-----":
                 break
             contender_list, dict_freq = self.task_manager_obj.reduce_list(contender_list, response, dict_freq)
@@ -346,17 +368,21 @@ class DialogManager:
         return result
 
     # Returning the Food item based on the Food Tokens
-    def get_standard_item(self, food_items):
+    def get_standard_item(self, food_items, experience):
         token_set, dict_freq, contender_list = self.get_usda_obj(food_items)
         if len(contender_list) == 0:
             return "null"
-        result = self.narrow_list(contender_list, dict_freq)
+        result = self.narrow_list(contender_list, dict_freq, experience)
         self.dialog_tracer_obj.sys_msg(result)
         return result
 
     # Displaying the Calorific Intake for Each Item
     def show_food_items_with_calories(self, final_usda_food_items):
+        self.dialog_tracer_obj.sys_msg(
+            "======================== CALORIFIC INFORMATION : BEGIN ======================")
         if len(final_usda_food_items) == 0:
             self.dialog_tracer_obj.sys_msg("No Item to Display")
         for food_item in final_usda_food_items:
             self.task_manager_obj.display_item(food_item)
+        self.dialog_tracer_obj.sys_msg(
+            "======================== CALORIFIC INFORMATION : END ======================")

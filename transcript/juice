@@ -1,0 +1,199 @@
+****************************************
+*******Speech Based Dialog System*******
+****************************************
+
+
+[SYSTEM]:
+Loading csv objects to memory..
+
+[SYSTEM]:
+CSV objects load to list complete, total: 8788
+
+[SYSTEM]:
+Dialog Manager setup complete..
+
+[SYSTEM]:
+========================= EXTRACT FOOD TOKENS : BEGIN ======================
+
+[ASSISTANT QUERY]:
+Let us work on your caloric intake. What did you eat today, David?
+
+[USER RESPONSE]:
+juice 
+
+[ASSISTANT QUERY]:
+Based on My Knowledge, these are the food items consumed by you: juice
+
+[SYSTEM]:
+FINAL FOOD ITEM TOKENS:::: [juice]
+
+[ASSISTANT QUERY]:
+David,Please say yes, if all the food items are covered.
+
+[USER RESPONSE]:
+yes 
+
+[ASSISTANT QUERY]:
+Let me get more information from you about these items to figure out your exact intake
+
+[SYSTEM]:
+======================== SELECTION OF FIRST FOOD ITEM: BEGIN ======================
+
+[SYSTEM]:
+fruit  ,  canned  ,  beverages  ,  
+
+[ASSISTANT QUERY]:
+For your selection juice , would you like to provide some description? For instance, you could tell me which restaurant you ate it from, or provide preparation information like raw, or cooked, boiled, or fried,roasted or grilled etcetra. Few suggestions for your current selection are: fruit  ,  canned  ,  beverages  ,  .. Say, 'No description' if you want to skip
+
+[USER RESPONSE]:
+description 
+
+[ASSISTANT QUERY]:
+Sorry, I could not find matches for your description. Please try explaining in a sentence. For example, 'I ate my dish at Burger King', or, ' My chicken was fried.'.. Say, 'No description' if you want to skip
+
+[USER RESPONSE]:
+no description 
+
+[ASSISTANT QUERY]:
+Thanks. Let's proceed further.
+
+[SYSTEM]:
+('beverages', 51)
+('canned', 44)
+('fruit', 39)
+
+[SYSTEM]:
+Contender List Strength : 189
+Size of Dictionary : 177
+
+[ASSISTANT QUERY]:
+Currently we have 189 choices which match your food item description. . Say, "My food item relates to first choice." for beverages.  Or, "My food item relates to second choice." for canned.  Or,  "My food item relates to third choice." for fruit .  If you have no descriptor matches please Say, " None of the these matches" . If Not sure please Say " I am not sure "
+
+[USER RESPONSE]:
+I'm not sure 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('added', 33)
+('drink', 31)
+('apple', 28)
+
+[SYSTEM]:
+Contender List Strength : 189
+Size of Dictionary : 174
+
+[ASSISTANT QUERY]:
+189 Contender remain.. Say, first, for added.  Or,Second for drink.  Or,  third for apple 
+
+[USER RESPONSE]:
+I want to take the second item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('vitamin', 11)
+('cranberry', 7)
+('added', 6)
+
+[SYSTEM]:
+Contender List Strength : 31
+Size of Dictionary : 47
+
+[ASSISTANT QUERY]:
+31 Contender remain.. Say, first, for vitamin.  Or,Second for cranberry.  Or,  third for added 
+
+[USER RESPONSE]:
+I'm not sure 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('concentrate', 6)
+('frozen', 6)
+('orange', 5)
+
+[SYSTEM]:
+Contender List Strength : 31
+Size of Dictionary : 44
+
+[ASSISTANT QUERY]:
+31 Contender remain.. Say, first, for concentrate.  Or,Second for frozen.  Or,  third for orange 
+
+[USER RESPONSE]:
+I want to lick the first item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('water', 3)
+('prepared', 3)
+('citrus', 2)
+
+[SYSTEM]:
+Contender List Strength : 6
+Size of Dictionary : 8
+
+[ASSISTANT QUERY]:
+6 Contender remain.. Say, first, for water.  Or,Second for prepared.  Or,  third for citrus 
+
+[USER RESPONSE]:
+I'm not sure 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('pulp', 2)
+('type', 2)
+('breakfast', 2)
+
+[SYSTEM]:
+Contender List Strength : 6
+Size of Dictionary : 5
+
+[ASSISTANT QUERY]:
+6 Contender remain.. Say, first, for pulp.  Or,Second for type.  Or,  third for breakfast 
+
+[USER RESPONSE]:
+I would select the first item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[ASSISTANT QUERY]:
+Based on your input, two items best match your food item Say, "My food item relates to first item." for beverages-orange-drink-breakfast-type-with-juice-and-pulp-frozen-concentrate. Or Say, "My food item relates to second item." for beverages-orange-drink-breakfast-type-with-juice-and-pulp-frozen-concentrate-prepared-with-water
+
+[USER RESPONSE]:
+I want to select the first item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+beverages-orange-drink-breakfast-type-with-juice-and-pulp-frozen-concentrate
+
+[SYSTEM]:
+======================== SELECTION OF FIRST FOOD ITEM: END ======================
+
+[SYSTEM]:
+======================== CALORIFIC INFORMATION : BEGIN ======================
+beverages-orange-drink-breakfast-type-with-juice-and-pulp-frozen-concentrate
+Energy  :  153kcal
+Protein  :  0.40g
+Fat  :  0.00g
+Carbohydrate  :  39.00g
+Fiber  :  0.1g
+Sugar  :  38.05g
+Standard Quantity  :  100g
+
+
+[ASSISTANT QUERY]:
+Intake of per 100 gram of beverages-orange-drink-breakfast-type-with-juice-and-pulp-frozen-concentrate will correspond to 153kcal
+
+[SYSTEM]:
+======================== CALORIFIC INFORMATION : END ======================

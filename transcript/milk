@@ -1,0 +1,183 @@
+
+****************************************
+*******Speech Based Dialog System*******
+****************************************
+
+
+[SYSTEM]:
+Loading csv objects to memory..
+
+[SYSTEM]:
+CSV objects load to list complete, total: 8788
+
+[SYSTEM]:
+Dialog Manager setup complete..
+
+[SYSTEM]:
+========================= EXTRACT FOOD TOKENS : BEGIN ======================
+
+[ASSISTANT QUERY]:
+Let us work on your caloric intake. What did you eat today, David?
+
+[USER RESPONSE]:
+I have skimmed milk 
+
+[ASSISTANT QUERY]:
+Based on My Knowledge, these are the food items consumed by you: milk
+
+[SYSTEM]:
+FINAL FOOD ITEM TOKENS:::: [milk]
+
+[ASSISTANT QUERY]:
+David,Please say yes, if all the food items are covered.
+
+[USER RESPONSE]:
+yes 
+
+[ASSISTANT QUERY]:
+Let me get more information from you about these items to figure out your exact intake
+
+[SYSTEM]:
+======================== SELECTION OF FIRST FOOD ITEM: BEGIN ======================
+
+[SYSTEM]:
+vitamin  ,  whole  ,  prepared  ,  
+
+[ASSISTANT QUERY]:
+For your selection milk , would you like to provide some description? For instance, you could tell me which restaurant you ate it from, or provide preparation information like raw, or cooked, boiled, or fried,roasted or grilled etcetra. Few suggestions for your current selection are: vitamin  ,  whole  ,  prepared  ,  .. Say, 'No description' if you want to skip
+
+[USER RESPONSE]:
+description 
+
+[ASSISTANT QUERY]:
+Sorry, I could not find matches for your description. Please try explaining in a sentence. For example, 'I ate my dish at Burger King', or, ' My chicken was fried.'.. Say, 'No description' if you want to skip
+
+[USER RESPONSE]:
+no description 
+
+[ASSISTANT QUERY]:
+Thanks. Let's proceed further.
+
+[SYSTEM]:
+('prepared', 88)
+('whole', 62)
+('vitamin', 61)
+
+[SYSTEM]:
+Contender List Strength : 212
+Size of Dictionary : 250
+
+[ASSISTANT QUERY]:
+Currently we have 212 choices which match your food item description. . Say, "My food item relates to first choice." for prepared.  Or, "My food item relates to second choice." for whole.  Or,  "My food item relates to third choice." for vitamin .  If you have no descriptor matches please Say, " None of the these matches" . If Not sure please Say " I am not sure "
+
+[USER RESPONSE]:
+my food items list to second choice 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('prepared', 47)
+('mix', 26)
+('dry', 19)
+
+[SYSTEM]:
+Contender List Strength : 62
+Size of Dictionary : 84
+
+[ASSISTANT QUERY]:
+62 Contender remain.. Say, first, for prepared.  Or,Second for mix.  Or,  third for dry 
+
+[USER RESPONSE]:
+I would select the first item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('mix', 26)
+('dry', 17)
+('cereal', 13)
+
+[SYSTEM]:
+Contender List Strength : 47
+Size of Dictionary : 58
+
+[ASSISTANT QUERY]:
+47 Contender remain.. Say, first, for mix.  Or,Second for dry.  Or,  third for cereal 
+
+[USER RESPONSE]:
+none of these 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+dict_size  : 13
+
+[SYSTEM]:
+('mashed', 7)
+('potatoes', 7)
+('added', 6)
+
+[SYSTEM]:
+Contender List Strength : 8
+Size of Dictionary : 13
+
+[ASSISTANT QUERY]:
+8 Contender remain.. Say, first, for mashed.  Or,Second for potatoes.  Or,  third for added 
+
+[USER RESPONSE]:
+I'm not sure 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+('without', 4)
+('home', 3)
+('dehydrated', 3)
+
+[SYSTEM]:
+Contender List Strength : 8
+Size of Dictionary : 10
+
+[ASSISTANT QUERY]:
+8 Contender remain.. Say, first, for without.  Or,Second for home.  Or,  third for dehydrated 
+
+[USER RESPONSE]:
+I would select the second item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[ASSISTANT QUERY]:
+Based on your input, three items best match your food item Say, "My food item relates to first item." for potatoes-mashed-home-prepared-whole-milk-and-margarine-added. Or Say, "My food item relates to second item." for potatoes-mashed-home-prepared-whole-milk-added.Or Say, "My food item relates to third item." for potatoes-mashed-home-prepared-whole-milk-and-butter-added
+
+[USER RESPONSE]:
+I want to lick the third item 
+
+[ASSISTANT QUERY]:
+Thanks for your response
+
+[SYSTEM]:
+potatoes-mashed-home-prepared-whole-milk-and-butter-added
+
+[SYSTEM]:
+======================== SELECTION OF FIRST FOOD ITEM: END ======================
+
+[SYSTEM]:
+======================== CALORIFIC INFORMATION : BEGIN ======================
+potatoes-mashed-home-prepared-whole-milk-and-butter-added
+Energy  :  113kcal
+Protein  :  1.86g
+Fat  :  4.22g
+Carbohydrate  :  16.81g
+Fiber  :  1.5g
+Sugar  :  1.43g
+Standard Quantity  :  100g
+
+
+[ASSISTANT QUERY]:
+Intake of per 100 gram of potatoes-mashed-home-prepared-whole-milk-and-butter-added will correspond to 113kcal
+
+[SYSTEM]:
+======================== CALORIFIC INFORMATION : END ======================

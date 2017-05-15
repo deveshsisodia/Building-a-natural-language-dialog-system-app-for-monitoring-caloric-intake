@@ -37,7 +37,7 @@ class SpeechProcessor:
         self.rec_obj = sr.Recognizer()
         self.tracer_obj = DialogTracer(True)
 
-    def _get_audio_from_mic(self, timeout=10):
+    def _get_audio_from_mic(self, timeout = 10):
         with ignore_stderr():
             with sr.Microphone() as source:
                 audio = self.rec_obj.listen(source, timeout=timeout)
