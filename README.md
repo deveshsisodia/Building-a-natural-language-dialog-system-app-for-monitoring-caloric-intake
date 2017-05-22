@@ -6,6 +6,7 @@
 	Prasoon Rai (prrai@cs.stonybrook.edu)
 	Devesh Sisodia (dsisodia@cs.stonybrook.edu)
 
+	For detailed explaination and logical flow, we recommend to go through our report in the repository.
 
 	1 Introduction
 	"A Natural Dialogue System is a form of dialogue system that tries to improve usability and user satisfaction
@@ -17,6 +18,7 @@
 	related dietary information about the consumption. The system exercises a series of dialogues with the
 	user in order to extract precise information about the food items consumed, before finalizing the best
 	match with the database and reporting calorie values.
+
 	2 Spoken Dialog Systems
 	Before discussing our design, we briefly list the components involved typically in a speech based dialog
 	system[2]:
@@ -38,3 +40,22 @@
 	 Domain Reasoner/Task Manager: The domain reasoner, or more simply the back-end, makes
 	use of a knowledge base to retrieve information and helps formulate system responses. In simple
 	systems, this may be a database which is queried using information collected through the dialog.
+
+	3.) Installation Procedure :
+	Make sure to install below python modules before running the script:
+	import re
+	import os
+	import sys
+	import slugify import slugify
+	import urllib.request import urlopen
+	import urllib.request import urlretrieve
+	import bs4 import BeautifulSoup
+	import pathlib import Path
+	import glob import glob
+	import pickle
+	import operator
+	import nltk
+	import contextlib
+	import speech_recognition
+
+	In case your system needs additional package import, proceed as suggested.
