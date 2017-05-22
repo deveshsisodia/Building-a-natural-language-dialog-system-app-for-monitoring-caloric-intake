@@ -46,12 +46,12 @@
 	import re
 	import os
 	import sys
-	import slugify import slugify
-	import urllib.request import urlopen
-	import urllib.request import urlretrieve
-	import bs4 import BeautifulSoup
-	import pathlib import Path
-	import glob import glob
+	import slugify 
+	import urllib.request 
+	import urllib.request 
+	import bs4 
+	import pathlib 
+	import glob 
 	import pickle
 	import operator
 	import nltk
