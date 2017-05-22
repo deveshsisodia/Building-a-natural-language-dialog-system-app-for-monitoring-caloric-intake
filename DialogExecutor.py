@@ -19,8 +19,8 @@ class MainInterface:
 
     # Evaluating Calorific Intake of user based on food items eaten by him
     def execute_dialog(self):
-        # self.user_name = self.dialog_manager_obj.get_user_name_from_user()
-        self.user_name = 'David'
+        self.user_name = self.dialog_manager_obj.get_user_name_from_user()
+        # self.user_name = 'David'
         self.food_items_tokens = self.dialog_manager_obj.get_food_items_tokens_from_user(self.user_name)
         # self.food_items_tokens = ['chicken','burger']
         self.final_usda_food_items = self.dialog_manager_obj.get_all_usda_food_items_from_user(self.food_items_tokens)
